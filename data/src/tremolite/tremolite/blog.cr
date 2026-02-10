@@ -93,10 +93,12 @@ class Tremolite::Blog
       exif_db_path: @data_manager.not_nil!.exif_db.exif_db_file_parent_path,
     )
 
-    # 8. PostCollection (needs paths; late-bound deps set below)
+    # 8. PostCollection (needs paths)
     @post_collection = Tremolite::PostCollection.new(
       posts_path: @posts_path,
       posts_ext: @posts_ext,
+      data_path: @data_path,
+      output_path: @output_path,
     )
 
     # --- Wire late-bound dependencies ---
@@ -108,9 +110,7 @@ class Tremolite::Blog
 
     # Validator needs area_data_loader + posts (set lazily after post init in make_it_so)
 
-    # PostCollection needs paths + deps for Post construction
-    @post_collection.not_nil!.data_path = @data_path
-    @post_collection.not_nil!.output_path = @output_path
+    # PostCollection needs photo_tags for Post construction
     @post_collection.not_nil!.photo_tags = @data_manager.not_nil!.photo_tags
 
     # Renderer needs data_manager and mod_watcher for custom renderer

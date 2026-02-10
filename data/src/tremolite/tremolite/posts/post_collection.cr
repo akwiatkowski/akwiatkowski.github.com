@@ -3,14 +3,14 @@ require "./post"
 class Tremolite::PostCollection
   Log = ::Log.for(self)
 
-  # Late-bound dependencies (set after construction)
-  property data_path : String = ""
-  property output_path : String = ""
+  # Late-bound dependency (set before initialize_posts)
   property markdown_wrapper : Tremolite::MarkdownWrapper?
 
   def initialize(
     @posts_path : String,
     @posts_ext : String,
+    @data_path : String = "",
+    @output_path : String = "",
   )
     # when latest Post was updated
     # used in RSS/Atom
