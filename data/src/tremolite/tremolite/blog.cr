@@ -57,21 +57,13 @@ class Tremolite::Blog
     # 2. Validator (needs html_buffer)
     @validator = Tremolite::Validator.new(html_buffer: @html_buffer.not_nil!)
 
-    # 3. Renderer (needs html_buffer + paths)
-    @renderer = Tremolite::Renderer.new(
-      html_buffer: @html_buffer.not_nil!,
-      data_path: @data_path,
-      output_path: @output_path,
-      assets_path: @assets_path,
-    )
-
-    # 4. ImageResizer (needs paths)
+    # 3. ImageResizer (needs paths)
     @image_resizer = Tremolite::ImageResizer.new(
       data_path: @data_path,
       output_path: @output_path,
     )
 
-    # 5. DataManager (needs paths + html_buffer)
+    # 4. DataManager (needs paths + html_buffer)
     @data_manager = Tremolite::DataManager.new(
       config_path: @config_path.to_s,
       data_path: @data_path,
@@ -82,15 +74,28 @@ class Tremolite::Blog
       html_buffer: @html_buffer.not_nil!,
     )
 
-    # 6. MarkdownWrapper — lazy initialized (needs context which needs self)
+    # 5. MarkdownWrapper — lazy initialized (needs context which needs self)
 
-    # 7. ModWatcher (needs file_path + paths for current_state_of)
+    # 6. ModWatcher (needs file_path + paths for current_state_of)
     @mod_watcher = Tremolite::ModWatcher.new(
       file_path: @mod_watcher_yaml_path,
       posts_path: @posts_path,
       posts_ext: @posts_ext,
       data_path: @data_path,
       exif_db_path: @data_manager.not_nil!.exif_db.exif_db_file_parent_path,
+    )
+
+    # 7. Renderer (needs all deps — created after they exist)
+    @renderer = Tremolite::Renderer.new(
+      html_buffer: @html_buffer.not_nil!,
+      data_path: @data_path,
+      output_path: @output_path,
+      assets_path: @assets_path,
+      validator: @validator.not_nil!,
+      url_to_output_path_proc: ->url_to_output_path(String),
+      image_resizer: @image_resizer.not_nil!,
+      data_manager: @data_manager,
+      mod_watcher: @mod_watcher,
     )
 
     # 8. PostCollection (needs paths)
@@ -101,21 +106,8 @@ class Tremolite::Blog
       output_path: @output_path,
     )
 
-    # --- Wire late-bound dependencies ---
-
-    # Renderer needs validator + url_to_output_path + image_resizer
-    @renderer.not_nil!.validator = @validator
-    @renderer.not_nil!.url_to_output_path_proc = ->url_to_output_path(String)
-    @renderer.not_nil!.image_resizer = @image_resizer
-
-    # Validator needs area_data_loader + posts (set lazily after post init in make_it_so)
-
     # PostCollection needs photo_tags for Post construction
     @post_collection.not_nil!.photo_tags = @data_manager.not_nil!.photo_tags
-
-    # Renderer needs data_manager and mod_watcher for custom renderer
-    @renderer.not_nil!.data_manager = @data_manager
-    @renderer.not_nil!.mod_watcher = @mod_watcher
   end
 
   def initialize_posts

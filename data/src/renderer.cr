@@ -18,10 +18,17 @@ require "./views/special_view/all"
 require "./views/model_view/all"
 
 class Tremolite::Renderer
-  # Late-bound dependencies for custom renderer
+  # Set via constructor (passed from Blog)
+  def data_manager : Tremolite::DataManager
+    @data_manager.not_nil!
+  end
+
+  def mod_watcher : Tremolite::ModWatcher
+    @mod_watcher.not_nil!
+  end
+
+  # Late-bound: set after post initialization
   property all_posts : Array(Tremolite::Post)?
-  property data_manager : Tremolite::DataManager?
-  property mod_watcher : Tremolite::ModWatcher?
 
   def dev_render
     # do nothing
@@ -48,7 +55,7 @@ class Tremolite::Renderer
 
       total_km = bicycle_km + hike_km
 
-      s = @data_manager.not_nil!["site.desc"].to_s
+      s = data_manager["site.desc"].to_s
       {
         "total_km"    => total_km.to_i,
         "total_hours" => total_hours.to_i,
@@ -73,7 +80,7 @@ class Tremolite::Renderer
   # return Array(String) of all ModWatcher keys, posts, ...
   # to decide which renderers to run
   def all_mod_watchers
-    @mod_watcher.not_nil!.all_mod_watchers
+    mod_watcher.all_mod_watchers
   end
 
   # Public interface for RenderContext to render views

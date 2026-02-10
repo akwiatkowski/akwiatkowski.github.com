@@ -11,15 +11,16 @@ class Tremolite::Renderer
     @data_path : String,
     @output_path : String,
     @assets_path : String,
+    @validator : Tremolite::Validator,
+    @url_to_output_path_proc : Proc(String, String),
+    @image_resizer : Tremolite::ImageResizer,
+    @data_manager : Tremolite::DataManager? = nil,
+    @mod_watcher : Tremolite::ModWatcher? = nil,
   )
   end
 
-  # Late-bound dependencies (set after construction)
-  property validator : Tremolite::Validator?
-  property url_to_output_path_proc : Proc(String, String)?
-
   private def url_to_output_path(url : String) : String
-    @url_to_output_path_proc.not_nil!.call(url)
+    @url_to_output_path_proc.call(url)
   end
 
   def render
@@ -32,19 +33,15 @@ class Tremolite::Renderer
     render_all
   end
 
-  # Late-bound: image resizer and posts for process_images
-  property image_resizer : Tremolite::ImageResizer?
+  # Late-bound: posts for process_images (set after post initialization)
   property posts_for_resize : Array(Tremolite::Post)?
 
   # Resize all post images to small, thumb, ...
   private def process_images(overwrite : Bool)
     Log.info { "Start image resize" }
 
-    resizer = @image_resizer
-    return unless resizer
-
     (@posts_for_resize || [] of Tremolite::Post).each do |post|
-      resizer.resize_all_images_for_post(post: post, overwrite: overwrite)
+      @image_resizer.resize_all_images_for_post(post: post, overwrite: overwrite)
     end
 
     Log.info { "End image resize" }
@@ -88,7 +85,7 @@ class Tremolite::Renderer
     view,
   )
     # for checking conflicting paths
-    @validator.try(&.url_written(url))
+    @validator.url_written(url)
 
     # only check if output html was modified
     # input modification is stored elsewhere
