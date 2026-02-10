@@ -229,6 +229,19 @@ module PostView
 
         route_info = String.build do |s|
           s << %(<div class="post-route-stats">)
+          if @post.bicycle?
+            s << %(<span class="activity-badge">🚴 rowerem</span>)
+          elsif @post.hike? && (@post.distance || 0) > 0
+            s << %(<span class="activity-badge">🥾 pieszo</span>)
+          elsif @post.train?
+            s << %(<span class="activity-badge">🚆 pociągiem</span>)
+          elsif @post.bus?
+            s << %(<span class="activity-badge">🚌 autobusem</span>)
+          elsif @post.car?
+            s << %(<span class="activity-badge">🚗 samochodem</span>)
+          elsif @post.walk?
+            s << %(<span class="activity-badge">🚶 spacer</span>)
+          end
           if @post.distance
             s << %(<span>📍 #{@post.distance.not_nil!.to_i} km</span>)
           end
