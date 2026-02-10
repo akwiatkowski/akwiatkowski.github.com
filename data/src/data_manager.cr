@@ -6,6 +6,7 @@ require "./services/preloaded_post_referenced_links"
 require "./services/photo_coord_quant_cache"
 require "./services/area_data_loader"
 require "./services/area_photo_selector"
+require "./services/photo_analysis_cache"
 
 require "./data_manager/exif_db"
 require "./data_manager/photo_map_dictionary"
@@ -55,6 +56,10 @@ class Tremolite::DataManager
       data_path: @data_path,
       photo_tags: @photo_tags.not_nil!
     )
+    @photo_analysis_cache = PhotoAnalysisCache.new(
+      cache_path: @cache_path,
+      data_path: @data_path
+    )
     @photo_map_dictionary = PhotoMapDictionary.new(
       output_path: @output_path
     )
@@ -88,6 +93,10 @@ class Tremolite::DataManager
 
   def exif_db
     return @exif_db.not_nil!
+  end
+
+  def photo_analysis_cache
+    return @photo_analysis_cache.not_nil!
   end
 
   def preloaded_post_referenced_links

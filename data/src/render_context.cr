@@ -138,6 +138,10 @@ class RenderContext
     config.exif_db
   end
 
+  def photo_analysis_cache
+    config.photo_analysis_cache
+  end
+
   def photo_coord_quant_cache
     config.photo_coord_quant_cache.not_nil!
   end

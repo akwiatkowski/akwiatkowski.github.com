@@ -21,6 +21,7 @@ class PostRenderer
     @ctx : RenderContext,
     @image_resizer : Tremolite::ImageResizer,
     @exif_db : ExifDb,
+    @photo_analysis_cache : PhotoAnalysisCache,
   )
   end
 
@@ -73,6 +74,9 @@ class PostRenderer
     Log.debug { "#{post.slug} - init EXIF" }
     init_exif(post)
 
+    Log.debug { "#{post.slug} - init photo analysis" }
+    init_photo_analysis(post)
+
     Log.debug { "#{post.slug} - render article" }
     render_article(post, hide_not_finished)
 
@@ -81,6 +85,9 @@ class PostRenderer
 
     Log.debug { "#{post.slug} - save EXIF cache" }
     save_exif_cache(post)
+
+    Log.debug { "#{post.slug} - save photo analysis cache" }
+    save_photo_analysis_cache(post)
 
     Log.info { "#{post.slug} - DONE (with galleries)" }
   end
@@ -97,6 +104,9 @@ class PostRenderer
 
     Log.debug { "#{post.slug} - save EXIF cache" }
     save_exif_cache(post)
+
+    Log.debug { "#{post.slug} - save photo analysis cache" }
+    save_photo_analysis_cache(post)
 
     Log.debug { "#{post.slug} - DONE (content only)" }
   end
@@ -116,6 +126,12 @@ class PostRenderer
     @exif_db.initialize_post_photos_exif(post)
   end
 
+  private def init_photo_analysis(post : Tremolite::Post)
+    filenames = post.published_photo_entities.map(&.image_filename) +
+                post.list_of_uploaded_photos
+    @photo_analysis_cache.process_photos(post.slug, filenames.uniq)
+  end
+
   private def render_article(post : Tremolite::Post, hide_not_finished : Bool)
     @ctx.write_output(PostView::ArticleView.new(
       context: @ctx,
@@ -131,5 +147,9 @@ class PostRenderer
 
   private def save_exif_cache(post : Tremolite::Post)
     @exif_db.save_cache(post.slug)
+  end
+
+  private def save_photo_analysis_cache(post : Tremolite::Post)
+    @photo_analysis_cache.save_cache(post.slug)
   end
 end
