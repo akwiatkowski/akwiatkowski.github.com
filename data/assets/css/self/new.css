@@ -536,6 +536,22 @@ body {
   content: '🥾';
 }
 
+.icon-train::before {
+  content: '🚆';
+}
+
+.icon-bus::before {
+  content: '🚌';
+}
+
+.icon-car::before {
+  content: '🚗';
+}
+
+.icon-walk::before {
+  content: '🚶';
+}
+
 .icon-photo::before {
   content: '📷';
 }
