@@ -435,6 +435,9 @@
   time: 2016-07-21 16:23:55.000000000+02:00
 - image_filename: IMGP3491raw1.jpg
   post_slug: 2016-07-21-grania-tatr-zachodnich-na-wolowiec
+  lat: 49.23640833333334
+  lon: 19.788352777777778
+  altitude: 1160.7
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5

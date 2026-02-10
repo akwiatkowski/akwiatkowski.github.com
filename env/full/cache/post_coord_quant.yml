@@ -6820,9 +6820,9 @@
       not_common_size: 0
       days_diff: 1385
     2017-12-29-dotarcie-do-pasterki:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 1454
     2020-10-17-spacer-do-bielawy:
       common_factor: 50
@@ -6877,9 +6877,9 @@
       not_common_size: 0
       days_diff: 1384
     2017-12-29-dotarcie-do-pasterki:
-      common_factor: 50
-      common_size: 1
-      not_common_size: 1
+      common_factor: 100
+      common_size: 2
+      not_common_size: 0
       days_diff: 1453
     2020-10-17-spacer-do-bielawy:
       common_factor: 50
@@ -22312,6 +22312,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 539
+    2017-12-29-dotarcie-do-pasterki:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 607
     2018-07-07-plasko-zle-gory-zle:
       common_factor: 25
       common_size: 1
@@ -22434,9 +22439,9 @@
       not_common_size: 0
       days_diff: 537
     2017-12-29-dotarcie-do-pasterki:
-      common_factor: 25
-      common_size: 1
-      not_common_size: 3
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
       days_diff: 606
     2018-07-07-plasko-zle-gory-zle:
       common_factor: 25
@@ -23737,6 +23742,11 @@
       common_size: 1
       not_common_size: 7
       days_diff: 329
+    2018-01-08-wschod-nad-baltykiem:
+      common_factor: 12
+      common_size: 1
+      not_common_size: 7
+      days_diff: 526
     2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
       common_factor: 25
       common_size: 2
@@ -34040,6 +34050,11 @@
       common_size: 1
       not_common_size: 11
       days_diff: 232
+    2018-01-08-wschod-nad-baltykiem:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 271
     2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018:
       common_factor: 8
       common_size: 1
@@ -41059,9 +41074,9 @@
       not_common_size: 4
       days_diff: 1
     2017-12-29-dotarcie-do-pasterki:
-      common_factor: 20
-      common_size: 1
-      not_common_size: 4
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
       days_diff: 69
     2018-01-20-trudno-trafic-na-zimowy-zachod-slonca:
       common_factor: 20
@@ -42561,85 +42576,102 @@
 2017-12-29-dotarcie-do-pasterki:
   related_posts:
     2013-10-19-fotowarsztaty-w-gorach-stolowych:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1531
     2014-01-03-okolice-gluszycy:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1455
     2014-01-04-przez-wielka-sowe-do-kamionek:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 1454
     2014-01-05-przez-przelecz-jugowska-powrot-do-schroniska-orzel:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 1453
     2014-01-06-powrot-do-gluszycy:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1452
     2014-10-19-fotowarsztaty-w-gorach-stolowych:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1166
     2016-02-22-narty-w-zielencu:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 675
-    2016-05-01-z-klodzka-do-gluszycy:
-      common_factor: 50
+    2016-04-30-przez-srebrna-gore-do-henrykowa:
+      common_factor: 33
       common_size: 1
+      not_common_size: 2
+      days_diff: 607
+    2016-05-01-z-klodzka-do-gluszycy:
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 606
     2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 605
     2017-10-21-pociagiem-przez-gory-sowie:
-      common_factor: 50
-      common_size: 1
+      common_factor: 66
+      common_size: 2
       not_common_size: 1
       days_diff: 69
     2017-12-30-wschod-na-szczelincu-wielkim:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 1
     2017-12-31-wokol-szczelinca-wielkiego:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 2
     2018-01-02-jak-wydostac-sie-z-gor-stolowych:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 4
     2018-12-31-kiedy-nie-jechac-do-pragi:
-      common_factor: 50
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
       days_diff: 367
-    2020-10-18-sowie-wioski:
-      common_factor: 50
+    2020-10-17-spacer-do-bielawy:
+      common_factor: 33
       common_size: 1
-      not_common_size: 1
+      not_common_size: 2
+      days_diff: 1023
+    2020-10-18-sowie-wioski:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
       days_diff: 1024
+    2022-08-01-przygoda-z-elektrykiem:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 1676
   quants:
   - lat: 50.4
     lon: 16.4
   - lat: 50.600002
     lon: 16.4
+  - lat: 50.600002
+    lon: 16.6
 2017-12-30-wschod-na-szczelincu-wielkim:
   related_posts:
     2013-10-19-fotowarsztaty-w-gorach-stolowych:
@@ -42790,77 +42822,104 @@
     lon: 19.0
 2018-01-08-wschod-nad-baltykiem:
   related_posts:
-    2017-07-08-pomorska-petla-kolejowa:
-      common_factor: 100
+    2016-07-30-z-pily-do-bydgoszczy-przez-bagdad:
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
+      days_diff: 526
+    2017-04-11-pociagiem-przez-paluki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 271
+    2017-07-08-pomorska-petla-kolejowa:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
       days_diff: 183
     2018-02-02-plaza-w-sopocie-noca:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 25
     2018-02-03-fokarium-na-helu:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 26
     2018-02-04-orlowskie-kamyczki:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 27
     2018-02-04-stare-miasto-w-gdansku:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 27
     2018-02-05-wschod-slonca-w-sopocie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 28
     2018-03-04-zamarzniety-baltyk-w-orlowie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 55
     2018-03-05-wschod-nad-zamarznietym-baltykiem:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 56
     2018-09-05-zdjecia-w-sopocie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 239
     2018-11-29-wietrzne-orlowo:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 325
     2018-11-29-gdansk-wieczorem:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 325
     2019-02-24-dwa-wschody-w-sopocie:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 411
     2019-02-24-nadmorskie-ptaki:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 412
     2019-02-24-gdansk-po-zmroku:
-      common_factor: 100
+      common_factor: 50
       common_size: 1
-      not_common_size: 0
+      not_common_size: 1
       days_diff: 412
+    2020-07-04-poludniowe-okolice-krajenskiego-parku:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 908
+    2020-07-21-szukajac-zboza-przed-zniwami:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 925
+    2024-05-03-dawno-nie-bylo-tak-ciezko:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 2307
   quants:
+  - lat: 53.2
+    lon: 18.0
   - lat: 54.4
     lon: 18.6
 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca:
@@ -70556,6 +70615,11 @@
       common_size: 1
       not_common_size: 8
       days_diff: 1055
+    2018-01-08-wschod-nad-baltykiem:
+      common_factor: 11
+      common_size: 1
+      not_common_size: 8
+      days_diff: 908
     2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
       common_factor: 33
       common_size: 3
@@ -70830,6 +70894,11 @@
       common_size: 2
       not_common_size: 5
       days_diff: 1122
+    2018-01-08-wschod-nad-baltykiem:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 925
     2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
       common_factor: 28
       common_size: 2
@@ -72856,6 +72925,11 @@
       common_size: 1
       not_common_size: 1
       days_diff: 1090
+    2017-12-29-dotarcie-do-pasterki:
+      common_factor: 50
+      common_size: 1
+      not_common_size: 1
+      days_diff: 1023
     2018-07-07-plasko-zle-gory-zle:
       common_factor: 50
       common_size: 1
@@ -96102,6 +96176,11 @@
       common_size: 1
       not_common_size: 0
       days_diff: 1745
+    2017-12-29-dotarcie-do-pasterki:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1676
     2020-10-17-spacer-do-bielawy:
       common_factor: 100
       common_size: 1
@@ -104949,6 +105028,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 2490
+    2018-01-08-wschod-nad-baltykiem:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 2307
     2018-04-16-pociagiem-z-koscierzyny-do-gniezna:
       common_factor: 28
       common_size: 2

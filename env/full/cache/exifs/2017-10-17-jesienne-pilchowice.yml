@@ -57,6 +57,9 @@
   time: 2017-10-17 14:16:59.000000000+02:00
 - image_filename: IMGP1053raw1.jpg
   post_slug: 2017-10-17-jesienne-pilchowice
+  lat: 50.901380555555555
+  lon: 15.735194444444444
+  altitude: 342.9
   focal_length: 23.0
   focal_length_35: 34.0
   crop: 1.4782608695652173

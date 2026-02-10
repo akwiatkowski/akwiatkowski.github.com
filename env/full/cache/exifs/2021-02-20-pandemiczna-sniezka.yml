@@ -1,6 +1,9 @@
 ---
 - image_filename: 2021_02_19__18_22__2190271.jpg
   post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.76894166666666
+  lon: 15.728244444444444
+  altitude: 762.3
   focal_length: 150.0
   focal_length_35: 300.0
   crop: 2.0

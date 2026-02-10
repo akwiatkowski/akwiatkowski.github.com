@@ -1,3 +1,4 @@
 [tools]
 crystal = "latest"
 npm = "latest"
+python = "3"

@@ -559,6 +559,9 @@
   time: 2021-05-11 19:39:26.000000000+02:00
 - image_filename: 2021_05_11__19_43__5115425.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.831386111111115
+  lon: 16.93437777777778
+  altitude: 99.5
   focal_length: 75.0
   focal_length_35: 150.0
   crop: 2.0
@@ -880,6 +883,9 @@
   time: 2021-05-11 20:02:13.000000000+02:00
 - image_filename: 2021_05_11__20_12__5115517.jpg
   post_slug: 2021-05-11-z-murowanej-gosliny-do-sokolowa-budzynskiego
+  lat: 52.83555555555556
+  lon: 16.970924999999998
+  altitude: 117.8
   focal_length: 28.0
   focal_length_35: 56.0
   crop: 2.0

@@ -295,6 +295,9 @@
   time: 2018-02-02 21:30:03.000000000+01:00
 - image_filename: IMGP5212raw1.jpg
   post_slug: 2018-02-02-plaza-w-sopocie-noca
+  lat: 54.446688888888886
+  lon: 18.569844444444445
+  altitude: 0.4
   focal_length: 20.0
   focal_length_35: 30.0
   crop: 1.5

@@ -420,6 +420,9 @@
   time: 2019-10-06 15:40:54.000000000+02:00
 - image_filename: 2019_10_06__16_58_DSC00882.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.57590833333334
+  lon: 17.010158333333333
+  altitude: 71.7
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
@@ -434,6 +437,9 @@
   time: 2019-10-06 16:58:34.000000000+02:00
 - image_filename: 2019_10_06__16_58__A060158.jpg
   post_slug: 2019-10-06-jesienne-okolice-puszczy-zielonki
+  lat: 52.575897222222224
+  lon: 17.010158333333333
+  altitude: 71.7
   focal_length: 31.0
   focal_length_35: 62.0
   crop: 2.0

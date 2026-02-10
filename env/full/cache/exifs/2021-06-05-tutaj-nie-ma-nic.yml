@@ -289,6 +289,9 @@
   time: 2021-06-05 11:47:43.000000000+02:00
 - image_filename: 2021_06_05__12_11__6050485.jpg
   post_slug: 2021-06-05-tutaj-nie-ma-nic
+  lat: 51.47081111111111
+  lon: 16.6139
+  altitude: 215.1
   focal_length: 50.0
   focal_length_35: 100.0
   crop: 2.0
@@ -304,6 +307,9 @@
   time: 2021-06-05 12:11:58.000000000+02:00
 - image_filename: 2021_06_05__12_12__6050486.jpg
   post_slug: 2021-06-05-tutaj-nie-ma-nic
+  lat: 51.47081111111111
+  lon: 16.6139
+  altitude: 215.1
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
@@ -913,6 +919,9 @@
   time: 2021-06-05 15:54:33.000000000+02:00
 - image_filename: 2021_06_05__16_01__6050637.jpg
   post_slug: 2021-06-05-tutaj-nie-ma-nic
+  lat: 51.59780833333333
+  lon: 16.16888888888889
+  altitude: 132.4
   focal_length: 47.0
   focal_length_35: 94.0
   crop: 2.0
@@ -928,6 +937,9 @@
   time: 2021-06-05 16:01:33.000000000+02:00
 - image_filename: 2021_06_05__16_17__6050649.jpg
   post_slug: 2021-06-05-tutaj-nie-ma-nic
+  lat: 51.59780833333333
+  lon: 16.16888888888889
+  altitude: 133.0
   focal_length: 44.0
   focal_length_35: 88.0
   crop: 2.0

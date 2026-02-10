@@ -127,6 +127,9 @@
   time: 2018-05-06 12:03:02.000000000+02:00
 - image_filename: IMGP8911raw1.jpg
   post_slug: 2018-05-06-petla-wokol-jeziora-borzechowskiego
+  lat: 53.955511111111115
+  lon: 18.397183333333334
+  altitude: 118.4
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -278,6 +281,9 @@
   time: 2018-05-06 17:50:59.000000000+02:00
 - image_filename: IMGP8983raw1.jpg
   post_slug: 2018-05-06-petla-wokol-jeziora-borzechowskiego
+  lat: 53.786944444444444
+  lon: 17.991252777777778
+  altitude: 125.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5

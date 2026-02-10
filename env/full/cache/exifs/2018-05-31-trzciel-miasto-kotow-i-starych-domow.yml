@@ -49,6 +49,9 @@
   time: 2018-05-31 18:52:54.000000000+02:00
 - image_filename: P5311397raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.360680555555554
+  lon: 15.892155555555554
+  altitude: 42.0
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
@@ -94,6 +97,9 @@
   time: 2018-05-31 19:05:16.000000000+02:00
 - image_filename: P5311435raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.35265277777778
+  lon: 15.89058611111111
+  altitude: 46.8
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -107,6 +113,9 @@
   time: 2018-05-31 19:12:00.000000000+02:00
 - image_filename: P5311440raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.352811111111116
+  lon: 15.8911
+  altitude: 45.9
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -120,6 +129,9 @@
   time: 2018-05-31 19:13:41.000000000+02:00
 - image_filename: P5311470raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36836666666667
+  lon: 15.88855
+  altitude: 44.4
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -229,6 +241,9 @@
   time: 2018-05-31 20:31:44.000000000+02:00
 - image_filename: P5311529raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36700555555556
+  lon: 15.878372222222223
+  altitude: 46.3
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -274,6 +289,9 @@
   time: 2018-05-31 20:37:12.000000000+02:00
 - image_filename: P5311546raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36684722222222
+  lon: 15.878077777777778
+  altitude: 46.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -287,6 +305,9 @@
   time: 2018-05-31 20:37:17.000000000+02:00
 - image_filename: P5311550raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36685
+  lon: 15.878055555555555
+  altitude: 46.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -300,6 +321,9 @@
   time: 2018-05-31 20:37:48.000000000+02:00
 - image_filename: P5311555raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36685
+  lon: 15.878044444444445
+  altitude: 46.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -329,6 +353,9 @@
   time: 2018-05-31 20:42:48.000000000+02:00
 - image_filename: P5311570raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36646944444445
+  lon: 15.874550000000001
+  altitude: 49.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -342,6 +369,9 @@
   time: 2018-05-31 20:44:20.000000000+02:00
 - image_filename: P5311576raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36488333333333
+  lon: 15.873811111111111
+  altitude: 48.2
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -371,6 +401,9 @@
   time: 2018-05-31 20:54:15.000000000+02:00
 - image_filename: P5311581raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36385277777778
+  lon: 15.873366666666668
+  altitude: 48.7
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -384,6 +417,9 @@
   time: 2018-05-31 20:56:06.000000000+02:00
 - image_filename: P5311591raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36443333333334
+  lon: 15.87325
+  altitude: 49.2
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -413,6 +449,9 @@
   time: 2018-05-31 21:13:33.000000000+02:00
 - image_filename: P5311606raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36675
+  lon: 15.878025000000001
+  altitude: 45.3
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -458,6 +497,9 @@
   time: 2018-05-31 21:32:23.000000000+02:00
 - image_filename: P5311623raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.370197222222224
+  lon: 15.883486111111111
+  altitude: 44.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -487,6 +529,9 @@
   time: 2018-05-31 21:37:03.000000000+02:00
 - image_filename: P5311626raw1.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36982777777778
+  lon: 15.886177777777778
+  altitude: 44.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -500,6 +545,9 @@
   time: 2018-05-31 21:38:26.000000000+02:00
 - image_filename: P5311626raw2.jpg
   post_slug: 2018-05-31-trzciel-miasto-kotow-i-starych-domow
+  lat: 52.36982777777778
+  lon: 15.886177777777778
+  altitude: 44.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0

@@ -415,6 +415,9 @@
   time: 2019-02-24 06:56:53.000000000+01:00
 - image_filename: 2019_02_24__07_33__2241859_01.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44993333333333
+  lon: 18.568330555555555
+  altitude: 3.4
   focal_length: 52.0
   focal_length_35: 104.0
   crop: 2.0
@@ -430,6 +433,9 @@
   time: 2019-02-24 07:33:24.000000000+01:00
 - image_filename: 2019_02_24__07_47__2241866.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45033055555556
+  lon: 18.56768888888889
+  altitude: 2.9
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -445,6 +451,9 @@
   time: 2019-02-24 07:47:34.000000000+01:00
 - image_filename: 2019_02_24__07_49__2241870.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45039444444445
+  lon: 18.56758333333333
+  altitude: 2.8
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -460,6 +469,9 @@
   time: 2019-02-24 07:49:54.000000000+01:00
 - image_filename: 2019_02_24__07_50__2241871.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45041388888889
+  lon: 18.567552777777777
+  altitude: 2.8
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -475,6 +487,9 @@
   time: 2019-02-24 07:50:36.000000000+01:00
 - image_filename: 2019_02_24__07_52__2241873_02.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45045555555556
+  lon: 18.567486111111112
+  altitude: 2.7
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0
@@ -490,6 +505,9 @@
   time: 2019-02-24 07:52:04.000000000+01:00
 - image_filename: 2019_02_24__07_57__2241879_02.jpg
   post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45061944444445
+  lon: 18.567219444444444
+  altitude: 2.5
   focal_length: 9.0
   focal_length_35: 18.0
   crop: 2.0

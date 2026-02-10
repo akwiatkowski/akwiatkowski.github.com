@@ -197,6 +197,9 @@
   time: 2018-05-02 12:25:10.000000000+02:00
 - image_filename: IMGP8502raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851327777777776
+  lon: 18.400502777777778
+  altitude: 105.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -208,6 +211,9 @@
   time: 2018-05-02 13:57:00.000000000+02:00
 - image_filename: IMGP8505raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851327777777776
+  lon: 18.400502777777778
+  altitude: 105.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -219,6 +225,9 @@
   time: 2018-05-02 13:58:10.000000000+02:00
 - image_filename: IMGP8506raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851330555555556
+  lon: 18.40050833333333
+  altitude: 105.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -230,6 +239,9 @@
   time: 2018-05-02 14:07:11.000000000+02:00
 - image_filename: IMGP8508raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851330555555556
+  lon: 18.40050833333333
+  altitude: 106.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -241,6 +253,9 @@
   time: 2018-05-02 14:12:14.000000000+02:00
 - image_filename: IMGP8510raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851330555555556
+  lon: 18.40051111111111
+  altitude: 106.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -266,6 +281,9 @@
   time: 2018-05-02 14:15:43.000000000+02:00
 - image_filename: IMGP8515raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851330555555556
+  lon: 18.40051111111111
+  altitude: 106.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -277,6 +295,9 @@
   time: 2018-05-02 14:15:52.000000000+02:00
 - image_filename: IMGP8518raw1.jpg
   post_slug: 2018-05-02-dojazd-na-kociewie
+  lat: 53.851330555555556
+  lon: 18.40051111111111
+  altitude: 106.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

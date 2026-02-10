@@ -286,6 +286,9 @@
   time: 2014-10-19 07:53:55.000000000+02:00
 - image_filename: IMGP1172raw1.jpg
   post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.485530555555556
+  lon: 16.33963333333333
+  altitude: 898.7
   focal_length: 135.0
   focal_length_35: 202.0
   crop: 1.4962962962962962
@@ -298,6 +301,9 @@
   time: 2014-10-19 08:02:45.000000000+02:00
 - image_filename: IMGP1197raw1b.jpg
   post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48550277777778
+  lon: 16.33966111111111
+  altitude: 897.9
   focal_length: 135.0
   focal_length_35: 202.0
   crop: 1.4962962962962962

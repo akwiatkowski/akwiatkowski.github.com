@@ -1,6 +1,9 @@
 ---
 - image_filename: 2020_01_17__14_29__1170148.jpg
   post_slug: 2020-01-17-dotarcie-do-szczawna-zdroj
+  lat: 50.785013888888884
+  lon: 16.284655555555556
+  altitude: 362.1
   focal_length: 29.0
   focal_length_35: 58.0
   crop: 2.0

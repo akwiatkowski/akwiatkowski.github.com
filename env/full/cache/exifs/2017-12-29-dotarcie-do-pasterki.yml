@@ -15,6 +15,9 @@
   time: 2017-12-29 08:33:43.000000000+01:00
 - image_filename: IMGP3723raw1.jpg
   post_slug: 2017-12-29-dotarcie-do-pasterki
+  lat: 50.579525000000004
+  lon: 16.501561111111112
+  altitude: 411.7
   focal_length: 24.0
   focal_length_35: 36.0
   crop: 1.5

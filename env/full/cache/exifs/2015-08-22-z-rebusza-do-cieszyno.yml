@@ -166,6 +166,9 @@
   time: 2015-08-22 16:51:35.000000000+02:00
 - image_filename: IMGP2901raw1.jpg
   post_slug: 2015-08-22-z-rebusza-do-cieszyno
+  lat: 53.5899
+  lon: 16.035966666666667
+  altitude: 126.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -178,6 +181,9 @@
   time: 2015-08-22 18:40:55.000000000+02:00
 - image_filename: IMGP2956raw1.jpg
   post_slug: 2015-08-22-z-rebusza-do-cieszyno
+  lat: 53.58928055555556
+  lon: 16.039605555555557
+  altitude: 130.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

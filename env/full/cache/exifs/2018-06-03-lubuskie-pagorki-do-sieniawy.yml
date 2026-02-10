@@ -517,6 +517,9 @@
   time: 2018-06-03 12:44:09.000000000+02:00
 - image_filename: P6031973raw1.jpg
   post_slug: 2018-06-03-lubuskie-pagorki-do-sieniawy
+  lat: 52.37396666666667
+  lon: 15.457447222222221
+  altitude: 86.9
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0

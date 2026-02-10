@@ -241,6 +241,9 @@
   time: 2015-07-25 20:20:32.000000000+02:00
 - image_filename: IMGP2162raw1.jpg
   post_slug: 2015-07-25-zachodnia-czesc-doliny-baryczy-od-zmigrodu
+  lat: 51.51284444444445
+  lon: 16.971702777777775
+  altitude: 90.9
   focal_length: 135.0
   focal_length_35: 202.0
   crop: 1.4962962962962962

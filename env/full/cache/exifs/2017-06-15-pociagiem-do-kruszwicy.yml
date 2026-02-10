@@ -239,6 +239,9 @@
   time: 2017-06-15 13:15:07.000000000+02:00
 - image_filename: header.jpg
   post_slug: 2017-06-15-pociagiem-do-kruszwicy
+  lat: 52.676602777777774
+  lon: 18.314247222222225
+  altitude: 84.0
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5

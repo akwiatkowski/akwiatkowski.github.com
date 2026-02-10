@@ -127,6 +127,9 @@
   time: 2017-04-16 15:14:38.000000000+02:00
 - image_filename: IMGP4333raw1.jpg
   post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.64118055555556
+  lon: 17.772813888888887
+  altitude: 113.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -222,6 +225,9 @@
   time: 2017-04-16 16:18:12.000000000+02:00
 - image_filename: header.jpg
   post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.687036111111105
+  lon: 17.86414166666667
+  altitude: 117.7
   focal_length: 29.0
   focal_length_35: 43.0
   crop: 1.4827586206896552

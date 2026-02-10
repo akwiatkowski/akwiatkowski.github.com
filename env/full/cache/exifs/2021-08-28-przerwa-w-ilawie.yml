@@ -139,6 +139,9 @@
   time: 2021-08-28 19:38:48.000000000+02:00
 - image_filename: 2021_08_28__19_49__8283339.jpg
   post_slug: 2021-08-28-przerwa-w-ilawie
+  lat: 53.59446388888889
+  lon: 19.56567777777778
+  altitude: 97.7
   focal_length: 25.0
   focal_length_35: 50.0
   crop: 2.0

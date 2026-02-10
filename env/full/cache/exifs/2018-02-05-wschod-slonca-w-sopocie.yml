@@ -43,6 +43,9 @@
   time: 2018-02-05 07:41:54.000000000+01:00
 - image_filename: IMGP5706raw1.jpg
   post_slug: 2018-02-05-wschod-slonca-w-sopocie
+  lat: 54.45890555555556
+  lon: 18.562719444444443
+  altitude: 46.6
   focal_length: 18.0
   focal_length_35: 27.0
   crop: 1.5

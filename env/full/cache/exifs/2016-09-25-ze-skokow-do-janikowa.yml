@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP6973raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.683586111111104
+  lon: 17.269780555555556
+  altitude: 108.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -12,6 +15,9 @@
   time: 2016-09-25 10:50:52.000000000+02:00
 - image_filename: IMGP6980raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.69682222222222
+  lon: 17.390844444444443
+  altitude: 112.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -37,6 +43,9 @@
   time: 2016-09-25 11:38:32.000000000+02:00
 - image_filename: IMGP7004raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.71241388888889
+  lon: 17.609747222222225
+  altitude: 102.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -48,6 +57,9 @@
   time: 2016-09-25 12:36:33.000000000+02:00
 - image_filename: IMGP7019raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.739755555555554
+  lon: 17.76665
+  altitude: 92.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -59,6 +71,9 @@
   time: 2016-09-25 13:27:17.000000000+02:00
 - image_filename: IMGP7020raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.73911666666667
+  lon: 17.821144444444442
+  altitude: 92.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -70,6 +85,9 @@
   time: 2016-09-25 13:41:44.000000000+02:00
 - image_filename: IMGP7023raw1.jpg
   post_slug: 2016-09-25-ze-skokow-do-janikowa
+  lat: 52.746833333333335
+  lon: 17.85418055555556
+  altitude: 105.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

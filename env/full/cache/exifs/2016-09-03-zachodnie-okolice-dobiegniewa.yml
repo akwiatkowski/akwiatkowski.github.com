@@ -253,6 +253,9 @@
   time: 2016-09-03 18:18:12.000000000+02:00
 - image_filename: IMGP5781raw1.jpg
   post_slug: 2016-09-03-zachodnie-okolice-dobiegniewa
+  lat: 52.96941388888889
+  lon: 15.755638888888889
+  altitude: 68.4
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -264,6 +267,9 @@
   time: 2016-09-03 19:39:30.000000000+02:00
 - image_filename: IMGP5784raw1.jpg
   post_slug: 2016-09-03-zachodnie-okolice-dobiegniewa
+  lat: 52.96942777777778
+  lon: 15.75553888888889
+  altitude: 68.6
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5

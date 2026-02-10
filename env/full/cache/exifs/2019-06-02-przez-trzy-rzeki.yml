@@ -1135,6 +1135,9 @@
   time: 2019-06-02 16:40:06.000000000+02:00
 - image_filename: 2019_06_02__16_40_P6020023.jpg
   post_slug: 2019-06-02-przez-trzy-rzeki
+  lat: 52.743186111111115
+  lon: 15.4161
+  altitude: 31.9
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
@@ -1312,6 +1315,9 @@
   time: 2019-06-02 16:45:48.000000000+02:00
 - image_filename: 2019_06_02__16_47_P6020105_01.jpg
   post_slug: 2019-06-02-przez-trzy-rzeki
+  lat: 52.743383333333334
+  lon: 15.41635
+  altitude: 32.3
   focal_length: 92.0
   focal_length_35: 184.0
   crop: 2.0

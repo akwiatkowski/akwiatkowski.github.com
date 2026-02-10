@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP5085raw1.jpg
   post_slug: 2016-08-26-powrot-z-przedgorza-sudeckiego
+  lat: 50.94844166666666
+  lon: 16.523219444444443
+  altitude: 197.1
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -12,6 +15,9 @@
   time: 2016-08-26 09:37:56.000000000+02:00
 - image_filename: IMGP5103raw1.jpg
   post_slug: 2016-08-26-powrot-z-przedgorza-sudeckiego
+  lat: 50.92986944444444
+  lon: 16.56743611111111
+  altitude: 203.5
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -23,6 +29,9 @@
   time: 2016-08-26 09:54:32.000000000+02:00
 - image_filename: IMGP5108raw1.jpg
   post_slug: 2016-08-26-powrot-z-przedgorza-sudeckiego
+  lat: 50.94792222222222
+  lon: 16.592683333333333
+  altitude: 170.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -62,6 +71,9 @@
   time: 2016-08-26 11:12:29.000000000+02:00
 - image_filename: IMGP5130raw1.jpg
   post_slug: 2016-08-26-powrot-z-przedgorza-sudeckiego
+  lat: 51.16403611111111
+  lon: 16.593752777777777
+  altitude: 131.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -73,6 +85,9 @@
   time: 2016-08-26 12:41:02.000000000+02:00
 - image_filename: IMGP5135raw1.jpg
   post_slug: 2016-08-26-powrot-z-przedgorza-sudeckiego
+  lat: 51.164049999999996
+  lon: 16.593869444444444
+  altitude: 130.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

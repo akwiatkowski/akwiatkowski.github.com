@@ -99,6 +99,9 @@
   time: 2018-01-07 14:58:28.000000000+01:00
 - image_filename: IMGP4361raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35461111111111
+  lon: 18.938469444444443
+  altitude: 7.1
   focal_length: 33.0
   focal_length_35: 49.0
   crop: 1.4848484848484849
@@ -110,6 +113,9 @@
   time: 2018-01-07 15:03:20.000000000+01:00
 - image_filename: IMGP4364raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354622222222226
+  lon: 18.938480555555557
+  altitude: 7.1
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -177,6 +183,9 @@
   time: 2018-01-07 15:10:41.000000000+01:00
 - image_filename: IMGP4379raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.354619444444445
+  lon: 18.938477777777777
+  altitude: 5.6
   focal_length: 500.0
   focal_length_35: 750.0
   crop: 1.5
@@ -286,6 +295,9 @@
   time: 2018-01-07 15:41:00.000000000+01:00
 - image_filename: IMGP4477raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.35426388888889
+  lon: 18.93841666666667
+  altitude: 7.6
   focal_length: 10.0
   focal_length_35: 15.0
   crop: 1.5
@@ -311,6 +323,9 @@
   time: 2018-01-07 15:44:07.000000000+01:00
 - image_filename: IMGP4481raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.3542
+  lon: 18.938288888888888
+  altitude: 7.1
   focal_length: 10.0
   focal_length_35: 15.0
   crop: 1.5
@@ -378,6 +393,9 @@
   time: 2018-01-07 15:56:39.000000000+01:00
 - image_filename: IMGP4496raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.353547222222225
+  lon: 18.93766111111111
+  altitude: 7.1
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -403,6 +421,9 @@
   time: 2018-01-07 15:59:46.000000000+01:00
 - image_filename: IMGP4502raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.352161111111116
+  lon: 18.94106111111111
+  altitude: 5.9
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -414,6 +435,9 @@
   time: 2018-01-07 16:03:59.000000000+01:00
 - image_filename: IMGP4503raw1.jpg
   post_slug: 2018-01-07-mewia-lacha
+  lat: 54.351886111111114
+  lon: 18.941366666666667
+  altitude: 8.6
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178

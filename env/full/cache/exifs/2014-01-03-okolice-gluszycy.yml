@@ -106,6 +106,9 @@
   time: 2014-01-03 15:01:04.000000000+01:00
 - image_filename: IMGP2572raw1.jpg
   post_slug: 2014-01-03-okolice-gluszycy
+  lat: 50.67729444444444
+  lon: 16.397508333333334
+  altitude: 517.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

@@ -123,4 +123,4 @@ test-e2e-smoke:
 
 # Photo analysis setup (Python + imagehash)
 setup-photo-analysis:
-	pip install -q -r requirements.txt
+	pip3 install -q -r requirements.txt

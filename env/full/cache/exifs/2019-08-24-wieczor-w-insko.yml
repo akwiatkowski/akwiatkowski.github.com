@@ -145,6 +145,9 @@
   time: 2019-08-24 18:16:55.000000000+02:00
 - image_filename: 2019_08_24__19_14_P8240291.jpg
   post_slug: 2019-08-24-wieczor-w-insko
+  lat: 53.43631111111111
+  lon: 15.549752777777778
+  altitude: 116.0
   focal_length: 21.0
   focal_length_35: 42.0
   crop: 2.0
@@ -160,6 +163,9 @@
   time: 2019-08-24 19:14:40.000000000+02:00
 - image_filename: 2019_08_24__19_15_P8240294.jpg
   post_slug: 2019-08-24-wieczor-w-insko
+  lat: 53.43631388888888
+  lon: 15.549783333333334
+  altitude: 116.0
   focal_length: 88.0
   focal_length_35: 176.0
   crop: 2.0

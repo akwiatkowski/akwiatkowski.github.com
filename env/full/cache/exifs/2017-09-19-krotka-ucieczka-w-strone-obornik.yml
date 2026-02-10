@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP0550raw1.jpg
   post_slug: 2017-09-19-krotka-ucieczka-w-strone-obornik
+  lat: 52.46342777777778
+  lon: 16.903444444444442
+  altitude: 91.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5

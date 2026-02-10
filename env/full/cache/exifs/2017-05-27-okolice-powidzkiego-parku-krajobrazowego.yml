@@ -239,6 +239,9 @@
   time: 2017-05-27 14:54:06.000000000+02:00
 - image_filename: header.jpg
   post_slug: 2017-05-27-okolice-powidzkiego-parku-krajobrazowego
+  lat: 52.620063888888886
+  lon: 18.15124722222222
+  altitude: 100.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

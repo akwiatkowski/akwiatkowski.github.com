@@ -1,6 +1,9 @@
 ---
 - image_filename: 2021_05_01__15_53_DSC09925.jpg
   post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451111111111
+  lon: 17.195344444444444
+  altitude: 77.5
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
@@ -15,6 +18,9 @@
   time: 2021-05-01 15:53:53.000000000+02:00
 - image_filename: 2021_05_01__15_55_DSC09927.jpg
   post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451111111111
+  lon: 17.195344444444444
+  altitude: 77.5
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0
@@ -29,6 +35,9 @@
   time: 2021-05-01 15:55:00.000000000+02:00
 - image_filename: 2021_05_01__15_56_DSC09930.jpg
   post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451111111111
+  lon: 17.195344444444444
+  altitude: 77.5
   focal_length: 85.0
   focal_length_35: 85.0
   crop: 1.0

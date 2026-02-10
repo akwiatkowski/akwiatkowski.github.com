@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP4669raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.08742777777778
+  lon: 16.765430555555554
+  altitude: 195.0
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -12,6 +15,9 @@
   time: 2016-08-20 10:41:59.000000000+02:00
 - image_filename: IMGP4671raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.11106111111111
+  lon: 16.752541666666666
+  altitude: 104.9
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -23,6 +29,9 @@
   time: 2016-08-20 10:57:15.000000000+02:00
 - image_filename: IMGP4677raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.127275
+  lon: 16.736775
+  altitude: 144.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -34,6 +43,9 @@
   time: 2016-08-20 11:14:45.000000000+02:00
 - image_filename: IMGP4679raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.12741944444444
+  lon: 16.73193611111111
+  altitude: 168.4
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -45,6 +57,9 @@
   time: 2016-08-20 11:17:59.000000000+02:00
 - image_filename: IMGP4685raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.15861666666667
+  lon: 16.73232222222222
+  altitude: 135.0
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -56,6 +71,9 @@
   time: 2016-08-20 11:48:45.000000000+02:00
 - image_filename: IMGP4687raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.16439444444444
+  lon: 16.685433333333332
+  altitude: 93.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -67,6 +85,9 @@
   time: 2016-08-20 12:03:50.000000000+02:00
 - image_filename: IMGP4691raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.21056111111111
+  lon: 16.70203888888889
+  altitude: 64.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -78,6 +99,9 @@
   time: 2016-08-20 12:22:45.000000000+02:00
 - image_filename: IMGP4704raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.230786111111115
+  lon: 16.33347222222222
+  altitude: 24.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -89,6 +113,9 @@
   time: 2016-08-20 14:13:56.000000000+02:00
 - image_filename: IMGP4714raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.231116666666665
+  lon: 16.306663888888888
+  altitude: 23.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -100,6 +127,9 @@
   time: 2016-08-20 14:29:37.000000000+02:00
 - image_filename: IMGP4733raw1.jpg
   post_slug: 2016-08-20-mialy-byc-pagorki-a-pozniej-morze
+  lat: 54.26703055555556
+  lon: 16.084766666666667
+  altitude: 0.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
