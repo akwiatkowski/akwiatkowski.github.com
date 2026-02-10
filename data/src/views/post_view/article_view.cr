@@ -249,7 +249,17 @@ module PostView
             s << %(<span>⏱️ #{@post.time_spent.not_nil!.to_i} h</span>)
           end
           if @post.temperature
-            s << %(<span>🌡️ #{@post.temperature.not_nil!.to_i} &deg;C</span>)
+            temp = @post.temperature.not_nil!.to_i
+            temp_icon = if temp <= 0
+                          "❄️"
+                        elsif temp <= 15
+                          "🌤️"
+                        elsif temp <= 25
+                          "☀️"
+                        else
+                          "🔥"
+                        end
+            s << %(<span>#{temp_icon} #{temp} &deg;C</span>)
           end
           s << %(</div>)
         end
