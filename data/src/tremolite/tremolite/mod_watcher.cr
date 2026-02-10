@@ -7,6 +7,10 @@ class Tremolite::ModWatcher
 
   def initialize(
     file_path : String?,
+    @posts_path : String = "",
+    @posts_ext : String = "",
+    @data_path : String = "",
+    @exif_db_path : String = "",
   )
     # by default it's disabled
     @enabled = false

@@ -84,9 +84,13 @@ class Tremolite::Blog
 
     # 6. MarkdownWrapper — lazy initialized (needs context which needs self)
 
-    # 7. ModWatcher (needs file_path only; path properties set later)
+    # 7. ModWatcher (needs file_path + paths for current_state_of)
     @mod_watcher = Tremolite::ModWatcher.new(
       file_path: @mod_watcher_yaml_path,
+      posts_path: @posts_path,
+      posts_ext: @posts_ext,
+      data_path: @data_path,
+      exif_db_path: @data_manager.not_nil!.exif_db.exif_db_file_parent_path,
     )
 
     # 8. PostCollection (needs paths; late-bound deps set below)
@@ -103,11 +107,6 @@ class Tremolite::Blog
     @renderer.not_nil!.image_resizer = @image_resizer
 
     # Validator needs area_data_loader + posts (set lazily after post init in make_it_so)
-
-    # ModWatcher needs paths for current_state_of
-    @mod_watcher.not_nil!.posts_path = @posts_path
-    @mod_watcher.not_nil!.posts_ext = @posts_ext
-    @mod_watcher.not_nil!.data_path = @data_path
 
     # PostCollection needs paths + deps for Post construction
     @post_collection.not_nil!.data_path = @data_path
@@ -130,7 +129,6 @@ class Tremolite::Blog
     @validator.not_nil!.posts = @post_collection.not_nil!.posts
     @renderer.not_nil!.all_posts = @post_collection.not_nil!.posts
     @renderer.not_nil!.posts_for_resize = @post_collection.not_nil!.posts
-    @mod_watcher.not_nil!.exif_db_path = @data_manager.not_nil!.exif_db.exif_db_file_parent_path
   end
 
   # getters

@@ -13,12 +13,6 @@ class Tremolite::ModWatcher
   KEY_PHOTO_FILES   = "photo_files"
   KEY_SOURCE_FILES  = "source_files"
 
-  # Injected paths (set after construction, before first use)
-  property posts_path : String = ""
-  property posts_ext : String = ""
-  property data_path : String = ""
-  property exif_db_path : String = ""
-
   # core method to check what has been changed
   def changed_summary
     changed_keys = Array(String).new
