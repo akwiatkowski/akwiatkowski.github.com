@@ -1399,4 +1399,127 @@ Added `disambiguate_slugs!` to `GenerateAreasForPosts`, called at start of `run`
 
 ---
 
-*Last updated: 2026-02-09*
+## Phase 31: Social Meta Tags ✅ COMPLETE
+
+**Commit `89d45834`** (2026-02-10)
+
+### Goal
+Add proper Open Graph and Twitter Card meta tags for link previews on social platforms.
+
+### What Was Done
+
+1. **SEO Helper** (`seo_helper.cr`) — Added `og:type` ("website"), `og:locale` ("pl_PL"), `twitter:card` ("summary_large_image"), `twitter:title`, `twitter:description`
+2. **Base View** (`base_view.cr`) — Added `og:image:alt` meta tag (uses page title)
+3. **Default `page_desc`** — Changed from empty string to `site_desc` so all pages have a non-empty description
+4. **Area Show** (`area_show_view.cr`) — Added custom `page_desc`: "Dragacz — gmina. 3 wypraw, 42 zdjęć."
+5. **E2E Tests** — Created `tests/e2e/specs/social-meta.spec.js` testing og:type, og:locale, twitter:card, descriptions across 5 pages
+
+---
+
+## Phase 32: Portfolio View + Ambilight Lightbox ✅ COMPLETE
+
+**Commits `ca14af5b`, `89d45834`** (2026-02-10)
+
+### Goal
+Re-create portfolio page and extract shared ambilight lightbox component for reuse.
+
+### What Was Done
+
+1. **Shared Lightbox Component** — Extracted from portfolio into reusable `PhotoLightbox`:
+   - `data/assets/js/src/photo_lightbox.jsx` — Preact component with ambilight dual-layer glow, EXIF display, keyboard nav
+   - `data/assets/css/self/photo_lightbox.css` — 173 lines of shared styles
+   - `data/config/asset_bundles.yml` — `photo-lightbox` page-asset bundle
+
+2. **Portfolio View** — `PortfolioView` at `/portfolio.html` (priority 90):
+   - Tiered photo selection (portfolio → best → good tags), max 70 photos
+   - Inline JSON with EXIF data (camera, lens, focal, aperture, exposure, ISO)
+   - Uses shared `photo-lightbox` component
+   - Template: `data/layout/portfolio/portfolio.html`
+
+3. **Gallery Integration** — `GalleryView::AbstractView` updated to use shared lightbox (`page_css: ["gallery", "photo-lightbox"]`)
+
+4. **HomePageView Rename** — `NewHomePageView` → `HomePageView`, removed old home page (`/index.old.html`)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/assets/js/src/photo_lightbox.jsx` | Shared ambilight lightbox component (Preact) |
+| `data/assets/js/self/photo_lightbox.js` | Transpiled lightbox JS |
+| `data/assets/css/self/photo_lightbox.css` | Shared lightbox styles |
+| `data/src/views/portfolio_view.cr` | Portfolio view class |
+| `data/layout/portfolio/portfolio.html` | Portfolio template |
+| `data/src/views/home_page_view.cr` | Renamed from new_home_page_view.cr |
+
+### Files Deleted
+
+| File | Reason |
+|------|--------|
+| `data/src/views/new_home_page_view.cr` | Renamed to home_page_view.cr |
+
+---
+
+## Trip Ideas Town Links Fix ✅ COMPLETE
+
+Fixed as part of earlier IdeasJsonGenerator work. `ideas.json` includes ALL towns (not just visited).
+Unvisited towns get `url: null` in JSON. Frontend renders them as plain `<span>` text instead of broken links.
+
+---
+
+## Stats Rendering Improvements ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Improve article stats bar display with structured HTML, emoji icons, and contextual feedback.
+
+### What Was Done
+
+1. **Redesigned stats bar** (`e4777dbb`) — Replaced pipe-separated text with flex layout. Each stat is a `<span>` with emoji: `📍 69 km`, `⏱️ 15 h`, `☀️ 23 °C`
+2. **Activity type badge** (`91029158`) — Added first-position badge with priority cascade: bicycle → hike → train → bus → car → walk (e.g., `🚴 rowerem`)
+3. **Contextual temperature emoji** (`39a46a15`) — Emoji based on range: ❄️ ≤0°C, 🌤️ 1-15°C, ☀️ 16-25°C, 🔥 >25°C
+4. **Activity icon CSS** (`7d78fb55`) — Added `.icon-bicycle`, `.icon-hike`, `.icon-train`, `.icon-bus`, `.icon-car`, `.icon-walk` definitions
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/post_view/article_view.cr` | Stats bar HTML with activity badge + emoji stats |
+| `data/assets/css/self/new.css` | `.post-route-stats` flex layout, `.activity-badge`, icon definitions |
+
+---
+
+## Eliminate Easy Late-Bound Properties ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Convert 12 of 13 late-bound properties to constructor params by reordering Blog.initialize. Eliminate the entire "Wire late-bound dependencies" section from blog.cr.
+
+### What Was Done
+
+| Commit | Class | Properties moved to constructor |
+|--------|-------|-------------------------------|
+| `2ca19e0a` | DataManager | `html_buffer` |
+| `9d2ddf38` | ModWatcher | `posts_path`, `posts_ext`, `data_path`, `exif_db_path` |
+| `1e03d980` | PostCollection | `data_path`, `output_path` |
+| `c0e60acd` | Renderer | `validator`, `url_to_output_path_proc`, `image_resizer`, `data_manager`, `mod_watcher` |
+
+### Key Changes
+
+- Renderer creation moved after all deps exist (was step 3, now step 7)
+- `init_preloaded_post_referenced_links` called at end of DataManager constructor
+- `exif_db_path` moved from `initialize_posts` to ModWatcher constructor
+- 12-line wiring section in blog.cr removed entirely
+
+### Remaining (genuinely late-bound)
+
+`PostCollection.exif_db/markdown_wrapper/photo_tags`, `Validator.area_data_loader/posts`, `Renderer.all_posts/posts_for_resize`, `Post.exif_db/photo_tags`
+
+### Test Results
+
+**546 Crystal tests passing** after each commit
+
+---
+
+*Last updated: 2026-02-10*

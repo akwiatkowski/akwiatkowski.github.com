@@ -147,9 +147,8 @@ The more page has 6 links. The old `more.md` had 14 links. Evaluate adding:
 - O mnie (`/o-mnie.html`) — about page
 - RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
 
-**Eliminate Late-Bound Properties (partial — easy ones done):**
-12 of 13 easy late-bound properties converted to constructor params. The "Wire late-bound
-dependencies" section in blog.cr is gone. Remaining are genuinely late-bound (need posts):
+**Remaining late-bound properties (genuinely need posts):**
+Could reduce `.not_nil!` noise with `getter!` macros across remaining call sites.
 
 | Class | Properties | Reason |
 |-------|-----------|--------|
@@ -158,14 +157,8 @@ dependencies" section in blog.cr is gone. Remaining are genuinely late-bound (ne
 | **PostCollection** | `photo_tags`, `exif_db`, `markdown_wrapper` | Set before initialize_posts |
 | **Post** | `exif_db`, `photo_tags` | Set per-post in initialize_posts loop |
 
-Could reduce `.not_nil!` noise with `getter!` macros across remaining call sites.
-
 **Photo Perceptual Hash (pipeline command):**
 Store color/perceptual hash data per photo alongside EXIF. Enables: finding visually similar photos, color-based search, duplicate detection, "more like this" in galleries.
-
-**Stats Rendering:**
-- Explore better ways to render post stats (distance, time, temperature)
-- Consider inline badges, sidebar summary, or expandable section
 
 ---
 
