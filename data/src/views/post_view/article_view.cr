@@ -228,15 +228,17 @@ module PostView
         distance = (@post.distance || "--").to_s
 
         route_info = String.build do |s|
+          s << %(<div class="post-route-stats">)
           if @post.distance
-            s << "#{@post.distance.not_nil!.to_i} km | "
+            s << %(<span>📍 #{@post.distance.not_nil!.to_i} km</span>)
           end
           if @post.time_spent
-            s << "#{@post.time_spent.not_nil!.to_i} h | "
+            s << %(<span>⏱️ #{@post.time_spent.not_nil!.to_i} h</span>)
           end
           if @post.temperature
-            s << "#{@post.temperature.not_nil!.to_i} &deg;C | "
+            s << %(<span>🌡️ #{@post.temperature.not_nil!.to_i} &deg;C</span>)
           end
+          s << %(</div>)
         end
 
         data["svg_map"] = load_html(

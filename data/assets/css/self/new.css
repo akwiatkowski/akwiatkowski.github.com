@@ -568,6 +568,17 @@ body {
   content: '📅';
 }
 
+.post-route-stats {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin: 8px 0;
+}
+
+.post-route-stats span {
+  font-size: 0.95rem;
+}
+
 /* Override default style */
 .bg-light {
   background-color: unset !important;
