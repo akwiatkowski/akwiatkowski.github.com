@@ -180,7 +180,7 @@ describe "setup_view_registry" do
       # - Feed views: 12 (RSS, Atom, 8x JSON, sitemap, robots)
       # - Index views: 1 (towns only - lands deprecated)
       # - Static views: 9 (more, about, english, trip ideas, JS timeline, photo map, JS exif stats, photo planner, portfolio)
-      # - Debug views: 3 (posts, camera stuff, missing EXIF)
+      # - Debug views: 3 (posts, camera stuff, missing EXIF) + 2 disabled (similar photos, color photos)
       r.views.size.should eq(40)
     end
 

@@ -80,6 +80,13 @@ class PhotoAnalysisCache
     File.join(cache_parent_path, "#{post_slug}.yml")
   end
 
+  def load_all : Array(PhotoAnalysisEntity)
+    return [] of PhotoAnalysisEntity unless Dir.exists?(cache_parent_path)
+    Dir.glob(File.join(cache_parent_path, "*.yml")).flat_map do |path|
+      Array(PhotoAnalysisEntity).from_yaml(File.read(path))
+    end
+  end
+
   private def create_path_if_needed
     Dir.mkdir_p(cache_parent_path)
   end

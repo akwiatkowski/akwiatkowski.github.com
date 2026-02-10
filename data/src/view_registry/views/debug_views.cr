@@ -8,6 +8,8 @@
 # 1. Debug posts - /debug/posts.html (priority: 100)
 # 2. Debug camera stuff - /debug/camera_stuff.html (priority: 101)
 # 3. Debug missing EXIF - /debug/missing_exif.html (priority: 102)
+# 4. Debug similar photos - /debug/similar_photos.html (priority: 103)
+# 5. Debug color photos - /debug/color_photos.html (priority: 104)
 #
 # Dependencies vary:
 # - Debug posts: [:posts]
@@ -66,4 +68,40 @@ def register_debug_views(r : ViewRegistry)
     ViewRegistry::Log.debug { "Rendering debug missing EXIF page" }
     ctx.write_output(DebugView::MissingExifView.new(context: ctx))
   end
+
+  # ============================================
+  # Debug: Similar Photos
+  # ============================================
+  #
+  # Debug view showing groups of visually similar photos
+  # using perceptual hash (pHash) + LSH matching.
+  #
+  # URL: /debug/similar_photos.html
+  # View class: DebugView::SimilarPhotosView
+  #
+  # Dependencies: [:exifs]
+  #
+  # Disabled for now — services are kept for future use
+  # r.register("Debug: similar photos", [:exifs], priority: 103) do |ctx|
+  #   ViewRegistry::Log.debug { "Rendering debug similar photos page" }
+  #   ctx.write_output(DebugView::SimilarPhotosView.new(context: ctx))
+  # end
+
+  # ============================================
+  # Debug: Color Photos
+  # ============================================
+  #
+  # Debug view showing groups of photos with similar
+  # average colors using Euclidean distance.
+  #
+  # URL: /debug/color_photos.html
+  # View class: DebugView::ColorPhotosView
+  #
+  # Dependencies: [:exifs]
+  #
+  # Disabled for now — services are kept for future use
+  # r.register("Debug: color photos", [:exifs], priority: 104) do |ctx|
+  #   ViewRegistry::Log.debug { "Rendering debug color photos page" }
+  #   ctx.write_output(DebugView::ColorPhotosView.new(context: ctx))
+  # end
 end

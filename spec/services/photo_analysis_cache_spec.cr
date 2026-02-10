@@ -185,4 +185,42 @@ describe PhotoAnalysisCache do
       FileUtils.rm_rf(tmp_dir) if tmp_dir
     end
   end
+
+  describe "#load_all" do
+    it "returns empty when cache directory does not exist" do
+      cache = PhotoAnalysisCache.new(
+        cache_path: "/tmp/photo_analysis_nonexistent_#{rand(100000)}",
+        data_path: "/tmp"
+      )
+      cache.load_all.should be_empty
+    end
+
+    it "loads all entries from all YAML files" do
+      tmp_dir = "/tmp/photo_analysis_loadall_#{rand(100000)}"
+      Dir.mkdir_p(File.join(tmp_dir, "photo_analysis"))
+
+      entity1 = PhotoAnalysisEntity.new(
+        image_filename: "a.jpg", post_slug: "post1",
+        ahash: "aa", dhash: "bb", phash: "cc",
+        avg_rgb: [1, 2, 3], top5_rgb: [[4, 5, 6]]
+      )
+      entity2 = PhotoAnalysisEntity.new(
+        image_filename: "b.jpg", post_slug: "post2",
+        ahash: "dd", dhash: "ee", phash: "ff",
+        avg_rgb: [7, 8, 9], top5_rgb: [[10, 11, 12]]
+      )
+
+      File.open(File.join(tmp_dir, "photo_analysis", "post1.yml"), "w") { |f| [entity1].to_yaml(f) }
+      File.open(File.join(tmp_dir, "photo_analysis", "post2.yml"), "w") { |f| [entity2].to_yaml(f) }
+
+      cache = PhotoAnalysisCache.new(cache_path: tmp_dir, data_path: "/tmp")
+      all = cache.load_all
+
+      all.size.should eq(2)
+      filenames = all.map(&.image_filename).sort
+      filenames.should eq(["a.jpg", "b.jpg"])
+    ensure
+      FileUtils.rm_rf(tmp_dir) if tmp_dir
+    end
+  end
 end
