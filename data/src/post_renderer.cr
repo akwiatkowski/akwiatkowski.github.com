@@ -21,7 +21,6 @@ class PostRenderer
     @ctx : RenderContext,
     @image_resizer : Tremolite::ImageResizer,
     @exif_db : ExifDb,
-    @photo_analysis_cache : PhotoAnalysisCache,
   )
   end
 
@@ -129,7 +128,7 @@ class PostRenderer
   private def init_photo_analysis(post : Tremolite::Post)
     filenames = post.published_photo_entities.map(&.image_filename) +
                 post.list_of_uploaded_photos
-    @photo_analysis_cache.process_photos(post.slug, filenames.uniq)
+    @ctx.photo_analysis_cache.process_photos(post.slug, filenames.uniq)
   end
 
   private def render_article(post : Tremolite::Post, hide_not_finished : Bool)
@@ -150,6 +149,6 @@ class PostRenderer
   end
 
   private def save_photo_analysis_cache(post : Tremolite::Post)
-    @photo_analysis_cache.save_cache(post.slug)
+    @ctx.photo_analysis_cache.save_cache(post.slug)
   end
 end

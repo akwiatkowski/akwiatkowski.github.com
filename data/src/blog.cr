@@ -272,7 +272,6 @@ class Tremolite::Blog
         ctx: context,
         image_resizer: image_resizer.not_nil!,
         exif_db: data_manager.exif_db,
-        photo_analysis_cache: data_manager.photo_analysis_cache,
       )
       post_renderer.render_with_galleries(post_to_render_galleries, hide_not_finished)
       post_renderer.render_content_only(post_to_render_only_post, hide_not_finished)

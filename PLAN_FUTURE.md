@@ -87,6 +87,28 @@ Debug views moved to separate `DebugView` namespace:
 
 ---
 
+## BuildContext: Separate Pipeline from Rendering
+
+`RenderContext` currently serves two roles:
+1. **View rendering** — read-only data access (posts, entities, router, asset bundles)
+2. **Pipeline operations** — mutating services (exif_db, photo_analysis_cache, image_resizer)
+
+PostRenderer uses RenderContext for both: pipeline services to process data, then passes the same context to views for rendering. This conflates two different interfaces.
+
+**Proposed split:**
+- **RenderContext** — stays read-only, used by views. Remove pipeline service proxies (exif_db, photo_analysis_cache) that views don't need.
+- **BuildContext** (new) — holds pipeline/mutating services: exif_db, photo_analysis_cache, image_resizer. Passed to PostRenderer. Contains a reference to RenderContext for the view-rendering step.
+
+**Benefits:**
+- Clear separation: views can't accidentally call `save_cache()` or `process_photos()`
+- PostRenderer dependencies become explicit through BuildContext
+- Adding new pipeline services doesn't pollute the view interface
+- Easier to reason about what views can and cannot do
+
+**When to do:** When the pipeline grows beyond 2-3 services, or during next major refactor.
+
+---
+
 ## Testing Improvements
 
 Future testing enhancements:
