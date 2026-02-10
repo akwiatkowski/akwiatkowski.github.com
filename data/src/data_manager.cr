@@ -13,9 +13,6 @@ require "./data_manager/photo_map_dictionary"
 class Tremolite::DataManager
   include Profiled
 
-  # html_buffer must be set before preloaded_post_referenced_links is used
-  property html_buffer : Tremolite::HtmlBuffer?
-
   def initialize(
     @config_path : String,
     @data_path : String = "",
@@ -23,6 +20,7 @@ class Tremolite::DataManager
     @output_path : String = "",
     @posts_path : String = "",
     @posts_ext : String = "",
+    @html_buffer : Tremolite::HtmlBuffer = Tremolite::HtmlBuffer.new,
   )
     @config_path = @data_path if @config_path.to_s == ""
     @config_hash = Hash(String, String).new
@@ -68,13 +66,14 @@ class Tremolite::DataManager
     load_ideas
     load_photo_tags
 
+    init_preloaded_post_referenced_links
+
     Log.debug { "INITIALIZED" }
   end
 
-  # PreloadedPostReferencedLinks needs html_buffer — initialize lazily
   def init_preloaded_post_referenced_links
     @preloaded_post_referenced_links = PreloadedPostReferencedLinks.new(
-      html_buffer: @html_buffer.not_nil!,
+      html_buffer: @html_buffer,
       posts_path: @posts_path,
       posts_ext: @posts_ext
     )

@@ -71,7 +71,7 @@ class Tremolite::Blog
       output_path: @output_path,
     )
 
-    # 5. DataManager (needs paths; html_buffer set after for lazy init)
+    # 5. DataManager (needs paths + html_buffer)
     @data_manager = Tremolite::DataManager.new(
       config_path: @config_path.to_s,
       data_path: @data_path,
@@ -79,9 +79,8 @@ class Tremolite::Blog
       output_path: @output_path,
       posts_path: @posts_path,
       posts_ext: @posts_ext,
+      html_buffer: @html_buffer.not_nil!,
     )
-    @data_manager.not_nil!.html_buffer = @html_buffer
-    @data_manager.not_nil!.init_preloaded_post_referenced_links
 
     # 6. MarkdownWrapper — lazy initialized (needs context which needs self)
 
