@@ -2,10 +2,12 @@ module DynamicView
   class YearStatReportView < PageView
     Log = ::Log.for(self)
 
-    BICYCLE_MAX_DISTANCE = 800.0
-    HIKE_MAX_DISTANCE    = 100.0
-    OPACITY_MAX          =   1.0
-    OPACITY_MIN          =  0.02
+    POLISH_MONTHS = {
+      1 => "Styczeń", 2 => "Luty", 3 => "Marzec",
+      4 => "Kwiecień", 5 => "Maj", 6 => "Czerwiec",
+      7 => "Lipiec", 8 => "Sierpień", 9 => "Wrzesień",
+      10 => "Październik", 11 => "Listopad", 12 => "Grudzień",
+    }
 
     def initialize(
       context : RenderContext,
@@ -22,10 +24,15 @@ module DynamicView
     end
 
     getter :image_url, :title, :subtitle, :year
+
     property :url
 
     def add_to_sitemap?
       true
+    end
+
+    def page_css : Array(String)
+      ["year_stats"]
     end
 
     def self.url_for_year(year)
@@ -35,7 +42,7 @@ module DynamicView
     def inner_html
       data = Hash(String, String).new
       data["year"] = @year.to_s
-      data["post.count"] = @posts.size.to_i.to_s
+      data["post.count"] = @posts.size.to_s
 
       data["hours"] = hours.to_i.to_s
       data["distance"] = distance.to_i.to_s
@@ -43,8 +50,60 @@ module DynamicView
       data["bicycle_distance"] = bicycle_distance.to_i.to_s
       data["bicycle_hours"] = bicycle_hours.to_i.to_s
 
-      data["voivodeships_stats"] = ""
+      # Activity breakdown
+      bicycle_count = @posts.count(&.bicycle?)
+      hike_count = @posts.count(&.hike?)
+      data["bicycle_count"] = bicycle_count.to_s
+      data["hike_count"] = hike_count.to_s
 
+      # Voivodeships visited
+      voivs = @posts.flat_map(&.voivodeship_entities).uniq(&.slug).sort_by(&.name)
+      data["voivodeships_stats"] = voivs.map { |v| "<a href=\"#{v.view_url}\">#{v.name}</a>" }.join(", ")
+
+      # Longest trip
+      longest = @posts.select(&.self_propelled?).max_by? { |p| p.distance.as(Float64) }
+      if longest
+        data["longest_html"] = "<p>Najdłuższa trasa: <a href=\"#{longest.url}\">#{longest.title}</a> — #{longest.distance.as(Float64).ceil.to_i} km</p>"
+      else
+        data["longest_html"] = ""
+      end
+
+      # Averages
+      sp = @posts.select(&.self_propelled?)
+      if sp.size > 0
+        avg_dist = (distance / sp.size).round(1)
+        avg_hrs = (hours / sp.size).round(1)
+        data["avg_stats"] = "Średnio #{avg_dist} km i #{avg_hrs} h na wyprawę."
+      else
+        data["avg_stats"] = ""
+      end
+
+      # New towns discovered this year
+      prior_town_slugs = Set(String).new
+      context.posts.each do |p|
+        prior_town_slugs.concat(p.town_slugs) if p.time.year < @year
+      end
+      this_year_towns = Set(String).new
+      @posts.each { |p| this_year_towns.concat(p.town_slugs) }
+      new_towns = this_year_towns - prior_town_slugs
+      data["new_towns_count"] = new_towns.size.to_s
+      data["total_towns_count"] = this_year_towns.size.to_s
+
+      # Year-over-year delta
+      if @year > @all_years.min
+        prev_posts = context.posts.select { |p| p.time.year == @year - 1 }
+        prev_distance = prev_posts.select(&.self_propelled?).sum(0.0) { |p| p.distance.as(Float64) }
+        prev_hours = prev_posts.select(&.self_propelled?).sum(0.0) { |p| p.time_spent.as(Float64) }
+        delta_km = (distance - prev_distance).round.to_i
+        delta_hours = (hours - prev_hours).round.to_i
+        delta_km_str = delta_km >= 0 ? "+#{delta_km}" : delta_km.to_s
+        delta_hours_str = delta_hours >= 0 ? "+#{delta_hours}" : delta_hours.to_s
+        data["delta_html"] = "<p>Względem #{@year - 1}: <span class=\"ys-delta\">#{delta_km_str} km</span> <span class=\"ys-delta\">#{delta_hours_str} h</span></p>"
+      else
+        data["delta_html"] = ""
+      end
+
+      # Year navigation links
       years_strings = Array(String).new
       @all_years.each do |y|
         if @year != y
@@ -53,9 +112,9 @@ module DynamicView
           years_strings << "<strong>#{y}</strong>"
         end
       end
-      data["other_year_links"] = years_strings.join(", ")
+      data["other_year_links"] = years_strings.join("\n  ")
 
-      # post lists
+      # Post list
       posts_list = ""
       @posts.each do |post|
         post_data = Hash(String, String).new
@@ -98,7 +157,7 @@ module DynamicView
       end
       data["posts_list"] = posts_list
 
-      # months list
+      # Months list
       months_list = ""
       (1..12).each do |month|
         time = Time.local(@year, month, 1).at_beginning_of_month
@@ -126,21 +185,12 @@ module DynamicView
             end
           end
 
-          month_data["month"] = month.to_s
+          month_data["month"] = POLISH_MONTHS[month]
           month_data["month.distance"] = month_distance.to_s
           month_data["month.distance_bicycle"] = month_distance_bicycle.to_s
           month_data["month.distance_hike"] = month_distance_hike.to_s
           month_data["month.time_spent"] = month_time_spent.to_s
-
-          bicycle_opacity = month_distance_bicycle.to_f / BICYCLE_MAX_DISTANCE
-          bicycle_opacity = OPACITY_MAX if bicycle_opacity > OPACITY_MAX
-          bicycle_opacity = OPACITY_MIN if bicycle_opacity < OPACITY_MIN
-          month_data["month.style_distance_bicycle"] = "background-color: rgba(100,100,255,#{bicycle_opacity});"
-
-          hike_opacity = month_distance_hike.to_f / HIKE_MAX_DISTANCE
-          hike_opacity = OPACITY_MAX if hike_opacity > OPACITY_MAX
-          hike_opacity = OPACITY_MIN if hike_opacity < OPACITY_MIN
-          month_data["month.style_distance_hike"] = "background-color: rgba(100,255,100,#{hike_opacity});"
+          month_data["season_class"] = season_class(month)
 
           months_list += load_html("year_stats/month_row", month_data)
         end
@@ -164,6 +214,15 @@ module DynamicView
 
     private def bicycle_hours
       return @posts.select { |p| p.bicycle? }.map { |p| p.time_spent.as(Float64) }.sum
+    end
+
+    private def season_class(month : Int32) : String
+      case month
+      when 12, 1, 2 then "month-winter"
+      when 3, 4, 5  then "month-spring"
+      when 6, 7, 8  then "month-summer"
+      else               "month-fall"
+      end
     end
 
     private def generate_image_url

@@ -116,3 +116,6 @@ page-assets:
   portfolio:
     css:
       - /css/self/portfolio.css
+  year_stats:
+    css:
+      - /css/self/year_stats.css

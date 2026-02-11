@@ -1,0 +1,291 @@
+/* Year Stats - dark/light theme following planner.css pattern */
+
+:root {
+  --ys-bg: #f8f9fa;
+  --ys-surface: #fff;
+  --ys-text: #212529;
+  --ys-muted: #6c757d;
+  --ys-border: #dee2e6;
+  --ys-link: #0d6efd;
+  --ys-accent: #198754;
+  --ys-hover: rgba(0, 0, 0, 0.03);
+  --ys-stripe: rgba(0, 0, 0, 0.02);
+  --ys-radius: 8px;
+  --ys-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+
+  /* Seasonal hints */
+  --ys-winter: #a8c8e8;
+  --ys-spring: #a8d8a8;
+  --ys-summer: #e8d8a8;
+  --ys-fall: #d8b8a8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ys-bg: #1a1d23;
+    --ys-surface: #212529;
+    --ys-text: #e9ecef;
+    --ys-muted: #adb5bd;
+    --ys-border: #495057;
+    --ys-link: #6ea8fe;
+    --ys-accent: #75b798;
+    --ys-hover: rgba(255, 255, 255, 0.04);
+    --ys-stripe: rgba(255, 255, 255, 0.02);
+    --ys-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+
+    --ys-winter: #4a6d8c;
+    --ys-spring: #4a7d4a;
+    --ys-summer: #8c7d4a;
+    --ys-fall: #7d5a4a;
+  }
+}
+
+/* ============================================
+   Year Navigation Pills
+   ============================================ */
+
+.ys-year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.ys-year-nav a,
+.ys-year-nav strong {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.ys-year-nav a {
+  color: var(--ys-link);
+  background: var(--ys-surface);
+  border: 1px solid var(--ys-border);
+}
+
+.ys-year-nav a:hover {
+  background: var(--ys-hover);
+}
+
+.ys-year-nav strong {
+  color: #fff;
+  background: var(--ys-accent);
+  border: 1px solid var(--ys-accent);
+}
+
+/* ============================================
+   Summary Cards
+   ============================================ */
+
+.ys-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.ys-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--ys-surface);
+  border: 1px solid var(--ys-border);
+  border-radius: var(--ys-radius);
+  box-shadow: var(--ys-shadow);
+  min-width: 120px;
+}
+
+.ys-card-icon {
+  font-size: 1.3rem;
+  flex-shrink: 0;
+}
+
+.ys-card-body {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.ys-card-value {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--ys-text);
+}
+
+.ys-card-label {
+  font-size: 0.75rem;
+  color: var(--ys-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* ============================================
+   Details Section
+   ============================================ */
+
+.ys-details {
+  margin-bottom: 1.5rem;
+  color: var(--ys-text);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.ys-details p {
+  margin-bottom: 0.5rem;
+}
+
+.ys-details a {
+  color: var(--ys-link);
+}
+
+.ys-delta {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 1px 6px;
+  border-radius: 4px;
+  color: var(--ys-muted);
+  background: var(--ys-stripe);
+  margin-left: 4px;
+}
+
+/* ============================================
+   Table Styling
+   ============================================ */
+
+.ys-table {
+  width: 100%;
+  color: var(--ys-text);
+  background: var(--ys-surface);
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--ys-border);
+  border-radius: var(--ys-radius);
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.ys-table thead th {
+  background: var(--ys-stripe);
+  border-bottom: 2px solid var(--ys-border);
+  padding: 8px 10px;
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ys-muted);
+}
+
+.ys-table tbody td {
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--ys-border);
+  vertical-align: middle;
+}
+
+.ys-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.ys-table tbody tr:nth-child(even) {
+  background: var(--ys-stripe);
+}
+
+.ys-table tbody tr:hover {
+  background: var(--ys-hover);
+}
+
+.ys-table a {
+  color: var(--ys-link);
+  text-decoration: none;
+}
+
+.ys-table a:hover {
+  text-decoration: underline;
+}
+
+.ys-table .text-end {
+  text-align: right;
+}
+
+.ys-table .text-center {
+  text-align: center;
+}
+
+.ys-table .text-nowrap {
+  white-space: nowrap;
+}
+
+/* Activity icons in table */
+.ys-table .icon-bicycle,
+.ys-table .icon-hike,
+.ys-table .icon-train,
+.ys-table .icon-bus,
+.ys-table .icon-car,
+.ys-table .icon-walk {
+  font-size: 1rem;
+}
+
+/* ============================================
+   Seasonal Month Rows
+   ============================================ */
+
+.month-winter td:first-child {
+  border-left: 3px solid var(--ys-winter);
+}
+
+.month-spring td:first-child {
+  border-left: 3px solid var(--ys-spring);
+}
+
+.month-summer td:first-child {
+  border-left: 3px solid var(--ys-summer);
+}
+
+.month-fall td:first-child {
+  border-left: 3px solid var(--ys-fall);
+}
+
+/* ============================================
+   Section Headers
+   ============================================ */
+
+.ys-section-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ys-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+/* ============================================
+   Responsive
+   ============================================ */
+
+@media (max-width: 576px) {
+  .ys-summary {
+    gap: 8px;
+  }
+
+  .ys-card {
+    min-width: 100px;
+    padding: 8px 12px;
+  }
+
+  .ys-table {
+    font-size: 0.82rem;
+  }
+
+  .ys-table thead th,
+  .ys-table tbody td {
+    padding: 5px 6px;
+  }
+}

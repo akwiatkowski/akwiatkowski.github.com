@@ -1,40 +1,90 @@
-<p>
-  Lata: {{ other_year_links }}
-</p>
+<div class="ys-year-nav">
+  {{ other_year_links }}
+</div>
 
-<p>
-  W roku <strong>{{ year }}</strong> napisałem <strong>{{ post.count }}</strong> wpisów.
-</p>
+<div class="ys-summary">
+  <div class="ys-card">
+    <div class="ys-card-icon">📝</div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ post.count }}</span>
+      <span class="ys-card-label">wpisów</span>
+    </div>
+  </div>
+  <div class="ys-card">
+    <div class="ys-card-icon">📏</div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ distance }} km</span>
+      <span class="ys-card-label">dystans</span>
+    </div>
+  </div>
+  <div class="ys-card">
+    <div class="ys-card-icon">⏱️</div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ hours }} h</span>
+      <span class="ys-card-label">w terenie</span>
+    </div>
+  </div>
+  <div class="ys-card">
+    <div class="ys-card-icon"><span class="icon-bicycle"></span></div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ bicycle_count }}</span>
+      <span class="ys-card-label">rowerem</span>
+    </div>
+  </div>
+  <div class="ys-card">
+    <div class="ys-card-icon"><span class="icon-hike"></span></div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ hike_count }}</span>
+      <span class="ys-card-label">pieszo</span>
+    </div>
+  </div>
+  <div class="ys-card">
+    <div class="ys-card-icon">🏘️</div>
+    <div class="ys-card-body">
+      <span class="ys-card-value">{{ new_towns_count }}</span>
+      <span class="ys-card-label">nowych gmin (z {{ total_towns_count }})</span>
+    </div>
+  </div>
+</div>
 
-<p>
-  Spędziłem <strong>{{ hours }} godzin</strong> w terenie i przebyłem <strong>{{ distance }} km</strong>.
-  Z czego na rowerze <strong>{{ bicycle_hours }} godzin</strong> i przebyłem <strong>{{ bicycle_distance }} km</strong>
-</p>
+<div class="ys-details">
+  <p>
+    Na rowerze: <strong>{{ bicycle_distance }} km</strong> w <strong>{{ bicycle_hours }} h</strong>.
+    {{ avg_stats }}
+  </p>
+  {{ longest_html }}
+  <p>Odwiedzone województwa: {{ voivodeships_stats }}</p>
+  {{ delta_html }}
+</div>
 
-<p>
-  Odwiedziłem województwa: {{ voivodeships_stats }}
-</p>
+<h3 class="ys-section-title">Wpisy</h3>
 
-<table class="table">
+<table class="ys-table">
   <thead>
-    <th>Data</th>
-    <th>Tytuł</th>
-    <th>[km]</th>
-    <th>[h]</th>
-    <th></th>
+    <tr>
+      <th>Data</th>
+      <th>Tytuł</th>
+      <th class="text-end">km</th>
+      <th class="text-end">h</th>
+      <th class="text-center"></th>
+    </tr>
   </thead>
   <tbody>
     {{ posts_list }}
   </tbody>
 </table>
 
-<table class="table">
+<h3 class="ys-section-title">Miesiące</h3>
+
+<table class="ys-table">
   <thead>
-    <th>Miesiąc</th>
-    <th>Suma</th>
-    <th>Rower</th>
-    <th>Pieszo</th>
-    <th>Czas</th>
+    <tr>
+      <th>Miesiąc</th>
+      <th class="text-end">Suma</th>
+      <th class="text-end">Rower</th>
+      <th class="text-end">Pieszo</th>
+      <th class="text-end">Czas</th>
+    </tr>
   </thead>
   <tbody>
     {{ months_list }}
