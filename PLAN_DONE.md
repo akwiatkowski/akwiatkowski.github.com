@@ -1522,4 +1522,99 @@ Convert 12 of 13 late-bound properties to constructor params by reordering Blog.
 
 ---
 
+## Phase 20: JSON Optimization ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Phase 20a: Quick Wins & JSON Moves ✅
+
+- Removed `card_url` from `PhotosJsonGenerator` (~2.66 MB savings)
+- Disabled/deregistered `nav_stats.json` (unused by frontend)
+- Moved all JSON endpoints under `/jsons/`
+- Replaced `payload.json` with `/jsons/e2e.json` (minimal E2E test data only)
+
+### Phase 20b: Map JSON ✅
+
+- Created `/jsons/map.json` via `MapJsonGenerator` (16 KB vs 836 KB, 98% reduction)
+
+### Phase 20d: Photos Map JSON ✅
+
+- Created `/jsons/photos_map.json` via `PhotosMapJsonGenerator` (only photos with lat/lon)
+
+### Phase 20e: Final Cleanup ✅
+
+- Moved `/photos.json` → `/jsons/photos.json`
+
+### JSON Endpoints (Final)
+
+| File | Size | Generator |
+|------|------|-----------|
+| `/jsons/e2e.json` | ~5 KB | `PayloadJsonGenerator` |
+| `/jsons/map.json` | 16 KB | `MapJsonGenerator` |
+| `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` |
+| `/jsons/ideas.json` | 510 KB | `IdeasJsonGenerator` |
+| `/jsons/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` |
+| `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` |
+| `/jsons/photos.json` | 20 MB | `PhotosJsonGenerator` |
+| `/jsons/photos_map.json` | ~7 MB | `PhotosMapJsonGenerator` |
+
+---
+
+## Photo Analysis Infrastructure ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Store perceptual hash and color data per photo for similarity detection.
+
+### What Was Done
+
+1. **PhotoAnalysisEntity** (`data/src/models/photo_analysis_entity.cr`) — struct for pHash hex + avg RGB values
+2. **PhotoAnalysisCache** (`data/src/services/photo_analysis_cache.cr`) — YAML cache reader/writer with `load_all` for bulk loading
+3. **PhotoSimilarityService** (`data/src/services/photo_similarity_service.cr`) — LSH (4 bands × 16 bits) + Union-Find grouping by Hamming distance
+4. **ColorSimilarityService** (`data/src/services/color_similarity_service.cr`) — Euclidean distance on avg RGB + Union-Find grouping
+5. **Debug views** (`data/src/views/debug_view/similar_photos_view.cr`, `color_photos_view.cr`) — visual group display (registered but disabled)
+
+### Tests
+- `spec/services/photo_analysis_entity_spec.cr` — 5 tests
+- `spec/services/photo_analysis_cache_spec.cr` — 5 tests
+- `spec/services/photo_similarity_service_spec.cr` — 7 tests
+- `spec/services/color_similarity_service_spec.cr` — 6 tests
+
+---
+
+## GPS Geotagging Script ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Fix missing GPS coordinates in photos by matching EXIF timestamps against GPX tracklogs.
+
+### Architecture
+
+```
+commands/fix_geotagging.cr
+  ├── Loads 2252 GPX files (3M+ trackpoints, 789 days)
+  ├── Indexes trackpoints by date (±1 day for timezone edge cases)
+  ├── For each post slug:
+  │   ├── Auto-detects camera timezone offset (rounded to whole hours)
+  │   │   ├── partial_missing: calibrate from GPS-tagged photos (median offset)
+  │   │   └── all_missing: bruteforce 5 offsets (-2h to +2h)
+  │   ├── Linear interpolation between trackpoints (lat, lon, altitude)
+  │   ├── Reports mode temperature from GPX Garmin extensions
+  │   └── Writes GPS via exiftool + deletes EXIF cache
+  └── Dry-run by default, --write to apply
+```
+
+### Results (dry run)
+- 6951 total photos, 6094 already had GPS
+- **637 photos** across **126 posts** would get coordinates
+- 216 photos too far from any trackpoint (>1h), skipped
+- 21 posts had no GPX data for their date
+
+### Files Created
+- `commands/fix_geotagging.cr` — 1054-line standalone script with GEOTAGGING_STATUS hash
+
+---
+
 *Last updated: 2026-02-10*

@@ -4,29 +4,30 @@
 
 ## Summary
 
-- **Tasks**: 5
-- **Views**: 42
-- **Total entries**: 47
+- **Tasks**: 6
+- **Views**: 40
+- **Total entries**: 46
 
 ## What runs when...
 
 | Trigger | Entries |
 |---------|---------|
-| `:posts` changed | 28 entries |
-| `:yamls` changed | 21 entries |
-| `:exifs` changed | 7 entries |
+| `:posts` changed | 27 entries |
+| `:yamls` changed | 20 entries |
+| `:exifs` changed | 8 entries |
 | Always runs | 7 entries |
 
 ## Entries by Category
 
-### Setup tasks (priority 1..2)
+### Setup tasks (priority 1..3)
 
-Dev render, copy assets
+Dev render, copy assets, route colors
 
 | Priority | Name | Triggers |
 |----------|------|----------|
 | 1 | Setup: dev render | always |
 | 2 | Setup: copy assets | always |
+| 3 | Setup: route colors | always |
 
 ### EXIF tasks (priority 3..4)
 
@@ -64,7 +65,6 @@ Home, map, POIs
 
 | Priority | Name | Triggers |
 |----------|------|----------|
-| 20 | Home: old home page | posts |
 | 20 | Home: main page | posts |
 | 21 | Home: route map page | posts |
 | 22 | Home: POIs page | posts |
@@ -80,11 +80,10 @@ Galleries, photo maps
 
 ### Stats views (priority 40..49)
 
-Summary, year reports, burnout
+Year reports, burnout, towns
 
 | Priority | Name | Triggers |
 |----------|------|----------|
-| 40 | Stats: summary page | posts, yamls |
 | 41 | Stats: year reports | posts, yamls |
 | 42 | Stats: burnout | posts, yamls |
 | 43 | Stats: towns history | posts, yamls |
@@ -98,14 +97,14 @@ RSS, Atom, JSON, sitemap
 |----------|------|----------|
 | 50 | Feed: RSS | posts, yamls |
 | 51 | Feed: Atom | posts, yamls |
-| 52 | Feed: payload JSON | posts, yamls |
+| 52 | Feed: e2e JSON | posts, yamls |
 | 52 | Feed: homepage JSON | posts, yamls |
 | 52 | Feed: map JSON | posts, yamls |
 | 53 | Feed: ideas JSON | posts, yamls |
 | 54 | Feed: photos JSON | posts, yamls |
+| 54 | Feed: photos map JSON | posts, yamls |
 | 55 | Feed: train stations JSON | posts, yamls |
 | 56 | Feed: photo grid JSON | posts, yamls |
-| 57 | Feed: nav stats JSON | posts, yamls |
 | 58 | Feed: sitemap | posts |
 | 59 | Feed: robots.txt | always |
 
@@ -119,12 +118,12 @@ Entity indexes
 
 ### Static views (priority 89..99)
 
-About, more, JS pages
+About, more, portfolio, JS pages
 
 | Priority | Name | Triggers |
 |----------|------|----------|
 | 89 | Static: new more page | always |
-| 90 | Static: more page (old) | always |
+| 90 | Static: portfolio | posts, exifs |
 | 91 | Static: about page | always |
 | 92 | Static: english page | always |
 | 93 | Static: trip ideas | posts |
@@ -143,6 +142,8 @@ Diagnostic pages
 | 101 | Debug: camera stuff | exifs |
 | 102 | Debug: missing EXIF | exifs |
 
+*Note: Debug similar photos (103) and color photos (104) are registered but disabled.*
+
 ## Dependency Matrix
 
 ```
@@ -150,6 +151,7 @@ Entry                            | Type | Pri | posts | yamls | exifs |
 ---------------------------------|------|-----|-------|-------|-------|
 Setup: dev render                | task |   1 |       |       |       |
 Setup: copy assets               | task |   2 |       |       |       |
+Setup: route colors              | task |   3 |       |       |       |
 EXIF: init all posts             | task |   4 |       |       |   ✓   |
 Cache: nav stats                 | task |   5 |       |   ✓   |       |
 Cache: coord quant               | task |   6 |       |       |   ✓   |
@@ -159,32 +161,30 @@ Areas: show pages                | view |  14 |   ✓   |   ✓   |       |
 Areas: post list pages           | view |  15 |   ✓   |   ✓   |       |
 Areas: gallery pages             | view |  16 |   ✓   |   ✓   |       |
 External areas: post list pages  | view |  17 |   ✓   |   ✓   |       |
-Home: old home page              | view |  20 |   ✓   |       |       |
 Home: main page                  | view |  20 |   ✓   |       |       |
 Home: route map page             | view |  21 |   ✓   |       |       |
 Home: POIs page                  | view |  22 |   ✓   |       |       |
 Photo galleries: all             | view |  30 |       |       |   ✓   |
 Photo maps: all                  | view |  35 |       |       |   ✓   |
-Stats: summary page              | view |  40 |   ✓   |   ✓   |       |
 Stats: year reports              | view |  41 |   ✓   |   ✓   |       |
 Stats: burnout                   | view |  42 |   ✓   |   ✓   |       |
 Stats: towns history             | view |  43 |   ✓   |   ✓   |       |
 Stats: towns timeline            | view |  44 |   ✓   |   ✓   |       |
 Feed: RSS                        | view |  50 |   ✓   |   ✓   |       |
 Feed: Atom                       | view |  51 |   ✓   |   ✓   |       |
-Feed: payload JSON               | view |  52 |   ✓   |   ✓   |       |
+Feed: e2e JSON                   | view |  52 |   ✓   |   ✓   |       |
 Feed: homepage JSON              | view |  52 |   ✓   |   ✓   |       |
 Feed: map JSON                   | view |  52 |   ✓   |   ✓   |       |
 Feed: ideas JSON                 | view |  53 |   ✓   |   ✓   |       |
 Feed: photos JSON                | view |  54 |   ✓   |   ✓   |       |
+Feed: photos map JSON            | view |  54 |   ✓   |   ✓   |       |
 Feed: train stations JSON        | view |  55 |   ✓   |   ✓   |       |
 Feed: photo grid JSON            | view |  56 |   ✓   |   ✓   |       |
-Feed: nav stats JSON             | view |  57 |   ✓   |   ✓   |       |
 Feed: sitemap                    | view |  58 |   ✓   |       |       |
 Feed: robots.txt                 | view |  59 |       |       |       |
 Index: towns                     | view |  60 |   ✓   |   ✓   |       |
 Static: new more page            | view |  89 |       |       |       |
-Static: more page (old)          | view |  90 |       |       |       |
+Static: portfolio                | view |  90 |   ✓   |       |   ✓   |
 Static: about page               | view |  91 |       |       |       |
 Static: english page             | view |  92 |       |       |       |
 Static: trip ideas               | view |  93 |   ✓   |       |       |
@@ -201,16 +201,16 @@ Debug: missing EXIF              | view | 102 |       |       |   ✓   |
 
 | Range | Name | Description |
 |-------|------|-------------|
-| 1..2 | Setup tasks | Dev render, copy assets |
+| 1..3 | Setup tasks | Dev render, copy assets, route colors |
 | 3..4 | EXIF tasks | Initialize EXIF data |
 | 5..9 | Cache tasks | Refresh caches |
 | 10..19 | Entity views | Tags, areas (unified AreaEntity), external areas |
 | 20..29 | Home views | Home, map, POIs |
 | 30..39 | Photo views | Galleries, photo maps |
-| 40..49 | Stats views | Summary, year reports, burnout |
+| 40..49 | Stats views | Year reports, burnout, towns |
 | 50..59 | Feed views | RSS, Atom, JSON, sitemap |
 | 60..69 | Index views | Entity indexes |
-| 89..99 | Static views | About, more, JS pages, planner |
+| 89..99 | Static views | About, more, portfolio, JS pages, planner |
 | 100..199 | Debug views | Diagnostic pages |
 
 ---
@@ -227,4 +227,4 @@ The registry is defined in `data/src/view_registry/`:
 
 ---
 
-*Last updated: 2026-02-07*
+*Last updated: 2026-02-10*

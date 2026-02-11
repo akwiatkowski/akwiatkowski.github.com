@@ -570,7 +570,18 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-09: commands/*.cr rewritten as thin wrappers delegating to data/src/commands/
 - 2026-02-09: commands/run_all.cr - unified pipeline runner with shared AreaMatcher (~90MB loaded once)
 - 2026-02-09: 28 new command specs (base, manifest, douglas_peucker, tools)
+- 2026-02-10: Social meta tags (og:type, twitter:card, descriptions)
+- 2026-02-10: Portfolio view with ambilight lightbox, shared PhotoLightbox component
+- 2026-02-10: HomePageView rename (NewHomePageView → HomePageView)
+- 2026-02-10: Stats rendering improvements - emoji icons, activity badge, temperature emoji
+- 2026-02-10: Eliminated 12 of 13 late-bound properties (reordered Blog.initialize)
+- 2026-02-10: PhotoAnalysisEntity, PhotoAnalysisCache - perceptual hash infrastructure
+- 2026-02-10: PhotoSimilarityService (LSH + Union-Find), ColorSimilarityService
+- 2026-02-10: GPS geotagging script (commands/fix_geotagging.cr) - 637 photos across 126 posts
+- 2026-02-10: Setup: route colors task added (priority 3)
+- 2026-02-10: Feed: photos map JSON added, nav stats JSON removed, payload→e2e rename
+- 2026-02-10: Old home page and old more page removed from registry
 
 ---
 
-*Current stats: 5 tasks + 42 views = 47 registry entries, 533 tests, 161 e2e tests*
+*Current stats: 6 tasks + 40 views = 46 registry entries, 573 tests, ~133 e2e tests*
