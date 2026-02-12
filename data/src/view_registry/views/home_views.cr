@@ -34,7 +34,7 @@ def register_home_views(r : ViewRegistry)
   #
   r.register("Home: main page", [:posts], priority: 20) do |ctx|
     ViewRegistry::Log.info { "Rendering main home page" }
-    ctx.write_output(HomePageView.new(context: ctx))
+    ctx.render_and_write(HomePageView.new(context: ctx))
   end
 
   # ============================================
@@ -51,23 +51,23 @@ def register_home_views(r : ViewRegistry)
   #
   r.register("Home: route map page", [:posts], priority: 21) do |ctx|
     ViewRegistry::Log.info { "Rendering route map page" }
-    ctx.write_output(StaticView::RouteMapView.new(context: ctx))
+    ctx.render_and_write(StaticView::RouteMapView.new(context: ctx))
   end
 
   # ============================================
   # View: POIs Page
   # ============================================
   #
-  # Renders the Points of Interest page showing notable
-  # locations from posts.
+  # Renders interactive map of Points of Interest with
+  # Preact side panel showing visited/todo details.
   #
   # URL: /pois.html
   # View class: PoisView
   #
-  # Dependencies: [:posts]
+  # Dependencies: [:posts, :yamls, :exifs] (train_stations/ideas from yamls, photo GPS from exifs)
   #
-  r.register("Home: POIs page", [:posts], priority: 22) do |ctx|
+  r.register("Home: POIs page", [:posts, :yamls, :exifs], priority: 22) do |ctx|
     ViewRegistry::Log.info { "Rendering POIs page" }
-    ctx.write_output(PoisView.new(context: ctx, url: "/pois.html"))
+    ctx.render_and_write(PoisView.new(context: ctx))
   end
 end

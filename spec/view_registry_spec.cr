@@ -109,8 +109,8 @@ describe "setup_view_registry" do
     it "registers all expected tasks" do
       r = setup_view_registry
 
-      # Should have 6 tasks total
-      r.tasks.size.should eq(6)
+      # Should have 7 tasks total (including photo coord quant cache)
+      r.tasks.size.should eq(7)
 
       # Check all tasks exist
       task_names = r.tasks.map(&.name)
@@ -120,6 +120,7 @@ describe "setup_view_registry" do
       task_names.should contain("Cache: nav stats")
       # PHASE6_DEPRECATED: task_names.should contain("Cache: town photos") - replaced by AreaPhotoSelector
       task_names.should contain("Cache: coord quant")
+      task_names.should contain("Cache: photo coord quant")
     end
 
     it "has correct setup task configuration" do
@@ -160,6 +161,10 @@ describe "setup_view_registry" do
       coord_quant = r.tasks.find { |t| t.name == "Cache: coord quant" }.not_nil!
       coord_quant.depends_on.should eq([:exifs])
       coord_quant.priority.should eq(6)
+
+      photo_coord_quant = r.tasks.find { |t| t.name == "Cache: photo coord quant" }.not_nil!
+      photo_coord_quant.depends_on.should eq([:exifs])
+      photo_coord_quant.priority.should eq(7)
     end
   end
 
@@ -369,12 +374,13 @@ describe "setup_view_registry" do
       end
     end
 
-    it "home views depend on posts only" do
+    it "home views depend on posts (and optionally yamls/exifs)" do
       r = setup_view_registry
       home_views = r.views.select { |v| v.name.starts_with?("Home:") }
 
       home_views.each do |view|
-        view.depends_on.should eq([:posts])
+        view.depends_on.should contain(:posts)
+        (view.depends_on - [:posts, :yamls, :exifs]).should be_empty
       end
     end
 
@@ -528,6 +534,7 @@ describe "setup_view_registry" do
       names.should contain("EXIF: init all posts")
       # PHASE6_DEPRECATED: names.should contain("Cache: town photos") - removed
       names.should contain("Cache: coord quant")
+      names.should contain("Cache: photo coord quant")
 
       # Should include photo views
       names.should contain("Photo galleries: all")
@@ -566,6 +573,7 @@ describe "setup_view_registry" do
       names.should contain("EXIF: init all posts")
       # PHASE6_DEPRECATED: names.should contain("Cache: town photos") - removed
       names.should contain("Cache: coord quant")
+      names.should contain("Cache: photo coord quant")
       names.should contain("Photo galleries: all")
       names.should contain("Photo maps: all")
     end

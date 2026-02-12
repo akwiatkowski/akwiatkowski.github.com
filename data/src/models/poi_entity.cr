@@ -4,13 +4,15 @@ struct PoiEntity
   @name : String
   @lat : Float64
   @lon : Float64
+  @type : String
 
-  getter :name, :lat, :lon
+  getter :name, :lat, :lon, :type
 
   def initialize(y : YAML::Any)
     @name = y["name"].to_s
     @lat = y["lat"].to_s.to_f
     @lon = y["lon"].to_s.to_f
+    @type = y["type"]?.try(&.to_s) || "todo"
   end
 
   def ump_map_url
