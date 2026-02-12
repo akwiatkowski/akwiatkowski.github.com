@@ -15,7 +15,7 @@ class PhotoMap::IndexView < PageView
     @subtitle : String = "",
   )
     super(context: context, url: @url)
-    meta = context.page_meta("map")
+    meta = context.page_header("map")
     @title = meta[:title].as(String)
     @image_url = meta[:backgrounds].as(String)
   end
@@ -88,7 +88,7 @@ class PhotoMap::IndexView < PageView
     s << "<h3>Tagi:</h3>\n"
     s << "<ul>\n"
     @photomaps_for_tag.keys.each do |tag_slug|
-      tag_name = context["gallery.#{tag_slug}.title"]?
+      tag_name = context.gallery_tag_title(tag_slug)
 
       if tag_name.nil?
         Log.error { "photo tag '#{tag_slug}' missing from config.yml" }

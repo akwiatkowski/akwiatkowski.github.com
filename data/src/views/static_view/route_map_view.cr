@@ -11,7 +11,7 @@ module StaticView
       @url : String = URL,
     )
       super(context: context, url: @url)
-      meta = context.page_meta("map")
+      meta = context.page_header("map")
       @image_url = meta[:backgrounds].as(String)
       @title = meta[:title].as(String)
     end

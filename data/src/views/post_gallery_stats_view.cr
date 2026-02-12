@@ -52,7 +52,7 @@ class PostGalleryStatsView < BaseView
     data["next_post_pager"] = ""
     data["prev_post_pager"] = ""
 
-    np = context.next_to(@post)
+    np = context.next_post(@post)
     if np
       nd = Hash(String, String).new
       nd["post.url"] = np.gallery_stats_url
@@ -62,7 +62,7 @@ class PostGalleryStatsView < BaseView
       data["next_post_pager"] = nl
     end
 
-    pp = context.prev_to(@post)
+    pp = context.prev_post(@post)
     if pp
       pd = Hash(String, String).new
       pd["post.url"] = pp.gallery_stats_url

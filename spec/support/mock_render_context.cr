@@ -42,19 +42,23 @@ class MockRenderContext
     @mock_site_desc
   end
 
-  def [](key : String) : String
-    @mock_config[key]? || ""
+  def title_for_page(name : String) : String
+    @mock_config["#{name}.title"]? || ""
   end
 
-  def []?(key : String) : String?
-    @mock_config[key]?
+  def subtitle_for_page(name : String) : String
+    @mock_config["#{name}.subtitle"]? || ""
+  end
+
+  def background_for_page(name : String) : String
+    @mock_config["#{name}.backgrounds"]? || ""
   end
 
   def posts
     @mock_posts
   end
 
-  def ready_posts
+  def published_posts
     @mock_posts.select(&.ready?)
   end
 
@@ -62,9 +66,9 @@ class MockRenderContext
     "/tmp/test_output"
   end
 
-  # Mock html_buffer
-  def html_buffer
-    @html_buffer ||= MockHtmlBuffer.new
+  # Mock output_buffer
+  def output_buffer
+    @output_buffer ||= MockHtmlBuffer.new
   end
 
   def logger

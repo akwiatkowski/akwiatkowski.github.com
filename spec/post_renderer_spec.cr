@@ -4,7 +4,7 @@ require "../data/src/commands/base"
 describe PostRenderer do
   # Use a shared blog instance for all tests (expensive to create)
   blog = Commands.init_blog("dev")
-  ctx = RenderContext.new(blog)
+  ctx = BuildContext.new(blog)
   image_resizer = blog.image_resizer.not_nil!
   exif_db = blog.data_manager.exif_db
 

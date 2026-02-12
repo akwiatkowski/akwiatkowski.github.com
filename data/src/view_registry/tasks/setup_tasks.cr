@@ -31,7 +31,7 @@ def register_setup_tasks(r : ViewRegistry)
   #
   r.task("Setup: dev render", [] of Symbol, priority: 1) do |ctx|
     ViewRegistry::Log.debug { "Running dev_render hook" }
-    ctx.dev_render
+    ctx.setup_dev_output
   end
 
   # ============================================
@@ -64,6 +64,6 @@ def register_setup_tasks(r : ViewRegistry)
   #
   r.task("Setup: route colors", [] of Symbol, priority: 3) do |ctx|
     ViewRegistry::Log.debug { "Generating route_colors.js from config" }
-    ctx.write_output(SpecialView::RouteColorsJsGenerator.new(context: ctx))
+    ctx.render_and_write(SpecialView::RouteColorsJsGenerator.new(context: ctx))
   end
 end

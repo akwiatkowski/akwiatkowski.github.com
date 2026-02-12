@@ -7,7 +7,7 @@ class Tremolite::Views::SiteMapGenerator < Tremolite::Views::AbstractView
 
   def initialize(context : RenderContext, @url = "/sitemap.xml")
     @context = context
-    @html_buffer = @context.html_buffer.as(Tremolite::HtmlBuffer)
+    @html_buffer = @context.output_buffer.as(Tremolite::HtmlBuffer)
     @site_url = @context.site_url.as(String)
   end
 

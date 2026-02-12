@@ -54,11 +54,11 @@ def register_photo_views(r : ViewRegistry)
     tag_renderers = Array(GalleryView::TagView).new
     ctx.photo_tags.each do |photo_tag|
       view = GalleryView::TagView.new(context: ctx, photo_tag: photo_tag)
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       tag_renderers << view
     end
     tag_gallery_index_view = GalleryView::TagIndexView.new(context: ctx, renderers: tag_renderers)
-    ctx.write_output(tag_gallery_index_view)
+    ctx.render_and_write(tag_gallery_index_view)
 
     # === Lens galleries ===
     lens_renderers = Array(GalleryView::LensView).new
@@ -70,11 +70,11 @@ def register_photo_views(r : ViewRegistry)
         include_headers: true,
         fill_until: GALLERY_FILL_UNTIL
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       lens_renderers << view
     end
     lens_gallery_index_view = GalleryView::LensIndexView.new(context: ctx, renderers: lens_renderers)
-    ctx.write_output(lens_gallery_index_view)
+    ctx.render_and_write(lens_gallery_index_view)
 
     # === Camera galleries ===
     camera_renderers = Array(GalleryView::CameraView).new
@@ -86,11 +86,11 @@ def register_photo_views(r : ViewRegistry)
         include_headers: true,
         fill_until: GALLERY_FILL_UNTIL
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       camera_renderers << view
     end
     camera_gallery_index_view = GalleryView::CameraIndexView.new(context: ctx, renderers: camera_renderers)
-    ctx.write_output(camera_gallery_index_view)
+    ctx.render_and_write(camera_gallery_index_view)
 
     # === Focal length galleries ===
     focal_renderers = Array(GalleryView::FocalLengthView).new
@@ -115,11 +115,11 @@ def register_photo_views(r : ViewRegistry)
         include_headers: true,
         fill_until: GALLERY_FILL_UNTIL_FOCAL
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       focal_renderers << view
     end
     focal_length_gallery_index_view = GalleryView::FocalLengthIndexView.new(context: ctx, renderers: focal_renderers)
-    ctx.write_output(focal_length_gallery_index_view)
+    ctx.render_and_write(focal_length_gallery_index_view)
 
     # === ISO galleries ===
     iso_renderers = Array(GalleryView::IsoView).new
@@ -139,11 +139,11 @@ def register_photo_views(r : ViewRegistry)
         include_headers: true,
         fill_until: GALLERY_FILL_UNTIL_ISO
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       iso_renderers << view
     end
     iso_gallery_index_view = GalleryView::IsoIndexView.new(context: ctx, renderers: iso_renderers)
-    ctx.write_output(iso_gallery_index_view)
+    ctx.render_and_write(iso_gallery_index_view)
 
     # === Exposure galleries ===
     exposure_renderers = Array(GalleryView::ExposureView).new
@@ -164,15 +164,14 @@ def register_photo_views(r : ViewRegistry)
         include_headers: true,
         fill_until: GALLERY_FILL_UNTIL_EXPOSURE
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       exposure_renderers << view
     end
     exposure_gallery_index_view = GalleryView::ExposureIndexView.new(context: ctx, renderers: exposure_renderers)
-    ctx.write_output(exposure_gallery_index_view)
+    ctx.render_and_write(exposure_gallery_index_view)
 
     # === Quantized coordinate galleries ===
     photo_coord_quant_cache = ctx.photo_coord_quant_cache
-    photo_coord_quant_cache.refresh(ctx.posts)
     quant_renderers = HashQuantCoordViews.new
     photo_coord_quant_cache.cache.keys.each do |key|
       quant_photos_container = photo_coord_quant_cache.cache[key]
@@ -185,15 +184,15 @@ def register_photo_views(r : ViewRegistry)
         quant_photos: quant_photos,
         quant_info: quant_info
       )
-      ctx.write_output(view)
+      ctx.render_and_write(view)
       quant_renderers[key[:lat]] ||= Hash(Float32, GalleryView::QuantCoordView).new
       quant_renderers[key[:lat]][key[:lon]] = view
     end
     quant_coord_index_view = GalleryView::QuantCoordIndexView.new(context: ctx, renderers: quant_renderers)
-    ctx.write_output(quant_coord_index_view)
+    ctx.render_and_write(quant_coord_index_view)
 
     # === Main gallery index ===
-    ctx.write_output(GalleryView::IndexView.new(
+    ctx.render_and_write(GalleryView::IndexView.new(
       context: ctx,
       tag_gallery_index_view: tag_gallery_index_view,
       lens_gallery_index_view: lens_gallery_index_view,
@@ -205,8 +204,8 @@ def register_photo_views(r : ViewRegistry)
     ))
 
     # === Gallery stats ===
-    ctx.write_output(DebugView::TagStatsView.new(context: ctx))
-    ctx.write_output(DynamicView::TimelinePhotoView.new(context: ctx))
+    ctx.render_and_write(DebugView::TagStatsView.new(context: ctx))
+    ctx.render_and_write(DynamicView::TimelinePhotoView.new(context: ctx))
 
     # EXIF stats moved to StaticView::JsExifView at /statystyki_exif.html (static_views.cr)
   end
@@ -257,7 +256,7 @@ def register_photo_views(r : ViewRegistry)
         post_slugs: post_slugs,
       )
       photomaps_for_voivodeship_big[voivodeship.name] = big_view
-      ctx.write_output(big_view)
+      ctx.render_and_write(big_view)
 
       small_config = Map::MapConfig.area_grid(
         zoom: Map::DEFAULT_VOIVODESHIP_SMALL_ZOOM,
@@ -271,7 +270,7 @@ def register_photo_views(r : ViewRegistry)
         post_slugs: post_slugs,
       )
       photomaps_for_voivodeship_small[voivodeship.name] = small_view
-      ctx.write_output(small_view)
+      ctx.render_and_write(small_view)
     end
 
     # === Post maps ===
@@ -285,7 +284,7 @@ def register_photo_views(r : ViewRegistry)
             url: Map::LinkGenerator.url_photomap_for_post_big(post: post),
           )
           photomaps_for_post_big[post] = big_view
-          ctx.write_output(big_view)
+          ctx.render_and_write(big_view)
 
           # Small map
           small_view = PhotoMap::PostRouteMapSvgView.new(
@@ -294,14 +293,14 @@ def register_photo_views(r : ViewRegistry)
             url: Map::LinkGenerator.url_photomap_for_post_small(post: post),
           )
           photomaps_for_post_small[post] = small_view
-          ctx.write_output(small_view)
+          ctx.render_and_write(small_view)
         end
       end
     end
 
     # === Idea maps ===
     ctx.ideas.each do |idea|
-      ctx.write_output(PhotoMap::IdeaRouteMapSvgView.new(context: ctx, idea: idea))
+      ctx.render_and_write(PhotoMap::IdeaRouteMapSvgView.new(context: ctx, idea: idea))
     end
 
     # === Global maps (using consolidated GlobalMapSvgView) ===
@@ -318,7 +317,7 @@ def register_photo_views(r : ViewRegistry)
         config: config,
       )
       photomaps_global[name] = view
-      ctx.write_output(view)
+      ctx.render_and_write(view)
     end
 
     # Animated
@@ -328,7 +327,7 @@ def register_photo_views(r : ViewRegistry)
       config: Map::MapConfig.global_animated(zoom: Map::DEFAULT_SMALL_ZOOM),
     )
     photomaps_global["Animowana"] = animated_view
-    ctx.write_output(animated_view)
+    ctx.render_and_write(animated_view)
 
     # Small detailed (grid only)
     small_detailed_view = PhotoMap::GlobalMapSvgView.new(
@@ -337,7 +336,7 @@ def register_photo_views(r : ViewRegistry)
       config: Map::MapConfig.global_grid(zoom: Map::DEFAULT_SMALL_DETAILED_ZOOM, photo_size: Map::DEFAULT_SMALL_DETAILED_PHOTO_SIZE),
     )
     photomaps_global["Mała i szczegółowa"] = small_detailed_view
-    ctx.write_output(small_detailed_view)
+    ctx.render_and_write(small_detailed_view)
 
     # Dots
     dots_view = PhotoMap::GlobalMapSvgView.new(
@@ -346,7 +345,7 @@ def register_photo_views(r : ViewRegistry)
       config: Map::MapConfig.global_dots(zoom: Map::DEFAULT_COARSE_ZOOM, dot_radius: Map::DEFAULT_DOT_RADIUS),
     )
     photomaps_global["Kółko-zdjęcia"] = dots_view
-    ctx.write_output(dots_view)
+    ctx.render_and_write(dots_view)
 
     # === Tagged photo maps (using consolidated AreaMapSvgView) ===
     selected_tags = ["rural", "winter", "city", "night", "macro", "cat", "best", "good", "timeline"]
@@ -362,11 +361,11 @@ def register_photo_views(r : ViewRegistry)
         photo_entities_override: photo_entities,
       )
       photomaps_for_tag[tag] = view
-      ctx.write_output(view)
+      ctx.render_and_write(view)
     end
 
     # === Photo maps index ===
-    ctx.write_output(PhotoMap::IndexView.new(
+    ctx.render_and_write(PhotoMap::IndexView.new(
       context: ctx,
       url: "/mapa_zdjec.html",
       photomaps_for_tag: photomaps_for_tag,

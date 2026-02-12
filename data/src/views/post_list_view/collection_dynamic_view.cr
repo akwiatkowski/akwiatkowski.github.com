@@ -34,7 +34,7 @@ module PostListView
     end
 
     def title
-      context["home.title"]
+      context.title_for_page("home")
     end
 
     def meta_keywords_string

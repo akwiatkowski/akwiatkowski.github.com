@@ -70,4 +70,25 @@ def register_cache_tasks(r : ViewRegistry)
     ctx.post_coord_quant_cache.refresh(ctx.posts)
     ViewRegistry::Log.debug { "post_coord_quant_cache refreshed" }
   end
+
+  # ============================================
+  # Task: Refresh Photo Coord Quant Cache
+  # ============================================
+  #
+  # Recalculates coordinate quantization for photos.
+  # This is used for quantized coordinate galleries
+  # (grid-based location photo galleries).
+  #
+  # Previously inlined in photo_views.cr registration block.
+  # Moved here so views remain pure readers.
+  #
+  # Dependencies: [:exifs] - photo locations may have changed
+  # Priority: 7 (after coord quant, before views)
+  #
+  r.task("Cache: photo coord quant", [:exifs], priority: 7) do |ctx|
+    ViewRegistry::Log.info { "Refreshing photo_coord_quant_cache" }
+
+    ctx.photo_coord_quant_cache.refresh(ctx.posts)
+    ViewRegistry::Log.debug { "photo_coord_quant_cache refreshed" }
+  end
 end

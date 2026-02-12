@@ -16,7 +16,7 @@ module GalleryView
     )
       @url = URL
       super(context: context, url: @url)
-      meta = context.page_meta("gallery")
+      meta = context.page_header("gallery")
       @title = meta[:title].as(String)
       @subtitle = meta[:subtitle].as(String)
       @image_url = meta[:backgrounds].as(String)

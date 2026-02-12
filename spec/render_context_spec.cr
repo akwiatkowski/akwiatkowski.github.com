@@ -19,17 +19,17 @@ describe RenderContext do
       ctx.site_url.should eq "https://example.com"
     end
 
-    it "MockRenderContext provides config access" do
+    it "MockRenderContext provides page data access" do
       ctx = MockRenderContext.new
       ctx.add_config("home.title", "Welcome")
 
-      ctx["home.title"].should eq "Welcome"
+      ctx.title_for_page("home").should eq "Welcome"
     end
 
-    it "MockRenderContext returns empty string for missing config" do
+    it "MockRenderContext returns empty string for missing page data" do
       ctx = MockRenderContext.new
 
-      ctx["nonexistent.key"].should eq ""
+      ctx.title_for_page("nonexistent").should eq ""
     end
 
     it "MockRenderContext provides posts" do
@@ -41,20 +41,20 @@ describe RenderContext do
       ctx.posts.first.title.should eq "First Post"
     end
 
-    it "MockRenderContext filters ready posts" do
+    it "MockRenderContext filters published posts" do
       ctx = MockRenderContext.new
       ctx.add_post(MockPost.new(slug: "ready", title: "Ready", ready: true))
       ctx.add_post(MockPost.new(slug: "draft", title: "Draft", ready: false))
 
-      ctx.ready_posts.size.should eq 1
-      ctx.ready_posts.first.slug.should eq "ready"
+      ctx.published_posts.size.should eq 1
+      ctx.published_posts.first.slug.should eq "ready"
     end
 
     it "MockHtmlBuffer caches values" do
       ctx = MockRenderContext.new
-      ctx.html_buffer.buffer["test_key"] = "cached_value"
+      ctx.output_buffer.buffer["test_key"] = "cached_value"
 
-      ctx.html_buffer.buffer["test_key"].should eq "cached_value"
+      ctx.output_buffer.buffer["test_key"].should eq "cached_value"
     end
   end
 

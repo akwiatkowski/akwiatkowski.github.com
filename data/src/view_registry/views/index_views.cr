@@ -34,6 +34,6 @@ def register_index_views(r : ViewRegistry)
   #
   r.register("Index: towns", [:posts, :yamls], priority: 60) do |ctx|
     ViewRegistry::Log.info { "Rendering towns index" }
-    ctx.write_output(ModelView::TownsIndexView.new(context: ctx, url: "/gminy.html"))
+    ctx.render_and_write(ModelView::TownsIndexView.new(context: ctx))
   end
 end

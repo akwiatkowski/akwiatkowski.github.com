@@ -24,6 +24,6 @@ class MarkdownPageView < PageView
   getter :image_url, :title, :subtitle
 
   def inner_html
-    return context.markdown_wrapper.to_html(File.read(@path))
+    return context.markdown_renderer.to_html(File.read(@path))
   end
 end

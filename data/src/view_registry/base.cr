@@ -13,7 +13,7 @@
 class ViewRegistry
   Log = ::Log.for(self)
 
-  alias EntryBlock = Proc(RenderContext, Nil)
+  alias EntryBlock = Proc(BuildContext, Nil)
 
   # ============================================
   # Priority Ranges (single source of truth)
@@ -77,7 +77,7 @@ class ViewRegistry
     name : String,
     depends_on : Array(Symbol),
     priority : Int32 = 100,
-    &block : RenderContext -> Nil
+    &block : BuildContext -> Nil
   ) : self
     @entries << Entry.new(name, depends_on, block, priority, is_task: false)
     self
@@ -88,7 +88,7 @@ class ViewRegistry
     name : String,
     depends_on : Array(Symbol),
     priority : Int32 = 1,
-    &block : RenderContext -> Nil
+    &block : BuildContext -> Nil
   ) : self
     @entries << Entry.new(name, depends_on, block, priority, is_task: true)
     self

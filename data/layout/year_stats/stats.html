@@ -2,6 +2,10 @@
   {{ other_year_links }}
 </div>
 
+<div class="ys-sparkline-wrap">
+  {{ sparkline_html }}
+</div>
+
 <div class="ys-summary">
   <div class="ys-card">
     <div class="ys-card-icon">📝</div>
@@ -47,6 +51,8 @@
   </div>
 </div>
 
+{{ poty_html }}
+
 <div class="ys-details">
   <p>
     Na rowerze: <strong>{{ bicycle_distance }} km</strong> w <strong>{{ bicycle_hours }} h</strong>.
@@ -56,6 +62,12 @@
   <p>Odwiedzone województwa: {{ voivodeships_stats }}</p>
   {{ delta_html }}
 </div>
+
+{{ tags_html }}
+
+{{ records_html }}
+
+{{ map_html }}
 
 <h3 class="ys-section-title">Wpisy</h3>
 
@@ -84,6 +96,7 @@
       <th class="text-end">Rower</th>
       <th class="text-end">Pieszo</th>
       <th class="text-end">Czas</th>
+      <th></th>
     </tr>
   </thead>
   <tbody>

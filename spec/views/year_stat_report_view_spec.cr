@@ -35,6 +35,33 @@ describe DynamicView::YearStatReportView do
     end
   end
 
+  describe "SYSTEM_TAGS" do
+    it "includes photo_of_the_year" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("photo_of_the_year").should be_true
+    end
+
+    it "includes todo" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("todo").should be_true
+    end
+
+    it "includes todo_media" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("todo_media").should be_true
+    end
+
+    it "includes hidden" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("hidden").should be_true
+    end
+
+    it "has exactly 4 system tags" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.size.should eq 4
+    end
+
+    it "does not include regular tags" do
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("bicycle").should be_false
+      DynamicView::YearStatReportView::SYSTEM_TAGS.includes?("hike").should be_false
+    end
+  end
+
   describe "page_css" do
     it "includes year_stats" do
       # We can't instantiate the view without a real context,

@@ -59,17 +59,17 @@ class BaseView < Tremolite::Views::BaseView
     page_js_key = page_js || ""
     cache_key = "#{HEAD_OPEN_HTML_KEY}_#{resolved_bundles.join(",")}_#{page_css.join(",")}_#{page_js_key}"
 
-    buffered_html = context.html_buffer.buffer[cache_key]?
+    buffered_html = context.output_buffer.buffer[cache_key]?
     return buffered_html.not_nil! if buffered_html
 
-    context.html_buffer.buffer[cache_key] = String.build do |s|
+    context.output_buffer.buffer[cache_key] = String.build do |s|
       s << load_html("include/head_meta")
       s << assets_html(context)
       s << load_html("include/head_icons")
       s << load_html("include/head_feeds")
     end
 
-    context.html_buffer.buffer[cache_key].not_nil!
+    context.output_buffer.buffer[cache_key].not_nil!
   end
 
   def head_title_html
@@ -229,7 +229,7 @@ class BaseView < Tremolite::Views::BaseView
   # Legacy navigation with dropdowns (kept for reference)
   def nav_html_legacy
     h = nav_stats_cache.to_hash
-    h["site.title"] = context.site_title if context["site.title"]?
+    h["site.title"] = context.site_title
 
     h["nav-voivodeships"] = nav_stats_model_array_to_html(
       array: nav_stats_cache.stats.voivodeships_nav,
@@ -265,7 +265,7 @@ class BaseView < Tremolite::Views::BaseView
   # Legacy footer (kept for reference)
   def footer_html_legacy
     h = Hash(String, String).new
-    h["site.title"] = context.site_title if context["site.title"]?
+    h["site.title"] = context.site_title
     h["year"] = Time.local.year.to_s
 
     return load_html("include/footer", h)

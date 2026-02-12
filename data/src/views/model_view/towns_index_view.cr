@@ -5,14 +5,16 @@ module ModelView
   class TownsIndexView < PageView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/gminy.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
-      meta = context.page_meta("towns")
+      meta = context.page_header("towns")
       @title = meta[:title].as(String)
       @subtitle = meta[:subtitle].as(String)
 
       # Hero image: last finished post's card photo
-      last_post = context.ready_posts.sort_by(&.time).last?
+      last_post = context.published_posts.sort_by(&.time).last?
       @image_url = last_post.try(&.card_image_url) || meta[:backgrounds].as(String)
 
       @towns_with_posts = context.areas_with_posts(AreaType::Town)

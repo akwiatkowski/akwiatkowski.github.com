@@ -20,7 +20,7 @@ module DynamicView
 
       @timeline_photo_entities = @photo_entities.select { |p| p.is_timeline }.as(Array(PhotoEntity))
 
-      meta = context.page_meta("timeline")
+      meta = context.page_header("timeline")
       @image_url = meta[:backgrounds].as(String)
       @title = meta[:title].as(String)
       @subtitle = meta[:subtitle].as(String)

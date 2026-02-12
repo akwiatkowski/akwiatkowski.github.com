@@ -2,7 +2,9 @@ module StaticView
   class JsTimelineView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/linia_czasu.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
     end
 

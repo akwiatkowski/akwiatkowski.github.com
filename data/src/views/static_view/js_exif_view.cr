@@ -2,7 +2,9 @@ module StaticView
   class JsExifView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/statystyki_exif.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
     end
 

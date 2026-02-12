@@ -2,7 +2,9 @@ module StaticView
   class PhotoPlannerView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/pomysly_dla_zdjec.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
     end
 

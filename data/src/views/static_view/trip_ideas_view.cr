@@ -2,7 +2,9 @@ module StaticView
   class TripIdeasView < BaseView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/pomysly_tras.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
     end
 

@@ -1,4 +1,4 @@
-# RenderContext provides a clean interface for views to access data
+# RenderContext provides a clean read-only interface for views to access data
 # without directly coupling to the Blog class internals.
 #
 # Benefits:
@@ -9,12 +9,12 @@
 #
 # Usage:
 #   ctx = RenderContext.new(blog)
-#   ctx.posts          # => Array(Tremolite::Post)
-#   ctx.config["key"]  # => String (from data_manager)
-#   ctx.site_title     # => String
+#   ctx.posts              # => Array(Tremolite::Post)
+#   ctx.site_title         # => String
+#   ctx.title_for_page("home")  # => String
 #
 class RenderContext
-  private getter blog : Tremolite::Blog
+  protected getter blog : Tremolite::Blog
   getter router : Router
   @asset_bundle_loader : AssetBundleLoader?
   @route_colors : RouteColors?
@@ -48,11 +48,11 @@ class RenderContext
     blog.post_collection.posts
   end
 
-  def posts_from_latest : Array(Tremolite::Post)
+  def posts_newest_first : Array(Tremolite::Post)
     blog.post_collection.posts_from_latest
   end
 
-  def ready_posts : Array(Tremolite::Post)
+  def published_posts : Array(Tremolite::Post)
     posts.select(&.ready?)
   end
 
@@ -60,26 +60,17 @@ class RenderContext
   # Configuration (from data_manager)
   # ============================================
 
-  def config : Tremolite::DataManager
+  protected def data_manager : Tremolite::DataManager
     blog.data_manager.not_nil!
-  end
-
-  # Shortcut for config["key"]
-  def [](key : String) : String
-    config[key].to_s
-  end
-
-  def []?(key : String) : String?
-    config[key]?.try(&.to_s)
   end
 
   # Common config values with typed accessors
   def site_title : String
-    self["site.title"]
+    data_manager["site.title"].to_s
   end
 
   def site_url : String
-    self["site.url"]
+    data_manager["site.url"].to_s
   end
 
   def site_desc : String
@@ -87,15 +78,11 @@ class RenderContext
   end
 
   def site_email : String
-    self["site.email"]
+    data_manager["site.email"].to_s
   end
 
   def site_author : String
-    self["site.author"]
-  end
-
-  def posts_descending : Array(Tremolite::Post)
-    posts.sort { |a, b| b.time <=> a.time }
+    data_manager["site.author"].to_s
   end
 
   def last_updated_at : Time
@@ -107,23 +94,58 @@ class RenderContext
   end
 
   # ============================================
+  # Page Data Accessors
+  # ============================================
+
+  # Get title for a named page (e.g. "home", "about", "gallery")
+  def title_for_page(name : String) : String
+    data_manager["#{name}.title"].to_s
+  end
+
+  # Get subtitle for a named page
+  def subtitle_for_page(name : String) : String
+    data_manager["#{name}.subtitle"]?.try(&.to_s) || ""
+  end
+
+  # Get background image URL for a named page
+  def background_for_page(name : String) : String
+    data_manager["#{name}.backgrounds"].to_s
+  end
+
+  # Get gallery tag title (e.g. "gallery.rural.title")
+  def gallery_tag_title(tag_slug : String) : String?
+    data_manager["gallery.#{tag_slug}.title"]?.try(&.to_s)
+  end
+
+  # Returns title, subtitle, backgrounds for a page type
+  # Usage: header = context.page_header("summary")
+  #        header[:title], header[:subtitle], header[:backgrounds]
+  def page_header(name : String)
+    {
+      title:       title_for_page(name),
+      subtitle:    subtitle_for_page(name),
+      backgrounds: background_for_page(name),
+    }
+  end
+
+  # ============================================
   # Entity Data
   # ============================================
 
   def tags
-    config.tags.not_nil!
+    data_manager.tags.not_nil!
   end
 
   def train_stations
-    config.train_stations.not_nil!
+    data_manager.train_stations.not_nil!
   end
 
   def ideas
-    config.ideas.not_nil!
+    data_manager.ideas.not_nil!
   end
 
   def photo_tags
-    config.photo_tags.not_nil!
+    data_manager.photo_tags.not_nil!
   end
 
   # ============================================
@@ -131,27 +153,27 @@ class RenderContext
   # ============================================
 
   def nav_stats_cache
-    config.nav_stats_cache.not_nil!
+    data_manager.nav_stats_cache.not_nil!
   end
 
   def exif_db
-    config.exif_db
+    data_manager.exif_db
   end
 
   def photo_analysis_cache
-    config.photo_analysis_cache
+    data_manager.photo_analysis_cache
   end
 
   def photo_coord_quant_cache
-    config.photo_coord_quant_cache.not_nil!
+    data_manager.photo_coord_quant_cache.not_nil!
   end
 
   def post_coord_quant_cache
-    config.post_coord_quant_cache.not_nil!
+    data_manager.post_coord_quant_cache.not_nil!
   end
 
   def area_data_loader
-    config.area_data_loader.not_nil!
+    data_manager.area_data_loader.not_nil!
   end
 
   # Get areas of a specific type
@@ -212,21 +234,6 @@ class RenderContext
   end
 
   # ============================================
-  # Page Metadata
-  # ============================================
-
-  # Returns title, subtitle, backgrounds for a page type
-  # Usage: meta = context.page_meta("summary")
-  #        meta[:title], meta[:subtitle], meta[:backgrounds]
-  def page_meta(name : String)
-    {
-      title:       config["#{name}.title"].to_s,
-      subtitle:    config["#{name}.subtitle"]?.try(&.to_s) || "",
-      backgrounds: config["#{name}.backgrounds"].to_s,
-    }
-  end
-
-  # ============================================
   # Rendering Infrastructure
   # ============================================
 
@@ -254,15 +261,15 @@ class RenderContext
     blog.@output_path
   end
 
-  def markdown_wrapper
+  def markdown_renderer
     blog.markdown_wrapper
   end
 
   def photo_map_dictionary
-    config.photo_map_dictionary.not_nil!
+    data_manager.photo_map_dictionary.not_nil!
   end
 
-  def html_buffer
+  def output_buffer
     blog.html_buffer
   end
 
@@ -290,11 +297,11 @@ class RenderContext
   end
 
   # Post navigation
-  def next_to(post : Tremolite::Post)
+  def next_post(post : Tremolite::Post)
     blog.post_collection.next_to(post)
   end
 
-  def prev_to(post : Tremolite::Post)
+  def prev_post(post : Tremolite::Post)
     blog.post_collection.prev_to(post)
   end
 
@@ -314,26 +321,9 @@ class RenderContext
     areas_of_type(AreaType::Town).select { |area| slugs.includes?(area.slug) }
   end
 
-  # ============================================
-  # View Rendering
-  # ============================================
-
-  # Render a view through the blog's renderer
-  # This provides a clean interface for registry blocks to output views
-  def write_output(view)
-    blog.renderer.render_view(view)
-  end
-
-  def dev_render
-    blog.renderer.dev_render
-  end
-
-  def copy_assets_and_photos
-    blog.renderer.copy_assets_and_photos
-  end
-
-  # Access the validator for entity validation
+  # Access the validator (read-only accessor, used by ArticleView)
   def validator
     blog.validator.not_nil!
   end
+
 end

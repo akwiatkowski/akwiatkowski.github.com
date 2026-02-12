@@ -31,7 +31,7 @@ class HomePageView < BaseView
     if best_posts.size > 0
       best_posts.first.card_image_url
     else
-      context.posts_from_latest.first.card_image_url
+      context.posts_newest_first.first.card_image_url
     end
   end
 

@@ -34,7 +34,7 @@ def register_entity_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering tag pages" }
     ctx.tags.each do |tag|
       ctx.validator.validate_object(tag)
-      ctx.write_output(PostListView::TagDynamicView.new(context: ctx, tag: tag))
+      ctx.render_and_write(PostListView::TagDynamicView.new(context: ctx, tag: tag))
     end
   end
 
@@ -48,7 +48,7 @@ def register_entity_views(r : ViewRegistry)
   r.register("Tags: legacy redirects", [:yamls], priority: 12) do |ctx|
     ViewRegistry::Log.info { "Rendering tag legacy redirects" }
     ctx.tags.each do |tag|
-      ctx.write_output(SpecialView::TemporaryRedirectView.new(
+      ctx.render_and_write(SpecialView::TemporaryRedirectView.new(
         context: ctx,
         old_url: tag.legacy_url,
         new_url: tag.view_url

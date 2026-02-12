@@ -2,9 +2,11 @@ module DynamicView
   class TownsTimelineView < PageView
     Log = ::Log.for(self)
 
-    def initialize(context : RenderContext, @url : String)
+    URL = "/gminy/chronologicznie.html"
+
+    def initialize(context : RenderContext, @url : String = URL)
       super(context: context, url: @url)
-      meta = context.page_meta("towns_timeline")
+      meta = context.page_header("towns_timeline")
       @image_url = meta[:backgrounds].as(String)
       @title = meta[:title].as(String)
       @subtitle = meta[:subtitle].as(String)

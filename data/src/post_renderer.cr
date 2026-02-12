@@ -18,7 +18,7 @@ class PostRenderer
   Log = ::Log.for(self)
 
   def initialize(
-    @ctx : RenderContext,
+    @ctx : BuildContext,
     @image_resizer : Tremolite::ImageResizer,
     @exif_db : ExifDb,
   )
@@ -132,7 +132,7 @@ class PostRenderer
   end
 
   private def render_article(post : Tremolite::Post, hide_not_finished : Bool)
-    @ctx.write_output(PostView::ArticleView.new(
+    @ctx.render_and_write(PostView::ArticleView.new(
       context: @ctx,
       post: post,
       hide_not_finished: hide_not_finished
@@ -140,8 +140,8 @@ class PostRenderer
   end
 
   private def render_galleries(post : Tremolite::Post)
-    @ctx.write_output(GalleryView::PostView.new(context: @ctx, post: post))
-    @ctx.write_output(PostGalleryStatsView.new(context: @ctx, post: post))
+    @ctx.render_and_write(GalleryView::PostView.new(context: @ctx, post: post))
+    @ctx.render_and_write(PostGalleryStatsView.new(context: @ctx, post: post))
   end
 
   private def save_exif_cache(post : Tremolite::Post)

@@ -34,7 +34,7 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: posts", [:posts], priority: 100) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug posts page" }
-    ctx.write_output(DebugView::PostsView.new(context: ctx))
+    ctx.render_and_write(DebugView::PostsView.new(context: ctx))
   end
 
   # ============================================
@@ -50,7 +50,7 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: camera stuff", [:exifs], priority: 101) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug camera stuff page" }
-    ctx.write_output(DebugView::CameraStuffView.new(context: ctx))
+    ctx.render_and_write(DebugView::CameraStuffView.new(context: ctx))
   end
 
   # ============================================
@@ -66,7 +66,7 @@ def register_debug_views(r : ViewRegistry)
   #
   r.register("Debug: missing EXIF", [:exifs], priority: 102) do |ctx|
     ViewRegistry::Log.debug { "Rendering debug missing EXIF page" }
-    ctx.write_output(DebugView::MissingExifView.new(context: ctx))
+    ctx.render_and_write(DebugView::MissingExifView.new(context: ctx))
   end
 
   # ============================================
@@ -84,7 +84,7 @@ def register_debug_views(r : ViewRegistry)
   # Disabled for now — services are kept for future use
   # r.register("Debug: similar photos", [:exifs], priority: 103) do |ctx|
   #   ViewRegistry::Log.debug { "Rendering debug similar photos page" }
-  #   ctx.write_output(DebugView::SimilarPhotosView.new(context: ctx))
+  #   ctx.render_and_write(DebugView::SimilarPhotosView.new(context: ctx))
   # end
 
   # ============================================
@@ -102,6 +102,6 @@ def register_debug_views(r : ViewRegistry)
   # Disabled for now — services are kept for future use
   # r.register("Debug: color photos", [:exifs], priority: 104) do |ctx|
   #   ViewRegistry::Log.debug { "Rendering debug color photos page" }
-  #   ctx.write_output(DebugView::ColorPhotosView.new(context: ctx))
+  #   ctx.render_and_write(DebugView::ColorPhotosView.new(context: ctx))
   # end
 end

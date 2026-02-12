@@ -20,6 +20,7 @@ require "./services/photo_area_cache"
 require "./services/photo_similarity_service"
 require "./services/color_similarity_service"
 require "./render_context"
+require "./build_context"
 require "./post_renderer"
 require "./view_registry/all"
 
@@ -48,8 +49,8 @@ class Tremolite::Blog
     @render_coordinator ||= RenderCoordinator.new(view_registry)
   end
 
-  def context
-    @context ||= RenderContext.new(self)
+  def context : BuildContext
+    @context ||= BuildContext.new(self)
   end
 
   # Output history for tracking file changes
@@ -228,8 +229,8 @@ class Tremolite::Blog
     # update sitemap only when full render to not mess
     # with google stuff
     if force_full_render
-      ctx = RenderContext.new(self)
-      ctx.write_output(Tremolite::Views::SiteMapGenerator.new(context: context))
+      ctx = BuildContext.new(self)
+      ctx.render_and_write(Tremolite::Views::SiteMapGenerator.new(context: context))
     end
 
     Profiler.measure("validation", "validator.run") do

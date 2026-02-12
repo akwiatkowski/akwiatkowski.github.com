@@ -14,7 +14,7 @@ class RenderCoordinator
   end
 
   # Main entry point - render entries based on what changed
-  def render(context : RenderContext, changed : Set(Symbol))
+  def render(context : BuildContext, changed : Set(Symbol))
     to_run = @registry.entries_for(changed)
 
     Log.info { "RenderCoordinator: #{to_run.size} entries to run (#{changed.join(", ")} changed)" }
@@ -27,27 +27,27 @@ class RenderCoordinator
   end
 
   # Convenience methods for common scenarios
-  def render_all(context : RenderContext)
+  def render_all(context : BuildContext)
     render(context, Set{:posts, :yamls, :exifs})
   end
 
-  def render_posts_changed(context : RenderContext)
+  def render_posts_changed(context : BuildContext)
     render(context, Set{:posts})
   end
 
-  def render_yamls_changed(context : RenderContext)
+  def render_yamls_changed(context : BuildContext)
     render(context, Set{:yamls})
   end
 
-  def render_exifs_changed(context : RenderContext)
+  def render_exifs_changed(context : BuildContext)
     render(context, Set{:exifs})
   end
 
-  def render_posts_and_yamls_changed(context : RenderContext)
+  def render_posts_and_yamls_changed(context : BuildContext)
     render(context, Set{:posts, :yamls})
   end
 
-  private def run_entry(entry : ViewRegistry::Entry, context : RenderContext, num : Int32, total : Int32)
+  private def run_entry(entry : ViewRegistry::Entry, context : BuildContext, num : Int32, total : Int32)
     label = "[#{num}/#{total}] [#{entry.type_label}] #{entry.name}"
 
     Log.info { "#{label} - START" }

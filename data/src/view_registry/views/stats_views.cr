@@ -39,7 +39,7 @@ def register_stats_views(r : ViewRegistry)
     ViewRegistry::Log.info { "Rendering year stat reports" }
     years = ctx.years
     years.each do |year|
-      ctx.write_output(DynamicView::YearStatReportView.new(context: ctx, year: year, all_years: years))
+      ctx.render_and_write(DynamicView::YearStatReportView.new(context: ctx, year: year, all_years: years))
     end
   end
 
@@ -57,7 +57,7 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: burnout", [:posts, :yamls], priority: 42) do |ctx|
     ViewRegistry::Log.info { "Rendering burnout stats page" }
-    ctx.write_output(DynamicView::BurnoutStatView.new(context: ctx))
+    ctx.render_and_write(DynamicView::BurnoutStatView.new(context: ctx))
   end
 
   # ============================================
@@ -74,7 +74,7 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: towns history", [:posts, :yamls], priority: 43) do |ctx|
     ViewRegistry::Log.info { "Rendering towns history page" }
-    ctx.write_output(DynamicView::TownsHistoryView.new(context: ctx, url: "/gminy/historia.html"))
+    ctx.render_and_write(DynamicView::TownsHistoryView.new(context: ctx))
   end
 
   # ============================================
@@ -91,6 +91,6 @@ def register_stats_views(r : ViewRegistry)
   #
   r.register("Stats: towns timeline", [:posts, :yamls], priority: 44) do |ctx|
     ViewRegistry::Log.info { "Rendering towns timeline page" }
-    ctx.write_output(DynamicView::TownsTimelineView.new(context: ctx, url: "/gminy/chronologicznie.html"))
+    ctx.render_and_write(DynamicView::TownsTimelineView.new(context: ctx))
   end
 end

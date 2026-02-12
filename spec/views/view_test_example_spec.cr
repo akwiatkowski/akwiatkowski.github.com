@@ -20,7 +20,7 @@ describe "View Testing Examples" do
       ctx.add_post(MockPost.new(slug: "draft", title: "Draft", ready: false))
 
       # Simulate what a view would do
-      ready_posts = ctx.ready_posts
+      ready_posts = ctx.published_posts
       ready_posts.size.should eq 2
 
       titles = ready_posts.map(&.title)
@@ -34,9 +34,9 @@ describe "View Testing Examples" do
       ctx.add_config("home.title", "Odkrywajac Polske")
       ctx.add_config("home.subtitle", "Blog podrozniczy")
 
-      # Simulate what a view would do with config
-      title = ctx["home.title"]
-      subtitle = ctx["home.subtitle"]
+      # Simulate what a view would do with page data
+      title = ctx.title_for_page("home")
+      subtitle = ctx.subtitle_for_page("home")
 
       title.should eq "Odkrywajac Polske"
       subtitle.should eq "Blog podrozniczy"

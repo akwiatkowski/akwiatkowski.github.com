@@ -122,6 +122,60 @@ test.describe('More page (/wiecej.html)', () => {
     expect(errors, `${errors.length} navigation links returned non-200 status`).toHaveLength(0);
   });
 
+  test('portfolio link works', async ({ page, request }) => {
+    await page.goto('/wiecej.html');
+
+    const portfolioLink = page.locator('.more-link[href="/portfolio.html"]');
+    await expect(portfolioLink).toBeVisible();
+
+    // Check link text
+    const name = await portfolioLink.locator('.more-link-name').textContent();
+    expect(name).toBe('Portfolio');
+
+    // Verify page exists
+    const response = await request.get('/portfolio.html');
+    expect(response.status()).toBe(200);
+  });
+
+  test('portfolio link is clickable and loads page', async ({ page }) => {
+    await page.goto('/wiecej.html');
+
+    const portfolioLink = page.locator('.more-link[href="/portfolio.html"]');
+    await portfolioLink.click();
+
+    await page.waitForLoadState('networkidle');
+    expect(page.url()).toContain('/portfolio.html');
+    await expect(page.locator('body')).not.toBeEmpty();
+  });
+
+  test('year stats link works', async ({ page, request }) => {
+    await page.goto('/wiecej.html');
+
+    // Find link matching /rok/{year}.html pattern
+    const yearLink = page.locator('.more-link[href^="/rok/"]');
+    await expect(yearLink).toBeVisible();
+
+    // Check link text contains "Rok" and a year number
+    const name = await yearLink.locator('.more-link-name').textContent();
+    expect(name).toMatch(/^Rok \d{4}$/);
+
+    // Verify the target page exists
+    const href = await yearLink.getAttribute('href');
+    const response = await request.get(href);
+    expect(response.status()).toBe(200);
+  });
+
+  test('year stats link is clickable and loads page', async ({ page }) => {
+    await page.goto('/wiecej.html');
+
+    const yearLink = page.locator('.more-link[href^="/rok/"]');
+    await yearLink.click();
+
+    await page.waitForLoadState('networkidle');
+    expect(page.url()).toMatch(/\/rok\/\d{4}\.html$/);
+    await expect(page.locator('body')).not.toBeEmpty();
+  });
+
   test('all footer links return 200', async ({ page, request }) => {
     await page.goto('/wiecej.html');
 
