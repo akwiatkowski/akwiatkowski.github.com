@@ -64,6 +64,7 @@ module SpecialView
                   json.field("distance_km", post.distance)
                   json.field("time_spent", post.time_spent)
                   json.field("card_image_url", post.card_image_url)
+                  json.field("card_image_url_avif", post.head_photo_entity.try(&.card_avif_src) || "")
 
                   # Tags as objects with slug, url, name
                   json.field "tags" do
@@ -76,6 +77,7 @@ module SpecialView
                       top_photos_for_post(post).each do |photo|
                         json.object do
                           json.field("src", photo.card_image_src)
+                          json.field("src_avif", photo.card_avif_src)
                           json.field("alt", photo.desc)
                           json.field("points", photo.points)
                         end

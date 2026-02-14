@@ -73,7 +73,8 @@ test.describe('POIs page (/pois.html)', () => {
 
     // Close
     await page.locator('.poi-panel-close').click();
-    await expect(panel).not.toHaveClass(/poi-panel--open/);
+    // Panel is removed from DOM when closed (DetailPanel returns null)
+    await expect(panel).not.toBeVisible();
   });
 
   test('visited POI card shows photo and post link', async ({ page }) => {

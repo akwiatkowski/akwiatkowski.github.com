@@ -96,15 +96,22 @@ function GalleryApp() {
                         aria-label={`Zobacz ${item['img.alt']}`}
                         id={item['img.full_image_sanitized']}
                     >
-                        <img
-                            src={item['img.grid_src'] || item['img.src']}
-                            alt={item['img.alt']}
-                            title={item['img.title']}
-                            loading="lazy"
-                            onError={(e) => {
-                                e.target.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E';
-                            }}
-                        />
+                        <picture>
+                            <source type="image/avif"
+                                srcSet={(item['img.grid_src.avif'] || '') + ' 560w, ' + (item['img.src.avif'] || '') + ' 1000w'}
+                                sizes="(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px" />
+                            <img
+                                src={item['img.grid_src'] || item['img.src']}
+                                srcSet={(item['img.grid_src'] || '') + ' 560w, ' + (item['img.src'] || '') + ' 1000w'}
+                                sizes="(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px"
+                                alt={item['img.alt']}
+                                title={item['img.title']}
+                                loading="lazy"
+                                onError={(e) => {
+                                    e.target.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E';
+                                }}
+                            />
+                        </picture>
                         <div className="gallery-overlay">
                             <div className="gallery-info">
                                 <div className="gallery-info-title">{item['img.title']}</div>

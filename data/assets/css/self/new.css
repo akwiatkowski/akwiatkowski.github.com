@@ -254,6 +254,7 @@
 /* Base styles */
 html {
   background-color: var(--color-bg) !important;
+  box-sizing: border-box;
 }
 
 body {
@@ -807,12 +808,17 @@ article h3 {
 }
 
 .post-article-photo > a {
-  display: inline-block;
+  display: block;
   position: relative;
 }
 
+.post-article-photo picture {
+  display: block;
+  width: 100%;
+}
+
 .post-article-photo img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   display: block;
 }

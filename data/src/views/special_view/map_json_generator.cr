@@ -46,6 +46,7 @@ module SpecialView
 
                   # Image for popup thumbnail
                   json.field("card_image_url", post.card_image_url)
+                  json.field("card_image_url_avif", post.head_photo_entity.try(&.card_avif_src) || "")
 
                   # Route data - the main payload
                   json.field "coords" do

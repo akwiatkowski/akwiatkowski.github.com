@@ -64,6 +64,7 @@ module PostView
         nd["post.url"] = np.url
         nd["post.title"] = np.title
         nd["post.image"] = np.head_photo_entity.not_nil!.thumbnail_image_src
+        nd["post.image.avif"] = np.head_photo_entity.not_nil!.thumbnail_avif_src
         nl = load_html("post/pager_next", nd)
         data["next_post_pager"] = nl
       end
@@ -74,6 +75,7 @@ module PostView
         pd["post.url"] = pp.url
         pd["post.title"] = pp.title
         pd["post.image"] = pp.head_photo_entity.not_nil!.thumbnail_image_src
+        pd["post.image.avif"] = pp.head_photo_entity.not_nil!.thumbnail_avif_src
         pl = load_html("post/pager_prev", pd)
         data["prev_post_pager"] = pl
       end
@@ -187,6 +189,7 @@ module PostView
           rpd["post.title"] = related_post.title
           rpd["post.date"] = related_post.date
           rpd["post.thumbnail"] = related_post.head_photo_entity.not_nil!.grid_image_src
+          rpd["post.thumbnail.avif"] = related_post.head_photo_entity.not_nil!.grid_avif_src
           related_content += load_html("post/related_post", rpd)
         end
 

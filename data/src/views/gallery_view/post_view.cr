@@ -62,6 +62,8 @@ module GalleryView
         nd = Hash(String, String).new
         nd["post.url"] = np.gallery_url
         nd["post.title"] = np.title
+        nd["post.image"] = np.head_photo_entity.try(&.grid_image_src) || ""
+        nd["post.image.avif"] = np.head_photo_entity.try(&.grid_avif_src) || ""
         nl = load_html("post/pager_next", nd)
         data["next_post_pager"] = nl
       end
@@ -71,6 +73,8 @@ module GalleryView
         pd = Hash(String, String).new
         pd["post.url"] = pp.gallery_url
         pd["post.title"] = pp.title
+        pd["post.image"] = pp.head_photo_entity.try(&.grid_image_src) || ""
+        pd["post.image.avif"] = pp.head_photo_entity.try(&.grid_avif_src) || ""
         pl = load_html("post/pager_prev", pd)
         data["prev_post_pager"] = pl
       end

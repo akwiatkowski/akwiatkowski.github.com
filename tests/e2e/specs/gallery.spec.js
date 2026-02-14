@@ -107,10 +107,11 @@ test.describe('Gallery pages', () => {
       const images = page.locator('.masonry-grid .gallery-item img');
       await expect(images.first()).toBeVisible({ timeout: 10000 });
 
-      // Check that grid images use grid/ prefix, not article/
-      const srcs = await images.evaluateAll(imgs => imgs.map(img => img.src));
-      const gridImages = srcs.filter(s => s.includes('/grid_'));
-      const articleImages = srcs.filter(s => s.includes('/article_'));
+      // Check that grid images use grid size, not article size
+      // With <picture>, browser may select AVIF source — check currentSrc and src
+      const srcs = await images.evaluateAll(imgs => imgs.map(img => img.currentSrc || img.src));
+      const gridImages = srcs.filter(s => s.includes('_grid.'));
+      const articleImages = srcs.filter(s => s.includes('_article.'));
 
       expect(gridImages.length, 'Grid should use grid-size images').toBeGreaterThan(0);
       expect(articleImages.length, 'Grid should not use article-size images').toBe(0);

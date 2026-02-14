@@ -97,6 +97,7 @@ class PoisView < BaseView
         closest = find_closest_photo(poi, geo_photos)
         if closest
           json.field("photo_url", closest.grid_image_src)
+          json.field("photo_url_avif", closest.grid_avif_src)
           json.field("photo_desc", closest.desc)
         end
       end
@@ -129,6 +130,7 @@ class PoisView < BaseView
       json.field("lon", photo.exif.lon.not_nil!)
       json.field("type", "auto")
       json.field("photo_url", photo.grid_image_src)
+      json.field("photo_url_avif", photo.grid_avif_src)
       json.field("photo_desc", photo.desc)
       json.field("post_title", photo.post_title)
       json.field("post_url", photo.post_url)

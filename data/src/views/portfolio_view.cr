@@ -124,6 +124,7 @@ class PortfolioView < PageView
           json.field "hero_photo" do
             json.object do
               json.field("src", hero.article_image_src)
+              json.field("src_avif", hero.article_avif_src)
               json.field("full_src", hero.full_image_src)
               json.field("alt", hero.desc)
             end
@@ -149,7 +150,9 @@ class PortfolioView < PageView
             @photos.each do |photo|
               json.object do
                 json.field("src", photo.article_image_src)
+                json.field("src_avif", photo.article_avif_src)
                 json.field("grid_src", photo.grid_image_src)
+                json.field("grid_src_avif", photo.grid_avif_src)
                 json.field("full_src", photo.full_image_src)
                 json.field("alt", photo.desc)
                 json.field("post_url", photo.post_url)

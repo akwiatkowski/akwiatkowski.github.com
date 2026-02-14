@@ -196,6 +196,35 @@ class Tremolite::Views::BaseView
       file_name: image_filename
     )
 
+    grid_url = Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
+      post_year: post_time.year,
+      post_month: post_time.month,
+      post_slug: post_slug,
+      prefix: "grid",
+      file_name: image_filename
+    )
+
+    avif_url = Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
+      post_year: post_time.year,
+      post_month: post_time.month,
+      post_slug: post_slug,
+      prefix: size,
+      file_name: image_filename,
+      format: "avif"
+    )
+
+    grid_avif_url = Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
+      post_year: post_time.year,
+      post_month: post_time.month,
+      post_slug: post_slug,
+      prefix: "grid",
+      file_name: image_filename,
+      format: "avif"
+    )
+
     if exif
       exif_string = exif.not_nil!.exif_string
     else
@@ -204,6 +233,9 @@ class Tremolite::Views::BaseView
 
     data = {
       "img.src"              => url,
+      "img.grid_src"         => grid_url,
+      "img.src.avif"         => avif_url,
+      "img.grid_src.avif"    => grid_avif_url,
       "img.alt"              => desc,
       "img.title"            => desc,
       "img.size"             => (image_size(url) / 1024).to_s + " kB",

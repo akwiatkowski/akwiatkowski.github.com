@@ -595,7 +595,11 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-12: More page links added - portfolio, yearly reports
 - 2026-02-12: Polish spellcheck command via LanguageTool (commands/spellcheck.cr)
 - 2026-02-14: Gallery image loading optimization - grid uses 560x420 instead of 1000x800, progressive lightbox, smart adjacent preloading
+- 2026-02-14: AVIF `<picture>` elements - native format selection across all image contexts (templates, JSX, JSON serializers)
+- 2026-02-14: Responsive srcset - 560w grid + 1000w article with viewport-aware sizes
+- 2026-02-14: CSS fixes - article photos width: 100%, box-sizing: border-box on html, Strava iframe max-width
+- 2026-02-14: E2E picture-elements.spec.js - AVIF selection, responsive image resolution, viewport rendering
 
 ---
 
-*Current stats: 7 tasks + 42 views = 49 registry entries, 589 tests, ~137 e2e tests*
+*Current stats: 7 tasks + 42 views = 49 registry entries, 602 tests, 228 e2e tests (16 spec files)*

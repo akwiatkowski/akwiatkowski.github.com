@@ -1785,4 +1785,92 @@ crystal run commands/spellcheck.cr -- --slug=2024 -v  # Filter + verbose
 
 ---
 
+## Phase 36: AVIF `<picture>` Elements ✅ COMPLETE
+
+**Goal**: Deliver AVIF images to browsers that support them using native `<picture>` elements. Keep responsive multi-resolution srcset for bandwidth savings on mobile.
+
+### What was done
+
+1. **JSON serializers** — Added AVIF URL fields to 7 serializers:
+   - `home_page_json_generator.cr` — `card_image_url_avif`, `src_avif`
+   - `portfolio_view.cr` — `src_avif`, `grid_src_avif`
+   - `area_show_view.cr` — `bestPhotoUrlAvif`, `card_image_url_avif`, `article_url_avif`, `grid_url_avif`, `best_photo_url_avif`
+   - `photos_map_json_generator.cr` — `article_url_avif`, `grid_url_avif`
+   - `map_json_generator.cr` — `card_image_url_avif`
+   - `towns_index_view.cr` — `photo_url_avif`
+   - `pois_view.cr` — `photo_url_avif`
+
+2. **Template data** — Added AVIF/grid URL placeholders:
+   - `post_function_parser.cr` — `img.grid_src`, `img.src.avif`, `img.grid_src.avif`
+   - `article_view.cr` — `post.image.avif` (pager), `post.thumbnail.avif` (related posts)
+   - `post_gallery_stats_view.cr` / `gallery_view/post_view.cr` — `post.image.avif` for pager templates
+
+3. **HTML templates** — Wrapped `<img>` in `<picture>` with AVIF `<source>`:
+   - `post_image_partial.html` — `<picture>` + responsive srcset (560w + 1000w)
+   - `pager_next.html` / `pager_prev.html` — `<picture>` with AVIF source
+   - `related_post.html` — `<picture>` with AVIF source
+   - `gallery_post_image.html` — `<picture>` with AVIF source
+
+4. **JSX components** — `<picture>` wrappers:
+   - `gallery_dynamic.jsx` — Grid images with AVIF srcSet + responsive sizes
+   - `portfolio.jsx` — `LazyImage` component with `srcAvif` prop, lazy `data-srcset`
+   - `pois.jsx` — `VisitedCard` and `AutoCard` photos
+
+5. **CSS fixes**:
+   - `box-sizing: border-box` on `html` — fixes Bootstrap 5 `inherit` chain, prevents mobile overflow
+   - `.post-article-photo > a { display: block }` — fills container width
+   - `.post-article-photo picture { display: block; width: 100% }`
+   - `.post-article-photo img { width: 100% }` — renders at full container width regardless of `sizes`
+   - Strava iframe `max-width: 100%` wrapper
+
+6. **E2E tests** — 14 tests in `picture-elements.spec.js`:
+   - AVIF `<picture>` structure (article, pager, related, gallery)
+   - Responsive srcset attributes (560w + 1000w, AVIF sources)
+   - Browser selects AVIF format (Chromium)
+   - Mobile selects 560w grid image, desktop selects 1000w article image
+   - No horizontal scroll on 6 viewport sizes (320-1920px)
+   - Image fills container on 6 viewport sizes
+
+### Key insight
+
+`sizes` attribute with `w` descriptors sets the image's intrinsic CSS width. With `max-width: 100%` alone, images won't stretch beyond the `sizes` value. Fix: use `width: 100%` so CSS controls rendered size, while `sizes` only guides source selection.
+
+### Deferred
+
+- Lightbox progressive loading (dynamically swaps `img.src`)
+- CSS `background-image` contexts (hero photos, card bgs, ambilight)
+- Homepage vanilla JS (innerHTML pattern)
+- Area show compiled JS (mix of `<img>` and `backgroundImage`)
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/post_function_parser.cr` | Add grid/AVIF URL placeholders |
+| `data/src/views/post_view/article_view.cr` | AVIF URLs for pager/related |
+| `data/src/views/post_gallery_stats_view.cr` | AVIF for pager template |
+| `data/src/views/gallery_view/post_view.cr` | AVIF for pager template |
+| `data/src/views/special_view/home_page_json_generator.cr` | AVIF fields |
+| `data/src/views/portfolio_view.cr` | AVIF fields |
+| `data/src/views/area_show_view.cr` | AVIF fields + type fix |
+| `data/src/views/special_view/photos_map_json_generator.cr` | AVIF fields |
+| `data/src/views/special_view/map_json_generator.cr` | AVIF fields |
+| `data/src/views/model_view/towns_index_view.cr` | AVIF fields |
+| `data/src/views/pois_view.cr` | AVIF fields |
+| `data/layout/post/post_image_partial.html` | `<picture>` + srcset |
+| `data/layout/post/pager_next.html` | `<picture>` |
+| `data/layout/post/pager_prev.html` | `<picture>` |
+| `data/layout/post/related_post.html` | `<picture>` |
+| `data/layout/gallery/gallery_post_image.html` | `<picture>` |
+| `data/layout/partials/strava_iframe.html` | max-width wrapper |
+| `data/assets/css/self/new.css` | box-sizing, width fixes |
+| `data/assets/js/src/gallery_dynamic.jsx` | `<picture>` in grid |
+| `data/assets/js/src/portfolio.jsx` | `<picture>` in LazyImage |
+| `data/assets/js/src/pois.jsx` | `<picture>` in cards |
+| `tests/e2e/specs/picture-elements.spec.js` | **NEW** — 14 tests |
+| `tests/e2e/specs/gallery.spec.js` | Fix for currentSrc |
+| `tests/e2e/specs/pois.spec.js` | Fix panel close test |
+
+---
+
 *Last updated: 2026-02-14*

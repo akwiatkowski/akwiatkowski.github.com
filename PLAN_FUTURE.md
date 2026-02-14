@@ -19,27 +19,15 @@ This document contains ideas and plans for future phases (beyond current work).
 
 ## Phase 6: Nice to Have
 
-### Image Size Optimization
+### Image Size Optimization — DONE
 
-1. [ ] Check defined image size (downscaled photos). Some may not be needed, some should be changed
-2. [ ] Analyze where sizes are used (check json serializers)
-3. [ ] Write documentation about sizes we use
-4. [ ] Tweak sizes to suit current width of post (images could be bigger on laptop)
-5. [ ] Consider stronger jpeg compression
+Image sizes in resizer already reviewed and tuned. Documentation in CLAUDE.md.
 
 ---
 
-## Phase 7: New Features
+## Phase 7: Area Show Pages — DONE
 
-### Town/Voivodeship Show Pages
-
-Frontend page render as standalone html in `env/<env>/public/<target>/test.html`.
-
-1. [ ] Create "show" page for towns and voivodeships with:
-   - Leaflet JS map with polygon area rendered (frozen, no zoom/move)
-   - Gradient transparency to middle of page
-   - Best photos on map (like Panoramio)
-   - Important stats (distance on foot, bicycle, etc.)
+Town/voivodeship show pages fully implemented with hero photo+map blend, compact stats, vertical post cards, related areas, interactive Leaflet maps. See PLAN_DONE.md Phase 21.
 
 ---
 
@@ -87,29 +75,45 @@ Debug views moved to separate `DebugView` namespace:
 
 ---
 
-## BuildContext: Separate Pipeline from Rendering
+## BuildContext Split — DONE
 
-`RenderContext` currently serves two roles:
-1. **View rendering** — read-only data access (posts, entities, router, asset bundles)
-2. **Pipeline operations** — mutating services (exif_db, photo_analysis_cache, image_resizer)
-
-PostRenderer uses RenderContext for both: pipeline services to process data, then passes the same context to views for rendering. This conflates two different interfaces.
-
-**Proposed split:**
-- **RenderContext** — stays read-only, used by views. Remove pipeline service proxies (exif_db, photo_analysis_cache) that views don't need.
-- **BuildContext** (new) — holds pipeline/mutating services: exif_db, photo_analysis_cache, image_resizer. Passed to PostRenderer. Contains a reference to RenderContext for the view-rendering step.
-
-**Benefits:**
-- Clear separation: views can't accidentally call `save_cache()` or `process_photos()`
-- PostRenderer dependencies become explicit through BuildContext
-- Adding new pipeline services doesn't pollute the view interface
-- Easier to reason about what views can and cannot do
-
-**When to do:** When the pipeline grows beyond 2-3 services, or during next major refactor.
+`BuildContext < RenderContext` implemented in commit `0521aa99`. RenderContext is read-only for views, BuildContext has pipeline methods. See PLAN_DONE.md.
 
 ---
 
 ## Missing GPS Geotags (Manual Task)
+
+**Status**: ~300 photos geotagged via `commands/fix_geotagging.cr` (2026-02-10). Remaining issues below.
+
+### Posts with no GPX data (21 posts)
+
+These posts have routes but no GPX tracklog was found in `tmp/gpx/`. Need to source GPX files manually.
+
+| Post | Date |
+|------|------|
+| 2012-05-03-krotka-trasa-przez-ropki | 2012-05-03 |
+| 2012-10-09-poludniowe-rudawy-janowickie-oraz-skalnik | 2012-10-09 |
+| 2013-02-09-okolice-szrenicy-i-labskiego-szczytu | 2013-02-09 |
+| 2013-03-01-ze-szrenicy-do-pttk-odrodzenie | 2013-03-01 |
+| 2013-03-02-z-pttk-odrodzenia-pod-dom-slaski | 2013-03-02 |
+| 2013-05-02-male-pieniny-bez-wysokiej | 2013-05-02 |
+| 2013-05-04-centralne-i-zachodnia-czesc-gorcow | 2013-05-04 |
+| 2013-07-19-podejscie-ze-zwardonia-na-wielka-racze | 2013-07-19 |
+| 2013-07-20-z-wielkiej-raczy-na-rycerzowa | 2013-07-20 |
+| 2013-07-21-zejscie-z-rycerzowej-do-rajczy | 2013-07-21 |
+| 2013-07-22-z-miedzylesia-do-schroniska-pod-snieznikiem | 2013-07-22 |
+| 2013-07-24-zejscie-do-miedzygorza-przez-czarna-gore | 2013-07-24 |
+| 2013-08-04-w-strone-skokow-po-raz-1-szy | 2013-08-04 |
+| 2014-11-11-wokol-jeziora-kierskiego | 2014-11-11 |
+| 2015-08-09-do-gluszynki | 2015-08-09 |
+| 2018-04-04-pierwszy-dzien-lata-tej-wiosny | 2018-04-04 |
+| 2018-08-21-sladami-zlikwidowanej-linii-z-wagrowca-do-bydgoszczy | 2018-08-21 |
+| 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018 | 2018-10-06 |
+| 2019-10-24-taka-wiosenna-jesien | 2019-10-24 |
+| 2021-04-24-szukajac-wiosny | 2021-04-24 |
+| 2025-08-21-test-zasiegu-roweru | 2025-08-21 |
+
+### Posts with photos still missing GPS (original analysis)
 
 Posts that have a route (GPX/JSON) but photos without GPS coordinates. This indicates photos that should have been geotagged but weren't (human error during import/processing). 100 posts have exactly 1 photo missing GPS — likely the header image, probably fine.
 

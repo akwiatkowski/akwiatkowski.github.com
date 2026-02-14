@@ -85,6 +85,7 @@ module ModelView
                   json.field("show_url", context.router.area_show_url(town))
                   json.field("post_count", posts.size)
                   json.field("photo_url", best_photo ? best_photo.grid_image_src : "")
+                  json.field("photo_url_avif", best_photo ? best_photo.grid_avif_src : "")
                   json.field("first_year", dates.first.year)
                   json.field("last_year", dates.last.year)
                 end

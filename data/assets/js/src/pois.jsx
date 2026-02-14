@@ -64,7 +64,10 @@ function VisitedCard({ poi, onClose }) {
     return (
         <div className="poi-card">
             {poi.photo_url && (
-                <img className="poi-card-photo" src={poi.photo_url} alt={poi.photo_desc || poi.name} />
+                <picture>
+                    {poi.photo_url_avif && <source type="image/avif" srcSet={poi.photo_url_avif} />}
+                    <img className="poi-card-photo" src={poi.photo_url} alt={poi.photo_desc || poi.name} loading="lazy" />
+                </picture>
             )}
             <div className="poi-card-body">
                 <div className="poi-card-name">{poi.name}</div>
@@ -86,7 +89,10 @@ function AutoCard({ poi, onClose }) {
     return (
         <div className="poi-card">
             {poi.photo_url && (
-                <img className="poi-card-photo" src={poi.photo_url} alt={poi.photo_desc || poi.name} />
+                <picture>
+                    {poi.photo_url_avif && <source type="image/avif" srcSet={poi.photo_url_avif} />}
+                    <img className="poi-card-photo" src={poi.photo_url} alt={poi.photo_desc || poi.name} loading="lazy" />
+                </picture>
             )}
             <div className="poi-card-body">
                 <div className="poi-card-name">{poi.name}</div>

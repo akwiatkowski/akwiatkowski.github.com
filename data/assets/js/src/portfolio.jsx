@@ -5,8 +5,9 @@ const { useState, useEffect, useRef, useCallback } = React;
 
 // ==================== LAZY IMAGE ====================
 
-function LazyImage({ src, alt, onLoad, className }) {
+function LazyImage({ src, srcAvif, alt, onLoad, className }) {
     var imgRef = useRef(null);
+    var sourceRef = useRef(null);
     var [loaded, setLoaded] = useState(false);
 
     useEffect(function() {
@@ -16,6 +17,9 @@ function LazyImage({ src, alt, onLoad, className }) {
         var observer = new IntersectionObserver(function(entries) {
             entries.forEach(function(entry) {
                 if (entry.isIntersecting) {
+                    if (sourceRef.current && sourceRef.current.dataset.srcset) {
+                        sourceRef.current.srcset = sourceRef.current.dataset.srcset;
+                    }
                     img.src = img.dataset.src;
                     observer.unobserve(img);
                 }
@@ -32,13 +36,16 @@ function LazyImage({ src, alt, onLoad, className }) {
     }
 
     return (
-        <img
-            ref={imgRef}
-            data-src={src}
-            alt={alt}
-            className={(className || '') + (loaded ? ' visible' : '')}
-            onLoad={handleLoad}
-        />
+        <picture>
+            {srcAvif && <source ref={sourceRef} type="image/avif" data-srcset={srcAvif} />}
+            <img
+                ref={imgRef}
+                data-src={src}
+                alt={alt}
+                className={(className || '') + (loaded ? ' visible' : '')}
+                onLoad={handleLoad}
+            />
+        </picture>
     );
 }
 
@@ -99,6 +106,7 @@ function MasonryGrid({ photos, onPhotoClick }) {
 function GridItem({ photo, index, onClick }) {
     var [itemLoaded, setItemLoaded] = useState(false);
     var gridSrc = photo.grid_src || photo.src;
+    var gridSrcAvif = photo.grid_src_avif || photo.src_avif || '';
     var style = { '--photo-url': 'url(' + gridSrc + ')' };
 
     return (
@@ -109,6 +117,7 @@ function GridItem({ photo, index, onClick }) {
         >
             <LazyImage
                 src={gridSrc}
+                srcAvif={gridSrcAvif}
                 alt={photo.alt}
                 onLoad={function() { setItemLoaded(true); }}
             />
