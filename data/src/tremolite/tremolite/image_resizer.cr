@@ -9,12 +9,12 @@ class Tremolite::ImageResizer
   }
   @@quality = 70
 
-  # AVIF quality ranges per size (min/max for avifenc)
+  # AVIF quality per size (avifenc -q, 0=lossless 100=worst)
   @@avif_settings = {
-    "article"   => {min: 20, max: 40},
-    "card"      => {min: 20, max: 40},
-    "grid"      => {min: 20, max: 40},
-    "thumbnail" => {min: 20, max: 40},
+    "article"   => {quality: 53},
+    "card"      => {quality: 53},
+    "grid"      => {quality: 53},
+    "thumbnail" => {quality: 53},
   }
 
   PROCESSED_IMAGES_PATH         = File.join(["images", "processed"])
@@ -92,8 +92,7 @@ class Tremolite::ImageResizer
           encode_avif(
             jpeg_path: output_url,
             avif_path: avif_url,
-            min_q: avif_settings[:min],
-            max_q: avif_settings[:max],
+            quality: avif_settings[:quality],
             overwrite: overwrite
           )
         end
@@ -121,13 +120,13 @@ class Tremolite::ImageResizer
   end
 
   # Encode AVIF from resized JPEG (avifenc reads JPEG directly)
-  private def encode_avif(jpeg_path : String, avif_path : String, min_q : Int32, max_q : Int32, overwrite : Bool)
+  private def encode_avif(jpeg_path : String, avif_path : String, quality : Int32, overwrite : Bool)
     Dir.mkdir_p_dirname(avif_path)
 
     if overwrite || false == File.exists?(avif_path)
       if File.exists?(jpeg_path)
         Log.info { "AVIF #{avif_path}" }
-        `avifenc -s 6 -j 4 --min #{min_q} --max #{max_q} "#{jpeg_path}" "#{avif_path}" 2>&1`
+        `avifenc -s 6 -j 4 -q #{quality} --ignore-xmp "#{jpeg_path}" "#{avif_path}" 2>&1`
         Log.warn { "AVIF encode failed: #{jpeg_path}" } unless $?.success?
       end
     end
