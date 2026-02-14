@@ -24,6 +24,11 @@ struct PhotoEntity
   @grid_image_src : String
   @card_image_src : String
 
+  @thumbnail_avif_src : String
+  @article_avif_src : String
+  @grid_avif_src : String
+  @card_avif_src : String
+
   @full_image_src : String
 
   @points : Int32
@@ -91,6 +96,7 @@ struct PhotoEntity
 
   getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map
   getter :thumbnail_image_src, :article_image_src, :full_image_src, :card_image_src, :grid_image_src
+  getter :thumbnail_avif_src, :article_avif_src, :card_avif_src, :grid_avif_src
   getter :full_image_sanitized
   getter :time, :day_of_year, :float_of_year
   getter :tags, :nameless, :points
@@ -132,6 +138,11 @@ struct PhotoEntity
     @article_image_src = processed_img_path(ARTICLE_PREFIX)
     @card_image_src = processed_img_path(CARD_PREFIX)
     @grid_image_src = processed_img_path(GRID_PREFIX)
+
+    @thumbnail_avif_src = processed_img_path(THUMBNAIL_PREFIX, format: "avif")
+    @article_avif_src = processed_img_path(ARTICLE_PREFIX, format: "avif")
+    @card_avif_src = processed_img_path(CARD_PREFIX, format: "avif")
+    @grid_avif_src = processed_img_path(GRID_PREFIX, format: "avif")
 
     @full_image_src = generate_full_image_src
     @full_image_sanitized = @full_image_src.gsub(/\W/, "_").as(String)
@@ -258,7 +269,9 @@ struct PhotoEntity
     data["klass"] = klass
     data["post.url"] = @post_url
     data["img.src"] = @article_image_src
+    data["img.src.avif"] = @article_avif_src
     data["img.grid_src"] = @grid_image_src
+    data["img.grid_src.avif"] = @grid_avif_src
     processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}" : @desc
     data["img.alt"] = processed_desc
     data["img.title"] = processed_desc
@@ -271,14 +284,15 @@ struct PhotoEntity
     return data
   end
 
-  def processed_img_path(prefix)
+  def processed_img_path(prefix, format : String = "jpg")
     Tremolite::ImageResizer.processed_path_for_post(
       processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
       post_year: @post_time.year.as(Int32),
       post_month: @post_time.month.as(Int32),
       post_slug: @post_slug,
       prefix: prefix,
-      file_name: @image_filename
+      file_name: @image_filename,
+      format: format
     )
   end
 

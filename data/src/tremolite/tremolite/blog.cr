@@ -16,7 +16,19 @@ require "./mod_watcher"
 
 require "./uploader"
 
-Log.setup_from_env
+begin
+  _backend = Log::IOBackend.new
+  _backend.formatter = Log::Formatter.new do |entry, io|
+    io << entry.timestamp.to_s("%H:%M:%S")
+    io << " "
+    io << entry.severity.label.rjust(5)
+    io << " - "
+    io << entry.source
+    io << ": "
+    io << entry.message
+  end
+  Log.setup(:info, _backend)
+end
 
 class Tremolite::Blog
   Log = ::Log.for(self)

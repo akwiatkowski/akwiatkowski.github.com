@@ -20,6 +20,15 @@ crystal spec
 make test-e2e
 ```
 
+## Prerequisites
+
+| Tool | Install | Purpose |
+|------|---------|---------|
+| Crystal | [crystal-lang.org](https://crystal-lang.org/install/) | Build & run |
+| ImageMagick 7+ | `brew install imagemagick` | Image resizing (`magick` command) |
+| libavif | `brew install libavif` | AVIF encoding (`avifenc` command) |
+| Node.js | `brew install node` | JSX transpilation, E2E tests |
+
 ## Project Structure
 
 ```
@@ -59,6 +68,8 @@ spec/                       # Crystal unit tests
 | `make test-e2e-headed` | Run E2E with visible browser |
 | `crystal spec` | Run Crystal unit tests |
 | `npm run build:js` | Build JSX → JS (esbuild) |
+| `crystal run commands/spellcheck.cr` | Polish spellcheck via LanguageTool |
+| `crystal run commands/run_all.cr` | Run full data pipeline |
 
 ## Features (Compact)
 
@@ -75,9 +86,9 @@ spec/                       # Crystal unit tests
 - **Output**: HTML, RSS, Atom, JSON payload, sitemap, photos.json
 
 ### Frontend
-- **Maps**: Leaflet for routes, OpenLayers for tiles, React/Preact components
-- **Galleries**: Lazy-loaded images, lightbox, EXIF display
-- **Interactive**: Timeline, bicycle planner, area statistics
+- **Maps**: Leaflet for routes, Preact interactive components
+- **Galleries**: Lazy-loaded images, ambilight lightbox, EXIF display
+- **Interactive**: Timeline, photo planner, area statistics, POIs map
 
 ### Infrastructure
 - **Environments**: dev (fast iteration) / full (complete render)
@@ -111,13 +122,13 @@ spec/                       # Crystal unit tests
 
 ## Tests
 
-**Crystal**: 253 unit tests covering views, services, models
+**Crystal**: 589 unit tests covering views, services, models, commands
 ```bash
 crystal spec
 crystal spec spec/views/  # Views only
 ```
 
-**E2E**: 36 Playwright tests (smoke, posts, maps, galleries, static pages)
+**E2E**: ~137 Playwright tests across 15 spec files (smoke, posts, maps, galleries, areas, POIs, social meta)
 ```bash
 cd tests/e2e && npm install && npx playwright install chromium
 make test-e2e

@@ -9,6 +9,14 @@ class Tremolite::ImageResizer
   }
   @@quality = 70
 
+  # AVIF quality ranges per size (min/max for avifenc)
+  @@avif_settings = {
+    "article"   => {min: 20, max: 40},
+    "card"      => {min: 20, max: 40},
+    "grid"      => {min: 20, max: 40},
+    "thumbnail" => {min: 20, max: 40},
+  }
+
   PROCESSED_IMAGES_PATH         = File.join(["images", "processed"])
   PROCESSED_IMAGES_PATH_FOR_WEB = File.join(["/", "images", "processed"])
 
@@ -37,11 +45,12 @@ class Tremolite::ImageResizer
     post_slug : String,
     prefix : String,
     file_name : String,
+    format : String = "jpg",
   ) : String
     post_month_string = post_month < 10 ? "0#{post_month}" : post_month.to_s
-    file_name_wo_jpg = file_name.gsub(/\.jpg/i, "")
+    file_name_wo_ext = file_name.gsub(/\.(jpg|jpeg|png)$/i, "")
 
-    return File.join([processed_path, post_year.to_s, post_month_string, "#{post_slug}_#{file_name_wo_jpg}_#{prefix}.jpg"])
+    return File.join([processed_path, post_year.to_s, post_month_string, "#{post_slug}_#{file_name_wo_ext}_#{prefix}.#{format}"])
   end
 
   def resize_for_post(post : Tremolite::Post, overwrite : Bool, name = "header.jpg")
@@ -49,7 +58,6 @@ class Tremolite::ImageResizer
     if File.exists?(img_url)
       # there are defined sizes of output images
       @@sizez.each do |prefix, resolution|
-        # output_url = File.join([@processed_path, "#{post.year}", "#{post.slug}_#{prefix}_#{name}"])
         output_url = self.class.processed_path_for_post(
           processed_path: @processed_path,
           post_year: post.year,
@@ -67,6 +75,28 @@ class Tremolite::ImageResizer
           quality: resolution[:quality],
           overwrite: overwrite
         )
+
+        # Encode AVIF from the resized JPEG
+        avif_settings = @@avif_settings[prefix]?
+        if avif_settings
+          avif_url = self.class.processed_path_for_post(
+            processed_path: @processed_path,
+            post_year: post.year,
+            post_month: post.time.month,
+            post_slug: post.slug,
+            prefix: prefix,
+            file_name: name,
+            format: "avif"
+          )
+
+          encode_avif(
+            jpeg_path: output_url,
+            avif_path: avif_url,
+            min_q: avif_settings[:min],
+            max_q: avif_settings[:max],
+            overwrite: overwrite
+          )
+        end
       end
     end
   end
@@ -81,13 +111,25 @@ class Tremolite::ImageResizer
   )
     Dir.mkdir_p_dirname(output)
 
-    magik_resize = "#{width}x#{height}"
-    resized_quality_flag = "-quality #{quality}"
-    command = "convert #{@flags} #{resized_quality_flag} -resize #{magik_resize} \"#{path}\" \"#{output}\""
+    # IMv7: input before flags
+    command = "magick \"#{path}\" #{@flags} -quality #{quality} -resize #{width}x#{height} \"#{output}\""
 
     if overwrite || false == File.exists?(output)
-      Log.info { "#{path} - #{width}x#{height}" }
+      Log.info { "JPEG #{path} - #{width}x#{height}" }
       `#{command}`
+    end
+  end
+
+  # Encode AVIF from resized JPEG (avifenc reads JPEG directly)
+  private def encode_avif(jpeg_path : String, avif_path : String, min_q : Int32, max_q : Int32, overwrite : Bool)
+    Dir.mkdir_p_dirname(avif_path)
+
+    if overwrite || false == File.exists?(avif_path)
+      if File.exists?(jpeg_path)
+        Log.info { "AVIF #{avif_path}" }
+        `avifenc -s 6 -j 4 --min #{min_q} --max #{max_q} "#{jpeg_path}" "#{avif_path}" 2>&1`
+        Log.warn { "AVIF encode failed: #{jpeg_path}" } unless $?.success?
+      end
     end
   end
 

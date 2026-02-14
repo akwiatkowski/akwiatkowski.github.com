@@ -13,4 +13,12 @@ class Tremolite::ImageResizer
     "thumbnail" => {width: 150, height: 112, quality: 72},
   }
   @@quality = 70
+
+  # AVIF quality ranges per size (min/max for avifenc)
+  @@avif_settings = {
+    "article"   => {min: 20, max: 40},
+    "card"      => {min: 20, max: 40},
+    "grid"      => {min: 20, max: 40},
+    "thumbnail" => {min: 20, max: 40},
+  }
 end

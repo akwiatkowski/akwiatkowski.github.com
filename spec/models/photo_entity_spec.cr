@@ -217,6 +217,40 @@ describe PhotoEntity do
       pe.grid_image_src.should contain("DSC00123")
     end
 
+    it "generates article_avif_src with .avif extension" do
+      pe = make_photo_entity
+      pe.article_avif_src.should contain("article")
+      pe.article_avif_src.should contain("DSC00123")
+      pe.article_avif_src.should end_with(".avif")
+    end
+
+    it "generates grid_avif_src with .avif extension" do
+      pe = make_photo_entity
+      pe.grid_avif_src.should contain("grid")
+      pe.grid_avif_src.should end_with(".avif")
+    end
+
+    it "generates card_avif_src with .avif extension" do
+      pe = make_photo_entity
+      pe.card_avif_src.should contain("card")
+      pe.card_avif_src.should end_with(".avif")
+    end
+
+    it "generates thumbnail_avif_src with .avif extension" do
+      pe = make_photo_entity
+      pe.thumbnail_avif_src.should contain("thumbnail")
+      pe.thumbnail_avif_src.should end_with(".avif")
+    end
+
+    it "AVIF path matches JPEG path structure except extension" do
+      pe = make_photo_entity
+      # Replace .avif with .jpg and it should match the JPEG path
+      pe.article_avif_src.sub(/\.avif$/, ".jpg").should eq pe.article_image_src
+      pe.grid_avif_src.sub(/\.avif$/, ".jpg").should eq pe.grid_image_src
+      pe.card_avif_src.sub(/\.avif$/, ".jpg").should eq pe.card_image_src
+      pe.thumbnail_avif_src.sub(/\.avif$/, ".jpg").should eq pe.thumbnail_image_src
+    end
+
     it "generates full_image_src with year and slug" do
       pe = make_photo_entity
       pe.full_image_src.should eq "/images/2023/2023-07-18-wycieczka/DSC00123.jpg"
@@ -348,6 +382,8 @@ describe PhotoEntity do
       hash = pe.hash_for_partial
       hash["post.url"].should eq "/2023/07/18-wycieczka.html"
       hash["img.src"].should eq pe.article_image_src
+      hash["img.src.avif"].should eq pe.article_avif_src
+      hash["img.grid_src.avif"].should eq pe.grid_avif_src
       hash["img.alt"].should eq "Wycieczka nad jezioro"
       hash["post.title"].should eq "Wycieczka nad jezioro"
       hash["img.lat"].should eq "52.4064"
