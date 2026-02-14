@@ -149,8 +149,12 @@ function mapToLightboxPhoto(item) {
     if (item['img.exposure']) exif.exposure = item['img.exposure'];
     if (item['img.iso']) exif.iso = item['img.iso'];
     return {
+        grid_src: item['img.grid_src'] || '',
+        grid_src_avif: item['img.grid_src.avif'] || '',
         src: item['img.src'],
+        src_avif: item['img.src.avif'] || '',
         full_src: item['img.url'],
+        full_src_avif: item['img.url.avif'] || '',
         alt: item['img.alt'] || '',
         exif: exif,
         post_url: item['post.url'] || '',

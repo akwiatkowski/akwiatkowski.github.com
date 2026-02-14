@@ -277,6 +277,7 @@ struct PhotoEntity
     data["img.title"] = processed_desc
     data["post.title"] = @post_title
     data["img.url"] = full_image_src
+    data["img.url.avif"] = ""
     data["img.full_image_sanitized"] = full_image_sanitized
 
     data.merge!(self.exif.not_nil!.hash_for_partial)

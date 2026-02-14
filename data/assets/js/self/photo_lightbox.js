@@ -1,1 +1,138 @@
-(()=>{(function(){var h=React.useEffect,s=React.useRef,m=React.useState;function v(a,e){var n=[e,e+1,e+2,e-1];n.forEach(function(u){var f=(u%a.length+a.length)%a.length,t=a[f];if(t&&t.full_src){var l=new Image;l.src=t.full_src}})}function d({photos:a,index:e,onClose:n,onPrev:u,onNext:f}){var t=a[e],l=s(null),g=s(null),i=s(null),[x,p]=m(!1);if(!t)return null;h(function(){if(t){var r=i.current;if(r){p(!1),r.src=t.src;var c=new Image;c.onload=function(){i.current&&(i.current.src=t.full_src,p(!0))},c.src=t.full_src,v(a,e)}}},[e]),h(function(){var r="url("+t.src+")";l.current&&(l.current.style.backgroundImage=r),g.current&&(g.current.style.backgroundImage=r)},[e]);var o=t.exif||{},b=[o.camera,o.lens,o.focal,o.aperture,o.exposure,o.iso?"ISO"+o.iso:null].filter(Boolean);return React.createElement("div",{className:"photo-lightbox",onClick:function(r){r.target===r.currentTarget&&n()}},React.createElement("div",{ref:l,className:"photo-lb-outer active"}),React.createElement("div",{ref:g,className:"photo-lb-inner active"}),React.createElement("button",{className:"photo-lightbox-close",onClick:n},"\xD7"),React.createElement("span",{className:"photo-lightbox-counter"},e+1," / ",a.length),React.createElement("div",{className:"photo-lightbox-img-wrap"},React.createElement("button",{className:"photo-lightbox-nav photo-lightbox-prev",onClick:u},"\u2039"),React.createElement("img",{ref:i,src:t.src,alt:t.alt,className:x?"hires":""}),React.createElement("button",{className:"photo-lightbox-nav photo-lightbox-next",onClick:f},"\u203A")),React.createElement("div",{className:"photo-lightbox-exif"},b.length>0&&b.map(function(r,c){return React.createElement("span",{key:c},r)}),t.post_url&&React.createElement("a",{className:"photo-lightbox-link",href:t.post_url},t.post_title||"Wpis")))}window.PhotoLightbox={Lightbox:d,preloadAdjacent:v}})();})();
+(function() {
+  var useEffect = React.useEffect;
+  var useRef = React.useRef;
+  var useState = React.useState;
+  var _avifSupported = null;
+  function supportsAvif() {
+    if (_avifSupported !== null)
+      return Promise.resolve(_avifSupported);
+    return new Promise(function(resolve) {
+      var img = new Image();
+      img.onload = function() {
+        _avifSupported = img.width > 0;
+        resolve(_avifSupported);
+      };
+      img.onerror = function() {
+        _avifSupported = false;
+        resolve(false);
+      };
+      img.src = "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAB0AAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAIAAAACAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQ0MAAAAABNjb2xybmNseAACAAIAAYAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAACVtZGF0EgAKCBgANogQEAwgMg8f8D///8WfhwB8+ErU42Y=";
+    });
+  }
+  function preloadAdjacent(photos, index) {
+    supportsAvif().then(function(avif) {
+      [-1, 1].forEach(function(offset) {
+        var idx = ((index + offset) % photos.length + photos.length) % photos.length;
+        var photo = photos[idx];
+        if (!photo)
+          return;
+        var articleSrc = avif && photo.src_avif ? photo.src_avif : photo.src;
+        if (articleSrc)
+          new Image().src = articleSrc;
+      });
+    });
+  }
+  function fitToViewport(naturalW, naturalH) {
+    var maxW = window.innerWidth * 0.9;
+    var maxH = window.innerHeight * 0.8;
+    var scale = Math.min(maxW / naturalW, maxH / naturalH);
+    return { width: Math.round(naturalW * scale), height: Math.round(naturalH * scale) };
+  }
+  function Lightbox({ photos, index, onClose, onPrev, onNext }) {
+    var photo = photos[index];
+    var outerRef = useRef(null);
+    var innerRef = useRef(null);
+    var imgRef = useRef(null);
+    var [hiRes, setHiRes] = useState(false);
+    if (!photo)
+      return null;
+    useEffect(function() {
+      if (!photo)
+        return;
+      var img = imgRef.current;
+      if (!img)
+        return;
+      var cancelled = false;
+      var fullTimer = null;
+      var gridSrc = photo.grid_src || photo.src;
+      img.src = gridSrc;
+      img.className = "";
+      setHiRes(false);
+      var gridImg = new Image();
+      gridImg.src = gridSrc;
+      function applyFit(w, h) {
+        if (cancelled || !imgRef.current)
+          return;
+        var fit = fitToViewport(w, h);
+        imgRef.current.style.width = fit.width + "px";
+        imgRef.current.style.height = fit.height + "px";
+      }
+      if (gridImg.naturalWidth > 0) {
+        applyFit(gridImg.naturalWidth, gridImg.naturalHeight);
+      } else {
+        gridImg.onload = function() {
+          applyFit(gridImg.naturalWidth, gridImg.naturalHeight);
+        };
+      }
+      if (outerRef.current)
+        outerRef.current.style.backgroundImage = "url(" + gridSrc + ")";
+      if (innerRef.current)
+        innerRef.current.style.backgroundImage = "url(" + gridSrc + ")";
+      supportsAvif().then(function(avif) {
+        if (cancelled)
+          return;
+        var articleSrc = avif && photo.src_avif ? photo.src_avif : photo.src;
+        var articleImg = new Image();
+        articleImg.onload = function() {
+          if (cancelled || !imgRef.current)
+            return;
+          imgRef.current.src = articleSrc;
+          if (outerRef.current)
+            outerRef.current.style.backgroundImage = "url(" + articleSrc + ")";
+          if (innerRef.current)
+            innerRef.current.style.backgroundImage = "url(" + articleSrc + ")";
+          if (window.devicePixelRatio > 1 && photo.full_src) {
+            fullTimer = setTimeout(function() {
+              if (cancelled || !imgRef.current)
+                return;
+              var fullSrc = avif && photo.full_src_avif ? photo.full_src_avif : photo.full_src;
+              var fullImg = new Image();
+              fullImg.onload = function() {
+                if (cancelled || !imgRef.current)
+                  return;
+                imgRef.current.src = fullSrc;
+                setHiRes(true);
+              };
+              fullImg.src = fullSrc;
+            }, 3e3);
+          } else {
+            setHiRes(true);
+          }
+        };
+        articleImg.src = articleSrc;
+      });
+      preloadAdjacent(photos, index);
+      return function() {
+        cancelled = true;
+        if (fullTimer)
+          clearTimeout(fullTimer);
+      };
+    }, [index]);
+    var exif = photo.exif || {};
+    var parts = [
+      exif.camera,
+      exif.lens,
+      exif.focal,
+      exif.aperture,
+      exif.exposure,
+      exif.iso ? "ISO" + exif.iso : null
+    ].filter(Boolean);
+    return /* @__PURE__ */ React.createElement("div", { className: "photo-lightbox", onClick: function(e) {
+      if (e.target === e.currentTarget)
+        onClose();
+    } }, /* @__PURE__ */ React.createElement("div", { ref: outerRef, className: "photo-lb-outer active" }), /* @__PURE__ */ React.createElement("div", { ref: innerRef, className: "photo-lb-inner active" }), /* @__PURE__ */ React.createElement("button", { className: "photo-lightbox-close", onClick: onClose }, "\xD7"), /* @__PURE__ */ React.createElement("span", { className: "photo-lightbox-counter" }, index + 1, " / ", photos.length), /* @__PURE__ */ React.createElement("div", { className: "photo-lightbox-img-wrap" }, /* @__PURE__ */ React.createElement("button", { className: "photo-lightbox-nav photo-lightbox-prev", onClick: onPrev }, "\u2039"), /* @__PURE__ */ React.createElement("img", { ref: imgRef, src: photo.grid_src || photo.src, alt: photo.alt, className: hiRes ? "hires" : "" }), /* @__PURE__ */ React.createElement("button", { className: "photo-lightbox-nav photo-lightbox-next", onClick: onNext }, "\u203A")), /* @__PURE__ */ React.createElement("div", { className: "photo-lightbox-exif" }, parts.length > 0 && parts.map(function(p, i) {
+      return /* @__PURE__ */ React.createElement("span", { key: i }, p);
+    }), photo.post_url && /* @__PURE__ */ React.createElement("a", { className: "photo-lightbox-link", href: photo.post_url }, photo.post_title || "Wpis")));
+  }
+  window.PhotoLightbox = { Lightbox, preloadAdjacent };
+})();

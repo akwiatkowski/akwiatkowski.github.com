@@ -1,24 +1,45 @@
 // Shared Photo Lightbox with ambilight glow, EXIF bar, keyboard navigation
 //
 // Photo object contract:
-//   { src, full_src, alt, exif: { camera, lens, focal, aperture, exposure, iso }, post_url, post_title }
+//   { grid_src, grid_src_avif, src, src_avif, full_src, full_src_avif, alt,
+//     exif: { camera, lens, focal, aperture, exposure, iso }, post_url, post_title }
 
 (function() {
     var useEffect = React.useEffect;
     var useRef = React.useRef;
     var useState = React.useState;
 
-    // Preload adjacent images (current + next 2 + prev 1) instead of all at once
-    function preloadAdjacent(photos, index) {
-        var indices = [index, index + 1, index + 2, index - 1];
-        indices.forEach(function(i) {
-            var idx = ((i % photos.length) + photos.length) % photos.length;
-            var photo = photos[idx];
-            if (photo && photo.full_src) {
-                var img = new Image();
-                img.src = photo.full_src;
-            }
+    // AVIF support detection (cached after first check)
+    var _avifSupported = null;
+    function supportsAvif() {
+        if (_avifSupported !== null) return Promise.resolve(_avifSupported);
+        return new Promise(function(resolve) {
+            var img = new Image();
+            img.onload = function() { _avifSupported = img.width > 0; resolve(_avifSupported); };
+            img.onerror = function() { _avifSupported = false; resolve(false); };
+            img.src = 'data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAB0AAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAIAAAACAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQ0MAAAAABNjb2xybmNseAACAAIAAYAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAACVtZGF0EgAKCBgANogQEAwgMg8f8D///8WfhwB8+ErU42Y=';
         });
+    }
+
+    // Preload article-size (AVIF-aware) for adjacent images
+    function preloadAdjacent(photos, index) {
+        supportsAvif().then(function(avif) {
+            [-1, 1].forEach(function(offset) {
+                var idx = ((index + offset) % photos.length + photos.length) % photos.length;
+                var photo = photos[idx];
+                if (!photo) return;
+                var articleSrc = (avif && photo.src_avif) ? photo.src_avif : photo.src;
+                if (articleSrc) new Image().src = articleSrc;
+            });
+        });
+    }
+
+    // Compute display size that fills 90vw × 80vh while preserving aspect ratio
+    function fitToViewport(naturalW, naturalH) {
+        var maxW = window.innerWidth * 0.9;
+        var maxH = window.innerHeight * 0.8;
+        var scale = Math.min(maxW / naturalW, maxH / naturalH);
+        return { width: Math.round(naturalW * scale), height: Math.round(naturalH * scale) };
     }
 
     function Lightbox({ photos, index, onClose, onPrev, onNext }) {
@@ -30,36 +51,74 @@
 
         if (!photo) return null;
 
-        // Progressive: show article size immediately, swap to full when loaded
+        // Three-stage progressive loading: grid → article → full-res
         useEffect(function() {
             if (!photo) return;
             var img = imgRef.current;
             if (!img) return;
+            var cancelled = false;
+            var fullTimer = null;
 
+            // Stage 1: Grid image (from browser cache — instant)
+            var gridSrc = photo.grid_src || photo.src;
+            img.src = gridSrc;
+            img.className = '';
             setHiRes(false);
 
-            // Show article size immediately
-            img.src = photo.src;
+            // Lock display size to viewport-fitted dimensions from the aspect ratio.
+            // Grid image is usually cached, so dimensions may be available synchronously.
+            var gridImg = new Image();
+            gridImg.src = gridSrc;
+            function applyFit(w, h) {
+                if (cancelled || !imgRef.current) return;
+                var fit = fitToViewport(w, h);
+                imgRef.current.style.width = fit.width + 'px';
+                imgRef.current.style.height = fit.height + 'px';
+            }
+            if (gridImg.naturalWidth > 0) {
+                applyFit(gridImg.naturalWidth, gridImg.naturalHeight);
+            } else {
+                gridImg.onload = function() { applyFit(gridImg.naturalWidth, gridImg.naturalHeight); };
+            }
 
-            // Load full-res in background
-            var fullImg = new Image();
-            fullImg.onload = function() {
-                if (imgRef.current) {
-                    imgRef.current.src = photo.full_src;
-                    setHiRes(true);
-                }
-            };
-            fullImg.src = photo.full_src;
+            if (outerRef.current) outerRef.current.style.backgroundImage = 'url(' + gridSrc + ')';
+            if (innerRef.current) innerRef.current.style.backgroundImage = 'url(' + gridSrc + ')';
 
-            // Preload adjacent images
+            // Stage 2: Article-size (AVIF if supported)
+            supportsAvif().then(function(avif) {
+                if (cancelled) return;
+                var articleSrc = (avif && photo.src_avif) ? photo.src_avif : photo.src;
+                var articleImg = new Image();
+                articleImg.onload = function() {
+                    if (cancelled || !imgRef.current) return;
+                    imgRef.current.src = articleSrc;
+                    if (outerRef.current) outerRef.current.style.backgroundImage = 'url(' + articleSrc + ')';
+                    if (innerRef.current) innerRef.current.style.backgroundImage = 'url(' + articleSrc + ')';
+
+                    // Stage 3: Full-res (delayed, HiDPI only)
+                    if (window.devicePixelRatio > 1 && photo.full_src) {
+                        fullTimer = setTimeout(function() {
+                            if (cancelled || !imgRef.current) return;
+                            var fullSrc = (avif && photo.full_src_avif) ? photo.full_src_avif : photo.full_src;
+                            var fullImg = new Image();
+                            fullImg.onload = function() {
+                                if (cancelled || !imgRef.current) return;
+                                imgRef.current.src = fullSrc;
+                                setHiRes(true);
+                            };
+                            fullImg.src = fullSrc;
+                        }, 3000);
+                    } else {
+                        setHiRes(true);
+                    }
+                };
+                articleImg.src = articleSrc;
+            });
+
+            // Preload adjacent article-size images
             preloadAdjacent(photos, index);
-        }, [index]);
 
-        // Update backlight background
-        useEffect(function() {
-            var bg = 'url(' + photo.src + ')';
-            if (outerRef.current) outerRef.current.style.backgroundImage = bg;
-            if (innerRef.current) innerRef.current.style.backgroundImage = bg;
+            return function() { cancelled = true; if (fullTimer) clearTimeout(fullTimer); };
         }, [index]);
 
         var exif = photo.exif || {};
@@ -78,7 +137,7 @@
 
                 <div className="photo-lightbox-img-wrap">
                     <button className="photo-lightbox-nav photo-lightbox-prev" onClick={onPrev}>&#8249;</button>
-                    <img ref={imgRef} src={photo.src} alt={photo.alt} className={hiRes ? 'hires' : ''} />
+                    <img ref={imgRef} src={photo.grid_src || photo.src} alt={photo.alt} className={hiRes ? 'hires' : ''} />
                     <button className="photo-lightbox-nav photo-lightbox-next" onClick={onNext}>&#8250;</button>
                 </div>
 
