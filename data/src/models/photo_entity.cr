@@ -258,6 +258,7 @@ struct PhotoEntity
     data["klass"] = klass
     data["post.url"] = @post_url
     data["img.src"] = @article_image_src
+    data["img.grid_src"] = @grid_image_src
     processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}" : @desc
     data["img.alt"] = processed_desc
     data["img.title"] = processed_desc

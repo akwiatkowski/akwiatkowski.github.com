@@ -28,7 +28,8 @@ Load this file at the start of a session for project continuity.
 data/src/
 ├── blog.cr              # Main Blog class, render orchestration
 ├── post_renderer.cr     # Per-post rendering (articles, galleries)
-├── render_context.cr    # Context object for views
+├── render_context.cr    # Read-only context for views
+├── build_context.cr     # BuildContext < RenderContext (pipeline writes)
 ├── renderer.cr          # Thin wrapper, asset handling
 ├── data_manager.cr      # Entity loading, caches
 └── validator.cr         # Output validation
@@ -138,7 +139,8 @@ data/src/commands/                # Shared command library
 └── tools/                        # Standalone utilities
     ├── fetch_map_tiles.cr
     ├── list_missing_routes.cr
-    └── test_region_matching.cr
+    ├── test_region_matching.cr
+    └── spellcheck.cr             # Polish spellcheck via LanguageTool
 
 commands/                         # Thin entry-point wrappers
 ├── run_all.cr                    # Unified pipeline runner (shared AreaMatcher)
@@ -148,7 +150,8 @@ commands/                         # Thin entry-point wrappers
 ├── gpx_rectify.cr
 ├── fetch_map_tiles.cr
 ├── list_missing_routes.cr
-└── test_region_matching.cr
+├── test_region_matching.cr
+└── spellcheck.cr                 # Polish spellcheck (requires LanguageTool)
 ```
 
 ### External Data & Polygons
@@ -443,6 +446,11 @@ crystal run commands/gpx_rectify.cr
 crystal run commands/fetch_map_tiles.cr
 crystal run commands/list_missing_routes.cr
 crystal run commands/test_region_matching.cr
+
+# Spellcheck (requires: brew install languagetool && brew services start languagetool)
+crystal run commands/spellcheck.cr                    # All posts (full env)
+crystal run commands/spellcheck.cr -- --dev            # Dev posts only
+crystal run commands/spellcheck.cr -- --slug=2024 -v   # Filter + verbose
 ```
 
 ## Validation Checklist
@@ -581,7 +589,13 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-10: Setup: route colors task added (priority 3)
 - 2026-02-10: Feed: photos map JSON added, nav stats JSON removed, payload→e2e rename
 - 2026-02-10: Old home page and old more page removed from registry
+- 2026-02-11: Year stats page redesign - sparklines, route maps, tag breakdown, records, photo of year
+- 2026-02-12: POIs page redesign - interactive Preact map with side panel, category filters
+- 2026-02-12: BuildContext split - RenderContext read-only, BuildContext for pipeline writes
+- 2026-02-12: More page links added - portfolio, yearly reports
+- 2026-02-12: Polish spellcheck command via LanguageTool (commands/spellcheck.cr)
+- 2026-02-14: Gallery image loading optimization - grid uses 560x420 instead of 1000x800, progressive lightbox, smart adjacent preloading
 
 ---
 
-*Current stats: 6 tasks + 40 views = 46 registry entries, 573 tests, ~133 e2e tests*
+*Current stats: 7 tasks + 42 views = 49 registry entries, 589 tests, ~137 e2e tests*

@@ -6,9 +6,9 @@ class PoisView < BaseView
   URL = "/pois.html"
 
   # Auto-POI generation constants
-  AUTO_POI_CLUSTER_RADIUS_M  =    500.0 # meters — merge photos within this distance
-  AUTO_POI_DEDUP_DISTANCE_M  = 20_000.0 # meters — skip if within this of a manual POI
-  AUTO_POI_MAX_COUNT         =       20  # max auto-POIs to emit
+  AUTO_POI_CLUSTER_RADIUS_M =    500.0 # meters — merge photos within this distance
+  AUTO_POI_DEDUP_DISTANCE_M = 20_000.0 # meters — skip if within this of a manual POI
+  AUTO_POI_MAX_COUNT        =       20 # max auto-POIs to emit
 
   def initialize(context : RenderContext, @url : String = URL)
     super(context: context, url: @url)

@@ -47,6 +47,7 @@ describe PreloadedPostReferencedLinks do
 
       service.populate_referenced_links
       # Should not raise
+
     ensure
       FileUtils.rm_rf(tmp_dir) if tmp_dir
     end

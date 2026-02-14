@@ -44,7 +44,6 @@ describe ModelView do
       ModelView::TownsIndexView.should_not be_nil
     end
   end
-
 end
 
 describe PostView do

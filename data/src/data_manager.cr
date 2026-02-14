@@ -151,5 +151,4 @@ class Tremolite::DataManager
       @photo_tags.not_nil! << o
     end
   end
-
 end

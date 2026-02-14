@@ -3,7 +3,7 @@
 ## Status: All major phases complete
 
 **Related docs:**
-- `VIEWS.md` - Registry documentation (6 tasks + 40 views = 46 entries)
+- `VIEWS.md` - Registry documentation (7 tasks + 42 views = 49 entries)
 - `CLAUDE.md` - Project structure reference
 - `PLAN_DONE.md` - Completed phases archive
 - `PLAN_FUTURE.md` - Future ideas backlog
@@ -14,10 +14,7 @@
 
 ### Future Ideas
 
-**More Page (`/wiecej.html`) — Missing Links:**
-The more page has 6 links. The old `more.md` had 14 links. Evaluate adding:
-- Roczne statystyki (`/rok/<year>.html`) — yearly reports
-- O mnie (`/o-mnie.html`) — about page
+**More Page (`/wiecej.html`) — Consider adding:**
 - RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
 
 **Remaining late-bound properties (genuinely need posts):**
@@ -34,7 +31,7 @@ Could reduce `.not_nil!` noise with `getter!` macros across remaining call sites
 
 ## Test Status
 
-**573 Crystal tests passing, ~133 E2E tests passing**
+**589 Crystal tests passing, ~137 E2E tests passing (15 spec files)**
 
 ### E2E Tests (Playwright)
 
@@ -53,6 +50,7 @@ Infrastructure in `tests/e2e/`:
 - `specs/area-filtering.spec.js` - Area post list filtering
 - `specs/area-show.spec.js` - Area show pages (photos, JSON, no JS errors)
 - `specs/social-meta.spec.js` - Social meta tags (og:type, twitter:card, descriptions)
+- `specs/pois.spec.js` - POIs page (map, side panel, markers)
 
 **Run E2E tests:**
 ```bash
@@ -63,4 +61,4 @@ make test-e2e-headed   # Run with visible browser
 
 ---
 
-*Last updated: 2026-02-10*
+*Last updated: 2026-02-14*

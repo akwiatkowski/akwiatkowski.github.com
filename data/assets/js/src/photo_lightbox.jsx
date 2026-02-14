@@ -6,12 +6,18 @@
 (function() {
     var useEffect = React.useEffect;
     var useRef = React.useRef;
+    var useState = React.useState;
 
-    // Preload full-res images into browser cache so lightbox shows them instantly.
-    function preloadImages(photos) {
-        photos.forEach(function(photo) {
-            var img = new Image();
-            img.src = photo.full_src;
+    // Preload adjacent images (current + next 2 + prev 1) instead of all at once
+    function preloadAdjacent(photos, index) {
+        var indices = [index, index + 1, index + 2, index - 1];
+        indices.forEach(function(i) {
+            var idx = ((i % photos.length) + photos.length) % photos.length;
+            var photo = photos[idx];
+            if (photo && photo.full_src) {
+                var img = new Image();
+                img.src = photo.full_src;
+            }
         });
     }
 
@@ -19,10 +25,37 @@
         var photo = photos[index];
         var outerRef = useRef(null);
         var innerRef = useRef(null);
+        var imgRef = useRef(null);
+        var [hiRes, setHiRes] = useState(false);
 
         if (!photo) return null;
 
-        // Update backlight background directly — images are pre-cached so this is instant
+        // Progressive: show article size immediately, swap to full when loaded
+        useEffect(function() {
+            if (!photo) return;
+            var img = imgRef.current;
+            if (!img) return;
+
+            setHiRes(false);
+
+            // Show article size immediately
+            img.src = photo.src;
+
+            // Load full-res in background
+            var fullImg = new Image();
+            fullImg.onload = function() {
+                if (imgRef.current) {
+                    imgRef.current.src = photo.full_src;
+                    setHiRes(true);
+                }
+            };
+            fullImg.src = photo.full_src;
+
+            // Preload adjacent images
+            preloadAdjacent(photos, index);
+        }, [index]);
+
+        // Update backlight background
         useEffect(function() {
             var bg = 'url(' + photo.src + ')';
             if (outerRef.current) outerRef.current.style.backgroundImage = bg;
@@ -45,7 +78,7 @@
 
                 <div className="photo-lightbox-img-wrap">
                     <button className="photo-lightbox-nav photo-lightbox-prev" onClick={onPrev}>&#8249;</button>
-                    <img src={photo.full_src} alt={photo.alt} />
+                    <img ref={imgRef} src={photo.src} alt={photo.alt} className={hiRes ? 'hires' : ''} />
                     <button className="photo-lightbox-nav photo-lightbox-next" onClick={onNext}>&#8250;</button>
                 </div>
 
@@ -63,5 +96,5 @@
         );
     }
 
-    window.PhotoLightbox = { Lightbox: Lightbox, preloadImages: preloadImages };
+    window.PhotoLightbox = { Lightbox: Lightbox, preloadAdjacent: preloadAdjacent };
 })();

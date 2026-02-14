@@ -1617,4 +1617,172 @@ commands/fix_geotagging.cr
 
 ---
 
-*Last updated: 2026-02-10*
+## Year Stats Page Redesign ✅ COMPLETE
+
+**Commit `41f7c09c`** (2026-02-11)
+
+### Goal
+Redesign yearly statistics pages (`/rok/<year>.html`) with dark/light theming and enriched data.
+
+### What Was Done
+
+1. **Sparkline charts** — Monthly distance/time mini bar charts in month rows
+2. **Route map per month** — Small SVG map showing routes for each month
+3. **Tag breakdown** — Per-tag stats (distance, time, count) with color-coded rows
+4. **Records section** — Longest ride, longest hike, most photos, highest temp, most active month
+5. **Photo of the Year** — Best-rated photo from the year with lightbox
+6. **Dark/light theming** — CSS custom properties with `prefers-color-scheme`
+7. **Template overhaul** — `data/layout/year_stats/stats.html` and `month_row.html`
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/dynamic_view/year_stat_report_view.cr` | Enriched data: sparklines, tag stats, records, photo of year |
+| `data/layout/year_stats/stats.html` | Complete CSS rewrite with dark/light themes |
+| `data/layout/year_stats/month_row.html` | Sparkline bars, route map, enhanced layout |
+| `data/assets/css/self/year_stats.css` | New page-specific CSS |
+
+---
+
+## POIs Page Redesign ✅ COMPLETE
+
+**Commit `f54f93d4`** (2026-02-12)
+
+### Goal
+Replace static POIs page with interactive Preact-powered map with side panel.
+
+### What Was Done
+
+1. **Interactive Leaflet map** with color-coded markers (visited=green, todo=orange, train stations=blue)
+2. **Preact side panel** — filterable list, click-to-zoom, category chips
+3. **Data sources** — Train stations from YAML, trip ideas, visited POIs from posts
+4. **Dark mode support** via CSS custom properties
+5. **Template** — `data/layout/pois/pois.html` with JSX source `data/assets/js/src/pois.jsx`
+6. **E2E tests** — `tests/e2e/specs/pois.spec.js`
+
+### Dependencies
+- Changed from `[:posts]` to `[:posts, :yamls, :exifs]` (train_stations/ideas from yamls, photo GPS from exifs)
+
+---
+
+## BuildContext Split ✅ COMPLETE
+
+**Commit `0521aa99`** (2026-02-12)
+
+### Goal
+Split `RenderContext` into read-only base class (for views) and `BuildContext` subclass (for pipeline operations).
+
+### What Was Done
+
+1. **`BuildContext < RenderContext`** — New subclass with `render_and_write`, `setup_dev_output`, `copy_assets_and_photos` methods
+2. **RenderContext made read-only** — Removed `[]`/`[]?` operator, added typed accessors
+3. **Renamed methods** for clarity:
+   - `posts` → `posts_newest_first` (sorted) + `published_posts` (by index)
+   - `write_output` → `output_buffer` (returns buffer, no side effects)
+   - `@md` → `markdown_renderer`
+4. **All view registry blocks** updated to use `ctx.render_and_write(view)` pattern
+5. **All view classes** updated to use new accessor names
+
+### Files Created/Modified
+- `data/src/build_context.cr` (NEW) — BuildContext class
+- `data/src/render_context.cr` — Read-only, typed accessors
+- 30+ view files updated for new method names
+- `spec/render_context_spec.cr`, `spec/support/mock_render_context.cr` — Updated
+
+---
+
+## More Page Links ✅ COMPLETE
+
+**Commit `0521aa99`** (2026-02-12)
+
+Added missing links to the more page (`/wiecej.html`):
+- Portfolio (`/portfolio.html`)
+- Yearly reports (`/rok/<year>.html` for each year)
+
+---
+
+## Polish Spellcheck Command ✅ COMPLETE
+
+**Commit `ea53d92e`** (2026-02-12)
+
+### Goal
+Add Polish spelling/grammar checking via LanguageTool HTTP API.
+
+### Architecture
+
+```
+commands/spellcheck.cr          ← Thin CLI wrapper
+  ↓ delegates to
+Commands::Tools::Spellcheck     ← Core implementation
+  ↓ connects to
+LanguageTool HTTP API           ← localhost:8081 (optional)
+```
+
+### Features
+- **Graceful fallback** — Logs warning and skips if LanguageTool unavailable
+- **Markdown stripping** — Removes code blocks, links, images, headings, function tags while preserving character offsets for accurate line:column mapping
+- **YAML front matter skip** — Only checks content after second `---` separator
+- **Configurable** — `--dev`/`--slug=<filter>`/`--verbose` flags, disabled rules list
+- **Default disabled rules** — `WHITESPACE_RULE`, `COMMA_PARENTHESIS_WHITESPACE`, `BRAK_SPACJI_NAWIAS`
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/commands/tools/spellcheck.cr` | Core spellcheck command (266 lines) |
+| `commands/spellcheck.cr` | Thin CLI wrapper (30 lines) |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/commands/tools/all.cr` | Added `require "./spellcheck"` |
+
+### Setup
+```bash
+brew install languagetool
+brew services start languagetool
+crystal run commands/spellcheck.cr           # Check all posts (full env)
+crystal run commands/spellcheck.cr -- --dev  # Check dev posts only
+crystal run commands/spellcheck.cr -- --slug=2024 -v  # Filter + verbose
+```
+
+---
+
+## Phase 35: Gallery Image Loading Optimization ✅ COMPLETE
+
+**Goal**: Reduce gallery/portfolio page load times and improve lightbox UX.
+
+### Problems Solved
+1. Gallery grid displayed article-size images (1000x800) when grid items are only 300-400px wide
+2. All full-res images (70+) were preloaded simultaneously on page mount
+3. Lightbox showed nothing until the full 2048px image downloaded
+
+### Changes
+
+**Crystal (server-side):**
+- `photo_entity.cr` — Added `img.grid_src` to `hash_for_partial()` so gallery grids get the 560x420 URL
+- `portfolio_view.cr` — Added `grid_src` field to portfolio JSON output
+
+**JSX (client-side):**
+- `photo_lightbox.jsx` — Progressive loading: shows article size (1000x800) immediately, swaps to full-res when loaded. Replaced `preloadImages` (all at once) with `preloadAdjacent` (current + next 2 + prev 1)
+- `gallery_dynamic.jsx` — Grid `<img>` uses `img.grid_src` (560x420) instead of `img.src` (1000x800). Preloading switched from all-at-once to adjacent-only when lightbox opens
+- `portfolio.jsx` — `GridItem` uses `grid_src` for display and ambilight. Same adjacent preload
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/models/photo_entity.cr` | Add `img.grid_src` to `hash_for_partial()` |
+| `data/src/views/portfolio_view.cr` | Add `grid_src` field to JSON output |
+| `data/assets/js/src/photo_lightbox.jsx` | Progressive loading + smart preload |
+| `data/assets/js/src/gallery_dynamic.jsx` | Use `grid_src` in grid, smart preload |
+| `data/assets/js/src/portfolio.jsx` | Use `grid_src` in grid, smart preload |
+| `data/assets/js/self/photo_lightbox.js` | Transpiled |
+| `data/assets/js/self/gallery_dynamic.js` | Transpiled |
+| `data/assets/js/self/portfolio.js` | Transpiled |
+
+---
+
+*Last updated: 2026-02-14*

@@ -261,12 +261,12 @@ module DynamicView
         end
 
         rows << {
-          name:              POLISH_MONTHS[month],
-          distance:          month_distance,
-          distance_bicycle:  month_distance_bicycle,
-          distance_hike:     month_distance_hike,
-          time_spent:        month_time_spent,
-          season_class:      season_class(month),
+          name:             POLISH_MONTHS[month],
+          distance:         month_distance,
+          distance_bicycle: month_distance_bicycle,
+          distance_hike:    month_distance_hike,
+          time_spent:       month_time_spent,
+          season_class:     season_class(month),
         }
       end
       rows

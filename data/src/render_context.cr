@@ -325,5 +325,4 @@ class RenderContext
   def validator
     blog.validator.not_nil!
   end
-
 end

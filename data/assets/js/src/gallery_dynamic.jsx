@@ -60,12 +60,12 @@ function GalleryApp() {
         return () => { document.body.style.overflow = ''; };
     }, [isOpen]);
 
-    // Preload full-res images once data is loaded
+    // Preload adjacent images when lightbox opens or navigates
     useEffect(() => {
-        if (!galleryData) return;
+        if (!galleryData || selectedIndex < 0) return;
         var photos = galleryData.items.map(mapToLightboxPhoto);
-        PhotoLB.preloadImages(photos);
-    }, [galleryData]);
+        PhotoLB.preloadAdjacent(photos, selectedIndex);
+    }, [galleryData, selectedIndex]);
 
     if (loading) {
         return <div className="loading">Loading gallery...</div>;
@@ -97,7 +97,7 @@ function GalleryApp() {
                         id={item['img.full_image_sanitized']}
                     >
                         <img
-                            src={item['img.src']}
+                            src={item['img.grid_src'] || item['img.src']}
                             alt={item['img.alt']}
                             title={item['img.title']}
                             loading="lazy"

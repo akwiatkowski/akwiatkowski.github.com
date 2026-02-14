@@ -1,7 +1,7 @@
 class PhotoSimilarityService
-  BAND_COUNT  = 4
-  BAND_BITS   = 16
-  BAND_MASK   = (1_u64 << BAND_BITS) - 1
+  BAND_COUNT =  4
+  BAND_BITS  = 16
+  BAND_MASK  = (1_u64 << BAND_BITS) - 1
 
   def initialize(
     @entries : Array(PhotoAnalysisEntity),

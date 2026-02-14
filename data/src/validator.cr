@@ -130,5 +130,4 @@ class Tremolite::Validator
     ext = File.extname(url).to_s
     ext == "" || ext == ".html" || ext == ".htm"
   end
-
 end

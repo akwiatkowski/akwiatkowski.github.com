@@ -626,7 +626,7 @@ GPX_DIR      = "tmp/gpx"
 IMAGES_DIR   = "env/full/data/images"
 EXIF_CACHE   = "env/full/cache/exifs"
 WARSAW       = Time::Location.load("Europe/Warsaw")
-MAX_DIFF     = 3600  # max seconds between photo time and nearest trackpoint
+MAX_DIFF     = 3600                                    # max seconds between photo time and nearest trackpoint
 OFFSET_TRIES = [-7200.0, -3600.0, 0.0, 3600.0, 7200.0] # timezone offset candidates
 
 WRITE_MODE = ARGV.includes?("--write")
@@ -756,10 +756,10 @@ private def find_position(points : Array(TrackPoint), target : Time) : {Float64,
   lat = p1.lat + (p2.lat - p1.lat) * t
   lon = p1.lon + (p2.lon - p1.lon) * t
   ele = if (e1 = p1.ele) && (e2 = p2.ele)
-    e1 + (e2 - e1) * t
-  else
-    p1.ele || p2.ele
-  end
+          e1 + (e2 - e1) * t
+        else
+          p1.ele || p2.ele
+        end
 
   nearest_diff = {(target - p1.time).total_seconds, (p2.time - target).total_seconds}.min
   {lat, lon, ele, nearest_diff}
@@ -974,12 +974,12 @@ slugs.each do |slug|
 
   # Detect timezone offset
   offset = if mo = MANUAL_OFFSET
-    mo
-  elsif all_missing_set.includes?(slug)
-    detect_offset_bruteforce(images, day_points)
-  else
-    detect_offset_from_gps_photos(images, day_points)
-  end
+             mo
+           elsif all_missing_set.includes?(slug)
+             detect_offset_bruteforce(images, day_points)
+           else
+             detect_offset_from_gps_photos(images, day_points)
+           end
 
   if offset != 0.0
     puts "  #{slug}: detected offset #{offset.to_i}s (#{(offset / 3600).round(1)}h)"

@@ -40,5 +40,4 @@ class Tremolite::Post
       return Array(Tremolite::Post).new
     end
   end
-
 end

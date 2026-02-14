@@ -53,7 +53,8 @@ function MasonryGrid({ photos, onPhotoClick }) {
 }
 function GridItem({ photo, index, onClick }) {
   var [itemLoaded, setItemLoaded] = useState(false);
-  var style = { "--photo-url": "url(" + photo.src + ")" };
+  var gridSrc = photo.grid_src || photo.src;
+  var style = { "--photo-url": "url(" + gridSrc + ")" };
   return /* @__PURE__ */ React.createElement(
     "div",
     {
@@ -66,7 +67,7 @@ function GridItem({ photo, index, onClick }) {
     /* @__PURE__ */ React.createElement(
       LazyImage,
       {
-        src: photo.src,
+        src: gridSrc,
         alt: photo.alt,
         onLoad: function() {
           setItemLoaded(true);
@@ -80,8 +81,10 @@ function PortfolioApp({ data }) {
   var [lightboxIndex, setLightboxIndex] = useState(-1);
   var isOpen = lightboxIndex >= 0;
   useEffect(function() {
-    PhotoLB.preloadImages(data.photos);
-  }, []);
+    if (lightboxIndex < 0)
+      return;
+    PhotoLB.preloadAdjacent(data.photos, lightboxIndex);
+  }, [lightboxIndex]);
   var goPrev = useCallback(function() {
     setLightboxIndex(function(i) {
       return i > 0 ? i - 1 : data.photos.length - 1;

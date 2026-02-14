@@ -54,11 +54,11 @@ function GalleryApp() {
     };
   }, [isOpen]);
   useEffect(() => {
-    if (!galleryData)
+    if (!galleryData || selectedIndex < 0)
       return;
     var photos = galleryData.items.map(mapToLightboxPhoto);
-    PhotoLB.preloadImages(photos);
-  }, [galleryData]);
+    PhotoLB.preloadAdjacent(photos, selectedIndex);
+  }, [galleryData, selectedIndex]);
   if (loading) {
     return /* @__PURE__ */ React.createElement("div", { className: "loading" }, "Loading gallery...");
   }
@@ -83,7 +83,7 @@ function GalleryApp() {
     /* @__PURE__ */ React.createElement(
       "img",
       {
-        src: item["img.src"],
+        src: item["img.grid_src"] || item["img.src"],
         alt: item["img.alt"],
         title: item["img.title"],
         loading: "lazy",

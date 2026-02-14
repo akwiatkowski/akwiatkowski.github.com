@@ -98,7 +98,8 @@ function MasonryGrid({ photos, onPhotoClick }) {
 
 function GridItem({ photo, index, onClick }) {
     var [itemLoaded, setItemLoaded] = useState(false);
-    var style = { '--photo-url': 'url(' + photo.src + ')' };
+    var gridSrc = photo.grid_src || photo.src;
+    var style = { '--photo-url': 'url(' + gridSrc + ')' };
 
     return (
         <div
@@ -107,7 +108,7 @@ function GridItem({ photo, index, onClick }) {
             onClick={function() { onClick(index); }}
         >
             <LazyImage
-                src={photo.src}
+                src={gridSrc}
                 alt={photo.alt}
                 onLoad={function() { setItemLoaded(true); }}
             />
@@ -122,10 +123,11 @@ function PortfolioApp({ data }) {
     var [lightboxIndex, setLightboxIndex] = useState(-1);
     var isOpen = lightboxIndex >= 0;
 
-    // Preload all full-res images once on mount
+    // Preload adjacent images when lightbox opens or navigates
     useEffect(function() {
-        PhotoLB.preloadImages(data.photos);
-    }, []);
+        if (lightboxIndex < 0) return;
+        PhotoLB.preloadAdjacent(data.photos, lightboxIndex);
+    }, [lightboxIndex]);
 
     var goPrev = useCallback(function() {
         setLightboxIndex(function(i) { return i > 0 ? i - 1 : data.photos.length - 1; });
