@@ -470,7 +470,7 @@
                 return window.React.createElement('div',
                     { className: 'photo-item', onClick: () => onSelect(photo) },
                     window.React.createElement('img', {
-                        src: photo.article_url,
+                        src: photo.grid_url || photo.article_url,
                         alt: 'photo',
                         className: 'photo-item-image',
                         onError: (e) => e.target.style.display = 'none'
@@ -662,7 +662,7 @@
                             markerCount++;
                             placedPixelsRef.current.push({ x: candX, y: candY });
 
-                            const markerHtml = `<img src="${photo.article_url}" style="width:40px;height:40px;border-radius:2px;border:1px solid #fff;cursor:pointer;object-fit:cover;" onerror="this.style.display='none'"/>`;
+                            const markerHtml = `<img src="${photo.thumbnail_url || photo.article_url}" style="width:40px;height:40px;border-radius:2px;border:1px solid #fff;cursor:pointer;object-fit:cover;" onerror="this.style.display='none'"/>`;
                             const customIcon = L.divIcon({
                                 html: markerHtml,
                                 iconSize: [40, 40],

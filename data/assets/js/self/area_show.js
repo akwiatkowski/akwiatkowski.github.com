@@ -187,7 +187,7 @@ function PhotosSection({ photos }) {
   );
   if (photos.length === 0)
     return null;
-  return /* @__PURE__ */ React.createElement("section", { className: "photos-section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Najlepsze zdjecia"), /* @__PURE__ */ React.createElement("div", { className: "photos-grid" }, displayPhotos.map((photo, idx) => /* @__PURE__ */ React.createElement("a", { key: idx, href: photo.post_url, className: "photo-card" }, /* @__PURE__ */ React.createElement("img", { src: photo.article_url, alt: photo.desc, loading: "lazy" }), /* @__PURE__ */ React.createElement("div", { className: "photo-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "photo-title" }, photo.desc || "Zdjecie"), /* @__PURE__ */ React.createElement("div", { className: "photo-date" }, formatDate(photo.time)))))));
+  return /* @__PURE__ */ React.createElement("section", { className: "photos-section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Najlepsze zdjecia"), /* @__PURE__ */ React.createElement("div", { className: "photos-grid" }, displayPhotos.map((photo, idx) => /* @__PURE__ */ React.createElement("a", { key: idx, href: photo.post_url, className: "photo-card" }, /* @__PURE__ */ React.createElement("img", { src: photo.grid_url || photo.article_url, alt: photo.desc, loading: "lazy" }), /* @__PURE__ */ React.createElement("div", { className: "photo-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "photo-title" }, photo.desc || "Zdjecie"), /* @__PURE__ */ React.createElement("div", { className: "photo-date" }, formatDate(photo.time)))))));
 }
 function PostsSection({ posts }) {
   const [displayPosts] = useState(() => {

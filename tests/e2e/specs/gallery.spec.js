@@ -87,6 +87,105 @@ test.describe('Gallery pages', () => {
 
   });
 
+  test.describe('Gallery image optimization', () => {
+
+    test('gallery grid uses grid-size images, not article-size', async ({ pageWithErrorTracking, payload }) => {
+      const page = pageWithErrorTracking;
+      const posts = getReadyPosts(payload).filter(p => p.photos_count > 0);
+
+      if (posts.length === 0) {
+        test.skip('No posts with photos');
+        return;
+      }
+
+      const post = posts[0];
+      const galleryUrl = post.url.replace(/\.html$/, '').replace(/^\//, '/galeria/') + '.html';
+
+      await page.goto(galleryUrl);
+
+      // Wait for gallery to render
+      const images = page.locator('.masonry-grid .gallery-item img');
+      await expect(images.first()).toBeVisible({ timeout: 10000 });
+
+      // Check that grid images use grid/ prefix, not article/
+      const srcs = await images.evaluateAll(imgs => imgs.map(img => img.src));
+      const gridImages = srcs.filter(s => s.includes('/grid_'));
+      const articleImages = srcs.filter(s => s.includes('/article_'));
+
+      expect(gridImages.length, 'Grid should use grid-size images').toBeGreaterThan(0);
+      expect(articleImages.length, 'Grid should not use article-size images').toBe(0);
+    });
+
+    test('lightbox shows progressive loading (article then full-res)', async ({ pageWithErrorTracking, payload }) => {
+      const page = pageWithErrorTracking;
+      const posts = getReadyPosts(payload).filter(p => p.photos_count > 0);
+
+      if (posts.length === 0) {
+        test.skip('No posts with photos');
+        return;
+      }
+
+      const post = posts[0];
+      const galleryUrl = post.url.replace(/\.html$/, '').replace(/^\//, '/galeria/') + '.html';
+
+      await page.goto(galleryUrl);
+
+      // Wait for gallery to render and click first photo
+      const items = page.locator('.masonry-grid .gallery-item');
+      await expect(items.first()).toBeVisible({ timeout: 10000 });
+      await items.first().click();
+
+      // Lightbox should open
+      await expect(page.locator('.photo-lightbox')).toBeVisible();
+
+      // The lightbox image should initially show article-size (progressive fallback)
+      const lightboxImg = page.locator('.photo-lightbox-img-wrap img');
+      const src = await lightboxImg.getAttribute('src');
+      // Should be article (initial) or full-res (if already loaded) — not grid
+      expect(src).not.toContain('/grid_');
+
+      await page.keyboard.press('Escape');
+    });
+
+    test('no bulk preloading of all images on page load', async ({ pageWithErrorTracking, payload }) => {
+      const page = pageWithErrorTracking;
+      const posts = getReadyPosts(payload).filter(p => p.photos_count > 10);
+
+      if (posts.length === 0) {
+        test.skip('No posts with enough photos');
+        return;
+      }
+
+      const post = posts[0];
+      const galleryUrl = post.url.replace(/\.html$/, '').replace(/^\//, '/galeria/') + '.html';
+
+      // Track all image requests to full-res (original) images
+      const fullResRequests = [];
+      page.on('request', request => {
+        const url = request.url();
+        if (url.includes('/images/') && !url.includes('/article_') && !url.includes('/grid_')
+            && !url.includes('/card_') && !url.includes('/thumbnail_')
+            && url.match(/\.(jpg|jpeg|png|webp)$/i)) {
+          fullResRequests.push(url);
+        }
+      });
+
+      await page.goto(galleryUrl);
+
+      // Wait for gallery to fully render
+      const images = page.locator('.masonry-grid .gallery-item img');
+      await expect(images.first()).toBeVisible({ timeout: 10000 });
+
+      // Wait a bit for any eager preloading to happen
+      await page.waitForTimeout(2000);
+
+      // Should NOT have preloaded all full-res images
+      // (before the fix, all 70+ images would start downloading)
+      expect(fullResRequests.length, 'Should not bulk-preload full-res images').toBeLessThan(5);
+    });
+
+  });
+
   test.describe('Tag galleries', () => {
 
     test('tag gallery pages load', async ({ pageWithErrorTracking, payload }) => {

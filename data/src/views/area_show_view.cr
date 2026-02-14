@@ -109,7 +109,7 @@ class AreaShowView < PageView
                 json.field("date", post.date)
                 json.field("distance", post.distance)
                 json.field("time_spent", post.time_spent)
-                json.field("card_image_url", post.card_image_url)
+                json.field("card_image_url", post.head_photo_entity.try(&.grid_image_src) || "")
                 json.field("tags") { json.raw post.tag_slugs.to_json }
                 json.field("coords") { json.raw post.detailed_routes.to_json }
               end
@@ -124,6 +124,7 @@ class AreaShowView < PageView
               json.object do
                 json.field("desc", photo.desc)
                 json.field("article_url", photo.article_image_src)
+                json.field("grid_url", photo.grid_image_src)
                 json.field("time", photo.time.to_s("%Y-%m-%d"))
                 json.field("post_url", photo.post_url)
                 json.field("points", photo.points)
@@ -229,7 +230,7 @@ class AreaShowView < PageView
         end
 
         # Randomness for variety
-        score *= rand(0.8..1.2)
+        score *= Random.new(@area.slug.hash.to_u64).rand(0.8..1.2)
 
         candidates << {score, area} if score > 0
       end
@@ -238,7 +239,7 @@ class AreaShowView < PageView
     candidates.sort_by! { |s, _| -s }
     candidates.first(4).map do |_, area|
       photo = @selector.best_photo_for(area)
-      photo_url = photo ? photo.article_image_src : ""
+      photo_url = photo ? photo.grid_image_src : ""
       {area: area, photo_url: photo_url}
     end
   end

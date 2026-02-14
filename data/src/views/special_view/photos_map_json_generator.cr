@@ -41,6 +41,8 @@ module SpecialView
                   json.field("desc", photo_entity.desc)
                   json.field("full_url", photo_entity.full_image_src)
                   json.field("article_url", photo_entity.article_image_src)
+                  json.field("grid_url", photo_entity.grid_image_src)
+                  json.field("thumbnail_url", photo_entity.thumbnail_image_src)
                   json.field("time", photo_entity.time)
                   json.field("post_slug", photo_entity.post_slug)
                   json.field("post_url", photo_entity.post_url)
