@@ -64,6 +64,17 @@ make test-e2e-headed   # Run with visible browser
 
 ## Recently Completed
 
+### Phase 37: AVIF for background-image Contexts (2026-02-15)
+
+- Shared AVIF detection (`avif_detect.js`) — `window.__avif` boolean + `window.__avifReady` Promise, loaded via core bundle
+- Lightbox refactored to use shared detection (removed private `supportsAvif()`), ambilight uses `grid_src_avif`
+- Area show: hero bg uses `bestPhotoUrlAvif`, related cards use `best_photo_url_avif`
+- Towns index: card bg uses `town.photo_url_avif`
+- Portfolio: hero bg uses `photo.src_avif`, grid ambilight CSS var uses `gridSrcAvif`
+- Map: popup bg uses `card_image_url_avif`
+- Post box template: CSS `image-set()` with AVIF + JPEG fallback
+- Post model: `card_image_url_avif` getter added
+
 ### Phase 36: AVIF `<picture>` Elements (2026-02-14)
 
 - Native `<picture>` elements for AVIF format delivery across all image contexts
@@ -76,10 +87,4 @@ make test-e2e-headed   # Run with visible browser
 - Strava iframe overflow fixed with max-width wrapper
 - E2E tests: 14 tests covering AVIF source selection, responsive image resolution, viewport rendering, no horizontal scroll
 
-**Deferred** (discuss later):
-- Lightbox progressive loading (dynamically swaps `img.src`)
-- CSS `background-image` contexts (hero photos, card bgs, ambilight, town cards, related area cards)
-- Homepage vanilla JS (innerHTML pattern)
-- Area show compiled JS (mix of `<img>` and `backgroundImage`)
-
-*Last updated: 2026-02-14*
+*Last updated: 2026-02-15*
