@@ -26,11 +26,12 @@ function TownCard({ town }) {
     var years = town.first_year === town.last_year
         ? String(town.first_year)
         : town.first_year + '\u2013' + town.last_year;
+    var bgUrl = (window.__avif && town.photo_url_avif) ? town.photo_url_avif : town.photo_url;
 
     return (
         <a href={town.show_url} className="town-card" title={town.name}>
-            {town.photo_url ? (
-                <div className="town-card-bg" style={{ backgroundImage: 'url(' + town.photo_url + ')' }}></div>
+            {bgUrl ? (
+                <div className="town-card-bg" style={{ backgroundImage: 'url(' + bgUrl + ')' }}></div>
             ) : (
                 <div className="town-card-bg town-card-nophoto">
                     <i className="fa fa-map-marker fa-2x"></i>

@@ -92,6 +92,7 @@ this.BlogMap = (function() {
                 slug: post["slug"],
                 image: post["image_url"],
                 smallImage: post["card_image_url"],
+                smallImageAvif: post["card_image_url_avif"],
                 headerExtImg: post["header-ext-img"]
               };
 
@@ -120,7 +121,8 @@ this.BlogMap = (function() {
     }
 
     showPopup(latlng, p) {
-      var div = '<div class="map-image" style="background-image: url(\'' + p.smallImage + '\')">';
+      var popupBg = (window.__avif && p.smallImageAvif) ? p.smallImageAvif : p.smallImage;
+      var div = '<div class="map-image" style="background-image: url(\'' + popupBg + '\')">';
       div += '<div class="map-image-title"><a href="' + p.url + '">' + p.title + '</a></div>';
       div += '<div class="map-image-info-bar">';
       div += '<div class="map-image-date">' + p.date + '</div>';

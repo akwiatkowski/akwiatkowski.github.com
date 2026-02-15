@@ -9,6 +9,7 @@ module PostView
       ph["klass"] = klass
       ph["post.url"] = post.url
       ph["post.card_image_url"] = post.card_image_url.not_nil!
+      ph["post.card_image_url_avif"] = post.card_image_url_avif
       ph["post.title"] = post.title
       ph["post.date"] = post.date
       ph["post.date"] = post.finished_date if render_date == :finished

@@ -1,1 +1,206 @@
-(()=>{var{useState:p,useEffect:w,useMemo:f}=React,z=(a,i)=>!a||!i?null:i.find(c=>c.slug===a.toLowerCase())||null,g=a=>a==="road"?"Szosa":a==="gravel"?"Gravel":a==="mtb"?"MTB":a,h=a=>a==="road"?"\u{1F6E3}\uFE0F":a==="gravel"?"\u{1F6B5}":a==="mtb"?"\u{1F6B5}\u200D\u2642\uFE0F":"",C=a=>a<1.5?"train-easy":a<2.8?"train-medium":a<3.8?"train-hard":"train-epic",R=({show:a,onHide:i,trip:c})=>!a||!c?null:React.createElement(React.Fragment,null,React.createElement("div",{className:"modal-backdrop",onClick:i}),React.createElement("div",{className:"modal-overlay"},React.createElement("div",{className:"modal-box"},React.createElement("div",{className:"modal-head"},React.createElement("span",{className:"modal-title"},c.start.name," \u2192 ",c.end.name),React.createElement("button",{className:"modal-close",onClick:i},"\xD7")),React.createElement("div",{className:"modal-body"},React.createElement("object",{data:c.photo_map_url}))))),x=({trip:a,onMapClick:i,towns:c})=>{let u=(a.start.time_distance+a.end.time_distance)/2,d=C(u),e=a.towns.map(s=>z(s,c)||{slug:s,name:s,url:null}),o=a.days_min===a.days_normal?`${a.days_normal} dni`:`${a.days_min}\u2013${a.days_normal} dni`,r=a.time_cost_stats_for_new_town;return React.createElement("div",{className:"card"},React.createElement("div",{className:"card-head"},React.createElement("div",{className:"card-route"},a.start.name," \u2192 ",a.end.name),React.createElement("div",{className:"card-meta"},React.createElement("span",null,a.distance," km"),React.createElement("span",null,o),a.elevation&&React.createElement("span",null,"\u2191",a.elevation,"m"))),React.createElement("div",{className:"card-body"},React.createElement("div",{className:"card-row"},a.surfaces.map((s,m)=>React.createElement("span",{key:m,className:`tag surface-${s}`},h(s)," ",g(s)))),React.createElement("div",{className:"card-row"},React.createElement("span",{className:`tag ${d}`},"\u{1F682} ",a.start.name,": ",a.start.time_distance,"h"),React.createElement("span",{className:`tag ${d}`},"\u{1F682} ",a.end.name,": ",a.end.time_distance,"h")),React.createElement("div",{className:"card-section"},React.createElement("div",{className:"card-label"},"Gminy (",a.towns.length,")"),React.createElement("div",{className:"towns"},e.map((s,m)=>s.url?React.createElement("a",{key:m,href:s.url,className:"town visited"},s.name):React.createElement("span",{key:m,className:"town"},s.name)))),React.createElement("div",{className:"cost-box"},React.createElement("div",{className:"cost-header"},"Niezaliczonych: ",React.createElement("strong",null,a.towns_not_visited)," gmin",React.createElement("span",{className:"cost-direction"},a.direction_char)),React.createElement("div",{className:"cost-row"},React.createElement("div",{className:"cost-cell"},React.createElement("span",{className:"cost-num"},r.time_cost_riding,"h"),React.createElement("span",{className:"cost-desc"},"jazdy/gmin\u0119")),React.createElement("div",{className:"cost-cell"},React.createElement("span",{className:"cost-num"},r.time_cost_riding_and_train,"h"),React.createElement("span",{className:"cost-desc"},"z dojazdem")),React.createElement("div",{className:"cost-cell"},React.createElement("span",{className:"cost-num"},r.time_cost_with_sleeping,"h"),React.createElement("span",{className:"cost-desc"},"z noclegiem")))),React.createElement("div",{className:"card-actions"},React.createElement("a",{className:"btn-ext",href:a.link,target:"_blank",rel:"noopener noreferrer"},"\u{1F5FA}\uFE0F Mapa zewn\u0119trzna"),a.photo_map_url&&React.createElement("button",{className:"btn-map",onClick:()=>i(a)},"\u{1F4F8} Mapa zdj\u0119\u0107"))))},j=({filters:a,onChange:i,surfaces:c,directions:u})=>{let d=({val:e,label:o})=>React.createElement("label",{className:"check"},React.createElement("input",{type:"checkbox",checked:a.duration.includes(e),onChange:r=>i("duration",r.target.checked?[...a.duration,e]:a.duration.filter(s=>s!==e))}),o);return React.createElement("div",{className:"filters"},React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Szukaj"),React.createElement("input",{type:"text",className:"filter-input",placeholder:"Gmina...",value:a.searchText,onChange:e=>i("searchText",e.target.value)})),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Dystans: ",a.distanceRange[0],"\u2013",a.distanceRange[1]," km"),React.createElement("input",{type:"range",min:"50",max:"300",step:"10",value:a.distanceRange[0],onChange:e=>i("distanceRange",[parseInt(e.target.value),a.distanceRange[1]])}),React.createElement("input",{type:"range",min:"50",max:"300",step:"10",value:a.distanceRange[1],onChange:e=>i("distanceRange",[a.distanceRange[0],parseInt(e.target.value)])})),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Kierunek"),React.createElement("select",{className:"filter-select",value:a.direction,onChange:e=>i("direction",e.target.value)},React.createElement("option",{value:""},"Wszystkie"),u.map(e=>React.createElement("option",{key:e,value:e},e)))),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Min. niezaliczonych: ",a.notVisited),React.createElement("input",{type:"range",min:"0",max:"10",step:"1",value:a.notVisited,onChange:e=>i("notVisited",parseInt(e.target.value))})),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Czas trwania"),React.createElement("div",{className:"checks"},React.createElement(d,{val:"1",label:"1 dzie\u0144"}),React.createElement(d,{val:"2",label:"2 dni"}),React.createElement(d,{val:"3",label:"3 dni"}),React.createElement(d,{val:"4",label:"4 dni"}),React.createElement(d,{val:"5+",label:"5+ dni"}))),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Nawierzchnia"),React.createElement("div",{className:"filter-btns"},c.map(e=>React.createElement("button",{key:e,className:`filter-btn ${a.surface.includes(e)?"active":""}`,onClick:()=>i("surface",a.surface.includes(e)?a.surface.filter(o=>o!==e):[...a.surface,e])},h(e)," ",g(e))))),React.createElement("div",{className:"filter-group"},React.createElement("div",{className:"filter-label"},"Dojazd poci\u0105giem"),React.createElement("select",{className:"filter-select",value:a.trainAccessibility,onChange:e=>i("trainAccessibility",e.target.value)},React.createElement("option",{value:"all"},"Wszystkie"),React.createElement("option",{value:"easy"},"Szybki (<2h)"),React.createElement("option",{value:"medium"},"\u015Aredni (<4h)"),React.createElement("option",{value:"hard"},"Ci\u0119\u017Cki (<6h)"),React.createElement("option",{value:"epic"},"Grube (<8h)"))),React.createElement("button",{className:"filter-reset",onClick:()=>i("reset",null)},"Resetuj filtry"))},T=()=>{let[a,i]=p([]),[c,u]=p([]),[d,e]=p(!0),[o,r]=p(null),[s,m]=p({searchText:"",distanceRange:[50,300],notVisited:0,direction:"",duration:[],surface:[],trainAccessibility:"all"});w(()=>{fetch("/jsons/ideas.json").then(n=>n.json()).then(n=>{let t=n.ideas||n,l=(Array.isArray(t)?t:[]).map(v=>({...v,days_min:v.days_min||v.lindays_mink,end:v.end||v.finish,direction:v.direction_char}));i(l),u(n.towns||[])}).catch(()=>{i([]),u([])}).finally(()=>e(!1))},[]);let b=f(()=>{let n=new Set;return a.forEach(t=>(t.surfaces||[]).forEach(l=>n.add(l))),Array.from(n).sort()},[a]),_=f(()=>Array.from(new Set(a.map(n=>n.direction))).sort(),[a]),N=f(()=>a.filter(n=>{if(s.direction&&n.direction!==s.direction||n.distance<s.distanceRange[0]||n.distance>s.distanceRange[1]||n.towns_not_visited<s.notVisited)return!1;if(s.duration.length>0){let t=n.days_normal;if(!s.duration.some(l=>l==="5+"&&t>4||l!=="5+"&&t==parseInt(l)))return!1}if(s.surface.length>0&&!n.surfaces.some(t=>s.surface.includes(t)))return!1;if(s.searchText){let t=s.searchText.toLowerCase();if(![n.start.name,n.end.name,n.slug,...n.towns].join(" ").toLowerCase().includes(t))return!1}return!(s.trainAccessibility!=="all"&&(n.start.time_distance+n.end.time_distance)/2>{easy:2,medium:4,hard:6,epic:8}[s.trainAccessibility])}),[a,s]),k=(n,t)=>{m(n==="reset"?{searchText:"",distanceRange:[50,300],notVisited:0,direction:"",duration:[],surface:[],trainAccessibility:"all"}:l=>({...l,[n]:t}))};return React.createElement(React.Fragment,null,React.createElement("div",{className:"ideas-page"},React.createElement("header",{className:"ideas-hero"},React.createElement("h1",null,"Pomys\u0142y na trasy"),React.createElement("p",null,d?"\u0141adowanie...":`${N.length} ${N.length===1?"trasa":"tras"}`)),React.createElement("div",{className:"ideas-grid"},React.createElement("aside",{className:"ideas-aside"},React.createElement(j,{filters:s,onChange:k,surfaces:b,directions:_})),React.createElement("main",{className:"ideas-main"},d?React.createElement("div",{className:"ideas-loading"},"\u0141adowanie..."):N.length===0?React.createElement("div",{className:"ideas-empty"},React.createElement("div",{className:"ideas-empty-icon"},"\u{1F6AB}"),React.createElement("h3",null,"Brak pomys\u0142\xF3w na wycieczk\u0119"),React.createElement("p",null,"Zmie\u0144 filtry aby zobaczy\u0107 jakie\u015B pomys\u0142y")):React.createElement("div",{className:"cards"},N.map((n,t)=>React.createElement(x,{key:n.slug||t,trip:n,onMapClick:r,towns:c})))))),React.createElement(R,{show:!!o,onHide:()=>r(null),trip:o}))};function y(){ReactDOM.render(React.createElement(T,null),document.getElementById("root"))}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",y):y();})();
+const { useState, useEffect, useMemo } = React;
+const getTownBySlug = (slug, towns) => {
+  if (!slug || !towns)
+    return null;
+  return towns.find((t) => t.slug === slug.toLowerCase()) || null;
+};
+const surfaceLabel = (s) => s === "road" ? "Szosa" : s === "gravel" ? "Gravel" : s === "mtb" ? "MTB" : s;
+const surfaceIcon = (s) => s === "road" ? "\u{1F6E3}\uFE0F" : s === "gravel" ? "\u{1F6B5}" : s === "mtb" ? "\u{1F6B5}\u200D\u2642\uFE0F" : "";
+const trainClass = (avg) => avg < 1.5 ? "train-easy" : avg < 2.8 ? "train-medium" : avg < 3.8 ? "train-hard" : "train-epic";
+const MapModal = ({ show, onHide, trip }) => {
+  if (!show || !trip)
+    return null;
+  return /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("div", { className: "modal-backdrop", onClick: onHide }), /* @__PURE__ */ React.createElement("div", { className: "modal-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "modal-box" }, /* @__PURE__ */ React.createElement("div", { className: "modal-head" }, /* @__PURE__ */ React.createElement("span", { className: "modal-title" }, trip.start.name, " \u2192 ", trip.end.name), /* @__PURE__ */ React.createElement("button", { className: "modal-close", onClick: onHide }, "\xD7")), /* @__PURE__ */ React.createElement("div", { className: "modal-body" }, /* @__PURE__ */ React.createElement("object", { data: trip.photo_map_url })))));
+};
+const TripCard = ({ trip, onMapClick, towns }) => {
+  const avg = (trip.start.time_distance + trip.end.time_distance) / 2;
+  const tc = trainClass(avg);
+  const townObjects = trip.towns.map((slug) => {
+    const t = getTownBySlug(slug, towns);
+    return t || { slug, name: slug, url: null };
+  });
+  const days = trip.days_min === trip.days_normal ? `${trip.days_normal} dni` : `${trip.days_min}\u2013${trip.days_normal} dni`;
+  const stats = trip.time_cost_stats_for_new_town;
+  return /* @__PURE__ */ React.createElement("div", { className: "card" }, /* @__PURE__ */ React.createElement("div", { className: "card-head" }, /* @__PURE__ */ React.createElement("div", { className: "card-route" }, trip.start.name, " \u2192 ", trip.end.name), /* @__PURE__ */ React.createElement("div", { className: "card-meta" }, /* @__PURE__ */ React.createElement("span", null, trip.distance, " km"), /* @__PURE__ */ React.createElement("span", null, days), trip.elevation && /* @__PURE__ */ React.createElement("span", null, "\u2191", trip.elevation, "m"))), /* @__PURE__ */ React.createElement("div", { className: "card-body" }, /* @__PURE__ */ React.createElement("div", { className: "card-row" }, trip.surfaces.map((s, i) => /* @__PURE__ */ React.createElement("span", { key: i, className: `tag surface-${s}` }, surfaceIcon(s), " ", surfaceLabel(s)))), /* @__PURE__ */ React.createElement("div", { className: "card-row" }, /* @__PURE__ */ React.createElement("span", { className: `tag ${tc}` }, "\u{1F682} ", trip.start.name, ": ", trip.start.time_distance, "h"), /* @__PURE__ */ React.createElement("span", { className: `tag ${tc}` }, "\u{1F682} ", trip.end.name, ": ", trip.end.time_distance, "h")), /* @__PURE__ */ React.createElement("div", { className: "card-section" }, /* @__PURE__ */ React.createElement("div", { className: "card-label" }, "Gminy (", trip.towns.length, ")"), /* @__PURE__ */ React.createElement("div", { className: "towns" }, townObjects.map((t, i) => t.url ? /* @__PURE__ */ React.createElement("a", { key: i, href: t.url, className: "town visited" }, t.name) : /* @__PURE__ */ React.createElement("span", { key: i, className: "town" }, t.name)))), /* @__PURE__ */ React.createElement("div", { className: "cost-box" }, /* @__PURE__ */ React.createElement("div", { className: "cost-header" }, "Niezaliczonych: ", /* @__PURE__ */ React.createElement("strong", null, trip.towns_not_visited), " gmin", /* @__PURE__ */ React.createElement("span", { className: "cost-direction" }, trip.direction_char)), /* @__PURE__ */ React.createElement("div", { className: "cost-row" }, /* @__PURE__ */ React.createElement("div", { className: "cost-cell" }, /* @__PURE__ */ React.createElement("span", { className: "cost-num" }, stats.time_cost_riding, "h"), /* @__PURE__ */ React.createElement("span", { className: "cost-desc" }, "jazdy/gmin\u0119")), /* @__PURE__ */ React.createElement("div", { className: "cost-cell" }, /* @__PURE__ */ React.createElement("span", { className: "cost-num" }, stats.time_cost_riding_and_train, "h"), /* @__PURE__ */ React.createElement("span", { className: "cost-desc" }, "z dojazdem")), /* @__PURE__ */ React.createElement("div", { className: "cost-cell" }, /* @__PURE__ */ React.createElement("span", { className: "cost-num" }, stats.time_cost_with_sleeping, "h"), /* @__PURE__ */ React.createElement("span", { className: "cost-desc" }, "z noclegiem")))), /* @__PURE__ */ React.createElement("div", { className: "card-actions" }, /* @__PURE__ */ React.createElement("a", { className: "btn-ext", href: trip.link, target: "_blank", rel: "noopener noreferrer" }, "\u{1F5FA}\uFE0F Mapa zewn\u0119trzna"), trip.photo_map_url && /* @__PURE__ */ React.createElement("button", { className: "btn-map", onClick: () => onMapClick(trip) }, "\u{1F4F8} Mapa zdj\u0119\u0107"))));
+};
+const Filters = ({ filters, onChange, surfaces, directions }) => {
+  const DurationCheck = ({ val, label }) => /* @__PURE__ */ React.createElement("label", { className: "check" }, /* @__PURE__ */ React.createElement(
+    "input",
+    {
+      type: "checkbox",
+      checked: filters.duration.includes(val),
+      onChange: (e) => onChange("duration", e.target.checked ? [...filters.duration, val] : filters.duration.filter((d) => d !== val))
+    }
+  ), label);
+  return /* @__PURE__ */ React.createElement("div", { className: "filters" }, /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Szukaj"), /* @__PURE__ */ React.createElement(
+    "input",
+    {
+      type: "text",
+      className: "filter-input",
+      placeholder: "Gmina...",
+      value: filters.searchText,
+      onChange: (e) => onChange("searchText", e.target.value)
+    }
+  )), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Dystans: ", filters.distanceRange[0], "\u2013", filters.distanceRange[1], " km"), /* @__PURE__ */ React.createElement(
+    "input",
+    {
+      type: "range",
+      min: "50",
+      max: "300",
+      step: "10",
+      value: filters.distanceRange[0],
+      onChange: (e) => onChange("distanceRange", [parseInt(e.target.value), filters.distanceRange[1]])
+    }
+  ), /* @__PURE__ */ React.createElement(
+    "input",
+    {
+      type: "range",
+      min: "50",
+      max: "300",
+      step: "10",
+      value: filters.distanceRange[1],
+      onChange: (e) => onChange("distanceRange", [filters.distanceRange[0], parseInt(e.target.value)])
+    }
+  )), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Kierunek"), /* @__PURE__ */ React.createElement(
+    "select",
+    {
+      className: "filter-select",
+      value: filters.direction,
+      onChange: (e) => onChange("direction", e.target.value)
+    },
+    /* @__PURE__ */ React.createElement("option", { value: "" }, "Wszystkie"),
+    directions.map((d) => /* @__PURE__ */ React.createElement("option", { key: d, value: d }, d))
+  )), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Min. niezaliczonych: ", filters.notVisited), /* @__PURE__ */ React.createElement(
+    "input",
+    {
+      type: "range",
+      min: "0",
+      max: "10",
+      step: "1",
+      value: filters.notVisited,
+      onChange: (e) => onChange("notVisited", parseInt(e.target.value))
+    }
+  )), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Czas trwania"), /* @__PURE__ */ React.createElement("div", { className: "checks" }, /* @__PURE__ */ React.createElement(DurationCheck, { val: "1", label: "1 dzie\u0144" }), /* @__PURE__ */ React.createElement(DurationCheck, { val: "2", label: "2 dni" }), /* @__PURE__ */ React.createElement(DurationCheck, { val: "3", label: "3 dni" }), /* @__PURE__ */ React.createElement(DurationCheck, { val: "4", label: "4 dni" }), /* @__PURE__ */ React.createElement(DurationCheck, { val: "5+", label: "5+ dni" }))), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Nawierzchnia"), /* @__PURE__ */ React.createElement("div", { className: "filter-btns" }, surfaces.map((s) => /* @__PURE__ */ React.createElement(
+    "button",
+    {
+      key: s,
+      className: `filter-btn ${filters.surface.includes(s) ? "active" : ""}`,
+      onClick: () => onChange("surface", filters.surface.includes(s) ? filters.surface.filter((x) => x !== s) : [...filters.surface, s])
+    },
+    surfaceIcon(s),
+    " ",
+    surfaceLabel(s)
+  )))), /* @__PURE__ */ React.createElement("div", { className: "filter-group" }, /* @__PURE__ */ React.createElement("div", { className: "filter-label" }, "Dojazd poci\u0105giem"), /* @__PURE__ */ React.createElement(
+    "select",
+    {
+      className: "filter-select",
+      value: filters.trainAccessibility,
+      onChange: (e) => onChange("trainAccessibility", e.target.value)
+    },
+    /* @__PURE__ */ React.createElement("option", { value: "all" }, "Wszystkie"),
+    /* @__PURE__ */ React.createElement("option", { value: "easy" }, "Szybki (<2h)"),
+    /* @__PURE__ */ React.createElement("option", { value: "medium" }, "\u015Aredni (<4h)"),
+    /* @__PURE__ */ React.createElement("option", { value: "hard" }, "Ci\u0119\u017Cki (<6h)"),
+    /* @__PURE__ */ React.createElement("option", { value: "epic" }, "Grube (<8h)")
+  )), /* @__PURE__ */ React.createElement("button", { className: "filter-reset", onClick: () => onChange("reset", null) }, "Resetuj filtry"));
+};
+const App = () => {
+  const [trips, setTrips] = useState([]);
+  const [towns, setTowns] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [mapTrip, setMapTrip] = useState(null);
+  const [filters, setFilters] = useState({
+    searchText: "",
+    distanceRange: [50, 300],
+    notVisited: 0,
+    direction: "",
+    duration: [],
+    surface: [],
+    trainAccessibility: "all"
+  });
+  useEffect(() => {
+    fetch("/jsons/ideas.json").then((r) => r.json()).then((data) => {
+      const ideas = data.ideas || data;
+      const mapped = (Array.isArray(ideas) ? ideas : []).map((t) => ({
+        ...t,
+        days_min: t.days_min || t.lindays_mink,
+        end: t.end || t.finish,
+        direction: t.direction_char
+      }));
+      setTrips(mapped);
+      setTowns(data.towns || []);
+    }).catch(() => {
+      setTrips([]);
+      setTowns([]);
+    }).finally(() => setLoading(false));
+  }, []);
+  const surfaces = useMemo(() => {
+    const s = /* @__PURE__ */ new Set();
+    trips.forEach((t) => (t.surfaces || []).forEach((x) => s.add(x)));
+    return Array.from(s).sort();
+  }, [trips]);
+  const directions = useMemo(() => {
+    return Array.from(new Set(trips.map((t) => t.direction))).sort();
+  }, [trips]);
+  const filtered = useMemo(() => trips.filter((t) => {
+    if (filters.direction && t.direction !== filters.direction)
+      return false;
+    if (t.distance < filters.distanceRange[0] || t.distance > filters.distanceRange[1])
+      return false;
+    if (t.towns_not_visited < filters.notVisited)
+      return false;
+    if (filters.duration.length > 0) {
+      const d = t.days_normal;
+      if (!filters.duration.some(
+        (v) => v === "5+" && d > 4 || v !== "5+" && d == parseInt(v)
+      ))
+        return false;
+    }
+    if (filters.surface.length > 0 && !t.surfaces.some((s) => filters.surface.includes(s)))
+      return false;
+    if (filters.searchText) {
+      const q = filters.searchText.toLowerCase();
+      if (![t.start.name, t.end.name, t.slug, ...t.towns].join(" ").toLowerCase().includes(q))
+        return false;
+    }
+    if (filters.trainAccessibility !== "all") {
+      const avg = (t.start.time_distance + t.end.time_distance) / 2;
+      const limits = { easy: 2, medium: 4, hard: 6, epic: 8 };
+      if (avg > limits[filters.trainAccessibility])
+        return false;
+    }
+    return true;
+  }), [trips, filters]);
+  const handleFilter = (key, val) => {
+    if (key === "reset") {
+      setFilters({
+        searchText: "",
+        distanceRange: [50, 300],
+        notVisited: 0,
+        direction: "",
+        duration: [],
+        surface: [],
+        trainAccessibility: "all"
+      });
+    } else {
+      setFilters((prev) => ({ ...prev, [key]: val }));
+    }
+  };
+  return /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement("div", { className: "ideas-page" }, /* @__PURE__ */ React.createElement("header", { className: "ideas-hero" }, /* @__PURE__ */ React.createElement("h1", null, "Pomys\u0142y na trasy"), /* @__PURE__ */ React.createElement("p", null, loading ? "\u0141adowanie..." : `${filtered.length} ${filtered.length === 1 ? "trasa" : "tras"}`)), /* @__PURE__ */ React.createElement("div", { className: "ideas-grid" }, /* @__PURE__ */ React.createElement("aside", { className: "ideas-aside" }, /* @__PURE__ */ React.createElement(
+    Filters,
+    {
+      filters,
+      onChange: handleFilter,
+      surfaces,
+      directions
+    }
+  )), /* @__PURE__ */ React.createElement("main", { className: "ideas-main" }, loading ? /* @__PURE__ */ React.createElement("div", { className: "ideas-loading" }, "\u0141adowanie...") : filtered.length === 0 ? /* @__PURE__ */ React.createElement("div", { className: "ideas-empty" }, /* @__PURE__ */ React.createElement("div", { className: "ideas-empty-icon" }, "\u{1F6AB}"), /* @__PURE__ */ React.createElement("h3", null, "Brak pomys\u0142\xF3w na wycieczk\u0119"), /* @__PURE__ */ React.createElement("p", null, "Zmie\u0144 filtry aby zobaczy\u0107 jakie\u015B pomys\u0142y")) : /* @__PURE__ */ React.createElement("div", { className: "cards" }, filtered.map((t, i) => /* @__PURE__ */ React.createElement(TripCard, { key: t.slug || i, trip: t, onMapClick: setMapTrip, towns })))))), /* @__PURE__ */ React.createElement(MapModal, { show: !!mapTrip, onHide: () => setMapTrip(null), trip: mapTrip }));
+};
+function init() {
+  ReactDOM.render(/* @__PURE__ */ React.createElement(App, null), document.getElementById("root"));
+}
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}

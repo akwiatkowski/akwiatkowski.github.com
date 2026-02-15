@@ -52,7 +52,8 @@ function LazyImage({ src, srcAvif, alt, onLoad, className }) {
 // ==================== HERO ====================
 
 function Hero({ photo }) {
-    var style = photo ? { backgroundImage: 'url(' + photo.src + ')' } : {};
+    var heroUrl = photo ? ((window.__avif && photo.src_avif) ? photo.src_avif : photo.src) : null;
+    var style = heroUrl ? { backgroundImage: 'url(' + heroUrl + ')' } : {};
     return (
         <section className="portfolio-hero">
             <div className="portfolio-hero-bg" style={style}></div>
@@ -107,7 +108,8 @@ function GridItem({ photo, index, onClick }) {
     var [itemLoaded, setItemLoaded] = useState(false);
     var gridSrc = photo.grid_src || photo.src;
     var gridSrcAvif = photo.grid_src_avif || photo.src_avif || '';
-    var style = { '--photo-url': 'url(' + gridSrc + ')' };
+    var ambilightUrl = (window.__avif && gridSrcAvif) ? gridSrcAvif : gridSrc;
+    var style = { '--photo-url': 'url(' + ambilightUrl + ')' };
 
     return (
         <div

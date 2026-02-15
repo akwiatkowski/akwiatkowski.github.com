@@ -1,1 +1,150 @@
-const{useState,useEffect,useRef,useCallback}=React,GALLERY_CONFIG=JSON.parse(document.getElementById("gallery-config").textContent);function GalleryApp(){var i=window.PhotoLightbox;const[r,f]=useState(null),[v,g]=useState(!0),[c,m]=useState(null),[t,s]=useState(-1),u=useRef(null),l=t>=0;useEffect(()=>{try{f(GALLERY_CONFIG),g(!1)}catch(e){m(e.message),g(!1)}},[]);const y=e=>{s(e)},o=useCallback(()=>{s(-1)},[]),n=useCallback(()=>{s(function(e){return e>0?e-1:r.items.length-1})},[r]),d=useCallback(()=>{s(function(e){return e<r.items.length-1?e+1:0})},[r]);if(useEffect(()=>{if(!l)return;function e(a){a.key==="Escape"?o():a.key==="ArrowLeft"?n():a.key==="ArrowRight"&&d()}return window.addEventListener("keydown",e),()=>window.removeEventListener("keydown",e)},[l,o,n,d]),useEffect(()=>(document.body.style.overflow=l?"hidden":"",()=>{document.body.style.overflow=""}),[l]),useEffect(()=>{if(!(!r||t<0)){var e=r.items.map(mapToLightboxPhoto);i.preloadAdjacent(e,t)}},[r,t]),v)return React.createElement("div",{className:"loading"},"Loading gallery...");if(c)return React.createElement("div",{className:"error"},"Error loading gallery: ",c);if(!r||!r.items.length)return React.createElement("div",{className:"error"},"No images found in gallery");var p=r.items.map(mapToLightboxPhoto);return React.createElement("div",{className:"gallery-container",ref:u},React.createElement("div",{className:"gallery-title"},r.galleryName),React.createElement("div",{className:"masonry-grid"},r.items.map((e,a)=>React.createElement("div",{key:a,className:"gallery-item",onClick:()=>y(a),role:"button",tabIndex:0,"aria-label":`Zobacz ${e["img.alt"]}`,id:e["img.full_image_sanitized"]},React.createElement("picture",null,React.createElement("source",{type:"image/avif",srcSet:(e["img.grid_src.avif"]||"")+" 560w, "+(e["img.src.avif"]||"")+" 1000w",sizes:"(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px"}),React.createElement("img",{src:e["img.grid_src"]||e["img.src"],srcSet:(e["img.grid_src"]||"")+" 560w, "+(e["img.src"]||"")+" 1000w",sizes:"(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px",alt:e["img.alt"],title:e["img.title"],loading:"lazy",onError:x=>{x.target.src='data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E'}})),React.createElement("div",{className:"gallery-overlay"},React.createElement("div",{className:"gallery-info"},React.createElement("div",{className:"gallery-info-title"},e["img.title"]),React.createElement("div",{className:"gallery-info-post-title hidden"},e["post.title"]),React.createElement("div",{className:"gallery-info-details"},e["img.time_display"]," \u2022 ",parseFloat(e["img.lat"]).toFixed(2),"\xB0, ",parseFloat(e["img.lon"]).toFixed(2),"\xB0"),React.createElement("div",{className:"gallery-info-exif"},e["img.exif_string"])))))),l&&React.createElement(i.Lightbox,{photos:p,index:t,onClose:o,onPrev:n,onNext:d}))}function mapToLightboxPhoto(i){var r={};return i["img.camera"]&&(r.camera=i["img.camera"]),i["img.lens"]&&(r.lens=i["img.lens"]),i["img.focal"]&&(r.focal=i["img.focal"]),i["img.aperture"]&&(r.aperture=i["img.aperture"]),i["img.exposure"]&&(r.exposure=i["img.exposure"]),i["img.iso"]&&(r.iso=i["img.iso"]),{grid_src:i["img.grid_src"]||"",grid_src_avif:i["img.grid_src.avif"]||"",src:i["img.src"],src_avif:i["img.src.avif"]||"",full_src:i["img.url"],full_src_avif:i["img.url.avif"]||"",alt:i["img.alt"]||"",exif:r,post_url:i["post.url"]||"",post_title:i["post.title"]||""}}function init(){ReactDOM.render(React.createElement(GalleryApp,null),document.getElementById("root"))}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",init):init();
+const { useState, useEffect, useRef, useCallback } = React;
+const GALLERY_CONFIG = JSON.parse(document.getElementById("gallery-config").textContent);
+function GalleryApp() {
+  var PhotoLB = window.PhotoLightbox;
+  const [galleryData, setGalleryData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [selectedIndex, setSelectedIndex] = useState(-1);
+  const containerRef = useRef(null);
+  const isOpen = selectedIndex >= 0;
+  useEffect(() => {
+    try {
+      setGalleryData(GALLERY_CONFIG);
+      setLoading(false);
+    } catch (err) {
+      setError(err.message);
+      setLoading(false);
+    }
+  }, []);
+  const handleImageClick = (index) => {
+    setSelectedIndex(index);
+  };
+  const closeLightbox = useCallback(() => {
+    setSelectedIndex(-1);
+  }, []);
+  const goPrev = useCallback(() => {
+    setSelectedIndex(function(i) {
+      return i > 0 ? i - 1 : galleryData.items.length - 1;
+    });
+  }, [galleryData]);
+  const goNext = useCallback(() => {
+    setSelectedIndex(function(i) {
+      return i < galleryData.items.length - 1 ? i + 1 : 0;
+    });
+  }, [galleryData]);
+  useEffect(() => {
+    if (!isOpen)
+      return;
+    function handleKey(e) {
+      if (e.key === "Escape")
+        closeLightbox();
+      else if (e.key === "ArrowLeft")
+        goPrev();
+      else if (e.key === "ArrowRight")
+        goNext();
+    }
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [isOpen, closeLightbox, goPrev, goNext]);
+  useEffect(() => {
+    document.body.style.overflow = isOpen ? "hidden" : "";
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
+  useEffect(() => {
+    if (!galleryData || selectedIndex < 0)
+      return;
+    var photos = galleryData.items.map(mapToLightboxPhoto);
+    PhotoLB.preloadAdjacent(photos, selectedIndex);
+  }, [galleryData, selectedIndex]);
+  if (loading) {
+    return /* @__PURE__ */ React.createElement("div", { className: "loading" }, "Loading gallery...");
+  }
+  if (error) {
+    return /* @__PURE__ */ React.createElement("div", { className: "error" }, "Error loading gallery: ", error);
+  }
+  if (!galleryData || !galleryData.items.length) {
+    return /* @__PURE__ */ React.createElement("div", { className: "error" }, "No images found in gallery");
+  }
+  var lightboxPhotos = galleryData.items.map(mapToLightboxPhoto);
+  return /* @__PURE__ */ React.createElement("div", { className: "gallery-container", ref: containerRef }, /* @__PURE__ */ React.createElement("div", { className: "gallery-title" }, galleryData.galleryName), /* @__PURE__ */ React.createElement("div", { className: "masonry-grid" }, galleryData.items.map((item, index) => /* @__PURE__ */ React.createElement(
+    "div",
+    {
+      key: index,
+      className: "gallery-item",
+      onClick: () => handleImageClick(index),
+      role: "button",
+      tabIndex: 0,
+      "aria-label": `Zobacz ${item["img.alt"]}`,
+      id: item["img.full_image_sanitized"]
+    },
+    /* @__PURE__ */ React.createElement("picture", null, /* @__PURE__ */ React.createElement(
+      "source",
+      {
+        type: "image/avif",
+        srcSet: (item["img.grid_src.avif"] || "") + " 560w, " + (item["img.src.avif"] || "") + " 1000w",
+        sizes: "(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px"
+      }
+    ), /* @__PURE__ */ React.createElement(
+      "img",
+      {
+        src: item["img.grid_src"] || item["img.src"],
+        srcSet: (item["img.grid_src"] || "") + " 560w, " + (item["img.src"] || "") + " 1000w",
+        sizes: "(max-width: 400px) 100vw, (max-width: 900px) 50vw, 280px",
+        alt: item["img.alt"],
+        title: item["img.title"],
+        loading: "lazy",
+        onError: (e) => {
+          e.target.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect fill="%23ddd" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-family="sans-serif" font-size="12"%3EImage%3C/text%3E%3C/svg%3E';
+        }
+      }
+    )),
+    /* @__PURE__ */ React.createElement("div", { className: "gallery-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "gallery-info" }, /* @__PURE__ */ React.createElement("div", { className: "gallery-info-title" }, item["img.title"]), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-post-title hidden" }, item["post.title"]), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-details" }, item["img.time_display"], " \u2022 ", parseFloat(item["img.lat"]).toFixed(2), "\xB0, ", parseFloat(item["img.lon"]).toFixed(2), "\xB0"), /* @__PURE__ */ React.createElement("div", { className: "gallery-info-exif" }, item["img.exif_string"])))
+  ))), isOpen && /* @__PURE__ */ React.createElement(
+    PhotoLB.Lightbox,
+    {
+      photos: lightboxPhotos,
+      index: selectedIndex,
+      onClose: closeLightbox,
+      onPrev: goPrev,
+      onNext: goNext
+    }
+  ));
+}
+function mapToLightboxPhoto(item) {
+  var exif = {};
+  if (item["img.camera"])
+    exif.camera = item["img.camera"];
+  if (item["img.lens"])
+    exif.lens = item["img.lens"];
+  if (item["img.focal"])
+    exif.focal = item["img.focal"];
+  if (item["img.aperture"])
+    exif.aperture = item["img.aperture"];
+  if (item["img.exposure"])
+    exif.exposure = item["img.exposure"];
+  if (item["img.iso"])
+    exif.iso = item["img.iso"];
+  return {
+    grid_src: item["img.grid_src"] || "",
+    grid_src_avif: item["img.grid_src.avif"] || "",
+    src: item["img.src"],
+    src_avif: item["img.src.avif"] || "",
+    full_src: item["img.url"],
+    full_src_avif: item["img.url.avif"] || "",
+    alt: item["img.alt"] || "",
+    exif,
+    post_url: item["post.url"] || "",
+    post_title: item["post.title"] || ""
+  };
+}
+function init() {
+  ReactDOM.render(/* @__PURE__ */ React.createElement(GalleryApp, null), document.getElementById("root"));
+}
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}

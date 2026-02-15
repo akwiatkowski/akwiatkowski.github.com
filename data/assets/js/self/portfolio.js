@@ -1,1 +1,153 @@
-const{useState,useEffect,useRef,useCallback}=React;function LazyImage({src:e,srcAvif:t,alt:o,onLoad:n,className:a}){var s=useRef(null),r=useRef(null),[c,i]=useState(!1);useEffect(function(){var u=s.current;if(u){var d=new IntersectionObserver(function(f){f.forEach(function(p){p.isIntersecting&&(r.current&&r.current.dataset.srcset&&(r.current.srcset=r.current.dataset.srcset),u.src=u.dataset.src,d.unobserve(u))})},{rootMargin:"300px"});return d.observe(u),function(){d.disconnect()}}},[]);function l(){i(!0),n&&n()}return React.createElement("picture",null,t&&React.createElement("source",{ref:r,type:"image/avif","data-srcset":t}),React.createElement("img",{ref:s,"data-src":e,alt:o,className:(a||"")+(c?" visible":""),onLoad:l}))}function Hero({photo:e}){var t=e?{backgroundImage:"url("+e.src+")"}:{};return React.createElement("section",{className:"portfolio-hero"},React.createElement("div",{className:"portfolio-hero-bg",style:t}),React.createElement("div",{className:"portfolio-hero-overlay"},React.createElement("h1",{className:"portfolio-hero-name"},"Aleksander Kwiatkowski"),React.createElement("p",{className:"portfolio-hero-tagline"},"Rowerem i pieszo przez Polsk\u0119")),React.createElement("div",{className:"portfolio-scroll-hint",onClick:function(){var o=document.querySelector(".portfolio-bio");o&&o.scrollIntoView({behavior:"smooth"})}},"\u2304"))}function Bio({stats:e}){return React.createElement("section",{className:"portfolio-bio"},React.createElement("p",null,"Od ",React.createElement("span",{className:"stat-value"},e.years_active)," dokumentuj\u0119 polsk\u0105 wie\u015B i krajobraz."," ",React.createElement("span",{className:"stat-value"},e.bicycle_distance_km.toLocaleString(),"km")," na rowerze,"," ",React.createElement("span",{className:"stat-value"},e.hike_distance_km.toLocaleString(),"km")," pieszo,"," ",React.createElement("span",{className:"stat-value"},e.total_hours,"h")," w terenie."," ",React.createElement("span",{className:"stat-value"},e.photo_count.toLocaleString())," zdj\u0119\u0107"," ","z ",React.createElement("span",{className:"stat-value"},e.post_count)," wypraw"," ","przez ",React.createElement("span",{className:"stat-value"},e.towns_visited)," gmin."))}function MasonryGrid({photos:e,onPhotoClick:t}){return React.createElement("div",{className:"portfolio-grid"},e.map(function(o,n){return React.createElement(GridItem,{key:n,photo:o,index:n,onClick:t})}))}function GridItem({photo:e,index:t,onClick:o}){var[n,a]=useState(!1),s=e.grid_src||e.src,r=e.grid_src_avif||e.src_avif||"",c={"--photo-url":"url("+s+")"};return React.createElement("div",{className:"portfolio-grid-item"+(n?" loaded":""),style:c,onClick:function(){o(t)}},React.createElement(LazyImage,{src:s,srcAvif:r,alt:e.alt,onLoad:function(){a(!0)}}))}function PortfolioApp({data:e}){var t=window.PhotoLightbox,[o,n]=useState(-1),a=o>=0;useEffect(function(){o<0||t.preloadAdjacent(e.photos,o)},[o]);var s=useCallback(function(){n(function(i){return i>0?i-1:e.photos.length-1})},[e.photos.length]),r=useCallback(function(){n(function(i){return i<e.photos.length-1?i+1:0})},[e.photos.length]),c=useCallback(function(){n(-1)},[]);return useEffect(function(){if(!a)return;function i(l){l.key==="Escape"?c():l.key==="ArrowLeft"?s():l.key==="ArrowRight"&&r()}return window.addEventListener("keydown",i),function(){window.removeEventListener("keydown",i)}},[a,c,s,r]),useEffect(function(){return document.body.style.overflow=a?"hidden":"",function(){document.body.style.overflow=""}},[a]),React.createElement(React.Fragment,null,React.createElement(Hero,{photo:e.hero_photo}),React.createElement(Bio,{stats:e.stats}),React.createElement(MasonryGrid,{photos:e.photos,onPhotoClick:n}),a&&React.createElement(t.Lightbox,{photos:e.photos,index:o,onClose:c,onPrev:s,onNext:r}))}function _initPortfolio(){var e=document.getElementById("portfolio-data");if(e){var t=JSON.parse(e.textContent);ReactDOM.render(React.createElement(PortfolioApp,{data:t}),document.getElementById("portfolio-root"))}}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",_initPortfolio):_initPortfolio();
+const { useState, useEffect, useRef, useCallback } = React;
+function LazyImage({ src, srcAvif, alt, onLoad, className }) {
+  var imgRef = useRef(null);
+  var sourceRef = useRef(null);
+  var [loaded, setLoaded] = useState(false);
+  useEffect(function() {
+    var img = imgRef.current;
+    if (!img)
+      return;
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          if (sourceRef.current && sourceRef.current.dataset.srcset) {
+            sourceRef.current.srcset = sourceRef.current.dataset.srcset;
+          }
+          img.src = img.dataset.src;
+          observer.unobserve(img);
+        }
+      });
+    }, { rootMargin: "300px" });
+    observer.observe(img);
+    return function() {
+      observer.disconnect();
+    };
+  }, []);
+  function handleLoad() {
+    setLoaded(true);
+    if (onLoad)
+      onLoad();
+  }
+  return /* @__PURE__ */ React.createElement("picture", null, srcAvif && /* @__PURE__ */ React.createElement("source", { ref: sourceRef, type: "image/avif", "data-srcset": srcAvif }), /* @__PURE__ */ React.createElement(
+    "img",
+    {
+      ref: imgRef,
+      "data-src": src,
+      alt,
+      className: (className || "") + (loaded ? " visible" : ""),
+      onLoad: handleLoad
+    }
+  ));
+}
+function Hero({ photo }) {
+  var heroUrl = photo ? window.__avif && photo.src_avif ? photo.src_avif : photo.src : null;
+  var style = heroUrl ? { backgroundImage: "url(" + heroUrl + ")" } : {};
+  return /* @__PURE__ */ React.createElement("section", { className: "portfolio-hero" }, /* @__PURE__ */ React.createElement("div", { className: "portfolio-hero-bg", style }), /* @__PURE__ */ React.createElement("div", { className: "portfolio-hero-overlay" }, /* @__PURE__ */ React.createElement("h1", { className: "portfolio-hero-name" }, "Aleksander Kwiatkowski"), /* @__PURE__ */ React.createElement("p", { className: "portfolio-hero-tagline" }, "Rowerem i pieszo przez Polsk\u0119")), /* @__PURE__ */ React.createElement("div", { className: "portfolio-scroll-hint", onClick: function() {
+    var bio = document.querySelector(".portfolio-bio");
+    if (bio)
+      bio.scrollIntoView({ behavior: "smooth" });
+  } }, "\u2304"));
+}
+function Bio({ stats }) {
+  return /* @__PURE__ */ React.createElement("section", { className: "portfolio-bio" }, /* @__PURE__ */ React.createElement("p", null, "Od ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.years_active), " dokumentuj\u0119 polsk\u0105 wie\u015B i krajobraz.", " ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.bicycle_distance_km.toLocaleString(), "km"), " na rowerze,", " ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.hike_distance_km.toLocaleString(), "km"), " pieszo,", " ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.total_hours, "h"), " w terenie.", " ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.photo_count.toLocaleString()), " zdj\u0119\u0107", " ", "z ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.post_count), " wypraw", " ", "przez ", /* @__PURE__ */ React.createElement("span", { className: "stat-value" }, stats.towns_visited), " gmin."));
+}
+function MasonryGrid({ photos, onPhotoClick }) {
+  return /* @__PURE__ */ React.createElement("div", { className: "portfolio-grid" }, photos.map(function(photo, i) {
+    return /* @__PURE__ */ React.createElement(GridItem, { key: i, photo, index: i, onClick: onPhotoClick });
+  }));
+}
+function GridItem({ photo, index, onClick }) {
+  var [itemLoaded, setItemLoaded] = useState(false);
+  var gridSrc = photo.grid_src || photo.src;
+  var gridSrcAvif = photo.grid_src_avif || photo.src_avif || "";
+  var ambilightUrl = window.__avif && gridSrcAvif ? gridSrcAvif : gridSrc;
+  var style = { "--photo-url": "url(" + ambilightUrl + ")" };
+  return /* @__PURE__ */ React.createElement(
+    "div",
+    {
+      className: "portfolio-grid-item" + (itemLoaded ? " loaded" : ""),
+      style,
+      onClick: function() {
+        onClick(index);
+      }
+    },
+    /* @__PURE__ */ React.createElement(
+      LazyImage,
+      {
+        src: gridSrc,
+        srcAvif: gridSrcAvif,
+        alt: photo.alt,
+        onLoad: function() {
+          setItemLoaded(true);
+        }
+      }
+    )
+  );
+}
+function PortfolioApp({ data }) {
+  var PhotoLB = window.PhotoLightbox;
+  var [lightboxIndex, setLightboxIndex] = useState(-1);
+  var isOpen = lightboxIndex >= 0;
+  useEffect(function() {
+    if (lightboxIndex < 0)
+      return;
+    PhotoLB.preloadAdjacent(data.photos, lightboxIndex);
+  }, [lightboxIndex]);
+  var goPrev = useCallback(function() {
+    setLightboxIndex(function(i) {
+      return i > 0 ? i - 1 : data.photos.length - 1;
+    });
+  }, [data.photos.length]);
+  var goNext = useCallback(function() {
+    setLightboxIndex(function(i) {
+      return i < data.photos.length - 1 ? i + 1 : 0;
+    });
+  }, [data.photos.length]);
+  var closeLightbox = useCallback(function() {
+    setLightboxIndex(-1);
+  }, []);
+  useEffect(function() {
+    if (!isOpen)
+      return;
+    function handleKey(e) {
+      if (e.key === "Escape")
+        closeLightbox();
+      else if (e.key === "ArrowLeft")
+        goPrev();
+      else if (e.key === "ArrowRight")
+        goNext();
+    }
+    window.addEventListener("keydown", handleKey);
+    return function() {
+      window.removeEventListener("keydown", handleKey);
+    };
+  }, [isOpen, closeLightbox, goPrev, goNext]);
+  useEffect(function() {
+    document.body.style.overflow = isOpen ? "hidden" : "";
+    return function() {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
+  return /* @__PURE__ */ React.createElement(React.Fragment, null, /* @__PURE__ */ React.createElement(Hero, { photo: data.hero_photo }), /* @__PURE__ */ React.createElement(Bio, { stats: data.stats }), /* @__PURE__ */ React.createElement(MasonryGrid, { photos: data.photos, onPhotoClick: setLightboxIndex }), isOpen && /* @__PURE__ */ React.createElement(
+    PhotoLB.Lightbox,
+    {
+      photos: data.photos,
+      index: lightboxIndex,
+      onClose: closeLightbox,
+      onPrev: goPrev,
+      onNext: goNext
+    }
+  ));
+}
+function _initPortfolio() {
+  var el = document.getElementById("portfolio-data");
+  if (!el)
+    return;
+  var data = JSON.parse(el.textContent);
+  ReactDOM.render(/* @__PURE__ */ React.createElement(PortfolioApp, { data }), document.getElementById("portfolio-root"));
+}
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", _initPortfolio);
+} else {
+  _initPortfolio();
+}

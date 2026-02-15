@@ -72,6 +72,10 @@ class Tremolite::Post
     @head_photo_entity.not_nil!.card_image_src
   end
 
+  def card_image_url_avif
+    @head_photo_entity.not_nil!.card_avif_src
+  end
+
   def thumbnail_image_url
     @head_photo_entity.not_nil!.thumbnail_image_src
   end

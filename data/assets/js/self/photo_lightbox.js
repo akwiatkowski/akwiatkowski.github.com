@@ -2,25 +2,8 @@
   var useEffect = React.useEffect;
   var useRef = React.useRef;
   var useState = React.useState;
-  var _avifSupported = null;
-  function supportsAvif() {
-    if (_avifSupported !== null)
-      return Promise.resolve(_avifSupported);
-    return new Promise(function(resolve) {
-      var img = new Image();
-      img.onload = function() {
-        _avifSupported = img.width > 0;
-        resolve(_avifSupported);
-      };
-      img.onerror = function() {
-        _avifSupported = false;
-        resolve(false);
-      };
-      img.src = "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAAB0AAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAIAAAACAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQ0MAAAAABNjb2xybmNseAACAAIAAYAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAACVtZGF0EgAKCBgANogQEAwgMg8f8D///8WfhwB8+ErU42Y=";
-    });
-  }
   function preloadAdjacent(photos, index) {
-    supportsAvif().then(function(avif) {
+    window.__avifReady.then(function(avif) {
       [-1, 1].forEach(function(offset) {
         var idx = ((index + offset) % photos.length + photos.length) % photos.length;
         var photo = photos[idx];
@@ -74,11 +57,12 @@
           applyFit(gridImg.naturalWidth, gridImg.naturalHeight);
         };
       }
+      var ambilightSrc = window.__avif && photo.grid_src_avif ? photo.grid_src_avif : gridSrc;
       if (outerRef.current)
-        outerRef.current.style.backgroundImage = "url(" + gridSrc + ")";
+        outerRef.current.style.backgroundImage = "url(" + ambilightSrc + ")";
       if (innerRef.current)
-        innerRef.current.style.backgroundImage = "url(" + gridSrc + ")";
-      supportsAvif().then(function(avif) {
+        innerRef.current.style.backgroundImage = "url(" + ambilightSrc + ")";
+      window.__avifReady.then(function(avif) {
         if (cancelled)
           return;
         var articleSrc = avif && photo.src_avif ? photo.src_avif : photo.src;

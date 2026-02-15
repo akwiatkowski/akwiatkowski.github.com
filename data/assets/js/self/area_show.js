@@ -114,16 +114,17 @@ function initLeafletMap(container, area, options = {}) {
     options.onReady();
   return map;
 }
-function HeroPhotoBg({ url, scrollProgress }) {
+function HeroPhotoBg({ url, urlAvif, scrollProgress }) {
   if (!url)
     return null;
+  const bgUrl = (window.__avif && urlAvif) ? urlAvif : url;
   const opacity = Math.max(0.15, 1 - scrollProgress * 1.5);
   return /* @__PURE__ */ React.createElement(
     "div",
     {
       className: "hero-photo-bg",
       style: {
-        backgroundImage: `url(${url})`,
+        backgroundImage: `url(${bgUrl})`,
         opacity
       }
     }
@@ -208,13 +209,16 @@ function PostsSection({ posts }) {
 function RelatedAreasSection({ relatedAreas }) {
   if (!relatedAreas || relatedAreas.length === 0)
     return null;
-  return /* @__PURE__ */ React.createElement("section", { className: "related-section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Zobacz takze"), /* @__PURE__ */ React.createElement("div", { className: "related-grid" }, relatedAreas.map((area, idx) => /* @__PURE__ */ React.createElement("a", { key: idx, href: area.show_url, className: "related-card" }, area.best_photo_url && /* @__PURE__ */ React.createElement(
+  return /* @__PURE__ */ React.createElement("section", { className: "related-section" }, /* @__PURE__ */ React.createElement("h2", { className: "section-title" }, "Zobacz takze"), /* @__PURE__ */ React.createElement("div", { className: "related-grid" }, relatedAreas.map((area, idx) => {
+    var bgUrl = (window.__avif && area.best_photo_url_avif) ? area.best_photo_url_avif : area.best_photo_url;
+    return /* @__PURE__ */ React.createElement("a", { key: idx, href: area.show_url, className: "related-card" }, bgUrl && /* @__PURE__ */ React.createElement(
     "div",
     {
       className: "related-card-bg",
-      style: { backgroundImage: `url(${area.best_photo_url})` }
+      style: { backgroundImage: `url(${bgUrl})` }
     }
-  ), /* @__PURE__ */ React.createElement("div", { className: "related-card-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "related-card-name" }, area.name), /* @__PURE__ */ React.createElement("div", { className: "related-card-type" }, area.area_type))))));
+  ), /* @__PURE__ */ React.createElement("div", { className: "related-card-overlay" }, /* @__PURE__ */ React.createElement("div", { className: "related-card-name" }, area.name), /* @__PURE__ */ React.createElement("div", { className: "related-card-type" }, area.area_type)));
+  })));
 }
 function AreaShowPage() {
   const [scrollProgress, setScrollProgress] = useState(0);
@@ -229,7 +233,7 @@ function AreaShowPage() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
   const hasPhoto = !!areaData.bestPhotoUrl;
-  return /* @__PURE__ */ React.createElement(React.Fragment, null, hasPhoto && /* @__PURE__ */ React.createElement(HeroPhotoBg, { url: areaData.bestPhotoUrl, scrollProgress }), /* @__PURE__ */ React.createElement(HeroMap, { area: areaData, hasPhoto, scrollProgress }), /* @__PURE__ */ React.createElement(HeroOverlay, { area: areaData, scrollProgress }), /* @__PURE__ */ React.createElement(ScrollHint, { visible: scrollProgress < 0.1 }), /* @__PURE__ */ React.createElement("main", { className: "main-content" }, /* @__PURE__ */ React.createElement("div", { className: "content-transition" }), /* @__PURE__ */ React.createElement(
+  return /* @__PURE__ */ React.createElement(React.Fragment, null, hasPhoto && /* @__PURE__ */ React.createElement(HeroPhotoBg, { url: areaData.bestPhotoUrl, urlAvif: areaData.bestPhotoUrlAvif, scrollProgress }), /* @__PURE__ */ React.createElement(HeroMap, { area: areaData, hasPhoto, scrollProgress }), /* @__PURE__ */ React.createElement(HeroOverlay, { area: areaData, scrollProgress }), /* @__PURE__ */ React.createElement(ScrollHint, { visible: scrollProgress < 0.1 }), /* @__PURE__ */ React.createElement("main", { className: "main-content" }, /* @__PURE__ */ React.createElement("div", { className: "content-transition" }), /* @__PURE__ */ React.createElement(
     StatsBar,
     {
       stats: areaData.stats,

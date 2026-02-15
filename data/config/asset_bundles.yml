@@ -52,6 +52,10 @@ bundles:
       - /js/libs/preact-shim.js
 
   # === JS Self (Our Code) ===
+  avif-detect:
+    js:
+      - /js/self/avif_detect.js
+
   nav-js:
     js:
       - /js/self/nav_stats.js
@@ -76,6 +80,7 @@ composites:
       - fontawesome
       - blog-css
       - bootstrap-js
+      - avif-detect
       - nav-js
 
   leaflet:
