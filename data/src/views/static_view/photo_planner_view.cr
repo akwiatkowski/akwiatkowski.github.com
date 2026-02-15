@@ -16,6 +16,10 @@ module StaticView
       ["planner"]
     end
 
+    def title
+      "Planer dla zdjęć"
+    end
+
     def add_to_sitemap?
       true
     end

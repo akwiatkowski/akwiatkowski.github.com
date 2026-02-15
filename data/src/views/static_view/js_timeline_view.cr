@@ -17,6 +17,10 @@ module StaticView
       ["timeline"]
     end
 
+    def title
+      "Linia czasu"
+    end
+
     def add_to_sitemap?
       true
     end

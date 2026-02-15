@@ -12,6 +12,10 @@ module StaticView
       ["exif_stats"]
     end
 
+    def title
+      "Statystyki EXIF"
+    end
+
     def add_to_sitemap?
       true
     end

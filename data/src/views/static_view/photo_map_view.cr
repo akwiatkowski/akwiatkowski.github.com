@@ -13,6 +13,10 @@ module StaticView
       ["leaflet", "react-runtime"]
     end
 
+    def title
+      "Mapa zdjęć"
+    end
+
     def add_to_sitemap?
       true
     end

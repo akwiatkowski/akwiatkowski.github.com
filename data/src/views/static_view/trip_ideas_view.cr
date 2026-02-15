@@ -17,6 +17,10 @@ module StaticView
       ["ideas"]
     end
 
+    def title
+      "Pomysły na trasy"
+    end
+
     def add_to_sitemap?
       true
     end

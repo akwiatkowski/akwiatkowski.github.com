@@ -12,6 +12,7 @@ class MockPost
   property todo : Bool = false
   property finished_at : Time? = nil
   property time : Time = Time.local
+  property updated_at : Time = Time.local
 
   def initialize(
     @slug = "test-post",
@@ -34,5 +35,9 @@ class MockPost
 
   def content_html_word_count : Int32
     100
+  end
+
+  def guuid
+    Digest::MD5.hexdigest(self.slug).to_guid
   end
 end
