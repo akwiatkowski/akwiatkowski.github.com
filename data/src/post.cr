@@ -10,6 +10,8 @@ require "./post/areas"
 
 class Tremolite::Post
   # Late-bound dependencies that need custom types (ExifDb, PhotoTagEntity)
-  property exif_db : ExifDb?
-  property photo_tags : Array(PhotoTagEntity)?
+  setter exif_db : ExifDb?
+  getter! exif_db : ExifDb?
+  setter photo_tags : Array(PhotoTagEntity)?
+  getter! photo_tags : Array(PhotoTagEntity)?
 end

@@ -131,7 +131,6 @@ class Tremolite::Blog
     # Wire post-init dependencies
     @validator.not_nil!.area_data_loader = @data_manager.not_nil!.area_data_loader
     @validator.not_nil!.posts = @post_collection.not_nil!.posts
-    @renderer.not_nil!.all_posts = @post_collection.not_nil!.posts
     @renderer.not_nil!.posts_for_resize = @post_collection.not_nil!.posts
   end
 

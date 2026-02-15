@@ -7,8 +7,10 @@ class Tremolite::Post
   @content_html : String?
 
   # Late-bound dependencies (set after construction)
-  property post_collection : Tremolite::PostCollection?
-  property markdown_wrapper : Tremolite::MarkdownWrapper?
+  setter post_collection : Tremolite::PostCollection?
+  getter! post_collection : Tremolite::PostCollection?
+  setter markdown_wrapper : Tremolite::MarkdownWrapper?
+  getter! markdown_wrapper : Tremolite::MarkdownWrapper?
 
   getter :content_string, :header
   getter :url
@@ -87,7 +89,7 @@ class Tremolite::Post
   # NOTE you must execute this if you want to have functions processed
   def content_html : String
     if @content_html.nil?
-      @content_html = @markdown_wrapper.not_nil!.to_html(string: @content_string, post: self)
+      @content_html = markdown_wrapper.to_html(string: @content_string, post: self)
     end
 
     return @content_html.not_nil!
