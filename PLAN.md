@@ -17,21 +17,14 @@
 **More Page (`/wiecej.html`) — Consider adding:**
 - RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
 
-**Remaining late-bound properties (genuinely need posts):**
-Could reduce `.not_nil!` noise with `getter!` macros across remaining call sites.
-
-| Class | Properties | Reason |
-|-------|-----------|--------|
-| **Renderer** | `all_posts`, `posts_for_resize` | Set after posts are initialized |
-| **Validator** | `area_data_loader`, `posts` | Set after posts are initialized |
-| **PostCollection** | `photo_tags`, `exif_db`, `markdown_wrapper` | Set before initialize_posts |
-| **Post** | `exif_db`, `photo_tags` | Set per-post in initialize_posts loop |
+**Remaining late-bound properties:**
+Most remaining `.not_nil!` sites use safe fallbacks or guard clauses — see `PLAN_FUTURE.md` for details.
 
 ---
 
 ## Test Status
 
-**602 Crystal tests passing, 228 E2E tests passing (16 spec files)**
+**602 Crystal tests passing, 232 E2E tests passing (16 spec files)**
 
 ### E2E Tests (Playwright)
 

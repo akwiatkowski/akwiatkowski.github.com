@@ -16,10 +16,11 @@ Reduce `.not_nil!` noise with `getter!` macros across remaining call sites.
 
 | Class | Properties | Reason |
 |-------|-----------|--------|
-| **Renderer** | `all_posts`, `posts_for_resize` | Set after posts are initialized |
-| **Validator** | `area_data_loader`, `posts` | Set after posts are initialized |
-| **PostCollection** | `photo_tags`, `exif_db`, `markdown_wrapper` | Set before initialize_posts |
-| **Post** | `exif_db`, `photo_tags` | Set per-post in initialize_posts loop |
+| **Renderer** | `posts_for_resize` | Uses safe fallback `(@posts_for_resize \|\| [])` |
+| **Validator** | `area_data_loader`, `posts` | Intentionally optional with guard clauses |
+| **PostCollection** | `photo_tags`, `exif_db`, `markdown_wrapper` | Only propagated to Post, no `.not_nil!` calls |
+
+Done: Post (`exif_db`, `photo_tags`), Tremolite::Post (`post_collection`, `markdown_wrapper`), Renderer dead `all_posts` removed.
 
 ### SiteMapGenerator Dependency
 
