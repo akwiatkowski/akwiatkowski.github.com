@@ -1,91 +1,51 @@
-# Renderer & Views Refactoring - Future Work
+# Future Work
 
-This document contains ideas and plans for future phases (beyond current work).
+Ideas and plans for future phases.
 
----
-
-## Phase 5: View Decoupling - COMPLETE
-
-**Status**: All views migrated to `context: RenderContext`. See PLAN.md for details.
-
-- [x] 55+ views migrated
-- [x] Photo Map Views (10 files) - migrated, `Map::Base` now takes `posts` parameter
-- [x] `IdeaEntity#routes` updated to take `data_path` instead of `blog`
-
-**External dependency (unchanged):**
-- `SiteMapGenerator` in Tremolite library still uses `blog`
+**Related docs:**
+- `PLAN.md` - Current work and status
+- `PLAN_DONE.md` - Completed phases archive
 
 ---
 
-## Phase 6: Nice to Have
+## Code Improvements
 
-### Image Size Optimization — DONE
+### Late-bound Properties Cleanup
 
-Image sizes in resizer already reviewed and tuned. Documentation in CLAUDE.md.
+Reduce `.not_nil!` noise with `getter!` macros across remaining call sites.
 
----
+| Class | Properties | Reason |
+|-------|-----------|--------|
+| **Renderer** | `all_posts`, `posts_for_resize` | Set after posts are initialized |
+| **Validator** | `area_data_loader`, `posts` | Set after posts are initialized |
+| **PostCollection** | `photo_tags`, `exif_db`, `markdown_wrapper` | Set before initialize_posts |
+| **Post** | `exif_db`, `photo_tags` | Set per-post in initialize_posts loop |
 
-## Phase 7: Area Show Pages — DONE
+### SiteMapGenerator Dependency
 
-Town/voivodeship show pages fully implemented with hero photo+map blend, compact stats, vertical post cards, related areas, interactive Leaflet maps. See PLAN_DONE.md Phase 21.
-
----
-
-## Code Organization Ideas
-
-### `all.cr` Convention
-
-Every directory with multiple `.cr` files should have an `all.cr` that requires all files:
-
-```crystal
-# data/src/views/dynamic_view/all.cr
-require "./summary_view"
-require "./year_stat_report_view"
-require "./burnout_stat_view"
-# ... etc
-```
-
-Benefits:
-- Single require for entire namespace: `require "./dynamic_view/all"`
-- No need to track individual file names at call sites
-- Adding new view only requires updating `all.cr`
-
-Directories with `all.cr`:
-- [x] `views/dynamic_view/`
-- [x] `views/static_view/`
-- [x] `views/post_list_view/`
-- [x] `views/gallery_view/`
-- [x] `views/special_view/`
-- [x] `views/photo_map/`
-- [x] `views/model_view/`
-
-**Status:** All view directories have `all.cr` - COMPLETE
-
-### Debug Views Reorganization ✓ COMPLETE
-
-Debug views moved to separate `DebugView` namespace:
-- [x] Created `DebugView` namespace in `views/debug_view/`
-- [x] URLs unchanged (`/debug/*`)
-- [x] Priority unchanged (100+, runs last)
-- [x] Views migrated:
-  - `DynamicView::DebugPostView` → `DebugView::PostsView`
-  - `DynamicView::DebugPostCameraStuffView` → `DebugView::CameraStuffView`
-  - `DynamicView::DebugPostMissingPhotosExifView` → `DebugView::MissingExifView`
-  - `DynamicView::DebugTagStatsView` → `DebugView::TagStatsView`
+`SiteMapGenerator` in Tremolite library still uses `blog` directly instead of `RenderContext`.
 
 ---
 
-## BuildContext Split — DONE
+## Testing Improvements
 
-`BuildContext < RenderContext` implemented in commit `0521aa99`. RenderContext is read-only for views, BuildContext has pipeline methods. See PLAN_DONE.md.
+- [ ] Snapshot testing for HTML output
+- [ ] Integration tests for full coordinator
+- [ ] More tests for photo, feed, debug views
 
 ---
 
-## Missing GPS Geotags (Manual Task)
+## Content / Data Tasks
 
-**Status**: ~300 photos geotagged via `commands/fix_geotagging.cr` (2026-02-10). Remaining issues below.
+### More Page (`/wiecej.html`)
 
-### Posts with no GPX data (21 posts)
+- Add RSS/Atom feed links (`/feed.xml`, `/feed_atom.xml`)
+
+### Missing GPS Geotags
+
+~300 photos geotagged via `commands/fix_geotagging.cr` (2026-02-10). Remaining issues:
+
+#### Posts with no GPX data (21 posts)
 
 These posts have routes but no GPX tracklog was found in `tmp/gpx/`. Need to source GPX files manually.
 
@@ -113,11 +73,7 @@ These posts have routes but no GPX tracklog was found in `tmp/gpx/`. Need to sou
 | 2021-04-24-szukajac-wiosny | 2021-04-24 |
 | 2025-08-21-test-zasiegu-roweru | 2025-08-21 |
 
-### Posts with photos still missing GPS (original analysis)
-
-Posts that have a route (GPX/JSON) but photos without GPS coordinates. This indicates photos that should have been geotagged but weren't (human error during import/processing). 100 posts have exactly 1 photo missing GPS — likely the header image, probably fine.
-
-### ALL photos missing GPS (11 posts) — highest priority
+#### ALL photos missing GPS (11 posts)
 
 | Post | Type | Distance | Missing |
 |------|------|----------|---------|
@@ -133,7 +89,7 @@ Posts that have a route (GPX/JSON) but photos without GPS coordinates. This indi
 | 2015-08-09-do-gluszynki | bicycle | 26km | 2/2 |
 | 2016-10-20-radojewo-i-okolice-warty | hike | 3km | 1/1 |
 
-### >50% photos missing GPS (8 posts)
+#### >50% photos missing GPS (8 posts)
 
 | Post | Type | Distance | Missing |
 |------|------|----------|---------|
@@ -146,7 +102,7 @@ Posts that have a route (GPX/JSON) but photos without GPS coordinates. This indi
 | 2016-09-25-ze-skokow-do-janikowa | bicycle | 77km | 6/8 |
 | 2014-07-14-z-sianozet-do-dabek | bicycle | 61km | 3/5 |
 
-### 2+ photos missing GPS, <=50% (82 posts)
+#### 2+ photos missing GPS, <=50% (82 posts)
 
 <details>
 <summary>Click to expand full list</summary>
@@ -237,12 +193,3 @@ Posts that have a route (GPX/JSON) but photos without GPS coordinates. This indi
 | 2023-10-18-mgielki-w-pobiedziskach | hike | 5km | 6/27 |
 
 </details>
-
----
-
-## Testing Improvements
-
-Future testing enhancements:
-- [ ] Snapshot testing for HTML output
-- [ ] Integration tests for full coordinator
-- [ ] More tests for photo, feed, debug views
