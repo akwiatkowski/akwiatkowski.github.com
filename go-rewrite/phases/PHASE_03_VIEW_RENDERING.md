@@ -43,10 +43,51 @@ Generated `_templ.go` files are committed to git, so `go build` works without te
 3. go build / go run       # normal Go build
 ```
 
+## Key Decision: Page Titles in templ Components
+
+Crystal stores page titles and background images in `config.yml`. Go moves
+these to the templ components themselves — each view owns its metadata.
+
+**Rationale:** For a single-language site, there's no reason to externalize
+page-level strings to a YAML file. templ components are the natural owner
+of "what this page is called."
+
+Example:
+```go
+// internal/view/homepage.go
+func HomepagePage(data *SiteData) Renderable {
+    return &HTMLPage{
+        url: "/index.html",
+        page: PageData{
+            Title:   "Odkrywając Polskę",  // hardcoded, not from config
+            // ...
+        },
+        content: views.HomepageContent(data),
+    }
+}
+```
+
+## Key Decision: Static Pages as templ Components
+
+Crystal renders `data/pages/about.md`, `en.md`, `todo_notes.md` as pages.
+Go converts these to templ components — the content is stable Polish text that
+doesn't change often enough to justify a markdown file.
+
+```templ
+// templates/views/about.templ
+templ AboutContent() {
+    <article class="about-page">
+        <h1>O mnie</h1>
+        <p>Aleksander Kwiatkowski — blog podróżniczy...</p>
+        // ... stable content, rarely changes
+    </article>
+}
+```
+
 ## Architecture Overview
 
 ```
-SiteData (frozen, immutable)
+SiteData (frozen, immutable, includes NavStats)
     │
     ▼
 ┌─────────────────────────────────────┐
@@ -60,6 +101,7 @@ SiteData (frozen, immutable)
 │  P20: Homepage          (1 view)    │
 │  P25: Post articles     (N views)   │
 │  P50: Feeds (RSS, Atom) (N views)   │
+│  P90: Static pages      (N views)   │
 │  ...                                │
 └──────────────┬──────────────────────┘
                │
@@ -80,6 +122,8 @@ SiteData (frozen, immutable)
 │   Skip if SHA256 unchanged          │
 │   Atomic write (tmp + rename)       │
 │   Update build manifest             │
+│                                     │
+│ Output: env/{env}/public/go/        │
 └─────────────────────────────────────┘
 ```
 
@@ -97,7 +141,7 @@ go-rewrite/
 │       ├── layout/
 │       │   ├── page.templ            — full HTML page shell (doctype, head, body)
 │       │   ├── head.templ            — <head> with meta, assets, OG tags
-│       │   ├── nav.templ             — navbar with stats
+│       │   ├── nav.templ             — navbar with stats (NavStats from SiteData)
 │       │   └── footer.templ          — site footer
 │       ├── components/
 │       │   ├── photo_card.templ      — <picture> with AVIF/JPEG, used everywhere
@@ -111,7 +155,9 @@ go-rewrite/
 │           ├── area_gallery.templ    — photo gallery for area
 │           ├── post_article.templ    — blog post (rendered markdown + photos)
 │           ├── post_gallery.templ    — post photo gallery
-│           └── homepage.templ        — homepage content
+│           ├── homepage.templ        — homepage content
+│           ├── about.templ           — about page (converted from markdown)
+│           └── ...
 ```
 
 **Example templ components:**
@@ -236,7 +282,7 @@ func AreaShowPage(data *SiteData, area *Area) Renderable {
     return &HTMLPage{
         url: data.Router.AreaShowURL(area),
         page: PageData{
-            Title:   area.Name,
+            Title:   area.Name,           // from data, not config.yml
             Bundles: []string{"core", "leaflet", "preact"},
             PageJS:  "/js/self/area_show.js",
             // ...
@@ -258,6 +304,13 @@ func AreaShowPage(data *SiteData, area *Area) Renderable {
 ### R2: Asset Bundle Resolver
 
 Parse `data/config/asset_bundles.yml` and resolve bundle names to CSS/JS file lists.
+
+**Simplified role with templ:**
+With templ components, asset bundles are less critical than in Crystal:
+- Each templ view directly declares which CSS/JS files it needs
+- Composite bundle resolution is optional (can just list files directly)
+- Bundle resolver primarily useful as a lookup table + integrity hash source
+- Still shared with Crystal during transition — don't change the YAML file
 
 **Config structure (shared with Crystal):**
 ```yaml
@@ -281,22 +334,6 @@ page-assets:
   gallery:
     css:
       - /css/self/gallery.css
-```
-
-**Resolution pipeline:**
-```
-View declares: bundles=["core", "leaflet"], page_css=["gallery"]
-    ↓
-Expand composites:
-  "core" → [bootstrap-css, fontawesome, blog-css, ...]
-  "leaflet" → [leaflet-css, leaflet-js, route-colors-js]
-    ↓
-Collect + deduplicate:
-  CSS: [bootstrap.min.css, fontawesome.min.css, leaflet.css, ...]
-  JS:  [bootstrap.bundle.min.js, leaflet.js, ...]
-  Page CSS: [gallery.css]
-    ↓
-AssetFile structs with URL, integrity, version (mtime)
 ```
 
 **Output type:**
@@ -492,6 +529,8 @@ groups := []ViewGroup{
 3. Writer pool runs concurrently, draining the channel
 4. After all groups: close channel, wait for writers
 
+**Output directory:** `env/{env}/public/go/`
+
 **Requirements:**
 - Bounded parallelism (configurable, default: NumCPU)
 - Per-group synchronization
@@ -538,7 +577,7 @@ formatted HTML bytes → writer
 
 Writes output to disk. Tracks content hashes for incremental builds and future FTP sync.
 
-**Build manifest** (`build_manifest.json`):
+**Build manifest** (`env/{env}/cache-go/build_manifest.json`):
 ```json
 {
   "built_at": "2026-03-06T15:30:00Z",
@@ -579,14 +618,14 @@ Diff: pobiedziska.html changed → upload
 **URL to path mapping:**
 ```
 URL:  /gmina/pobiedziska.html
-Path: env/{env}/public/{target}/gmina/pobiedziska.html
+Path: env/{env}/public/go/gmina/pobiedziska.html
 ```
 
 **Requirements:**
 - Pool of N writer goroutines (default: 4)
 - SHA256 change detection (skip unchanged files)
 - Atomic writes (write to `.tmp`, rename)
-- Build manifest persisted as JSON
+- Build manifest persisted as JSON in `env/{env}/cache-go/build_manifest.json`
 - Manifest includes per-file hash, size, timestamp
 - Report: written/skipped/total counts
 - Directory creation cached (don't mkdir for every file)
@@ -600,17 +639,20 @@ Implement 3-4 view types to prove the full pipeline works end-to-end.
 - `views.AreaShowContent(jsonBlob)` templ component
 - Wrapped in `layout.Page` with bundles: core, leaflet, preact
 - Page JS: `/js/self/area_show.js`
+- Title: `area.Name` (from data, not config.yml)
 - URL: `/{nominative}/{slug}.html`
 
 **Area Post List** (dynamic collection):
 - `views.AreaPostListContent(filterBy, filterValue)` templ component
 - Wrapped in `layout.Page` with bundles: core
 - JS fetches e2e.json and filters client-side
+- Title: `"Wpisy dla " + area.Name` (hardcoded pattern)
 - URL: `/wpisy-dla/{genitive}/{slug}.html`
 
 **Area Gallery** (server-rendered photo grid):
 - Uses `components.PhotoGrid(photos, 3)` templ component
 - Wrapped in `layout.Page` with bundles: core, gallery
+- Title: `"Galeria " + area.Name` (hardcoded pattern)
 - URL: `/galeria/{genitive}/{slug}.html`
 
 **JSON Endpoint — e2e.json:**
@@ -651,7 +693,7 @@ layout.Page (doctype, html, head, body wrapper)
 ├── layout.Head (meta, canonical, OG tags, assets)
 │   ├── layout.HeadOG (og:title, og:image, twitter:card)
 │   └── layout.HeadAssets (CSS links, JS scripts)
-├── layout.Nav (navbar, stats, active page)
+├── layout.Nav (navbar, NavStats from SiteData, active page)
 ├── [content — one of:]
 │   ├── views.AreaShowContent (JSON blob + mount point)
 │   ├── views.AreaPostListContent (filter config + mount point)
@@ -665,6 +707,7 @@ layout.Page (doctype, html, head, body wrapper)
 │   │   └── components.PostCard
 │   │       ├── components.PhotoCard
 │   │       └── components.PostStats
+│   ├── views.AboutContent (converted from data/pages/about.md)
 │   └── components.Redirect (301/302 JS redirect)
 └── layout.Footer
 ```
@@ -680,7 +723,7 @@ go-rewrite/
 │   │   │   ├── page_templ.go         — generated (committed to git)
 │   │   │   ├── head.templ            — <head> section
 │   │   │   ├── head_templ.go         — generated
-│   │   │   ├── nav.templ             — navbar
+│   │   │   ├── nav.templ             — navbar (uses NavStats from SiteData)
 │   │   │   ├── nav_templ.go          — generated
 │   │   │   ├── footer.templ          — footer
 │   │   │   ├── footer_templ.go       — generated
@@ -700,6 +743,7 @@ go-rewrite/
 │   │       ├── area_show_templ.go    — generated
 │   │       ├── area_post_list.templ
 │   │       ├── area_gallery.templ
+│   │       ├── about.templ           — about page (from data/pages/about.md)
 │   │       └── ...
 │   ├── render/
 │   │   ├── engine.go                — parallel fan-out executor
@@ -716,12 +760,12 @@ go-rewrite/
 │   │   ├── router.go                — all URL generation
 │   │   └── router_test.go
 │   ├── bundle/
-│   │   ├── resolver.go              — asset bundle resolution
+│   │   ├── resolver.go              — asset bundle resolution (simplified)
 │   │   └── resolver_test.go
 │   └── view/
 │       ├── registry.go              — ViewGroup registration
 │       ├── page.go                  — HTMLPage, JSONEndpoint, etc.
-│       ├── area.go                  — area view builders
+│       ├── area.go                  — area view builders (titles hardcoded)
 │       ├── area_test.go
 │       ├── json.go                  — JSON endpoint builders
 │       └── json_test.go
@@ -759,7 +803,7 @@ go-rewrite/
 ## Acceptance Criteria
 
 ```
-templ:        15 components compiled (layout: 4, components: 5, views: 6)
+templ:        15 components compiled (layout: 4, components: 5, views: 6+)
 Bundles:      12 bundles, 3 composites resolved
 Router:       all URL patterns verified (unit tests)
 Views:        4 types implemented (area show/list/gallery, e2e.json)
@@ -774,8 +818,9 @@ Rendering dev environment:
 Writer:
   Written:   127 files (first run)
   Skipped:   0
-  Manifest:  127 entries saved to build_manifest.json
+  Manifest:  127 entries saved to env/dev/cache-go/build_manifest.json
 
+Output dir:  env/dev/public/go/
 Pretty-print: all HTML files indented (2 spaces)
 Validation:   0 errors across 127 pages
 ```
@@ -787,10 +832,11 @@ Validation:   0 errors across 127 pages
 - Tag views (Phase 4 — same pattern as area views)
 - Feed views — RSS, Atom, sitemap (Phase 5)
 - Stats views — year reports (Phase 5)
-- Static pages — about, map (Phase 5)
+- Static pages beyond about — map, more (Phase 5)
 - Image resizing (Phase 1 pipeline)
 - Live reload / dev server (Phase 6)
 - FTP sync (future — manifest enables it)
+- GPX rectifier tool (future phase)
 
 ## Open Questions
 
@@ -802,7 +848,3 @@ Validation:   0 errors across 127 pages
   **Recommendation:** Always on. The file size increase is negligible (~5-10%)
   and formatted HTML is invaluable for debugging and `diff` comparisons.
   Can be disabled with a `--minify` flag later if needed.
-
-- [ ] Output to `env/dev/public/go/` or same directory as Crystal?
-  **Recommendation:** Separate `go/` target during development for `diff -r`.
-  Switch to same directory when Go engine becomes primary.

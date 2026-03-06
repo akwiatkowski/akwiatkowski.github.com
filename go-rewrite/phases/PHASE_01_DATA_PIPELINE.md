@@ -15,6 +15,33 @@ In Crystal, preprocessing is scattered:
 In Go, everything will be a single dependency graph.
 One command. Automatic staleness. Parallel execution.
 
+## Directory Structure
+
+Go uses its own cache directories, separate from Crystal:
+
+```
+# Generated from external data (project-level, env-independent)
+go-rewrite/cache/
+├── areas/                      # area configs (bbox only, 5 files)
+└── polygons/                   # GeoJSON polygon files (1,630 files)
+
+# Per-environment caches
+env/{env}/cache-go/
+├── exif/{slug}.yml             # EXIF metadata per post
+├── route_coverage/{slug}.yml   # distance/time per area per post
+├── area_photos/{type}/{slug}.yml  # photos per area
+├── route_grid.yml              # route → grid cells + related posts
+├── photo_grid.yml              # photo → grid cells + nearest town
+├── photo_hashes/{slug}.yml     # perceptual hashes (optional)
+└── build_manifest.json         # SHA256 per output file
+
+# Output
+env/{env}/public/go/            # Go's rendered output
+```
+
+Crystal continues using `data/config/areas/`, `data/config/polygons/`,
+`env/{env}/cache/`, and `env/{env}/public/local/` — no changes needed.
+
 ## Primary Data (Never Generated)
 
 These are the leaves of the dependency graph — hand-created, never derived.
@@ -23,12 +50,12 @@ These are the leaves of the dependency graph — hand-created, never derived.
 |------|----------|--------------|
 | Blog posts | `env/{env}/data/posts/**/*.md` | Author writes/edits |
 | Source photos | `env/{env}/data/images/**/*.jpg` | Author adds photos |
-| Route coords | `env/{env}/data/json/*.json` | Author adds GPX data |
-| GPX files | `env/{env}/data/ideas/raw/*.gpx` | Author plans trips |
+| Route coords | `env/{env}/data/routes/*.json` | GPX rectifier output |
 | Polygon sources | `data/external/*.yaml` (~90MB) | Rarely (GIS data update) |
 | Config YAMLs | `data/config/*.yml` | Author edits tags, settings |
-| HTML templates | `data/layout/**/*.html` | Developer changes layout |
 | CSS/JS assets | `data/assets/**/*` | Developer changes frontend |
+
+Note: No HTML templates — Go uses templ components (compiled Go code, see Phase 3).
 
 ## Derived Data (Generated from Primary)
 
@@ -38,26 +65,27 @@ Organized by how often they need regeneration.
 
 | Derived | Source | Generator | Output |
 |---------|--------|-----------|--------|
-| Area configs | `data/external/*.yaml` | `generate_areas` | `data/config/areas/*.yml` (5 files) |
+| Area configs | `data/external/*.yaml` | `generate_areas` | `go-rewrite/cache/areas/*.yml` (5 files) |
+| Polygon GeoJSON | `data/external/*.yaml` | `simplify_polygons` | `go-rewrite/cache/polygons/**/*.json` |
 
 **What it does:** Reads ~90MB of polygon YAML, extracts slug/name/code/bbox
-(no polygon coords), writes 679KB of config files.
+(no polygon coords), writes config files. Separately, simplifies polygons to
+GeoJSON for frontend display.
 
 **Staleness:** `max(mtime of external/*.yaml) > mtime of areas/*.yml`
 
 **Frequency:** Almost never — only when GIS polygon data is updated.
 
-### Tier 2: When posts/photos change (manual pipeline)
+### Tier 2: When posts/photos change (manual pipeline in Crystal, automatic in Go)
 
 These currently require running `commands/run_all.cr` manually.
 In Go, they should run automatically when stale.
 
 | Derived | Depends On | Generator | Output | Time |
 |---------|-----------|-----------|--------|------|
-| Areas-for-post | post routes + polygons | `match_routes` | `cache/areas_for_post/*.yml` | ~3 min |
-| Polygon GeoJSON | areas-for-post + polygons | `simplify_polygons` | `config/polygons/**/*.json` | ~2 min |
-| Photos-in-area | photo EXIF + polygons | `match_photos` | `cache/photos_in_area/**/*.yml` | ~2 min |
-| Rectified GPX | raw GPX files | `rectify_gpx` | `data/ideas/*.gpx` | <1s |
+| Route coverage | post routes + polygons | `match_routes` | `cache-go/route_coverage/*.yml` | ~3 min |
+| Polygon GeoJSON | route_coverage + polygons | `simplify_polygons` | `go-rewrite/cache/polygons/**/*.json` | ~2 min |
+| Area photos | photo EXIF + polygons | `match_photos` | `cache-go/area_photos/**/*.yml` | ~2 min |
 
 **Critical insight:** All three polygon-dependent commands share one expensive
 resource — the AreaMatcher (~90MB loaded into memory, ~10s startup).
@@ -65,36 +93,34 @@ Crystal's `run_all.cr` loads it once and shares across all three.
 Go must do the same.
 
 **Staleness per post:**
-- areas_for_post: `mtime(post.md) > mtime(cache/areas_for_post/{slug}.yml)`
+- route_coverage: `mtime(post.md) > mtime(cache-go/route_coverage/{slug}.yml)`
 - Can be incremental — only process changed posts
 - Currently uses manifest file (`already_assigned.txt`) for photos
 
 **Dependency chain:**
 ```
 polygons (external) ─┐
-                     ├→ areas_for_post ──→ polygon_geojson
+                     ├→ route_coverage ──→ polygon_geojson
 post routes ─────────┘
 
 polygons (external) ─┐
-                     ├→ photos_in_area
+                     ├→ area_photos
 photo EXIF ──────────┘
 ```
 
-`polygon_geojson` depends on `areas_for_post` (needs to know which areas
-are visited). But `photos_in_area` is independent of `areas_for_post` —
+`polygon_geojson` depends on `route_coverage` (needs to know which areas
+are visited). But `area_photos` is independent of `route_coverage` —
 these two can run in parallel after the AreaMatcher is loaded.
 
 ### Tier 3: Every build (automatic)
 
 | Derived | Depends On | Generator | Output | Time |
 |---------|-----------|-----------|--------|------|
-| EXIF cache | source JPEGs | exif extractor | `cache/exifs/*.yml` | ~2-3s |
-| Resized images | source JPEGs | image resizer | `public/images/**/*` | ~45s (full) |
-| Nav stats | posts + configs | aggregation | `cache/nav_stats.yml` | <100ms |
-| Coord quant | post routes | quantization | `cache/post_coord_quant.yml` | <100ms |
-| Photo coord quant | photo GPS | quantization | `cache/photo_coord_quant.yml` | <100ms |
-| Route colors | route_colors.yml | loader | in-memory | <10ms |
-| Asset copy | data/assets/ | file copy | public/css,js,fonts | ~1-5s |
+| EXIF cache | source JPEGs | exif extractor | `cache-go/exif/*.yml` | ~2-3s |
+| Resized images | source JPEGs | image resizer | `public/go/images/**/*` | ~45s (full) |
+| Route grid | post routes + exif | quantization | `cache-go/route_grid.yml` | Cached |
+| Photo grid | photo GPS | quantization | `cache-go/photo_grid.yml` | Cached |
+| Asset copy | data/assets/ | file copy | public/go/css,js,fonts | ~1-5s |
 
 **EXIF cache** is special — Crystal creates it lazily during rendering.
 Go should extract it as a pipeline node that runs before rendering starts.
@@ -106,14 +132,20 @@ Go should:
 - Check mtime per image (skip if output newer than source)
 - Process JPEG and AVIF variants in parallel
 
+**Nav stats** — computed in memory from loaded posts every build, no cache file
+needed. Not a pipeline node — just part of SiteData construction.
+
+**Route colors** — primary config loaded from `data/config/route_colors.yml`.
+Not a pipeline node — just a config loader.
+
 ### Tier 4: Every build (rendered output)
 
 | Derived | Depends On | Output | Pages |
 |---------|-----------|--------|-------|
-| HTML pages | SiteData (all above) | `public/**/*.html` | 7,818 |
-| JSON endpoints | SiteData | `public/jsons/*.json` | ~8 |
-| XML feeds | SiteData | `public/feed*.xml` | 2 |
-| Sitemap | SiteData | `public/sitemap.xml` | 1 |
+| HTML pages | SiteData (all above) | `public/go/**/*.html` | 7,818 |
+| JSON endpoints | SiteData | `public/go/jsons/*.json` | ~8 |
+| XML feeds | SiteData | `public/go/feed*.xml` | 2 |
+| Sitemap | SiteData | `public/go/sitemap.xml` | 1 |
 
 This is Phase 3+ territory — just noting the full graph here.
 
@@ -124,19 +156,20 @@ This is Phase 3+ territory — just noting the full graph here.
                     ════════════
     ┌──────────┬──────────┬──────────┬──────────┐
     │ posts.md │ images/  │ external/│ config/  │
-    │ json/    │ *.jpg    │ *.yaml   │ *.yml    │
+    │ routes/  │ *.jpg    │ *.yaml   │ *.yml    │
     └────┬─────┴────┬─────┴────┬─────┴────┬─────┘
          │          │          │          │
          │          │     ┌────┴────┐     │
          │          │     │ TIER 1  │     │
          │          │     │ area    │     │
          │          │     │ configs │     │
+         │          │     │+polygons│     │
          │          │     └────┬────┘     │
          │          │          │          │
     ┌────┴──────────┴──────────┴──────────┘
     │              TIER 2 (parallel branches)
     │    ┌─────────────────┐  ┌──────────────────┐
-    │    │ areas_for_post  │  │ photos_in_area   │
+    │    │ route_coverage  │  │ area_photos      │
     │    │ (routes×polys)  │  │ (exif×polys)     │
     │    └────────┬────────┘  └──────────────────┘
     │             │
@@ -147,21 +180,22 @@ This is Phase 3+ territory — just noting the full graph here.
     │             │
     ├─────────────┴──────────────────────┐
     │              TIER 3 (parallel)     │
-    │  ┌──────┐ ┌──────┐ ┌────────────┐ │
-    │  │ EXIF │ │ nav  │ │ image      │ │
-    │  │cache │ │stats │ │ resize     │ │
-    │  └──┬───┘ └──┬───┘ └──────┬─────┘ │
+    │  ┌──────┐ ┌──────────┐ ┌────────┐ │
+    │  │ EXIF │ │ route    │ │ image  │ │
+    │  │cache │ │ grid     │ │ resize │ │
+    │  └──┬───┘ └──┬───────┘ └──┬─────┘ │
     │     │        │             │       │
-    │  ┌──┴───┐ ┌──┴───┐        │       │
-    │  │coord │ │photo │        │       │
-    │  │quant │ │quant │        │       │
-    │  └──┬───┘ └──┬───┘        │       │
+    │     │   ┌────┴────┐        │       │
+    │     │   │ photo   │        │       │
+    │     │   │ grid    │        │       │
+    │     │   └────┬────┘        │       │
     │     │        │             │       │
     └─────┴────────┴─────────────┴───────┘
                    │
               ┌────┴────┐
               │SiteData │  (frozen, immutable)
-              │ indexes │
+              │+indexes │  (nav_stats computed here)
+              │+navstats│
               └────┬────┘
                    │
               TIER 4: RENDER
@@ -182,7 +216,7 @@ type Node interface {
 // PipelineContext carries shared state between nodes
 type PipelineContext struct {
     Env        string              // "dev" or "full"
-    Target     string              // "local" or "release"
+    Target     string              // "go" (separate from Crystal's "local"/"release")
     BasePath   string              // project root
     Force      bool                // --force flag (ignore staleness)
     Verbose    bool                // --verbose flag
@@ -249,45 +283,46 @@ func RunPipeline(nodes []Node, ctx *PipelineContext) error {
 ```
 Node: "area_configs"
   DependsOn: []  (reads primary data/external/)
-  Stale when: max(mtime data/external/*.yaml) > min(mtime data/config/areas/*.yml)
-  Produces: data/config/areas/{towns,counties,voivodeships,meso_regions,macro_regions}.yml
+  Stale when: max(mtime data/external/*.yaml) > min(mtime go-rewrite/cache/areas/*.yml)
+  Produces: go-rewrite/cache/areas/{towns,counties,voivodeships,meso_regions,macro_regions}.yml
   Expensive: ~10s (reads 90MB, extracts bbox)
   Incremental: No (all-or-nothing — external data changes rarely)
+
+Node: "polygon_geojson_tier1"
+  DependsOn: ["area_configs"]
+  Stale when: area_configs changed
+  Produces: go-rewrite/cache/polygons/{type}/{slug}.json (1,630 files)
+  Expensive: ~2 min (Douglas-Peucker simplification)
+  Incremental: YES — skip existing polygons
+  Shared resource: AreaMatcher
 ```
 
 ### Tier 2 Nodes
 
 ```
-Node: "areas_for_post"
+Node: "route_coverage"
   DependsOn: ["area_configs"]
-  Stale when: any post.md newer than its areas_for_post cache file
-  Produces: env/{env}/cache/areas_for_post/{slug}.yml (per post)
+  Stale when: any post.md newer than its route_coverage cache file
+  Produces: env/{env}/cache-go/route_coverage/{slug}.yml (per post)
   Expensive: ~3 min full, ~2s per post incremental
   Incremental: YES — per post, only process changed
   Shared resource: AreaMatcher (loaded once)
 
-Node: "polygon_geojson"
-  DependsOn: ["areas_for_post"]
-  Stale when: areas_for_post changed → new areas visited
-  Produces: data/config/polygons/{type}/{slug}.json
-  Expensive: ~2 min full, <1s per new area
+Node: "polygon_geojson_tier2"
+  DependsOn: ["route_coverage"]
+  Stale when: route_coverage changed → new areas visited
+  Produces: go-rewrite/cache/polygons/{type}/{slug}.json (only new areas)
+  Expensive: <1s per new area
   Incremental: YES — skip existing polygons
   Shared resource: AreaMatcher
 
-Node: "photos_in_area"
-  DependsOn: ["area_configs"]  (NOT areas_for_post — independent!)
+Node: "area_photos"
+  DependsOn: ["area_configs"]  (NOT route_coverage — independent!)
   Stale when: new photos added (manifest check)
-  Produces: env/{env}/cache/photos_in_area/{type}/{slug}.yml
+  Produces: env/{env}/cache-go/area_photos/{type}/{slug}.yml
   Expensive: ~2 min full
   Incremental: YES — manifest-based
   Shared resource: AreaMatcher
-
-Node: "gpx_rectify"
-  DependsOn: []  (reads primary GPX files)
-  Stale when: raw GPX newer than processed GPX
-  Produces: env/{env}/data/ideas/*.gpx
-  Cheap: <1s
-  Incremental: YES — per file
 ```
 
 ### Tier 3 Nodes
@@ -296,7 +331,7 @@ Node: "gpx_rectify"
 Node: "exif_cache"
   DependsOn: []  (reads primary image files)
   Stale when: any image newer than its exif cache
-  Produces: env/{env}/cache/exifs/{slug}.yml (per post)
+  Produces: env/{env}/cache-go/exif/{slug}.yml (per post)
   Time: ~2-3s full (read EXIF from JPEG headers)
   Incremental: YES — per post
   Parallel: YES — each post independent
@@ -309,63 +344,60 @@ Node: "image_resize"
   Incremental: YES — per image (mtime check)
   Parallel: YES — worker pool with NumCPU goroutines
 
-Node: "nav_stats"
-  DependsOn: ["posts_loaded", "configs_loaded"]
-  Stale when: always (cheap to recompute)
-  Produces: cache/nav_stats.yml + in-memory NavStats
-  Time: <100ms
-
-Node: "coord_quant"
+Node: "route_grid"
   DependsOn: ["posts_loaded", "exif_cache"]
-  Stale when: always (cheap to recompute)
-  Produces: cache/post_coord_quant.yml + cache/photo_coord_quant.yml
-  Time: <100ms
+  Stale when: posts or exif changed
+  Produces: env/{env}/cache-go/route_grid.yml
+  Time: Cached (not cheap)
+
+Node: "photo_grid"
+  DependsOn: ["posts_loaded", "exif_cache"]
+  Stale when: posts or exif changed
+  Produces: env/{env}/cache-go/photo_grid.yml
+  Time: Cached (not cheap)
 
 Node: "asset_copy"
   DependsOn: []
   Stale when: any asset file changed
-  Produces: public/css/, public/js/, public/fonts/
+  Produces: public/go/css/, public/go/js/, public/go/fonts/
   Time: ~1-5s (rsync-like copy)
-
-Node: "route_colors"
-  DependsOn: ["configs_loaded"]
-  Stale when: route_colors.yml changed
-  Produces: in-memory RouteColors
-  Time: <10ms
 ```
+
+**Not pipeline nodes** (computed during SiteData construction):
+- **Nav stats** — aggregated from posts in memory, no file
+- **Route colors** — primary config loaded from `route_colors.yml`
 
 ## Execution Modes
 
 ### Full Build
 ```
-$ odkrywajac build --env=dev --target=local
+$ odkrywajac build --env=dev --target=go
 
-Pipeline: checking 12 nodes...
-  area_configs:     up-to-date (skipping)
-  areas_for_post:   up-to-date (skipping)
-  polygon_geojson:  up-to-date (skipping)
-  photos_in_area:   up-to-date (skipping)
-  gpx_rectify:      up-to-date (skipping)
-  exif_cache:       STALE (2 posts changed) → running... 450ms
-  image_resize:     STALE (12 images) → running... 1.2s (8 workers)
-  nav_stats:        recomputing... 45ms
-  coord_quant:      recomputing... 23ms
-  asset_copy:       3 files changed → copying... 120ms
-  route_colors:     up-to-date
-  site_data:        building indexes... 89ms
+Pipeline: checking 10 nodes...
+  area_configs:        up-to-date (skipping)
+  polygon_geojson_t1:  up-to-date (skipping)
+  route_coverage:      up-to-date (skipping)
+  polygon_geojson_t2:  up-to-date (skipping)
+  area_photos:         up-to-date (skipping)
+  exif_cache:          STALE (2 posts changed) → running... 450ms
+  image_resize:        STALE (12 images) → running... 1.2s (8 workers)
+  route_grid:          recomputing... 45ms
+  photo_grid:          recomputing... 23ms
+  asset_copy:          3 files changed → copying... 120ms
+  site_data:           building indexes + nav_stats... 89ms
 
-Pipeline complete: 6 stale, 6 up-to-date (1.9s total)
+Pipeline complete: 5 stale, 5 up-to-date (1.9s total)
 Rendering 394 pages... (8 workers)
 Done in 4.2s
 ```
 
 ### Force Rebuild
 ```
-$ odkrywajac build --env=dev --target=local --force
+$ odkrywajac build --env=dev --target=go --force
 
-Pipeline: forcing all 12 nodes...
+Pipeline: forcing all 10 nodes...
   area_configs:     regenerating... 8.2s
-  areas_for_post:   processing 6 posts... 1.4s
+  route_coverage:   processing 6 posts... 1.4s
   polygon_geojson:  simplifying 42 polygons... 3.1s
   ...
 ```
@@ -385,8 +417,8 @@ $ odkrywajac build --env=dev --dry-run
 Pipeline: would execute:
   exif_cache:    2 posts changed
   image_resize:  12 images to process
-  nav_stats:     always recomputed
-  coord_quant:   always recomputed
+  route_grid:    recomputing
+  photo_grid:    recomputing
   asset_copy:    3 files changed
 Rendering: 394 pages would be generated
 ```
@@ -408,6 +440,14 @@ Options:
 - `github.com/paulmach/orb` — pure Go geometry (point-in-polygon, simplification)
 - `github.com/tidwall/geodesic` — geodesic calculations
 - Avoids CGo complexity and GEOS dependency
+
+## GPX Rectifier
+
+Not a pipeline node — planned as a separate tool command.
+See DATA_SOURCES.md for the planned design (local gitignored config,
+privacy zones, Douglas-Peucker simplification).
+
+Will be implemented in a later phase.
 
 ## Testing Strategy
 
@@ -440,15 +480,14 @@ go-rewrite/
 │       ├── context.go        — PipelineContext with lazy AreaMatcher
 │       ├── nodes/
 │       │   ├── area_configs.go
-│       │   ├── areas_for_post.go
+│       │   ├── route_coverage.go
 │       │   ├── polygon_geojson.go
-│       │   ├── photos_in_area.go
+│       │   ├── area_photos.go
 │       │   ├── exif_cache.go
 │       │   ├── image_resize.go
-│       │   ├── nav_stats.go
-│       │   ├── coord_quant.go
-│       │   ├── asset_copy.go
-│       │   └── gpx_rectify.go
+│       │   ├── route_grid.go
+│       │   ├── photo_grid.go
+│       │   └── asset_copy.go
 │       └── nodes_test.go     — Tests for all nodes
 ```
 
@@ -456,8 +495,9 @@ go-rewrite/
 
 - Post markdown parsing (Phase 2)
 - View rendering (Phase 3+)
-- Template system (Phase 3+)
+- Template system (Phase 3+ — templ components)
 - Router / URL generation (Phase 3+)
+- GPX rectifier tool (later phase)
 
 This phase establishes the foundation: "given primary data, produce all
 derived data correctly and incrementally." Everything after this reads

@@ -3,6 +3,149 @@
 Complete inventory of all data consumed by the blog engine,
 how it's generated, and how often it changes.
 
+## Go Directory Structure
+
+```
+# SHARED (Crystal + Go read from here, unchanged)
+data/
+├── config/                     # primary config
+│   ├── config.yml              # site-level metadata (shrink for Go — see notes)
+│   ├── tags.yml                # 51 post tags
+│   ├── photo_tags.yml          # 15 photo tags
+│   ├── route_colors.yml        # map route colors (PRIMARY CONFIG, not cache)
+│   ├── train_stations.yml      # ~200 stations (transport_pois merged later)
+│   ├── transport_pois.yml      # transport POIs → merge into train_stations later
+│   ├── asset_bundles.yml       # CSS/JS bundles → simplify with templ
+│   ├── areas/                  # GENERATED from external (Crystal needs here)
+│   └── polygons/               # GENERATED from external (Crystal needs here)
+├── external/                   # polygon sources (~90MB, primary)
+├── assets/                     # CSS/JS/fonts (shared)
+└── pages/                      # static markdown → convert to templ in Go
+
+# GO PROJECT
+go-rewrite/
+├── cache/                      # Go's generated data (from external)
+│   ├── areas/                  # area configs (bbox only)
+│   └── polygons/               # GeoJSON polygon files
+├── internal/                   # Go source code
+│   └── templates/              # templ components (replaces data/layout/)
+└── phases/                     # planning docs
+
+# PER-ENVIRONMENT
+env/{env}/
+├── data/
+│   ├── posts/{year}/*.md       # primary: blog posts
+│   ├── images/{year}/{slug}/   # primary: source photos
+│   └── routes/*.json           # primary: route coordinates (from GPX rectifier)
+├── cache-go/                   # Go's per-env caches
+│   ├── exif/{slug}.yml         # EXIF metadata per post
+│   ├── route_coverage/{slug}.yml    # distance/time per area per post
+│   ├── area_photos/{type}/{slug}.yml # photos per area
+│   ├── route_grid.yml          # route → grid cells + related posts
+│   ├── photo_grid.yml          # photo → grid cells + nearest town
+│   ├── photo_hashes/{slug}.yml # perceptual hashes (optional)
+│   └── build_manifest.json     # SHA256 per output file (for FTP sync)
+└── public/
+    ├── local/                  # Crystal output
+    └── go/                     # Go output
+```
+
+## Data Classification
+
+### Primary Data (hand-edited, source of truth)
+
+| Data | Location | Changes When |
+|------|----------|--------------|
+| Blog posts | `env/{env}/data/posts/{year}/*.md` | Author writes/edits |
+| Source photos | `env/{env}/data/images/{year}/{slug}/*.jpg` | Author adds photos |
+| Route coords | `env/{env}/data/routes/*.json` | GPX rectifier output |
+| Polygon sources | `data/external/*.yaml` (~90MB) | Rarely (GIS data update) |
+| Tags | `data/config/tags.yml` | Author edits |
+| Photo tags | `data/config/photo_tags.yml` | Author edits |
+| Route colors | `data/config/route_colors.yml` | Developer changes map colors |
+| Train stations | `data/config/train_stations.yml` | Rarely |
+| Transport POIs | `data/config/transport_pois.yml` | Rarely (merge into train_stations later) |
+| Site config | `data/config/config.yml` | Developer changes site metadata |
+| CSS/JS assets | `data/assets/**/*` | Developer changes frontend |
+
+### Generated Data (derived from external, expensive, cached)
+
+Stored in `go-rewrite/cache/` (Go) or `data/config/areas/` + `data/config/polygons/` (Crystal).
+
+| Data | Source | Generator | Output |
+|------|--------|-----------|--------|
+| Area configs | `data/external/*.yaml` | area generator | `areas/{type}.yml` (5 files, bbox only) |
+| Polygon GeoJSON | `data/external/*.yaml` | polygon simplifier | `polygons/{type}/{slug}.json` (1,630 files) |
+
+**Area slug uniqueness:** Towns can have duplicate names (e.g., Grudziądz has both
+"gmina miejska" and "gmina wiejska"). Slugs are disambiguated by appending voivodeship
+and type: `grudziadz-kujawsko-pomorskie-miejska`, `grudziadz-kujawsko-pomorskie-wiejska`.
+Check Crystal code for the full disambiguation logic when implementing.
+
+### Cached Data (expensive to compute, persisted per-environment)
+
+Stored in `env/{env}/cache-go/`.
+
+| Cache | Old name | New name | What it stores | Time |
+|-------|----------|----------|---------------|------|
+| Route coverage | `areas_for_post/` | `route_coverage/` | Per-post: km/time breakdown by area (towns, counties, voivodeships, meso/macro regions, provinces, subprovinces, mega regions) + touched areas list | ~3 min full |
+| Area photos | `photos_in_area/` | `area_photos/` | Per-area: list of photos taken within polygon. A photo can belong to multiple areas (border overlap). | ~2 min full |
+| EXIF metadata | `exifs/` | `exif/` | Per-post: extracted JPEG metadata (GPS, lens, camera, etc.) | Cached, expensive for 14K+ photos |
+| Route grid | `post_coord_quant.yml` | `route_grid.yml` | Route → quantized grid cells + related posts (spatial overlap) | Cached |
+| Photo grid | `photo_coord_quant.yml` | `photo_grid.yml` | Photo → grid cells + closest town info | Cached |
+| Photo hashes | `photo_analysis/` | `photo_hashes/` | Perceptual hashes (pHash, color) — optional | Cached |
+| Build manifest | `mod_watcher.yml` | `build_manifest.json` | SHA256 per output file (replaces mod_watcher, enables FTP sync) | Updated every build |
+
+### Computed in Memory (no cache file needed)
+
+| Data | What | Notes |
+|------|------|-------|
+| Nav stats | bicycle/hike distance, time, count | Computed from posts every build, no file |
+| Route colors | Map colors per transport type | **Primary config** loaded from `route_colors.yml`, not cache |
+
+### Not Needed in Go
+
+| File | Reason |
+|------|--------|
+| `data/config/land_types.yml` | Removed feature |
+| `data/config/lands.yml` | Removed feature |
+| `data/config/todo_routes.yml` | Trip ideas not in scope |
+| `data/config/todo_routes_done.yml` | Trip ideas not in scope |
+| `data/config/towns/` | Legacy directory, replaced by `data/config/areas/` |
+| `data/config/gpx_rectifier.yml` | Old config, replaced by new local YAML approach |
+| `env/{env}/cache/nav_stats.yml` | Computed in memory instead |
+| `env/{env}/cache/mod_watcher.yml` | Replaced by build manifest |
+
+## config.yml Simplification
+
+Crystal's `config.yml` mixes site metadata with page titles/backgrounds.
+Go splits this:
+
+**Keep in config (site-level):**
+- `site.title`, `site.url`, `site.author`, `site.email`, `site.desc`
+
+**Move to templ components (page-specific):**
+- Page titles (`map.title`, `about.title`, `towns.title`, etc.)
+- Page subtitles
+- Page background images
+
+**Rationale:** With templ partials, each view owns its title and metadata.
+No need for a config file to store page-level strings for a single-language site.
+
+## asset_bundles.yml with templ
+
+With templ components replacing template files, asset bundles are simplified:
+- Each templ view declares which CSS/JS files it needs
+- No composite bundle resolution chain
+- Bundle resolver still useful as a lookup table (bundle name → file paths)
+- Integrity hashes still needed for external libraries
+
+## Static Pages
+
+Crystal renders `data/pages/about.md`, `en.md`, `todo_notes.md` as pages.
+Go converts these to templ components — the content is stable Polish text that
+doesn't change often enough to justify a markdown file.
+
 ## Data Dependency Graph
 
 ```
@@ -10,30 +153,17 @@ EXTERNAL / RARELY CHANGES
 │
 ├─ data/external/*.yaml (polygons, ~80MB total)
 │   │
-│   ├──[generate_areas_for_posts]──→ data/config/areas/*.yml (bbox only)
-│   ├──[generate_polygon_json]────→ data/config/polygons/**/*.json (1,630 files)
-│   └──[assign_photos_to_areas]───→ env/*/cache/photos_in_area/**/*.yml
+│   ├──[area generator]────→ go-rewrite/cache/areas/*.yml (bbox only)
+│   ├──[polygon simplifier]→ go-rewrite/cache/polygons/**/*.json (1,630 files)
+│   └──[area matcher]──────→ env/*/cache-go/area_photos/**/*.yml
 │
-├─ data/config/*.yml (hand-edited configs)
-│   ├── config.yml          — site metadata (title, author, URLs, page meta)
+├─ data/config/*.yml (hand-edited primary configs)
+│   ├── config.yml          — site metadata (title, url, author only in Go)
 │   ├── tags.yml             — 51 tags (slug, slug_pl, name, is_nav)
 │   ├── photo_tags.yml       — 15 photo tags (slug, title, points)
-│   ├── land_types.yml       — 5 land types (mountain, coastline, etc.)
-│   ├── lands.yml            — geographic regions (slug, name, code, country)
-│   ├── route_colors.yml     — route colors by transport type
-│   ├── train_stations.yml   — ~200 stations with Poznań travel time (lat, lon, poznan_time_distance)
-│   ├── transport_pois.yml   — transport POIs, similar format to train_stations (lat, lon, time_cost)
-│   ├── todo_routes.yml      — [SKIP in Go] planned trip ideas
-│   ├── todo_routes_done.yml — [SKIP in Go] completed trip ideas
-│   ├── asset_bundles.yml    — CSS/JS bundle definitions
-│   └── gpx_rectifier.yml    — GPX processing config
-│
-├─ data/config/areas/*.yml (generated from external)
-│   ├── towns.yml            — 2,477 towns (slug, name, code, voivodeship, bbox)
-│   ├── counties.yml         — 314 counties
-│   ├── voivodeships.yml     — 16 voivodeships
-│   ├── meso_regions.yml     — ~420 meso regions
-│   └── macro_regions.yml    — ~20 macro regions
+│   ├── route_colors.yml     — PRIMARY CONFIG: route colors for maps
+│   ├── train_stations.yml   — ~200 stations (transport_pois merged later)
+│   └── transport_pois.yml   — transport POIs → merge into train_stations later
 │
 CHANGES PER POST EDIT
 │
@@ -42,7 +172,7 @@ CHANGES PER POST EDIT
 │   │
 │   └──[post parser]──→ Post structs in memory
 │
-├─ env/{env}/data/json/*.json (route coordinates, referenced by posts)
+├─ env/{env}/data/routes/*.json (route coordinates, from GPX rectifier)
 │   │  Array of [lat, lon] coordinate arrays
 │   │
 │   └──[loaded by post]──→ Post.detailed_routes
@@ -52,52 +182,17 @@ CHANGES ON PHOTO ADD/EDIT
 ├─ env/{env}/data/images/{year}/{post_slug}/*.jpg (source photos)
 │   │
 │   ├──[image_resizer]──→ 4 sizes × 2 formats = 8 variants per photo
-│   └──[exiftool]───────→ env/{env}/cache/exifs/{post_slug}.yml
+│   └──[EXIF reader]────→ env/{env}/cache-go/exif/{post_slug}.yml
 │
-├─ env/{env}/cache/exifs/*.yml (EXIF cache per post)
-│   │  Per photo: filename, lat, lon, altitude, focal_length, aperture,
-│   │  exposure, iso, width, height, lens, camera, time
-│   │
-│   └──[exif init]──→ PhotoEntity structs attached to posts
+CACHED COMPUTATIONS (env/{env}/cache-go/)
 │
-COMPUTED CACHES (regenerated on data change)
-│
-├─ env/{env}/cache/areas_for_post/*.yml (per-post area assignments)
-│   │  Generated by: assign_photos_to_areas command
-│   │  Contains: matched areas by type with distance breakdown
-│   │
-│   └──[loaded by DataManager]──→ Post area associations
-│
-├─ env/{env}/cache/photos_in_area/{type}/*.yml (per-area photo lists)
-│   │  Generated by: assign_photos_to_areas command
-│   │
-│   └──[loaded by AreaPhotoSelector]──→ Photo-to-area mapping
-│
-├─ env/{env}/cache/nav_stats.yml (site-wide statistics)
-│   │  Generated by: nav_stats_cache task (priority 5)
-│   │  Contains: bicycle_distance, hike_distance, counts, etc.
-│   │
-│   └──[loaded by views]──→ Nav bar stats, homepage stats
-│
-├─ env/{env}/cache/post_coord_quant.yml (quantized route coords)
-│   │  Generated by: coord_quant task (priority 6)
-│   │
-│   └──[loaded by map views]──→ Route overlay data
-│
-├─ env/{env}/cache/photo_coord_quant.yml (quantized photo GPS)
-│   │  Generated by: photo_coord_quant task (priority 7)
-│   │
-│   └──[loaded by photo map]──→ Photo map markers
-│
-├─ env/{env}/cache/photo_analysis/*.yml (perceptual hashes)
-│   │  Generated by: setup-photo-analysis make target
-│   │  Contains: pHash, color histogram per photo
-│   │
-│   └──[loaded by debug views]──→ Similar photo detection
-│
-└─ env/{env}/cache/mod_watcher.yml (file modification tracker)
-    Generated by: Crystal build system
-    Contains: file paths + mtimes for change detection
+├─ exif/{slug}.yml                    — EXIF metadata per post
+├─ route_coverage/{slug}.yml          — distance/time per area per post
+├─ area_photos/{type}/{slug}.yml      — photos per area
+├─ route_grid.yml                     — route → grid cells + related posts
+├─ photo_grid.yml                     — photo → grid cells + nearest town
+├─ photo_hashes/{slug}.yml            — perceptual hashes (optional)
+└─ build_manifest.json                — SHA256 per output file
 ```
 
 ## Post Markdown Format
@@ -188,6 +283,70 @@ Tags format: `tag:good,tag:best,tag:timeline` (photo_tags slugs)
 Not all fields are present for every photo — only those with EXIF data.
 Photos without GPS have no lat/lon fields.
 
+## Route Coverage Cache Format (was areas_for_post)
+
+Per-post breakdown of distance/time across all area types.
+Also includes `touched_` lists (areas the route physically enters, even briefly).
+
+```yaml
+---
+- type: bicycle
+  total_distance_meters: 62652.74
+  total_distance_km: 62.653
+  points_count: 171.0
+  towns:
+  - slug: grudziadz-kujawsko-pomorskie-miejska  # disambiguated slug
+    name: Grudziądz
+    code: "0462011"
+    distance_meters: 6664.21
+    distance_km: 6.664
+    distance_percent: 10.6367
+  - slug: grudziadz-kujawsko-pomorskie-wiejska   # same name, different type
+    name: Grudziądz
+    code: "0406012"
+    distance_meters: 3931.48
+    distance_km: 3.931
+    distance_percent: 6.275
+  counties:
+  - slug: grudziadzki
+    ...
+  voivodeships:
+  - slug: kujawsko-pomorskie
+    ...
+  meso_regions:
+  - slug: pojezierze_chelminskie
+    ...
+  macro_regions:
+  - slug: pojezierze_chelminsko-dobrzynskie
+    ...
+  mega_regions: [...]
+  subprovinces: [...]
+  provinces: [...]
+  touched_towns: [...]         # areas route enters (any distance)
+  touched_counties: [...]
+  touched_voivodeships: [...]
+  touched_meso_regions: [...]
+  touched_macro_regions: [...]
+  touched_mega_regions: [...]
+  touched_subprovinces: [...]
+  touched_provinces: [...]
+```
+
+## Area Photos Cache Format (was photos_in_area)
+
+Per-area list of photos taken within that area's polygon.
+A photo can appear in multiple areas when taken near a border.
+
+```yaml
+---
+- filename: 2021_07_18__11_18__7189980.jpg
+  post_slug: 2021-07-18-pagorki-przed-zniwami
+- filename: 2021_07_18__11_38__7189990.jpg
+  post_slug: 2021-07-18-pagorki-przed-zniwami
+```
+
+Organized by area type: `area_photos/{type}/{slug}.yml`
+
 ## Areas Config Format (all types identical)
 
 ```yaml
@@ -230,51 +389,36 @@ Meso/macro regions have `code` but no `voivodeship`.
 
 Array of route segments. Each segment is array of [lat, lon] pairs.
 
-## Areas-for-Post Cache Format
+## GPX Rectifier Tool (planned for Go)
 
+Converts raw GPX from GPS device to clean route data.
+
+**Input config** (gitignored, not committed):
 ```yaml
----
-- type: hike
-  total_distance_meters: 1932.94
-  total_distance_km: 1.933
-  points_count: 37.0
-  towns:
-  - slug: bystrzyca_klodzka
-    name: Bystrzyca Kłodzka
-    code: 0208063
-    distance_meters: 1932.94
-    distance_km: 1.933
-    distance_percent: 100.0
-  counties:
-  - slug: klodzki
-    ...
-  voivodeships:
-  - slug: dolnoslaskie
-    ...
-  meso_regions:
-  - slug: row_gornej_nysy
-    ...
+# gpx_rectifier.local.yml (example)
+privacy_zones:
+  - lat: 52.xxx
+    lon: 16.xxx
+    radius_m: 500
+
+posts:
+  2024-05-15-some-trip: "/path/to/raw/track.GPX"
+  2024-06-01-another: ["/path/to/part1.GPX", "/path/to/part2.GPX"]
 ```
 
-## Nav Stats Cache Format
+**Processing:**
+1. Read raw GPX (from GPS device, full resolution)
+2. Douglas-Peucker simplification (remove redundant points)
+3. Remove noisy/weird points
+4. Strip points within privacy zone radius
+5. Output: `env/{env}/data/routes/{slug}.json` (simplified coords)
+6. Output: simplified GPX file (optional)
 
-```yaml
----
-bicycle_distance: 165
-bicycle_time_length: 17
-bicycle_count: 3
-hike_distance: 17
-hike_time_length: 8
-hike_count: 2
-train_distance: 0
-train_time_length: 0
-train_count: 0
-self_distance: 182
-self_time_length: 25
-updated_at: 2026-02-15 22:54:16...
-```
+**Details:** To be planned in a later phase.
 
-## External Tools Used by Crystal
+## External Tools
+
+### Crystal (current)
 
 | Tool | Used For | Called By |
 |------|----------|-----------|
@@ -283,116 +427,34 @@ updated_at: 2026-02-15 22:54:16...
 | `avifenc -q 53` | Convert JPEG → AVIF | ImageResizer (post-resize) |
 | `tools/photo_analysis.py` | Perceptual hash + color analysis | PhotoAnalysisCache |
 
+### Go (planned)
+
+| Tool | Used For | Notes |
+|------|----------|-------|
+| Go EXIF library | Extract EXIF metadata | No external tool needed |
+| `magick` or Go imaging lib | Resize JPEG images | Evaluate pure Go option |
+| `avifenc` or Go AVIF lib | Convert JPEG → AVIF | May need external tool |
+
 ## Image Processing Details
 
 **Source images:** `env/{env}/data/images/{year}/{post_slug}/{filename}.jpg`
 - Organized by year, then post slug subdirectory
-- Header image: `header.jpg` (used for post preview cards)
+- Header image referenced by post YAML `image_filename`
 - Original camera filenames preserved (e.g., `IMGP4714.JPG`)
 
-**Resized output:** `env/{env}/public/images/processed/{year}/{month}/{post_slug}_{filename}_{size}.{format}`
+**Resized output:** `env/{env}/public/{target}/images/processed/{year}/{month}/{post_slug}_{filename}_{size}.{format}`
 - Example JPEG: `2012-04-15-orlowa_imgp4714_grid.jpg`
 - Example AVIF: `2012-04-15-orlowa_imgp4714_grid.avif`
 
-**Resize command:** `magick "input.jpg" -quality {quality} -resize {width}x{height} "output.jpg"`
-**AVIF command:** `avifenc -q 53 "input.jpg" "output.avif"`
-
-**Trigger:** During post rendering (lazy — skips if output file already exists)
-
-## EXIF Cache Details
-
-**Created by:** `ExifDb` + `ExifProcessor` calling `exiv2 -pt <image_path>`
-**Written to:** `env/{env}/cache/exifs/{post_slug}.yml`
-
-**Process:**
-1. Task "EXIF: init all posts" (priority 4) iterates all posts
-2. For each post, calls `exif_db.initialize_post_photos_exif(post)`
-3. For each photo referenced in post markdown, checks if EXIF cached
-4. If missing, runs `exiv2 -pt` on the JPEG, parses output
-5. Saves to YAML per-post file
-
-**Invalidation:** None automatic. Delete cache file to force re-extraction.
-
-## ModWatcher (Change Detection)
-
-**File:** `env/{env}/cache/mod_watcher.yml`
-
-**Tracks 5 categories (size + mtime per file):**
-- `post_files` — `data/posts/**/*.md`
-- `yaml_files` — `data/**/*.yml`
-- `exif_db_files` — `cache/exifs/**/*.yml`
-- `photo_files` — `data/images/**/*`
-- `source_files` — `data/**/*.cr`
-
-**Used by:** `ViewRegistry::Coordinator` to determine `:posts`, `:yamls`, `:exifs` change sets.
-Updated at end of each build.
-
-## Photo Analysis Cache Details
-
-**Created by:** `PhotoAnalysisCache` calling `tools/photo_analysis.py` (Python subprocess)
-**Written to:** `env/{env}/cache/photo_analysis/{post_slug}.yml`
-**Status:** Currently disabled in view registry (debug feature)
-**Contains:** ahash, dhash, phash (perceptual hashes), avg_rgb, top5_rgb per photo
-
-## Ideas / Trip Planning Data [SKIP in Go]
-
-> **Note:** Trip planning features (todo_routes, ideas) are excluded from the Go rewrite scope.
-
-**Primary:** `data/config/todo_routes.yml` (hand-curated list of ~100 bicycle route ideas)
-
-**GPX processing chain:**
-1. `env/{env}/data/ideas/raw/*.gpx` — raw GPX from mapping tools (primary)
-2. `gpx_rectify` command → simplifies via Douglas-Peucker
-3. Output: `env/{env}/data/ideas/{slug}.json` (simplified coords)
-4. Output: `env/{env}/data/ideas/{slug}.gpx` (full waypoints)
-5. Output: `env/{env}/data/ideas/{slug}.yaml` (metadata)
-
-**Loaded by:** `IdeaEntity` at render time for TripIdeasView
-
-## Route Coordinate JSON Files
-
-**Location:** `env/{env}/data/routes/{slug}.json`
-**Created by:** `gpx_rectify` command from raw GPX
-**Referenced by:** Post YAML header `coords_file: "2021-07-18-slug.json"`
-**Loaded by:** `Post#detailed_routes` lazily at render time
-
-## Crystal Preprocessing Pipeline (What Generates What)
-
-### One-time Commands (run manually after data/external changes)
-
-| Command | Input | Output | When to Run |
-|---------|-------|--------|-------------|
-| `generate_areas_for_posts` | data/external/*.yaml | data/config/areas/*.yml | After polygon data updated |
-| `generate_polygon_json` | data/external/*.yaml | data/config/polygons/**/*.json | After polygon data updated |
-| `assign_photos_to_areas` | posts + photos + polygons | cache/areas_for_post/*.yml, cache/photos_in_area/**/*.yml | After new posts/photos |
-| `gpx_rectify` | GPX files | GPX with bbox | After new GPX data |
-| `fix_geotagging` | GPX + photos | photo EXIF tags | After new photos without GPS |
-
-### Per-build Tasks (run by view registry, priority 1-9)
-
-| Task | Priority | Input | Output | Trigger |
-|------|----------|-------|--------|---------|
-| Setup: dev render | 1 | - | output dirs | Always |
-| Setup: copy assets | 2 | data/assets | public/css,js,fonts | Always |
-| Setup: route colors | 3 | route_colors.yml | RouteColors in memory | Always |
-| EXIF: init all posts | 4 | cache/exifs/*.yml | PhotoEntity on posts | :exifs |
-| Cache: nav stats | 5 | posts + tags | cache/nav_stats.yml | :yamls |
-| Cache: coord quant | 6 | posts + routes | cache/post_coord_quant.yml | :exifs |
-| Cache: photo coords | 7 | posts + photos | cache/photo_coord_quant.yml | :exifs |
-
-### Image Processing (per-post, during render)
-
-| Step | Input | Output | Per Photo |
-|------|-------|--------|-----------|
-| Resize JPEG | source.jpg | _article.jpg, _card.jpg, _grid.jpg, _thumbnail.jpg | 4 files |
-| Convert AVIF | source.jpg | _article.avif, _card.avif, _grid.avif, _thumbnail.avif | 4 files |
+**Sizes:** article (1000×800), card (700×525), grid (560×420), thumbnail (150×112)
+**Formats:** JPEG + AVIF for each size = 8 variants per photo
 
 ## Data Volume Summary
 
 | Data Source | Dev | Full |
 |-------------|-----|------|
 | Posts | 6 | 726 |
-| Config YAMLs | 12 files | 12 files |
+| Config YAMLs | ~8 files | ~8 files |
 | Area configs | 5 files, ~3,250 areas | same |
 | EXIF caches | 6 files | 726 files |
 | Polygon JSONs | 1,630 | 1,630 |
@@ -401,21 +463,3 @@ Updated at end of each build.
 | Image variants | ~960 | ~116,000 |
 | HTML output | 394 | 7,818 |
 | JSON output | ~8 | ~1,545 |
-
-## Go Rewrite Scope Decisions
-
-### Included
-- All config YAMLs except todo_routes (see below)
-- `train_stations.yml` and `transport_pois.yml` — similar location-based formats (lat, lon, time metric)
-- `data/external/*.yaml` → `data/config/areas/*.yml` → `data/config/polygons/**/*.json` full chain
-- All post/photo/EXIF/area processing
-- All caches (nav_stats, coord_quant, areas_for_post, photos_in_area)
-- Image resizing and AVIF conversion
-
-### Excluded
-- `data/config/todo_routes.yml` — trip planning ideas, not needed
-- `data/config/todo_routes_done.yml` — completed ideas, not needed
-- `data/config/towns/*` — legacy directory (replaced by `data/config/areas/`)
-- `gpx_rectify` command and ideas GPX pipeline
-- `photo_analysis` cache (disabled debug feature)
-- `fix_geotagging` command (one-time utility)

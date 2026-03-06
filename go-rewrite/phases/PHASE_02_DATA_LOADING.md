@@ -18,12 +18,12 @@ Crystal has:
 - Implicit cache invalidation (or none — full rebuild)
 
 Go will have:
-- Single dependency graph connecting everything
+- Single dependency graph connecting everything (Phase 1)
 - Automatic staleness detection (file hashes / mtimes)
 - Lazy regeneration — only recompute what's stale
 - Parallel execution of independent nodes
 
-## Dependency Graph Design
+## Data Layers
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -33,15 +33,15 @@ Go will have:
 │ • data/external/*.yaml (polygon sources)    │
 │ • env/{env}/data/posts/**/*.md              │
 │ • env/{env}/data/images/**/*.jpg            │
-│ • env/{env}/data/json/*.json (route coords) │
+│ • env/{env}/data/routes/*.json (route coords)│
 └─────────────┬───────────────────────────────┘
               │
               ▼
 ┌─────────────────────────────────────────────┐
-│ LAYER 1: Derived configs (rarely changes)   │
+│ LAYER 1: Generated configs (rarely changes) │
 │                                             │
-│ • areas/*.yml ← depends on external/*.yaml  │
-│ • polygons/**/*.json ← depends on external  │
+│ • go-rewrite/cache/areas/*.yml              │
+│ • go-rewrite/cache/polygons/**/*.json       │
 │                                             │
 │ Staleness: hash of source external files    │
 │ Regen: ~2 min (area matching + simplify)    │
@@ -49,13 +49,15 @@ Go will have:
               │
               ▼
 ┌─────────────────────────────────────────────┐
-│ LAYER 2: Post-dependent data                │
+│ LAYER 2: Cached computations                │
 │                                             │
 │ • Post structs ← depends on *.md files      │
 │ • EXIF caches ← depends on source images    │
-│ • areas_for_post cache ← posts + polygons   │
-│ • photos_in_area cache ← photos + polygons  │
+│ • route_coverage ← posts + polygons         │
+│ • area_photos ← photos + polygons           │
+│ • route_grid, photo_grid ← coords + EXIF   │
 │                                             │
+│ Cache dir: env/{env}/cache-go/              │
 │ Staleness: per-file mtime comparison        │
 │ Regen: seconds (per changed post)           │
 └─────────────┬───────────────────────────────┘
@@ -67,7 +69,6 @@ Go will have:
 │ • SiteData indexes (postsByArea, etc.)      │
 │ • PhotoIndex (spatial, EXIF grouping)       │
 │ • NavStats (aggregated statistics)          │
-│ • CoordQuant (quantized route/photo coords) │
 │                                             │
 │ Staleness: always recomputed from Layer 2   │
 │ Regen: <100ms                               │
@@ -81,27 +82,50 @@ Go will have:
 Load all YAML config files into typed Go structs.
 
 **Input files:**
-- `data/config/config.yml` — key-value site metadata
-- `data/config/tags.yml` — array of Tag objects
-- `data/config/photo_tags.yml` — array of PhotoTag objects
-- `data/config/land_types.yml` — array of LandType objects
-- `data/config/lands.yml` — array of Land objects
-- `data/config/route_colors.yml` — map of route type → color/weight/opacity
-- `data/config/train_stations.yml` — array of TrainStation objects
-- `data/config/transport_pois.yml` — array of TransportPOI objects
-- `data/config/todo_routes.yml` — array of TodoRoute objects
-- `data/config/asset_bundles.yml` — bundle definitions + composites
+- `data/config/config.yml` — site-level metadata only (see simplification below)
+- `data/config/tags.yml` — array of Tag objects (51 tags)
+- `data/config/photo_tags.yml` — array of PhotoTag objects (15 photo tags)
+- `data/config/route_colors.yml` — map of route type → color/weight/opacity (primary config)
+- `data/config/train_stations.yml` — array of TrainStation objects (~200 stations)
+- `data/config/transport_pois.yml` — array of TransportPOI objects (merge into train_stations later)
+- `data/config/asset_bundles.yml` — bundle definitions (simplified role with templ)
+
+**Not loaded in Go:**
+- `data/config/land_types.yml` — removed feature
+- `data/config/lands.yml` — removed feature
+- `data/config/todo_routes.yml` — trip ideas not in scope
+- `data/config/todo_routes_done.yml` — trip ideas not in scope
+- `data/config/gpx_rectifier.yml` — old config, replaced by local YAML
+
+**config.yml simplification:**
+Crystal's `config.yml` mixes site metadata with page-specific data (titles,
+backgrounds, etc.). Go only loads site-level config from this file:
+- `site.title`, `site.url`, `site.author`, `site.email`, `site.desc`
+
+Page titles, subtitles, and background images move to templ components (Phase 3).
+Each view owns its display metadata — no config file needed for page-level strings.
+
+**asset_bundles.yml with templ:**
+With templ components replacing template files, asset bundles are simplified:
+- Each templ view declares which CSS/JS files it needs
+- No composite bundle resolution chain needed
+- Bundle resolver still useful as a lookup table (bundle name → file paths)
+- Integrity hashes still needed for external libraries
+
+**transport_pois note:**
+Currently a separate file. Plan to merge its data into `train_stations.yml`
+in a future cleanup — they share the same domain (transport infrastructure).
 
 **Requirements:**
 - All files loaded in parallel (independent of each other)
 - Strict validation — fail fast on missing required fields
-- config.yml is key-value (dotted keys like `site.title`), not nested struct
 - Tags must have both `slug` (English) and `slug_pl` (Polish)
 - Expose via typed accessor methods, not string map lookups
 
 ### R2: Area Loader
 
-Load all area entities from `data/config/areas/*.yml`.
+Load all area entities from `go-rewrite/cache/areas/*.yml` (or `data/config/areas/*.yml`
+during Crystal compatibility phase).
 
 **5 area types, identical YAML format:**
 - towns.yml (2,477 records)
@@ -111,6 +135,11 @@ Load all area entities from `data/config/areas/*.yml`.
 - macro_regions.yml (~20)
 
 **Per area:** slug, name, code, voivodeship (optional), bbox (optional)
+
+**Area slug uniqueness:** Towns can have duplicate names (e.g., Grudziądz has both
+"gmina miejska" and "gmina wiejska"). Slugs are disambiguated by appending voivodeship
+and type: `grudziadz-kujawsko-pomorskie-miejska`, `grudziadz-kujawsko-pomorskie-wiejska`.
+Check Crystal code for the full disambiguation logic when implementing.
 
 **Requirements:**
 - Load all 5 files in parallel
@@ -130,9 +159,11 @@ Parse markdown posts with YAML front matter.
 **YAML header fields (all optional except title, date):**
 - title, subtitle, desc, keywords, date, finished_at
 - author, categories, image_filename, image_position
-- tags (→ tag slugs), towns (→ town slugs), lands (→ land slugs)
+- tags (→ tag slugs), towns (→ town slugs)
 - coords, coords_file, coords_type, distance, time_spent, elevation
 - temperature, strava, pois, map_zooms
+
+Note: `lands` field exists in some posts but is not needed in Go (lands feature removed).
 
 **Body content:**
 - Standard markdown
@@ -151,13 +182,15 @@ Parse markdown posts with YAML front matter.
 - Build URL from date: `/{year}/{month}/{day}-{slug}.html`
 - Determine published status: `finished_at != nil`
 - Load route coordinates from coords_file JSON if specified
+  - Route files are in `env/{env}/data/routes/`
+  - Format: array of route segments, each segment is array of [lat, lon] pairs
 - Parse all posts in parallel (each file independent)
 
 ### R4: EXIF Cache Loader
 
 Load pre-computed EXIF data from cache files.
 
-**Input:** `env/{env}/cache/exifs/{post_slug}.yml`
+**Input:** `env/{env}/cache-go/exif/{post_slug}.yml`
 
 **Per photo entry:**
 - image_filename, post_slug
@@ -173,20 +206,28 @@ Load pre-computed EXIF data from cache files.
 - Build PhotoEntity structs with merged data (post reference + EXIF)
 - Handle missing EXIF gracefully (photo exists but no EXIF entry)
 
-### R5: Area-Post Association Loader
+### R5: Route Coverage Loader (was Area-Post Association)
 
-Load pre-computed area assignments from cache.
+Load pre-computed route-area assignments from cache.
 
-**Input:** `env/{env}/cache/areas_for_post/{post_slug}.yml`
+**Input:** `env/{env}/cache-go/route_coverage/{post_slug}.yml`
 
 **Per entry:**
 - Route type (hike, bicycle, etc.)
-- Distance breakdown by area type (towns, counties, voivodeships, regions)
+- Total distance/time
+- Distance breakdown by area type:
+  - towns, counties, voivodeships
+  - meso_regions, macro_regions
+  - mega_regions, subprovinces, provinces
 - Each area: slug, name, code, distance_meters/km/percent
+- Touched areas lists (areas route enters, any distance):
+  - touched_towns, touched_counties, touched_voivodeships
+  - touched_meso_regions, touched_macro_regions
+  - touched_mega_regions, touched_subprovinces, touched_provinces
 
 **Requirements:**
 - Load all association files in parallel
-- Merge with Post's manual town/land slugs from YAML header
+- Merge with Post's manual town slugs from YAML header
 - Build reverse index: area → posts
 - Handle missing cache files (post without route = no associations)
 
@@ -194,7 +235,7 @@ Load pre-computed area assignments from cache.
 
 Load pre-generated GeoJSON polygon files.
 
-**Input:** `data/config/polygons/{type}/{slug}.json`
+**Input:** `go-rewrite/cache/polygons/{type}/{slug}.json`
 **Count:** 1,630 files
 
 **Requirements:**
@@ -203,55 +244,17 @@ Load pre-generated GeoJSON polygon files.
 - For area matching: load as parsed GeoJSON (if reimplementing matching)
 - Cache loaded polygons in memory
 
-### R7: Dependency Graph Runner
+### R7: Grid Data Loader
 
-The core innovation — a DAG-based pipeline that replaces Crystal's
-separate commands and implicit caching.
+Load pre-computed grid data (route and photo spatial indexes).
 
-**Node types:**
-```
-FileSource     — watches file(s) for changes, no computation
-DerivedData    — reads inputs, produces output, cached on disk
-ComputedIndex  — reads inputs, produces in-memory structure, always recomputed
-```
-
-**Graph definition:**
-```
-configs       = FileSource(data/config/*.yml)
-externals     = FileSource(data/external/*.yaml)
-postFiles     = FileSource(env/{env}/data/posts/**/*.md)
-imageFiles    = FileSource(env/{env}/data/images/**/*.jpg)
-
-areaConfigs   = DerivedData(externals → areas/*.yml)        # Layer 1
-polygonJsons  = DerivedData(externals → polygons/**/*.json) # Layer 1
-
-posts         = ComputedIndex(postFiles, configs)            # Layer 2
-exifCaches    = DerivedData(imageFiles → exifs/*.yml)        # Layer 2
-areaForPost   = DerivedData(posts, polygonJsons → cache)     # Layer 2
-photosInArea  = DerivedData(posts, exifCaches, polygonJsons) # Layer 2
-
-siteData      = ComputedIndex(posts, areaConfigs, exifCaches, # Layer 3
-                              areaForPost, photosInArea, configs)
-```
-
-**Staleness check:**
-- FileSource: mtime of files
-- DerivedData: max(input mtimes) > output mtime
-- ComputedIndex: always recompute (cheap, in-memory)
-
-**Execution:**
-- Walk graph from leaves to root
-- Execute stale nodes in topological order
-- Parallelize independent branches
-- Report: "Skipping areaConfigs (up to date)" / "Regenerating exifCaches (3 posts changed)"
+**Input:**
+- `env/{env}/cache-go/route_grid.yml` — route → grid cells + related posts
+- `env/{env}/cache-go/photo_grid.yml` — photo → grid cells + nearest town
 
 **Requirements:**
-- Define graph declaratively (not procedural)
-- Each node has: name, inputs, outputs, stale?(), run()
-- Runner resolves execution order from graph
-- Parallel execution of independent nodes
-- Dry-run mode: show what would execute without running
-- Verbose mode: show timing per node
+- Used by map views and photo planner
+- Simple YAML load into structs
 
 ### R8: SiteData Builder
 
@@ -269,10 +272,18 @@ Combine all loaded data into a single immutable SiteData struct.
 - `photosByLens[model]` → []Photo
 - `photosByISO[iso]` → []Photo
 
-**NavStats to compute:**
+**NavStats — computed in memory (no cache file):**
 - bicycle_distance, bicycle_time_length, bicycle_count
 - hike_distance, hike_time_length, hike_count
 - total self_distance, self_time_length
+
+Computed from loaded posts during SiteData construction. Crystal cached this
+to `nav_stats.yml` but Go computes it fresh — it's cheap (<100ms) and
+avoids an extra cache file.
+
+**Route colors — primary config (not derived):**
+Loaded from `data/config/route_colors.yml` and exposed via SiteData.
+Not a computed value — it's hand-edited primary configuration.
 
 **Requirements:**
 - Built after all data loaded
@@ -280,7 +291,7 @@ Combine all loaded data into a single immutable SiteData struct.
 - All lookups are O(1) map access
 - Expose as interfaces for easy mocking in tests
 
-## What to Validate (Phase 1 Acceptance)
+## What to Validate (Phase 2 Acceptance)
 
 Run loader, print summary, compare with Crystal:
 
@@ -291,10 +302,11 @@ Photo Tags:     15 loaded
 Areas:          3,247 loaded (2,477 towns + 314 counties + ...)
 EXIF entries:   120 loaded across 6 posts
 Photos:         210 referenced in posts (120 with EXIF)
-Area-post:      18 associations loaded
-Nav Stats:      bicycle=165km, hike=17km
+Route coverage: 18 associations loaded
+Nav Stats:      bicycle=165km, hike=17km (computed, not cached)
+Route colors:   loaded from config (primary data)
 Indexes:        postsByArea=42 entries, postsByTag=12 entries, ...
-Pipeline:       7 nodes, 3 stale, 4 up-to-date
+Pipeline:       8 nodes, 3 stale, 5 up-to-date
 Time:           247ms (posts: 45ms, configs: 12ms, exif: 89ms, index: 101ms)
 ```
 
@@ -306,28 +318,25 @@ go-rewrite/
 ├── internal/
 │   ├── model/
 │   │   ├── post.go              — Post struct
-│   │   ├── area.go              — Area + AreaType
+│   │   ├── area.go              — Area + AreaType (with Polish inflections)
 │   │   ├── photo.go             — Photo + EXIF data
 │   │   ├── tag.go               — Tag + PhotoTag
-│   │   ├── config.go            — SiteConfig
+│   │   ├── config.go            — SiteConfig (site-level only)
 │   │   ├── route.go             — Route coordinates
-│   │   └── poi.go               — POI, TrainStation, TodoRoute
+│   │   └── poi.go               — TrainStation, TransportPOI
 │   ├── loader/
-│   │   ├── config.go            — Config YAML loader
+│   │   ├── config.go            — Config YAML loader (site-level fields only)
 │   │   ├── areas.go             — Area YAML loader
 │   │   ├── posts.go             — Post markdown parser
 │   │   ├── exif.go              — EXIF cache loader
-│   │   ├── associations.go      — Area-post cache loader
-│   │   └── polygons.go          — Polygon JSON loader
+│   │   ├── route_coverage.go    — Route-area association loader
+│   │   ├── polygons.go          — Polygon JSON loader (lazy)
+│   │   └── grids.go             — Route grid + photo grid loader
 │   ├── pipeline/
-│   │   ├── graph.go             — Dependency graph definition
-│   │   ├── node.go              — Node interface + types
-│   │   ├── runner.go            — Graph executor (parallel)
-│   │   └── staleness.go         — Mtime/hash checking
+│   │   └── ...                  — (from Phase 1)
 │   └── index/
-│       ├── site_data.go         — SiteData builder
-│       ├── photo_index.go       — Photo spatial/EXIF index
-│       └── nav_stats.go         — Computed statistics
+│       ├── site_data.go         — SiteData builder (includes nav_stats computation)
+│       └── photo_index.go       — Photo spatial/EXIF index
 ├── go.mod
 └── go.sum
 ```
@@ -342,7 +351,11 @@ go-rewrite/
       **Recommendation:** Lazy — only ~120 polygons needed for area show pages
       in dev mode, not all 1,630.
 
-- [ ] markdown parsing: use goldmark or custom parser?
+- [ ] Markdown parsing: use goldmark or custom parser?
       Posts use custom `{% photo %}` syntax that needs preprocessing before
       markdown parsing.
       **Recommendation:** Preprocess custom tags first (regex), then goldmark.
+
+- [ ] Should Go read from `go-rewrite/cache/areas/` or `data/config/areas/`?
+      **Recommendation:** Start with `data/config/areas/` for Crystal compatibility.
+      Switch to `go-rewrite/cache/areas/` when Go generates its own area configs.
