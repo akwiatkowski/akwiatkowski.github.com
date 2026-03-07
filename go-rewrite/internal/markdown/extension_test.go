@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/yuin/goldmark"
+	"github.com/yuin/goldmark/ast"
 	"github.com/yuin/goldmark/parser"
 	"github.com/yuin/goldmark/text"
 )
@@ -148,5 +149,117 @@ func TestParseTags(t *testing.T) {
 		if tags[i] != want {
 			t.Errorf("tags[%d] = %q, want %q", i, tags[i], want)
 		}
+	}
+}
+
+func TestParseGeo(t *testing.T) {
+	src := `Some text {% geo 52.45,16.93 %} more text.
+`
+	md := goldmark.New(goldmark.WithExtensions(&Extension{}))
+	reader := text.NewReader([]byte(src))
+	doc := md.Parser().Parse(reader, parser.WithContext(parser.NewContext()))
+
+	found := false
+	ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
+		if !entering {
+			return ast.WalkContinue, nil
+		}
+		if geo, ok := n.(*GeoNode); ok {
+			found = true
+			if geo.Lat != 52.45 {
+				t.Errorf("lat = %f, want 52.45", geo.Lat)
+			}
+			if geo.Lon != 16.93 {
+				t.Errorf("lon = %f, want 16.93", geo.Lon)
+			}
+		}
+		return ast.WalkContinue, nil
+	})
+	if !found {
+		t.Error("expected GeoNode")
+	}
+}
+
+func TestParseProTip(t *testing.T) {
+	src := `{% pro_tip %} Pack extra water.
+`
+	md := goldmark.New(goldmark.WithExtensions(&Extension{}))
+	reader := text.NewReader([]byte(src))
+	doc := md.Parser().Parse(reader, parser.WithContext(parser.NewContext()))
+
+	found := false
+	ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
+		if !entering {
+			return ast.WalkContinue, nil
+		}
+		if _, ok := n.(*ProTipNode); ok {
+			found = true
+		}
+		return ast.WalkContinue, nil
+	})
+	if !found {
+		t.Error("expected ProTipNode")
+	}
+}
+
+func TestParseCurrentYear(t *testing.T) {
+	src := `Copyright {% current_year %}.
+`
+	md := goldmark.New(goldmark.WithExtensions(&Extension{}))
+	reader := text.NewReader([]byte(src))
+	doc := md.Parser().Parse(reader, parser.WithContext(parser.NewContext()))
+
+	found := false
+	ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
+		if !entering {
+			return ast.WalkContinue, nil
+		}
+		if _, ok := n.(*CurrentYearNode); ok {
+			found = true
+		}
+		return ast.WalkContinue, nil
+	})
+	if !found {
+		t.Error("expected CurrentYearNode")
+	}
+}
+
+func TestParseTodo(t *testing.T) {
+	src := `Some text {% todo %} more text.
+`
+	md := goldmark.New(goldmark.WithExtensions(&Extension{}))
+	reader := text.NewReader([]byte(src))
+	doc := md.Parser().Parse(reader, parser.WithContext(parser.NewContext()))
+
+	found := false
+	ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
+		if !entering {
+			return ast.WalkContinue, nil
+		}
+		if _, ok := n.(*TodoNode); ok {
+			found = true
+		}
+		return ast.WalkContinue, nil
+	})
+	if !found {
+		t.Error("expected TodoNode")
+	}
+}
+
+func TestParseGeoArgs(t *testing.T) {
+	lat, lon, ok := parseGeoArgs("52.45,16.93")
+	if !ok {
+		t.Fatal("expected ok=true")
+	}
+	if lat != 52.45 {
+		t.Errorf("lat = %f, want 52.45", lat)
+	}
+	if lon != 16.93 {
+		t.Errorf("lon = %f, want 16.93", lon)
+	}
+
+	_, _, ok = parseGeoArgs("invalid")
+	if ok {
+		t.Error("expected ok=false for invalid input")
 	}
 }

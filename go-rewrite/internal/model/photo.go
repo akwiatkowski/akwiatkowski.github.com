@@ -1,6 +1,10 @@
 package model
 
-import "time"
+import (
+	"fmt"
+	"strings"
+	"time"
+)
 
 // Photo represents a single photo with its metadata and EXIF data.
 type Photo struct {
@@ -11,12 +15,53 @@ type Photo struct {
 	Points        int
 	IsHeader      bool
 	IsGallery     bool
+	IsTimeline    bool
 	Exif          *ExifData
 }
 
 // HasGPS returns true if this photo has GPS coordinates.
 func (p *Photo) HasGPS() bool {
 	return p.Exif != nil && p.Exif.Lat != nil && p.Exif.Lon != nil
+}
+
+// HasTime returns true if this photo has a capture time.
+func (p *Photo) HasTime() bool {
+	return p.Exif != nil && p.Exif.Time != nil
+}
+
+// ExifString returns a human-readable EXIF summary like "50mm f/4 1/100s ISO400".
+func (p *Photo) ExifString() string {
+	if p.Exif == nil {
+		return ""
+	}
+	var parts []string
+	if p.Exif.CameraName != "" {
+		parts = append(parts, p.Exif.CameraName+",")
+	}
+	if p.Exif.LensName != "" {
+		parts = append(parts, p.Exif.LensName+",")
+	}
+	if p.Exif.FocalLength != nil {
+		parts = append(parts, fmt.Sprintf("%dmm", int(*p.Exif.FocalLength)))
+	}
+	if p.Exif.Aperture != nil && *p.Exif.Aperture > 0.1 {
+		parts = append(parts, fmt.Sprintf("f/%s", formatAperture(*p.Exif.Aperture)))
+	}
+	if p.Exif.ExposureString != "" {
+		parts = append(parts, p.Exif.ExposureString)
+	}
+	if p.Exif.ISO != nil {
+		parts = append(parts, fmt.Sprintf("ISO%d", *p.Exif.ISO))
+	}
+	return strings.Join(parts, " ")
+}
+
+// formatAperture formats aperture value, removing trailing zeros.
+func formatAperture(f float64) string {
+	if f == float64(int(f)) {
+		return fmt.Sprintf("%d", int(f))
+	}
+	return fmt.Sprintf("%.1f", f)
 }
 
 // ExifData holds EXIF metadata extracted from a JPEG file.

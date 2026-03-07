@@ -20,6 +20,7 @@ type SiteData struct {
 	postsByTagSlug  map[string][]*model.Post        // tag slug → posts
 	PostsByYear     map[int][]*model.Post            // year → posts
 	postsByArea     map[string][]*model.Post         // AreaMapKey → posts
+	postBySlug      map[string]*model.Post           // post slug → post
 	areaByKey       map[string]*model.Area           // AreaMapKey → area
 	AreasByType     map[model.AreaType][]*model.Area
 	AreasWithPosts  map[model.AreaType][]*model.Area // areas that have at least one post
@@ -40,6 +41,11 @@ type NavStats struct {
 	// Self = bicycle + hike
 	SelfDistance int
 	SelfTime    int
+}
+
+// PostBySlug looks up a post by its slug.
+func (sd *SiteData) PostBySlug(slug string) *model.Post {
+	return sd.postBySlug[slug]
 }
 
 // PostsForTag returns posts for a given tag slug.
@@ -120,8 +126,10 @@ func (sd *SiteData) buildTagIndexes() {
 func (sd *SiteData) buildPostIndexes() {
 	sd.postsByTagSlug = make(map[string][]*model.Post)
 	sd.PostsByYear = make(map[int][]*model.Post)
+	sd.postBySlug = make(map[string]*model.Post, len(sd.Posts))
 
 	for _, post := range sd.Posts {
+		sd.postBySlug[post.Slug] = post
 		for _, tagSlug := range post.TagSlugs {
 			sd.postsByTagSlug[tagSlug] = append(sd.postsByTagSlug[tagSlug], post)
 		}

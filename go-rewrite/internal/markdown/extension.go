@@ -1,8 +1,9 @@
 // Package markdown provides a goldmark extension for parsing custom blog directives:
-// {% photo "filename","caption" %}, {% photo_header "caption","tags" %}, {% post_url slug %}.
+// {% photo %}, {% photo_header %}, {% post_url %}, {% geo %}, {% pro_tip %}, {% current_year %}, {% todo %}.
 package markdown
 
 import (
+	"strconv"
 	"strings"
 
 	"github.com/yuin/goldmark"
@@ -66,6 +67,60 @@ func (n *PostURLNode) Dump(src []byte, level int) {
 	}, nil)
 }
 
+// KindGeo is the AST node kind for {% geo %} directives.
+var KindGeo = ast.NewNodeKind("Geo")
+
+// GeoNode represents a {% geo lat,lon %} inline directive.
+type GeoNode struct {
+	ast.BaseInline
+	Lat float64
+	Lon float64
+}
+
+func (n *GeoNode) Kind() ast.NodeKind { return KindGeo }
+func (n *GeoNode) Dump(src []byte, level int) {
+	ast.DumpHelper(n, src, level, nil, nil)
+}
+
+// KindProTip is the AST node kind for {% pro_tip %} directives.
+var KindProTip = ast.NewNodeKind("ProTip")
+
+// ProTipNode represents a {% pro_tip %} inline directive.
+type ProTipNode struct {
+	ast.BaseInline
+}
+
+func (n *ProTipNode) Kind() ast.NodeKind { return KindProTip }
+func (n *ProTipNode) Dump(src []byte, level int) {
+	ast.DumpHelper(n, src, level, nil, nil)
+}
+
+// KindCurrentYear is the AST node kind for {% current_year %} directives.
+var KindCurrentYear = ast.NewNodeKind("CurrentYear")
+
+// CurrentYearNode represents a {% current_year %} inline directive.
+type CurrentYearNode struct {
+	ast.BaseInline
+}
+
+func (n *CurrentYearNode) Kind() ast.NodeKind { return KindCurrentYear }
+func (n *CurrentYearNode) Dump(src []byte, level int) {
+	ast.DumpHelper(n, src, level, nil, nil)
+}
+
+// KindTodo is the AST node kind for {% todo %} directives.
+var KindTodo = ast.NewNodeKind("Todo")
+
+// TodoNode represents a {% todo %} directive (produces no output).
+type TodoNode struct {
+	ast.BaseInline
+}
+
+func (n *TodoNode) Kind() ast.NodeKind { return KindTodo }
+func (n *TodoNode) Dump(src []byte, level int) {
+	ast.DumpHelper(n, src, level, nil, nil)
+}
+
 // --- Block Parser (photo, photo_header) ---
 
 type directiveBlockParser struct{}
@@ -110,15 +165,15 @@ func (p *directiveBlockParser) Close(node ast.Node, reader text.Reader, pc parse
 func (p *directiveBlockParser) CanInterruptParagraph() bool { return true }
 func (p *directiveBlockParser) CanAcceptIndentedLine() bool { return false }
 
-// --- Inline Parser (post_url) ---
+// --- Inline Parser (post_url, geo, pro_tip, current_year, todo) ---
 
-type postURLInlineParser struct{}
+type directiveInlineParser struct{}
 
-func (p *postURLInlineParser) Trigger() []byte {
+func (p *directiveInlineParser) Trigger() []byte {
 	return []byte{'{'}
 }
 
-func (p *postURLInlineParser) Parse(parent ast.Node, block text.Reader, pc parser.Context) ast.Node {
+func (p *directiveInlineParser) Parse(parent ast.Node, block text.Reader, pc parser.Context) ast.Node {
 	line, seg := block.PeekLine()
 	if len(line) < 2 || line[1] != '%' {
 		return nil
@@ -131,21 +186,67 @@ func (p *postURLInlineParser) Parse(parent ast.Node, block text.Reader, pc parse
 	}
 
 	inner := strings.TrimSpace(s[2:end])
-	if !strings.HasPrefix(inner, "post_url ") {
-		return nil
-	}
-
-	slug := strings.TrimSpace(inner[len("post_url "):])
-	if slug == "" {
-		return nil
-	}
-
-	// Advance past the whole {% post_url slug %} directive
 	consumed := end + 2
-	block.Advance(consumed)
 	_ = seg // segment tracking handled by Advance
 
-	return &PostURLNode{PostSlug: slug}
+	// {% post_url slug %}
+	if strings.HasPrefix(inner, "post_url ") {
+		slug := strings.TrimSpace(inner[len("post_url "):])
+		if slug == "" {
+			return nil
+		}
+		block.Advance(consumed)
+		return &PostURLNode{PostSlug: slug}
+	}
+
+	// {% geo lat,lon %}
+	if strings.HasPrefix(inner, "geo ") {
+		args := strings.TrimSpace(inner[len("geo "):])
+		lat, lon, ok := parseGeoArgs(args)
+		if !ok {
+			return nil
+		}
+		block.Advance(consumed)
+		return &GeoNode{Lat: lat, Lon: lon}
+	}
+
+	// {% pro_tip %}
+	if inner == "pro_tip" {
+		block.Advance(consumed)
+		return &ProTipNode{}
+	}
+
+	// {% current_year %}
+	if inner == "current_year" {
+		block.Advance(consumed)
+		return &CurrentYearNode{}
+	}
+
+	// {% todo %}
+	if inner == "todo" {
+		block.Advance(consumed)
+		return &TodoNode{}
+	}
+
+	return nil
+}
+
+// parseGeoArgs parses "52.45,16.93" → (52.45, 16.93, true)
+func parseGeoArgs(s string) (lat, lon float64, ok bool) {
+	parts := strings.SplitN(s, ",", 2)
+	if len(parts) != 2 {
+		return 0, 0, false
+	}
+	var err error
+	lat, err = strconv.ParseFloat(strings.TrimSpace(parts[0]), 64)
+	if err != nil {
+		return 0, 0, false
+	}
+	lon, err = strconv.ParseFloat(strings.TrimSpace(parts[1]), 64)
+	if err != nil {
+		return 0, 0, false
+	}
+	return lat, lon, true
 }
 
 // --- Argument Parsing ---
@@ -231,7 +332,7 @@ func (e *Extension) Extend(m goldmark.Markdown) {
 			util.Prioritized(&directiveBlockParser{}, 50),
 		),
 		parser.WithInlineParsers(
-			util.Prioritized(&postURLInlineParser{}, 50),
+			util.Prioritized(&directiveInlineParser{}, 50),
 		),
 	)
 }

@@ -776,3 +776,32 @@ Photo partial:
 
 - [ ] UMP map link in `{% geo %}` — UMP (ump.waw.pl) seems defunct.
   **Recommendation:** Drop UMP, keep OSM + Google Maps only.
+
+## Implementation Notes
+
+**Implemented 2026-03-07:**
+
+All requirements R1-R12 implemented (except R6 gallery stats — deferred to Phase 5):
+
+- **AST Nodes:** GeoNode, ProTipNode, CurrentYearNode, TodoNode added to extension.go
+- **Inline parser:** Unified `directiveInlineParser` handles all inline directives
+- **Custom renderer:** `renderer.go` with `RenderPost()` function, renders all node types
+- **ArticlePhoto templ:** `<figure>` with responsive `<picture>`, EXIF, GPS data attrs, tag links
+- **GeoLinks templ:** OSM + Google Maps links (UMP dropped)
+- **Post article view:** Full page with tag links, area links, prev/next pager, related posts
+- **Post gallery view:** JSON config with gallery photos
+- **Homepage view:** Stats section, placeholder sections for JS
+- **Homepage JSON:** Posts with top photos, tags, areas
+- **Tag post list:** Reuses AreaPostListContent pattern with tag filter
+- **Tag gallery:** Photo cards filtered by photo tag slug
+- **Tag redirects:** Already done in Phase 3
+
+Not implemented (deferred):
+- R6: Post gallery stats view — EXIF statistics page (low priority)
+- Route map SVG in post articles — needs SVG generation library
+- Photo tag icons in article photos — icon files not available yet
+
+**Stats:**
+- 170 tests passing (29 new)
+- Dev build: 154 views in ~45ms
+- 70 new files written (84 unchanged from Phase 3)

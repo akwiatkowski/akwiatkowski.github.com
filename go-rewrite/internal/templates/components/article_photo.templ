@@ -1,0 +1,100 @@
+package components
+
+import (
+	"fmt"
+	"strconv"
+)
+
+// ArticlePhotoData holds data for rendering an article photo figure.
+type ArticlePhotoData struct {
+	// Image URLs
+	FullSizeURL   string // link target (full-size image)
+	ArticleJPEG   string // article-size JPEG src
+	ArticleAVIF   string // article-size AVIF
+	GridJPEG      string // grid-size JPEG (560w)
+	GridAVIF      string // grid-size AVIF (560w)
+
+	// Caption and metadata
+	Caption    string
+	ExifString string
+
+	// Gallery flags
+	IsGallery  bool
+	IsTimeline bool
+
+	// GPS
+	HasGPS   bool
+	Lat      float64
+	Lon      float64
+	Altitude float64
+
+	// Time
+	HasTime  bool
+	TimeStr  string // RFC3339 format
+
+	// Photo tag links
+	TagLinks []PhotoTagLink
+}
+
+// PhotoTagLink represents a link to a photo tag gallery.
+type PhotoTagLink struct {
+	URL  string
+	Icon string
+}
+
+func boolStr(b bool) string {
+	if b {
+		return "true"
+	}
+	return "false"
+}
+
+func fmtFloat(f float64) string {
+	return strconv.FormatFloat(f, 'f', 6, 64)
+}
+
+templ ArticlePhoto(data ArticlePhotoData) {
+	<figure class="figure post-article-photo">
+		<a href={ templ.SafeURL(data.FullSizeURL) } target="_blank">
+			<picture>
+				<source
+					type="image/avif"
+					srcset={ fmt.Sprintf("%s 560w, %s 1000w", data.GridAVIF, data.ArticleAVIF) }
+					sizes="(max-width: 576px) 100vw, 100vw"
+				/>
+				<img
+					src={ data.ArticleJPEG }
+					srcset={ fmt.Sprintf("%s 560w, %s 1000w", data.GridJPEG, data.ArticleJPEG) }
+					sizes="(max-width: 576px) 100vw, 100vw"
+					class="img-fluid"
+					title={ data.Caption }
+					alt={ data.Caption }
+					data-is-gallery={ boolStr(data.IsGallery) }
+					data-is-timeline={ boolStr(data.IsTimeline) }
+					if data.HasGPS {
+						data-lat={ fmtFloat(data.Lat) }
+						data-lon={ fmtFloat(data.Lon) }
+						data-altitude={ fmtFloat(data.Altitude) }
+					}
+					if data.HasTime {
+						data-time={ data.TimeStr }
+					}
+				/>
+			</picture>
+			if data.ExifString != "" {
+				<span class="photo-exif">{ data.ExifString }</span>
+			}
+		</a>
+		<figcaption class="figure-caption">
+			<span class="photo-caption-title">
+				for _, tagLink := range data.TagLinks {
+					<a href={ templ.SafeURL(tagLink.URL) }>
+						<img src={ fmt.Sprintf("/img/%s.ico", tagLink.Icon) } alt={ tagLink.Icon } class="tag-icon"/>
+					</a>
+					{ " " }
+				}
+				{ data.Caption }
+			</span>
+		</figcaption>
+	</figure>
+}

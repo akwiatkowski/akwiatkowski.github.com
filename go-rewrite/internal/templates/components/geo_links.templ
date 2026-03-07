@@ -1,0 +1,15 @@
+package components
+
+import "fmt"
+
+templ GeoLinks(lat float64, lon float64) {
+	<span class="geo-links">
+		<a href={ templ.SafeURL(fmt.Sprintf("https://www.openstreetmap.org/?mlat=%f&mlon=%f#map=14/%f/%f", lat, lon, lat, lon)) } target="_blank">
+			<img src="/img/osm.ico" alt="openstreetmap" class="map-icon"/>
+		</a>
+		{ " " }
+		<a href={ templ.SafeURL(fmt.Sprintf("https://www.google.com/maps/place/%f,%f", lat, lon)) } target="_blank">
+			<img src="/img/google_maps.ico" alt="google maps" class="map-icon"/>
+		</a>
+	</span>
+}

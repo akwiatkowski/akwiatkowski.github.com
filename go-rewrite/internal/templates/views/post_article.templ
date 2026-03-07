@@ -1,0 +1,127 @@
+package views
+
+import (
+	"fmt"
+	"odkrywajac/internal/templates/components"
+)
+
+// PostArticleData holds all data needed to render a post article page.
+type PostArticleData struct {
+	// Rendered markdown HTML (with photo figures already embedded)
+	RenderedMarkdown string
+
+	// Links
+	TagLinks  []PostTagLink
+	AreaLinks []PostAreaGroup
+
+	// Navigation
+	PrevPost *PostPagerData
+	NextPost *PostPagerData
+
+	// Related posts
+	RelatedPosts []components.PostCardData
+
+	// Post metadata
+	GalleryURL    string
+	FinishedAtStr string // formatted finished_at date, or ""
+}
+
+// PostTagLink is a tag link shown at the top of the article.
+type PostTagLink struct {
+	URL  string
+	Name string
+}
+
+// PostAreaGroup groups area links by type (e.g., "Gminy:", "Województwa:").
+type PostAreaGroup struct {
+	Label string // e.g., "Gminy"
+	Areas []PostAreaLink
+}
+
+// PostAreaLink is a single area link.
+type PostAreaLink struct {
+	URL  string
+	Name string
+}
+
+// PostPagerData holds data for the prev/next post pager.
+type PostPagerData struct {
+	URL          string
+	Title        string
+	ThumbnailURL string // 150×112 JPEG
+}
+
+templ PostArticleContent(data PostArticleData) {
+	<article>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+					if len(data.TagLinks) > 0 {
+						<div class="post-tags">
+							for _, tag := range data.TagLinks {
+								<a href={ templ.SafeURL(tag.URL) } class="badge bg-secondary">{ tag.Name }</a>
+								{ " " }
+							}
+						</div>
+					}
+					if len(data.AreaLinks) > 0 {
+						<div class="post-areas">
+							for _, group := range data.AreaLinks {
+								<span class="area-group">
+									<strong>{ group.Label }:</strong>
+									{ " " }
+									for i, area := range group.Areas {
+										if i > 0 {
+											{ ", " }
+										}
+										<a href={ templ.SafeURL(area.URL) }>{ area.Name }</a>
+									}
+								</span>
+								{ " " }
+							}
+						</div>
+					}
+					<div class="post-content">
+						@templ.Raw(data.RenderedMarkdown)
+					</div>
+					if len(data.RelatedPosts) > 0 {
+						<div class="related-posts">
+							<h3>Powiązane wpisy</h3>
+							<div class="row">
+								for _, rp := range data.RelatedPosts {
+									<div class="col-md-4 col-6">
+										@components.PostCard(rp)
+									</div>
+								}
+							</div>
+						</div>
+					}
+					if data.FinishedAtStr != "" {
+						<p class="text-muted finished-at">
+							{ fmt.Sprintf("Wpis ukończony: %s", data.FinishedAtStr) }
+						</p>
+					}
+					<hr/>
+					<div class="post-pager">
+						if data.PrevPost != nil {
+							<a href={ templ.SafeURL(data.PrevPost.URL) } class="pager-prev">
+								if data.PrevPost.ThumbnailURL != "" {
+									<img src={ data.PrevPost.ThumbnailURL } alt={ data.PrevPost.Title } class="pager-thumb"/>
+								}
+								<span class="pager-label">← { data.PrevPost.Title }</span>
+							</a>
+						}
+						if data.NextPost != nil {
+							<a href={ templ.SafeURL(data.NextPost.URL) } class="pager-next">
+								<span class="pager-label">{ data.NextPost.Title } →</span>
+								if data.NextPost.ThumbnailURL != "" {
+									<img src={ data.NextPost.ThumbnailURL } alt={ data.NextPost.Title } class="pager-thumb"/>
+								}
+							</a>
+						}
+					</div>
+				</div>
+			</div>
+		</div>
+	</article>
+}
