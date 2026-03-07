@@ -5,7 +5,10 @@ import (
 	"fmt"
 	"os"
 	"runtime"
+	"time"
 
+	"odkrywajac/internal/index"
+	"odkrywajac/internal/loader"
 	"odkrywajac/internal/pipeline"
 )
 
@@ -63,7 +66,73 @@ func runBuild(ctx *pipeline.Context) {
 	if ctx.DryRun {
 		fmt.Println("Dry run — no changes will be made")
 	}
-	fmt.Println("Build: no nodes registered yet")
+
+	start := time.Now()
+
+	// 1. Load all configs in parallel
+	t0 := time.Now()
+	cfg, tags, photoTags, routeColors, stations, pois, err := loader.LoadAllConfigs(ctx.ConfigDir())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading configs: %v\n", err)
+		os.Exit(1)
+	}
+	if ctx.Verbose {
+		fmt.Printf("  Configs loaded in %v\n", time.Since(t0))
+	}
+
+	// 2. Load areas
+	t0 = time.Now()
+	areas, err := loader.LoadAreas(ctx.ConfigDir())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading areas: %v\n", err)
+		os.Exit(1)
+	}
+	if ctx.Verbose {
+		fmt.Printf("  Areas loaded in %v\n", time.Since(t0))
+	}
+
+	// 3. Load posts with routes
+	t0 = time.Now()
+	posts, err := loader.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
+		os.Exit(1)
+	}
+	if ctx.Verbose {
+		fmt.Printf("  Posts loaded in %v\n", time.Since(t0))
+	}
+
+	// 4. Build SiteData with indexes
+	t0 = time.Now()
+	sd := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
+	if ctx.Verbose {
+		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
+	}
+
+	// Count nav tags
+	navTagCount := 0
+	for _, t := range tags {
+		if t.IsNav {
+			navTagCount++
+		}
+	}
+
+	// Count GPS photos
+	gpsCount := 0
+	totalPhotos := 0
+	for _, post := range posts {
+		totalPhotos += len(post.Photos)
+	}
+
+	fmt.Printf("Posts: %d loaded\n", len(posts))
+	fmt.Printf("Tags: %d loaded (%d is_nav)\n", len(tags), navTagCount)
+	fmt.Printf("Photo Tags: %d loaded\n", len(photoTags))
+	fmt.Printf("Areas: %d loaded\n", len(areas))
+	fmt.Printf("NavStats: bicycle=%dkm, hike=%dkm\n", sd.NavStats.BicycleDistance, sd.NavStats.HikeDistance)
+	_ = gpsCount
+	_ = totalPhotos
+
+	fmt.Printf("\nTotal: %v\n", time.Since(start))
 }
 
 func runPipeline(ctx *pipeline.Context) {
