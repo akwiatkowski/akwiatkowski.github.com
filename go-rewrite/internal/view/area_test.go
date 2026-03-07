@@ -151,12 +151,13 @@ func TestGenerateAllViews(t *testing.T) {
 	data := testSiteData()
 	r := router.New("https://odkrywajacpolske.pl")
 
-	all := GenerateAllViews(data, r, nil, "")
+	all := GenerateAllViews(data, r, nil, "", "")
 
-	// 1 area with posts → 3 pages (show, post list, gallery)
-	// + 1 JSON endpoint (e2e.json)
-	// + 2 tag redirects (bicycle, hike)
-	expectedMin := 6
+	// 1 homepage + 2 posts (article+gallery) + 3 area pages
+	// + 2 tag post lists + 2 tag redirects + 8 JSON endpoints
+	// + 3 feeds (rss, atom, robots) + 1 sitemap
+	// + 6 shell pages + 3 static pages + 1 towns index + 1 portfolio
+	expectedMin := 33
 	if len(all) < expectedMin {
 		t.Errorf("expected at least %d views, got %d", expectedMin, len(all))
 	}
@@ -168,5 +169,42 @@ func TestGenerateAllViews(t *testing.T) {
 			t.Errorf("duplicate URL: %s", v.URL())
 		}
 		urls[v.URL()] = true
+	}
+
+	// Verify key URLs are present
+	expectedURLs := []string{
+		"/index.html",                      // homepage
+		"/2021/07/18-pagorki.html",         // post article
+		"/2021/07/pagorki/galeria.html",    // post gallery
+		"/gmina/pobiedziska.html",          // area show
+		"/wpisy-dla/tagu/rowerem.html",     // tag post list
+		"/jsons/homepage.json",             // homepage JSON
+		"/jsons/e2e.json",                  // e2e JSON
+		"/jsons/map.json",                  // map JSON
+		"/jsons/photos.json",               // photos JSON
+		"/jsons/photos_map.json",           // photos map JSON
+		"/jsons/train_stations.json",       // train stations JSON
+		"/jsons/photo_grid.json",           // photo grid JSON
+		"/jsons/ideas.json",                // ideas JSON
+		"/feed.rss",                        // RSS feed
+		"/feed.atom",                       // Atom feed
+		"/sitemap.xml",                     // sitemap
+		"/robots.txt",                      // robots
+		"/mapa_tras.html",                  // route map
+		"/mapa_zdjec.html",                 // photo map
+		"/linia_czasu.html",                // timeline
+		"/statystyki_exif.html",            // exif stats
+		"/pomysly_dla_zdjec.html",          // photo planner
+		"/pomysly_tras.html",               // trip ideas
+		"/o-mnie.html",                     // about
+		"/en/index.html",                   // english
+		"/wiecej.html",                     // more
+		"/gminy.html",                      // towns index
+		"/portfolio.html",                  // portfolio
+	}
+	for _, url := range expectedURLs {
+		if !urls[url] {
+			t.Errorf("missing URL: %s", url)
+		}
 	}
 }

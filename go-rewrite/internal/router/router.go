@@ -145,9 +145,14 @@ func (r *Router) HomeURL() string           { return "/" }
 func (r *Router) MapURL() string            { return "/mapa_tras.html" }
 func (r *Router) PhotoMapURL() string       { return "/mapa_zdjec.html" }
 func (r *Router) AboutURL() string          { return "/o-mnie.html" }
+func (r *Router) EnglishURL() string        { return "/en/index.html" }
 func (r *Router) MoreURL() string           { return "/wiecej.html" }
 func (r *Router) GalleryURL() string        { return "/galeria.html" }
 func (r *Router) PortfolioURL() string      { return "/portfolio.html" }
+func (r *Router) TimelineURL() string       { return "/linia_czasu.html" }
+func (r *Router) ExifStatsURL() string      { return "/statystyki_exif.html" }
+func (r *Router) PhotoPlannerURL() string   { return "/pomysly_dla_zdjec.html" }
+func (r *Router) TripIdeasURL() string      { return "/pomysly_tras.html" }
 
 // YearReportURL returns the year report URL: /rok-<year>.html
 func (r *Router) YearReportURL(year int) string {
@@ -174,6 +179,8 @@ func (r *Router) MapJSON() string           { return "/jsons/map.json" }
 func (r *Router) PhotosMapJSON() string     { return "/jsons/photos_map.json" }
 func (r *Router) PhotoGridJSON() string     { return "/jsons/photo_grid.json" }
 func (r *Router) TrainStationsJSON() string { return "/jsons/train_stations.json" }
+func (r *Router) IdeasJSON() string         { return "/jsons/ideas.json" }
+func (r *Router) PhotosJSON() string        { return "/jsons/photos.json" }
 
 // ============================================
 // Index Page URLs

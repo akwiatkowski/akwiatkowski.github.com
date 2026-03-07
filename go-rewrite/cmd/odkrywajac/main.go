@@ -109,13 +109,13 @@ func runBuild(ctx *pipeline.Context) {
 
 	// 4. Build SiteData with indexes
 	t0 = time.Now()
-	sd := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
+	siteData := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
 	if ctx.Verbose {
 		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
 	}
 
 	// 5. Create Router and BundleResolver
-	r := router.New(cfg.URL)
+	siteRouter := router.New(cfg.URL)
 	bundleConfigPath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
 	resolver, err := bundle.NewResolver(bundleConfigPath)
 	if err != nil {
@@ -125,10 +125,11 @@ func runBuild(ctx *pipeline.Context) {
 
 	// Polygon directory for area show pages
 	polygonDir := filepath.Join(ctx.BasePath, "data", "config", "polygons")
+	pagesDir := ctx.PagesDir()
 
 	// 6. Generate all views
 	t0 = time.Now()
-	views := view.GenerateAllViews(sd, r, resolver, polygonDir)
+	views := view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, pagesDir)
 	if ctx.Verbose {
 		fmt.Printf("  Views generated in %v\n", time.Since(t0))
 	}

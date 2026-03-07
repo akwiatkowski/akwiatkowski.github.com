@@ -1,21 +1,34 @@
 # Current Work
 
-## Status: All major phases complete
+## Status: Crystal site complete, Go rewrite in progress
 
 **Related docs:**
 - `VIEWS.md` - Registry documentation (7 tasks + 42 views = 49 entries)
 - `CLAUDE.md` - Project structure reference
 - `PLAN_DONE.md` - Completed phases archive
 - `PLAN_FUTURE.md` - Future ideas backlog
+- `go-rewrite/phases/` - Go rewrite phase docs
+
+---
+
+## Go Rewrite Progress
+
+| Phase | Description | Status |
+|-------|-------------|--------|
+| 1 | Pipeline framework | Complete |
+| 2 | Data loading & structs | Complete |
+| 3 | View rendering & template system | Complete |
+| 4 | Post rendering, homepage & tag views | Complete |
+| 5 | Feeds, JSON endpoints, shell pages & static content | Complete |
+| 6 | Complex views (year reports, photo galleries, SVGs, POIs, debug) | Planned |
+
+**Current stats:** 175 views rendered in ~45ms (Go), 43 view tests
 
 ---
 
 ## Backlog
 
 ### Future Ideas
-
-**More Page (`/wiecej.html`) — Consider adding:**
-- RSS/Atom feeds (`/feed.xml`, `/feed_atom.xml`)
 
 **Remaining late-bound properties:**
 Most remaining `.not_nil!` sites use safe fallbacks or guard clauses — see `PLAN_FUTURE.md` for details.
@@ -24,7 +37,7 @@ Most remaining `.not_nil!` sites use safe fallbacks or guard clauses — see `PL
 
 ## Test Status
 
-**602 Crystal tests passing, 232 E2E tests passing (16 spec files)**
+**623 Crystal tests passing, 232 E2E tests passing (16 spec files)**
 
 ### E2E Tests (Playwright)
 
@@ -56,6 +69,15 @@ make test-e2e-headed   # Run with visible browser
 ---
 
 ## Recently Completed
+
+### Phase 38: Fix Missing Titles + Add View Tests (2026-02-15)
+
+- Added Polish titles to 5 JS-heavy pages: PhotoMapView, TripIdeasView, JsTimelineView, JsExifView, PhotoPlannerView
+- Fixes empty `<title>` validator errors on mapa_zdjec, pomysly_tras, linia_czasu, statystyki_exif, pomysly_dla_zdjec
+- New `feed_views_spec.cr`: 9 substantive tests for RSS/Atom generators (XML structure, post items, todo exclusion, default URLs)
+- Expanded `static_view_spec.cr`: URL constant tests for all 6 static views
+- Expanded `special_view_spec.cr`: 6 new existence checks (HomePageJsonGenerator, MapJsonGenerator, PhotoGridJsonGenerator, PhotosMapJsonGenerator, TemporaryRedirectView, RouteColorsJsGenerator)
+- MockPost: added `updated_at` property and `guuid` method for feed test support
 
 ### Phase 37: AVIF for background-image Contexts (2026-02-15)
 

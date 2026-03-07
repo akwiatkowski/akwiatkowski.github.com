@@ -75,6 +75,11 @@ func (c *Context) ExternalDir() string {
 	return filepath.Join(c.BasePath, "data", "external")
 }
 
+// PagesDir returns the path to static page markdown files.
+func (c *Context) PagesDir() string {
+	return filepath.Join(c.BasePath, "data", "pages")
+}
+
 // GeneratedCacheDir returns the path to the generated cache directory.
 func (c *Context) GeneratedCacheDir() string {
 	return filepath.Join(c.BasePath, "go-rewrite", "cache")

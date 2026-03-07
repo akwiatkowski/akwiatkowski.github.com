@@ -1,0 +1,26 @@
+package views
+
+templ StaticAboutContent(renderedHTML string) {
+	<header class="intro-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+					<div class="post-heading">
+						<h1>O mnie</h1>
+						<h2 class="subheading">I o tej stronie</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<article>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+					@templ.Raw(renderedHTML)
+				</div>
+			</div>
+		</div>
+	</article>
+	<hr/>
+}

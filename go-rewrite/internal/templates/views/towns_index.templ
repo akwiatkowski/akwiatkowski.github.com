@@ -1,0 +1,8 @@
+package views
+
+// TownsIndexContent renders the towns index page.
+// rawScriptHTML must be a complete <script> tag with JSON data.
+templ TownsIndexContent(rawScriptHTML string) {
+	@templ.Raw(rawScriptHTML)
+	<div id="root"></div>
+}

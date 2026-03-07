@@ -1,0 +1,29 @@
+package views
+
+type MoreLink struct {
+	URL  string
+	Name string
+	Desc string
+}
+
+templ StaticMoreContent(links []MoreLink) {
+	<section class="section" style="padding-top: 40px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+					<h1>Więcej</h1>
+					<div class="list-group mt-4">
+						for _, link := range links {
+							<a href={ templ.SafeURL(link.URL) } class="list-group-item list-group-item-action">
+								<div class="d-flex w-100 justify-content-between">
+									<h5 class="mb-1">{ link.Name }</h5>
+								</div>
+								<p class="mb-1 text-muted">{ link.Desc }</p>
+							</a>
+						}
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+}
