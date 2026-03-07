@@ -118,6 +118,58 @@ func GenerateAllViews(
 		PortfolioPage(data, r, resolver),
 	)
 
+	// Year reports
+	for year := range data.PostsByYear {
+		all = append(all, YearReportPage(data, year, r, resolver))
+	}
+
+	// Stats pages
+	all = append(all,
+		BurnoutPage(data, r, resolver),
+		TownsHistoryPage(data, r, resolver),
+		TownsTimelinePage(data, r, resolver),
+	)
+
+	// Gallery index + EXIF-based galleries
+	all = append(all, GalleryIndexPage(data, r, resolver))
+	allPhotos := allPublishedPhotos(data)
+	for _, lens := range collectUniqueLenses(data) {
+		all = append(all, LensGalleryPage(data, r, resolver, lens))
+	}
+	for _, camera := range collectUniqueCameras(data) {
+		all = append(all, CameraGalleryPage(data, r, resolver, camera))
+	}
+	for _, rng := range FocalLengthRanges() {
+		photos := photosInFocalRange(allPhotos, rng[0], rng[1])
+		if len(photos) > 0 {
+			all = append(all, FocalLengthGalleryPage(data, r, resolver, rng[0], rng[1]))
+		}
+	}
+	for _, rng := range ISODoubleRanges() {
+		photos := photosInISORange(allPhotos, int(rng[0]), int(rng[1]))
+		if len(photos) > 0 {
+			all = append(all, ISOGalleryPage(data, r, resolver, int(rng[0]), int(rng[1])))
+		}
+	}
+	for _, rng := range ExposureRanges() {
+		photos := photosInExposureRange(allPhotos, rng.From, rng.To)
+		if len(photos) > 0 {
+			all = append(all, ExposureGalleryPage(data, r, resolver, rng.From, rng.To, rng.Label))
+		}
+	}
+
+	// SVG photo maps
+	all = append(all, GlobalMapSVGs(data)...)
+	all = append(all, VoivodeshipMapSVGs(data)...)
+	all = append(all, PostMapSVGs(data, r)...)
+	all = append(all, TagMapSVGs(data)...)
+
+	// POIs page
+	all = append(all, POIsPage(data, r, resolver))
+
+	// Debug views
+	all = append(all, TagStatsPage(data, r, resolver))
+
 	// Sitemap must be generated last since it references all other sitemappable views
 	all = append(all, Sitemap(all, r))
 

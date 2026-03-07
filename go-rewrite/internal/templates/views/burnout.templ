@@ -1,0 +1,108 @@
+package views
+
+import "fmt"
+
+templ BurnoutContent(bd BurnoutData) {
+	<section class="section" style="padding-top: 40px;">
+		<div class="container-fluid">
+			<h1>Burnout — aktywność miesięczna</h1>
+			<div class="table-responsive">
+				<table class="table table-sm table-bordered burnout-table">
+					<thead>
+						<tr>
+							<th rowspan="2">Miesiąc</th>
+							<th colspan="4">Dystans (km)</th>
+							<th colspan="4">Czas (h)</th>
+						</tr>
+						<tr>
+							<th>Poprz.</th>
+							<th>Śr.</th>
+							<th>Akt.</th>
+							<th>Zmiana</th>
+							<th>Poprz.</th>
+							<th>Śr.</th>
+							<th>Akt.</th>
+							<th>Zmiana</th>
+						</tr>
+					</thead>
+					<tbody>
+						for _, bm := range bd.Months {
+							<tr>
+								<td>{ bm.Date.Format("2006-01") }</td>
+								<td>
+									if bm.DistanceLastYear != nil {
+										{ fmt.Sprintf("%d", *bm.DistanceLastYear) }
+									}
+								</td>
+								<td>
+									if bm.DistanceAvg != nil {
+										{ fmt.Sprintf("%d", *bm.DistanceAvg) }
+									}
+								</td>
+								<td style={ burnoutCellStyle(bm.Distance, bd.MaxDistance) }>
+									{ fmt.Sprintf("%d", bm.Distance) }
+								</td>
+								<td style={ burnoutChangeStyle(bm.DistanceChangePercent) }>
+									if bm.DistanceChangePercent != nil {
+										{ fmt.Sprintf("%+d%%", *bm.DistanceChangePercent) }
+									}
+								</td>
+								<td>
+									if bm.TimeSpentLastYear != nil {
+										{ fmt.Sprintf("%d", *bm.TimeSpentLastYear) }
+									}
+								</td>
+								<td>
+									if bm.TimeSpentAvg != nil {
+										{ fmt.Sprintf("%d", *bm.TimeSpentAvg) }
+									}
+								</td>
+								<td style={ burnoutCellStyle(bm.TimeSpent, bd.MaxTime) }>
+									{ fmt.Sprintf("%d", bm.TimeSpent) }
+								</td>
+								<td style={ burnoutChangeStyle(bm.TimeSpentChangePercent) }>
+									if bm.TimeSpentChangePercent != nil {
+										{ fmt.Sprintf("%+d%%", *bm.TimeSpentChangePercent) }
+									}
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</section>
+}
+
+func burnoutCellStyle(value, maxValue int) string {
+	if maxValue == 0 || value == 0 {
+		return ""
+	}
+	opacity := float64(value) / float64(maxValue) * 0.6
+	return fmt.Sprintf("background-color: rgba(70,255,70,%.2f)", opacity)
+}
+
+func burnoutChangeStyle(pct *int) string {
+	if pct == nil {
+		return ""
+	}
+	v := *pct
+	if v > 0 {
+		opacity := clampFloat(float64(v)/200.0, 0, 0.6)
+		return fmt.Sprintf("background-color: rgba(70,255,70,%.2f)", opacity)
+	} else if v < 0 {
+		opacity := clampFloat(float64(-v)/200.0, 0, 0.6)
+		return fmt.Sprintf("background-color: rgba(255,0,0,%.2f)", opacity)
+	}
+	return ""
+}
+
+func clampFloat(v, lo, hi float64) float64 {
+	if v < lo {
+		return lo
+	}
+	if v > hi {
+		return hi
+	}
+	return v
+}

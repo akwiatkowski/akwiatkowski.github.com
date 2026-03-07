@@ -149,6 +149,11 @@ func (r *Router) EnglishURL() string        { return "/en/index.html" }
 func (r *Router) MoreURL() string           { return "/wiecej.html" }
 func (r *Router) GalleryURL() string        { return "/galeria.html" }
 func (r *Router) PortfolioURL() string      { return "/portfolio.html" }
+func (r *Router) BurnoutURL() string        { return "/debug/burnout.html" }
+func (r *Router) TownsHistoryURL() string   { return "/gminy/historia.html" }
+func (r *Router) TownsTimelineURL() string  { return "/gminy/chronologicznie.html" }
+func (r *Router) GalleryIndexURL() string   { return "/galeria.html" }
+func (r *Router) POIsURL() string           { return "/pois.html" }
 func (r *Router) TimelineURL() string       { return "/linia_czasu.html" }
 func (r *Router) ExifStatsURL() string      { return "/statystyki_exif.html" }
 func (r *Router) PhotoPlannerURL() string   { return "/pomysly_dla_zdjec.html" }

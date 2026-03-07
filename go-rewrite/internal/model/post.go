@@ -66,6 +66,51 @@ func BuildPostURL(date time.Time, slug string) string {
 	return fmt.Sprintf("/%d/%02d/%02d-%s.html", date.Year(), date.Month(), date.Day(), slug)
 }
 
+// PhotoByFilename finds a loaded Photo entity by its filename.
+func (p *Post) PhotoByFilename(filename string) *Photo {
+	for _, photo := range p.PhotoEntities {
+		if photo.ImageFilename == filename {
+			return photo
+		}
+	}
+	return nil
+}
+
+// HasTag returns true if the post has the given tag slug.
+func (p *Post) HasTag(slug string) bool {
+	for _, s := range p.TagSlugs {
+		if s == slug {
+			return true
+		}
+	}
+	return false
+}
+
+// IsBicycle returns true if post is tagged "bicycle".
+func (p *Post) IsBicycle() bool { return p.HasTag("bicycle") }
+
+// IsHike returns true if post is tagged "hike".
+func (p *Post) IsHike() bool { return p.HasTag("hike") }
+
+// IsWalk returns true if post is tagged "walk".
+func (p *Post) IsWalk() bool { return p.HasTag("walk") }
+
+// IsTrain returns true if post is tagged "train".
+func (p *Post) IsTrain() bool { return p.HasTag("train") }
+
+// IsSelfPropelled returns true if post is bicycle, hike, or walk.
+func (p *Post) IsSelfPropelled() bool {
+	return p.IsBicycle() || p.IsHike() || p.IsWalk()
+}
+
+// HasRoutes returns true if the post has non-empty route data.
+func (p *Post) HasRoutes() bool {
+	return len(p.Routes) > 0 && len(p.Routes[0].Segments) > 0
+}
+
+// IsPhotoOfTheYear returns true if tagged "photo_of_the_year".
+func (p *Post) IsPhotoOfTheYear() bool { return p.HasTag("photo_of_the_year") }
+
 // PhotoRef represents a photo reference parsed from markdown.
 type PhotoRef struct {
 	Filename string
