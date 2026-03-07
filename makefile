@@ -22,7 +22,8 @@ COMPILE_LOCAL_RELEASE_FLAG := --release
         compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac \
         dev-purge-html-local dev-purge-html-release purge-html-local purge-html-release \
         dev-purge-empty-local dev-purge-empty-release purge-empty-local purge-empty-release \
-        test-e2e test-e2e-headed test-e2e-smoke transpile-jsx setup-photo-analysis
+        test-e2e test-e2e-headed test-e2e-smoke transpile-jsx setup-photo-analysis \
+        go-init go-test go-build
 
 # Assets
 watch_coffee:
@@ -120,6 +121,16 @@ test-e2e-headed:
 
 test-e2e-smoke:
 	cd tests/e2e && npx playwright test specs/smoke.spec.js
+
+# Go rewrite targets
+go-init:
+	cd go-rewrite && mise exec -- go mod tidy
+
+go-test:
+	cd go-rewrite && mise exec -- go test ./...
+
+go-build:
+	cd go-rewrite && mise exec -- go build -o bin/odkrywajac ./cmd/odkrywajac
 
 # Photo analysis setup (Python + imagehash)
 setup-photo-analysis:
