@@ -1,0 +1,57 @@
+package layout
+
+templ Head(p PageData) {
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>{ p.FullTitle() }</title>
+		if p.CanonicalURL != "" {
+			<link rel="canonical" href={ templ.SafeURL(p.CanonicalURL) }/>
+		}
+		if p.Desc != "" {
+			<meta name="description" content={ p.Desc }/>
+		}
+		@HeadOG(p)
+		@HeadAssets(p)
+	</head>
+}
+
+templ HeadOG(p PageData) {
+	<meta property="og:type" content="website"/>
+	if p.Title != "" {
+		<meta property="og:title" content={ p.Title }/>
+	}
+	if p.Desc != "" {
+		<meta property="og:description" content={ p.Desc }/>
+	}
+	if p.ImageURL != "" {
+		<meta property="og:image" content={ p.ImageURL }/>
+	}
+	if p.CanonicalURL != "" {
+		<meta property="og:url" content={ p.CanonicalURL }/>
+	}
+	if p.SiteName != "" {
+		<meta property="og:site_name" content={ p.SiteName }/>
+	}
+	<meta name="twitter:card" content="summary_large_image"/>
+}
+
+templ HeadAssets(p PageData) {
+	for _, css := range p.CSSFiles {
+		if css.Integrity != "" {
+			<link rel="stylesheet" href={ css.Path } integrity={ css.Integrity } crossorigin="anonymous"/>
+		} else {
+			<link rel="stylesheet" href={ css.Path }/>
+		}
+	}
+	for _, js := range p.JSFiles {
+		if js.Integrity != "" {
+			<script src={ js.Path } integrity={ js.Integrity } crossorigin="anonymous"></script>
+		} else {
+			<script src={ js.Path }></script>
+		}
+	}
+	if p.PageJS != "" {
+		<script src={ p.PageJS }></script>
+	}
+}

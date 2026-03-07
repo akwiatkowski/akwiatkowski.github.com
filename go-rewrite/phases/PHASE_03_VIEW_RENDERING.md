@@ -838,13 +838,31 @@ Validation:   0 errors across 127 pages
 - FTP sync (future — manifest enables it)
 - GPX rectifier tool (future phase)
 
-## Open Questions
+## Open Questions (Resolved)
 
-- [ ] Should views receive `*SiteData` directly or through an interface?
-  **Recommendation:** Direct `*SiteData` pointer. Interface adds indirection
-  without benefit. For testing, construct a small SiteData with test fixtures.
+- [x] Should views receive `*SiteData` directly or through an interface?
+  **Decision:** Direct `*SiteData` pointer. Views also receive `*Router` and
+  `*bundle.Resolver` separately.
 
-- [ ] HTML pretty-printing: always on or only in dev?
-  **Recommendation:** Always on. The file size increase is negligible (~5-10%)
-  and formatted HTML is invaluable for debugging and `diff` comparisons.
-  Can be disabled with a `--minify` flag later if needed.
+- [x] HTML pretty-printing: always on or only in dev?
+  **Decision:** Always on. Applied to all .html files.
+
+## Implementation Notes
+
+**Completed 2026-03-07.**
+
+Key decisions during implementation:
+- `PhotoEntity` renamed to `Photo` (10 references updated)
+- `Sluggable` interface added on Tag, PhotoTag, Area, Post
+- templ `<script>` tags treat content as literal text — JSON injection uses
+  `templ.Raw()` with pre-built `<script>` tag HTML strings
+- Pretty printer writes `<script>` child text nodes directly (not via
+  `html.Render`) to avoid HTML-escaping JSON content
+- Writer uses `os.MkdirAll` unconditionally (idempotent, no caching needed)
+- No priority groups — flat parallel rendering in single worker pool
+
+Stats:
+- 141 total tests (87 from Phase 1-2, 54 new in Phase 3)
+- 83 views generated (dev env): 82 HTML + 1 JSON
+- Build time: ~42ms (14 workers)
+- Second run: 0 written, 83 skipped (SHA256 change detection)

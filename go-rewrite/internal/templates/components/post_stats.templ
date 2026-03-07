@@ -1,0 +1,24 @@
+package components
+
+import "fmt"
+
+// PostStatsData holds activity stats for a post.
+type PostStatsData struct {
+	Distance    float64
+	TimeSpent   float64
+	Elevation   int
+}
+
+templ PostStats(stats PostStatsData) {
+	<div class="post-stats">
+		if stats.Distance > 0 {
+			<span class="stat stat-distance">{ fmt.Sprintf("%.0fkm", stats.Distance) }</span>
+		}
+		if stats.Elevation > 0 {
+			<span class="stat stat-elevation">{ fmt.Sprintf("%dm", stats.Elevation) }</span>
+		}
+		if stats.TimeSpent > 0 {
+			<span class="stat stat-time">{ fmt.Sprintf("%.0fh", stats.TimeSpent) }</span>
+		}
+	</div>
+}

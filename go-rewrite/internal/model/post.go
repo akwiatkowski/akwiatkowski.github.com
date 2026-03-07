@@ -45,7 +45,7 @@ type Post struct {
 
 	// Loaded separately
 	Routes        []Route
-	PhotoEntities []*PhotoEntity
+	PhotoEntities []*Photo
 }
 
 // IsFinished returns true if the post has a finished_at date in the past.

@@ -1,0 +1,40 @@
+package components
+
+import "fmt"
+
+// PhotoCardData holds the data needed to render a photo card.
+// Using a data struct instead of *model.Photo to keep templates decoupled from models.
+type PhotoCardData struct {
+	JPEGSrc  string
+	AVIFSrc  string
+	Alt      string
+	Width    string
+	Height   string
+}
+
+templ PhotoCard(photo PhotoCardData) {
+	<picture class="photo-card">
+		if photo.AVIFSrc != "" {
+			<source srcset={ photo.AVIFSrc } type="image/avif"/>
+		}
+		<img
+			src={ photo.JPEGSrc }
+			alt={ photo.Alt }
+			if photo.Width != "" {
+				width={ photo.Width }
+			}
+			if photo.Height != "" {
+				height={ photo.Height }
+			}
+			loading="lazy"
+		/>
+	</picture>
+}
+
+templ PhotoGrid(photos []PhotoCardData, cols int) {
+	<div class={ fmt.Sprintf("photo-grid cols-%d", cols) }>
+		for _, photo := range photos {
+			@PhotoCard(photo)
+		}
+	</div>
+}

@@ -4,12 +4,17 @@ import (
 	"flag"
 	"fmt"
 	"os"
+	"path/filepath"
 	"runtime"
 	"time"
 
+	"odkrywajac/internal/bundle"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/loader"
 	"odkrywajac/internal/pipeline"
+	"odkrywajac/internal/render"
+	"odkrywajac/internal/router"
+	"odkrywajac/internal/view"
 )
 
 func main() {
@@ -109,28 +114,62 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
 	}
 
-	// Count nav tags
-	navTagCount := 0
-	for _, t := range tags {
-		if t.IsNav {
-			navTagCount++
+	// 5. Create Router and BundleResolver
+	r := router.New(cfg.URL)
+	bundleConfigPath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
+	resolver, err := bundle.NewResolver(bundleConfigPath)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading asset bundles: %v\n", err)
+		os.Exit(1)
+	}
+
+	// Polygon directory for area show pages
+	polygonDir := filepath.Join(ctx.BasePath, "data", "config", "polygons")
+
+	// 6. Generate all views
+	t0 = time.Now()
+	views := view.GenerateAllViews(sd, r, resolver, polygonDir)
+	if ctx.Verbose {
+		fmt.Printf("  Views generated in %v\n", time.Since(t0))
+	}
+	fmt.Printf("Views generated: %d\n", len(views))
+
+	if ctx.DryRun {
+		fmt.Printf("\nTotal: %v (dry run)\n", time.Since(start))
+		return
+	}
+
+	// 7. Load or create build manifest
+	manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
+	manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
+
+	// 8. Render all views in parallel
+	outputDir := ctx.OutputDir()
+	result := render.Render(views, outputDir, manifest, ctx.Workers)
+
+	// 9. Save manifest
+	if err := manifest.Save(manifestPath); err != nil {
+		fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
+	}
+
+	// 10. Print summary
+	fmt.Printf("Rendered: %d (%d workers, %v)\n", result.TotalViews, ctx.Workers, result.Duration)
+	fmt.Printf("Written: %d files to %s\n", result.Written, outputDir)
+	fmt.Printf("Skipped: %d (unchanged)\n", result.Skipped)
+	fmt.Printf("Manifest: %d entries saved\n", manifest.Len())
+
+	if len(result.Errors) > 0 {
+		fmt.Fprintf(os.Stderr, "\nErrors (%d):\n", len(result.Errors))
+		for _, err := range result.Errors {
+			fmt.Fprintf(os.Stderr, "  %v\n", err)
 		}
 	}
-
-	// Count GPS photos
-	gpsCount := 0
-	totalPhotos := 0
-	for _, post := range posts {
-		totalPhotos += len(post.Photos)
+	if len(result.ValErrors) > 0 {
+		fmt.Fprintf(os.Stderr, "\nValidation warnings (%d):\n", len(result.ValErrors))
+		for _, e := range result.ValErrors {
+			fmt.Fprintf(os.Stderr, "  %s\n", e)
+		}
 	}
-
-	fmt.Printf("Posts: %d loaded\n", len(posts))
-	fmt.Printf("Tags: %d loaded (%d is_nav)\n", len(tags), navTagCount)
-	fmt.Printf("Photo Tags: %d loaded\n", len(photoTags))
-	fmt.Printf("Areas: %d loaded\n", len(areas))
-	fmt.Printf("NavStats: bicycle=%dkm, hike=%dkm\n", sd.NavStats.BicycleDistance, sd.NavStats.HikeDistance)
-	_ = gpsCount
-	_ = totalPhotos
 
 	fmt.Printf("\nTotal: %v\n", time.Since(start))
 }

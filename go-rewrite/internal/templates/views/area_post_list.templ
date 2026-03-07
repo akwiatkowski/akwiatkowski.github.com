@@ -1,0 +1,10 @@
+package views
+
+templ AreaPostListContent(rawConfigScriptHTML string) {
+	<div class="post-collection-container">
+		<div id="posts-container">
+			<div class="loading-state">Wczytywanie wpisów</div>
+		</div>
+	</div>
+	@templ.Raw(rawConfigScriptHTML)
+}

@@ -1,0 +1,13 @@
+package layout
+
+templ Page(p PageData) {
+	<!DOCTYPE html>
+	<html lang="pl">
+		@Head(p)
+		<body>
+			@Nav(p.NavStats)
+			{ children... }
+			@Footer()
+		</body>
+	</html>
+}

@@ -2,8 +2,8 @@ package model
 
 import "time"
 
-// PhotoEntity represents a single photo with its metadata and EXIF data.
-type PhotoEntity struct {
+// Photo represents a single photo with its metadata and EXIF data.
+type Photo struct {
 	ImageFilename string
 	PostSlug      string
 	Desc          string
@@ -15,7 +15,7 @@ type PhotoEntity struct {
 }
 
 // HasGPS returns true if this photo has GPS coordinates.
-func (p *PhotoEntity) HasGPS() bool {
+func (p *Photo) HasGPS() bool {
 	return p.Exif != nil && p.Exif.Lat != nil && p.Exif.Lon != nil
 }
 
