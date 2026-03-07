@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"strings"
 	"sync"
+	"sync/atomic"
 	"time"
 
 	"odkrywajac/internal/view"
@@ -13,12 +14,13 @@ import (
 
 // Result holds the outcome of a render operation.
 type Result struct {
-	TotalViews int
-	Written    int64
-	Skipped    int64
-	Errors     []error
-	Duration   time.Duration
-	ValErrors  []ValidationError
+	TotalViews   int
+	Written      int64
+	Skipped      int64
+	InputSkipped int64 // views skipped via InputHash match
+	Errors       []error
+	Duration     time.Duration
+	ValErrors    []ValidationError
 }
 
 // Render renders all views in parallel and writes output to disk.
@@ -61,6 +63,7 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 	var renderMu sync.Mutex
 	var valErrors []ValidationError
 	var valMu sync.Mutex
+	var inputSkipped int64
 
 	for _, v := range views {
 		renderWg.Add(1)
@@ -68,6 +71,15 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 		go func(v view.Renderable) {
 			defer renderWg.Done()
 			defer func() { <-sem }() // release semaphore
+
+			// Check InputHasher: skip render if inputs haven't changed
+			if ih, ok := v.(view.InputHasher); ok {
+				inputHash := ih.InputHash()
+				if entry, exists := manifest.Get(v.URL()); exists && entry.InputHash == inputHash {
+					atomic.AddInt64(&inputSkipped, 1)
+					return
+				}
+			}
 
 			var buf bytes.Buffer
 			if err := v.Render(&buf); err != nil {
@@ -93,7 +105,12 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 				valMu.Unlock()
 			}
 
-			outputCh <- OutputFile{URL: v.URL(), Content: content}
+			// Attach input hash to output file if available
+			var inputHash string
+			if ih, ok := v.(view.InputHasher); ok {
+				inputHash = ih.InputHash()
+			}
+			outputCh <- OutputFile{URL: v.URL(), Content: content, InputHash: inputHash}
 		}(v)
 	}
 
@@ -103,6 +120,7 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 	writerWg.Wait()
 
 	result.Written, result.Skipped = writer.Stats()
+	result.InputSkipped = inputSkipped
 	result.Errors = append(renderErrors, writeErrors...)
 	result.ValErrors = valErrors
 	result.Duration = time.Since(start)

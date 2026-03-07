@@ -13,7 +13,6 @@ coords:                 [{"route": [[52.54136,16.96559], [52.54418,16.99186], [5
 coords_file:            "2014-03-29-petla-wokol-murowanej-gosliny.json"
 coords_type:            "bicycle"
 map_zooms:              12
-distance:               75
 time_spent:             6
 strava: 137169014
 ---

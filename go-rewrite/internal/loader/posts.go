@@ -37,6 +37,7 @@ type postFrontMatter struct {
 	Tags          []string  `yaml:"tags"`
 	Towns         []string  `yaml:"towns"`
 	Lands         []string  `yaml:"lands"`
+	Foreign       []string  `yaml:"foreign"`
 	CoordsFile    string    `yaml:"coords_file"`
 	CoordsType    string    `yaml:"coords_type"`
 	Distance      float64   `yaml:"distance"`
@@ -191,6 +192,7 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 		TagSlugs:      ensureSlice(meta.Tags),
 		TownSlugs:     ensureSlice(meta.Towns),
 		LandSlugs:     ensureSlice(meta.Lands),
+		ForeignSlugs:  ensureSlice(meta.Foreign),
 		CoordsFile:    meta.CoordsFile,
 		CoordsType:    meta.CoordsType,
 		Distance:      meta.Distance,

@@ -11,8 +11,9 @@ import (
 
 // OutputFile holds a rendered page ready to be written to disk.
 type OutputFile struct {
-	URL     string
-	Content []byte
+	URL       string
+	Content   []byte
+	InputHash string // optional: set by InputHasher views for cache tracking
 }
 
 // WriteStats tracks write operation counts.
@@ -69,9 +70,10 @@ func (w *Writer) Write(file OutputFile) error {
 
 	// Update manifest
 	w.manifest.Set(file.URL, ManifestEntry{
-		SHA256:  hash,
-		Size:    len(file.Content),
-		BuiltAt: time.Now().UTC().Format(time.RFC3339),
+		SHA256:    hash,
+		Size:      len(file.Content),
+		BuiltAt:   time.Now().UTC().Format(time.RFC3339),
+		InputHash: file.InputHash,
 	})
 
 	w.stats.Written.Add(1)

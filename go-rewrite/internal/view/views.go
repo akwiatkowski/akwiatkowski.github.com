@@ -44,6 +44,13 @@ func GenerateAllViews(
 		}
 	}
 
+	// External (foreign) area pages: post list only (no show/gallery)
+	for _, area := range data.AreasWithPosts[model.AreaTypeExternal] {
+		all = append(all,
+			AreaPostListPage(data, area, r, resolver),
+		)
+	}
+
 	// Tag pages: post list and gallery for each tag
 	for _, tag := range data.Tags {
 		tag := tag // capture loop variable

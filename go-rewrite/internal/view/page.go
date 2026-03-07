@@ -20,6 +20,14 @@ type Renderable interface {
 	AddToSitemap() bool
 }
 
+// InputHasher is optionally implemented by views whose rendering can be
+// skipped entirely when their inputs haven't changed. The engine checks the
+// manifest's InputHash field — if it matches, the existing file on disk is
+// still valid and the render step is skipped.
+type InputHasher interface {
+	InputHash() string
+}
+
 // HTMLPage is a full HTML page with the standard shell (head, nav, footer).
 type HTMLPage struct {
 	url     string

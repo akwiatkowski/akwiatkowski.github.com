@@ -10,7 +10,6 @@ header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 image_filename:         IMGP6279raw1.jpg
-header_nogallery:       true
 tags:                   [main, article]
 
 ---

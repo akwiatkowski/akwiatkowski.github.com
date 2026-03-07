@@ -11,9 +11,10 @@ import (
 
 // ManifestEntry tracks a single output file.
 type ManifestEntry struct {
-	SHA256  string `json:"sha256"`
-	Size    int    `json:"size"`
-	BuiltAt string `json:"built_at"`
+	SHA256    string `json:"sha256"`
+	Size      int    `json:"size"`
+	BuiltAt   string `json:"built_at"`
+	InputHash string `json:"input_hash,omitempty"`
 }
 
 // Manifest tracks all output files for incremental builds and FTP sync.

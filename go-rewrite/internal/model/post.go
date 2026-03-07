@@ -24,9 +24,10 @@ type Post struct {
 	ImagePosition string
 
 	// Tags & areas (slugs from front matter)
-	TagSlugs  []string
-	TownSlugs []string
-	LandSlugs []string
+	TagSlugs     []string
+	TownSlugs    []string
+	LandSlugs    []string
+	ForeignSlugs []string
 
 	// Activity
 	CoordsFile  string

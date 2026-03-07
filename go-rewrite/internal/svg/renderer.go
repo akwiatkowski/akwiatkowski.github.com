@@ -1,40 +1,17 @@
 package svg
 
 import (
+	"crypto/sha256"
 	"fmt"
 	"io"
 	"math"
 	"sort"
 	"strings"
+	"sync"
 	"time"
 
 	"odkrywajac/internal/model"
 )
-
-// MapConfig holds configuration for SVG map rendering.
-type MapConfig struct {
-	Zoom      int
-	PhotoSize int
-	Width     int // output SVG width (default 1000)
-
-	// FixedBounds — if set, use these bounds instead of computing from content.
-	FixedLatMin, FixedLatMax float64
-	FixedLonMin, FixedLonMax float64
-	UseFixedBounds           bool
-
-	// Drawing options
-	DrawPhotos bool
-	DrawRoutes bool
-	DrawDots   bool
-}
-
-// PhotoMapData holds the inputs for SVG map rendering.
-type PhotoMapData struct {
-	Photos      []*model.Photo
-	Routes      []RouteData
-	PostBySlug  map[string]*model.Post
-	RouteColors map[string]model.RouteColor
-}
 
 // RouteData holds a route with its type for color selection.
 type RouteData struct {
@@ -42,20 +19,111 @@ type RouteData struct {
 	Segments [][]model.LatLon
 }
 
-// RenderSVG renders a complete SVG photo map.
-func RenderSVG(w io.Writer, config MapConfig, data PhotoMapData) error {
-	if config.Width == 0 {
-		config.Width = 1000
+// SvgMapParams holds all inputs for generating one SVG photo map.
+// Used both for rendering and for computing the input hash for caching.
+type SvgMapParams struct {
+	URL string // output URL, e.g. "/mapa_zdjec/overall.svg"
+
+	// Config
+	Zoom      int
+	PhotoSize int
+	Width     int // output SVG width (default 1000)
+
+	// Drawing options
+	DrawPhotos bool
+	DrawRoutes bool
+	DrawDots   bool
+
+	// Fixed bounds (optional — e.g. voivodeship bbox)
+	UseFixedBounds bool
+	FixedBounds    [4]float64 // [latMin, latMax, lonMin, lonMax]
+
+	// Data (references — SiteData is frozen)
+	Photos      []*model.Photo
+	Routes      []RouteData
+	PostBySlug  map[string]*model.Post
+	RouteColors map[string]model.RouteColor
+}
+
+// InputHash computes a deterministic hash of all inputs.
+func (p *SvgMapParams) InputHash() string {
+	h := sha256.New()
+
+	// Hash config
+	fmt.Fprintf(h, "z%d:ps%d:w%d:dp%v:dr%v:dd%v",
+		p.Zoom, p.PhotoSize, p.Width,
+		p.DrawPhotos, p.DrawRoutes, p.DrawDots)
+
+	// Hash fixed bounds
+	if p.UseFixedBounds {
+		fmt.Fprintf(h, ":fb%.6f,%.6f,%.6f,%.6f",
+			p.FixedBounds[0], p.FixedBounds[1], p.FixedBounds[2], p.FixedBounds[3])
+	}
+
+	// Hash photo GPS coords + slugs (sorted by slug+filename for determinism)
+	sorted := make([]*model.Photo, len(p.Photos))
+	copy(sorted, p.Photos)
+	sort.Slice(sorted, func(i, j int) bool {
+		if sorted[i].PostSlug != sorted[j].PostSlug {
+			return sorted[i].PostSlug < sorted[j].PostSlug
+		}
+		return sorted[i].ImageFilename < sorted[j].ImageFilename
+	})
+	for _, photo := range sorted {
+		if photo.HasGPS() {
+			fmt.Fprintf(h, ":%s/%s:%.6f,%.6f", photo.PostSlug, photo.ImageFilename, *photo.Exif.Lat, *photo.Exif.Lon)
+		}
+	}
+
+	// Hash route segments (type + point count per segment)
+	for _, route := range p.Routes {
+		fmt.Fprintf(h, ":r:%s", route.Type)
+		for _, seg := range route.Segments {
+			fmt.Fprintf(h, ":%d", len(seg))
+		}
+	}
+
+	return fmt.Sprintf("%x", h.Sum(nil))
+}
+
+// SvgMapView implements Renderable and InputHasher for SVG maps.
+type SvgMapView struct {
+	Params    SvgMapParams
+	hashOnce  sync.Once
+	hashValue string
+}
+
+// NewSvgMapView creates a view wrapper around SvgMapParams.
+func NewSvgMapView(params SvgMapParams) *SvgMapView {
+	return &SvgMapView{Params: params}
+}
+
+func (v *SvgMapView) URL() string        { return v.Params.URL }
+func (v *SvgMapView) AddToSitemap() bool { return false }
+
+func (v *SvgMapView) Render(w io.Writer) error {
+	return RenderSVG(w, v.Params)
+}
+
+func (v *SvgMapView) InputHash() string {
+	v.hashOnce.Do(func() { v.hashValue = v.Params.InputHash() })
+	return v.hashValue
+}
+
+// RenderSVG renders a complete SVG photo map from params.
+func RenderSVG(w io.Writer, p SvgMapParams) error {
+	if p.Width == 0 {
+		p.Width = 1000
 	}
 
 	// Collect all coordinate points for bounds computation
 	var allPoints [][2]float64
-	for _, photo := range data.Photos {
+	for _, photo := range p.Photos {
 		if photo.HasGPS() {
 			allPoints = append(allPoints, [2]float64{*photo.Exif.Lat, *photo.Exif.Lon})
 		}
 	}
-	for _, route := range data.Routes {
+	for _, route := range p.Routes {
 		for _, seg := range route.Segments {
 			for _, ll := range seg {
 				allPoints = append(allPoints, [2]float64{ll.Lat, ll.Lon})
@@ -65,18 +133,18 @@ func RenderSVG(w io.Writer, config MapConfig, data PhotoMapData) error {
 
 	if len(allPoints) == 0 {
 		// Empty map
-		fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d"></svg>`, config.Width, config.Width)
+		fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d"></svg>`, p.Width, p.Width)
 		return nil
 	}
 
 	// Compute or use fixed bounds
 	var bounds MapBounds
-	if config.UseFixedBounds {
-		pxMinX, pxMinY := LatLonToPixel(config.FixedLatMax, config.FixedLonMin, config.Zoom) // NW corner
-		pxMaxX, pxMaxY := LatLonToPixel(config.FixedLatMin, config.FixedLonMax, config.Zoom) // SE corner
+	if p.UseFixedBounds {
+		pxMinX, pxMinY := LatLonToPixel(p.FixedBounds[1], p.FixedBounds[2], p.Zoom) // NW corner (latMax, lonMin)
+		pxMaxX, pxMaxY := LatLonToPixel(p.FixedBounds[0], p.FixedBounds[3], p.Zoom) // SE corner (latMin, lonMax)
 		bounds = MapBounds{MinPX: pxMinX, MaxPX: pxMaxX, MinPY: pxMinY, MaxPY: pxMaxY}
 	} else {
-		bounds = ComputeMapBounds(allPoints, config.Zoom, 80)
+		bounds = ComputeMapBounds(allPoints, p.Zoom, 80)
 	}
 
 	cropW := bounds.Width()
@@ -89,10 +157,10 @@ func RenderSVG(w io.Writer, config MapConfig, data PhotoMapData) error {
 	}
 
 	aspectRatio := cropW / cropH
-	svgHeight := int(float64(config.Width) / aspectRatio)
+	svgHeight := int(float64(p.Width) / aspectRatio)
 
 	// SVG header
-	fmt.Fprintf(w, `<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 %d %d" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">`, config.Width, svgHeight)
+	fmt.Fprintf(w, `<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 %d %d" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">`, p.Width, svgHeight)
 	fmt.Fprintln(w)
 
 	// Defs
@@ -100,32 +168,32 @@ func RenderSVG(w io.Writer, config MapConfig, data PhotoMapData) error {
 
 	// Inner SVG with crop viewport
 	fmt.Fprintf(w, `<svg width="%d" height="%d" viewBox="%.0f %.0f %.0f %.0f" class="photo-map-tiles">`,
-		config.Width, svgHeight, bounds.MinPX, bounds.MinPY, cropW, cropH)
+		p.Width, svgHeight, bounds.MinPX, bounds.MinPY, cropW, cropH)
 	fmt.Fprintln(w)
 
 	// Tiles layer (placeholder references)
-	writeTilesLayer(w, bounds, config.Zoom)
+	writeTilesLayer(w, bounds, p.Zoom)
 
 	// Photo grid layer
-	if config.DrawPhotos && config.PhotoSize > 0 {
-		writePhotoGridLayer(w, data, bounds, config)
+	if p.DrawPhotos && p.PhotoSize > 0 {
+		writePhotoGridLayer(w, p, bounds)
 	}
 
 	// Dots layer
-	if config.DrawDots {
-		writeDotsLayer(w, data, bounds, config.Zoom)
+	if p.DrawDots {
+		writeDotsLayer(w, p, bounds)
 	}
 
 	// Routes layer
-	if config.DrawRoutes {
-		writeRoutesLayer(w, data, bounds, config.Zoom)
+	if p.DrawRoutes {
+		writeRoutesLayer(w, p, bounds)
 	}
 
 	fmt.Fprintln(w, `</svg>`)
 
 	// License
 	fmt.Fprintf(w, `<a href="https://mapa.ump.waw.pl/ump-www/" target="_blank">`)
-	fmt.Fprintf(w, `<text x="%d" y="%d" class="licence-text">mapa z UMP-pcPL</text>`, config.Width-8, svgHeight-8)
+	fmt.Fprintf(w, `<text x="%d" y="%d" class="licence-text">mapa z UMP-pcPL</text>`, p.Width-8, svgHeight-8)
 	fmt.Fprintln(w, `</a>`)
 
 	fmt.Fprintln(w, `</svg>`)
@@ -169,10 +237,10 @@ func writeTilesLayer(w io.Writer, bounds MapBounds, zoom int) {
 	fmt.Fprintln(w, `</g>`)
 }
 
-func writePhotoGridLayer(w io.Writer, data PhotoMapData, bounds MapBounds, config MapConfig) {
+func writePhotoGridLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
 	// Build spatial index for efficient grid queries
-	si := NewSpatialIndex(data.Photos, DefaultResolution)
-	ps := float64(config.PhotoSize)
+	si := NewSpatialIndex(p.Photos, DefaultResolution)
+	ps := float64(p.PhotoSize)
 
 	fmt.Fprintln(w, `<g id="photo-map-photos">`)
 
@@ -180,8 +248,8 @@ func writePhotoGridLayer(w io.Writer, data PhotoMapData, bounds MapBounds, confi
 	for x := bounds.MinPX; x <= bounds.MaxPX; x += ps {
 		for y := bounds.MinPY; y <= bounds.MaxPY; y += ps {
 			// Convert pixel corners back to lat/lon
-			lat1, lon1 := PixelToLatLon(x, y, config.Zoom)
-			lat2, lon2 := PixelToLatLon(x+ps, y+ps, config.Zoom)
+			lat1, lon1 := PixelToLatLon(x, y, p.Zoom)
+			lat2, lon2 := PixelToLatLon(x+ps, y+ps, p.Zoom)
 
 			// Query spatial index (Y-axis inverted: lat2 < lat1)
 			photos := si.Query(lat2, lat1, lon1, lon2)
@@ -196,7 +264,7 @@ func writePhotoGridLayer(w io.Writer, data PhotoMapData, bounds MapBounds, confi
 			}
 
 			// Get post for URL
-			post := data.PostBySlug[photo.PostSlug]
+			post := p.PostBySlug[photo.PostSlug]
 			if post == nil {
 				continue
 			}
@@ -207,13 +275,13 @@ func writePhotoGridLayer(w io.Writer, data PhotoMapData, bounds MapBounds, confi
 			postURL := model.BuildPostURL(post.Date, post.Slug)
 
 			fmt.Fprintf(w, `<svg x="%.0f" y="%.0f" width="%d" height="%d" class="photo-map-photo">`,
-				x, y, config.PhotoSize, config.PhotoSize)
+				x, y, p.PhotoSize, p.PhotoSize)
 			fmt.Fprintf(w, `<a href="%s" target="_blank">`, postURL)
 			fmt.Fprintf(w, `<image href="%s" preserveAspectRatio="xMidYMid slice" width="%d" height="%d"/>`,
-				imgURL, config.PhotoSize, config.PhotoSize)
+				imgURL, p.PhotoSize, p.PhotoSize)
 			fmt.Fprintf(w, `</a>`)
 			fmt.Fprintf(w, `<rect width="%d" height="%d" class="photo-border"/>`,
-				config.PhotoSize, config.PhotoSize)
+				p.PhotoSize, p.PhotoSize)
 			fmt.Fprintln(w, `</svg>`)
 		}
 	}
@@ -227,7 +295,6 @@ func selectBestPhoto(photos []*model.Photo) *model.Photo {
 	}
 
 	// Priority: IsTimeline > any, then sort by time (latest wins)
-	// Note: model.Photo doesn't have IsMap; use IsTimeline as priority
 	var candidates []*model.Photo
 
 	// Priority 1: timeline photos
@@ -258,13 +325,13 @@ func photoTimeSafe(p *model.Photo) time.Time {
 	return time.Time{}
 }
 
-func writeDotsLayer(w io.Writer, data PhotoMapData, bounds MapBounds, zoom int) {
+func writeDotsLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
 	fmt.Fprintln(w, `<g id="photo-map-dots">`)
-	for _, photo := range data.Photos {
+	for _, photo := range p.Photos {
 		if !photo.HasGPS() {
 			continue
 		}
-		px, py := LatLonToPixel(*photo.Exif.Lat, *photo.Exif.Lon, zoom)
+		px, py := LatLonToPixel(*photo.Exif.Lat, *photo.Exif.Lon, p.Zoom)
 		if px < bounds.MinPX || px > bounds.MaxPX || py < bounds.MinPY || py > bounds.MaxPY {
 			continue
 		}
@@ -303,12 +370,12 @@ func clampInt(v int) int {
 	return v
 }
 
-func writeRoutesLayer(w io.Writer, data PhotoMapData, bounds MapBounds, zoom int) {
+func writeRoutesLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
 	fmt.Fprintln(w, `<g id="photo-map-routes">`)
-	for _, route := range data.Routes {
+	for _, route := range p.Routes {
 		color := "51,136,255" // default blue
 		weight := 2
-		if rc, ok := data.RouteColors[route.Type]; ok {
+		if rc, ok := p.RouteColors[route.Type]; ok {
 			color = rc.Color
 			weight = rc.Weight
 		}
@@ -319,7 +386,7 @@ func writeRoutesLayer(w io.Writer, data PhotoMapData, bounds MapBounds, zoom int
 			}
 			points := make([][2]int, len(seg))
 			for i, ll := range seg {
-				px, py := LatLonToPixel(ll.Lat, ll.Lon, zoom)
+				px, py := LatLonToPixel(ll.Lat, ll.Lon, p.Zoom)
 				points[i] = [2]int{int(px), int(py)}
 			}
 

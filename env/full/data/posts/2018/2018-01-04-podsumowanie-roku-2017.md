@@ -9,7 +9,6 @@ header_nogallery:       true
 author:                 "Aleksander Kwiatkowski"
 categories:             article
 tags:                   [article]
-header_nogallery:       true
 ---
 
 [wiki-szrenica-schronisko]: https://pl.wikipedia.org/wiki/Schronisko_na_Szrenicy

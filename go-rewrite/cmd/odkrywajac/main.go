@@ -157,6 +157,9 @@ func runBuild(ctx *pipeline.Context) {
 	fmt.Printf("Rendered: %d (%d workers, %v)\n", result.TotalViews, ctx.Workers, result.Duration)
 	fmt.Printf("Written: %d files to %s\n", result.Written, outputDir)
 	fmt.Printf("Skipped: %d (unchanged)\n", result.Skipped)
+	if result.InputSkipped > 0 {
+		fmt.Printf("Input-cached: %d (render skipped)\n", result.InputSkipped)
+	}
 	fmt.Printf("Manifest: %d entries saved\n", manifest.Len())
 
 	if len(result.Errors) > 0 {

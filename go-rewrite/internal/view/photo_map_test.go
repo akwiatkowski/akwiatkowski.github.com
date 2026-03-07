@@ -8,6 +8,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
+	svgpkg "odkrywajac/internal/svg"
 )
 
 func testSiteDataForPhotoMaps() *index.SiteData {
@@ -81,7 +82,6 @@ func TestVoivodeshipMapSVGs(t *testing.T) {
 
 	// Should not create maps for voivodeships without posts
 	// Wielkopolskie has posts via town slug matching
-	// (but in test data, postsByArea needs proper indexing)
 	// At minimum, check it doesn't panic
 	_ = svgs
 }
@@ -121,5 +121,35 @@ func TestTagMapSVGs(t *testing.T) {
 	}
 	if !found {
 		t.Error("expected bicycle tag map")
+	}
+}
+
+func TestSvgMapViewInputHash(t *testing.T) {
+	data := testSiteDataForPhotoMaps()
+	svgs := GlobalMapSVGs(data)
+
+	// All views should implement InputHasher
+	for _, s := range svgs {
+		ih, ok := s.(InputHasher)
+		if !ok {
+			t.Fatalf("SvgMapView should implement InputHasher")
+		}
+		hash := ih.InputHash()
+		if hash == "" {
+			t.Error("InputHash should not be empty")
+		}
+		// Same inputs should produce same hash
+		if ih.InputHash() != hash {
+			t.Error("InputHash should be deterministic")
+		}
+	}
+
+	// Different configs should produce different hashes
+	if len(svgs) >= 2 {
+		h1 := svgs[0].(*svgpkg.SvgMapView).InputHash()
+		h2 := svgs[1].(*svgpkg.SvgMapView).InputHash()
+		if h1 == h2 {
+			t.Error("different map variants should have different hashes")
+		}
 	}
 }

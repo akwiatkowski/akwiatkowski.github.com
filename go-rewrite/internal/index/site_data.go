@@ -170,6 +170,25 @@ func (sd *SiteData) buildAreaIndexes() {
 				}
 			}
 		}
+		// ForeignSlugs create external areas on the fly
+		for _, slug := range post.ForeignSlugs {
+			key := model.AreaMapKey(model.AreaTypeExternal, slug)
+			if !seen[key] {
+				sd.postsByArea[key] = append(sd.postsByArea[key], post)
+				seen[key] = true
+			}
+			// Auto-create external area entity if not yet known
+			if _, exists := sd.areaByKey[key]; !exists {
+				area := &model.Area{
+					Slug: slug,
+					Name: slug, // name = slug until config provides a display name
+					Type: model.AreaTypeExternal,
+				}
+				sd.areaByKey[key] = area
+				sd.Areas = append(sd.Areas, area)
+				sd.AreasByType[model.AreaTypeExternal] = append(sd.AreasByType[model.AreaTypeExternal], area)
+			}
+		}
 	}
 
 	// Build AreasWithPosts

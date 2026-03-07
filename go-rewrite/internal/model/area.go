@@ -11,6 +11,7 @@ const (
 	AreaTypeVoivodeship
 	AreaTypeMesoRegion
 	AreaTypeMacroRegion
+	AreaTypeExternal
 )
 
 // String returns the English name of the area type.
@@ -26,6 +27,8 @@ func (t AreaType) String() string {
 		return "meso_region"
 	case AreaTypeMacroRegion:
 		return "macro_region"
+	case AreaTypeExternal:
+		return "external"
 	default:
 		return fmt.Sprintf("unknown(%d)", int(t))
 	}
@@ -45,6 +48,8 @@ func (t AreaType) NominativeSlug() string {
 		return "mezoregion"
 	case AreaTypeMacroRegion:
 		return "makroregion"
+	case AreaTypeExternal:
+		return "zagranica"
 	default:
 		return "unknown"
 	}
@@ -64,6 +69,8 @@ func (t AreaType) GenitiveSlug() string {
 		return "regionu"
 	case AreaTypeMacroRegion:
 		return "obszaru"
+	case AreaTypeExternal:
+		return "zagranica"
 	default:
 		return "unknown"
 	}
@@ -82,6 +89,8 @@ func (t AreaType) EnglishPlural() string {
 		return "meso_regions"
 	case AreaTypeMacroRegion:
 		return "macro_regions"
+	case AreaTypeExternal:
+		return "external"
 	default:
 		return "unknown"
 	}
@@ -105,6 +114,8 @@ func ParseAreaType(s string) (AreaType, bool) {
 		return AreaTypeMesoRegion, true
 	case "macro_region":
 		return AreaTypeMacroRegion, true
+	case "external":
+		return AreaTypeExternal, true
 	default:
 		return 0, false
 	}
