@@ -483,6 +483,14 @@ grep -A 15 "PRIORITY_GROUPS = \[" data/src/view_registry/base.cr
 grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | uniq -d
 ```
 
+## Go Rewrite Planning Rules
+
+- **Do NOT move to the next phase** unless the current phase is fully planned and approved
+- Only advance to a later phase if the user explicitly says to move on
+- Phase plans live in `go-rewrite/phases/PHASE_NN_*.md`
+- Phase plans contain requirements and design ideas, not Go code
+- Data format reference: `go-rewrite/DATA_SOURCES.md`
+
 ## Self-Maintenance
 
 ### When to Update This File

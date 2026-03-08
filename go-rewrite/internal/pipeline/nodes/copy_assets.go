@@ -14,7 +14,6 @@ import (
 // CopyAssetsNode copies static assets from data/assets/ to the output directory.
 // It skips files where size and mtime already match, preserving destination mtimes
 // for unchanged files (important for ?v= cache param stability).
-// It also creates an images symlink to Crystal's processed images.
 type CopyAssetsNode struct{}
 
 func NewCopyAssetsNode() *CopyAssetsNode { return &CopyAssetsNode{} }
@@ -55,9 +54,6 @@ func (n *CopyAssetsNode) Run(ctx *pipeline.Context) error {
 		copied += c
 		skipped += s
 	}
-
-	// Create images symlink to Crystal's processed images
-	n.symlinkImages(ctx)
 
 	if ctx.Verbose {
 		fmt.Printf("  Assets: %d copied, %d skipped\n", copied, skipped)
@@ -103,37 +99,6 @@ func copyAssetsDir(srcDir, dstDir string) (int, int, error) {
 	})
 
 	return copied, skipped, err
-}
-
-// symlinkImages creates <output>/images → Crystal's processed images directory.
-func (n *CopyAssetsNode) symlinkImages(ctx *pipeline.Context) {
-	// Crystal output: env/{env}/public/local/images/
-	crystalImagesDir := filepath.Join(ctx.BasePath, "env", ctx.Env, "public", "local", "images")
-	if _, err := os.Stat(crystalImagesDir); err != nil {
-		return // Crystal output doesn't exist, skip silently
-	}
-
-	link := filepath.Join(ctx.OutputDir(), "images")
-
-	// Remove existing symlink or directory
-	if fi, err := os.Lstat(link); err == nil {
-		if fi.Mode()&os.ModeSymlink != 0 {
-			// Check if it already points to the right place
-			target, err := os.Readlink(link)
-			if err == nil && target == crystalImagesDir {
-				return // already correct
-			}
-			os.Remove(link)
-		}
-		// If it's a regular file/dir, don't touch it
-		if fi.Mode()&os.ModeSymlink == 0 {
-			return
-		}
-	}
-
-	if err := os.Symlink(crystalImagesDir, link); err != nil && ctx.Verbose {
-		fmt.Printf("  Warning: could not create images symlink: %v\n", err)
-	}
 }
 
 // copyFile copies src to dst, creating parent directories as needed.

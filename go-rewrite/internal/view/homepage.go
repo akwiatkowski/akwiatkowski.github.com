@@ -20,7 +20,8 @@ func HomepagePage(
 ) Renderable {
 	url := "/index.html"
 
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, []string{"homepage"})
+	// Homepage uses its own standalone CSS (no Bootstrap/core), matching Crystal
+	cssFiles, jsFiles := resolveAssets(resolver, nil, []string{"homepage"})
 
 	stats := navStatsFromIndex(data.NavStats)
 
@@ -99,7 +100,7 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		result.Areas[typeName] = make(map[string]areaInfo)
 		for _, area := range data.AreasByType[areaType] {
 			result.Areas[typeName][area.Slug] = areaInfo{
-				URL:  r.AreaLinkURL(area),
+				URL:  r.AreaPostListURL(area),
 				Name: area.Name,
 			}
 		}

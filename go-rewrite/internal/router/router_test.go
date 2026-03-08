@@ -156,10 +156,19 @@ func TestProcessedImageURL(t *testing.T) {
 		Slug: "pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
+
+	// Extension is stripped, date-slug is used
 	got := r.ProcessedImageURL(post, "header.jpg", "grid", "avif")
-	want := "/images/processed/2021/07/pagorki_header.jpg_grid.avif"
+	want := "/images/processed/2021/07/2021-07-18-pagorki_header_grid.avif"
 	if got != want {
 		t.Errorf("ProcessedImageURL() = %q, want %q", got, want)
+	}
+
+	// Realistic filename with timestamp
+	got2 := r.ProcessedImageURL(post, "2021_07_18__11_18__7189980.jpg", "card", "jpg")
+	want2 := "/images/processed/2021/07/2021-07-18-pagorki_2021_07_18__11_18__7189980_card.jpg"
+	if got2 != want2 {
+		t.Errorf("ProcessedImageURL() = %q, want %q", got2, want2)
 	}
 }
 

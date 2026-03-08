@@ -90,6 +90,11 @@ func (c *Context) GoAssetsDir() string {
 	return filepath.Join(c.BasePath, "go-rewrite", "assets")
 }
 
+// AreaCacheDir returns the path to the Crystal-generated area cache.
+func (c *Context) AreaCacheDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "cache", "areas_for_post")
+}
+
 // GeneratedCacheDir returns the path to the generated cache directory.
 func (c *Context) GeneratedCacheDir() string {
 	return filepath.Join(c.BasePath, "go-rewrite", "cache")

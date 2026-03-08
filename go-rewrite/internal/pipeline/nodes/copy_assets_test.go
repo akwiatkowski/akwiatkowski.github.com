@@ -211,58 +211,6 @@ func TestCopyAssetsNode_PreservesMtime(t *testing.T) {
 	}
 }
 
-func TestSymlinkImages_NoopWhenMissing(t *testing.T) {
-	baseDir := t.TempDir()
-	outputDir := filepath.Join(baseDir, "env", "dev", "public", "go")
-	os.MkdirAll(outputDir, 0o755)
-
-	ctx := &pipeline.Context{
-		Env:      "dev",
-		Target:   "go",
-		BasePath: baseDir,
-		Workers:  1,
-	}
-
-	node := NewCopyAssetsNode()
-	node.symlinkImages(ctx) // should not panic or error
-
-	// Symlink should not exist
-	_, err := os.Lstat(filepath.Join(outputDir, "images"))
-	if !os.IsNotExist(err) {
-		t.Error("expected no symlink when Crystal images don't exist")
-	}
-}
-
-func TestSymlinkImages_CreatesSymlink(t *testing.T) {
-	baseDir := t.TempDir()
-
-	// Create fake Crystal images dir
-	crystalImages := filepath.Join(baseDir, "env", "dev", "public", "local", "images")
-	os.MkdirAll(crystalImages, 0o755)
-
-	outputDir := filepath.Join(baseDir, "env", "dev", "public", "go")
-	os.MkdirAll(outputDir, 0o755)
-
-	ctx := &pipeline.Context{
-		Env:      "dev",
-		Target:   "go",
-		BasePath: baseDir,
-		Workers:  1,
-	}
-
-	node := NewCopyAssetsNode()
-	node.symlinkImages(ctx)
-
-	link := filepath.Join(outputDir, "images")
-	target, err := os.Readlink(link)
-	if err != nil {
-		t.Fatalf("symlink not created: %v", err)
-	}
-	if target != crystalImages {
-		t.Errorf("symlink target = %q, want %q", target, crystalImages)
-	}
-}
-
 func mustResult(t *testing.T, ctx *pipeline.Context) CopyAssetsResult {
 	t.Helper()
 	result, ok := ctx.Result("copy_assets")

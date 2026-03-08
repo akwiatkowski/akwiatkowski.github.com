@@ -4,12 +4,16 @@ templ Head(p PageData) {
 	<head>
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="color-scheme" content="light dark"/>
 		<title>{ p.FullTitle() }</title>
 		if p.CanonicalURL != "" {
 			<link rel="canonical" href={ templ.SafeURL(p.CanonicalURL) }/>
 		}
 		if p.Desc != "" {
 			<meta name="description" content={ p.Desc }/>
+		}
+		if p.ExtraHead != "" {
+			@templ.Raw(p.ExtraHead)
 		}
 		@HeadOG(p)
 		@HeadAssets(p)
@@ -52,6 +56,6 @@ templ HeadAssets(p PageData) {
 		}
 	}
 	if p.PageJS != "" {
-		<script src={ p.PageJS }></script>
+		<script src={ p.PageJS } defer></script>
 	}
 }

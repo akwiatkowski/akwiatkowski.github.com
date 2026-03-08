@@ -18,6 +18,9 @@ type PageData struct {
 	JSFiles  []bundle.AssetFile
 	PageJS   string // optional page-specific JS file path
 
+	// Extra raw HTML to inject into <head> (e.g. Google Fonts)
+	ExtraHead string
+
 	// Navigation stats
 	NavStats NavStats
 }

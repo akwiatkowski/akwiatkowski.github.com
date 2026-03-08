@@ -103,6 +103,10 @@ page-assets:
   pois:
     css:
       - /css/self/pois.css
+  fonts:
+    css:
+      - /css/self/fonts.css
   homepage:
     css:
+      - /css/self/fonts.css
       - /css/self/homepage.css

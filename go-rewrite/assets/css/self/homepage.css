@@ -104,8 +104,10 @@ body:has(.home-page) {
 
 /* ===========================================
    Navigation
+   In Go layout, nav is a sibling of .home-page (not a child),
+   so we use body:has(.home-page) to scope these styles.
    =========================================== */
-.home-page .nav {
+body:has(.home-page) .nav {
   position: fixed;
   top: 0;
   left: 0;
@@ -117,7 +119,7 @@ body:has(.home-page) {
   border-bottom: 1px solid var(--color-border);
 }
 
-.home-page .nav-inner {
+body:has(.home-page) .nav-inner {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px;
@@ -127,7 +129,7 @@ body:has(.home-page) {
   justify-content: space-between;
 }
 
-.home-page .nav-logo {
+body:has(.home-page) .nav-logo {
   font-family: var(--font-serif);
   font-size: 1.25rem;
   font-weight: 500;
@@ -136,13 +138,13 @@ body:has(.home-page) {
   letter-spacing: -0.02em;
 }
 
-.home-page .nav-links {
+body:has(.home-page) .nav-links {
   display: flex;
   gap: 32px;
   list-style: none;
 }
 
-.home-page .nav-links a {
+body:has(.home-page) .nav-links a {
   font-size: 0.875rem;
   font-weight: 450;
   color: var(--color-text-secondary);
@@ -150,7 +152,7 @@ body:has(.home-page) {
   transition: color 0.2s;
 }
 
-.home-page .nav-links a:hover {
+body:has(.home-page) .nav-links a:hover {
   color: var(--color-text);
 }
 
@@ -491,13 +493,13 @@ body:has(.home-page) {
 /* ===========================================
    Footer
    =========================================== */
-.home-page .footer {
+body:has(.home-page) .footer {
   border-top: 1px solid var(--color-border);
   padding: 48px 24px;
   margin-top: 40px;
 }
 
-.home-page .footer-inner {
+body:has(.home-page) .footer-inner {
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
@@ -505,23 +507,23 @@ body:has(.home-page) {
   align-items: center;
 }
 
-.home-page .footer-text {
+body:has(.home-page) .footer-text {
   font-size: 0.875rem;
   color: var(--color-text-muted);
 }
 
-.home-page .footer-links {
+body:has(.home-page) .footer-links {
   display: flex;
   gap: 24px;
 }
 
-.home-page .footer-links a {
+body:has(.home-page) .footer-links a {
   font-size: 0.875rem;
   color: var(--color-text-secondary);
   text-decoration: none;
 }
 
-.home-page .footer-links a:hover {
+body:has(.home-page) .footer-links a:hover {
   color: var(--color-text);
 }
 
@@ -565,7 +567,7 @@ body:has(.home-page) {
 }
 
 @media (max-width: 640px) {
-  .home-page .nav-links {
+  body:has(.home-page) .nav-links {
     display: none;
   }
 
@@ -605,7 +607,7 @@ body:has(.home-page) {
     aspect-ratio: 16/10;
   }
 
-  .home-page .footer-inner {
+  body:has(.home-page) .footer-inner {
     flex-direction: column;
     gap: 24px;
     text-align: center;

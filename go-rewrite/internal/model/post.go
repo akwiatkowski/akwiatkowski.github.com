@@ -62,6 +62,11 @@ func (p *Post) Year() int {
 	return p.Date.Year()
 }
 
+// DateSlug returns the date-prefixed slug (e.g. "2021-07-18-pagorki-przed-zniwami").
+func (p *Post) DateSlug() string {
+	return fmt.Sprintf("%d-%02d-%02d-%s", p.Date.Year(), p.Date.Month(), p.Date.Day(), p.Slug)
+}
+
 // BuildURL constructs the post URL from date and slug.
 func BuildPostURL(date time.Time, slug string) string {
 	return fmt.Sprintf("/%d/%02d/%02d-%s.html", date.Year(), date.Month(), date.Day(), slug)

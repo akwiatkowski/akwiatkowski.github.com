@@ -110,6 +110,7 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
 		os.Exit(1)
 	}
+	loader.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
 	if ctx.Verbose {
 		fmt.Printf("  Posts loaded in %v\n", time.Since(t0))
 	}
@@ -140,6 +141,17 @@ func runBuild(ctx *pipeline.Context) {
 		}
 		if ctx.Verbose {
 			fmt.Printf("  Assets copied in %v\n", time.Since(t0))
+		}
+
+		// Process images: copy raw + resize to 4 sizes × 2 formats
+		t0 = time.Now()
+		imgNode := nodes.NewProcessImagesNode(posts)
+		if err := imgNode.Run(ctx); err != nil {
+			fmt.Fprintf(os.Stderr, "Error processing images: %v\n", err)
+			os.Exit(1)
+		}
+		if ctx.Verbose {
+			fmt.Printf("  Images processed in %v\n", time.Since(t0))
 		}
 
 		// Precompute asset versions for cache-busting ?v= URLs

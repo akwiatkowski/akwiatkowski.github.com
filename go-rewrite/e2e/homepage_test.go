@@ -95,6 +95,58 @@ func TestHomepageJSONLoads(t *testing.T) {
 	}
 }
 
+func TestHomepageJSONImageURLsCorrect(t *testing.T) {
+	ts := setupServer(t)
+
+	resp, err := http.Get(ts.URL + "/jsons/homepage.json")
+	if err != nil {
+		t.Fatalf("GET /jsons/homepage.json failed: %v", err)
+	}
+	defer resp.Body.Close()
+
+	var data struct {
+		Posts []struct {
+			CardImage string `json:"card_image_url"`
+			CardAVIF  string `json:"card_image_url_avif"`
+			TopPhotos []struct {
+				URL  string `json:"url"`
+				AVIF string `json:"avif"`
+			} `json:"top_photos"`
+		} `json:"posts"`
+	}
+	if err := json.NewDecoder(resp.Body).Decode(&data); err != nil {
+		t.Fatalf("JSON decode failed: %v", err)
+	}
+
+	for i, post := range data.Posts {
+		// Card image URL must follow Crystal format: {date-slug}_{filename_without_ext}_{size}.{format}
+		if post.CardImage != "" {
+			// Must NOT have double extension (e.g. .jpg_card.jpg)
+			if strings.Contains(post.CardImage, ".jpg_") || strings.Contains(post.CardImage, ".png_") {
+				t.Errorf("post[%d] card_image_url has double extension: %s", i, post.CardImage)
+			}
+			// Must end with _card.jpg
+			if !strings.HasSuffix(post.CardImage, "_card.jpg") {
+				t.Errorf("post[%d] card_image_url should end with _card.jpg: %s", i, post.CardImage)
+			}
+			// Must start with /images/processed/
+			if !strings.HasPrefix(post.CardImage, "/images/processed/") {
+				t.Errorf("post[%d] card_image_url missing /images/processed/ prefix: %s", i, post.CardImage)
+			}
+		}
+		if post.CardAVIF != "" {
+			if !strings.HasSuffix(post.CardAVIF, "_card.avif") {
+				t.Errorf("post[%d] card_image_url_avif should end with _card.avif: %s", i, post.CardAVIF)
+			}
+		}
+		for j, photo := range post.TopPhotos {
+			if strings.Contains(photo.URL, ".jpg_") || strings.Contains(photo.URL, ".png_") {
+				t.Errorf("post[%d] top_photos[%d].url has double extension: %s", i, j, photo.URL)
+			}
+		}
+	}
+}
+
 func TestHomepageStatsNotZero(t *testing.T) {
 	ts := setupServer(t)
 	page := ts.newPage(t, "/index.html")

@@ -307,6 +307,51 @@ func ensureSlice(s []string) []string {
 	return s
 }
 
+// areaRouteSegment represents one route segment's area assignments from the cache.
+type areaRouteSegment struct {
+	MesoRegions []struct {
+		Slug string `yaml:"slug"`
+	} `yaml:"meso_regions"`
+}
+
+// EnrichPostsWithAreaCache reads Crystal-generated area cache files and merges
+// meso_region slugs into each post's LandSlugs. This gives Go access to the
+// polygon-based area assignments that Crystal computes.
+func EnrichPostsWithAreaCache(posts []*model.Post, cacheDir string) {
+	if _, err := os.Stat(cacheDir); err != nil {
+		return // cache dir doesn't exist, skip silently
+	}
+
+	for _, post := range posts {
+		filename := fmt.Sprintf("%s-%s.yml", post.Date.Format("2006-01-02"), post.Slug)
+		path := filepath.Join(cacheDir, filename)
+
+		data, err := os.ReadFile(path)
+		if err != nil {
+			continue // no cache file for this post
+		}
+
+		var segments []areaRouteSegment
+		if err := yaml.Unmarshal(data, &segments); err != nil {
+			continue
+		}
+
+		// Collect unique meso_region slugs
+		seen := make(map[string]bool)
+		for _, s := range post.LandSlugs {
+			seen[s] = true
+		}
+		for _, seg := range segments {
+			for _, mr := range seg.MesoRegions {
+				if mr.Slug != "" && !seen[mr.Slug] {
+					post.LandSlugs = append(post.LandSlugs, mr.Slug)
+					seen[mr.Slug] = true
+				}
+			}
+		}
+	}
+}
+
 // SlugFromFilename extracts post slug from a filename like "2021-07-18-pagorki-przed-zniwami.md".
 func SlugFromFilename(filename string) string {
 	matches := filenamePattern.FindStringSubmatch(filename)

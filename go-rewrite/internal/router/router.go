@@ -6,6 +6,7 @@ package router
 
 import (
 	"fmt"
+	"strings"
 
 	"odkrywajac/internal/model"
 )
@@ -132,9 +133,15 @@ func (r *Router) PostImageURL(post *model.Post, filename string) string {
 // ProcessedImageURL returns a processed (resized) image URL.
 // size is one of: "article", "card", "grid", "thumbnail"
 // format is "jpg" or "avif"
+// Matches Crystal: /images/processed/YYYY/MM/{date-slug}_{filename_without_ext}_{size}.{format}
 func (r *Router) ProcessedImageURL(post *model.Post, filename, size, format string) string {
+	// Strip file extension from filename (Crystal does this too)
+	nameWithoutExt := filename
+	if idx := strings.LastIndex(filename, "."); idx > 0 {
+		nameWithoutExt = filename[:idx]
+	}
 	return fmt.Sprintf("/images/processed/%d/%02d/%s_%s_%s.%s",
-		post.Date.Year(), post.Date.Month(), post.Slug, filename, size, format)
+		post.Date.Year(), post.Date.Month(), post.DateSlug(), nameWithoutExt, size, format)
 }
 
 // ============================================

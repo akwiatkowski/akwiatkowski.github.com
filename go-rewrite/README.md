@@ -26,7 +26,7 @@ internal/
 ├── loader/              YAML/markdown data loaders
 ├── markdown/            Goldmark extensions (photos, stats, links)
 ├── model/               Domain types (Post, Photo, Area, Tag, Route)
-├── pipeline/            Build pipeline orchestration
+├── pipeline/            Build pipeline orchestration + image processing
 ├── render/              File writer with manifest diffing
 ├── router/              Centralized URL generation
 ├── svg/                 SVG photo map renderer (projection, spatial index)
