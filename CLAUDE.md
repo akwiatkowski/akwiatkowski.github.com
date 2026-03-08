@@ -505,6 +505,21 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - **Always run the linter before committing** Go changes: `mise exec -- golangci-lint run ./...`
 - **Always run tests before committing**: `mise exec -- go test ./...`
 
+### Makefile
+
+- **If you add or frequently use a command, add it to the Makefile.** Repeated `mise exec -- ...` invocations are a sign a Makefile target is needed.
+
+### Testing
+
+- **Tests are critical.** When adding new code, always consider what tests are needed: unit, integration, or E2E.
+- **Tests must ensure no regressions** and that written code actually works. Declaring a feature "ready" without verifying it works is unacceptable.
+- **Before claiming something works**, build the site and verify the output — check the rendered HTML, JSON endpoints, and browser behavior as appropriate.
+
+### JSON Endpoints and JavaScript
+
+- **When writing or debugging JS, always read the Go view that generates the JSON** it consumes. Understand the exact field names, types, and structure available.
+- **Document non-obvious JSON fields** in the Go serializer with comments — both for humans and LLMs to quickly understand the data contract.
+
 ## Go Rewrite Planning Rules
 
 - **Do NOT move to the next phase** unless the current phase is fully planned and approved

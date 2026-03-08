@@ -59,10 +59,14 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		CardAVIF   string     `json:"card_image_url_avif,omitempty"`
 		Tags       []string   `json:"tags"`
 		TopPhotos  []topPhoto `json:"top_photos,omitempty"`
-		Towns      []string   `json:"towns,omitempty"`
-		Counties   []string   `json:"counties,omitempty"`
-		Voivodeships []string `json:"voivodeships,omitempty"`
-		MesoRegions  []string `json:"meso_regions,omitempty"`
+		Visible    bool       `json:"visible"`
+		Ready      bool       `json:"ready"`
+		// Area slugs split by type — post_collection.js filters by these fields.
+		TownSlugs        []string `json:"town_slugs,omitempty"`
+		CountySlugs      []string `json:"county_slugs,omitempty"`
+		VoivodeshipSlugs []string `json:"voivodeship_slugs,omitempty"`
+		MesoRegionSlugs  []string `json:"meso_region_slugs,omitempty"`
+		MacroRegionSlugs []string `json:"macro_region_slugs,omitempty"`
 	}
 
 	type tagInfo struct {
@@ -111,17 +115,28 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		if !post.IsFinished() {
 			continue
 		}
+		// Resolve area slugs into proper types for JS filtering.
+		// TownSlugs mixes towns/counties/voivodeships; we split them by looking
+		// up each slug in the area index to find its actual type.
+		townSlugs, countySlugs, voivSlugs := classifyTownSlugs(data, post.TownSlugs)
+		mesoSlugs, macroSlugs := classifyLandSlugs(data, post.LandSlugs)
+
 		pe := postEntry{
-			URL:        r.PostURL(post),
-			Title:      post.Title,
-			Subtitle:   post.Subtitle,
-			Date:       post.Date.Format("2006-01-02"),
-			Time:       post.Date.Format(time.RFC3339),
-			DistanceKm: int(post.Distance),
-			TimeSpent:  int(post.TimeSpent),
-			Tags:       post.TagSlugs,
-			Towns:      post.TownSlugs,
-			MesoRegions: post.LandSlugs,
+			URL:              r.PostURL(post),
+			Title:            post.Title,
+			Subtitle:         post.Subtitle,
+			Date:             post.Date.Format("2006-01-02"),
+			Time:             post.Date.Format(time.RFC3339),
+			DistanceKm:       int(post.Distance),
+			TimeSpent:        int(post.TimeSpent),
+			Tags:             post.TagSlugs,
+			Visible:          true,
+			Ready:            true,
+			TownSlugs:        townSlugs,
+			CountySlugs:      countySlugs,
+			VoivodeshipSlugs: voivSlugs,
+			MesoRegionSlugs:  mesoSlugs,
+			MacroRegionSlugs: macroSlugs,
 		}
 
 		if post.ImageFilename != "" {
@@ -152,4 +167,40 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 	}
 
 	return NewJSONEndpoint(r.HomepageJSON(), result)
+}
+
+// classifyTownSlugs splits post.TownSlugs into separate arrays by area type.
+// A slug like "dolnoslaskie" may match as both a town and voivodeship;
+// we assign it to the most specific type found in the area index.
+func classifyTownSlugs(data *index.SiteData, slugs []string) (towns, counties, voivodeships []string) {
+	for _, slug := range slugs {
+		switch {
+		case data.FindArea(model.AreaTypeTown, slug) != nil:
+			towns = append(towns, slug)
+		case data.FindArea(model.AreaTypeCounty, slug) != nil:
+			counties = append(counties, slug)
+		case data.FindArea(model.AreaTypeVoivodeship, slug) != nil:
+			voivodeships = append(voivodeships, slug)
+		default:
+			// Unknown slug — include as town for backward compatibility.
+			towns = append(towns, slug)
+		}
+	}
+	return
+}
+
+// classifyLandSlugs splits post.LandSlugs into meso and macro region arrays.
+func classifyLandSlugs(data *index.SiteData, slugs []string) (meso, macro []string) {
+	for _, slug := range slugs {
+		switch {
+		case data.FindArea(model.AreaTypeMesoRegion, slug) != nil:
+			meso = append(meso, slug)
+		case data.FindArea(model.AreaTypeMacroRegion, slug) != nil:
+			macro = append(macro, slug)
+		default:
+			// Unknown land slug — include as meso for backward compatibility.
+			meso = append(meso, slug)
+		}
+	}
+	return
 }

@@ -228,7 +228,7 @@
     // Count posts per meso_region
     var regionCounts = {};
     posts.forEach(function(post) {
-      (post.meso_regions || []).forEach(function(regionSlug) {
+      (post.meso_region_slugs || []).forEach(function(regionSlug) {
         regionCounts[regionSlug] = (regionCounts[regionSlug] || 0) + 1;
       });
     });

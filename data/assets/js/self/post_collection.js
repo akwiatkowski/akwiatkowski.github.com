@@ -180,9 +180,11 @@
       : '';
   }
 
+  // Renders tag links for a post card.
+  // tags is a map {slug: {url, name}} — matches Go HomepageJSON format.
   function renderTags(postTags, tags) {
     return postTags.map(function(tag) {
-      var tagObj = tags.find(function(t) { return t.slug === tag; });
+      var tagObj = tags[tag];
       if (tagObj) {
         var tagClass = 'tag tag-' + tag.toLowerCase();
         return '<a href="' + tagObj.url + '" class="' + tagClass + '">' + escapeHtml(tagObj.name) + '</a>';
