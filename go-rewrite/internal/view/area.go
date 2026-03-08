@@ -67,7 +67,7 @@ func AreaPostListPage(
 		NavStats:     navStatsFromIndex(data.NavStats),
 	}
 
-	configJSON := fmt.Sprintf(`{"filterBy":"%s","filterValue":"%s"}`,
+	configJSON := fmt.Sprintf(`{"filterBy":"%s","filterValue":"%s"}`, //nolint:gocritic // raw JSON template, %q would break output
 		area.Type.String(), area.Slug)
 	rawScript := `<script id="post-collection-config" type="application/json">` + configJSON + `</script>`
 

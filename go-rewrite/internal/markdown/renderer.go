@@ -44,15 +44,6 @@ type RenderContext struct {
 	PhotoTagIcons map[string]string // photo tag slug → icon name
 }
 
-// photoTagLookupAdapter wraps SiteData's PhotoTagBySlug map.
-type photoTagLookupAdapter struct {
-	m map[string]*model.PhotoTag
-}
-
-func (a *photoTagLookupAdapter) PhotoTagBySlug(slug string) *model.PhotoTag {
-	return a.m[slug]
-}
-
 // customRenderer renders custom AST nodes to HTML.
 type customRenderer struct {
 	ctx *RenderContext

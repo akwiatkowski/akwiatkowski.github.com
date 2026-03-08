@@ -153,9 +153,9 @@ func GenerateAllViews(
 		}
 	}
 	for _, rng := range ISODoubleRanges() {
-		photos := photosInISORange(allPhotos, int(rng[0]), int(rng[1]))
+		photos := photosInISORange(allPhotos, rng[0], rng[1])
 		if len(photos) > 0 {
-			all = append(all, ISOGalleryPage(data, r, resolver, int(rng[0]), int(rng[1])))
+			all = append(all, ISOGalleryPage(data, r, resolver, rng[0], rng[1]))
 		}
 	}
 	for _, rng := range ExposureRanges() {

@@ -190,8 +190,8 @@ func TestFeedURLs(t *testing.T) {
 		got  string
 		want string
 	}{
-		{"RSSURL", r.RSSURL(), "/feed.rss"},
-		{"AtomURL", r.AtomURL(), "/feed.atom"},
+		{"RSSURL", r.RSSURL(), "/feed.xml"},
+		{"AtomURL", r.AtomURL(), "/feed_atom.xml"},
 		{"SitemapURL", r.SitemapURL(), "/sitemap.xml"},
 		{"RobotsURL", r.RobotsURL(), "/robots.txt"},
 	}

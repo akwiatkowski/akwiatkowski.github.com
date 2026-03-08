@@ -9,35 +9,71 @@ import (
 // E2EJSON creates a JSON endpoint with all post data for E2E tests.
 func E2EJSON(data *index.SiteData, rtr *router.Router) Renderable {
 	type postEntry struct {
-		Slug     string   `json:"slug"`
-		Title    string   `json:"title"`
-		URL      string   `json:"url"`
-		Date     string   `json:"date"`
-		Tags     []string `json:"tags"`
-		Towns    []string `json:"towns,omitempty"`
-		Lands    []string `json:"lands,omitempty"`
-		Distance float64  `json:"distance,omitempty"`
+		URL           string   `json:"url"`
+		Ready         bool     `json:"ready"`
+		PhotosCount   int      `json:"photos_count"`
+		HasRoute      bool     `json:"has_route"`
+		Tags          []string `json:"tags"`
+		Voivodeships  []string `json:"voivodeships"`
+	}
+
+	type tagEntry struct {
+		URL  string `json:"url"`
+		Slug string `json:"slug"`
+	}
+
+	type voivEntry struct {
+		Slug       string `json:"slug"`
+		ShowURL    string `json:"show_url"`
+		GalleryURL string `json:"gallery_url"`
 	}
 
 	type e2eData struct {
-		Posts []postEntry `json:"posts"`
+		Posts        []postEntry `json:"posts"`
+		Tags         []tagEntry  `json:"tags"`
+		Voivodeships []voivEntry `json:"voivodeships"`
 	}
 
 	result := e2eData{}
 	for _, post := range data.Posts {
-		if !post.IsFinished() {
-			continue
+		tags := post.TagSlugs
+		if tags == nil {
+			tags = []string{}
+		}
+		voivSlugs := data.VoivodeshipSlugsForPost(post)
+		if voivSlugs == nil {
+			voivSlugs = []string{}
 		}
 		result.Posts = append(result.Posts, postEntry{
-			Slug:     post.Slug,
-			Title:    post.Title,
-			URL:      rtr.PostURL(post),
-			Date:     post.Date.Format("2006-01-02"),
-			Tags:     post.TagSlugs,
-			Towns:    post.TownSlugs,
-			Lands:    post.LandSlugs,
-			Distance: post.Distance,
+			URL:          rtr.PostURL(post),
+			Ready:        post.IsFinished(),
+			PhotosCount:  len(post.PhotoEntities),
+			HasRoute:     post.HasRoutes(),
+			Tags:         tags,
+			Voivodeships: voivSlugs,
 		})
+	}
+
+	for _, tag := range data.Tags {
+		result.Tags = append(result.Tags, tagEntry{
+			URL:  rtr.TagLinkURL(&tag),
+			Slug: tag.Slug,
+		})
+	}
+
+	voivAreas := data.AreasWithPosts[model.AreaTypeVoivodeship]
+	for _, area := range voivAreas {
+		result.Voivodeships = append(result.Voivodeships, voivEntry{
+			Slug:       area.Slug,
+			ShowURL:    rtr.AreaShowURL(area),
+			GalleryURL: rtr.AreaGalleryURL(area),
+		})
+	}
+	if result.Tags == nil {
+		result.Tags = []tagEntry{}
+	}
+	if result.Voivodeships == nil {
+		result.Voivodeships = []voivEntry{}
 	}
 
 	return NewJSONEndpoint(rtr.E2EJSON(), result)

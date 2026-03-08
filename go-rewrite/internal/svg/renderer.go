@@ -370,7 +370,7 @@ func clampInt(v int) int {
 	return v
 }
 
-func writeRoutesLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
+func writeRoutesLayer(w io.Writer, p SvgMapParams, _ MapBounds) {
 	fmt.Fprintln(w, `<g id="photo-map-routes">`)
 	for _, route := range p.Routes {
 		color := "51,136,255" // default blue

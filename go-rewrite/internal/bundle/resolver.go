@@ -4,6 +4,8 @@ package bundle
 import (
 	"fmt"
 	"os"
+	"path/filepath"
+	"strings"
 
 	"gopkg.in/yaml.v3"
 )
@@ -13,6 +15,15 @@ type AssetFile struct {
 	Path      string // e.g. "/css/libs/bootstrap.min.css"
 	Integrity string // SRI hash, or ""
 	IsCSS     bool   // true=CSS, false=JS
+	Version   string // mtime unix timestamp for cache-busting, or ""
+}
+
+// VersionedPath returns the path with a ?v= cache-busting query parameter.
+func (a AssetFile) VersionedPath() string {
+	if a.Version != "" {
+		return a.Path + "?v=" + a.Version
+	}
+	return a.Path
 }
 
 // Resolver resolves bundle names to lists of asset files.
@@ -21,6 +32,7 @@ type Resolver struct {
 	composites map[string]*compositeDef
 	pageAssets map[string]*bundleDef
 	integrity  map[string]string // path → SRI hash
+	versions   map[string]string // path → mtime unix timestamp (set by PrecomputeVersions)
 }
 
 type bundleDef struct {
@@ -117,6 +129,7 @@ func (r *Resolver) addFiles(b *bundleDef, cssFiles, jsFiles *[]AssetFile, seen m
 				Path:      path,
 				Integrity: r.integrity[path],
 				IsCSS:     true,
+				Version:   r.versions[path],
 			})
 		}
 	}
@@ -127,8 +140,45 @@ func (r *Resolver) addFiles(b *bundleDef, cssFiles, jsFiles *[]AssetFile, seen m
 				Path:      path,
 				Integrity: r.integrity[path],
 				IsCSS:     false,
+				Version:   r.versions[path],
 			})
 		}
+	}
+}
+
+// PrecomputeVersions scans the output directory for all known asset files
+// and caches their mtime as unix timestamp strings. Subsequent calls to
+// Resolve/ResolvePageAssets will include the Version field on each AssetFile.
+func (r *Resolver) PrecomputeVersions(outputDir string) {
+	r.versions = make(map[string]string)
+
+	// Collect all unique asset paths from bundles and page assets
+	paths := make(map[string]bool)
+	for _, b := range r.bundles {
+		for _, p := range b.CSS {
+			paths[p] = true
+		}
+		for _, p := range b.JS {
+			paths[p] = true
+		}
+	}
+	for _, pa := range r.pageAssets {
+		for _, p := range pa.CSS {
+			paths[p] = true
+		}
+		for _, p := range pa.JS {
+			paths[p] = true
+		}
+	}
+
+	for p := range paths {
+		rel := strings.TrimPrefix(p, "/")
+		absPath := filepath.Join(outputDir, rel)
+		info, err := os.Stat(absPath)
+		if err != nil {
+			continue
+		}
+		r.versions[p] = fmt.Sprintf("%d", info.ModTime().Unix())
 	}
 }
 
@@ -142,4 +192,19 @@ func (r *Resolver) BundleNames() []string {
 		names = append(names, name)
 	}
 	return names
+}
+
+// PopulateVersions sets the Version field on each AssetFile by stat'ing
+// the corresponding file in outputDir. Version is the file's mtime as
+// a unix timestamp string (e.g. "1771078489").
+func PopulateVersions(files []AssetFile, outputDir string) {
+	for i := range files {
+		rel := strings.TrimPrefix(files[i].Path, "/")
+		absPath := filepath.Join(outputDir, rel)
+		info, err := os.Stat(absPath)
+		if err != nil {
+			continue
+		}
+		files[i].Version = fmt.Sprintf("%d", info.ModTime().Unix())
+	}
 }

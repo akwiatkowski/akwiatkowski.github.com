@@ -35,10 +35,14 @@ func TestHomepagePageRender(t *testing.T) {
 	checks := []string{
 		"<!doctype html>",
 		"Odkrywając Polskę",
-		"hero-container",
+		"home-page",
+		"hero-image hero-loading",
+		"hero-stats",
 		"posts-grid",
-		"category-chips",
-		"stats-row",
+		"categories",
+		"stat-value",
+		"stat-unit",
+		"stat-label",
 		"/js/self/homepage.js",
 	}
 
@@ -80,6 +84,8 @@ func TestHomepageJSONRender(t *testing.T) {
 		`"pobiedziska"`,  // town slug in post towns
 		`"Rowerem"`,      // tag name
 		`"/wpisy-dla/tagu/rowerem.html"`, // tag URL
+		`"distance_km"`,  // renamed from distance
+		`"time"`,         // RFC3339 timestamp
 	}
 
 	for _, check := range checks {

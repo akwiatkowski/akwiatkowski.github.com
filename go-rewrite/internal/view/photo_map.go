@@ -57,7 +57,7 @@ func collectPhotoMapData(data *index.SiteData) ([]*model.Photo, []svgpkg.RouteDa
 	return photos, routes, postBySlug
 }
 
-func collectFilteredMapData(posts []*model.Post, data *index.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
+func collectFilteredMapData(posts []*model.Post, _ *index.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
 	var photos []*model.Photo
 	var routes []svgpkg.RouteData
 	postBySlug := make(map[string]*model.Post)

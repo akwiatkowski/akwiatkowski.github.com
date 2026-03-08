@@ -11,7 +11,7 @@ import (
 // MaxMtime returns the most recent modification time among the given paths.
 // Non-existent files are skipped. Returns zero time if no files exist.
 func MaxMtime(paths ...string) (time.Time, error) {
-	var max time.Time
+	var maxTime time.Time
 	for _, p := range paths {
 		info, err := os.Stat(p)
 		if errors.Is(err, fs.ErrNotExist) {
@@ -20,11 +20,11 @@ func MaxMtime(paths ...string) (time.Time, error) {
 		if err != nil {
 			return time.Time{}, err
 		}
-		if t := info.ModTime(); t.After(max) {
-			max = t
+		if t := info.ModTime(); t.After(maxTime) {
+			maxTime = t
 		}
 	}
-	return max, nil
+	return maxTime, nil
 }
 
 // FileNewerThan returns true if source is newer than target.

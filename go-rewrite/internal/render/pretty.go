@@ -167,7 +167,7 @@ func writePreserved(w io.Writer, n *html.Node, depth int) {
 		} else {
 			// For non-text children (unlikely in script/pre), use html.Render
 			var buf bytes.Buffer
-			html.Render(&buf, c)
+			_ = html.Render(&buf, c)
 			w.Write(buf.Bytes())
 		}
 	}

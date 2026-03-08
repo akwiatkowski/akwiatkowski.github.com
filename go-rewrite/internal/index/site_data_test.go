@@ -198,3 +198,28 @@ func TestAreasByType(t *testing.T) {
 		t.Errorf("expected 2 voivodeships, got %d", len(sd.AreasByType[model.AreaTypeVoivodeship]))
 	}
 }
+
+func TestVoivodeshipSlugsForPost(t *testing.T) {
+	sd := buildTestSiteData()
+
+	// bicycle-trip has TownSlugs=["wielkopolskie", "pobiedziska"], so voivodeship is wielkopolskie
+	bicyclePost := sd.PostBySlug("bicycle-trip")
+	slugs := sd.VoivodeshipSlugsForPost(bicyclePost)
+	if len(slugs) != 1 || slugs[0] != "wielkopolskie" {
+		t.Errorf("VoivodeshipSlugsForPost(bicycle-trip) = %v, want [wielkopolskie]", slugs)
+	}
+
+	// hike-trip has TownSlugs=["dolnoslaskie", "bystrzyca_klodzka"], so voivodeship is dolnoslaskie
+	hikePost := sd.PostBySlug("hike-trip")
+	slugs = sd.VoivodeshipSlugsForPost(hikePost)
+	if len(slugs) != 1 || slugs[0] != "dolnoslaskie" {
+		t.Errorf("VoivodeshipSlugsForPost(hike-trip) = %v, want [dolnoslaskie]", slugs)
+	}
+
+	// draft has no TownSlugs that match a voivodeship
+	draftPost := sd.PostBySlug("draft")
+	slugs = sd.VoivodeshipSlugsForPost(draftPost)
+	if len(slugs) != 0 {
+		t.Errorf("VoivodeshipSlugsForPost(draft) = %v, want []", slugs)
+	}
+}

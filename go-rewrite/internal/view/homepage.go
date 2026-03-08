@@ -2,6 +2,7 @@ package view
 
 import (
 	"sort"
+	"time"
 
 	"odkrywajac/internal/bundle"
 	"odkrywajac/internal/index"
@@ -19,7 +20,7 @@ func HomepagePage(
 ) Renderable {
 	url := "/index.html"
 
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
+	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, []string{"homepage"})
 
 	stats := navStatsFromIndex(data.NavStats)
 
@@ -46,18 +47,19 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 	}
 
 	type postEntry struct {
-		URL       string     `json:"url"`
-		Title     string     `json:"title"`
-		Subtitle  string     `json:"subtitle,omitempty"`
-		Date      string     `json:"date"`
-		Distance  int        `json:"distance,omitempty"`
-		TimeSpent int        `json:"time_spent,omitempty"`
-		CardImage string     `json:"card_image_url,omitempty"`
-		CardAVIF  string     `json:"card_image_url_avif,omitempty"`
-		Tags      []string   `json:"tags"`
-		TopPhotos []topPhoto `json:"top_photos,omitempty"`
-		Towns     []string   `json:"towns,omitempty"`
-		Counties  []string   `json:"counties,omitempty"`
+		URL        string     `json:"url"`
+		Title      string     `json:"title"`
+		Subtitle   string     `json:"subtitle,omitempty"`
+		Date       string     `json:"date"`
+		Time       string     `json:"time"`
+		DistanceKm int        `json:"distance_km,omitempty"`
+		TimeSpent  int        `json:"time_spent,omitempty"`
+		CardImage  string     `json:"card_image_url,omitempty"`
+		CardAVIF   string     `json:"card_image_url_avif,omitempty"`
+		Tags       []string   `json:"tags"`
+		TopPhotos  []topPhoto `json:"top_photos,omitempty"`
+		Towns      []string   `json:"towns,omitempty"`
+		Counties   []string   `json:"counties,omitempty"`
 		Voivodeships []string `json:"voivodeships,omitempty"`
 		MesoRegions  []string `json:"meso_regions,omitempty"`
 	}
@@ -109,14 +111,15 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 			continue
 		}
 		pe := postEntry{
-			URL:       r.PostURL(post),
-			Title:     post.Title,
-			Subtitle:  post.Subtitle,
-			Date:      post.Date.Format("2006-01-02"),
-			Distance:  int(post.Distance),
-			TimeSpent: int(post.TimeSpent),
-			Tags:      post.TagSlugs,
-			Towns:     post.TownSlugs,
+			URL:        r.PostURL(post),
+			Title:      post.Title,
+			Subtitle:   post.Subtitle,
+			Date:       post.Date.Format("2006-01-02"),
+			Time:       post.Date.Format(time.RFC3339),
+			DistanceKm: int(post.Distance),
+			TimeSpent:  int(post.TimeSpent),
+			Tags:       post.TagSlugs,
+			Towns:      post.TownSlugs,
 			MesoRegions: post.LandSlugs,
 		}
 

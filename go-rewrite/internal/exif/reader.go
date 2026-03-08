@@ -247,9 +247,9 @@ func dmsToDecimal(value any) *float64 {
 		return nil
 	}
 	deg := ratToFloat(rats[0])
-	min := ratToFloat(rats[1])
+	minVal := ratToFloat(rats[1])
 	sec := ratToFloat(rats[2])
-	result := deg + min/60 + sec/3600
+	result := deg + minVal/60 + sec/3600
 	return &result
 }
 
@@ -273,8 +273,7 @@ func getFirstRational(m map[tagKey]exiflib.ExifTag, ifdPath, tagName string) *fl
 	if !ok {
 		return nil
 	}
-	switch v := tag.Value.(type) {
-	case []exifcommon.Rational:
+	if v, ok := tag.Value.([]exifcommon.Rational); ok {
 		if len(v) > 0 {
 			f := ratToFloat(v[0])
 			return &f
@@ -332,8 +331,7 @@ func getFirstSignedRational(m map[tagKey]exiflib.ExifTag, ifdPath, tagName strin
 	if !ok {
 		return nil
 	}
-	switch v := tag.Value.(type) {
-	case []exifcommon.SignedRational:
+	if v, ok := tag.Value.([]exifcommon.SignedRational); ok {
 		if len(v) > 0 {
 			if v[0].Denominator == 0 {
 				return nil

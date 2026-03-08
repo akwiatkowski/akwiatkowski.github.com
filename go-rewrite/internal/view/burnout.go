@@ -1,7 +1,6 @@
 package view
 
 import (
-	"fmt"
 	"sort"
 	"time"
 
@@ -159,11 +158,4 @@ func computeBurnout(data *index.SiteData) views.BurnoutData {
 
 func intPtr(v int) *int {
 	return &v
-}
-
-func formatDelta(v int) string {
-	if v > 0 {
-		return fmt.Sprintf("+%d", v)
-	}
-	return fmt.Sprintf("%d", v)
 }

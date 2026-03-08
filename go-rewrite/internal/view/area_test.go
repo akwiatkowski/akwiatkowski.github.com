@@ -117,12 +117,21 @@ func TestE2EJSONRender(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	json := buf.String()
-	if !strings.Contains(json, "pagorki") {
-		t.Error("JSON should contain post slug")
+	out := buf.String()
+	if !strings.Contains(out, "/2021/07/18-pagorki.html") {
+		t.Error("JSON should contain post URL")
 	}
-	if !strings.Contains(json, "Pagórki przed żniwami") {
-		t.Error("JSON should contain post title")
+	if !strings.Contains(out, `"ready": true`) {
+		t.Error("JSON should contain ready field")
+	}
+	if !strings.Contains(out, `"photos_count":`) {
+		t.Error("JSON should contain photos_count field")
+	}
+	if !strings.Contains(out, `"tags":`) {
+		t.Error("JSON should contain tags array")
+	}
+	if !strings.Contains(out, `"voivodeships":`) {
+		t.Error("JSON should contain voivodeships array at top level")
 	}
 }
 
@@ -186,8 +195,8 @@ func TestGenerateAllViews(t *testing.T) {
 		"/jsons/train_stations.json",       // train stations JSON
 		"/jsons/photo_grid.json",           // photo grid JSON
 		"/jsons/ideas.json",                // ideas JSON
-		"/feed.rss",                        // RSS feed
-		"/feed.atom",                       // Atom feed
+		"/feed.xml",                        // RSS feed
+		"/feed_atom.xml",                   // Atom feed
 		"/sitemap.xml",                     // sitemap
 		"/robots.txt",                      // robots
 		"/mapa_tras.html",                  // route map

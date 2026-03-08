@@ -358,7 +358,7 @@ type PhotoRefData struct {
 func Extract(doc ast.Node) ExtractedData {
 	var data ExtractedData
 
-	ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
+	_ = ast.Walk(doc, func(n ast.Node, entering bool) (ast.WalkStatus, error) {
 		if !entering {
 			return ast.WalkContinue, nil
 		}

@@ -6,30 +6,72 @@ import (
 )
 
 templ HomepageContent(stats layout.NavStats) {
-	<section class="hero-section">
-		<div id="hero-container"></div>
-	</section>
-	<section class="stats-section">
-		@HomepageStats(stats)
-	</section>
-	<section class="posts-section">
-		<div id="posts-grid"></div>
-	</section>
-	<section class="categories-section">
-		<div id="category-chips"></div>
-	</section>
+	<div class="home-page">
+		<!-- Hero -->
+		<section class="hero">
+			<div class="hero-content">
+				<div class="hero-text">
+					<h1>
+						Polska, której nie zobaczysz
+						<span>z autostrady</span>
+					</h1>
+					<p>
+						Boczne drogi. Ciche wsie. Zapomniane krajobrazy.
+					</p>
+					<div class="hero-stats">
+						@HomepageStats(stats)
+					</div>
+				</div>
+				<a href="#" class="hero-image hero-loading">
+					<div class="hero-placeholder"></div>
+					<img src="" alt="" style="display: none;"/>
+					<div class="hero-image-caption">
+						<h3></h3>
+						<p></p>
+					</div>
+				</a>
+			</div>
+		</section>
+		<!-- Recent posts -->
+		<section class="section">
+			<div class="section-header">
+				<h2 class="section-title">Ostatnie wpisy</h2>
+				<a href="/galeria.html" class="section-link">Zobacz wszystkie →</a>
+			</div>
+			<div class="posts-grid"></div>
+		</section>
+		<!-- Categories / Explore -->
+		<section class="section-categories">
+			<div class="section-categories-inner">
+				<div class="section-header">
+					<h2 class="section-title">Odkrywaj</h2>
+				</div>
+				<div class="categories"></div>
+			</div>
+		</section>
+	</div>
 }
 
 templ HomepageStats(stats layout.NavStats) {
-	<div class="stats-row">
-		<span class="stat">
-			{ fmt.Sprintf("%dkm", stats.BicycleDistance) }
+	<div class="stat">
+		<span class="stat-value">
+			{ fmt.Sprintf("%d", stats.BicycleDistance) }
+			<span class="stat-unit">km</span>
 		</span>
-		<span class="stat">
-			{ fmt.Sprintf("%dkm", stats.HikeDistance) }
+		<span class="stat-label">rowerem</span>
+	</div>
+	<div class="stat">
+		<span class="stat-value">
+			{ fmt.Sprintf("%d", stats.HikeDistance) }
+			<span class="stat-unit">km</span>
 		</span>
-		<span class="stat">
-			{ fmt.Sprintf("%dh", stats.SelfTime) }
+		<span class="stat-label">pieszo</span>
+	</div>
+	<div class="stat">
+		<span class="stat-value">
+			{ fmt.Sprintf("%d", stats.SelfTime) }
+			<span class="stat-unit">h</span>
 		</span>
+		<span class="stat-label">w terenie</span>
 	</div>
 }

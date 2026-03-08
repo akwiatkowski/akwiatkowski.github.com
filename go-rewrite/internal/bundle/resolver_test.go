@@ -1,9 +1,11 @@
 package bundle
 
 import (
+	"fmt"
 	"os"
 	"path/filepath"
 	"testing"
+	"time"
 )
 
 func testConfigPath(t *testing.T) string {
@@ -162,5 +164,87 @@ func TestResolvePageAssets(t *testing.T) {
 	}
 	if files[0].Path != "/css/self/new_gallery.css" {
 		t.Errorf("unexpected first gallery file: %s", files[0].Path)
+	}
+}
+
+func TestVersionedPath_WithVersion(t *testing.T) {
+	a := AssetFile{Path: "/css/libs/bootstrap.min.css", Version: "1771078489"}
+	got := a.VersionedPath()
+	want := "/css/libs/bootstrap.min.css?v=1771078489"
+	if got != want {
+		t.Errorf("VersionedPath() = %q, want %q", got, want)
+	}
+}
+
+func TestVersionedPath_WithoutVersion(t *testing.T) {
+	a := AssetFile{Path: "/css/libs/bootstrap.min.css"}
+	got := a.VersionedPath()
+	if got != a.Path {
+		t.Errorf("VersionedPath() = %q, want bare path %q", got, a.Path)
+	}
+}
+
+func TestPopulateVersions(t *testing.T) {
+	dir := t.TempDir()
+
+	// Create a CSS file with known mtime
+	cssDir := filepath.Join(dir, "css", "libs")
+	os.MkdirAll(cssDir, 0o755)
+	cssFile := filepath.Join(cssDir, "bootstrap.min.css")
+	os.WriteFile(cssFile, []byte("body{}"), 0o644)
+
+	mtime := time.Date(2025, 3, 15, 10, 0, 0, 0, time.UTC)
+	os.Chtimes(cssFile, mtime, mtime)
+
+	files := []AssetFile{
+		{Path: "/css/libs/bootstrap.min.css", IsCSS: true},
+		{Path: "/js/libs/missing.js", IsCSS: false},
+	}
+
+	PopulateVersions(files, dir)
+
+	want := fmt.Sprintf("%d", mtime.Unix())
+	if files[0].Version != want {
+		t.Errorf("CSS version = %q, want %q", files[0].Version, want)
+	}
+	if files[1].Version != "" {
+		t.Errorf("missing file should have empty version, got %q", files[1].Version)
+	}
+}
+
+func TestPrecomputeVersions(t *testing.T) {
+	dir := t.TempDir()
+
+	// Create asset files
+	cssDir := filepath.Join(dir, "css", "libs")
+	os.MkdirAll(cssDir, 0o755)
+	cssFile := filepath.Join(cssDir, "bootstrap.min.css")
+	os.WriteFile(cssFile, []byte("body{}"), 0o644)
+
+	mtime := time.Date(2025, 6, 1, 0, 0, 0, 0, time.UTC)
+	os.Chtimes(cssFile, mtime, mtime)
+
+	r, err := NewResolver(testConfigPath(t))
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	r.PrecomputeVersions(dir)
+
+	// Resolve should now include the version
+	files := r.Resolve([]string{"bootstrap-css"})
+	if len(files) != 1 {
+		t.Fatalf("expected 1 file, got %d", len(files))
+	}
+
+	want := fmt.Sprintf("%d", mtime.Unix())
+	if files[0].Version != want {
+		t.Errorf("version = %q, want %q", files[0].Version, want)
+	}
+
+	got := files[0].VersionedPath()
+	wantPath := "/css/libs/bootstrap.min.css?v=" + want
+	if got != wantPath {
+		t.Errorf("VersionedPath() = %q, want %q", got, wantPath)
 	}
 }

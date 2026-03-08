@@ -228,6 +228,22 @@ func (sd *SiteData) computeNavStats() {
 	sd.NavStats.SelfTime = sd.NavStats.BicycleTime + sd.NavStats.HikeTime
 }
 
+// VoivodeshipSlugsForPost returns the voivodeship slugs associated with a post.
+// It checks the area index for which voivodeships have this post linked.
+func (sd *SiteData) VoivodeshipSlugsForPost(post *model.Post) []string {
+	var slugs []string
+	for _, area := range sd.AreasByType[model.AreaTypeVoivodeship] {
+		key := area.MapKey()
+		for _, p := range sd.postsByArea[key] {
+			if p == post {
+				slugs = append(slugs, area.Slug)
+				break
+			}
+		}
+	}
+	return slugs
+}
+
 func containsSlug(slugs []string, target string) bool {
 	for _, s := range slugs {
 		if s == target {

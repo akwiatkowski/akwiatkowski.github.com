@@ -39,16 +39,16 @@ templ HeadOG(p PageData) {
 templ HeadAssets(p PageData) {
 	for _, css := range p.CSSFiles {
 		if css.Integrity != "" {
-			<link rel="stylesheet" href={ css.Path } integrity={ css.Integrity } crossorigin="anonymous"/>
+			<link rel="stylesheet" href={ css.VersionedPath() } integrity={ css.Integrity } crossorigin="anonymous"/>
 		} else {
-			<link rel="stylesheet" href={ css.Path }/>
+			<link rel="stylesheet" href={ css.VersionedPath() }/>
 		}
 	}
 	for _, js := range p.JSFiles {
 		if js.Integrity != "" {
-			<script src={ js.Path } integrity={ js.Integrity } crossorigin="anonymous"></script>
+			<script src={ js.VersionedPath() } integrity={ js.Integrity } crossorigin="anonymous"></script>
 		} else {
-			<script src={ js.Path }></script>
+			<script src={ js.VersionedPath() }></script>
 		}
 	}
 	if p.PageJS != "" {

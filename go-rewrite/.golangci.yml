@@ -1,0 +1,74 @@
+run:
+  timeout: 3m
+
+linters:
+  enable:
+    - errcheck
+    - govet
+    - staticcheck
+    - unused
+    - ineffassign
+    - gosimple
+    - gocritic
+    - revive
+    - misspell
+    - unconvert
+    - unparam
+    - gosec
+
+linters-settings:
+  errcheck:
+    exclude-functions:
+      # io.Writer methods in renderers — errors bubble up via buffer
+      - (io.Writer).Write
+      - (*bytes.Buffer).Write
+      - (*bytes.Buffer).WriteString
+      - (github.com/yuin/goldmark/util.BufWriter).Write
+      - (github.com/yuin/goldmark/util.BufWriter).WriteString
+      - io.WriteString
+
+  gocritic:
+    enabled-tags:
+      - diagnostic
+    disabled-checks:
+      - appendAssign
+
+  revive:
+    rules:
+      - name: blank-imports
+      - name: exported
+        arguments:
+          - disableStutteringCheck
+      - name: unreachable-code
+      - name: redefines-builtin-id
+
+  gosec:
+    excludes:
+      - G104  # unhandled errors (too noisy for Must* patterns)
+      - G304  # file path from variable (expected for static site gen)
+      - G306  # WriteFile 0o644 permissions (static site output, not secrets)
+
+  misspell:
+    locale: US
+    ignore-words:
+      - licence  # used in CSS class name matching upstream data
+
+issues:
+  exclude-dirs:
+    - vendor
+  exclude-rules:
+    - path: _test\.go
+      linters:
+        - errcheck
+        - gosec
+        - unparam
+        - gocritic
+    # goldmark parser interface requires unused parameters
+    - path: internal/markdown/
+      linters:
+        - revive
+      text: "unused-parameter"
+    # interface implementations with required signatures
+    - linters:
+        - revive
+      text: "unused-parameter"

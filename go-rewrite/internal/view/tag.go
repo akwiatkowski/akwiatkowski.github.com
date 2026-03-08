@@ -34,7 +34,7 @@ func TagPostListPage(
 	}
 
 	// Use English slug for JS filtering, Polish slug_pl in URL
-	configJSON := fmt.Sprintf(`{"filterBy":"tag","filterValue":"%s"}`, tag.Slug)
+	configJSON := fmt.Sprintf(`{"filterBy":"tag","filterValue":"%s"}`, tag.Slug) //nolint:gocritic // raw JSON template, %q would break output
 	rawScript := `<script id="post-collection-config" type="application/json">` + configJSON + `</script>`
 
 	return NewHTMLPage(url, page, views.AreaPostListContent(rawScript), true)

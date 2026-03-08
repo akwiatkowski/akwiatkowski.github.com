@@ -80,6 +80,16 @@ func (c *Context) PagesDir() string {
 	return filepath.Join(c.BasePath, "data", "pages")
 }
 
+// AssetsDir returns the path to static asset source files.
+func (c *Context) AssetsDir() string {
+	return filepath.Join(c.BasePath, "data", "assets")
+}
+
+// GoAssetsDir returns the path to Go-specific asset overrides.
+func (c *Context) GoAssetsDir() string {
+	return filepath.Join(c.BasePath, "go-rewrite", "assets")
+}
+
 // GeneratedCacheDir returns the path to the generated cache directory.
 func (c *Context) GeneratedCacheDir() string {
 	return filepath.Join(c.BasePath, "go-rewrite", "cache")

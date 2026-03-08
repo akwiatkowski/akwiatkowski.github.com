@@ -42,8 +42,8 @@ func TestRSSFeed(t *testing.T) {
 
 	feed := RSSFeed(data, rtr)
 
-	if feed.URL() != "/feed.rss" {
-		t.Errorf("URL() = %q, want /feed.rss", feed.URL())
+	if feed.URL() != "/feed.xml" {
+		t.Errorf("URL() = %q, want /feed.xml", feed.URL())
 	}
 	if feed.AddToSitemap() {
 		t.Error("RSS feed should not be in sitemap")
@@ -76,8 +76,8 @@ func TestAtomFeed(t *testing.T) {
 
 	feed := AtomFeed(data, rtr)
 
-	if feed.URL() != "/feed.atom" {
-		t.Errorf("URL() = %q, want /feed.atom", feed.URL())
+	if feed.URL() != "/feed_atom.xml" {
+		t.Errorf("URL() = %q, want /feed_atom.xml", feed.URL())
 	}
 	if feed.AddToSitemap() {
 		t.Error("Atom feed should not be in sitemap")

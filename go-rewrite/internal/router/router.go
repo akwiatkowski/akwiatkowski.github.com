@@ -168,8 +168,8 @@ func (r *Router) YearReportURL(year int) string {
 // Feed URLs
 // ============================================
 
-func (r *Router) RSSURL() string     { return "/feed.rss" }
-func (r *Router) AtomURL() string    { return "/feed.atom" }
+func (r *Router) RSSURL() string     { return "/feed.xml" }
+func (r *Router) AtomURL() string    { return "/feed_atom.xml" }
 func (r *Router) FeedJSON() string   { return "/feed.json" }
 func (r *Router) SitemapURL() string { return "/sitemap.xml" }
 func (r *Router) RobotsURL() string  { return "/robots.txt" }
