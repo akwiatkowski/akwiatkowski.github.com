@@ -66,7 +66,7 @@ func (r *customRenderer) renderPhoto(w util.BufWriter, source []byte, node ast.N
 	n := node.(*PhotoNode)
 
 	post := r.ctx.Post
-	photo := post.PhotoByFilename(n.Filename)
+	photo := post.PublishedPhotoByFilename(n.Filename)
 	if photo == nil {
 		slog.Warn("Photo not found in post", "file", n.Filename, "post", post.Slug)
 		return ast.WalkContinue, nil

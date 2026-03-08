@@ -25,7 +25,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 			Routes: []model.Route{
 				{Type: "bicycle", Segments: [][]model.LatLon{{{Lat: 52.4, Lon: 16.9}, {Lat: 52.5, Lon: 17.0}}}},
 			},
-			PhotoEntities: []*model.Photo{
+			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
 					PostSlug:      "pagorki",

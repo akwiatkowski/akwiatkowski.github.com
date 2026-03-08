@@ -32,7 +32,7 @@ func TestPortfolioPageRender(t *testing.T) {
 			Title:      "Pagórki",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
-			PhotoEntities: []*model.Photo{
+			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "best_photo.jpg",
 					PostSlug:      "pagorki",

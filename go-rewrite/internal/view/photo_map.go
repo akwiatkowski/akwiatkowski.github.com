@@ -40,7 +40,7 @@ func collectPhotoMapData(data *index.SiteData) ([]*model.Photo, []svgpkg.RouteDa
 		}
 		postBySlug[post.Slug] = post
 
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if photo.HasGPS() {
 				photos = append(photos, photo)
 			}
@@ -68,7 +68,7 @@ func collectFilteredMapData(posts []*model.Post, _ *index.SiteData) ([]*model.Ph
 		}
 		postBySlug[post.Slug] = post
 
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if photo.HasGPS() {
 				photos = append(photos, photo)
 			}

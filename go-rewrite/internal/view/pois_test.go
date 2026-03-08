@@ -23,7 +23,7 @@ func testSiteDataForPOIs() *index.SiteData {
 			FinishedAt: &fin,
 			TagSlugs:   []string{"bicycle"},
 			TownSlugs:  []string{"pobiedziska"},
-			PhotoEntities: []*model.Photo{
+			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
 					PostSlug:      "trip1",

@@ -167,7 +167,7 @@ func allPublishedPhotos(data *index.SiteData) []*model.Photo {
 		if !post.IsFinished() {
 			continue
 		}
-		photos = append(photos, post.PhotoEntities...)
+		photos = append(photos, post.PublishedPhotos...)
 	}
 	return photos
 }
@@ -384,7 +384,7 @@ func collectUniqueLenses(data *index.SiteData) []string {
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if photo.Exif != nil && photo.Exif.LensName != "" && !seen[photo.Exif.LensName] {
 				seen[photo.Exif.LensName] = true
 				result = append(result, photo.Exif.LensName)
@@ -402,7 +402,7 @@ func collectUniqueCameras(data *index.SiteData) []string {
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if photo.Exif != nil && photo.Exif.CameraName != "" && !seen[photo.Exif.CameraName] {
 				seen[photo.Exif.CameraName] = true
 				result = append(result, photo.Exif.CameraName)

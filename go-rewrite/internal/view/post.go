@@ -115,7 +115,7 @@ func PostGalleryPage(
 	}
 
 	var photos []galleryPhoto
-	for _, photo := range post.PhotoEntities {
+	for _, photo := range post.PublishedPhotos {
 		photos = append(photos, galleryPhoto{
 			JPEG:     r.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
 			AVIF:     r.ProcessedImageURL(post, photo.ImageFilename, "article", "avif"),

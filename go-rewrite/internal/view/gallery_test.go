@@ -22,7 +22,7 @@ func testSiteDataForGallery() *index.SiteData {
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
 			TagSlugs:   []string{"bicycle"},
-			PhotoEntities: []*model.Photo{
+			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
 					PostSlug:      "test-post",

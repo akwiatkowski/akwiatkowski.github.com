@@ -69,7 +69,7 @@ func TestCollectPhotosByTag(t *testing.T) {
 	if post == nil {
 		t.Fatal("post not found")
 	}
-	post.PhotoEntities = []*model.Photo{
+	post.PublishedPhotos = []*model.Photo{
 		{
 			ImageFilename: "photo1.jpg",
 			PostSlug:      "pagorki",

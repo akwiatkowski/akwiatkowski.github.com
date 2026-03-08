@@ -41,12 +41,12 @@ func buildTagStats(data *index.SiteData, r *router.Router) []views.DebugTagStats
 			continue
 		}
 
-		total := len(post.PhotoEntities)
+		total := len(post.PublishedPhotos)
 		tagged := 0
 		good := 0
 		best := 0
 
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if len(photo.TagSlugs) > 0 {
 				tagged++
 			}

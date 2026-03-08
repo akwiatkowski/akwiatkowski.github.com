@@ -130,19 +130,19 @@ func TestLoadPostPhotos(t *testing.T) {
 	for _, p := range posts {
 		if p.Slug == "pagorki-przed-zniwami" {
 			// Should have many photos
-			if len(p.Photos) < 10 {
-				t.Errorf("expected 10+ photos, got %d", len(p.Photos))
+			if len(p.PublishedPhotoRefs) < 10 {
+				t.Errorf("expected 10+ published photo refs, got %d", len(p.PublishedPhotoRefs))
 			}
 
-			// Check header photo
-			if p.HeaderPhoto == nil {
-				t.Error("expected header photo")
-			} else if !p.HeaderPhoto.IsHeader {
-				t.Error("header photo should have IsHeader=true")
+			// Check header photo ref
+			if p.HeaderPhotoRef == nil {
+				t.Error("expected header photo ref")
+			} else if !p.HeaderPhotoRef.IsHeader {
+				t.Error("header photo ref should have IsHeader=true")
 			}
 
 			// Check a tagged photo
-			for _, photo := range p.Photos {
+			for _, photo := range p.PublishedPhotoRefs {
 				if strings.Contains(photo.Caption, "Modraszek") && len(photo.TagSlugs) > 0 {
 					return // found a photo with tags
 				}

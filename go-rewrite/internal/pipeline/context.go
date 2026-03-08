@@ -95,6 +95,12 @@ func (c *Context) AreaCacheDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "cache", "areas_for_post")
 }
 
+// CrystalExifCacheDir returns the path to the Crystal-generated EXIF cache.
+// Contains per-post YAML files named {date-slug}.yml with image EXIF data.
+func (c *Context) CrystalExifCacheDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "cache", "exifs")
+}
+
 // GeneratedCacheDir returns the path to the generated cache directory.
 func (c *Context) GeneratedCacheDir() string {
 	return filepath.Join(c.BasePath, "go-rewrite", "cache")

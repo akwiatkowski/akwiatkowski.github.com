@@ -111,7 +111,7 @@ func bestUniquePhoto(posts []*model.Post, used map[string]bool) (*model.Photo, *
 	bestScore := -1
 
 	for _, post := range posts {
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			key := post.Slug + "/" + photo.ImageFilename
 			if used[key] {
 				continue

@@ -74,7 +74,7 @@ func collectPhotosByTag(data *index.SiteData, tagSlug string, r *router.Router) 
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if hasSlug(photo.TagSlugs, tagSlug) {
 				cards = append(cards, components.PhotoCardData{
 					JPEGSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),

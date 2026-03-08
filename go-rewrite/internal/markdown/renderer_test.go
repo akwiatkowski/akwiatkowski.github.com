@@ -48,7 +48,7 @@ func testPost() *model.Post {
 		Title:   "Test Post",
 		Date:    time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 		Content: "test",
-		PhotoEntities: []*model.Photo{
+		PublishedPhotos: []*model.Photo{
 			{
 				ImageFilename: "photo1.jpg",
 				PostSlug:      "test-post",

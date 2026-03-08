@@ -145,9 +145,9 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		}
 
 		// Top 4 photos by points
-		if len(post.PhotoEntities) > 0 {
-			sorted := make([]*model.Photo, len(post.PhotoEntities))
-			copy(sorted, post.PhotoEntities)
+		if len(post.PublishedPhotos) > 0 {
+			sorted := make([]*model.Photo, len(post.PublishedPhotos))
+			copy(sorted, post.PublishedPhotos)
 			sort.Slice(sorted, func(i, j int) bool {
 				return sorted[i].Points > sorted[j].Points
 			})

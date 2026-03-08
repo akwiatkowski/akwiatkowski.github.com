@@ -39,14 +39,15 @@ type Post struct {
 	Strava      []string // strava URLs or IDs
 
 	// Parsed from body
-	Photos        []PhotoRef
-	HeaderPhoto   *PhotoRef
-	CrossRefSlugs []string // post slugs from {% post_url %}
-	Content       string   // raw markdown body
+	PublishedPhotoRefs []PhotoRef
+	HeaderPhotoRef     *PhotoRef
+	CrossRefSlugs      []string // post slugs from {% post_url %}
+	Content            string   // raw markdown body
 
 	// Loaded separately
-	Routes        []Route
-	PhotoEntities []*Photo
+	Routes          []Route
+	PublishedPhotos []*Photo // photos from markdown {% photo %} tags, enriched with EXIF
+	AllPhotos       []*Photo // all photos from post's image directory (superset of PublishedPhotos)
 }
 
 // IsFinished returns true if the post has a finished_at date in the past.
@@ -72,9 +73,10 @@ func BuildPostURL(date time.Time, slug string) string {
 	return fmt.Sprintf("/%d/%02d/%02d-%s.html", date.Year(), date.Month(), date.Day(), slug)
 }
 
-// PhotoByFilename finds a loaded Photo entity by its filename.
-func (p *Post) PhotoByFilename(filename string) *Photo {
-	for _, photo := range p.PhotoEntities {
+// PublishedPhotoByFilename finds a published Photo by its image filename.
+// Used by the markdown renderer to look up photo metadata during article rendering.
+func (p *Post) PublishedPhotoByFilename(filename string) *Photo {
+	for _, photo := range p.PublishedPhotos {
 		if photo.ImageFilename == filename {
 			return photo
 		}

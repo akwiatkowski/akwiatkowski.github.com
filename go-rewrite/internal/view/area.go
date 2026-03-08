@@ -164,7 +164,7 @@ func buildAreaShowJSON(
 func collectPhotoCards(posts []*model.Post, r *router.Router) []components.PhotoCardData {
 	var cards []components.PhotoCardData
 	for _, post := range posts {
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			cards = append(cards, components.PhotoCardData{
 				JPEGSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
 				AVIFSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),

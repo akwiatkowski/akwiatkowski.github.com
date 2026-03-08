@@ -90,7 +90,7 @@ func buildAutoPOIs(data *index.SiteData, r *router.Router, manualPOIs []views.PO
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if photo.HasGPS() && photo.Points > 0 {
 				candidates = append(candidates, scoredPhoto{photo, post})
 			}
@@ -161,7 +161,7 @@ func findClosestPhoto(lat, lon float64, data *index.SiteData) (*model.Photo, *mo
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if !photo.HasGPS() {
 				continue
 			}

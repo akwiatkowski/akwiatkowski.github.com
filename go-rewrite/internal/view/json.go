@@ -47,7 +47,7 @@ func E2EJSON(data *index.SiteData, rtr *router.Router) Renderable {
 		result.Posts = append(result.Posts, postEntry{
 			URL:          rtr.PostURL(post),
 			Ready:        post.IsFinished(),
-			PhotosCount:  len(post.PhotoEntities),
+			PhotosCount:  len(post.PublishedPhotos),
 			HasRoute:     post.HasRoutes(),
 			Tags:         tags,
 			Voivodeships: voivSlugs,
@@ -178,7 +178,7 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if len(photo.Desc) < 4 {
 				continue
 			}
@@ -231,7 +231,7 @@ func PhotosMapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if !photo.HasGPS() {
 				continue
 			}
@@ -286,7 +286,7 @@ func PhotoGridJSON(data *index.SiteData, rtr *router.Router) Renderable {
 		if !post.IsFinished() {
 			continue
 		}
-		for _, photo := range post.PhotoEntities {
+		for _, photo := range post.PublishedPhotos {
 			if !photo.HasGPS() {
 				continue
 			}

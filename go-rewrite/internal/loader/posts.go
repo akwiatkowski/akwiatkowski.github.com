@@ -210,16 +210,17 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 		post.FinishedAt = &t
 	}
 
-	// Convert extracted photos to PhotoRefs
+	// Convert extracted photos to PublishedPhotoRefs
 	for _, p := range extracted.Photos {
-		post.Photos = append(post.Photos, model.PhotoRef{
+		post.PublishedPhotoRefs = append(post.PublishedPhotoRefs, model.PhotoRef{
 			Filename: p.Filename,
 			Caption:  p.Caption,
 			TagSlugs: p.Tags,
 		})
 	}
 	if extracted.HeaderPhoto != nil {
-		post.HeaderPhoto = &model.PhotoRef{
+		post.HeaderPhotoRef = &model.PhotoRef{
+			Filename: post.ImageFilename, // header photo uses post's main image
 			Caption:  extracted.HeaderPhoto.Caption,
 			TagSlugs: extracted.HeaderPhoto.Tags,
 			IsHeader: true,

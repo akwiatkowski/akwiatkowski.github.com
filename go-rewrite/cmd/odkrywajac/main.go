@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/exif"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/loader"
 	"odkrywajac/internal/pipeline"
@@ -115,14 +116,23 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Printf("  Posts loaded in %v\n", time.Since(t0))
 	}
 
-	// 4. Build SiteData with indexes
+	// 4. Populate photo data from EXIF cache
+	t0 = time.Now()
+	exifCache := exif.NewCache(ctx.CrystalExifCacheDir())
+	loader.PopulatePublishedPhotos(posts, exifCache, photoTags)
+	loader.PopulateAllPhotos(posts, ctx.ImagesDir(), exifCache)
+	if ctx.Verbose {
+		fmt.Printf("  Photos populated in %v\n", time.Since(t0))
+	}
+
+	// 5. Build SiteData with indexes
 	t0 = time.Now()
 	siteData := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
 	if ctx.Verbose {
 		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
 	}
 
-	// 5. Create Router and BundleResolver
+	// 6. Create Router and BundleResolver
 	siteRouter := router.New(cfg.URL)
 	bundleConfigPath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
 	resolver, err := bundle.NewResolver(bundleConfigPath)
@@ -131,7 +141,7 @@ func runBuild(ctx *pipeline.Context) {
 		os.Exit(1)
 	}
 
-	// 6. Copy static assets
+	// 7. Copy static assets
 	if !ctx.DryRun {
 		t0 = time.Now()
 		copyNode := nodes.NewCopyAssetsNode()
@@ -162,7 +172,7 @@ func runBuild(ctx *pipeline.Context) {
 	polygonDir := filepath.Join(ctx.BasePath, "data", "config", "polygons")
 	pagesDir := ctx.PagesDir()
 
-	// 7. Generate all views
+	// 8. Generate all views
 	t0 = time.Now()
 	views := view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, pagesDir)
 	if ctx.Verbose {
@@ -175,20 +185,20 @@ func runBuild(ctx *pipeline.Context) {
 		return
 	}
 
-	// 8. Load or create build manifest
+	// 9. Load or create build manifest
 	manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
 	manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
 
-	// 9. Render all views in parallel
+	// 10. Render all views in parallel
 	outputDir := ctx.OutputDir()
 	result := render.Render(views, outputDir, manifest, ctx.Workers)
 
-	// 10. Save manifest
+	// 11. Save manifest
 	if err := manifest.Save(manifestPath); err != nil {
 		fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
 	}
 
-	// 11. Print summary
+	// 12. Print summary
 	fmt.Printf("Rendered: %d (%d workers, %v)\n", result.TotalViews, ctx.Workers, result.Duration)
 	fmt.Printf("Written: %d files to %s\n", result.Written, outputDir)
 	fmt.Printf("Skipped: %d (unchanged)\n", result.Skipped)

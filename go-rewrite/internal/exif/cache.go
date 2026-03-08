@@ -18,8 +18,10 @@ type Cache struct {
 }
 
 // NewCache creates a new EXIF cache manager.
+// cacheDir should be the full path to the directory containing per-post YAML files
+// (e.g. env/dev/cache/exifs/).
 func NewCache(cacheDir string) *Cache {
-	return &Cache{cacheDir: filepath.Join(cacheDir, "exif")}
+	return &Cache{cacheDir: cacheDir}
 }
 
 // cachePath returns the path to the cache file for a post.
@@ -65,6 +67,27 @@ func (c *Cache) Load(postSlug string) ([]*model.ExifData, error) {
 		results = append(results, e.toExifData())
 	}
 	return results, nil
+}
+
+// LoadMap reads cached EXIF data for a post and returns it indexed by image filename.
+// This is the preferred method when looking up EXIF data for specific photos,
+// since the cache stores one entry per image file.
+func (c *Cache) LoadMap(postSlug string) (map[string]*model.ExifData, error) {
+	data, err := os.ReadFile(c.cachePath(postSlug))
+	if err != nil {
+		return nil, fmt.Errorf("read cache %s: %w", postSlug, err)
+	}
+
+	var entries []cacheEntry
+	if err := yaml.Unmarshal(data, &entries); err != nil {
+		return nil, fmt.Errorf("parse cache %s: %w", postSlug, err)
+	}
+
+	result := make(map[string]*model.ExifData, len(entries))
+	for _, entry := range entries {
+		result[entry.ImageFilename] = entry.toExifData()
+	}
+	return result, nil
 }
 
 // Generate reads EXIF from source images and writes the cache file.

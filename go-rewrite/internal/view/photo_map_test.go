@@ -31,7 +31,7 @@ func testSiteDataForPhotoMaps() *index.SiteData {
 					},
 				},
 			},
-			PhotoEntities: []*model.Photo{
+			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
 					PostSlug:      "pagorki",
