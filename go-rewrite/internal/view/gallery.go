@@ -207,7 +207,7 @@ func galleryPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	cards := photosToCards(photos, data, r)
@@ -333,7 +333,7 @@ func GalleryIndexPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	links := buildGalleryIndexLinks(data, r)

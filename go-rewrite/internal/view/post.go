@@ -89,7 +89,7 @@ func PostArticlePage(
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
 		ImageURL:     imageURL,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.PostArticleContent(articleData), true)
@@ -138,7 +138,7 @@ func PostGalleryPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.PostGalleryContent(rawScript), true)

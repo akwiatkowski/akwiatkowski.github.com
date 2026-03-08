@@ -40,7 +40,7 @@ func AreaShowPage(
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
 		PageJS:       "/js/self/area_show.js",
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.AreaShowContent(rawScript), true)
@@ -64,7 +64,7 @@ func AreaPostListPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	configJSON := fmt.Sprintf(`{"filterBy":"%s","filterValue":"%s"}`, //nolint:gocritic // raw JSON template, %q would break output
@@ -92,7 +92,7 @@ func AreaGalleryPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	// Collect photos for this area
@@ -199,8 +199,14 @@ func splitAssets(assets []bundle.AssetFile) (css, js []bundle.AssetFile) {
 	return
 }
 
-// navStatsFromIndex converts index.NavStats to layout.NavStats.
-func navStatsFromIndex(ns index.NavStats) layout.NavStats {
+// navStatsFromIndex converts index.NavStats to layout.NavStats with nav links.
+func navStatsFromIndex(ns index.NavStats, r *router.Router, tagBySlug map[string]*model.Tag) layout.NavStats {
+	tagURL := func(slug string) string {
+		if tag, ok := tagBySlug[slug]; ok {
+			return r.TagPostListURL(tag)
+		}
+		return "#"
+	}
 	return layout.NavStats{
 		BicycleDistance: ns.BicycleDistance,
 		BicycleTime:    ns.BicycleTime,
@@ -210,5 +216,11 @@ func navStatsFromIndex(ns index.NavStats) layout.NavStats {
 		HikeCount:      ns.HikeCount,
 		SelfDistance:    ns.SelfDistance,
 		SelfTime:       ns.SelfTime,
+		Links: layout.NavLinks{
+			RoweremURL:   tagURL("bicycle"),
+			PieszoURL:    tagURL("hike"),
+			NajlepszeURL: tagURL("best"),
+			MapURL:       r.MapURL(),
+		},
 	}
 }

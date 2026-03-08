@@ -40,7 +40,7 @@ func YearReportPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.YearReportContent(rd), true)

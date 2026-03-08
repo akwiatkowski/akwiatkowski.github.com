@@ -30,7 +30,7 @@ func TownsTimelinePage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	td := computeTownsTimeline(data, r)

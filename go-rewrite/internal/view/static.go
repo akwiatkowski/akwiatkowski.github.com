@@ -31,7 +31,7 @@ func AboutPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolv
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.StaticAboutContent(content), true)
@@ -52,7 +52,7 @@ func EnglishPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Reso
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.StaticEnglishContent(content), true)
@@ -83,7 +83,7 @@ func MorePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolve
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.StaticMoreContent(links), true)

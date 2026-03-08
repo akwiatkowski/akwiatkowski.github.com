@@ -25,6 +25,14 @@ type PageData struct {
 	NavStats NavStats
 }
 
+// NavLinks holds pre-computed URLs for the navigation bar.
+type NavLinks struct {
+	RoweremURL   string
+	PieszoURL    string
+	NajlepszeURL string
+	MapURL       string
+}
+
 // NavStats holds pre-computed navigation statistics for the nav bar.
 type NavStats struct {
 	BicycleDistance int
@@ -35,6 +43,7 @@ type NavStats struct {
 	HikeCount      int
 	SelfDistance    int
 	SelfTime       int
+	Links          NavLinks
 }
 
 // FullTitle returns the page title with site name suffix.

@@ -23,7 +23,7 @@ func HomepagePage(
 	// Homepage uses its own standalone CSS (no Bootstrap/core), matching Crystal
 	cssFiles, jsFiles := resolveAssets(resolver, nil, []string{"homepage"})
 
-	stats := navStatsFromIndex(data.NavStats)
+	stats := navStatsFromIndex(data.NavStats, r, data.TagBySlug)
 
 	page := layout.PageData{
 		Title:        "Odkrywając Polskę",

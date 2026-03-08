@@ -29,7 +29,7 @@ func ShellPage(
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
 		PageJS:       pageJS,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	return NewHTMLPage(url, page, views.ShellContent(), true)

@@ -26,7 +26,7 @@ func PortfolioPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	// Collect "best" tagged photos

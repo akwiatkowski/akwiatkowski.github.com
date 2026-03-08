@@ -38,7 +38,7 @@ func POIsPage(
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
 		PageJS:       "/js/self/pois.js",
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
 	pois := buildPOIs(data, r)

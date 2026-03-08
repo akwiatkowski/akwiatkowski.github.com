@@ -483,6 +483,28 @@ grep -A 15 "PRIORITY_GROUPS = \[" data/src/view_registry/base.cr
 grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | uniq -d
 ```
 
+## Go Rewrite Coding Conventions
+
+### URL Generation
+
+- **Never hardcode URLs in templates or partials.** Always use the `Router` class methods.
+- **Never create slug-based URL helpers** (e.g. `TagPostListURLBySlugPl(slug)`). Instead, look up the model instance (Tag, Area, etc.) from the appropriate index map (e.g. `data.TagBySlug["bicycle"]`) and pass it to the typed Router method (e.g. `router.TagPostListURL(tag)`). This ensures URLs are only generated for entities that actually exist.
+
+### Naming
+
+- **Use descriptive variable names.** Avoid 1-2 letter names like `r`, `ns`, `p`. Prefer self-explanatory names like `router`, `navStats`, `post`. Short names are acceptable only for very small scopes (loop indices, lambda params).
+
+### Documentation
+
+- **Every exported function and method must have a doc comment** explaining what it does and why it exists.
+- **When adding a new helper or modifying a signature**, document the rationale — not just the "what" but the "why".
+- **If re-reading a file and finding missing documentation**, fill it in. Good comments help both humans and LLMs analyze code faster.
+
+### Pre-commit Checks
+
+- **Always run the linter before committing** Go changes: `mise exec -- golangci-lint run ./...`
+- **Always run tests before committing**: `mise exec -- go test ./...`
+
 ## Go Rewrite Planning Rules
 
 - **Do NOT move to the next phase** unless the current phase is fully planned and approved

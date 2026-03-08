@@ -30,7 +30,7 @@ func TownsIndexPage(
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
 		PageJS:       "/js/self/towns_index.js",
-		NavStats:     navStatsFromIndex(data.NavStats),
+		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
 	townsJSON := buildTownsJSON(data, rtr)
