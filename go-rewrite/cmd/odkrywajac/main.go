@@ -14,6 +14,7 @@ import (
 	"odkrywajac/internal/loader"
 	"odkrywajac/internal/pipeline"
 	"odkrywajac/internal/pipeline/nodes"
+	"odkrywajac/internal/polygon"
 	"odkrywajac/internal/render"
 	"odkrywajac/internal/router"
 	"odkrywajac/internal/view"
@@ -116,7 +117,23 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Printf("  Posts loaded in %v\n", time.Since(t0))
 	}
 
-	// 4. Populate photo data from EXIF cache
+	// 4. Generate polygon GeoJSON files from external data
+	t0 = time.Now()
+	polygonDir := filepath.Join(ctx.GlobalCacheDir(), "polygons")
+	polyResult, err := polygon.Generate(
+		ctx.ExternalDir(), polygonDir, ctx.AreaCacheDir(),
+		posts, areas, polygon.DefaultTolerance, ctx.Force,
+	)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error generating polygons: %v\n", err)
+		os.Exit(1)
+	}
+	if ctx.Verbose {
+		fmt.Printf("  Polygons: %d generated, %d skipped, %d missing in %v\n",
+			polyResult.Generated, polyResult.Skipped, polyResult.Missing, time.Since(t0))
+	}
+
+	// 5. Populate photo data from EXIF cache
 	t0 = time.Now()
 	exifCache := exif.NewCache(ctx.CrystalExifCacheDir())
 	loader.PopulatePublishedPhotos(posts, exifCache, photoTags)
@@ -125,14 +142,14 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Printf("  Photos populated in %v\n", time.Since(t0))
 	}
 
-	// 5. Build SiteData with indexes
+	// 6. Build SiteData with indexes
 	t0 = time.Now()
 	siteData := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
 	if ctx.Verbose {
 		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
 	}
 
-	// 6. Create Router and BundleResolver
+	// 7. Create Router and BundleResolver
 	siteRouter := router.New(cfg.URL)
 	bundleConfigPath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
 	resolver, err := bundle.NewResolver(bundleConfigPath)
@@ -141,7 +158,7 @@ func runBuild(ctx *pipeline.Context) {
 		os.Exit(1)
 	}
 
-	// 7. Copy static assets
+	// 8. Copy static assets
 	if !ctx.DryRun {
 		t0 = time.Now()
 		copyNode := nodes.NewCopyAssetsNode()
@@ -168,11 +185,9 @@ func runBuild(ctx *pipeline.Context) {
 		resolver.PrecomputeVersions(ctx.OutputDir())
 	}
 
-	// Polygon directory for area show pages
-	polygonDir := filepath.Join(ctx.BasePath, "data", "config", "polygons")
 	pagesDir := ctx.PagesDir()
 
-	// 8. Generate all views
+	// 9. Generate all views
 	t0 = time.Now()
 	views := view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, pagesDir)
 	if ctx.Verbose {
@@ -185,20 +200,20 @@ func runBuild(ctx *pipeline.Context) {
 		return
 	}
 
-	// 9. Load or create build manifest
+	// 10. Load or create build manifest
 	manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
 	manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
 
-	// 10. Render all views in parallel
+	// 11. Render all views in parallel
 	outputDir := ctx.OutputDir()
 	result := render.Render(views, outputDir, manifest, ctx.Workers)
 
-	// 11. Save manifest
+	// 12. Save manifest
 	if err := manifest.Save(manifestPath); err != nil {
 		fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
 	}
 
-	// 12. Print summary
+	// 13. Print summary
 	fmt.Printf("Rendered: %d (%d workers, %v)\n", result.TotalViews, ctx.Workers, result.Duration)
 	fmt.Printf("Written: %d files to %s\n", result.Written, outputDir)
 	fmt.Printf("Skipped: %d (unchanged)\n", result.Skipped)

@@ -112,6 +112,7 @@ class Commands::Pipeline::GeneratePolygonJson
   private def collect_visited_areas : Hash(String, Set(String))
     visited = Hash(String, Set(String)).new { |h, k| h[k] = Set(String).new }
 
+    # Source 1: GPS-matched areas from route cache
     CACHE_ENVS.each do |env|
       cache_dir = File.join(["env", env, "cache", "areas_for_post"])
       next unless Dir.exists?(cache_dir)
@@ -120,6 +121,9 @@ class Commands::Pipeline::GeneratePolygonJson
         parse_area_file(file, visited)
       end
     end
+
+    # Source 2: Manually listed areas in post frontmatter (additive)
+    collect_frontmatter_areas(visited)
 
     visited
   end
@@ -150,6 +154,84 @@ class Commands::Pipeline::GeneratePolygonJson
     end
   rescue ex
     puts "  Warning: Failed to parse #{path}: #{ex.message}"
+  end
+
+  # Scan post frontmatter for manually listed towns/lands and add them
+  # to the visited set. Post frontmatter `towns:` can contain both town
+  # and voivodeship slugs; `lands:` can contain meso/macro region slugs.
+  private def collect_frontmatter_areas(visited : Hash(String, Set(String)))
+    # Build slug → area type lookup from matcher data
+    slug_to_type = Hash(String, String).new
+    {
+      "towns"         => @matcher.towns,
+      "counties"      => @matcher.counties,
+      "voivodeships"  => @matcher.voivodeships,
+      "meso_regions"  => @matcher.meso_regions,
+      "macro_regions" => @matcher.macro_regions,
+    }.each do |type_name, areas|
+      areas.each { |area| slug_to_type[area.slug] = type_name }
+    end
+
+    added = 0
+
+    CACHE_ENVS.each do |env|
+      posts_dir = File.join(["env", env, "data", "posts"])
+      next unless Dir.exists?(posts_dir)
+
+      Dir.glob(File.join([posts_dir, "**", "*.md"])).each do |path|
+        added += parse_frontmatter_areas(path, visited, slug_to_type)
+      end
+    end
+
+    puts "Frontmatter: #{added} additional area references added" if added > 0
+  end
+
+  # Parse a post markdown file and extract towns:/lands: from YAML frontmatter.
+  # Returns count of newly added slugs.
+  private def parse_frontmatter_areas(
+    path : String,
+    visited : Hash(String, Set(String)),
+    slug_to_type : Hash(String, String),
+  ) : Int32
+    content = File.read(path)
+    return 0 unless content.starts_with?("---")
+
+    # Find end of YAML frontmatter
+    end_idx = content.index("---", 3)
+    return 0 unless end_idx
+
+    frontmatter = content[4...end_idx]
+    added = 0
+
+    # Extract towns: [...] — contains town and voivodeship slugs
+    if match = frontmatter.match(/^towns:\s*\[([^\]]*)\]/m)
+      match[1].split(",").each do |raw|
+        slug = raw.strip
+        next if slug.empty?
+        if type = slug_to_type[slug]?
+          unless visited[type].includes?(slug)
+            visited[type].add(slug)
+            added += 1
+          end
+        end
+      end
+    end
+
+    # Extract lands: [...] — contains meso/macro region slugs
+    if match = frontmatter.match(/^lands:\s*\[([^\]]*)\]/m)
+      match[1].split(",").each do |raw|
+        slug = raw.strip
+        next if slug.empty?
+        if type = slug_to_type[slug]?
+          unless visited[type].includes?(slug)
+            visited[type].add(slug)
+            added += 1
+          end
+        end
+      end
+    end
+
+    added
   end
 
   private def generate_polygons(

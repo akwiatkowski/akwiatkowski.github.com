@@ -155,7 +155,7 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 	if matches == nil {
 		return nil, fmt.Errorf("invalid post filename: %s", base)
 	}
-	slug := matches[4]
+	slug := strings.TrimSuffix(base, ".md")
 
 	// Split front matter and body
 	fm, body, err := splitFrontMatter(string(data))
@@ -203,7 +203,9 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 		Content:       body,
 		CrossRefSlugs: extracted.CrossRefs,
 	}
-	post.URL = model.BuildPostURL(post.Date, slug)
+	// URL derives path from date + slug: /2021/07/24-w-trakcie-zniw.html
+	post.URL = fmt.Sprintf("/%d/%02d/%s.html",
+		post.Date.Year(), post.Date.Month(), slug[8:])
 
 	if meta.FinishedAt != nil && !meta.FinishedAt.IsZero() {
 		t := meta.FinishedAt.Time
@@ -324,7 +326,7 @@ func EnrichPostsWithAreaCache(posts []*model.Post, cacheDir string) {
 	}
 
 	for _, post := range posts {
-		filename := fmt.Sprintf("%s-%s.yml", post.Date.Format("2006-01-02"), post.Slug)
+		filename := post.Slug + ".yml"
 		path := filepath.Join(cacheDir, filename)
 
 		data, err := os.ReadFile(path)

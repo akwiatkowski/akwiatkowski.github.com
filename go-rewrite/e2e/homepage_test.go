@@ -119,7 +119,7 @@ func TestHomepageJSONImageURLsCorrect(t *testing.T) {
 	}
 
 	for i, post := range data.Posts {
-		// Card image URL must follow Crystal format: {date-slug}_{filename_without_ext}_{size}.{format}
+		// Card image URL must follow Crystal format: {slug}_{filename_without_ext}_{size}.{format}
 		if post.CardImage != "" {
 			// Must NOT have double extension (e.g. .jpg_card.jpg)
 			if strings.Contains(post.CardImage, ".jpg_") || strings.Contains(post.CardImage, ".png_") {

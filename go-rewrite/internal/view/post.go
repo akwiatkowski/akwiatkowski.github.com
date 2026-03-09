@@ -15,6 +15,12 @@ import (
 	"odkrywajac/internal/templates/views"
 )
 
+// polishWeekday returns the Polish name for a weekday.
+var polishWeekdays = [...]string{
+	"niedziela", "poniedziałek", "wtorek", "środa",
+	"czwartek", "piątek", "sobota",
+}
+
 // PostArticlePage creates a Renderable for a post article page.
 func PostArticlePage(
 	data *index.SiteData,
@@ -29,14 +35,30 @@ func PostArticlePage(
 		Post:       post,
 		PostLookup: data,
 		URLBuilder: r,
+		TagLookup:  data,
 	}
 	renderedHTML, err := markdown.RenderPost(post.Content, renderCtx)
 	if err != nil {
 		renderedHTML = fmt.Sprintf("<p>Error rendering markdown: %s</p>", err)
 	}
 
+	// Hero header image
+	var heroImageURL string
+	if post.ImageFilename != "" {
+		heroImageURL = r.PostImageURL(post, post.ImageFilename)
+	}
+
+	// Format date with Polish weekday: "2022-12-18 (niedziela)"
+	dateStr := fmt.Sprintf("%s (%s)", post.Date.Format("2006-01-02"), polishWeekdays[post.Date.Weekday()])
+
 	// Build article data
 	articleData := views.PostArticleData{
+		HeroImageURL:     heroImageURL,
+		ImagePosition:    heroImagePosition(post.ImagePosition),
+		Title:            post.Title,
+		Subtitle:         post.Subtitle,
+		DateStr:          dateStr,
+		Author:           post.Author,
 		RenderedMarkdown: renderedHTML,
 		TagLinks:         buildTagLinks(data, post, r),
 		AreaLinks:        buildAreaLinks(data, post, r),
@@ -44,6 +66,32 @@ func PostArticlePage(
 
 	// Gallery URL
 	articleData.GalleryURL = r.PostGalleryURL(post)
+
+	// SVG map and route stats
+	if post.HasRoutes() {
+		articleData.SvgMapURL = fmt.Sprintf("/mapa_zdjec/wpis/%s.svg", post.Slug)
+
+		if cr, ok := post.RoutesCoordRange(); ok {
+			center := cr.Center()
+			zoom := 11
+			articleData.MapLinks = []views.MapLink{
+				{Name: "UMP", URL: fmt.Sprintf("https://mapa.ump.waw.pl/ump-www/?zoom=%d&lat=%f&lon=%f", zoom, center.Lat, center.Lon)},
+				{Name: "OSM", URL: fmt.Sprintf("https://www.openstreetmap.org/#map=%d/%f/%f", zoom, center.Lat, center.Lon)},
+				{Name: "Mapy.cz", URL: fmt.Sprintf("https://en.mapy.cz/zakladni?x=%f&y=%f&z=%d", center.Lon, center.Lat, zoom)},
+				{Name: "Google", URL: fmt.Sprintf("https://www.google.pl/maps/@%f,%f,%dz", center.Lat, center.Lon, zoom)},
+			}
+		}
+	}
+	articleData.ActivityBadge = activityBadge(post)
+	if post.Distance > 0 {
+		articleData.DistanceStr = fmt.Sprintf("%d km", int(post.Distance))
+	}
+	if post.TimeSpent > 0 {
+		articleData.TimeStr = fmt.Sprintf("%d h", int(post.TimeSpent))
+	}
+	if post.Temperature != nil {
+		articleData.TemperatureStr = temperatureStr(*post.Temperature)
+	}
 
 	// Finished at
 	if post.FinishedAt != nil {
@@ -53,17 +101,21 @@ func PostArticlePage(
 	// Prev/next posts
 	prevPost, nextPost := findAdjacentPosts(data.Posts, post)
 	if prevPost != nil {
+		jpegURL, avifURL := postThumbnailURLs(r, prevPost)
 		articleData.PrevPost = &views.PostPagerData{
-			URL:          r.PostURL(prevPost),
-			Title:        prevPost.Title,
-			ThumbnailURL: postThumbnailURL(r, prevPost),
+			URL:              r.PostURL(prevPost),
+			Title:            prevPost.Title,
+			ThumbnailJPEGURL: jpegURL,
+			ThumbnailAVIFURL: avifURL,
 		}
 	}
 	if nextPost != nil {
+		jpegURL, avifURL := postThumbnailURLs(r, nextPost)
 		articleData.NextPost = &views.PostPagerData{
-			URL:          r.PostURL(nextPost),
-			Title:        nextPost.Title,
-			ThumbnailURL: postThumbnailURL(r, nextPost),
+			URL:              r.PostURL(nextPost),
+			Title:            nextPost.Title,
+			ThumbnailJPEGURL: jpegURL,
+			ThumbnailAVIFURL: avifURL,
 		}
 	}
 
@@ -203,8 +255,7 @@ func buildAreaLinks(data *index.SiteData, post *model.Post, r *router.Router) []
 		model.AreaTypeTown:        "Gminy",
 		model.AreaTypeCounty:      "Powiaty",
 		model.AreaTypeVoivodeship: "Województwa",
-		model.AreaTypeMesoRegion:  "Mezoregiony",
-		model.AreaTypeMacroRegion: "Makroregiony",
+		model.AreaTypeMesoRegion:  "Krainy",
 	}
 
 	var groups []views.PostAreaGroup
@@ -247,12 +298,46 @@ func findAdjacentPosts(posts []*model.Post, current *model.Post) (prev, next *mo
 	return
 }
 
-// postThumbnailURL returns the thumbnail URL for a post's header image.
-func postThumbnailURL(r *router.Router, post *model.Post) string {
-	if post.ImageFilename == "" {
-		return ""
+// heroImagePosition returns the CSS background-position for a post's hero header.
+// Defaults to "50% 50%" if not specified in the post's front matter.
+func heroImagePosition(position string) string {
+	if position == "" {
+		return "50% 50%"
 	}
-	return r.ProcessedImageURL(post, post.ImageFilename, "thumbnail", "jpg")
+	return position
+}
+
+// postThumbnailURLs returns the JPEG and AVIF thumbnail URLs for a post's header image.
+func postThumbnailURLs(r *router.Router, post *model.Post) (jpegURL, avifURL string) {
+	if post.ImageFilename == "" {
+		return "", ""
+	}
+	return r.ProcessedImageURL(post, post.ImageFilename, "thumbnail", "jpg"),
+		r.ProcessedImageURL(post, post.ImageFilename, "thumbnail", "avif")
+}
+
+// activityBadge returns an emoji badge for the post's activity type.
+func activityBadge(post *model.Post) string {
+	for _, slug := range post.TagSlugs {
+		switch slug {
+		case "bicycle":
+			return "🚲 rowerem"
+		case "hike":
+			return "🥾 pieszo"
+		}
+	}
+	return ""
+}
+
+// temperatureStr formats a temperature with an appropriate emoji.
+func temperatureStr(temp int) string {
+	emoji := "🌡️"
+	if temp <= 0 {
+		emoji = "❄️"
+	} else if temp >= 25 {
+		emoji = "☀️"
+	}
+	return fmt.Sprintf("%s %d °C", emoji, temp)
 }
 
 // buildRelatedPosts finds related posts by shared areas/tags.

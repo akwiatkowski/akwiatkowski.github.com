@@ -22,7 +22,7 @@ func PopulatePublishedPhotos(posts []*model.Post, exifCache *exif.Cache, photoTa
 			continue
 		}
 
-		exifByFilename := loadExifMap(exifCache, post.DateSlug())
+		exifByFilename := loadExifMap(exifCache, post.Slug)
 
 		for _, ref := range post.PublishedPhotoRefs {
 			photo := &model.Photo{
@@ -62,7 +62,7 @@ func PopulateAllPhotos(posts []*model.Post, imagesDir string, exifCache *exif.Ca
 		}
 
 		// Load EXIF data for non-published photos.
-		exifByFilename := loadExifMap(exifCache, post.DateSlug())
+		exifByFilename := loadExifMap(exifCache, post.Slug)
 
 		var allPhotos []*model.Photo
 
@@ -91,11 +91,9 @@ func PopulateAllPhotos(posts []*model.Post, imagesDir string, exifCache *exif.Ca
 }
 
 // postImagesPath returns the filesystem path to a post's image directory.
-// Convention: images/{year}/{date-slug}/ (e.g. images/2022/2022-12-18-zdazyc-przed-koncem-zimy/).
+// Convention: images/{year}/{slug}/ (e.g. images/2022/2022-12-18-zdazyc-przed-koncem-zimy/).
 func postImagesPath(imagesDir string, post *model.Post) string {
-	year := post.Date.Format("2006")
-	dateSlug := post.DateSlug()
-	return filepath.Join(imagesDir, year, dateSlug)
+	return filepath.Join(imagesDir, post.Date.Format("2006"), post.Slug)
 }
 
 // listImageFiles returns sorted basenames of .jpg/.jpeg/.png files in a directory.

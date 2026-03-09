@@ -17,7 +17,7 @@ func testSiteDataForPhotoMaps() *index.SiteData {
 	lat, lon := 52.4, 16.9
 	posts := []*model.Post{
 		{
-			Slug:       "pagorki",
+			Slug:       "2021-07-18-pagorki",
 			Title:      "Pagórki",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
@@ -34,7 +34,7 @@ func testSiteDataForPhotoMaps() *index.SiteData {
 			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
-					PostSlug:      "pagorki",
+					PostSlug:      "2021-07-18-pagorki",
 					Desc:          "Test photo",
 					IsTimeline:    true,
 					Exif: &model.ExifData{

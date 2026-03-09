@@ -2,6 +2,7 @@ package exif
 
 import (
 	"fmt"
+	"log/slog"
 	"os"
 	"path/filepath"
 	"strings"
@@ -11,6 +12,115 @@ import (
 
 	"gopkg.in/yaml.v3"
 )
+
+// cameraNames maps raw EXIF camera model strings to human-readable names.
+// Matches Crystal's ExifEntity::CAMERA_NAMES.
+var cameraNames = map[string]string{
+	"ILCE-7M3":            "Sony A7 III",
+	"ILCE-7R":             "Sony A7R",
+	"ILCE-7RM3":           "Sony A7R III",
+	"E-M1MarkII":          "Olympus M1m2",
+	"E-M1MarkIII":         "Olympus M1m3",
+	"E-M10MarkII":         "Olympus M10m2",
+	"Hero3-Black Edition": "Gopro 3 Black",
+	"PENTAX K-S2":         "Pentax K-S2",
+	"PENTAX K100D":        "Pentax K100D",
+	"PENTAX K-5":          "Pentax K-5",
+	"FC1102":              "DJI Spark",
+	"Redmi Note 3":        "Xiaomi Redmi Note 3",
+	"FC3582":              "DJI Mini 3 Pro",
+	"OM-1":                "OM System OM-1",
+	"iPhone 13 Pro":       "iPhone 13 Pro",
+	"L2D-20c":             "DJI Mavic 3 (ekw. 24mm)",
+	"FC4170":              "DJI Mavic 3 (tele ekw. 160mm)",
+}
+
+// lensNames maps raw EXIF lens model strings to human-readable names.
+// Matches Crystal's ExifEntity::LENS_NAMES.
+var lensNames = map[string]string{
+	"FE 85mm F1.8":                                  "Sony 85mm f1.8",
+	"E 28-75mm F2.8-2.8":                            "Tamron 28-75mm f2.8",
+	"E 70-180mm F2.8 A056":                          "Tamron 70-180mm f2.8",
+	"100-400mm F5-6.3 DG DN OS | Contemporary 020":  "Sigma 100-400mm f5-6.3",
+	"LUMIX G VARIO 14-140/F3.5-5.6":                 "Lumix 14-140mm",
+	"OLYMPUS M.12-100mm F4.0":                       "Olympus 12-100mm f4",
+	"LUMIX G 20/F1.7 II":                            "Lumix 20mm f1.7",
+	"M.40-150mm F2.8 + MC-14":                       "Olympus 40-150mm f2.8 + TC 1.4x",
+	"M.40-150mm F2.8 + MC-20":                       "Olympus 40-150mm f2.8 + TC 2.0x",
+	"E 20mm F2":                                     "Tokina 20mm f2",
+	"OLYMPUS M.40-150mm F2.8":                       "Olympus 40-150mm f2.8",
+	"OLYMPUS M.9-18mm F4.0-5.6":                     "Olympus 9-18mm",
+	"OLYMPUS M.60mm F2.8 Macro":                     "Olympus 60mm Macro",
+	"smc PENTAX-DA 16-45mm F4 ED AL":                "Pentax DA 16-45mm f4",
+	"smc PENTAX-DA 15mm F4 ED AL Limited":           "Pentax Limited 15mm f4",
+	"OLYMPUS M.75-300mm F4.8-6.7 II":                "Olympus 75-300mm",
+	"Sigma 150-500mm F5-6.3 APO DG OS HSM":          "Sigma 150-500mm",
+	"smc PENTAX-FA Macro 50mm F2.8":                 "Pentax FA 50mm Macro",
+	"OLYMPUS M.25mm F1.2":                           "Olympus 25mm f1.2",
+	"smc PENTAX-DA 70mm F2.4 Limited":               "Pentax Limited 70mm f2.4",
+	"smc PENTAX-DA 40mm F2.8 Limited":               "Pentax Limited 40mm f2.8",
+	"smc PENTAX-DA 35mm F2.4 AL":                    "Pentax DA 35mm f2.4",
+	"OLYMPUS M.17mm F1.2":                           "Olympus 17mm f1.2",
+	"LEICA DG SUMMILUX 25/F1.4":                     "Lumix 25mm f1.4",
+	"Sigma Lens":                                    "Nieznane",
+	"A Series Lens":                                 "Nieznane",
+	"K or M Lens":                                   "Nieznane",
+	"OLYMPUS M.75mm F1.8":                           "Olympus 75mm f1.8",
+	"LEICA DG 8-18/F2.8-4.0":                        "Lumix 8-18mm",
+	"OLYMPUS M.8mm F1.8":                            "Olympus 8mm f1.8",
+	"105mm F1.4 DG HSM | Art 018":                   "Sigma 105mm f1.4",
+	"OLYMPUS M.14-42mm F3.5-5.6 EZ":                 "Olympus 14-42mm Kit",
+	"OLYMPUS M.14-42mm F3.5-5.6 II R":               "Olympus 14-42mm Kit",
+	"Sigma 17-50/2.8":                               "Sigma 17-50mm/2.8",
+	"Sigma 10-20":                                   "Sigma 10-20mm",
+	"Pentax FA 50mm Macro":                          "Pentax FA 50mm F2.8",
+	"Ports 55/1.2":                                  "Ports 55mm f1.2",
+	"Sigma 18-200 old":                              "Sigma 18-200mm (old)",
+	"Sigma 18-200 C":                                "Sigma 18-200mm C",
+	"FE 70-200mm F2.8 GM OSS":                       "Sony GM 70-200mm f2.8",
+	"----":                                          "Nieznane",
+	"Pentax SMC-A 135/2.8":                          "Pentax A 135mm f2.8",
+	"M.300mm F4.0 + MC-14":                          "Olympus 300mm f4 + TC 1.4x",
+	"M.300mm F4.0 + MC-20":                          "Olympus 300mm f4 + TC 2.0x",
+	"OLYMPUS M.300mm F4.0":                          "Olympus 300mm f4",
+	"OLYMPUS M.100-400mm F5.0-6.3":                  "Olympus 100-400mm f5-6.3",
+	"OLYMPUS M.7-14mm F2.8":                         "Olympus 7-14mm f2.8",
+	"OLYMPUS M.8-25mm F4.0":                         "Olympus 8-25mm f4",
+	"85mm F1.4 DG DN | Art 020":                     "Sigma 85mm f1.4",
+	"OM 8-25mm F4.0":                                "Olympus 8-25mm f4",
+	"iPhone 13 Pro back triple camera 9mm f/2.8":    "Tele 9mm f2.8 (ekw. 77mm)",
+	"iPhone 13 Pro back triple camera 1.57mm f/1.8": "Szeroki 1.57mm (ekw. 13mm)",
+	"OM 90mm F3.5":                                  "Olympus 90mm Macro",
+	"Sigma 55-200mm F4-5.6 DC":                      "Sigma 55-200mm f4-5.6",
+}
+
+// resolveCameraName maps raw EXIF camera string to a human-readable name.
+// Logs a warning if the camera is not in the dictionary.
+func resolveCameraName(raw string) string {
+	raw = strings.TrimSpace(raw)
+	if raw == "" {
+		return ""
+	}
+	if name, ok := cameraNames[raw]; ok {
+		return name
+	}
+	slog.Warn("Unknown camera model, add to exif/cache.go cameraNames", "camera", raw)
+	return raw
+}
+
+// resolveLensName maps raw EXIF lens string to a human-readable name.
+// Logs a warning if the lens is not in the dictionary.
+func resolveLensName(raw string) string {
+	raw = strings.TrimSpace(raw)
+	if raw == "" {
+		return ""
+	}
+	if name, ok := lensNames[raw]; ok {
+		return name
+	}
+	slog.Warn("Unknown lens model, add to exif/cache.go lensNames", "lens", raw)
+	return raw
+}
 
 // Cache manages per-post EXIF cache files at cacheDir/{post_slug}.yml.
 type Cache struct {
@@ -223,6 +333,17 @@ func cacheEntryFromExif(imageFilename, postSlug string, d *model.ExifData) cache
 }
 
 func (e *cacheEntry) toExifData() *model.ExifData {
+	// Resolve human-readable names from raw EXIF strings.
+	// If the cache already has friendly names, use them; otherwise map from raw values.
+	cameraName := e.CameraName
+	if cameraName == "" {
+		cameraName = resolveCameraName(e.Camera)
+	}
+	lensName := e.LensName
+	if lensName == "" {
+		lensName = resolveLensName(e.Lens)
+	}
+
 	d := &model.ExifData{
 		Lat:            e.Lat,
 		Lon:            e.Lon,
@@ -239,8 +360,8 @@ func (e *cacheEntry) toExifData() *model.ExifData {
 		Height:         e.Height,
 		Lens:           e.Lens,
 		Camera:         e.Camera,
-		LensName:       e.LensName,
-		CameraName:     e.CameraName,
+		LensName:       lensName,
+		CameraName:     cameraName,
 		Make:           e.Make,
 		WhiteBalance:   e.WhiteBalance,
 		MeteringMode:   e.MeteringMode,

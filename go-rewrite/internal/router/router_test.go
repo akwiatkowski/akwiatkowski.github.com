@@ -117,7 +117,7 @@ func TestTagLinkURL(t *testing.T) {
 func TestPostURL(t *testing.T) {
 	r := newRouter()
 	post := &model.Post{
-		Slug: "pagorki-przed-zniwami",
+		Slug: "2021-07-18-pagorki-przed-zniwami",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
 	want := "/2021/07/18-pagorki-przed-zniwami.html"
@@ -129,7 +129,7 @@ func TestPostURL(t *testing.T) {
 func TestPostGalleryURL(t *testing.T) {
 	r := newRouter()
 	post := &model.Post{
-		Slug: "pagorki",
+		Slug: "2021-07-18-pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
 	want := "/2021/07/pagorki/galeria.html"
@@ -141,7 +141,7 @@ func TestPostGalleryURL(t *testing.T) {
 func TestPostGalleryStatsURL(t *testing.T) {
 	r := newRouter()
 	post := &model.Post{
-		Slug: "pagorki",
+		Slug: "2021-07-18-pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
 	want := "/2021/07/pagorki/galeria-statystyki.html"
@@ -150,21 +150,32 @@ func TestPostGalleryStatsURL(t *testing.T) {
 	}
 }
 
+func TestPostImageURL(t *testing.T) {
+	r := newRouter()
+	post := &model.Post{
+		Slug: "2021-07-18-pagorki",
+		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
+	}
+	got := r.PostImageURL(post, "header.jpg")
+	want := "/images/2021/2021-07-18-pagorki/header.jpg"
+	if got != want {
+		t.Errorf("PostImageURL() = %q, want %q", got, want)
+	}
+}
+
 func TestProcessedImageURL(t *testing.T) {
 	r := newRouter()
 	post := &model.Post{
-		Slug: "pagorki",
+		Slug: "2021-07-18-pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
 
-	// Extension is stripped, date-slug is used
 	got := r.ProcessedImageURL(post, "header.jpg", "grid", "avif")
 	want := "/images/processed/2021/07/2021-07-18-pagorki_header_grid.avif"
 	if got != want {
 		t.Errorf("ProcessedImageURL() = %q, want %q", got, want)
 	}
 
-	// Realistic filename with timestamp
 	got2 := r.ProcessedImageURL(post, "2021_07_18__11_18__7189980.jpg", "card", "jpg")
 	want2 := "/images/processed/2021/07/2021-07-18-pagorki_2021_07_18__11_18__7189980_card.jpg"
 	if got2 != want2 {
@@ -263,7 +274,7 @@ func TestCanonicalURL(t *testing.T) {
 func TestMonthZeroPadding(t *testing.T) {
 	r := newRouter()
 	post := &model.Post{
-		Slug: "spacer",
+		Slug: "2018-01-05-spacer",
 		Date: time.Date(2018, 1, 5, 0, 0, 0, 0, time.UTC),
 	}
 	got := r.PostURL(post)

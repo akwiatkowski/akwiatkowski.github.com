@@ -17,7 +17,7 @@ func testSiteDataForBurnout() *index.SiteData {
 	fin2 := time.Date(2022, 7, 15, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "trip-jul-2021",
+			Slug:       "2021-07-18-trip-jul-2021",
 			Title:      "July 2021",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin1,
@@ -26,7 +26,7 @@ func testSiteDataForBurnout() *index.SiteData {
 			TimeSpent:  3.0,
 		},
 		{
-			Slug:       "trip-jul-2022",
+			Slug:       "2022-07-14-trip-jul-2022",
 			Title:      "July 2022",
 			Date:       time.Date(2022, 7, 14, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin2,

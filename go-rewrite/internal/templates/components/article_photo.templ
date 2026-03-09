@@ -5,6 +5,52 @@ import (
 	"strconv"
 )
 
+// bootstrapIconNames maps photo tag slugs to Bootstrap Icons names.
+// Only tags with a known icon are rendered as icon links in photo captions.
+// See: https://icons.getbootstrap.com
+var bootstrapIconNames = map[string]string{
+	"good":       "check-circle-fill",
+	"best":       "gem",
+	"cat":        "eye-fill",
+	"macro":      "droplet",
+	"bird":       "binoculars",
+	"winter":     "snow3",
+	"timeline":   "calendar-date",
+	"transport":  "gear-wide",
+	"water":      "water",
+	"sunrise":    "sunrise",
+	"city":       "shop",
+	"mountains":  "triangle",
+	"spring":     "flower1",
+	"night":      "moon-stars",
+	"train":      "train-front",
+	"summer":     "sun",
+	"autumn":     "tree",
+	"rural":      "house",
+	"forest":     "tree-fill",
+	"ruin":       "building",
+	"fog":        "cloud-fog",
+	"wildlife":   "bug",
+	"animal":     "github",
+	"road":       "signpost-split",
+	"nature":     "flower2",
+	"industrial": "gear-fill",
+	"sign":       "signpost",
+	"town":       "houses",
+	"air":        "airplane",
+	"weather":    "cloud-sun",
+	"portfolio":  "star-fill",
+}
+
+// ResolveBootstrapIcon returns the Bootstrap Icon name for a tag slug.
+// Returns empty string if no icon is mapped for this tag.
+func ResolveBootstrapIcon(tagSlug string) string {
+	if name, ok := bootstrapIconNames[tagSlug]; ok {
+		return name
+	}
+	return ""
+}
+
 // ArticlePhotoData holds data for rendering an article photo figure.
 type ArticlePhotoData struct {
 	// Image URLs
@@ -89,7 +135,7 @@ templ ArticlePhoto(data ArticlePhotoData) {
 			<span class="photo-caption-title">
 				for _, tagLink := range data.TagLinks {
 					<a href={ templ.SafeURL(tagLink.URL) }>
-						<img src={ fmt.Sprintf("/img/%s.ico", tagLink.Icon) } alt={ tagLink.Icon } class="tag-icon"/>
+						@BootstrapIcon(tagLink.Icon)
 					</a>
 					{ " " }
 				}
@@ -97,4 +143,15 @@ templ ArticlePhoto(data ArticlePhotoData) {
 			</span>
 		</figcaption>
 	</figure>
+}
+
+// bootstrapIconHref returns the SVG sprite reference for a Bootstrap Icon.
+func bootstrapIconHref(iconName string) string {
+	return fmt.Sprintf("/icons/bootstrap-icons.svg#%s", iconName)
+}
+
+templ BootstrapIcon(iconName string) {
+	<svg class="bi" width="16" height="16" fill="currentColor">
+		<use href={ bootstrapIconHref(iconName) }/>
+	</svg>
 }

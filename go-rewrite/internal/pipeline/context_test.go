@@ -23,7 +23,7 @@ func TestContextPathHelpers(t *testing.T) {
 		{"OutputDir", ctx.OutputDir(), "/project/env/dev/public/go"},
 		{"ConfigDir", ctx.ConfigDir(), "/project/data/config"},
 		{"ExternalDir", ctx.ExternalDir(), "/project/data/external"},
-		{"GeneratedCacheDir", ctx.GeneratedCacheDir(), "/project/go-rewrite/cache"},
+		{"GlobalCacheDir", ctx.GlobalCacheDir(), "/project/data/cache-go"},
 	}
 
 	for _, tt := range tests {

@@ -108,24 +108,28 @@ func (r *Router) TagLinkURL(tag *model.Tag) string {
 // Post URLs
 // ============================================
 
-// PostURL returns the post article URL: /<year>/<month>/<day>-<slug>.html
+// PostURL returns the post article URL: /<year>/<month>/<day>-<name>.html
+// Slug is "2021-07-24-w-trakcie-zniw", URL is "/2021/07/24-w-trakcie-zniw.html".
 func (r *Router) PostURL(post *model.Post) string {
-	return model.BuildPostURL(post.Date, post.Slug)
+	// Strip "YYYY-MM-" prefix (8 chars) to get "DD-name" for the URL filename
+	return fmt.Sprintf("/%d/%02d/%s.html",
+		post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
-// PostGalleryURL returns the post gallery URL: /<year>/<month>/<slug>/galeria.html
+// PostGalleryURL returns the post gallery URL: /<year>/<month>/<name>/galeria.html
 func (r *Router) PostGalleryURL(post *model.Post) string {
 	return fmt.Sprintf("/%d/%02d/%s/galeria.html",
-		post.Date.Year(), post.Date.Month(), post.Slug)
+		post.Date.Year(), post.Date.Month(), post.SlugName())
 }
 
 // PostGalleryStatsURL returns the gallery stats URL.
 func (r *Router) PostGalleryStatsURL(post *model.Post) string {
 	return fmt.Sprintf("/%d/%02d/%s/galeria-statystyki.html",
-		post.Date.Year(), post.Date.Month(), post.Slug)
+		post.Date.Year(), post.Date.Month(), post.SlugName())
 }
 
 // PostImageURL returns the full-size image URL.
+// Directory structure is images/{year}/{slug}/{filename}.
 func (r *Router) PostImageURL(post *model.Post, filename string) string {
 	return fmt.Sprintf("/images/%d/%s/%s", post.Date.Year(), post.Slug, filename)
 }
@@ -133,15 +137,13 @@ func (r *Router) PostImageURL(post *model.Post, filename string) string {
 // ProcessedImageURL returns a processed (resized) image URL.
 // size is one of: "article", "card", "grid", "thumbnail"
 // format is "jpg" or "avif"
-// Matches Crystal: /images/processed/YYYY/MM/{date-slug}_{filename_without_ext}_{size}.{format}
 func (r *Router) ProcessedImageURL(post *model.Post, filename, size, format string) string {
-	// Strip file extension from filename (Crystal does this too)
 	nameWithoutExt := filename
 	if idx := strings.LastIndex(filename, "."); idx > 0 {
 		nameWithoutExt = filename[:idx]
 	}
 	return fmt.Sprintf("/images/processed/%d/%02d/%s_%s_%s.%s",
-		post.Date.Year(), post.Date.Month(), post.DateSlug(), nameWithoutExt, size, format)
+		post.Date.Year(), post.Date.Month(), post.Slug, nameWithoutExt, size, format)
 }
 
 // ============================================

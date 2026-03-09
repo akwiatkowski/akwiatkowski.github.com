@@ -17,7 +17,7 @@ func testSiteDataForGallery() *index.SiteData {
 	exp := 1.0 / 125.0
 	posts := []*model.Post{
 		{
-			Slug:       "test-post",
+			Slug:       "2021-07-18-test-post",
 			Title:      "Test Post",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
@@ -25,7 +25,7 @@ func testSiteDataForGallery() *index.SiteData {
 			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
-					PostSlug:      "test-post",
+					PostSlug:      "2021-07-18-test-post",
 					Desc:          "A good photo",
 					TagSlugs:      []string{"good", "landscape"},
 					Points:        5,
@@ -40,7 +40,7 @@ func testSiteDataForGallery() *index.SiteData {
 				},
 				{
 					ImageFilename: "photo2.jpg",
-					PostSlug:      "test-post",
+					PostSlug:      "2021-07-18-test-post",
 					Desc:          "A best photo",
 					TagSlugs:      []string{"best"},
 					Points:        10,
@@ -56,7 +56,7 @@ func testSiteDataForGallery() *index.SiteData {
 				},
 				{
 					ImageFilename: "photo3.jpg",
-					PostSlug:      "test-post",
+					PostSlug:      "2021-07-18-test-post",
 					Desc:          "Untagged photo",
 					Points:        1,
 				},

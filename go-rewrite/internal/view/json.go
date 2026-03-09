@@ -1,6 +1,10 @@
 package view
 
 import (
+	"fmt"
+	"io"
+	"sort"
+
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/router"
@@ -322,4 +326,62 @@ func hasRouteData(post *model.Post) bool {
 		}
 	}
 	return false
+}
+
+// RouteColorsJS generates /js/self/route_colors.js from the route colors config.
+// This file defines window.ROUTE_STYLES, window.ROUTE_TAG_PRIORITY, and
+// window.getRouteStyle() used by area_show.js and other map pages.
+func RouteColorsJS(data *index.SiteData) Renderable {
+	return NewRawEndpoint("/js/self/route_colors.js", false, func(w io.Writer) error {
+		// Collect and sort route types for deterministic output
+		types := make([]string, 0, len(data.RouteColors))
+		for t := range data.RouteColors {
+			types = append(types, t)
+		}
+		sort.Strings(types)
+
+		fmt.Fprintln(w, "// Auto-generated from data/config/route_colors.yml")
+		fmt.Fprintln(w, "window.ROUTE_STYLES = {")
+		for i, t := range types {
+			rc := data.RouteColors[t]
+			comma := ","
+			if i == len(types)-1 {
+				comma = ""
+			}
+			fmt.Fprintf(w, "  '%s': { color: '%s', weight: %d, opacity: %g }%s\n",
+				t, ensureRGBColor(rc.Color), rc.Weight, rc.Opacity, comma)
+		}
+		fmt.Fprintln(w, "};")
+		fmt.Fprintln(w)
+
+		// Priority order for matching post tags to route styles
+		priority := []string{"hike", "bicycle", "e-bike", "canoe", "car", "ev", "bus", "train"}
+		fmt.Fprint(w, "window.ROUTE_TAG_PRIORITY = [")
+		for i, p := range priority {
+			if i > 0 {
+				fmt.Fprint(w, ", ")
+			}
+			fmt.Fprintf(w, "'%s'", p)
+		}
+		fmt.Fprintln(w, "];")
+		fmt.Fprintln(w)
+
+		// Helper function to get route style from post tags
+		fmt.Fprintln(w, `window.getRouteStyle = function(tags) {`)
+		fmt.Fprintln(w, `  for (var i = 0; i < window.ROUTE_TAG_PRIORITY.length; i++) {`)
+		fmt.Fprintln(w, `    if (tags && tags.indexOf(window.ROUTE_TAG_PRIORITY[i]) !== -1) return window.ROUTE_STYLES[window.ROUTE_TAG_PRIORITY[i]];`)
+		fmt.Fprintln(w, `  }`)
+		fmt.Fprintln(w, `  return window.ROUTE_STYLES.regular;`)
+		fmt.Fprintln(w, `};`)
+
+		return nil
+	})
+}
+
+// ensureRGBColor wraps a color value in rgb() if not already wrapped.
+func ensureRGBColor(color string) string {
+	if len(color) > 4 && color[:4] == "rgb(" {
+		return color
+	}
+	return "rgb(" + color + ")"
 }

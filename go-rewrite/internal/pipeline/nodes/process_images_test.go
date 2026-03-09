@@ -39,7 +39,7 @@ func TestProcessImages(t *testing.T) {
 	tmp := t.TempDir()
 	date := time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC)
 	post := &model.Post{
-		Slug: "test-post",
+		Slug: "2021-07-18-test-post",
 		Date: date,
 	}
 
@@ -106,7 +106,7 @@ func TestProcessImagesCaching(t *testing.T) {
 	tmp := t.TempDir()
 	date := time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC)
 	post := &model.Post{
-		Slug: "cache-test",
+		Slug: "2021-07-18-cache-test",
 		Date: date,
 	}
 
@@ -153,7 +153,7 @@ func TestProcessImagesNoSourceDir(t *testing.T) {
 	tmp := t.TempDir()
 	date := time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC)
 	post := &model.Post{
-		Slug: "no-images",
+		Slug: "2021-07-18-no-images",
 		Date: date,
 	}
 

@@ -179,14 +179,14 @@ func RenderSVG(w io.Writer, p SvgMapParams) error {
 		writePhotoGridLayer(w, p, bounds)
 	}
 
-	// Dots layer
-	if p.DrawDots {
-		writeDotsLayer(w, p, bounds)
-	}
-
-	// Routes layer
+	// Routes layer (drawn before dots so dots appear on top)
 	if p.DrawRoutes {
 		writeRoutesLayer(w, p, bounds)
+	}
+
+	// Dots layer (on top of routes for clickability)
+	if p.DrawDots {
+		writeDotsLayer(w, p, bounds)
 	}
 
 	fmt.Fprintln(w, `</svg>`)
@@ -272,7 +272,8 @@ func writePhotoGridLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
 			// Render grid cell
 			imgURL := fmt.Sprintf("/images/processed/%d/%02d/%s_%s_grid.jpg",
 				post.Date.Year(), post.Date.Month(), post.Slug, photo.ImageFilename)
-			postURL := model.BuildPostURL(post.Date, post.Slug)
+			postURL := fmt.Sprintf("/%d/%02d/%s.html",
+				post.Date.Year(), post.Date.Month(), post.Slug[8:])
 
 			fmt.Fprintf(w, `<svg x="%.0f" y="%.0f" width="%d" height="%d" class="photo-map-photo">`,
 				x, y, p.PhotoSize, p.PhotoSize)
@@ -336,7 +337,17 @@ func writeDotsLayer(w io.Writer, p SvgMapParams, bounds MapBounds) {
 			continue
 		}
 		color := dayOfYearColor(photo)
+
+		// Wrap dot in <a> link to the photo's full-size image if post is known.
+		post := p.PostBySlug[photo.PostSlug]
+		if post != nil {
+			photoURL := fmt.Sprintf("/images/%d/%s/%s", post.Date.Year(), post.Slug, photo.ImageFilename)
+			fmt.Fprintf(w, `<a href="%s" target="_blank">`, photoURL)
+		}
 		fmt.Fprintf(w, `<circle cx="%.0f" cy="%.0f" r="3" fill="%s" class="photo-dot"/>`, px, py, color)
+		if post != nil {
+			fmt.Fprint(w, `</a>`)
+		}
 		fmt.Fprintln(w)
 	}
 	fmt.Fprintln(w, `</g>`)
@@ -370,13 +381,22 @@ func clampInt(v int) int {
 	return v
 }
 
+// ensureRGB wraps a color value in rgb() if not already wrapped.
+// Handles both "51,136,255" and "rgb(0, 70, 240)" formats.
+func ensureRGB(color string) string {
+	if strings.HasPrefix(color, "rgb(") {
+		return color
+	}
+	return "rgb(" + color + ")"
+}
+
 func writeRoutesLayer(w io.Writer, p SvgMapParams, _ MapBounds) {
 	fmt.Fprintln(w, `<g id="photo-map-routes">`)
 	for _, route := range p.Routes {
-		color := "51,136,255" // default blue
+		color := ensureRGB("51,136,255") // default blue
 		weight := 2
 		if rc, ok := p.RouteColors[route.Type]; ok {
-			color = rc.Color
+			color = ensureRGB(rc.Color)
 			weight = rc.Weight
 		}
 
@@ -396,11 +416,11 @@ func writeRoutesLayer(w io.Writer, p SvgMapParams, _ MapBounds) {
 			}
 
 			// Glow layer
-			fmt.Fprintf(w, `<path fill="none" stroke="rgb(%s)" stroke-width="%d" opacity="0.25" filter="url(#route-glow)" d="%s"/>`,
+			fmt.Fprintf(w, `<path fill="none" stroke="%s" stroke-width="%d" opacity="0.25" filter="url(#route-glow)" d="%s"/>`,
 				color, weight*3, pathD)
 			fmt.Fprintln(w)
 			// Main layer
-			fmt.Fprintf(w, `<path class="photo-map-route" fill="none" stroke="rgb(%s)" stroke-width="%d" d="%s"/>`,
+			fmt.Fprintf(w, `<path class="photo-map-route" fill="none" stroke="%s" stroke-width="%d" d="%s"/>`,
 				color, weight, pathD)
 			fmt.Fprintln(w)
 		}

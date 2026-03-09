@@ -41,6 +41,7 @@ type RenderContext struct {
 	Post          *model.Post
 	PostLookup    PostLookup
 	URLBuilder    PostURLBuilder
+	TagLookup     TagLookup
 	PhotoTagIcons map[string]string // photo tag slug → icon name
 }
 
@@ -98,11 +99,22 @@ func (r *customRenderer) renderPhoto(w util.BufWriter, source []byte, node ast.N
 		data.TimeStr = photo.Exif.Time.Format(time.RFC3339)
 	}
 
-	// Build photo tag gallery links
+	// Build photo tag gallery links with Bootstrap Icons.
+	// Only render tags that have a known icon mapping (matching Crystal behavior).
 	for _, tagSlug := range photo.TagSlugs {
+		iconName := components.ResolveBootstrapIcon(tagSlug)
+		if iconName == "" {
+			continue
+		}
+		slugPl := tagSlug // fallback to English slug
+		if r.ctx.TagLookup != nil {
+			if pt := r.ctx.TagLookup.PhotoTagBySlug(tagSlug); pt != nil {
+				slugPl = pt.SlugPl
+			}
+		}
 		link := components.PhotoTagLink{
-			URL:  ub.TagGalleryURL(&model.Tag{SlugPl: tagSlug}),
-			Icon: tagSlug,
+			URL:  ub.TagGalleryURL(&model.Tag{SlugPl: slugPl}),
+			Icon: iconName,
 		}
 		data.TagLinks = append(data.TagLinks, link)
 	}

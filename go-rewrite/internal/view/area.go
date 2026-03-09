@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"sort"
 
 	"odkrywajac/internal/bundle"
 	"odkrywajac/internal/index"
@@ -30,7 +31,7 @@ func AreaShowPage(
 	rawScript := `<script id="area-data" type="application/json">` + jsonData + `</script>`
 
 	// Resolve assets
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "leaflet", "react-runtime"}, nil)
+	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "leaflet", "react-runtime"}, []string{"area-show"})
 
 	page := layout.PageData{
 		Title:        area.Name,
@@ -103,6 +104,8 @@ func AreaGalleryPage(
 }
 
 // buildAreaShowJSON creates the JSON blob inlined in area show pages.
+// Matches Crystal's area_show.jsx data contract: posts with tags/coords,
+// photos, related areas, bbox (lowercase), voivodeship info, etc.
 func buildAreaShowJSON(
 	data *index.SiteData,
 	area *model.Area,
@@ -111,42 +114,159 @@ func buildAreaShowJSON(
 ) string {
 	posts := data.PostsForArea(area.Type, area.Slug)
 
+	// --- Post entries with full data for JS rendering ---
+	type coordSegment struct {
+		Route [][]float64 `json:"route"`
+	}
 	type postEntry struct {
-		Title    string  `json:"title"`
-		URL      string  `json:"url"`
-		Date     string  `json:"date"`
-		Distance float64 `json:"distance,omitempty"`
-		ImageURL string  `json:"image_url,omitempty"`
+		URL             string         `json:"url"`
+		Slug            string         `json:"slug"`
+		Title           string         `json:"title"`
+		Date            string         `json:"date"`
+		Distance        float64        `json:"distance,omitempty"`
+		TimeSpent       float64        `json:"time_spent,omitempty"`
+		CardImageURL    string         `json:"card_image_url,omitempty"`
+		CardImageAVIF   string         `json:"card_image_url_avif,omitempty"`
+		Tags            []string       `json:"tags"`
+		Coords          []coordSegment `json:"coords,omitempty"`
+	}
+
+	// --- Photo entries for the photos grid ---
+	type photoEntry struct {
+		Desc           string `json:"desc"`
+		ArticleURL     string `json:"article_url"`
+		ArticleAVIF    string `json:"article_url_avif"`
+		GridURL        string `json:"grid_url"`
+		GridAVIF       string `json:"grid_url_avif"`
+		Time           string `json:"time,omitempty"`
+		PostURL        string `json:"post_url"`
+		Points         int    `json:"points"`
+	}
+
+	// --- BBox with lowercase JSON keys (matching JS expectations) ---
+	type bboxJSON struct {
+		South float64 `json:"south"`
+		North float64 `json:"north"`
+		West  float64 `json:"west"`
+		East  float64 `json:"east"`
 	}
 
 	type areaJSON struct {
-		Name     string      `json:"name"`
-		Type     string      `json:"type"`
-		Slug     string      `json:"slug"`
-		BBox     *model.BBox `json:"bbox,omitempty"`
-		Posts    []postEntry `json:"posts"`
-		Polygon  json.RawMessage `json:"polygon,omitempty"`
+		Slug             string            `json:"slug"`
+		Name             string            `json:"name"`
+		AreaType         string            `json:"areaType"`
+		AreaTypeLabel    string            `json:"areaTypeLabel"`
+		ParentName       string            `json:"parentName,omitempty"`
+		ParentURL        string            `json:"parentUrl,omitempty"`
+		VoivodeshipName  string            `json:"voivodeshipName,omitempty"`
+		VoivodeshipURL   string            `json:"voivodeshipUrl,omitempty"`
+		PostListURL      string            `json:"postListUrl"`
+		GalleryURL       string            `json:"galleryUrl"`
+		BestPhotoURL     string            `json:"bestPhotoUrl,omitempty"`
+		BestPhotoAVIF    string            `json:"bestPhotoUrlAvif,omitempty"`
+		BBox             *bboxJSON         `json:"bbox,omitempty"`
+		Polygon          json.RawMessage   `json:"polygon,omitempty"`
+		Posts            []postEntry        `json:"posts"`
+		Photos           []photoEntry       `json:"photos"`
+		RelatedAreas     []areaRelatedEntry `json:"related_areas"`
 	}
 
 	aj := areaJSON{
-		Name: area.Name,
-		Type: area.Type.String(),
-		Slug: area.Slug,
-		BBox: area.BBox,
+		Slug:          area.Slug,
+		Name:          area.Name,
+		AreaType:      area.Type.String(),
+		AreaTypeLabel: area.Type.NominativeSlug(),
+		PostListURL:   r.AreaPostListURL(area),
+		GalleryURL:    r.AreaGalleryURL(area),
+		Posts:         []postEntry{},
+		Photos:        []photoEntry{},
+		RelatedAreas:  []areaRelatedEntry{},
 	}
 
+	// BBox with lowercase keys
+	if area.BBox != nil {
+		aj.BBox = &bboxJSON{
+			South: area.BBox.South,
+			North: area.BBox.North,
+			West:  area.BBox.West,
+			East:  area.BBox.East,
+		}
+	}
+
+	// Voivodeship parent info
+	if area.VoivodeshipSlug != "" {
+		voivArea := data.FindArea(model.AreaTypeVoivodeship, area.VoivodeshipSlug)
+		if voivArea != nil {
+			aj.VoivodeshipName = voivArea.Name
+			aj.VoivodeshipURL = r.AreaShowURL(voivArea)
+			aj.ParentName = voivArea.Name
+			aj.ParentURL = r.AreaShowURL(voivArea)
+		}
+	}
+
+	// Build posts and collect photos
+	var bestPhoto *model.Photo
+	var bestPhotoPost *model.Post
 	for _, post := range posts {
 		pe := postEntry{
-			Title:    post.Title,
-			URL:      r.PostURL(post),
-			Date:     post.Date.Format("2006-01-02"),
-			Distance: post.Distance,
+			URL:       r.PostURL(post),
+			Slug:      post.Slug,
+			Title:     post.Title,
+			Date:      post.Date.Format("2006-01-02"),
+			Distance:  post.Distance,
+			TimeSpent: post.TimeSpent,
+			Tags:      post.TagSlugs,
 		}
 		if post.ImageFilename != "" {
-			pe.ImageURL = r.PostImageURL(post, post.ImageFilename)
+			pe.CardImageURL = r.ProcessedImageURL(post, post.ImageFilename, "card", "jpg")
+			pe.CardImageAVIF = r.ProcessedImageURL(post, post.ImageFilename, "card", "avif")
 		}
+
+		// Route coordinates
+		for _, route := range post.Routes {
+			for _, seg := range route.Segments {
+				coords := make([][]float64, len(seg))
+				for i, ll := range seg {
+					coords[i] = []float64{ll.Lat, ll.Lon}
+				}
+				pe.Coords = append(pe.Coords, coordSegment{Route: coords})
+			}
+		}
+
 		aj.Posts = append(aj.Posts, pe)
+
+		// Collect photos from this post
+		for _, photo := range post.PublishedPhotos {
+			phe := photoEntry{
+				Desc:        photo.Desc,
+				ArticleURL:  r.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
+				ArticleAVIF: r.ProcessedImageURL(post, photo.ImageFilename, "article", "avif"),
+				GridURL:     r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
+				GridAVIF:    r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
+				PostURL:     r.PostURL(post),
+				Points:      photo.Points,
+			}
+			if photo.HasTime() {
+				phe.Time = photo.Exif.Time.Format("2006-01-02T15:04:05-07:00")
+			}
+			aj.Photos = append(aj.Photos, phe)
+
+			// Track best photo by points for hero image
+			if bestPhoto == nil || photo.Points > bestPhoto.Points {
+				bestPhoto = photo
+				bestPhotoPost = post
+			}
+		}
 	}
+
+	// Best photo for hero background
+	if bestPhoto != nil && bestPhotoPost != nil {
+		aj.BestPhotoURL = r.ProcessedImageURL(bestPhotoPost, bestPhoto.ImageFilename, "article", "jpg")
+		aj.BestPhotoAVIF = r.ProcessedImageURL(bestPhotoPost, bestPhoto.ImageFilename, "article", "avif")
+	}
+
+	// Related areas: find areas that share posts with this one
+	aj.RelatedAreas = buildRelatedAreas(data, area, r)
 
 	// Try to load polygon GeoJSON
 	if polygonDir != "" {
@@ -158,6 +278,95 @@ func buildAreaShowJSON(
 
 	jsonBytes, _ := json.Marshal(aj)
 	return string(jsonBytes)
+}
+
+// areaRelatedEntry is a JSON-serializable related area entry for the area show page.
+type areaRelatedEntry struct {
+	Name          string `json:"name"`
+	Slug          string `json:"slug"`
+	AreaType      string `json:"area_type"`
+	ShowURL       string `json:"show_url"`
+	BestPhotoURL  string `json:"best_photo_url,omitempty"`
+	BestPhotoAVIF string `json:"best_photo_url_avif,omitempty"`
+}
+
+// buildRelatedAreas finds areas that share posts with the given area.
+// Scores by shared post count, returns top results.
+func buildRelatedAreas(data *index.SiteData, area *model.Area, r *router.Router) []areaRelatedEntry {
+	posts := data.PostsForArea(area.Type, area.Slug)
+	scores := make(map[string]int)
+
+	for _, post := range posts {
+		for _, slug := range post.TownSlugs {
+			for _, areaType := range model.AllAreaTypes() {
+				otherArea := data.FindArea(areaType, slug)
+				if otherArea != nil && otherArea.MapKey() != area.MapKey() {
+					scores[otherArea.MapKey()]++
+				}
+			}
+		}
+		for _, slug := range post.LandSlugs {
+			for _, areaType := range []model.AreaType{model.AreaTypeMesoRegion, model.AreaTypeMacroRegion} {
+				otherArea := data.FindArea(areaType, slug)
+				if otherArea != nil && otherArea.MapKey() != area.MapKey() {
+					scores[otherArea.MapKey()]++
+				}
+			}
+		}
+	}
+
+	type scored struct {
+		key   string
+		score int
+	}
+	var scoredList []scored
+	for key, score := range scores {
+		scoredList = append(scoredList, scored{key, score})
+	}
+	sort.Slice(scoredList, func(i, j int) bool {
+		return scoredList[i].score > scoredList[j].score
+	})
+
+	limit := 6
+	if len(scoredList) < limit {
+		limit = len(scoredList)
+	}
+
+	result := make([]areaRelatedEntry, 0, limit)
+	for i := 0; i < limit; i++ {
+		otherArea := data.FindAreaByMapKey(scoredList[i].key)
+		if otherArea == nil {
+			continue
+		}
+
+		entry := areaRelatedEntry{
+			Name:     otherArea.Name,
+			Slug:     otherArea.Slug,
+			AreaType: otherArea.Type.NominativeSlug(),
+			ShowURL:  r.AreaShowURL(otherArea),
+		}
+
+		// Find best photo from posts in this related area
+		relatedPosts := data.PostsForArea(otherArea.Type, otherArea.Slug)
+		var bestPhoto *model.Photo
+		var bestPhotoPost *model.Post
+		for _, post := range relatedPosts {
+			for _, photo := range post.PublishedPhotos {
+				if bestPhoto == nil || photo.Points > bestPhoto.Points {
+					bestPhoto = photo
+					bestPhotoPost = post
+				}
+			}
+		}
+		if bestPhoto != nil && bestPhotoPost != nil {
+			entry.BestPhotoURL = r.ProcessedImageURL(bestPhotoPost, bestPhoto.ImageFilename, "grid", "jpg")
+			entry.BestPhotoAVIF = r.ProcessedImageURL(bestPhotoPost, bestPhoto.ImageFilename, "grid", "avif")
+		}
+
+		result = append(result, entry)
+	}
+
+	return result
 }
 
 // collectPhotoCards builds PhotoCardData from all photos in the given posts.

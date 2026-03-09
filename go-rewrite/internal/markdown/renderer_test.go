@@ -1,6 +1,7 @@
 package markdown
 
 import (
+	"fmt"
 	"strings"
 	"testing"
 	"time"
@@ -21,7 +22,7 @@ func (m *mockPostLookup) PostBySlug(slug string) *model.Post {
 type mockURLBuilder struct{}
 
 func (m *mockURLBuilder) PostURL(post *model.Post) string {
-	return model.BuildPostURL(post.Date, post.Slug)
+	return fmt.Sprintf("/%d/%02d/%s.html", post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
 func (m *mockURLBuilder) ProcessedImageURL(post *model.Post, filename, size, format string) string {
@@ -44,14 +45,14 @@ func testPost() *model.Post {
 	lon := 16.93
 
 	return &model.Post{
-		Slug:    "test-post",
+		Slug:    "2021-07-18-test-post",
 		Title:   "Test Post",
 		Date:    time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 		Content: "test",
 		PublishedPhotos: []*model.Photo{
 			{
 				ImageFilename: "photo1.jpg",
-				PostSlug:      "test-post",
+				PostSlug:      "2021-07-18-test-post",
 				Desc:          "A beautiful view",
 				IsGallery:     true,
 				TagSlugs:      []string{"good"},
@@ -90,13 +91,13 @@ More text`, post, &mockPostLookup{})
 
 	checks := []string{
 		`<figure class="figure post-article-photo">`,
-		`/images/test-post/photo1.jpg`,            // full-size link
-		`test-post_photo1.jpg_article.jpg`,         // article JPEG
-		`test-post_photo1.jpg_article.avif`,        // article AVIF
-		`test-post_photo1.jpg_grid.jpg 560w`,       // grid srcset
+		`/images/2021-07-18-test-post/photo1.jpg`,            // full-size link
+		`2021-07-18-test-post_photo1.jpg_article.jpg`,         // article JPEG
+		`2021-07-18-test-post_photo1.jpg_article.avif`,        // article AVIF
+		`2021-07-18-test-post_photo1.jpg_grid.jpg 560w`,       // grid srcset
 		`A beautiful view`,                          // caption
 		`50mm`,                                      // EXIF focal length
-		`f/4`,                                       // EXIF aperture
+		`f4`,                                        // EXIF aperture (no slash, matching Crystal)
 		`ISO400`,                                    // EXIF ISO
 		`data-is-gallery="true"`,                    // gallery flag
 		`data-lat="52.450000"`,                      // GPS lat
@@ -123,15 +124,15 @@ func TestRenderPhotoNotFound(t *testing.T) {
 func TestRenderPostURL(t *testing.T) {
 	post := testPost()
 	targetPost := &model.Post{
-		Slug: "target-post",
+		Slug: "2021-06-03-target-post",
 		Date: time.Date(2021, 6, 3, 0, 0, 0, 0, time.UTC),
 	}
 	lookup := &mockPostLookup{posts: map[string]*model.Post{
-		"target-post": targetPost,
+		"2021-06-03-target-post": targetPost,
 	}}
 
 	html := renderTestMarkdown(
-		`See [here]({% post_url target-post %}).`,
+		`See [here]({% post_url 2021-06-03-target-post %}).`,
 		post, lookup,
 	)
 

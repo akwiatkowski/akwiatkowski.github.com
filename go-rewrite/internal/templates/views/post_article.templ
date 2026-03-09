@@ -7,6 +7,14 @@ import (
 
 // PostArticleData holds all data needed to render a post article page.
 type PostArticleData struct {
+	// Hero header
+	HeroImageURL   string // full-size background image URL
+	ImagePosition  string // CSS background-position (e.g. "50% 70%"), default "center center"
+	Title          string
+	Subtitle       string
+	DateStr        string // formatted date (e.g. "2022-12-18 (niedziela)")
+	Author         string
+
 	// Rendered markdown HTML (with photo figures already embedded)
 	RenderedMarkdown string
 
@@ -21,9 +29,25 @@ type PostArticleData struct {
 	// Related posts
 	RelatedPosts []components.PostCardData
 
+	// Route stats
+	ActivityBadge string // e.g. "🥾 pieszo", "🚲 rowerem"
+	DistanceStr   string // e.g. "15 km"
+	TimeStr       string // e.g. "7 h"
+	TemperatureStr string // e.g. "-8 °C"
+
+	// SVG map (embedded route/photo map for posts with routes)
+	SvgMapURL     string // e.g. "/mapa_zdjec/wpis/{slug}.svg"
+	MapLinks      []MapLink // external map links (UMP, OSM, Mapy.cz, Google)
+
 	// Post metadata
 	GalleryURL    string
 	FinishedAtStr string // formatted finished_at date, or ""
+}
+
+// MapLink represents an external map service link.
+type MapLink struct {
+	Name string // e.g. "OSM", "Google"
+	URL  string
 }
 
 // PostTagLink is a tag link shown at the top of the article.
@@ -46,40 +70,100 @@ type PostAreaLink struct {
 
 // PostPagerData holds data for the prev/next post pager.
 type PostPagerData struct {
-	URL          string
-	Title        string
-	ThumbnailURL string // 150×112 JPEG
+	URL              string
+	Title            string
+	ThumbnailJPEGURL string // 150×112 JPEG
+	ThumbnailAVIFURL string // 150×112 AVIF
+}
+
+// heroStyle returns the CSS for the hero header background.
+func heroStyle(imageURL, position string) string {
+	if position == "" {
+		position = "center center"
+	}
+	return fmt.Sprintf("background-image: url('%s'); background-position: %s", imageURL, position)
+}
+
+templ HeroHeader(data PostArticleData) {
+	<header class="intro-header" { templ.Attributes{"style": heroStyle(data.HeroImageURL, data.ImagePosition)}... }>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+					<div class="post-heading">
+						<h1>{ data.Title }</h1>
+						if data.Subtitle != "" {
+							<h2 class="subheading">{ data.Subtitle }</h2>
+						}
+						<span class="meta">{ data.Author }, { data.DateStr }</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
 }
 
 templ PostArticleContent(data PostArticleData) {
+	if data.HeroImageURL != "" {
+		@HeroHeader(data)
+	}
 	<article>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-					if len(data.TagLinks) > 0 {
-						<div class="post-tags">
-							for _, tag := range data.TagLinks {
-								<a href={ templ.SafeURL(tag.URL) } class="badge bg-secondary">{ tag.Name }</a>
-								{ " " }
+					if len(data.TagLinks) > 0 || len(data.AreaLinks) > 0 {
+						<p>
+							if len(data.TagLinks) > 0 {
+								{ "Tagi: " }
+								for i, tag := range data.TagLinks {
+									if i > 0 {
+										{ ", " }
+									}
+									<a href={ templ.SafeURL(tag.URL) }>{ tag.Name }</a>
+								}
+								<br/>
+							}
+							for _, group := range data.AreaLinks {
+								{ group.Label + ": " }
+								for i, area := range group.Areas {
+									if i > 0 {
+										{ ", " }
+									}
+									<a href={ templ.SafeURL(area.URL) }>{ area.Name }</a>
+								}
+								<br/>
+							}
+						</p>
+					}
+					if data.SvgMapURL != "" {
+						<h2>Mapa</h2>
+						<object class="post_small_photo_map" style="max-width:100%;" data={ data.SvgMapURL } alt="Mapa"></object>
+					}
+					if data.DistanceStr != "" || data.TimeStr != "" {
+						<div class="post-route-stats">
+							if data.ActivityBadge != "" {
+								<span class="activity-badge">{ data.ActivityBadge }</span>
+							}
+							if data.DistanceStr != "" {
+								<span>{ "📍 " + data.DistanceStr }</span>
+							}
+							if data.TimeStr != "" {
+								<span>{ "⏱️ " + data.TimeStr }</span>
+							}
+							if data.TemperatureStr != "" {
+								<span>{ data.TemperatureStr }</span>
 							}
 						</div>
 					}
-					if len(data.AreaLinks) > 0 {
-						<div class="post-areas">
-							for _, group := range data.AreaLinks {
-								<span class="area-group">
-									<strong>{ group.Label }:</strong>
-									{ " " }
-									for i, area := range group.Areas {
-										if i > 0 {
-											{ ", " }
-										}
-										<a href={ templ.SafeURL(area.URL) }>{ area.Name }</a>
-									}
-								</span>
-								{ " " }
+					if len(data.MapLinks) > 0 {
+						<span class="small">
+							{ "Mapy: " }
+							for i, link := range data.MapLinks {
+								if i > 0 {
+									{ " | " }
+								}
+								<a href={ templ.SafeURL(link.URL) } target="_blank">{ link.Name }</a>
 							}
-						</div>
+						</span>
 					}
 					<div class="post-content">
 						@templ.Raw(data.RenderedMarkdown)
@@ -102,26 +186,43 @@ templ PostArticleContent(data PostArticleData) {
 						</p>
 					}
 					<hr/>
-					<div class="post-pager">
+					<div class="post-pager-container">
 						if data.PrevPost != nil {
-							<a href={ templ.SafeURL(data.PrevPost.URL) } class="pager-prev">
-								if data.PrevPost.ThumbnailURL != "" {
-									<img src={ data.PrevPost.ThumbnailURL } alt={ data.PrevPost.Title } class="pager-thumb"/>
-								}
-								<span class="pager-label">← { data.PrevPost.Title }</span>
-							</a>
+							@PostPagerLink(*data.PrevPost, "post-pager-prev", "← Poprzedni")
+						}
+						if data.GalleryURL != "" {
+							<a class="btn btn-primary" href={ templ.SafeURL(data.GalleryURL) } data-bs-toggle="tooltip" data-bs-placement="top" title="Galeria">Galeria</a>
 						}
 						if data.NextPost != nil {
-							<a href={ templ.SafeURL(data.NextPost.URL) } class="pager-next">
-								<span class="pager-label">{ data.NextPost.Title } →</span>
-								if data.NextPost.ThumbnailURL != "" {
-									<img src={ data.NextPost.ThumbnailURL } alt={ data.NextPost.Title } class="pager-thumb"/>
-								}
-							</a>
+							@PostPagerLink(*data.NextPost, "post-pager-next", "Następny →")
 						}
 					</div>
 				</div>
 			</div>
 		</div>
 	</article>
+}
+
+templ PostPagerLink(pager PostPagerData, cssClass string, label string) {
+	<a href={ templ.SafeURL(pager.URL) } class={ "post-pager", cssClass }>
+		if cssClass == "post-pager-prev" && pager.ThumbnailJPEGURL != "" {
+			@PostPagerPicture(pager)
+		}
+		<div class="post-pager-text">
+			<span class="post-pager-label">{ label }</span>
+			<span class="post-pager-title">{ pager.Title }</span>
+		</div>
+		if cssClass == "post-pager-next" && pager.ThumbnailJPEGURL != "" {
+			@PostPagerPicture(pager)
+		}
+	</a>
+}
+
+templ PostPagerPicture(pager PostPagerData) {
+	<picture>
+		if pager.ThumbnailAVIFURL != "" {
+			<source type="image/avif" srcset={ pager.ThumbnailAVIFURL }/>
+		}
+		<img src={ pager.ThumbnailJPEGURL } alt="" loading="lazy"/>
+	</picture>
 }

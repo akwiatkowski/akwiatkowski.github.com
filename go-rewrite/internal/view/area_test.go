@@ -14,7 +14,7 @@ import (
 func testSiteData() *index.SiteData {
 	posts := []*model.Post{
 		{
-			Slug:      "pagorki",
+			Slug:      "2021-07-18-pagorki",
 			Title:     "Pagórki przed żniwami",
 			Date:      time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			TagSlugs:  []string{"bicycle"},

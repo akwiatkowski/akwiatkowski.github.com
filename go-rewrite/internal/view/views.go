@@ -91,6 +91,9 @@ func GenerateAllViews(
 		IdeasJSON(r),
 	)
 
+	// Generated JS
+	all = append(all, RouteColorsJS(data))
+
 	// Feeds
 	all = append(all,
 		RSSFeed(data, r),

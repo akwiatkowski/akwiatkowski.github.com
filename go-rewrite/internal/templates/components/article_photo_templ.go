@@ -13,6 +13,52 @@ import (
 	"strconv"
 )
 
+// bootstrapIconNames maps photo tag slugs to Bootstrap Icons names.
+// Only tags with a known icon are rendered as icon links in photo captions.
+// See: https://icons.getbootstrap.com
+var bootstrapIconNames = map[string]string{
+	"good":       "check-circle-fill",
+	"best":       "gem",
+	"cat":        "eye-fill",
+	"macro":      "droplet",
+	"bird":       "binoculars",
+	"winter":     "snow3",
+	"timeline":   "calendar-date",
+	"transport":  "gear-wide",
+	"water":      "water",
+	"sunrise":    "sunrise",
+	"city":       "shop",
+	"mountains":  "triangle",
+	"spring":     "flower1",
+	"night":      "moon-stars",
+	"train":      "train-front",
+	"summer":     "sun",
+	"autumn":     "tree",
+	"rural":      "house",
+	"forest":     "tree-fill",
+	"ruin":       "building",
+	"fog":        "cloud-fog",
+	"wildlife":   "bug",
+	"animal":     "github",
+	"road":       "signpost-split",
+	"nature":     "flower2",
+	"industrial": "gear-fill",
+	"sign":       "signpost",
+	"town":       "houses",
+	"air":        "airplane",
+	"weather":    "cloud-sun",
+	"portfolio":  "star-fill",
+}
+
+// ResolveBootstrapIcon returns the Bootstrap Icon name for a tag slug.
+// Returns empty string if no icon is mapped for this tag.
+func ResolveBootstrapIcon(tagSlug string) string {
+	if name, ok := bootstrapIconNames[tagSlug]; ok {
+		return name
+	}
+	return ""
+}
+
 // ArticlePhotoData holds data for rendering an article photo figure.
 type ArticlePhotoData struct {
 	// Image URLs
@@ -89,7 +135,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var2 templ.SafeURL
 		templ_7745c5c3_Var2, templ_7745c5c3_Err = templ.JoinURLErrs(templ.SafeURL(data.FullSizeURL))
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 58, Col: 43}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 104, Col: 43}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var2))
 		if templ_7745c5c3_Err != nil {
@@ -102,7 +148,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var3 string
 		templ_7745c5c3_Var3, templ_7745c5c3_Err = templ.JoinStringErrs(fmt.Sprintf("%s 560w, %s 1000w", data.GridAVIF, data.ArticleAVIF))
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 62, Col: 79}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 108, Col: 79}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var3))
 		if templ_7745c5c3_Err != nil {
@@ -115,7 +161,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var4 string
 		templ_7745c5c3_Var4, templ_7745c5c3_Err = templ.JoinStringErrs(data.ArticleJPEG)
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 66, Col: 27}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 112, Col: 27}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var4))
 		if templ_7745c5c3_Err != nil {
@@ -128,7 +174,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var5 string
 		templ_7745c5c3_Var5, templ_7745c5c3_Err = templ.JoinStringErrs(fmt.Sprintf("%s 560w, %s 1000w", data.GridJPEG, data.ArticleJPEG))
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 67, Col: 79}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 113, Col: 79}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var5))
 		if templ_7745c5c3_Err != nil {
@@ -141,7 +187,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var6 string
 		templ_7745c5c3_Var6, templ_7745c5c3_Err = templ.JoinStringErrs(data.Caption)
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 70, Col: 25}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 116, Col: 25}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var6))
 		if templ_7745c5c3_Err != nil {
@@ -154,7 +200,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var7 string
 		templ_7745c5c3_Var7, templ_7745c5c3_Err = templ.JoinStringErrs(data.Caption)
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 71, Col: 23}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 117, Col: 23}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var7))
 		if templ_7745c5c3_Err != nil {
@@ -167,7 +213,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var8 string
 		templ_7745c5c3_Var8, templ_7745c5c3_Err = templ.JoinStringErrs(boolStr(data.IsGallery))
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 72, Col: 46}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 118, Col: 46}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var8))
 		if templ_7745c5c3_Err != nil {
@@ -180,7 +226,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 		var templ_7745c5c3_Var9 string
 		templ_7745c5c3_Var9, templ_7745c5c3_Err = templ.JoinStringErrs(boolStr(data.IsTimeline))
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 73, Col: 48}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 119, Col: 48}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var9))
 		if templ_7745c5c3_Err != nil {
@@ -198,7 +244,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var10 string
 			templ_7745c5c3_Var10, templ_7745c5c3_Err = templ.JoinStringErrs(fmtFloat(data.Lat))
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 75, Col: 35}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 121, Col: 35}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var10))
 			if templ_7745c5c3_Err != nil {
@@ -211,7 +257,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var11 string
 			templ_7745c5c3_Var11, templ_7745c5c3_Err = templ.JoinStringErrs(fmtFloat(data.Lon))
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 76, Col: 35}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 122, Col: 35}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var11))
 			if templ_7745c5c3_Err != nil {
@@ -224,7 +270,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var12 string
 			templ_7745c5c3_Var12, templ_7745c5c3_Err = templ.JoinStringErrs(fmtFloat(data.Altitude))
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 77, Col: 45}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 123, Col: 45}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var12))
 			if templ_7745c5c3_Err != nil {
@@ -243,7 +289,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var13 string
 			templ_7745c5c3_Var13, templ_7745c5c3_Err = templ.JoinStringErrs(data.TimeStr)
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 80, Col: 30}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 126, Col: 30}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var13))
 			if templ_7745c5c3_Err != nil {
@@ -266,7 +312,7 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var14 string
 			templ_7745c5c3_Var14, templ_7745c5c3_Err = templ.JoinStringErrs(data.ExifString)
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 85, Col: 46}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 131, Col: 46}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var14))
 			if templ_7745c5c3_Err != nil {
@@ -289,66 +335,95 @@ func ArticlePhoto(data ArticlePhotoData) templ.Component {
 			var templ_7745c5c3_Var15 templ.SafeURL
 			templ_7745c5c3_Var15, templ_7745c5c3_Err = templ.JoinURLErrs(templ.SafeURL(tagLink.URL))
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 91, Col: 41}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 137, Col: 41}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var15))
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 21, "\"><img src=\"")
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 21, "\">")
+			if templ_7745c5c3_Err != nil {
+				return templ_7745c5c3_Err
+			}
+			templ_7745c5c3_Err = BootstrapIcon(tagLink.Icon).Render(ctx, templ_7745c5c3_Buffer)
+			if templ_7745c5c3_Err != nil {
+				return templ_7745c5c3_Err
+			}
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 22, "</a> ")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
 			var templ_7745c5c3_Var16 string
-			templ_7745c5c3_Var16, templ_7745c5c3_Err = templ.JoinStringErrs(fmt.Sprintf("/img/%s.ico", tagLink.Icon))
+			templ_7745c5c3_Var16, templ_7745c5c3_Err = templ.JoinStringErrs(" ")
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 92, Col: 57}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 140, Col: 10}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var16))
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 22, "\" alt=\"")
-			if templ_7745c5c3_Err != nil {
-				return templ_7745c5c3_Err
-			}
-			var templ_7745c5c3_Var17 string
-			templ_7745c5c3_Var17, templ_7745c5c3_Err = templ.JoinStringErrs(tagLink.Icon)
-			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 92, Col: 78}
-			}
-			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var17))
-			if templ_7745c5c3_Err != nil {
-				return templ_7745c5c3_Err
-			}
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 23, "\" class=\"tag-icon\"></a> ")
-			if templ_7745c5c3_Err != nil {
-				return templ_7745c5c3_Err
-			}
-			var templ_7745c5c3_Var18 string
-			templ_7745c5c3_Var18, templ_7745c5c3_Err = templ.JoinStringErrs(" ")
-			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 94, Col: 10}
-			}
-			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var18))
-			if templ_7745c5c3_Err != nil {
-				return templ_7745c5c3_Err
-			}
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 24, " ")
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 23, " ")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
 		}
-		var templ_7745c5c3_Var19 string
-		templ_7745c5c3_Var19, templ_7745c5c3_Err = templ.JoinStringErrs(data.Caption)
+		var templ_7745c5c3_Var17 string
+		templ_7745c5c3_Var17, templ_7745c5c3_Err = templ.JoinStringErrs(data.Caption)
 		if templ_7745c5c3_Err != nil {
-			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 96, Col: 18}
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 142, Col: 18}
+		}
+		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var17))
+		if templ_7745c5c3_Err != nil {
+			return templ_7745c5c3_Err
+		}
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 24, "</span></figcaption></figure>")
+		if templ_7745c5c3_Err != nil {
+			return templ_7745c5c3_Err
+		}
+		return nil
+	})
+}
+
+// bootstrapIconHref returns the SVG sprite reference for a Bootstrap Icon.
+func bootstrapIconHref(iconName string) string {
+	return fmt.Sprintf("/icons/bootstrap-icons.svg#%s", iconName)
+}
+
+func BootstrapIcon(iconName string) templ.Component {
+	return templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
+		templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
+		if templ_7745c5c3_CtxErr := ctx.Err(); templ_7745c5c3_CtxErr != nil {
+			return templ_7745c5c3_CtxErr
+		}
+		templ_7745c5c3_Buffer, templ_7745c5c3_IsBuffer := templruntime.GetBuffer(templ_7745c5c3_W)
+		if !templ_7745c5c3_IsBuffer {
+			defer func() {
+				templ_7745c5c3_BufErr := templruntime.ReleaseBuffer(templ_7745c5c3_Buffer)
+				if templ_7745c5c3_Err == nil {
+					templ_7745c5c3_Err = templ_7745c5c3_BufErr
+				}
+			}()
+		}
+		ctx = templ.InitializeContext(ctx)
+		templ_7745c5c3_Var18 := templ.GetChildren(ctx)
+		if templ_7745c5c3_Var18 == nil {
+			templ_7745c5c3_Var18 = templ.NopComponent
+		}
+		ctx = templ.ClearChildren(ctx)
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 25, "<svg class=\"bi\" width=\"16\" height=\"16\" fill=\"currentColor\"><use href=\"")
+		if templ_7745c5c3_Err != nil {
+			return templ_7745c5c3_Err
+		}
+		var templ_7745c5c3_Var19 string
+		templ_7745c5c3_Var19, templ_7745c5c3_Err = templ.JoinStringErrs(bootstrapIconHref(iconName))
+		if templ_7745c5c3_Err != nil {
+			return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/components/article_photo.templ`, Line: 155, Col: 41}
 		}
 		_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var19))
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 25, "</span></figcaption></figure>")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 26, "\"></use></svg>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}

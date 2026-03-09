@@ -29,7 +29,7 @@ func TestPopulatePublishedPhotos(t *testing.T) {
 	}
 
 	post := &model.Post{
-		Slug:          "test-post",
+		Slug:          "2022-12-18-test-post",
 		Date:          mustParseDate("2022-12-18"),
 		ImageFilename: "photo1.jpg",
 		PublishedPhotoRefs: []model.PhotoRef{
@@ -49,7 +49,7 @@ func TestPopulatePublishedPhotos(t *testing.T) {
 	if p1.ImageFilename != "photo1.jpg" {
 		t.Errorf("photo1 filename = %q", p1.ImageFilename)
 	}
-	if p1.PostSlug != "test-post" {
+	if p1.PostSlug != "2022-12-18-test-post" {
 		t.Errorf("photo1 post slug = %q", p1.PostSlug)
 	}
 	if p1.Points != 12 { // best(10) + gallery(2)
@@ -84,7 +84,7 @@ func TestPopulatePublishedPhotosSkipsPostsWithNoRefs(t *testing.T) {
 	cacheDir := t.TempDir()
 	exifCache := exif.NewCache(cacheDir)
 
-	post := &model.Post{Slug: "empty", Date: mustParseDate("2022-01-01")}
+	post := &model.Post{Slug: "2022-01-01-empty", Date: mustParseDate("2022-01-01")}
 	PopulatePublishedPhotos([]*model.Post{post}, exifCache, nil)
 
 	if len(post.PublishedPhotos) != 0 {
@@ -115,11 +115,11 @@ func TestPopulateAllPhotos(t *testing.T) {
 
 	// Pre-populate published photos.
 	post := &model.Post{
-		Slug: "test-post",
+		Slug: "2022-12-18-test-post",
 		Date: mustParseDate("2022-12-18"),
 		PublishedPhotos: []*model.Photo{
-			{ImageFilename: "photo1.jpg", PostSlug: "test-post", Desc: "Published 1", Points: 10},
-			{ImageFilename: "photo2.jpg", PostSlug: "test-post", Desc: "Published 2", Points: 5},
+			{ImageFilename: "photo1.jpg", PostSlug: "2022-12-18-test-post", Desc: "Published 1", Points: 10},
+			{ImageFilename: "photo2.jpg", PostSlug: "2022-12-18-test-post", Desc: "Published 2", Points: 5},
 		},
 	}
 
@@ -158,7 +158,7 @@ func TestPopulateAllPhotosNoDirectory(t *testing.T) {
 	exifCache := exif.NewCache(cacheDir)
 
 	post := &model.Post{
-		Slug: "no-images",
+		Slug: "2022-01-01-no-images",
 		Date: mustParseDate("2022-01-01"),
 	}
 
@@ -198,13 +198,13 @@ type exifCacheEntry struct {
 	ISO           *int     `yaml:"iso,omitempty"`
 }
 
-func writeExifCache(t *testing.T, cacheDir, dateSlug string, entries []exifCacheEntry) {
+func writeExifCache(t *testing.T, cacheDir, slug string, entries []exifCacheEntry) {
 	t.Helper()
 	data, err := yaml.Marshal(entries)
 	if err != nil {
 		t.Fatal(err)
 	}
-	path := filepath.Join(cacheDir, dateSlug+".yml")
+	path := filepath.Join(cacheDir, slug+".yml")
 	if err := os.WriteFile(path, append([]byte("---\n"), data...), 0o644); err != nil {
 		t.Fatal(err)
 	}

@@ -17,7 +17,7 @@ func testSiteDataForYearReport() *index.SiteData {
 	fin3 := time.Date(2022, 5, 10, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "pagorki",
+			Slug:       "2021-07-18-pagorki",
 			Title:      "Pagórki przed żniwami",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin1,
@@ -28,7 +28,7 @@ func testSiteDataForYearReport() *index.SiteData {
 			ImageFilename: "header.jpg",
 		},
 		{
-			Slug:       "second-trip",
+			Slug:       "2021-08-01-second-trip",
 			Title:      "Druga wycieczka",
 			Date:       time.Date(2021, 8, 1, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin2,
@@ -38,7 +38,7 @@ func testSiteDataForYearReport() *index.SiteData {
 			TimeSpent:  2.5,
 		},
 		{
-			Slug:       "next-year",
+			Slug:       "2022-05-09-next-year",
 			Title:      "Następny rok",
 			Date:       time.Date(2022, 5, 9, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin3,

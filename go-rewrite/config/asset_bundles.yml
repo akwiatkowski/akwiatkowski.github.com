@@ -106,6 +106,9 @@ page-assets:
   fonts:
     css:
       - /css/self/fonts.css
+  area-show:
+    css:
+      - /css/self/area_show.css
   homepage:
     css:
       - /css/self/fonts.css

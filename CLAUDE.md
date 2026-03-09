@@ -500,6 +500,13 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - **When adding a new helper or modifying a signature**, document the rationale — not just the "what" but the "why".
 - **If re-reading a file and finding missing documentation**, fill it in. Good comments help both humans and LLMs analyze code faster.
 
+### Work Strategy
+
+- **Ask more questions about implementation before proceeding.** The user may miss console output, which can lead to bugs. When making significant changes (renaming fields, changing data formats, altering URL schemes), confirm the approach first.
+- **Avoid solutions that require running many separate scripts** (e.g., 10+ shell commands each needing user permission). If a task looks like it will need many individual commands, step back and ask the user for a better approach first.
+- **Avoid downloading HTML to /tmp/ and running scripts to analyze it.** Use `curl | grep` or inline analysis instead.
+- **Do not introduce redundant variables that just alias a field.** For example, `dateSlug := post.Slug` is confusing — there is only one slug. Use the field directly.
+
 ### Pre-commit Checks
 
 - **Always run the linter before committing** Go changes: `mise exec -- golangci-lint run ./...`
@@ -514,6 +521,10 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - **Tests are critical.** When adding new code, always consider what tests are needed: unit, integration, or E2E.
 - **Tests must ensure no regressions** and that written code actually works. Declaring a feature "ready" without verifying it works is unacceptable.
 - **Before claiming something works**, build the site and verify the output — check the rendered HTML, JSON endpoints, and browser behavior as appropriate.
+
+### Templates (templ)
+
+- **Do NOT write helper methods that build HTML via `fmt.Sprintf` with multiline concatenated strings.** Instead, create a small templ component. Templ components are type-safe, properly escape attributes, and are more readable than raw string building.
 
 ### JSON Endpoints and JavaScript
 

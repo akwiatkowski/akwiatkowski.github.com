@@ -16,7 +16,7 @@ func testSiteDataWithPosts() *index.SiteData {
 	fin2 := time.Date(2021, 8, 2, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:          "pagorki",
+			Slug:          "2021-07-18-pagorki",
 			Title:         "Pagórki przed żniwami",
 			Date:          time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt:    &fin1,
@@ -27,7 +27,7 @@ func testSiteDataWithPosts() *index.SiteData {
 			ImageFilename: "header.jpg",
 		},
 		{
-			Slug:       "second-post",
+			Slug:       "2021-08-01-second-post",
 			Title:      "Second Post",
 			Date:       time.Date(2021, 8, 1, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin2,
@@ -51,7 +51,7 @@ func testSiteDataWithPosts() *index.SiteData {
 func TestPostArticlePageURL(t *testing.T) {
 	data := testSiteDataWithPosts()
 	r := router.New("https://odkrywajacpolske.pl")
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	page := PostArticlePage(data, post, r, nil)
 	if page.URL() != "/2021/07/18-pagorki.html" {
@@ -65,7 +65,7 @@ func TestPostArticlePageURL(t *testing.T) {
 func TestPostArticlePageRender(t *testing.T) {
 	data := testSiteDataWithPosts()
 	r := router.New("https://odkrywajacpolske.pl")
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	page := PostArticlePage(data, post, r, nil)
 	var buf bytes.Buffer
@@ -96,7 +96,7 @@ func TestPostArticlePageRender(t *testing.T) {
 func TestPostGalleryPageURL(t *testing.T) {
 	data := testSiteDataWithPosts()
 	r := router.New("https://odkrywajacpolske.pl")
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	page := PostGalleryPage(data, post, r, nil)
 	if page.URL() != "/2021/07/pagorki/galeria.html" {
@@ -107,7 +107,7 @@ func TestPostGalleryPageURL(t *testing.T) {
 func TestPostGalleryPageRender(t *testing.T) {
 	data := testSiteDataWithPosts()
 	r := router.New("https://odkrywajacpolske.pl")
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	page := PostGalleryPage(data, post, r, nil)
 	var buf bytes.Buffer
@@ -124,9 +124,71 @@ func TestPostGalleryPageRender(t *testing.T) {
 	}
 }
 
+func TestPostArticleSvgMapRendered(t *testing.T) {
+	data := testSiteDataWithPosts()
+	r := router.New("https://odkrywajacpolske.pl")
+
+	// Add routes to the first post so SVG map section appears.
+	post := data.PostBySlug("2021-07-18-pagorki")
+	post.Routes = []model.Route{{
+		Type: "bicycle",
+		Segments: [][]model.LatLon{
+			{{Lat: 52.3, Lon: 16.8}, {Lat: 52.5, Lon: 17.0}},
+		},
+	}}
+
+	page := PostArticlePage(data, post, r, nil)
+	var buf bytes.Buffer
+	if err := page.Render(&buf); err != nil {
+		t.Fatal(err)
+	}
+	html := buf.String()
+
+	checks := []struct {
+		desc, substr string
+	}{
+		{"SVG object embed", `post_small_photo_map`},
+		{"SVG data URL", `/mapa_zdjec/wpis/2021-07-18-pagorki.svg`},
+		{"Mapa heading", `<h2>Mapa</h2>`},
+		{"UMP map link", `mapa.ump.waw.pl`},
+		{"OSM map link", `openstreetmap.org`},
+		{"Mapy.cz link", `mapy.cz`},
+		{"Google map link", `google.pl/maps`},
+		{"route stats", `post-route-stats`},
+		{"distance", `42 km`},
+	}
+	for _, check := range checks {
+		if !strings.Contains(html, check.substr) {
+			t.Errorf("HTML missing %s (%q)", check.desc, check.substr)
+		}
+	}
+}
+
+func TestPostArticleNoSvgMapWithoutRoutes(t *testing.T) {
+	data := testSiteDataWithPosts()
+	r := router.New("https://odkrywajacpolske.pl")
+
+	// Second post has no routes — should not have SVG map.
+	post := data.PostBySlug("2021-08-01-second-post")
+
+	page := PostArticlePage(data, post, r, nil)
+	var buf bytes.Buffer
+	if err := page.Render(&buf); err != nil {
+		t.Fatal(err)
+	}
+	html := buf.String()
+
+	if strings.Contains(html, "post_small_photo_map") {
+		t.Error("post without routes should not have SVG map")
+	}
+	if strings.Contains(html, "mapa_zdjec") {
+		t.Error("post without routes should not have mapa_zdjec URL")
+	}
+}
+
 func TestFindAdjacentPosts(t *testing.T) {
 	data := testSiteDataWithPosts()
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	prev, next := findAdjacentPosts(data.Posts, post)
 
@@ -136,15 +198,15 @@ func TestFindAdjacentPosts(t *testing.T) {
 	if next == nil {
 		t.Fatal("expected next post")
 	}
-	if next.Slug != "second-post" {
-		t.Errorf("next post slug = %q, want second-post", next.Slug)
+	if next.Slug != "2021-08-01-second-post" {
+		t.Errorf("next post slug = %q, want 2021-08-01-second-post", next.Slug)
 	}
 }
 
 func TestBuildRelatedPosts(t *testing.T) {
 	data := testSiteDataWithPosts()
 	r := router.New("https://odkrywajacpolske.pl")
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 
 	related := buildRelatedPosts(data, post, r, 3)
 	if len(related) == 0 {

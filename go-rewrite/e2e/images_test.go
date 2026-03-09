@@ -123,7 +123,7 @@ func TestRawImageExists(t *testing.T) {
 	}
 
 	// Extract year from a processed card URL to verify raw images directory exists
-	// Card URL format: /images/processed/YYYY/MM/{date-slug}_{filename}_{size}.{format}
+	// Card URL format: /images/processed/YYYY/MM/{slug}_{filename}_{size}.{format}
 	cardURL := data.Posts[0].CardImage
 	if cardURL == "" {
 		t.Skip("first post has no card_image_url")

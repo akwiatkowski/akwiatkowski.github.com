@@ -96,12 +96,14 @@ func (c *Context) AreaCacheDir() string {
 }
 
 // CrystalExifCacheDir returns the path to the Crystal-generated EXIF cache.
-// Contains per-post YAML files named {date-slug}.yml with image EXIF data.
+// Contains per-post YAML files named {slug}.yml with image EXIF data.
 func (c *Context) CrystalExifCacheDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "cache", "exifs")
 }
 
-// GeneratedCacheDir returns the path to the generated cache directory.
-func (c *Context) GeneratedCacheDir() string {
-	return filepath.Join(c.BasePath, "go-rewrite", "cache")
+// GlobalCacheDir returns the path to the universal (env-independent) cache directory.
+// Used for data derived from data/external/ that doesn't vary by environment,
+// such as simplified polygon GeoJSON files.
+func (c *Context) GlobalCacheDir() string {
+	return filepath.Join(c.BasePath, "data", "cache-go")
 }

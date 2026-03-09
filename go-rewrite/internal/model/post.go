@@ -1,7 +1,6 @@
 package model
 
 import (
-	"fmt"
 	"time"
 )
 
@@ -63,14 +62,14 @@ func (p *Post) Year() int {
 	return p.Date.Year()
 }
 
-// DateSlug returns the date-prefixed slug (e.g. "2021-07-18-pagorki-przed-zniwami").
-func (p *Post) DateSlug() string {
-	return fmt.Sprintf("%d-%02d-%02d-%s", p.Date.Year(), p.Date.Month(), p.Date.Day(), p.Slug)
-}
-
-// BuildURL constructs the post URL from date and slug.
-func BuildPostURL(date time.Time, slug string) string {
-	return fmt.Sprintf("/%d/%02d/%02d-%s.html", date.Year(), date.Month(), date.Day(), slug)
+// SlugName returns the name part of the slug without the date prefix.
+// e.g., "2021-07-24-w-trakcie-zniw" → "w-trakcie-zniw"
+func (p *Post) SlugName() string {
+	// Slug format: YYYY-MM-DD-name, strip first 11 chars
+	if len(p.Slug) > 11 {
+		return p.Slug[11:]
+	}
+	return p.Slug
 }
 
 // PublishedPhotoByFilename finds a published Photo by its image filename.
@@ -114,6 +113,40 @@ func (p *Post) IsSelfPropelled() bool {
 // HasRoutes returns true if the post has non-empty route data.
 func (p *Post) HasRoutes() bool {
 	return len(p.Routes) > 0 && len(p.Routes[0].Segments) > 0
+}
+
+// RoutesCoordRange computes the bounding box of all route segments.
+// Returns the range and true if routes exist, or zero value and false otherwise.
+func (p *Post) RoutesCoordRange() (CoordRange, bool) {
+	if !p.HasRoutes() {
+		return CoordRange{}, false
+	}
+	first := true
+	var cr CoordRange
+	for _, route := range p.Routes {
+		for _, seg := range route.Segments {
+			for _, pt := range seg {
+				if first {
+					cr = CoordRange{LatFrom: pt.Lat, LatTo: pt.Lat, LonFrom: pt.Lon, LonTo: pt.Lon}
+					first = false
+				} else {
+					if pt.Lat < cr.LatFrom {
+						cr.LatFrom = pt.Lat
+					}
+					if pt.Lat > cr.LatTo {
+						cr.LatTo = pt.Lat
+					}
+					if pt.Lon < cr.LonFrom {
+						cr.LonFrom = pt.Lon
+					}
+					if pt.Lon > cr.LonTo {
+						cr.LonTo = pt.Lon
+					}
+				}
+			}
+		}
+	}
+	return cr, !first
 }
 
 // IsPhotoOfTheYear returns true if tagged "photo_of_the_year".

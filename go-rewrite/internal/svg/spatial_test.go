@@ -9,7 +9,7 @@ import (
 func makeGeoPhoto(lat, lon float64) *model.Photo {
 	return &model.Photo{
 		ImageFilename: "test.jpg",
-		PostSlug:      "test",
+		PostSlug:      "2000-01-01-test",
 		Exif: &model.ExifData{
 			Lat: &lat,
 			Lon: &lon,
@@ -48,7 +48,7 @@ func TestSpatialIndexQuery(t *testing.T) {
 func TestSpatialIndexSkipsNonGPS(t *testing.T) {
 	photos := []*model.Photo{
 		makeGeoPhoto(52.4, 16.9),
-		{ImageFilename: "no-gps.jpg", PostSlug: "test"}, // no GPS
+		{ImageFilename: "no-gps.jpg", PostSlug: "2000-01-01-test"}, // no GPS
 	}
 
 	si := NewSpatialIndex(photos, DefaultResolution)

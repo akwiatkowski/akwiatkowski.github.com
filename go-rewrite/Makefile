@@ -1,13 +1,26 @@
-.PHONY: templ-generate build test vet
+.PHONY: templ-generate build test vet lint render render-full render-verbose
 
 templ-generate:
-	templ generate
+	mise exec -- templ generate
 
 build: templ-generate
-	go build -o bin/odkrywajac ./cmd/odkrywajac
+	mise exec -- go build -o bin/odkrywajac ./cmd/odkrywajac
 
 test:
-	go test ./...
+	mise exec -- go test ./...
 
 vet:
-	go vet ./...
+	mise exec -- go vet ./...
+
+lint:
+	mise exec -- golangci-lint run ./...
+
+# Render the blog (dev environment by default)
+render: build
+	./bin/odkrywajac build --base .. --env dev
+
+render-full: build
+	./bin/odkrywajac build --base .. --env full
+
+render-verbose: build
+	./bin/odkrywajac build --base .. --env dev --verbose

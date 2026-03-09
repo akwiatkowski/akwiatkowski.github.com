@@ -24,8 +24,8 @@ type SiteData struct {
 	areaByKey       map[string]*model.Area           // AreaMapKey → area
 	AreasByType     map[model.AreaType][]*model.Area
 	AreasWithPosts  map[model.AreaType][]*model.Area // areas that have at least one post
-	TagBySlug       map[string]*model.Tag
-	PhotoTagBySlug  map[string]*model.PhotoTag
+	TagBySlug        map[string]*model.Tag
+	photoTagBySlug   map[string]*model.PhotoTag
 
 	NavStats NavStats
 }
@@ -48,6 +48,11 @@ func (sd *SiteData) PostBySlug(slug string) *model.Post {
 	return sd.postBySlug[slug]
 }
 
+// PhotoTagBySlug returns a photo tag by its English slug.
+func (sd *SiteData) PhotoTagBySlug(slug string) *model.PhotoTag {
+	return sd.photoTagBySlug[slug]
+}
+
 // PostsForTag returns posts for a given tag slug.
 func (sd *SiteData) PostsForTag(tagSlug string) []*model.Post {
 	return sd.postsByTagSlug[tagSlug]
@@ -61,6 +66,11 @@ func (sd *SiteData) FindArea(areaType model.AreaType, slug string) *model.Area {
 // PostsForArea returns posts that reference an area.
 func (sd *SiteData) PostsForArea(areaType model.AreaType, slug string) []*model.Post {
 	return sd.postsByArea[model.AreaMapKey(areaType, slug)]
+}
+
+// FindAreaByMapKey looks up an area by its composite map key (e.g., "town:pobiedziska").
+func (sd *SiteData) FindAreaByMapKey(key string) *model.Area {
+	return sd.areaByKey[key]
 }
 
 // FindAreaByTypeSlug looks up an area using type string (e.g., "town") and slug.
@@ -117,9 +127,9 @@ func (sd *SiteData) buildTagIndexes() {
 		sd.TagBySlug[sd.Tags[i].Slug] = &sd.Tags[i]
 	}
 
-	sd.PhotoTagBySlug = make(map[string]*model.PhotoTag, len(sd.PhotoTags))
+	sd.photoTagBySlug = make(map[string]*model.PhotoTag, len(sd.PhotoTags))
 	for i := range sd.PhotoTags {
-		sd.PhotoTagBySlug[sd.PhotoTags[i].Slug] = &sd.PhotoTags[i]
+		sd.photoTagBySlug[sd.PhotoTags[i].Slug] = &sd.PhotoTags[i]
 	}
 }
 

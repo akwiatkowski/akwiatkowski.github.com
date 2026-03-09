@@ -65,8 +65,8 @@ func (n *ProcessImagesNode) Run(ctx *pipeline.Context) error {
 	// Step A: copy raw images
 	var rawCopied, rawSkipped int
 	for _, post := range n.posts {
-		srcDir := filepath.Join(imagesDir, fmt.Sprintf("%d", post.Date.Year()), post.DateSlug())
-		dstDir := filepath.Join(outputDir, "images", fmt.Sprintf("%d", post.Date.Year()), post.DateSlug())
+		srcDir := filepath.Join(imagesDir, fmt.Sprintf("%d", post.Date.Year()), post.Slug)
+		dstDir := filepath.Join(outputDir, "images", fmt.Sprintf("%d", post.Date.Year()), post.Slug)
 
 		entries, err := os.ReadDir(srcDir)
 		if err != nil {
@@ -109,7 +109,7 @@ func (n *ProcessImagesNode) Run(ctx *pipeline.Context) error {
 
 	var jobs []job
 	for _, post := range n.posts {
-		srcDir := filepath.Join(imagesDir, fmt.Sprintf("%d", post.Date.Year()), post.DateSlug())
+		srcDir := filepath.Join(imagesDir, fmt.Sprintf("%d", post.Date.Year()), post.Slug)
 		entries, err := os.ReadDir(srcDir)
 		if err != nil {
 			if os.IsNotExist(err) {
@@ -195,7 +195,7 @@ func processImage(srcPath string, post *model.Post, filename, outputDir string) 
 	allFresh := true
 	for _, sz := range imageSizes {
 		for _, format := range []string{"jpg", "avif"} {
-			outName := fmt.Sprintf("%s_%s_%s.%s", post.DateSlug(), nameWithoutExt, sz.Name, format)
+			outName := fmt.Sprintf("%s_%s_%s.%s", post.Slug, nameWithoutExt, sz.Name, format)
 			outPath := filepath.Join(procDir, outName)
 			if !skipCopy(outPath, srcInfo) {
 				allFresh = false
@@ -227,7 +227,7 @@ func processImage(srcPath string, post *model.Post, filename, outputDir string) 
 		resized := imaging.Fill(srcImg, sz.Width, sz.Height, imaging.Center, imaging.Lanczos)
 
 		// JPEG
-		jpegName := fmt.Sprintf("%s_%s_%s.jpg", post.DateSlug(), nameWithoutExt, sz.Name)
+		jpegName := fmt.Sprintf("%s_%s_%s.jpg", post.Slug, nameWithoutExt, sz.Name)
 		jpegPath := filepath.Join(procDir, jpegName)
 		if skipCopy(jpegPath, srcInfo) {
 			skipped++
@@ -238,7 +238,7 @@ func processImage(srcPath string, post *model.Post, filename, outputDir string) 
 		}
 
 		// AVIF
-		avifName := fmt.Sprintf("%s_%s_%s.avif", post.DateSlug(), nameWithoutExt, sz.Name)
+		avifName := fmt.Sprintf("%s_%s_%s.avif", post.Slug, nameWithoutExt, sz.Name)
 		avifPath := filepath.Join(procDir, avifName)
 		if skipCopy(avifPath, srcInfo) {
 			skipped++

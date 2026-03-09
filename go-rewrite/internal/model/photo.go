@@ -29,31 +29,37 @@ func (p *Photo) HasTime() bool {
 	return p.Exif != nil && p.Exif.Time != nil
 }
 
-// ExifString returns a human-readable EXIF summary like "50mm f/4 1/100s ISO400".
+// ExifString returns a human-readable EXIF summary.
+// Format matches Crystal: "Sony A7 III, Tamron 28-75mm f2.8, 85mm f1.8 1/100s ISO400"
+// Camera and lens are comma-separated, optics/exposure are space-separated.
+// CameraName and LensName are resolved from raw EXIF values during cache loading.
 func (p *Photo) ExifString() string {
 	if p.Exif == nil {
 		return ""
 	}
-	var parts []string
+	var sb strings.Builder
 	if p.Exif.CameraName != "" {
-		parts = append(parts, p.Exif.CameraName+",")
+		sb.WriteString(p.Exif.CameraName)
+		sb.WriteString(", ")
 	}
 	if p.Exif.LensName != "" {
-		parts = append(parts, p.Exif.LensName+",")
+		sb.WriteString(p.Exif.LensName)
+		sb.WriteString(", ")
 	}
 	if p.Exif.FocalLength != nil {
-		parts = append(parts, fmt.Sprintf("%dmm", int(*p.Exif.FocalLength)))
+		sb.WriteString(fmt.Sprintf("%dmm ", int(*p.Exif.FocalLength)))
 	}
 	if p.Exif.Aperture != nil && *p.Exif.Aperture > 0.1 {
-		parts = append(parts, fmt.Sprintf("f/%s", formatAperture(*p.Exif.Aperture)))
+		sb.WriteString(fmt.Sprintf("f%s ", formatAperture(*p.Exif.Aperture)))
 	}
 	if p.Exif.ExposureString != "" {
-		parts = append(parts, p.Exif.ExposureString)
+		sb.WriteString(p.Exif.ExposureString)
+		sb.WriteString(" ")
 	}
 	if p.Exif.ISO != nil {
-		parts = append(parts, fmt.Sprintf("ISO%d", *p.Exif.ISO))
+		sb.WriteString(fmt.Sprintf("ISO%d ", *p.Exif.ISO))
 	}
-	return strings.Join(parts, " ")
+	return strings.TrimSpace(sb.String())
 }
 
 // formatAperture formats aperture value, removing trailing zeros.

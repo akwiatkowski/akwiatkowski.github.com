@@ -82,7 +82,7 @@ func TestLoadPostFields(t *testing.T) {
 		post interface{ Year() int }
 	}
 	for _, p := range posts {
-		if p.Slug == "pagorki-przed-zniwami" {
+		if p.Slug == "2021-07-18-pagorki-przed-zniwami" {
 			if p.Title != "Pagórki przed żniwami" {
 				t.Errorf("Title = %q", p.Title)
 			}
@@ -115,7 +115,7 @@ func TestLoadPostFields(t *testing.T) {
 			return
 		}
 	}
-	t.Error("pagorki-przed-zniwami not found")
+	t.Error("2021-07-18-pagorki-przed-zniwami not found")
 }
 
 func TestLoadPostPhotos(t *testing.T) {
@@ -128,7 +128,7 @@ func TestLoadPostPhotos(t *testing.T) {
 	}
 
 	for _, p := range posts {
-		if p.Slug == "pagorki-przed-zniwami" {
+		if p.Slug == "2021-07-18-pagorki-przed-zniwami" {
 			// Should have many photos
 			if len(p.PublishedPhotoRefs) < 10 {
 				t.Errorf("expected 10+ published photo refs, got %d", len(p.PublishedPhotoRefs))
@@ -163,7 +163,7 @@ func TestLoadPostRoutes(t *testing.T) {
 	}
 
 	for _, p := range posts {
-		if p.Slug == "spacer-na-przedmiescia" {
+		if p.Slug == "2018-11-05-spacer-na-przedmiescia" {
 			if len(p.Routes) != 1 {
 				t.Fatalf("expected 1 route, got %d", len(p.Routes))
 			}
@@ -180,7 +180,7 @@ func TestLoadPostRoutes(t *testing.T) {
 			return
 		}
 	}
-	t.Error("spacer-na-przedmiescia not found")
+	t.Error("2018-11-05-spacer-na-przedmiescia not found")
 }
 
 func TestLoadPostCrossRefs(t *testing.T) {
@@ -193,7 +193,7 @@ func TestLoadPostCrossRefs(t *testing.T) {
 	}
 
 	for _, p := range posts {
-		if p.Slug == "pagorki-przed-zniwami" {
+		if p.Slug == "2021-07-18-pagorki-przed-zniwami" {
 			if len(p.CrossRefSlugs) < 1 {
 				t.Error("expected at least 1 cross-reference")
 			}

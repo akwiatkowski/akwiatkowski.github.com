@@ -65,20 +65,20 @@ func TestCollectPhotosByTag(t *testing.T) {
 	r := router.New("https://odkrywajacpolske.pl")
 
 	// Add photo entities with tags to a post
-	post := data.PostBySlug("pagorki")
+	post := data.PostBySlug("2021-07-18-pagorki")
 	if post == nil {
 		t.Fatal("post not found")
 	}
 	post.PublishedPhotos = []*model.Photo{
 		{
 			ImageFilename: "photo1.jpg",
-			PostSlug:      "pagorki",
+			PostSlug:      "2021-07-18-pagorki",
 			Desc:          "Photo 1",
 			TagSlugs:      []string{"good", "best"},
 		},
 		{
 			ImageFilename: "photo2.jpg",
-			PostSlug:      "pagorki",
+			PostSlug:      "2021-07-18-pagorki",
 			Desc:          "Photo 2",
 			TagSlugs:      []string{"good"},
 		},

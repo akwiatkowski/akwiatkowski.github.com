@@ -16,7 +16,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 	lat, lon := 52.4, 16.9
 	posts := []*model.Post{
 		{
-			Slug:       "pagorki",
+			Slug:       "2021-07-18-pagorki",
 			Title:      "Pagórki przed żniwami",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
@@ -28,7 +28,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
-					PostSlug:      "pagorki",
+					PostSlug:      "2021-07-18-pagorki",
 					Desc:          "Beautiful sunset over fields",
 					Points:        5,
 					TagSlugs:      []string{"best"},
@@ -42,7 +42,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 				},
 				{
 					ImageFilename: "photo2.jpg",
-					PostSlug:      "pagorki",
+					PostSlug:      "2021-07-18-pagorki",
 					Desc:          "Road through wheat",
 					Points:        3,
 				},

@@ -16,7 +16,7 @@ func testSiteDataForTownsHistory() *index.SiteData {
 	fin2 := time.Date(2021, 9, 2, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "trip1",
+			Slug:       "2021-07-18-trip1",
 			Title:      "Trip 1",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin1,
@@ -24,7 +24,7 @@ func testSiteDataForTownsHistory() *index.SiteData {
 			TownSlugs:  []string{"pobiedziska", "swarzedz"},
 		},
 		{
-			Slug:       "trip2",
+			Slug:       "2021-09-01-trip2",
 			Title:      "Trip 2",
 			Date:       time.Date(2021, 9, 1, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin2,

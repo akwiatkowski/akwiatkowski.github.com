@@ -17,7 +17,7 @@ func testSiteDataForPOIs() *index.SiteData {
 	lat2, lon2 := 50.0, 19.9 // ~300km away
 	posts := []*model.Post{
 		{
-			Slug:       "trip1",
+			Slug:       "2021-07-18-trip1",
 			Title:      "Trip One",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
@@ -26,7 +26,7 @@ func testSiteDataForPOIs() *index.SiteData {
 			PublishedPhotos: []*model.Photo{
 				{
 					ImageFilename: "photo1.jpg",
-					PostSlug:      "trip1",
+					PostSlug:      "2021-07-18-trip1",
 					Desc:          "Nice view",
 					Points:        10,
 					Exif: &model.ExifData{
@@ -36,7 +36,7 @@ func testSiteDataForPOIs() *index.SiteData {
 				},
 				{
 					ImageFilename: "photo2.jpg",
-					PostSlug:      "trip1",
+					PostSlug:      "2021-07-18-trip1",
 					Desc:          "Mountain view",
 					Points:        8,
 					Exif: &model.ExifData{

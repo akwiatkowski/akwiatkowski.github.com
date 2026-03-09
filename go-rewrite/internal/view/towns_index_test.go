@@ -28,7 +28,7 @@ func TestTownsIndexPageRender(t *testing.T) {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "pagorki",
+			Slug:       "2021-07-18-pagorki",
 			Title:      "Pagórki",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,

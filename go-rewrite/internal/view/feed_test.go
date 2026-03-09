@@ -2,6 +2,7 @@ package view
 
 import (
 	"bytes"
+	"fmt"
 	"strings"
 	"testing"
 	"time"
@@ -16,7 +17,7 @@ func testSiteDataForFeeds() *index.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "pagorki",
+			Slug:       "2021-07-18-pagorki",
 			Title:      "Pagórki przed żniwami",
 			Subtitle:   "Krótka wycieczka rowerowa",
 			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
@@ -171,14 +172,14 @@ func TestRecentFinishedPosts(t *testing.T) {
 	posts := make([]*model.Post, 25)
 	for i := range posts {
 		posts[i] = &model.Post{
-			Slug:       "post",
+			Slug:       fmt.Sprintf("2021-01-%02d-post", i+1),
 			Date:       time.Date(2021, 1, i+1, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &fin,
 		}
 	}
 	// Add one unfinished
 	posts = append(posts, &model.Post{
-		Slug: "unfinished",
+		Slug: "2099-01-01-unfinished",
 		Date: time.Date(2099, 1, 1, 0, 0, 0, 0, time.UTC),
 	})
 

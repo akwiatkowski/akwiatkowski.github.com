@@ -11,7 +11,7 @@ func makePosts() []*model.Post {
 	past := time.Date(2021, 8, 1, 0, 0, 0, 0, time.UTC)
 	return []*model.Post{
 		{
-			Slug:      "bicycle-trip",
+			Slug:      "2021-07-18-bicycle-trip",
 			Date:      time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &past,
 			TagSlugs:  []string{"bicycle", "main"},
@@ -21,7 +21,7 @@ func makePosts() []*model.Post {
 			TimeSpent: 8,
 		},
 		{
-			Slug:      "hike-trip",
+			Slug:      "2021-06-01-hike-trip",
 			Date:      time.Date(2021, 6, 1, 0, 0, 0, 0, time.UTC),
 			FinishedAt: &past,
 			TagSlugs:  []string{"hike", "main"},
@@ -31,7 +31,7 @@ func makePosts() []*model.Post {
 			TimeSpent: 7,
 		},
 		{
-			Slug:     "draft",
+			Slug:     "2021-05-01-draft",
 			Date:     time.Date(2021, 5, 1, 0, 0, 0, 0, time.UTC),
 			TagSlugs: []string{"bicycle", "todo"},
 			TownSlugs: []string{},
@@ -203,21 +203,21 @@ func TestVoivodeshipSlugsForPost(t *testing.T) {
 	sd := buildTestSiteData()
 
 	// bicycle-trip has TownSlugs=["wielkopolskie", "pobiedziska"], so voivodeship is wielkopolskie
-	bicyclePost := sd.PostBySlug("bicycle-trip")
+	bicyclePost := sd.PostBySlug("2021-07-18-bicycle-trip")
 	slugs := sd.VoivodeshipSlugsForPost(bicyclePost)
 	if len(slugs) != 1 || slugs[0] != "wielkopolskie" {
 		t.Errorf("VoivodeshipSlugsForPost(bicycle-trip) = %v, want [wielkopolskie]", slugs)
 	}
 
 	// hike-trip has TownSlugs=["dolnoslaskie", "bystrzyca_klodzka"], so voivodeship is dolnoslaskie
-	hikePost := sd.PostBySlug("hike-trip")
+	hikePost := sd.PostBySlug("2021-06-01-hike-trip")
 	slugs = sd.VoivodeshipSlugsForPost(hikePost)
 	if len(slugs) != 1 || slugs[0] != "dolnoslaskie" {
 		t.Errorf("VoivodeshipSlugsForPost(hike-trip) = %v, want [dolnoslaskie]", slugs)
 	}
 
 	// draft has no TownSlugs that match a voivodeship
-	draftPost := sd.PostBySlug("draft")
+	draftPost := sd.PostBySlug("2021-05-01-draft")
 	slugs = sd.VoivodeshipSlugsForPost(draftPost)
 	if len(slugs) != 0 {
 		t.Errorf("VoivodeshipSlugsForPost(draft) = %v, want []", slugs)
