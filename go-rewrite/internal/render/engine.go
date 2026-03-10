@@ -4,6 +4,7 @@ package render
 import (
 	"bytes"
 	"fmt"
+	"os"
 	"strings"
 	"sync"
 	"sync/atomic"
@@ -27,6 +28,30 @@ type Result struct {
 func Render(views []view.Renderable, outputDir string, manifest *Manifest, workers int) Result {
 	start := time.Now()
 	result := Result{TotalViews: len(views)}
+
+	var rendered int64
+	showProgress := len(views) > 10
+	var progressDone chan struct{}
+
+	if showProgress {
+		progressDone = make(chan struct{})
+		total := len(views)
+		go func() {
+			ticker := time.NewTicker(200 * time.Millisecond)
+			defer ticker.Stop()
+			for {
+				select {
+				case <-ticker.C:
+					done := int(atomic.LoadInt64(&rendered))
+					pct := done * 30 / total
+					bar := strings.Repeat("=", pct) + strings.Repeat(" ", 30-pct)
+					fmt.Fprintf(os.Stderr, "\r\033[2KRendering [%s] %d/%d", bar, done, total)
+				case <-progressDone:
+					return
+				}
+			}
+		}()
+	}
 
 	if workers <= 0 {
 		workers = 1
@@ -77,6 +102,7 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 				inputHash := ih.InputHash()
 				if entry, exists := manifest.Get(v.URL()); exists && entry.InputHash == inputHash {
 					atomic.AddInt64(&inputSkipped, 1)
+					atomic.AddInt64(&rendered, 1)
 					return
 				}
 			}
@@ -110,12 +136,17 @@ func Render(views []view.Renderable, outputDir string, manifest *Manifest, worke
 			if ih, ok := v.(view.InputHasher); ok {
 				inputHash = ih.InputHash()
 			}
+			atomic.AddInt64(&rendered, 1)
 			outputCh <- OutputFile{URL: v.URL(), Content: content, InputHash: inputHash}
 		}(v)
 	}
 
 	// Wait for all renders, then close channel so writers finish
 	renderWg.Wait()
+	if showProgress {
+		close(progressDone)
+		fmt.Fprintf(os.Stderr, "\r\033[2K")
+	}
 	close(outputCh)
 	writerWg.Wait()
 
