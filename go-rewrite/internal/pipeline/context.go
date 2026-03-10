@@ -95,10 +95,11 @@ func (c *Context) AreaCacheDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "cache", "areas_for_post")
 }
 
-// CrystalExifCacheDir returns the path to the Crystal-generated EXIF cache.
+// ExifCacheDir returns the path to the Go-native EXIF cache directory.
 // Contains per-post YAML files named {slug}.yml with image EXIF data.
-func (c *Context) CrystalExifCacheDir() string {
-	return filepath.Join(c.BasePath, "env", c.Env, "cache", "exifs")
+// Each file is regenerated only when its source images are newer than the cache.
+func (c *Context) ExifCacheDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "cache-go", "exifs")
 }
 
 // GlobalCacheDir returns the path to the universal (env-independent) cache directory.
@@ -106,4 +107,16 @@ func (c *Context) CrystalExifCacheDir() string {
 // such as simplified polygon GeoJSON files.
 func (c *Context) GlobalCacheDir() string {
 	return filepath.Join(c.BasePath, "data", "cache-go")
+}
+
+// RouteCoverageDir returns the path to the Go-generated route→area coverage cache.
+// Contains per-post YAML files named {slug}.yml with route distances through each area.
+func (c *Context) RouteCoverageDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "cache-go", "areas_for_post")
+}
+
+// AreaPhotosDir returns the path to the Go-generated photo→area assignment cache.
+// Contains per-area YAML files organized by type (e.g., towns/{slug}.yml).
+func (c *Context) AreaPhotosDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "cache-go", "photos_in_area")
 }

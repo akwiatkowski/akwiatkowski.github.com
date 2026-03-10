@@ -10,13 +10,15 @@ import (
 
 	"odkrywajac/internal/bundle"
 	"odkrywajac/internal/exif"
+	"odkrywajac/internal/geodata"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/loader"
+	"odkrywajac/internal/model"
 	"odkrywajac/internal/pipeline"
 	"odkrywajac/internal/pipeline/nodes"
-	"odkrywajac/internal/polygon"
 	"odkrywajac/internal/render"
 	"odkrywajac/internal/router"
+	"odkrywajac/internal/spatial"
 	"odkrywajac/internal/view"
 )
 
@@ -81,157 +83,250 @@ func runBuild(ctx *pipeline.Context) {
 		fmt.Println("Dry run — no changes will be made")
 	}
 
-	start := time.Now()
-
-	// 1. Load all configs in parallel
-	t0 := time.Now()
-	cfg, tags, photoTags, routeColors, stations, pois, err := loader.LoadAllConfigs(ctx.ConfigDir())
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error loading configs: %v\n", err)
-		os.Exit(1)
-	}
-	if ctx.Verbose {
-		fmt.Printf("  Configs loaded in %v\n", time.Since(t0))
-	}
-
-	// 2. Load areas
-	t0 = time.Now()
-	areas, err := loader.LoadAreas(ctx.ConfigDir())
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error loading areas: %v\n", err)
-		os.Exit(1)
-	}
-	if ctx.Verbose {
-		fmt.Printf("  Areas loaded in %v\n", time.Since(t0))
-	}
-
-	// 3. Load posts with routes
-	t0 = time.Now()
-	posts, err := loader.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
-		os.Exit(1)
-	}
-	loader.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
-	if ctx.Verbose {
-		fmt.Printf("  Posts loaded in %v\n", time.Since(t0))
-	}
-
-	// 4. Generate polygon GeoJSON files from external data
-	t0 = time.Now()
-	polygonDir := filepath.Join(ctx.GlobalCacheDir(), "polygons")
-	polyResult, err := polygon.Generate(
-		ctx.ExternalDir(), polygonDir, ctx.AreaCacheDir(),
-		posts, areas, polygon.DefaultTolerance, ctx.Force,
+	// Shared results populated by pipeline nodes, consumed by downstream nodes.
+	// The pipeline guarantees dependency order, so no races on these variables.
+	var (
+		cfg         model.SiteConfig
+		tags        []model.Tag
+		photoTags   []model.PhotoTag
+		routeColors map[string]model.RouteColor
+		stations    []model.TrainStation
+		pois        []model.TransportPOI
+		areas       []*model.Area
+		posts       []*model.Post
+		polygonDir  string
+		siteData    *index.SiteData
+		siteRouter  *router.Router
+		resolver    *bundle.Resolver
+		views       []view.Renderable
+		renderRes   render.Result
 	)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error generating polygons: %v\n", err)
-		os.Exit(1)
-	}
-	if ctx.Verbose {
-		fmt.Printf("  Polygons: %d generated, %d skipped, %d missing in %v\n",
-			polyResult.Generated, polyResult.Skipped, polyResult.Missing, time.Since(t0))
-	}
 
-	// 5. Populate photo data from EXIF cache
-	t0 = time.Now()
-	exifCache := exif.NewCache(ctx.CrystalExifCacheDir())
-	loader.PopulatePublishedPhotos(posts, exifCache, photoTags)
-	loader.PopulateAllPhotos(posts, ctx.ImagesDir(), exifCache)
-	if ctx.Verbose {
-		fmt.Printf("  Photos populated in %v\n", time.Since(t0))
-	}
+	pipe := pipeline.NewPipeline()
 
-	// 6. Build SiteData with indexes
-	t0 = time.Now()
-	siteData := index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
-	if ctx.Verbose {
-		fmt.Printf("  Indexes built in %v\n", time.Since(t0))
-	}
+	// --- Data loading (no deps, can conceptually run in parallel) ---
 
-	// 7. Create Router and BundleResolver
-	siteRouter := router.New(cfg.URL)
-	bundleConfigPath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
-	resolver, err := bundle.NewResolver(bundleConfigPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error loading asset bundles: %v\n", err)
-		os.Exit(1)
-	}
+	pipe.Add("loadConfigs", nil, func(ctx *pipeline.Context) error {
+		var err error
+		cfg, tags, photoTags, routeColors, stations, pois, err = loader.LoadAllConfigs(ctx.ConfigDir())
+		return err
+	})
 
-	// 8. Copy static assets
-	if !ctx.DryRun {
-		t0 = time.Now()
-		copyNode := nodes.NewCopyAssetsNode()
-		if err := copyNode.Run(ctx); err != nil {
-			fmt.Fprintf(os.Stderr, "Error copying assets: %v\n", err)
-			os.Exit(1)
+	pipe.Add("generateAreaConfigs", nil, func(ctx *pipeline.Context) error {
+		_, err := geodata.GenerateAreaConfigs(ctx.ExternalDir(), ctx.GlobalCacheDir(), ctx.Force)
+		return err
+	})
+
+	pipe.Add("loadPosts", nil, func(ctx *pipeline.Context) error {
+		var err error
+		posts, err = loader.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
+		if err != nil {
+			return err
 		}
-		if ctx.Verbose {
-			fmt.Printf("  Assets copied in %v\n", time.Since(t0))
+		// Try Go-generated cache first, fall back to Crystal cache
+		loader.EnrichPostsWithAreaCache(posts, ctx.RouteCoverageDir())
+		loader.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
+		return nil
+	})
+
+	pipe.Add("loadBundles", nil, func(ctx *pipeline.Context) error {
+		bundlePath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
+		var err error
+		resolver, err = bundle.NewResolver(bundlePath)
+		return err
+	})
+
+	// --- Depends on generateAreaConfigs ---
+
+	pipe.Add("loadAreas", []string{"generateAreaConfigs"}, func(ctx *pipeline.Context) error {
+		areasDir := filepath.Join(ctx.GlobalCacheDir(), "areas")
+		var err error
+		areas, err = loader.LoadAreas(areasDir)
+		return err
+	})
+
+	// --- Depends on loadPosts + loadConfigs ---
+
+	pipe.Add("loadPhotos", []string{"loadPosts", "loadConfigs"}, func(ctx *pipeline.Context) error {
+		exifCache := exif.NewCache(ctx.ExifCacheDir())
+		loader.PopulatePublishedPhotos(posts, exifCache, photoTags, ctx.ImagesDir())
+		loader.PopulateAllPhotos(posts, ctx.ImagesDir(), exifCache)
+		return nil
+	})
+
+	// --- Spatial matching: route→area distances and photo→area assignment ---
+
+	pipe.Add("spatialMatching", []string{"loadAreas", "loadPhotos"}, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
+		matcher, err := spatial.NewMatcher(ctx.ExternalDir(), spatial.LoadExternalAreas)
+		if err != nil {
+			return fmt.Errorf("create spatial matcher: %w", err)
+		}
+		defer matcher.Close()
+
+		// Phase 1: Route coverage (areas_for_post)
+		routeCoverageDir := ctx.RouteCoverageDir()
+		routesGenerated := 0
+		for _, post := range posts {
+			if len(post.Routes) == 0 {
+				continue
+			}
+			if !ctx.Force && !spatial.IsRouteCoverageStale(routeCoverageDir, post.Slug, nil) {
+				continue
+			}
+			result := matcher.MatchRoute(post.Routes[0].Segments, post.Routes[0].Type)
+			if err := spatial.WriteRouteCoverage(routeCoverageDir, post.Slug, result); err != nil {
+				return fmt.Errorf("write route coverage for %s: %w", post.Slug, err)
+			}
+			routesGenerated++
+		}
+		if routesGenerated > 0 {
+			fmt.Printf("Route coverage: %d posts generated\n", routesGenerated)
 		}
 
-		// Process images: copy raw + resize to 4 sizes × 2 formats
-		t0 = time.Now()
-		imgNode := nodes.NewProcessImagesNode(posts)
-		if err := imgNode.Run(ctx); err != nil {
-			fmt.Fprintf(os.Stderr, "Error processing images: %v\n", err)
-			os.Exit(1)
+		// Phase 2: Photo→area assignment
+		areaPhotosDir := ctx.AreaPhotosDir()
+		assignments := make(map[spatial.AreaKey][]spatial.PhotoRef)
+		photosMatched := 0
+		for _, post := range posts {
+			for _, photo := range post.AllPhotos {
+				if !photo.HasGPS() {
+					continue
+				}
+				pointResult := matcher.MatchPoint(*photo.Exif.Lat, *photo.Exif.Lon)
+				ref := spatial.PhotoRef{Filename: photo.ImageFilename, PostSlug: post.Slug}
+				addPhotoRefs(assignments, "towns", pointResult.Towns, ref)
+				addPhotoRefs(assignments, "counties", pointResult.Counties, ref)
+				addPhotoRefs(assignments, "voivodeships", pointResult.Voivodeships, ref)
+				addPhotoRefs(assignments, "meso_regions", pointResult.MesoRegions, ref)
+				addPhotoRefs(assignments, "macro_regions", pointResult.MacroRegions, ref)
+				photosMatched++
+			}
 		}
-		if ctx.Verbose {
-			fmt.Printf("  Images processed in %v\n", time.Since(t0))
+		if err := spatial.WritePhotosInArea(areaPhotosDir, assignments); err != nil {
+			return fmt.Errorf("write photos in area: %w", err)
+		}
+		if photosMatched > 0 {
+			fmt.Printf("Photo assignments: %d photos → %d area files\n", photosMatched, len(assignments))
 		}
 
-		// Precompute asset versions for cache-busting ?v= URLs
+		// Re-enrich posts with freshly generated route coverage
+		loader.EnrichPostsWithAreaCache(posts, routeCoverageDir)
+
+		return nil
+	})
+
+	// --- Depends on loadAreas + loadPosts + spatialMatching ---
+
+	pipe.Add("generatePolygons", []string{"loadAreas", "loadPosts", "spatialMatching"}, func(ctx *pipeline.Context) error {
+		polygonDir = filepath.Join(ctx.GlobalCacheDir(), "polygons")
+		// Use Go-generated route coverage cache (plus Crystal fallback)
+		_, err := geodata.Generate(
+			ctx.ExternalDir(), polygonDir, ctx.RouteCoverageDir(),
+			posts, areas, geodata.DefaultTolerance, ctx.Force,
+		)
+		if err != nil {
+			return err
+		}
+		// Also collect from Crystal cache if available
+		_, err = geodata.Generate(
+			ctx.ExternalDir(), polygonDir, ctx.AreaCacheDir(),
+			posts, areas, geodata.DefaultTolerance, false,
+		)
+		return err
+	})
+
+	// --- Build indexes from all loaded data ---
+
+	pipe.Add("buildSiteData", []string{"loadConfigs", "loadAreas", "loadPhotos"}, func(_ *pipeline.Context) error {
+		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
+		return nil
+	})
+
+	pipe.Add("createRouter", []string{"loadConfigs"}, func(_ *pipeline.Context) error {
+		siteRouter = router.New(cfg.URL)
+		return nil
+	})
+
+	// --- Asset pipeline (skipped in dry-run) ---
+
+	pipe.Add("copyAssets", nil, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
+		return nodes.NewCopyAssetsNode().Run(ctx)
+	})
+
+	pipe.Add("processImages", []string{"loadPosts"}, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
+		return nodes.NewProcessImagesNode(posts).Run(ctx)
+	})
+
+	pipe.Add("precomputeVersions", []string{"loadBundles", "copyAssets", "processImages"}, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
 		resolver.PrecomputeVersions(ctx.OutputDir())
+		return nil
+	})
+
+	// --- View generation and rendering ---
+
+	pipe.Add("generateViews", []string{"buildSiteData", "createRouter", "copyAssets", "processImages", "precomputeVersions", "generatePolygons"}, func(ctx *pipeline.Context) error {
+		views = view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, ctx.PagesDir())
+		fmt.Printf("Views generated: %d\n", len(views))
+		return nil
+	})
+
+	pipe.Add("renderViews", []string{"generateViews"}, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
+		manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
+		manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
+		renderRes = render.Render(views, ctx.OutputDir(), manifest, ctx.Workers)
+		if err := manifest.Save(manifestPath); err != nil {
+			fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
+		}
+		return nil
+	})
+
+	// --- Execute ---
+
+	start := time.Now()
+	if err := pipe.Run(ctx); err != nil {
+		fmt.Fprintf(os.Stderr, "Build failed: %v\n", err)
+		os.Exit(1)
 	}
 
-	pagesDir := ctx.PagesDir()
-
-	// 9. Generate all views
-	t0 = time.Now()
-	views := view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, pagesDir)
-	if ctx.Verbose {
-		fmt.Printf("  Views generated in %v\n", time.Since(t0))
-	}
-	fmt.Printf("Views generated: %d\n", len(views))
+	// --- Summary ---
 
 	if ctx.DryRun {
 		fmt.Printf("\nTotal: %v (dry run)\n", time.Since(start))
 		return
 	}
 
-	// 10. Load or create build manifest
-	manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
-	manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
-
-	// 11. Render all views in parallel
-	outputDir := ctx.OutputDir()
-	result := render.Render(views, outputDir, manifest, ctx.Workers)
-
-	// 12. Save manifest
-	if err := manifest.Save(manifestPath); err != nil {
-		fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
+	fmt.Printf("Rendered: %d (%d workers, %v)\n", renderRes.TotalViews, ctx.Workers, renderRes.Duration)
+	fmt.Printf("Written: %d files to %s\n", renderRes.Written, ctx.OutputDir())
+	fmt.Printf("Skipped: %d (unchanged)\n", renderRes.Skipped)
+	if renderRes.InputSkipped > 0 {
+		fmt.Printf("Input-cached: %d (render skipped)\n", renderRes.InputSkipped)
 	}
 
-	// 13. Print summary
-	fmt.Printf("Rendered: %d (%d workers, %v)\n", result.TotalViews, ctx.Workers, result.Duration)
-	fmt.Printf("Written: %d files to %s\n", result.Written, outputDir)
-	fmt.Printf("Skipped: %d (unchanged)\n", result.Skipped)
-	if result.InputSkipped > 0 {
-		fmt.Printf("Input-cached: %d (render skipped)\n", result.InputSkipped)
-	}
-	fmt.Printf("Manifest: %d entries saved\n", manifest.Len())
-
-	if len(result.Errors) > 0 {
-		fmt.Fprintf(os.Stderr, "\nErrors (%d):\n", len(result.Errors))
-		for _, err := range result.Errors {
+	if len(renderRes.Errors) > 0 {
+		fmt.Fprintf(os.Stderr, "\nErrors (%d):\n", len(renderRes.Errors))
+		for _, err := range renderRes.Errors {
 			fmt.Fprintf(os.Stderr, "  %v\n", err)
 		}
 	}
-	if len(result.ValErrors) > 0 {
-		fmt.Fprintf(os.Stderr, "\nValidation warnings (%d):\n", len(result.ValErrors))
-		for _, e := range result.ValErrors {
-			fmt.Fprintf(os.Stderr, "  %s\n", e)
+	if len(renderRes.ValErrors) > 0 {
+		fmt.Fprintf(os.Stderr, "\nValidation warnings (%d):\n", len(renderRes.ValErrors))
+		for _, valErr := range renderRes.ValErrors {
+			fmt.Fprintf(os.Stderr, "  %s\n", valErr)
 		}
 	}
 
@@ -246,4 +341,13 @@ func runPipeline(ctx *pipeline.Context) {
 		fmt.Println("Dry run — no changes will be made")
 	}
 	fmt.Println("Pipeline: no nodes registered yet")
+}
+
+// addPhotoRefs accumulates photo references into the assignments map
+// for each area that matched a point-in-polygon test.
+func addPhotoRefs(assignments map[spatial.AreaKey][]spatial.PhotoRef, typePlural string, refs []spatial.AreaRef, photo spatial.PhotoRef) {
+	for _, ref := range refs {
+		key := spatial.AreaKey{TypePlural: typePlural, Slug: ref.Slug}
+		assignments[key] = append(assignments[key], photo)
+	}
 }

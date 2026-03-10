@@ -9,6 +9,7 @@ import (
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/router"
+	"odkrywajac/internal/spatial"
 	"odkrywajac/internal/templates/layout"
 	"odkrywajac/internal/templates/views"
 )
@@ -178,13 +179,7 @@ func findClosestPhoto(lat, lon float64, data *index.SiteData) (*model.Photo, *mo
 }
 
 // haversineM returns distance in meters between two lat/lon points.
+// Delegates to the shared spatial.HaversineM implementation.
 func haversineM(lat1, lon1, lat2, lon2 float64) float64 {
-	const earthRadius = 6371000.0 // meters
-	dLat := (lat2 - lat1) * math.Pi / 180.0
-	dLon := (lon2 - lon1) * math.Pi / 180.0
-	a := math.Sin(dLat/2)*math.Sin(dLat/2) +
-		math.Cos(lat1*math.Pi/180.0)*math.Cos(lat2*math.Pi/180.0)*
-			math.Sin(dLon/2)*math.Sin(dLon/2)
-	c := 2 * math.Atan2(math.Sqrt(a), math.Sqrt(1-a))
-	return earthRadius * c
+	return spatial.HaversineM(lat1, lon1, lat2, lon2)
 }
