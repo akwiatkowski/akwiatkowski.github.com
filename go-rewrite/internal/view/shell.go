@@ -40,7 +40,7 @@ func RouteMapPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Res
 	return ShellPage(data, rtr, resolver,
 		rtr.MapURL(), "Mapa tras",
 		[]string{"core", "leaflet"}, []string{"map"},
-		"/js/self/map.js",
+		"/js/self/map_leaflet.js",
 	)
 }
 
@@ -48,7 +48,7 @@ func RouteMapPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Res
 func PhotoMapPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolver) Renderable {
 	return ShellPage(data, rtr, resolver,
 		rtr.PhotoMapURL(), "Mapa zdjęć",
-		[]string{"core", "leaflet", "react-runtime"}, nil,
+		[]string{"core", "leaflet", "react-runtime"}, []string{"photo_map"},
 		"/js/self/photo_map.js",
 	)
 }
@@ -76,7 +76,7 @@ func PhotoPlannerPage(data *index.SiteData, rtr *router.Router, resolver *bundle
 	return ShellPage(data, rtr, resolver,
 		rtr.PhotoPlannerURL(), "Planer dla zdjęć",
 		[]string{"core", "leaflet"}, []string{"planner"},
-		"/js/self/photo_planner.js",
+		"/js/self/planner.js",
 	)
 }
 
@@ -85,6 +85,6 @@ func TripIdeasPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Re
 	return ShellPage(data, rtr, resolver,
 		rtr.TripIdeasURL(), "Pomysły na trasy",
 		[]string{"core", "leaflet", "react-runtime"}, []string{"ideas"},
-		"/js/self/trip_ideas.js",
+		"/js/self/ideas.js",
 	)
 }

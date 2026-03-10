@@ -124,6 +124,9 @@ page-assets:
   year_stats:
     css:
       - /css/self/year_stats.css
+  photo_map:
+    css:
+      - /css/self/photo_map.css
   pois:
     css:
       - /css/self/pois.css

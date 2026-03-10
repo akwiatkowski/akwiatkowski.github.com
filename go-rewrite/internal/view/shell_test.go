@@ -61,7 +61,7 @@ func TestShellPageRender(t *testing.T) {
 	checks := []string{
 		"<!doctype html>",
 		`id="root"`,
-		"/js/self/map.js",
+		"/js/self/map_leaflet.js",
 		"Mapa tras",
 	}
 	for _, check := range checks {
