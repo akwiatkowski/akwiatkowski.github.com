@@ -11,7 +11,6 @@ import (
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/router"
-	"odkrywajac/internal/templates/components"
 	"odkrywajac/internal/templates/layout"
 	"odkrywajac/internal/templates/views"
 )
@@ -76,6 +75,7 @@ func AreaPostListPage(
 }
 
 // AreaGalleryPage creates a Renderable for an area gallery page.
+// Uses the dynamic JS gallery with lightbox (same as post and tag galleries).
 func AreaGalleryPage(
 	data *index.SiteData,
 	area *model.Area,
@@ -83,24 +83,10 @@ func AreaGalleryPage(
 	resolver *bundle.Resolver,
 ) Renderable {
 	url := r.AreaGalleryURL(area)
-
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, []string{"gallery"})
-
-	page := layout.PageData{
-		Title:        fmt.Sprintf("Galeria: %s", area.Name),
-		URL:          url,
-		CanonicalURL: r.CanonicalURL(url),
-		SiteName:     data.Config.Title,
-		CSSFiles:     cssFiles,
-		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
-	}
-
-	// Collect photos for this area
+	title := fmt.Sprintf("Galeria: %s", area.Name)
 	posts := data.PostsForArea(area.Type, area.Slug)
-	photoCards := collectPhotoCards(posts, r)
-
-	return NewHTMLPage(url, page, views.AreaGalleryContent(photoCards), true)
+	photos := collectPhotosFromPosts(posts)
+	return galleryPage(data, r, resolver, url, title, photos)
 }
 
 // buildAreaShowJSON creates the JSON blob inlined in area show pages.
@@ -369,20 +355,6 @@ func buildRelatedAreas(data *index.SiteData, area *model.Area, r *router.Router)
 	return result
 }
 
-// collectPhotoCards builds PhotoCardData from all photos in the given posts.
-func collectPhotoCards(posts []*model.Post, r *router.Router) []components.PhotoCardData {
-	var cards []components.PhotoCardData
-	for _, post := range posts {
-		for _, photo := range post.PublishedPhotos {
-			cards = append(cards, components.PhotoCardData{
-				JPEGSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
-				AVIFSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
-				Alt:     photo.Desc,
-			})
-		}
-	}
-	return cards
-}
 
 // resolveAssets resolves bundles and page assets, handling nil resolver gracefully.
 func resolveAssets(resolver *bundle.Resolver, bundles []string, pageAssets []string) (css, js []bundle.AssetFile) {

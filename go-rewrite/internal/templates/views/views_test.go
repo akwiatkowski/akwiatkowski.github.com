@@ -720,8 +720,10 @@ func TestStaticMore_RendersLinks(t *testing.T) {
 
 // --- Simple script-injecting views ---
 
-func TestPostGallery_RendersScriptAndRoot(t *testing.T) {
-	out := h.Render(t, views.PostGalleryContent(`<script id="config" type="application/json">{"test":1}</script>`))
+func TestGalleryDynamic_RendersRawHTML(t *testing.T) {
+	rawHTML := `<script id="gallery-config" type="application/json">{"test":1}</script>` +
+		"\n" + `<div id="root"></div>`
+	out := h.Render(t, views.GalleryDynamicContent(rawHTML))
 	h.AssertContains(t, out, `{"test":1}`)
 	doc := h.Parse(t, out)
 	root := h.FindAll(doc, func(n *h.Node) bool {

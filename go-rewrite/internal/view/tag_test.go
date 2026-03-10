@@ -60,9 +60,8 @@ func TestTagGalleryPageURL(t *testing.T) {
 	}
 }
 
-func TestCollectPhotosByTag(t *testing.T) {
+func TestPhotosForTag(t *testing.T) {
 	data := testSiteData()
-	r := router.New("https://odkrywajacpolske.pl")
 
 	// Add photo entities with tags to a post
 	post := data.PostBySlug("2021-07-18-pagorki")
@@ -84,13 +83,14 @@ func TestCollectPhotosByTag(t *testing.T) {
 		},
 	}
 
-	cards := collectPhotosByTag(data, "good", r)
-	if len(cards) != 2 {
-		t.Errorf("expected 2 photos with 'good' tag, got %d", len(cards))
+	allPhotos := allPublishedPhotos(data)
+	photos := photosForTag(allPhotos, "good")
+	if len(photos) != 2 {
+		t.Errorf("expected 2 photos with 'good' tag, got %d", len(photos))
 	}
 
-	cards = collectPhotosByTag(data, "best", r)
-	if len(cards) != 1 {
-		t.Errorf("expected 1 photo with 'best' tag, got %d", len(cards))
+	photos = photosForTag(allPhotos, "best")
+	if len(photos) != 1 {
+		t.Errorf("expected 1 photo with 'best' tag, got %d", len(photos))
 	}
 }

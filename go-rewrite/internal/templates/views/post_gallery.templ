@@ -1,6 +1,7 @@
 package views
 
-templ PostGalleryContent(rawConfigScriptHTML string) {
-	@templ.Raw(rawConfigScriptHTML)
-	<div id="root"></div>
+// GalleryDynamicContent renders a JS-powered gallery with lightbox.
+// rawHTML contains the gallery-config JSON script, root div, and gallery JS script tags.
+templ GalleryDynamicContent(rawHTML string) {
+	@templ.Raw(rawHTML)
 }

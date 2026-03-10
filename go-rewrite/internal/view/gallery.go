@@ -1,6 +1,7 @@
 package view
 
 import (
+	"encoding/json"
 	"fmt"
 	"math"
 	"sort"
@@ -11,7 +12,6 @@ import (
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/router"
-	"odkrywajac/internal/templates/components"
 	"odkrywajac/internal/templates/layout"
 	"odkrywajac/internal/templates/views"
 )
@@ -172,25 +172,10 @@ func allPublishedPhotos(data *index.SiteData) []*model.Photo {
 	return photos
 }
 
-// photoToCards converts photos to PhotoCardData using a post slug lookup.
-func photosToCards(photos []*model.Photo, data *index.SiteData, r *router.Router) []components.PhotoCardData {
-	cards := make([]components.PhotoCardData, 0, len(photos))
-	for _, photo := range photos {
-		post := data.PostBySlug(photo.PostSlug)
-		if post == nil {
-			continue
-		}
-		cards = append(cards, components.PhotoCardData{
-			JPEGSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
-			AVIFSrc: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
-			Alt:     photo.Desc,
-		})
-	}
-	return cards
-}
-
 // --- Gallery Page Builders ---
 
+// galleryPage creates a Renderable for a JS-powered gallery with lightbox.
+// It generates Crystal-compatible JSON config and includes the gallery JS scripts.
 func galleryPage(
 	data *index.SiteData,
 	r *router.Router,
@@ -198,7 +183,7 @@ func galleryPage(
 	url, title string,
 	photos []*model.Photo,
 ) Renderable {
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, []string{"gallery"})
+	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "react-runtime"}, []string{"gallery", "photo-lightbox"})
 
 	page := layout.PageData{
 		Title:        title,
@@ -210,8 +195,8 @@ func galleryPage(
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
-	cards := photosToCards(photos, data, r)
-	return NewHTMLPage(url, page, views.AreaGalleryContent(cards), true)
+	rawHTML := buildGalleryConfigHTML(title, photos, data, r)
+	return NewHTMLPage(url, page, views.GalleryDynamicContent(rawHTML), true)
 }
 
 // --- Tag Galleries ---
@@ -457,6 +442,139 @@ func ExposureRanges() []ExposureRange {
 		{1.0, 30.0, "1–30s"},
 		{30.0, 3600.0, "30s+"},
 	}
+}
+
+// --- Gallery JSON Config ---
+
+// buildGalleryConfigHTML generates the full HTML block for a dynamic gallery:
+// a <script id="gallery-config"> with Crystal-compatible JSON, a <div id="root">,
+// and the two JS script tags (photo_lightbox.js and gallery_dynamic.js).
+func buildGalleryConfigHTML(title string, photos []*model.Photo, data *index.SiteData, r *router.Router) string {
+	type galleryConfig struct {
+		GalleryName string              `json:"galleryName"`
+		Items       []map[string]string `json:"items"`
+	}
+
+	items := make([]map[string]string, 0, len(photos))
+	for _, photo := range photos {
+		post := data.PostBySlug(photo.PostSlug)
+		if post == nil {
+			continue
+		}
+
+		item := map[string]string{
+			"img.src":                  r.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
+			"img.src.avif":             r.ProcessedImageURL(post, photo.ImageFilename, "article", "avif"),
+			"img.grid_src":             r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
+			"img.grid_src.avif":        r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
+			"img.url":                  r.PostImageURL(post, photo.ImageFilename),
+			"img.url.avif":             "",
+			"img.alt":                  photo.Desc,
+			"img.title":               photo.Desc,
+			"img.full_image_sanitized": sanitizeImageID(photo.ImageFilename),
+			"post.url":                r.PostURL(post),
+			"post.title":              post.Title,
+		}
+
+		if photo.Exif != nil {
+			addExifFields(item, photo)
+		}
+
+		items = append(items, item)
+	}
+
+	config := galleryConfig{
+		GalleryName: title,
+		Items:       items,
+	}
+	configJSON, _ := json.Marshal(config)
+
+	var sb strings.Builder
+	sb.WriteString(`<script id="gallery-config" type="application/json">`)
+	sb.Write(configJSON)
+	sb.WriteString("</script>\n")
+	sb.WriteString("<div id=\"root\"></div>\n")
+	sb.WriteString("<script src=\"/js/self/photo_lightbox.js\"></script>\n")
+	sb.WriteString("<script src=\"/js/self/gallery_dynamic.js\"></script>")
+	return sb.String()
+}
+
+// addExifFields populates EXIF-related fields on a gallery item map.
+func addExifFields(item map[string]string, photo *model.Photo) {
+	exif := photo.Exif
+	if exif.Lat != nil {
+		item["img.lat"] = fmt.Sprintf("%.6f", *exif.Lat)
+	}
+	if exif.Lon != nil {
+		item["img.lon"] = fmt.Sprintf("%.6f", *exif.Lon)
+	}
+	if exif.Altitude != nil {
+		item["img.altitude"] = fmt.Sprintf("%.1f", *exif.Altitude)
+	}
+	if exif.Time != nil {
+		item["img.time"] = exif.Time.Format(time.RFC3339)
+		item["img.time_display"] = exif.Time.Format("2006-01-02 15:04:05")
+	}
+	item["img.exif_string"] = photo.ExifString()
+	if exif.CameraName != "" {
+		item["img.camera"] = exif.CameraName
+	}
+	if exif.LensName != "" {
+		item["img.lens"] = exif.LensName
+	}
+	if exif.FocalLength != nil {
+		item["img.focal"] = fmt.Sprintf("%dmm", int(*exif.FocalLength))
+	}
+	if exif.Aperture != nil && *exif.Aperture > 0.1 {
+		item["img.aperture"] = fmt.Sprintf("f%s", fmtAperture(*exif.Aperture))
+	}
+	if exif.ExposureString != "" {
+		item["img.exposure"] = exif.ExposureString
+	}
+	if exif.ISO != nil {
+		item["img.iso"] = fmt.Sprintf("%d", *exif.ISO)
+	}
+}
+
+// fmtAperture formats aperture value, removing trailing zeros.
+func fmtAperture(f float64) string {
+	if f == float64(int(f)) {
+		return fmt.Sprintf("%d", int(f))
+	}
+	return fmt.Sprintf("%.1f", f)
+}
+
+// sanitizeImageID converts a filename to a safe DOM element ID.
+func sanitizeImageID(filename string) string {
+	return strings.Map(func(r rune) rune {
+		if (r >= 'a' && r <= 'z') || (r >= 'A' && r <= 'Z') || (r >= '0' && r <= '9') || r == '_' {
+			return r
+		}
+		return '_'
+	}, filename)
+}
+
+// collectPhotosFromPosts collects all published photos from the given posts.
+func collectPhotosFromPosts(posts []*model.Post) []*model.Photo {
+	var photos []*model.Photo
+	for _, post := range posts {
+		photos = append(photos, post.PublishedPhotos...)
+	}
+	return photos
+}
+
+// photosForTag filters photos that have the given tag slug.
+func photosForTag(photos []*model.Photo, tagSlug string) []*model.Photo {
+	var result []*model.Photo
+	for _, p := range photos {
+		for _, s := range p.TagSlugs {
+			if s == tagSlug {
+				result = append(result, p)
+				break
+			}
+		}
+	}
+	return result
 }
 
 // --- Slug Sanitization ---

@@ -1,7 +1,6 @@
 package view
 
 import (
-	"encoding/json"
 	"fmt"
 	"sort"
 
@@ -148,6 +147,7 @@ func PostArticlePage(
 }
 
 // PostGalleryPage creates a Renderable for a post gallery page.
+// Uses the dynamic JS gallery with lightbox.
 func PostGalleryPage(
 	data *index.SiteData,
 	post *model.Post,
@@ -155,45 +155,8 @@ func PostGalleryPage(
 	resolver *bundle.Resolver,
 ) Renderable {
 	url := r.PostGalleryURL(post)
-
-	// Build gallery config JSON
-	type galleryPhoto struct {
-		JPEG    string `json:"jpeg"`
-		AVIF    string `json:"avif"`
-		GridJPEG string `json:"grid_jpeg"`
-		GridAVIF string `json:"grid_avif"`
-		Caption string `json:"caption"`
-		Exif    string `json:"exif,omitempty"`
-	}
-
-	var photos []galleryPhoto
-	for _, photo := range post.PublishedPhotos {
-		photos = append(photos, galleryPhoto{
-			JPEG:     r.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
-			AVIF:     r.ProcessedImageURL(post, photo.ImageFilename, "article", "avif"),
-			GridJPEG: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
-			GridAVIF: r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
-			Caption:  photo.Desc,
-			Exif:     photo.ExifString(),
-		})
-	}
-
-	configJSON, _ := json.Marshal(photos)
-	rawScript := `<script id="gallery-config" type="application/json">` + string(configJSON) + `</script>`
-
-	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, []string{"gallery"})
-
-	page := layout.PageData{
-		Title:        fmt.Sprintf("Galeria: %s", post.Title),
-		URL:          url,
-		CanonicalURL: r.CanonicalURL(url),
-		SiteName:     data.Config.Title,
-		CSSFiles:     cssFiles,
-		JSFiles:      jsFiles,
-		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
-	}
-
-	return NewHTMLPage(url, page, views.PostGalleryContent(rawScript), true)
+	title := fmt.Sprintf("Galeria: %s", post.Title)
+	return galleryPage(data, r, resolver, url, title, post.PublishedPhotos)
 }
 
 // buildTagLinks creates tag links for a post.
