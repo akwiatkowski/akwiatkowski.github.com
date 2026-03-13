@@ -71,13 +71,14 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 	tagCounts := make(map[string]int)
 	systemTags := map[string]bool{
 		"photo_of_the_year": true, "featured": true, "draft": true,
+		"hidden": true, "todo": true, "todo_media": true, "todo_media_later": true,
 	}
 	var longestTrip float64
 	var longestTripPost *model.Post
 
 	townsSeen := make(map[string]bool)
 	for _, p := range data.Posts {
-		if !p.IsFinished() || p.Year() >= year {
+		if p.Year() >= year {
 			continue
 		}
 		for _, t := range p.TownSlugs {
@@ -88,9 +89,6 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 	newTowns := make(map[string]bool)
 
 	for _, post := range posts {
-		if !post.IsFinished() {
-			continue
-		}
 		rd.PostCount++
 		rd.TotalDistance += int(post.Distance)
 		rd.TotalTime += int(post.TimeSpent)
@@ -179,18 +177,13 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 
 	if prevPosts, ok := data.PostsByYear[year-1]; ok {
 		for _, p := range prevPosts {
-			if p.IsFinished() {
-				rd.PrevYearDistance += int(p.Distance)
-				rd.PrevYearTime += int(p.TimeSpent)
-			}
+			rd.PrevYearDistance += int(p.Distance)
+			rd.PrevYearTime += int(p.TimeSpent)
 		}
 	}
 
 	voivSeen := make(map[string]bool)
 	for _, post := range posts {
-		if !post.IsFinished() {
-			continue
-		}
 		for _, slug := range post.TownSlugs {
 			area := data.FindArea(model.AreaTypeTown, slug)
 			if area != nil && area.VoivodeshipSlug != "" && !voivSeen[area.VoivodeshipSlug] {
@@ -213,9 +206,6 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 
 	// Build posts table entries sorted by date
 	for _, post := range posts {
-		if !post.IsFinished() {
-			continue
-		}
 		rd.Posts = append(rd.Posts, views.YearPostEntry{
 			Date:     post.Date.Format("2006-01-02"),
 			Title:    post.Title,
@@ -264,7 +254,7 @@ func setPhotoOfYear(rd *views.YearReportData, post *model.Post, r *router.Router
 func computeRecords(rd *views.YearReportData, data *index.SiteData, year int) {
 	var allTimeLongest float64
 	for _, p := range data.Posts {
-		if p.IsFinished() && p.IsSelfPropelled() && p.Distance > allTimeLongest {
+		if p.IsSelfPropelled() && p.Distance > allTimeLongest {
 			allTimeLongest = p.Distance
 		}
 	}
@@ -277,9 +267,7 @@ func computeRecords(rd *views.YearReportData, data *index.SiteData, year int) {
 	for _, posts := range data.PostsByYear {
 		var monthly [12]float64
 		for _, p := range posts {
-			if p.IsFinished() {
-				monthly[int(p.Date.Month())-1] += p.Distance
-			}
+			monthly[int(p.Date.Month())-1] += p.Distance
 		}
 		for _, d := range monthly {
 			if d > 0 {
@@ -295,12 +283,7 @@ func computeRecords(rd *views.YearReportData, data *index.SiteData, year int) {
 	maxPostsYear := 0
 	maxPostsCount := 0
 	for y, posts := range data.PostsByYear {
-		count := 0
-		for _, p := range posts {
-			if p.IsFinished() {
-				count++
-			}
-		}
+		count := len(posts)
 		if count > maxPostsCount {
 			maxPostsCount = count
 			maxPostsYear = y
@@ -320,7 +303,7 @@ func buildYearRouteJSON(posts []*model.Post, data *index.SiteData) (string, bool
 
 	var segments []routeSegment
 	for _, post := range posts {
-		if !post.IsFinished() || !post.HasRoutes() {
+		if !post.HasRoutes() {
 			continue
 		}
 		for _, route := range post.Routes {

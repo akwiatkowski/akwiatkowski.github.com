@@ -132,6 +132,10 @@ func LoadPosts(postsDir, routesDir string) ([]*model.Post, error) {
 		if r.err != nil {
 			return nil, r.err
 		}
+		// Skip posts tagged "hidden" — they should not appear anywhere
+		if r.post.HasTag("hidden") {
+			continue
+		}
 		posts = append(posts, r.post)
 	}
 
