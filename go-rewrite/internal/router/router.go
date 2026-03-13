@@ -168,9 +168,9 @@ func (r *Router) ExifStatsURL() string      { return "/statystyki_exif.html" }
 func (r *Router) PhotoPlannerURL() string   { return "/pomysly_dla_zdjec.html" }
 func (r *Router) TripIdeasURL() string      { return "/pomysly_tras.html" }
 
-// YearReportURL returns the year report URL: /rok-<year>.html
+// YearReportURL returns the year report URL: /rok/<year>.html
 func (r *Router) YearReportURL(year int) string {
-	return fmt.Sprintf("/rok-%d.html", year)
+	return fmt.Sprintf("/rok/%d.html", year)
 }
 
 // ============================================

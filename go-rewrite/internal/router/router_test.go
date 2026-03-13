@@ -194,7 +194,7 @@ func TestStaticURLs(t *testing.T) {
 		{"MapURL", r.MapURL(), "/mapa_tras.html"},
 		{"AboutURL", r.AboutURL(), "/o-mnie.html"},
 		{"MoreURL", r.MoreURL(), "/wiecej.html"},
-		{"YearReportURL", r.YearReportURL(2024), "/rok-2024.html"},
+		{"YearReportURL", r.YearReportURL(2024), "/rok/2024.html"},
 	}
 	for _, tt := range tests {
 		if tt.got != tt.want {

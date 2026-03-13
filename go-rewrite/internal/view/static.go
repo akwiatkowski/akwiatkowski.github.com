@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"fmt"
 	"os"
-	"time"
 
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/renderer/html"
@@ -63,11 +62,18 @@ func MorePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolve
 	url := rtr.MoreURL()
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
 
-	currentYear := time.Now().Year()
+	// Link to the latest year that actually has posts (not current calendar year,
+	// which may have no posts and therefore no rendered page)
+	latestYear := 0
+	for year := range data.PostsByYear {
+		if year > latestYear {
+			latestYear = year
+		}
+	}
 
 	links := []views.MoreLink{
 		{URL: rtr.PortfolioURL(), Name: "Portfolio", Desc: "Wybrane najlepsze zdjęcia z wycieczek", Icon: "portfolio"},
-		{URL: rtr.YearReportURL(currentYear), Name: fmt.Sprintf("Rok %d", currentYear), Desc: fmt.Sprintf("Podsumowanie roku %d — trasy, kilometry, zdjęcia", currentYear), Icon: "calendar"},
+		{URL: rtr.YearReportURL(latestYear), Name: fmt.Sprintf("Rok %d", latestYear), Desc: fmt.Sprintf("Podsumowanie roku %d — trasy, kilometry, zdjęcia", latestYear), Icon: "calendar"},
 		{URL: rtr.PhotoMapURL(), Name: "Mapa zdjęć", Desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio", Icon: "photos"},
 		{URL: rtr.TimelineURL(), Name: "Linia czasu", Desc: "Zdjęcia ułożone według miesiąca i dnia roku", Icon: "clock"},
 		{URL: rtr.MapURL(), Name: "Mapa tras", Desc: "Interaktywna mapa z trasami wycieczek", Icon: "map"},

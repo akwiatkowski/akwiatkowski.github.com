@@ -9,6 +9,7 @@ import (
 	"strings"
 	"sync"
 	"sync/atomic"
+	"time"
 
 	"github.com/disintegration/imaging"
 	"github.com/gen2brain/avif"
@@ -135,6 +136,7 @@ func (n *ProcessImagesNode) Run(ctx *pipeline.Context) error {
 	}
 
 	var processed, procSkipped, errCount atomic.Int64
+	var done atomic.Int64
 	var wg sync.WaitGroup
 	ch := make(chan job, len(jobs))
 
@@ -142,6 +144,31 @@ func (n *ProcessImagesNode) Run(ctx *pipeline.Context) error {
 		ch <- j
 	}
 	close(ch)
+
+	// Progress bar for large batches (>10 images)
+	total := len(jobs)
+	var stopProgress chan struct{}
+	if total > 10 {
+		stopProgress = make(chan struct{})
+		go func() {
+			ticker := time.NewTicker(200 * time.Millisecond)
+			defer ticker.Stop()
+			for {
+				select {
+				case <-ticker.C:
+					d := int(done.Load())
+					pct := d * 100 / total
+					barLen := 30
+					filled := pct * barLen / 100
+					bar := strings.Repeat("█", filled) + strings.Repeat("░", barLen-filled)
+					fmt.Fprintf(os.Stderr, "\r\033[2K  Images [%s] %d/%d (%d%%)", bar, d, total, pct)
+				case <-stopProgress:
+					fmt.Fprintf(os.Stderr, "\r\033[2K")
+					return
+				}
+			}
+		}()
+	}
 
 	for range workers {
 		wg.Add(1)
@@ -152,10 +179,15 @@ func (n *ProcessImagesNode) Run(ctx *pipeline.Context) error {
 				processed.Add(int64(p))
 				procSkipped.Add(int64(s))
 				errCount.Add(int64(e))
+				done.Add(1)
 			}
 		}()
 	}
 	wg.Wait()
+
+	if stopProgress != nil {
+		close(stopProgress)
+	}
 
 	result := ProcessImagesResult{
 		RawCopied:      rawCopied,

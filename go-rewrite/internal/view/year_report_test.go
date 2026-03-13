@@ -67,8 +67,8 @@ func TestYearReportPageURL(t *testing.T) {
 	r := router.New("https://odkrywajacpolske.pl")
 
 	page := YearReportPage(data, 2021, r, nil)
-	if page.URL() != "/rok-2021.html" {
-		t.Errorf("URL() = %q, want /rok-2021.html", page.URL())
+	if page.URL() != "/rok/2021.html" {
+		t.Errorf("URL() = %q, want /rok/2021.html", page.URL())
 	}
 	if !page.AddToSitemap() {
 		t.Error("year report should be in sitemap")
@@ -92,7 +92,7 @@ func TestYearReportPageRender(t *testing.T) {
 		"wpisów",
 		"rowerem",
 		"Rowerem",    // tag breakdown
-		"rok-2022",   // year navigation
+		"rok/2022",   // year navigation
 	}
 
 	for _, check := range checks {

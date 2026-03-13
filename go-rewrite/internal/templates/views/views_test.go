@@ -401,8 +401,8 @@ func TestYearReport_RendersYearNavigation(t *testing.T) {
 	rd := views.YearReportData{
 		Year: 2023,
 		YearReportURLs: []views.YearReportLink{
-			{Year: 2022, URL: "/rok-2022.html", IsCurrent: false},
-			{Year: 2023, URL: "/rok-2023.html", IsCurrent: true},
+			{Year: 2022, URL: "/rok/2022.html", IsCurrent: false},
+			{Year: 2023, URL: "/rok/2023.html", IsCurrent: true},
 		},
 	}
 	out := h.Render(t, views.YearReportContent(rd))
@@ -423,7 +423,7 @@ func TestYearReport_RendersYearNavigation(t *testing.T) {
 	}
 
 	// Other year should be a link
-	h.AssertContains(t, out, "/rok-2022.html")
+	h.AssertContains(t, out, "/rok/2022.html")
 }
 
 func TestYearReport_RendersSummaryCards(t *testing.T) {

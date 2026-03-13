@@ -211,7 +211,45 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 
 	rd.RouteJSON, rd.HasRoutes = buildYearRouteJSON(posts, data)
 
+	// Build posts table entries sorted by date
+	for _, post := range posts {
+		if !post.IsFinished() {
+			continue
+		}
+		rd.Posts = append(rd.Posts, views.YearPostEntry{
+			Date:     post.Date.Format("2006-01-02"),
+			Title:    post.Title,
+			URL:      r.PostURL(post),
+			Distance: int(post.Distance),
+			Time:     int(post.TimeSpent),
+			Icon:     postTypeIcon(post),
+		})
+	}
+	sort.Slice(rd.Posts, func(i, j int) bool {
+		return rd.Posts[i].Date < rd.Posts[j].Date
+	})
+
 	return rd
+}
+
+// postTypeIcon returns a CSS icon class based on the post's transport tag.
+func postTypeIcon(post *model.Post) string {
+	switch {
+	case post.IsBicycle():
+		return "icon-bicycle"
+	case post.IsHike():
+		return "icon-hike"
+	case post.IsWalk():
+		return "icon-walk"
+	case post.IsTrain():
+		return "icon-train"
+	case post.HasTag("bus"):
+		return "icon-bus"
+	case post.HasTag("car"):
+		return "icon-car"
+	default:
+		return ""
+	}
 }
 
 func setPhotoOfYear(rd *views.YearReportData, post *model.Post, r *router.Router) {

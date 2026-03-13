@@ -1,4 +1,4 @@
-.PHONY: templ-generate build test vet lint render render-full render-verbose install-deps
+.PHONY: templ-generate build test vet lint render render-full render-verbose render-full-verbose install-deps
 
 # CGO flags for GEOS C library (required by spatial matching)
 export CGO_CFLAGS := $(shell geos-config --cflags 2>/dev/null)
@@ -28,6 +28,9 @@ render-full: build
 
 render-verbose: build
 	./bin/odkrywajac build --base .. --env dev --verbose
+
+render-full-verbose: build
+	./bin/odkrywajac build --base .. --env full --verbose
 
 # Install system dependencies
 install-deps:

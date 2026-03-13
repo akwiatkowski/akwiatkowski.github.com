@@ -185,8 +185,41 @@ templ YearReportContent(rd YearReportData) {
 						</script>
 					}
 
+					<!-- Posts table -->
+					if len(rd.Posts) > 0 {
+						<h3 class="ys-section-title">Wpisy</h3>
+						<div class="table-responsive">
+							<table class="table table-sm">
+								<thead>
+									<tr>
+										<th>Data</th>
+										<th>Tytuł</th>
+										<th class="text-end">km</th>
+										<th class="text-end">h</th>
+										<th class="text-center"></th>
+									</tr>
+								</thead>
+								<tbody>
+									for _, entry := range rd.Posts {
+										<tr>
+											<td class="text-nowrap"><a href={ templ.SafeURL(entry.URL) }>{ entry.Date }</a></td>
+											<td><a href={ templ.SafeURL(entry.URL) }>{ entry.Title }</a></td>
+											<td class="text-end">{ fmt.Sprintf("%d", entry.Distance) }</td>
+											<td class="text-end">{ fmt.Sprintf("%d", entry.Time) }</td>
+											<td class="text-center">
+												if entry.Icon != "" {
+													<span class={ entry.Icon }></span>
+												}
+											</td>
+										</tr>
+									}
+								</tbody>
+							</table>
+						</div>
+					}
+
 					<!-- Monthly breakdown table -->
-					<h3>Miesiące</h3>
+					<h3 class="ys-section-title">Miesiące</h3>
 					<div class="table-responsive">
 						<table class="table table-sm">
 							<thead>

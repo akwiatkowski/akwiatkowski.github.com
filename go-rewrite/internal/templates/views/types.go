@@ -43,6 +43,17 @@ type YearReportData struct {
 
 	Voivodeships   []VoivodeshipLink
 	YearReportURLs []YearReportLink
+	Posts          []YearPostEntry
+}
+
+// YearPostEntry is one row in the year report posts table.
+type YearPostEntry struct {
+	Date     string // formatted as YYYY-MM-DD
+	Title    string
+	URL      string
+	Distance int
+	Time     int
+	Icon     string // icon-bicycle, icon-hike, icon-walk, icon-bus, icon-train, icon-car
 }
 
 // MonthStats holds aggregated stats for one month in a year report.

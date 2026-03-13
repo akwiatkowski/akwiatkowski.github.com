@@ -1076,8 +1076,7 @@ func TestJSONFormat_Portfolio(t *testing.T) {
 func TestJSONFormat_YearReport(t *testing.T) {
 	ts := setupServer(t)
 
-	// Year report URL: Go uses /rok-YYYY.html, Crystal uses /rok/YYYY.html
-	html := fetchPage(t, ts.URL+"/rok-2021.html")
+	html := fetchPage(t, ts.URL+"/rok/2021.html")
 
 	// Check for inline route data
 	if strings.Contains(html, `id="ys-route-data"`) {
