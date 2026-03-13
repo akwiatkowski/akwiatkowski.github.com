@@ -408,9 +408,9 @@ func TestYearReport_RendersYearNavigation(t *testing.T) {
 	out := h.Render(t, views.YearReportContent(rd))
 	doc := h.Parse(t, out)
 
-	yearNav := h.FindByClass(doc, "year-nav")
+	yearNav := h.FindByClass(doc, "ys-year-nav")
 	if len(yearNav) == 0 {
-		t.Fatal("expected .year-nav")
+		t.Fatal("expected .ys-year-nav")
 	}
 
 	// Current year should be bold
@@ -442,10 +442,10 @@ func TestYearReport_RendersSummaryCards(t *testing.T) {
 	h.AssertContains(t, out, "800 km")
 	h.AssertContains(t, out, "dystans")
 	h.AssertContains(t, out, "120 h")
-	h.AssertContains(t, out, "czas")
+	h.AssertContains(t, out, "w terenie")
 	h.AssertContains(t, out, "rowerem")
 	h.AssertContains(t, out, "pieszo")
-	h.AssertContains(t, out, "nowe gminy") //nolint:misspell // Polish word
+	h.AssertContains(t, out, "nowych gmin")
 }
 
 func TestYearReport_RendersPhotoOfYear(t *testing.T) {
@@ -459,9 +459,9 @@ func TestYearReport_RendersPhotoOfYear(t *testing.T) {
 	out := h.Render(t, views.YearReportContent(rd))
 	doc := h.Parse(t, out)
 
-	photoDiv := h.FindByClass(doc, "photo-of-year")
+	photoDiv := h.FindByClass(doc, "ys-poty")
 	if len(photoDiv) == 0 {
-		t.Fatal("expected .photo-of-year")
+		t.Fatal("expected .ys-poty")
 	}
 	h.AssertContains(t, out, "/photos/best.jpg")
 	h.AssertContains(t, out, "/photos/best.avif")
@@ -479,9 +479,9 @@ func TestYearReport_RendersTagBreakdown(t *testing.T) {
 	out := h.Render(t, views.YearReportContent(rd))
 	doc := h.Parse(t, out)
 
-	chips := h.FindByClass(doc, "tag-chips")
+	chips := h.FindByClass(doc, "ys-tags")
 	if len(chips) == 0 {
-		t.Fatal("expected .tag-chips")
+		t.Fatal("expected .ys-tags")
 	}
 	h.AssertContains(t, out, "rowerem")
 	h.AssertContains(t, out, "10")
@@ -497,7 +497,7 @@ func TestYearReport_RendersVoivodeships(t *testing.T) {
 		},
 	}
 	out := h.Render(t, views.YearReportContent(rd))
-	h.AssertContains(t, out, "Województwa:")
+	h.AssertContains(t, out, "Odwiedzone województwa:")
 	h.AssertContains(t, out, "wielkopolskie")
 	h.AssertContains(t, out, "/wojewodztwo/wielkopolskie.html")
 	h.AssertContains(t, out, "lubuskie")
@@ -515,7 +515,7 @@ func TestYearReport_RendersLongestTripRecord(t *testing.T) {
 	h.AssertContains(t, out, "Rekord!")
 	h.AssertContains(t, out, "120 km")
 	h.AssertContains(t, out, "Epic Ride")
-	h.AssertContains(t, out, "border-success")
+	h.AssertContains(t, out, "ys-record-best")
 }
 
 func TestYearReport_RendersMonthlyTable(t *testing.T) {
@@ -547,9 +547,9 @@ func TestYearReport_RendersSparklineWhenData(t *testing.T) {
 	out := h.Render(t, views.YearReportContent(rd))
 	doc := h.Parse(t, out)
 
-	svgs := h.FindByClass(doc, "sparkline")
+	svgs := h.FindByClass(doc, "ys-sparkline-svg")
 	if len(svgs) == 0 {
-		t.Error("expected sparkline SVG")
+		t.Error("expected ys-sparkline-svg SVG")
 	}
 
 	circles := h.FindByTag(doc, "circle")
@@ -568,26 +568,26 @@ func TestYearReport_RendersRouteMap(t *testing.T) {
 	doc := h.Parse(t, out)
 
 	yearMap := h.FindAll(doc, func(n *h.Node) bool {
-		return h.IsElement(n, "div") && h.HasAttr(n, "id", "year-map")
+		return h.IsElement(n, "div") && h.HasAttr(n, "id", "ys-map")
 	})
 	if len(yearMap) == 0 {
-		t.Error("expected #year-map div")
+		t.Error("expected #ys-map div")
 	}
 
 	// templ.Raw renders JSON inside a <script> tag; check the map div exists
-	// and the script tag with year-routes ID is present
+	// and the script tag with ys-route-data ID is present
 	scripts := h.FindAll(doc, func(n *h.Node) bool {
-		return h.IsElement(n, "script") && h.HasAttr(n, "id", "year-routes")
+		return h.IsElement(n, "script") && h.HasAttr(n, "id", "ys-route-data")
 	})
 	if len(scripts) == 0 {
-		t.Error("expected #year-routes script tag")
+		t.Error("expected #ys-route-data script tag")
 	}
 }
 
 func TestYearReport_OmitsRouteMapWhenNoRoutes(t *testing.T) {
 	rd := views.YearReportData{Year: 2023, HasRoutes: false}
 	out := h.Render(t, views.YearReportContent(rd))
-	h.AssertNotContains(t, out, "year-map")
+	h.AssertNotContains(t, out, "ys-map")
 }
 
 func TestYearReport_YearOverYearComparison(t *testing.T) {

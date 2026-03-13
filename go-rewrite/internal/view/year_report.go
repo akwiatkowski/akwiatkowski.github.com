@@ -202,7 +202,7 @@ func computeYearReport(data *index.SiteData, year int, r *router.Router) views.Y
 		return rd.Voivodeships[i].Name < rd.Voivodeships[j].Name
 	})
 
-	rd.RouteJSON, rd.HasRoutes = buildYearRouteJSON(posts, data)
+	rd.RouteJSON, rd.HasRoutes = buildYearRouteJSON(posts)
 
 	// Build posts table entries sorted by date
 	for _, post := range posts {
@@ -294,44 +294,83 @@ func computeRecords(rd *views.YearReportData, data *index.SiteData, year int) {
 	rd.IsPostRecordYear = year == maxPostsYear
 }
 
-func buildYearRouteJSON(posts []*model.Post, data *index.SiteData) (string, bool) {
-	type routeSegment struct {
-		Points [][]float64 `json:"points"`
-		Color  string      `json:"color"`
-		Weight int         `json:"weight"`
+// buildYearRouteJSON builds route JSON matching the Crystal format:
+// { "bbox": { "south", "north", "west", "east" }, "routes": [{ "title", "tags", "coords" }] }
+// The JS uses window.getRouteStyle(tags) from route_colors.js to determine line style.
+func buildYearRouteJSON(posts []*model.Post) (string, bool) {
+	type routeEntry struct {
+		Title  string      `json:"title"`
+		Tags   []string    `json:"tags"`
+		Coords [][]float64 `json:"coords"`
+	}
+	type bbox struct {
+		South float64 `json:"south"`
+		North float64 `json:"north"`
+		West  float64 `json:"west"`
+		East  float64 `json:"east"`
+	}
+	type routeData struct {
+		BBox   bbox         `json:"bbox"`
+		Routes []routeEntry `json:"routes"`
 	}
 
-	var segments []routeSegment
+	var allLats, allLons []float64
+	var routes []routeEntry
+
 	for _, post := range posts {
 		if !post.HasRoutes() {
 			continue
 		}
+		title := fmt.Sprintf("%s (%s)", post.Title, post.Date.Format("2006-01-02"))
 		for _, route := range post.Routes {
-			color := "#3388ff"
-			weight := 3
-			if rc, ok := data.RouteColors[route.Type]; ok {
-				color = rc.Color
-				weight = rc.Weight
-			}
 			for _, seg := range route.Segments {
-				points := make([][]float64, len(seg))
+				coords := make([][]float64, len(seg))
 				for i, ll := range seg {
-					points[i] = []float64{math.Round(ll.Lat*100000) / 100000, math.Round(ll.Lon*100000) / 100000}
+					lat := math.Round(ll.Lat*100000) / 100000
+					lon := math.Round(ll.Lon*100000) / 100000
+					coords[i] = []float64{lat, lon}
+					allLats = append(allLats, lat)
+					allLons = append(allLons, lon)
 				}
-				segments = append(segments, routeSegment{
-					Points: points,
-					Color:  color,
-					Weight: weight,
+				routes = append(routes, routeEntry{
+					Title:  title,
+					Tags:   post.TagSlugs,
+					Coords: coords,
 				})
 			}
 		}
 	}
 
-	if len(segments) == 0 {
-		return "[]", false
+	if len(routes) == 0 {
+		return "{}", false
 	}
 
-	b, _ := json.Marshal(segments)
+	// Compute bounding box
+	minLat, maxLat := allLats[0], allLats[0]
+	minLon, maxLon := allLons[0], allLons[0]
+	for _, lat := range allLats {
+		if lat < minLat {
+			minLat = lat
+		}
+		if lat > maxLat {
+			maxLat = lat
+		}
+	}
+	for _, lon := range allLons {
+		if lon < minLon {
+			minLon = lon
+		}
+		if lon > maxLon {
+			maxLon = lon
+		}
+	}
+
+	result := routeData{
+		BBox:   bbox{South: minLat, North: maxLat, West: minLon, East: maxLon},
+		Routes: routes,
+	}
+
+	b, _ := json.Marshal(result)
 	return string(b), true
 }
 

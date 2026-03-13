@@ -9,281 +9,354 @@ templ YearReportContent(rd YearReportData) {
 				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
 					<h1>{ fmt.Sprintf("Rok %d", rd.Year) }</h1>
 
-					<!-- Year navigation -->
-					<div class="year-nav mb-4">
+					<!-- Year navigation pills -->
+					<div class="ys-year-nav">
 						for _, yl := range rd.YearReportURLs {
 							if yl.IsCurrent {
-								<strong class="me-2">{ fmt.Sprintf("%d", yl.Year) }</strong>
+								<strong>{ fmt.Sprintf("%d", yl.Year) }</strong>
 							} else {
-								<a href={ templ.SafeURL(yl.URL) } class="me-2">{ fmt.Sprintf("%d", yl.Year) }</a>
+								<a href={ templ.SafeURL(yl.URL) }>{ fmt.Sprintf("%d", yl.Year) }</a>
 							}
 						}
 					</div>
 
-					<!-- Sparkline SVG -->
-					<div class="sparkline-container mb-4">
+					<!-- Monthly sparkline -->
+					<div class="ys-sparkline-wrap">
 						@yearSparkline(rd)
+					</div>
+
+					<!-- Summary cards -->
+					<div class="ys-summary">
+						<div class="ys-card">
+							<div class="ys-card-icon">📝</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.PostCount) }</span>
+								<span class="ys-card-label">wpisów</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">📏</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d km", rd.TotalDistance) }</span>
+								<span class="ys-card-label">dystans</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">⏱️</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d h", rd.TotalTime) }</span>
+								<span class="ys-card-label">w terenie</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon"><span class="icon-bicycle"></span></div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.BicycleCount) }</span>
+								<span class="ys-card-label">rowerem</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon"><span class="icon-hike"></span></div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.HikeCount) }</span>
+								<span class="ys-card-label">pieszo</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">🏘️</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.NewTownsCount) }</span>
+								<span class="ys-card-label">nowych gmin</span>
+							</div>
+						</div>
 					</div>
 
 					<!-- Photo of the year -->
 					if rd.PhotoOfYearURL != "" {
-						<div class="photo-of-year mb-4">
+						<div class="ys-poty">
 							<a href={ templ.SafeURL(rd.PhotoOfYearPostURL) }>
 								<picture>
 									<source srcset={ rd.PhotoOfYearAVIF } type="image/avif"/>
-									<img src={ rd.PhotoOfYearURL } alt={ rd.PhotoOfYearTitle } class="img-fluid" loading="lazy"/>
+									<img src={ rd.PhotoOfYearURL } alt={ fmt.Sprintf("Zdjęcie roku %d", rd.Year) } loading="lazy"/>
 								</picture>
-								<div class="photo-of-year-badge">{ rd.PhotoOfYearTitle }</div>
+								<div class="ys-poty-overlay">
+									<span class="ys-poty-badge">{ fmt.Sprintf("Zdjęcie roku %d", rd.Year) }</span>
+									<span class="ys-poty-title">{ rd.PhotoOfYearTitle }</span>
+								</div>
 							</a>
 						</div>
 					}
 
-					<!-- Summary cards -->
-					<div class="row g-3 mb-4">
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d", rd.PostCount) }</div>
-								<div class="card-label">wpisów</div>
-							</div>
-						</div>
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d km", rd.TotalDistance) }</div>
-								<div class="card-label">dystans</div>
-							</div>
-						</div>
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d h", rd.TotalTime) }</div>
-								<div class="card-label">czas</div>
-							</div>
-						</div>
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d", rd.BicycleCount) }</div>
-								<div class="card-label">rowerem</div>
-							</div>
-						</div>
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d", rd.HikeCount) }</div>
-								<div class="card-label">pieszo</div>
-							</div>
-						</div>
-						<div class="col-6 col-md-4">
-							<div class="card text-center p-3">
-								<div class="card-value">{ fmt.Sprintf("%d", rd.NewTownsCount) }</div>
-								<div class="card-label">nowe gminy</div>
-							</div>
-						</div>
+					<!-- Details section -->
+					<div class="ys-details">
+						if rd.PrevYearDistance > 0 {
+							<p>
+								{ fmt.Sprintf("Rok wcześniej: %d km, %d h. ", rd.PrevYearDistance, rd.PrevYearTime) }
+								if rd.TotalDistance > rd.PrevYearDistance {
+									<span class="ys-delta">{ fmt.Sprintf("+%d km", rd.TotalDistance - rd.PrevYearDistance) }</span>
+								} else if rd.TotalDistance < rd.PrevYearDistance {
+									<span class="ys-delta">{ fmt.Sprintf("%d km", rd.TotalDistance - rd.PrevYearDistance) }</span>
+								}
+							</p>
+						}
+						if len(rd.Voivodeships) > 0 {
+							<p>
+								{ "Odwiedzone województwa: " }
+								for i, v := range rd.Voivodeships {
+									if i > 0 {
+										{ ", " }
+									}
+									<a href={ templ.SafeURL(v.URL) }>{ v.Name }</a>
+								}
+							</p>
+						}
 					</div>
-
-					<!-- Year-over-year comparison -->
-					if rd.PrevYearDistance > 0 {
-						<p class="text-muted mb-4">
-							{ fmt.Sprintf("Rok wcześniej: %d km, %d h. ", rd.PrevYearDistance, rd.PrevYearTime) }
-							if rd.TotalDistance > rd.PrevYearDistance {
-								{ fmt.Sprintf("Zmiana: +%d km", rd.TotalDistance - rd.PrevYearDistance) }
-							} else {
-								{ fmt.Sprintf("Zmiana: %d km", rd.TotalDistance - rd.PrevYearDistance) }
-							}
-						</p>
-					}
 
 					<!-- Tag breakdown -->
 					if len(rd.TagBreakdown) > 0 {
-						<div class="tag-chips mb-4">
+						<h3 class="ys-section-title">Tagi</h3>
+						<div class="ys-tags">
 							for _, tc := range rd.TagBreakdown {
-								<span class="badge bg-secondary me-1 mb-1">
+								<span class="ys-tag-chip">
 									{ tc.Name }
-									<span class="badge bg-light text-dark ms-1">{ fmt.Sprintf("%d", tc.Count) }</span>
+									<span class="ys-tag-count">{ fmt.Sprintf("%d", tc.Count) }</span>
 								</span>
 							}
 						</div>
 					}
 
-					<!-- Voivodeships -->
-					if len(rd.Voivodeships) > 0 {
-						<div class="mb-4">
-							<strong>Województwa: </strong>
-							for i, v := range rd.Voivodeships {
-								if i > 0 {
-									{ ", " }
-								}
-								<a href={ templ.SafeURL(v.URL) }>{ v.Name }</a>
-							}
-						</div>
-					}
-
 					<!-- Records -->
-					<div class="row g-3 mb-4">
-						if rd.LongestTrip > 0 {
-							<div class="col-md-4">
-								if rd.IsLongestAllTime {
-									<div class="card border-success p-3">
-										<div class="card-body">
-											<strong>Rekord!</strong>
-											<div>Najdłuższa trasa: { fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
-											<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
-										</div>
-									</div>
-								} else {
-									<div class="card p-3">
-										<div class="card-body">
-											<div>Najdłuższa trasa: { fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
-											<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
-										</div>
-									</div>
-								}
-							</div>
-						}
-						if rd.MostActiveMonth != "" {
-							<div class="col-md-4">
-								if rd.IsMostActiveAllTime {
-									<div class="card border-success p-3">
-										<div class="card-body">
-											<strong>Rekord!</strong>
-											<div>Najbardziej aktywny miesiąc</div>
-											<div>{ fmt.Sprintf("%s: %.0f km", rd.MostActiveMonth, rd.MostActiveMonthDist) }</div>
-										</div>
-									</div>
-								} else {
-									<div class="card p-3">
-										<div class="card-body">
-											<div>Najbardziej aktywny miesiąc</div>
-											<div>{ fmt.Sprintf("%s: %.0f km", rd.MostActiveMonth, rd.MostActiveMonthDist) }</div>
-										</div>
-									</div>
-								}
-							</div>
-						}
-						<div class="col-md-4">
-							if rd.IsPostRecordYear {
-								<div class="card border-success p-3">
-									<div class="card-body">
-										<strong>Rekord!</strong>
-										<div>Najwięcej wpisów</div>
-										<div>{ fmt.Sprintf("%d wpisów", rd.PostCount) }</div>
-									</div>
-								</div>
-							} else {
-								<div class="card p-3">
-									<div class="card-body">
-										<div>Najwięcej wpisów</div>
-										<div>{ fmt.Sprintf("Rekord: %d (%d)", rd.MostPostsCount, rd.MostPostsYear) }</div>
-									</div>
-								</div>
-							}
-						</div>
-					</div>
+					@yearRecords(rd)
 
 					<!-- Route map -->
 					if rd.HasRoutes {
-						<div id="year-map" style="height: 400px; margin-bottom: 20px;"></div>
-						<script id="year-routes" type="application/json">
+						<h3 class="ys-section-title">Mapa tras</h3>
+						<div class="ys-map-container">
+							<div id="ys-map"></div>
+						</div>
+						<script id="ys-route-data" type="application/json">
 							@templ.Raw(rd.RouteJSON)
+						</script>
+						<script>
+							(function() {
+								var el = document.getElementById('ys-map');
+								var dataEl = document.getElementById('ys-route-data');
+								if (!el || !dataEl) return;
+								var data = JSON.parse(dataEl.textContent);
+								var map = L.map('ys-map', {
+									scrollWheelZoom: false,
+									attributionControl: false,
+									zoomControl: true
+								});
+								L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
+									maxZoom: 16, minZoom: 6
+								}).addTo(map);
+								var bbox = data.bbox;
+								map.fitBounds([[bbox.south, bbox.west], [bbox.north, bbox.east]], { padding: [20, 20] });
+								data.routes.forEach(function(r) {
+									var style = window.getRouteStyle(r.tags);
+									var line = L.polyline(r.coords, style);
+									if (r.title) line.bindTooltip(r.title);
+									line.addTo(map);
+								});
+							})();
 						</script>
 					}
 
 					<!-- Posts table -->
 					if len(rd.Posts) > 0 {
 						<h3 class="ys-section-title">Wpisy</h3>
-						<div class="table-responsive">
-							<table class="table table-sm">
-								<thead>
+						<table class="ys-table">
+							<thead>
+								<tr>
+									<th>Data</th>
+									<th>Tytuł</th>
+									<th class="text-end">km</th>
+									<th class="text-end">h</th>
+									<th class="text-center"></th>
+								</tr>
+							</thead>
+							<tbody>
+								for _, entry := range rd.Posts {
 									<tr>
-										<th>Data</th>
-										<th>Tytuł</th>
-										<th class="text-end">km</th>
-										<th class="text-end">h</th>
-										<th class="text-center"></th>
+										<td class="text-nowrap"><a href={ templ.SafeURL(entry.URL) }>{ entry.Date }</a></td>
+										<td><a href={ templ.SafeURL(entry.URL) }>{ entry.Title }</a></td>
+										<td class="text-end">{ fmt.Sprintf("%d", entry.Distance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%d", entry.Time) }</td>
+										<td class="text-center">
+											if entry.Icon != "" {
+												<span class={ entry.Icon }></span>
+											}
+										</td>
 									</tr>
-								</thead>
-								<tbody>
-									for _, entry := range rd.Posts {
-										<tr>
-											<td class="text-nowrap"><a href={ templ.SafeURL(entry.URL) }>{ entry.Date }</a></td>
-											<td><a href={ templ.SafeURL(entry.URL) }>{ entry.Title }</a></td>
-											<td class="text-end">{ fmt.Sprintf("%d", entry.Distance) }</td>
-											<td class="text-end">{ fmt.Sprintf("%d", entry.Time) }</td>
-											<td class="text-center">
-												if entry.Icon != "" {
-													<span class={ entry.Icon }></span>
-												}
-											</td>
-										</tr>
-									}
-								</tbody>
-							</table>
-						</div>
+								}
+							</tbody>
+						</table>
 					}
 
 					<!-- Monthly breakdown table -->
 					<h3 class="ys-section-title">Miesiące</h3>
-					<div class="table-responsive">
-						<table class="table table-sm">
-							<thead>
-								<tr>
-									<th>Miesiąc</th>
-									<th>Dystans</th>
-									<th>Rower</th>
-									<th>Pieszo</th>
-									<th>Czas</th>
-									<th>Wpisy</th>
-								</tr>
-							</thead>
-							<tbody>
-								for i := 0; i < 12; i++ {
-									if rd.Months[i].PostCount > 0 {
-										<tr>
-											<td>{ monthNamePl(i + 1) }</td>
-											<td>{ fmt.Sprintf("%.0f km", rd.Months[i].Distance) }</td>
-											<td>{ fmt.Sprintf("%.0f km", rd.Months[i].BicycleDistance) }</td>
-											<td>{ fmt.Sprintf("%.0f km", rd.Months[i].HikeDistance) }</td>
-											<td>{ fmt.Sprintf("%.0f h", rd.Months[i].TimeSpent) }</td>
-											<td>{ fmt.Sprintf("%d", rd.Months[i].PostCount) }</td>
-										</tr>
-									}
+					<table class="ys-table">
+						<thead>
+							<tr>
+								<th>Miesiąc</th>
+								<th class="text-end">Suma</th>
+								<th class="text-end">Rower</th>
+								<th class="text-end">Pieszo</th>
+								<th class="text-end">Czas</th>
+								<th class="ys-bar-cell"></th>
+							</tr>
+						</thead>
+						<tbody>
+							for i := 0; i < 12; i++ {
+								if rd.Months[i].PostCount > 0 {
+									<tr class={ seasonClass(i + 1) }>
+										<td>{ monthNamePl(i + 1) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].Distance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].BicycleDistance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].HikeDistance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f h", rd.Months[i].TimeSpent) }</td>
+										<td class="ys-bar-cell">
+											@monthBar(rd.Months[i].Distance, rd.MaxMonthDist)
+										</td>
+									</tr>
 								}
-							</tbody>
-						</table>
-					</div>
+							}
+						</tbody>
+					</table>
 				</div>
 			</div>
 		</div>
 	</section>
 }
 
+templ yearRecords(rd YearReportData) {
+	if rd.LongestTrip > 0 || rd.MostActiveMonth != "" || rd.PostCount > 0 {
+		<h3 class="ys-section-title">Rekordy</h3>
+		<div class="ys-records">
+			if rd.LongestTrip > 0 {
+				if rd.IsLongestAllTime {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Najdłuższa trasa</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
+						<div class="ys-record-compare">
+							<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
+							{ " " }
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Najdłuższa trasa</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
+						<div class="ys-record-compare">
+							<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
+						</div>
+					</div>
+				}
+			}
+			if rd.MostActiveMonth != "" {
+				if rd.IsMostActiveAllTime {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Najaktywniejszy miesiąc</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.MostActiveMonthDist) }</div>
+						<div class="ys-record-compare">
+							{ rd.MostActiveMonth }
+							{ " " }
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Najaktywniejszy miesiąc</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.MostActiveMonthDist) }</div>
+						<div class="ys-record-compare">{ rd.MostActiveMonth }</div>
+					</div>
+				}
+			}
+			if rd.PostCount > 0 {
+				if rd.IsPostRecordYear {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Wpisów w roku</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%d", rd.PostCount) }</div>
+						<div class="ys-record-compare">
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Wpisów w roku</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%d", rd.PostCount) }</div>
+						<div class="ys-record-compare">{ fmt.Sprintf("Rekord: %d (%d)", rd.MostPostsCount, rd.MostPostsYear) }</div>
+					</div>
+				}
+			}
+		</div>
+	}
+}
+
 templ yearSparkline(rd YearReportData) {
 	if rd.MaxMonthDist > 0 {
-		<svg viewBox="0 0 240 60" class="sparkline" xmlns="http://www.w3.org/2000/svg">
-			<path d={ sparklinePath(rd, true) } fill="rgba(51,136,255,0.2)" stroke="none"/>
-			<path d={ sparklinePath(rd, false) } fill="none" stroke="#3388ff" stroke-width="2"/>
+		<svg viewBox="0 0 300 40" class="ys-sparkline-svg">
+			<polygon points={ sparklinePoints(rd) + fmt.Sprintf(" %.1f,36 %.1f,36", sparklineX(11), sparklineX(0)) } fill="var(--ys-accent)" opacity="0.15"/>
+			<polyline points={ sparklinePoints(rd) } fill="none" stroke="var(--ys-accent)" stroke-width="2" stroke-linejoin="round"/>
 			for i := 0; i < 12; i++ {
-				<circle cx={ fmt.Sprintf("%.1f", float64(i)*20+10) } cy={ fmt.Sprintf("%.1f", 55-rd.Months[i].Distance/rd.MaxMonthDist*50) } r="3" fill="#3388ff"/>
+				<circle cx={ fmt.Sprintf("%.1f", sparklineX(i)) } cy={ fmt.Sprintf("%.1f", sparklineY(rd, i)) } r="3" fill="var(--ys-accent)"/>
 			}
 		</svg>
 	}
 }
 
-func sparklinePath(rd YearReportData, closed bool) string {
+templ monthBar(distance float64, maxDist float64) {
+	if maxDist > 0 && distance > 0 {
+		<svg width="80" height="16" class="ys-bar-svg">
+			<rect x="0" y="2" width={ fmt.Sprintf("%d", int(distance/maxDist*70)) } height="12" rx="2" fill="var(--ys-accent)" opacity="0.7"/>
+		</svg>
+	}
+}
+
+func sparklineX(i int) float64 {
+	padX := 10.0
+	plotW := 280.0 // 300 - 2*10
+	if i == 0 {
+		return padX
+	}
+	return padX + float64(i)/11.0*plotW
+}
+
+func sparklineY(rd YearReportData, i int) float64 {
+	padY := 4.0
+	plotH := 32.0 // 40 - 2*4
 	if rd.MaxMonthDist == 0 {
+		return padY + plotH
+	}
+	return padY + plotH - rd.Months[i].Distance/rd.MaxMonthDist*plotH
+}
+
+func sparklinePoints(rd YearReportData) string {
+	points := ""
+	for i := 0; i < 12; i++ {
+		if i > 0 {
+			points += " "
+		}
+		points += fmt.Sprintf("%.1f,%.1f", sparklineX(i), sparklineY(rd, i))
+	}
+	return points
+}
+
+func seasonClass(month int) string {
+	switch month {
+	case 12, 1, 2:
+		return "month-winter"
+	case 3, 4, 5:
+		return "month-spring"
+	case 6, 7, 8:
+		return "month-summer"
+	case 9, 10, 11:
+		return "month-fall"
+	default:
 		return ""
 	}
-	path := ""
-	for i := 0; i < 12; i++ {
-		x := float64(i)*20 + 10
-		y := 55 - rd.Months[i].Distance/rd.MaxMonthDist*50
-		if i == 0 {
-			path += fmt.Sprintf("M%.1f,%.1f", x, y)
-		} else {
-			path += fmt.Sprintf(" L%.1f,%.1f", x, y)
-		}
-	}
-	if closed {
-		path += fmt.Sprintf(" L%.1f,55 L10,55 Z", float64(11)*20+10)
-	}
-	return path
 }
 
 func monthNamePl(m int) string {
