@@ -38,7 +38,7 @@ func testSiteDataForTownsHistory() *index.SiteData {
 		{Slug: "wielkopolskie", Name: "Wielkopolskie", Type: model.AreaTypeVoivodeship},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil)
 }
 
 func TestTownsHistoryPageURL(t *testing.T) {

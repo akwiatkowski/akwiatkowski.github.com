@@ -91,7 +91,6 @@ func runBuild(ctx *pipeline.Context) {
 		photoTags   []model.PhotoTag
 		routeColors map[string]model.RouteColor
 		stations    []model.TrainStation
-		pois        []model.TransportPOI
 		areas       []*model.Area
 		posts       []*model.Post
 		polygonDir  string
@@ -108,7 +107,7 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("loadConfigs", nil, func(ctx *pipeline.Context) error {
 		var err error
-		cfg, tags, photoTags, routeColors, stations, pois, err = loader.LoadAllConfigs(ctx.ConfigDir())
+		cfg, tags, photoTags, routeColors, stations, err = loader.LoadAllConfigs(ctx.ConfigDir())
 		return err
 	})
 
@@ -160,6 +159,19 @@ func runBuild(ctx *pipeline.Context) {
 		if ctx.DryRun {
 			return nil
 		}
+
+		routeCoverageDir := ctx.RouteCoverageDir()
+		areaPhotosDir := ctx.AreaPhotosDir()
+
+		// Check if all spatial caches are fresh — if so, skip the expensive
+		// 93MB YAML + GEOS geometry load entirely.
+		if !ctx.Force && isSpatialFresh(posts, routeCoverageDir, areaPhotosDir, ctx.RoutesDir()) {
+			if ctx.Verbose {
+				fmt.Println("Spatial matching: all caches fresh, skipping")
+			}
+			return nil
+		}
+
 		matcher, err := spatial.NewMatcher(ctx.ExternalDir(), spatial.LoadExternalAreas)
 		if err != nil {
 			return fmt.Errorf("create spatial matcher: %w", err)
@@ -167,13 +179,17 @@ func runBuild(ctx *pipeline.Context) {
 		defer matcher.Close()
 
 		// Phase 1: Route coverage (areas_for_post)
-		routeCoverageDir := ctx.RouteCoverageDir()
 		routesGenerated := 0
 		for _, post := range posts {
 			if len(post.Routes) == 0 {
 				continue
 			}
-			if !ctx.Force && !spatial.IsRouteCoverageStale(routeCoverageDir, post.Slug, nil) {
+			// Build route file paths for proper mtime comparison
+			var routePaths []string
+			if post.CoordsFile != "" {
+				routePaths = []string{filepath.Join(ctx.RoutesDir(), post.CoordsFile)}
+			}
+			if !ctx.Force && !spatial.IsRouteCoverageStale(routeCoverageDir, post.Slug, routePaths) {
 				continue
 			}
 			result := matcher.MatchRoute(post.Routes[0].Segments, post.Routes[0].Type)
@@ -187,7 +203,6 @@ func runBuild(ctx *pipeline.Context) {
 		}
 
 		// Phase 2: Photo→area assignment
-		areaPhotosDir := ctx.AreaPhotosDir()
 		assignments := make(map[spatial.AreaKey][]spatial.PhotoRef)
 		photosMatched := 0
 		for _, post := range posts {
@@ -222,7 +237,7 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("generatePolygons", []string{"loadAreas", "loadPosts", "spatialMatching"}, func(ctx *pipeline.Context) error {
 		polygonDir = filepath.Join(ctx.GlobalCacheDir(), "polygons")
-		// Use Go-generated route coverage cache (plus Crystal fallback)
+		// Generate polygons from Go route coverage cache (primary source)
 		_, err := geodata.Generate(
 			ctx.ExternalDir(), polygonDir, ctx.RouteCoverageDir(),
 			posts, areas, geodata.DefaultTolerance, ctx.Force,
@@ -230,7 +245,7 @@ func runBuild(ctx *pipeline.Context) {
 		if err != nil {
 			return err
 		}
-		// Also collect from Crystal cache if available
+		// Also collect from Crystal cache (never force, just fill gaps)
 		_, err = geodata.Generate(
 			ctx.ExternalDir(), polygonDir, ctx.AreaCacheDir(),
 			posts, areas, geodata.DefaultTolerance, false,
@@ -241,7 +256,7 @@ func runBuild(ctx *pipeline.Context) {
 	// --- Build indexes from all loaded data ---
 
 	pipe.Add("buildSiteData", []string{"loadConfigs", "loadAreas", "loadPhotos"}, func(_ *pipeline.Context) error {
-		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, pois)
+		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations)
 		return nil
 	})
 
@@ -341,6 +356,34 @@ func runPipeline(ctx *pipeline.Context) {
 		fmt.Println("Dry run — no changes will be made")
 	}
 	fmt.Println("Pipeline: no nodes registered yet")
+}
+
+// isSpatialFresh checks whether all spatial matching caches are up-to-date,
+// allowing the expensive GEOS/YAML loading to be skipped entirely.
+// Returns true if every post with a route has a cache file, and the photos_in_area
+// directory exists and is non-empty.
+func isSpatialFresh(posts []*model.Post, routeCoverageDir, areaPhotosDir, routesDir string) bool {
+	// Check that every post with routes has a fresh cache file
+	for _, post := range posts {
+		if len(post.Routes) == 0 {
+			continue
+		}
+		var routePaths []string
+		if post.CoordsFile != "" {
+			routePaths = []string{filepath.Join(routesDir, post.CoordsFile)}
+		}
+		if spatial.IsRouteCoverageStale(routeCoverageDir, post.Slug, routePaths) {
+			return false
+		}
+	}
+
+	// Check that photo assignments directory exists and has content
+	entries, err := os.ReadDir(areaPhotosDir)
+	if err != nil || len(entries) == 0 {
+		return false
+	}
+
+	return true
 }
 
 // addPhotoRefs accumulates photo references into the assignments map

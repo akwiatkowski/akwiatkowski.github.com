@@ -1,6 +1,7 @@
 package loader
 
 import (
+	"path/filepath"
 	"testing"
 
 	"odkrywajac/internal/model"
@@ -8,7 +9,7 @@ import (
 
 func TestLoadAreas(t *testing.T) {
 	cfgDir := configDir(t)
-	areas, err := LoadAreas(cfgDir)
+	areas, err := LoadAreas(filepath.Join(cfgDir, "areas"))
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -54,7 +55,7 @@ func TestLoadAreas(t *testing.T) {
 
 func TestLoadAreasSetsType(t *testing.T) {
 	cfgDir := configDir(t)
-	areas, err := LoadAreas(cfgDir)
+	areas, err := LoadAreas(filepath.Join(cfgDir, "areas"))
 	if err != nil {
 		t.Fatal(err)
 	}

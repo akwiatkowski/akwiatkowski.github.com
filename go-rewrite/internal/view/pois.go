@@ -52,17 +52,17 @@ func POIsPage(
 func buildPOIs(data *index.SiteData, r *router.Router) []views.POIEntry {
 	var result []views.POIEntry
 
-	// Manual POIs from TransportPOIs
-	for _, poi := range data.POIs {
+	// Manual POIs from train stations
+	for _, station := range data.Stations {
 		entry := views.POIEntry{
-			Name: poi.Name,
-			Lat:  poi.Lat,
-			Lon:  poi.Lon,
+			Name: station.Name,
+			Lat:  station.Lat,
+			Lon:  station.Lon,
 			Type: "visited",
 		}
 
 		// Find closest geotagged photo
-		if photo, post := findClosestPhoto(poi.Lat, poi.Lon, data); photo != nil {
+		if photo, post := findClosestPhoto(station.Lat, station.Lon, data); photo != nil {
 			entry.PhotoURL = r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg")
 			entry.PhotoAVIF = r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif")
 			entry.PhotoDesc = photo.Desc

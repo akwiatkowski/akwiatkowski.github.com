@@ -13,7 +13,7 @@ import (
 func testSiteDataMinimal() *index.SiteData {
 	return index.BuildSiteData(nil, nil, nil, nil,
 		model.SiteConfig{Title: "Test Site", URL: "https://example.com"},
-		nil, nil, nil,
+		nil, nil,
 	)
 }
 
@@ -60,7 +60,7 @@ func TestShellPageRender(t *testing.T) {
 	html := buf.String()
 	checks := []string{
 		"<!doctype html>",
-		`id="root"`,
+		`id="map-container"`,
 		"/js/self/map_leaflet.js",
 		"Mapa tras",
 	}

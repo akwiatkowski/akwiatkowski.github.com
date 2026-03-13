@@ -34,7 +34,7 @@ func testSiteDataForFeeds() *index.SiteData {
 		Desc:   "Blog podróżniczy",
 	}
 
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil)
 }
 
 func TestRSSFeed(t *testing.T) {

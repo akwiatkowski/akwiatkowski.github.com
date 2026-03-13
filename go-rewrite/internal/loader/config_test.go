@@ -131,20 +131,9 @@ func TestLoadTrainStations(t *testing.T) {
 	}
 }
 
-func TestLoadTransportPOIs(t *testing.T) {
-	cfgDir := configDir(t)
-	pois, err := LoadTransportPOIs(filepath.Join(cfgDir, "transport_pois.yml"))
-	if err != nil {
-		t.Fatal(err)
-	}
-	if len(pois) < 5 {
-		t.Errorf("expected at least 5 POIs, got %d", len(pois))
-	}
-}
-
 func TestLoadAllConfigs(t *testing.T) {
 	cfgDir := configDir(t)
-	cfg, tags, photoTags, colors, stations, pois, err := LoadAllConfigs(cfgDir)
+	cfg, tags, photoTags, colors, stations, err := LoadAllConfigs(cfgDir)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -162,8 +151,5 @@ func TestLoadAllConfigs(t *testing.T) {
 	}
 	if len(stations) == 0 {
 		t.Error("no stations loaded")
-	}
-	if len(pois) == 0 {
-		t.Error("no POIs loaded")
 	}
 }

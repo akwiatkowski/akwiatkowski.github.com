@@ -14,7 +14,6 @@ type SiteData struct {
 	Config      model.SiteConfig
 	RouteColors map[string]model.RouteColor
 	Stations    []model.TrainStation
-	POIs        []model.TransportPOI
 
 	// Lookup indexes (internal maps, use methods for access)
 	postsByTagSlug  map[string][]*model.Post        // tag slug → posts
@@ -100,7 +99,6 @@ func BuildSiteData(
 	config model.SiteConfig,
 	routeColors map[string]model.RouteColor,
 	stations []model.TrainStation,
-	pois []model.TransportPOI,
 ) *SiteData {
 	sd := &SiteData{
 		Posts:       posts,
@@ -110,7 +108,6 @@ func BuildSiteData(
 		Config:      config,
 		RouteColors: routeColors,
 		Stations:    stations,
-		POIs:        pois,
 	}
 
 	sd.buildTagIndexes()

@@ -36,7 +36,7 @@ func testSiteDataForBurnout() *index.SiteData {
 		},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil)
 }
 
 func TestBurnoutPageURL(t *testing.T) {

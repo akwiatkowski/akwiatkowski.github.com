@@ -702,15 +702,15 @@ func TestStaticMore_RendersTitle(t *testing.T) {
 
 func TestStaticMore_RendersLinks(t *testing.T) {
 	links := []views.MoreLink{
-		{URL: "/galeria.html", Name: "Galeria", Desc: "Wszystkie zdjęcia"},
-		{URL: "/o-mnie.html", Name: "O mnie", Desc: "Kim jestem"},
+		{URL: "/galeria.html", Name: "Galeria", Desc: "Wszystkie zdjęcia", Icon: "photos"},
+		{URL: "/o-mnie.html", Name: "O mnie", Desc: "Kim jestem", Icon: "stats"},
 	}
 	out := h.Render(t, views.StaticMoreContent(links))
 	doc := h.Parse(t, out)
 
-	listItems := h.FindByClass(doc, "list-group-item")
-	if len(listItems) != 2 {
-		t.Errorf("expected 2 list items, got %d", len(listItems))
+	moreLinks := h.FindByClass(doc, "more-link")
+	if len(moreLinks) != 2 {
+		t.Errorf("expected 2 more-link items, got %d", len(moreLinks))
 	}
 	h.AssertContains(t, out, "Galeria")
 	h.AssertContains(t, out, "Wszystkie zdjęcia")

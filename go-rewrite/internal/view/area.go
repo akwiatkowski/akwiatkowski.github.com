@@ -185,8 +185,14 @@ func buildAreaShowJSON(
 		if voivArea != nil {
 			aj.VoivodeshipName = voivArea.Name
 			aj.VoivodeshipURL = r.AreaShowURL(voivArea)
-			aj.ParentName = voivArea.Name
-			aj.ParentURL = r.AreaShowURL(voivArea)
+			// ParentName is the immediate parent (county for towns, voivodeship for counties).
+			// Since we don't have county data for towns, only set ParentName for
+			// meso/macro regions where it differs from the voivodeship.
+			// This avoids the JS rendering "wielkopolskie, wielkopolskie" in the hero.
+			if area.Type == model.AreaTypeMesoRegion || area.Type == model.AreaTypeMacroRegion {
+				aj.ParentName = voivArea.Name
+				aj.ParentURL = r.AreaShowURL(voivArea)
+			}
 		}
 	}
 

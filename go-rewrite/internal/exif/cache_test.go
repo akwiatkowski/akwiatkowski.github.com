@@ -92,3 +92,83 @@ func TestCacheIsStaleWithFile(t *testing.T) {
 		t.Error("cache with no source images should not be stale")
 	}
 }
+
+func TestLoadMapForPostUsesPrimaryCache(t *testing.T) {
+	cacheDir := t.TempDir()
+	imageDir := t.TempDir()
+	cache := NewCache(cacheDir)
+
+	// Write a cache entry
+	writeCacheFile(t, cacheDir, "test-post", []cacheEntry{
+		{ImageFilename: "photo.jpg", PostSlug: "test-post", Lat: floatPtr(52.0), Lon: floatPtr(17.0)},
+	})
+
+	result, err := cache.LoadMapForPost("test-post", imageDir)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result) != 1 {
+		t.Fatalf("expected 1 entry, got %d", len(result))
+	}
+	if result["photo.jpg"] == nil || *result["photo.jpg"].Lat != 52.0 {
+		t.Error("expected photo.jpg with lat=52.0")
+	}
+}
+
+func TestLoadMapForPostEmptyImageDir(t *testing.T) {
+	cacheDir := t.TempDir()
+	imageDir := t.TempDir() // empty directory
+	cache := NewCache(cacheDir)
+
+	// No cache file, no images → should return empty map
+	result, err := cache.LoadMapForPost("nonexistent", imageDir)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(result) != 0 {
+		t.Errorf("expected empty map, got %d entries", len(result))
+	}
+}
+
+func TestListImagePaths(t *testing.T) {
+	dir := t.TempDir()
+	for _, name := range []string{"a.jpg", "b.JPG", "c.png", "d.txt", "e.jpeg"} {
+		if err := os.WriteFile(dir+"/"+name, []byte("x"), 0o644); err != nil {
+			t.Fatal(err)
+		}
+	}
+
+	paths := ListImagePaths(dir)
+	if len(paths) != 4 {
+		t.Fatalf("expected 4 image paths, got %d: %v", len(paths), paths)
+	}
+
+	// Should not contain d.txt
+	for _, p := range paths {
+		if p == dir+"/d.txt" {
+			t.Error("d.txt should not be listed as an image")
+		}
+	}
+}
+
+func TestListImagePathsNonexistentDir(t *testing.T) {
+	paths := ListImagePaths("/nonexistent/path")
+	if paths != nil {
+		t.Errorf("expected nil for nonexistent dir, got %v", paths)
+	}
+}
+
+// --- helpers ---
+
+func writeCacheFile(t *testing.T, dir, slug string, entries []cacheEntry) {
+	t.Helper()
+	data, err := yaml.Marshal(entries)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(dir+"/"+slug+".yml", append([]byte("---\n"), data...), 0o644); err != nil {
+		t.Fatal(err)
+	}
+}
+
+func floatPtr(f float64) *float64 { return &f }

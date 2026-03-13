@@ -16,12 +16,3 @@ func (s *TrainStation) PoznanTimeDistance() float64 {
 	return 0
 }
 
-// TransportPOI is a bus/transit point of interest.
-type TransportPOI struct {
-	CommuneSlug string  `yaml:"commune_slug"`
-	Name        string  `yaml:"name"`
-	Major       bool    `yaml:"major"`
-	TimeCost    int     `yaml:"time_cost"`
-	Lat         float64 `yaml:"lat"`
-	Lon         float64 `yaml:"lon"`
-}

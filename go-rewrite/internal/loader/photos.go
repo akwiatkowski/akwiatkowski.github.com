@@ -11,18 +11,28 @@ import (
 )
 
 // PopulatePublishedPhotos builds Photo objects for each post from its parsed
-// PublishedPhotoRefs, enriches them with EXIF data from the cache, and computes
-// quality points from photo tag scores. Must run after LoadPosts and before
-// BuildSiteData, since many views read post.PublishedPhotos.
-func PopulatePublishedPhotos(posts []*model.Post, exifCache *exif.Cache, photoTags []model.PhotoTag) {
+// PublishedPhotoRefs, enriches them with EXIF data, and computes quality points
+// from photo tag scores. EXIF data is loaded per-post using the cache's
+// LoadMapForPost, which checks staleness and only regenerates for dirty posts.
+// Must run after LoadPosts and before BuildSiteData.
+func PopulatePublishedPhotos(posts []*model.Post, exifCache *exif.Cache, photoTags []model.PhotoTag, imagesDir string) {
 	pointsBySlug := buildPhotoTagPoints(photoTags)
 
+	var generated, cached int
 	for _, post := range posts {
 		if len(post.PublishedPhotoRefs) == 0 {
 			continue
 		}
 
-		exifByFilename := loadExifMap(exifCache, post.Slug)
+		postImageDir := postImagesPath(imagesDir, post)
+		exifByFilename, err := exifCache.LoadMapForPost(post.Slug, postImageDir)
+		if err != nil {
+			slog.Warn("EXIF cache error", "post", post.Slug, "err", err)
+			exifByFilename = make(map[string]*model.ExifData)
+			generated++
+		} else if len(exifByFilename) > 0 {
+			cached++
+		}
 
 		for _, ref := range post.PublishedPhotoRefs {
 			photo := &model.Photo{
@@ -39,11 +49,13 @@ func PopulatePublishedPhotos(posts []*model.Post, exifCache *exif.Cache, photoTa
 			post.PublishedPhotos = append(post.PublishedPhotos, photo)
 		}
 	}
+	slog.Debug("EXIF loading", "cached", cached, "generated", generated)
 }
 
 // PopulateAllPhotos scans each post's image directory and builds AllPhotos,
 // which is a superset of PublishedPhotos. Published photos keep their full
 // metadata (caption, tags, points); non-published photos get EXIF data only.
+// Uses per-post EXIF cache loading with staleness checking.
 // Must run after PopulatePublishedPhotos.
 func PopulateAllPhotos(posts []*model.Post, imagesDir string, exifCache *exif.Cache) {
 	for _, post := range posts {
@@ -61,8 +73,12 @@ func PopulateAllPhotos(posts []*model.Post, imagesDir string, exifCache *exif.Ca
 			continue
 		}
 
-		// Load EXIF data for non-published photos.
-		exifByFilename := loadExifMap(exifCache, post.Slug)
+		// Load EXIF data per-post (uses cache with staleness checking).
+		exifByFilename, err := exifCache.LoadMapForPost(post.Slug, postImageDir)
+		if err != nil {
+			slog.Warn("EXIF cache error for all photos", "post", post.Slug, "err", err)
+			exifByFilename = make(map[string]*model.ExifData)
+		}
 
 		var allPhotos []*model.Photo
 
@@ -135,18 +151,6 @@ func computePoints(tagSlugs []string, pointsBySlug map[string]int) int {
 		total += pointsBySlug[slug]
 	}
 	return total
-}
-
-// loadExifMap loads the EXIF cache for a post, indexed by image filename.
-// Returns an empty map if the cache doesn't exist or fails to load.
-func loadExifMap(cache *exif.Cache, postSlug string) map[string]*model.ExifData {
-	exifMap, err := cache.LoadMap(postSlug)
-	if err != nil {
-		// Cache may not exist for all posts — this is expected.
-		slog.Debug("No EXIF cache for post", "post", postSlug, "err", err)
-		return make(map[string]*model.ExifData)
-	}
-	return exifMap
 }
 
 func hasSlug(slugs []string, target string) bool {

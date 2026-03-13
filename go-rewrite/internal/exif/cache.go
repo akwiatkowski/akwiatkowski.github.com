@@ -129,7 +129,7 @@ type Cache struct {
 
 // NewCache creates a new EXIF cache manager.
 // cacheDir should be the full path to the directory containing per-post YAML files
-// (e.g. env/dev/cache/exifs/).
+// (e.g. env/dev/cache-go/exifs/).
 func NewCache(cacheDir string) *Cache {
 	return &Cache{cacheDir: cacheDir}
 }
@@ -242,6 +242,51 @@ func (c *Cache) LoadOrGenerate(postSlug string, imageFiles []string) ([]*model.E
 		return nil, err
 	}
 	return c.Load(postSlug)
+}
+
+// LoadMapForPost loads EXIF data for a post, using per-post staleness checking.
+// If the cache is fresh, reads from it. If stale or missing, regenerates from
+// raw images in imageDir and writes the new cache file.
+// Returns an empty map if the directory doesn't exist or has no images.
+func (c *Cache) LoadMapForPost(postSlug string, imageDir string) (map[string]*model.ExifData, error) {
+	imagePaths := ListImagePaths(imageDir)
+
+	// Cache is fresh — read directly
+	if !c.IsStale(postSlug, imagePaths) {
+		return c.LoadMap(postSlug)
+	}
+
+	// No images — nothing to generate
+	if len(imagePaths) == 0 {
+		return make(map[string]*model.ExifData), nil
+	}
+
+	// Stale or missing — regenerate from raw images
+	if err := c.Generate(postSlug, imagePaths); err != nil {
+		return nil, fmt.Errorf("generate exif cache for %s: %w", postSlug, err)
+	}
+	return c.LoadMap(postSlug)
+}
+
+// ListImagePaths returns full paths of image files (JPEG/PNG) in a directory.
+// Returns nil if the directory doesn't exist.
+func ListImagePaths(dir string) []string {
+	entries, err := os.ReadDir(dir)
+	if err != nil {
+		return nil
+	}
+
+	var paths []string
+	for _, entry := range entries {
+		if entry.IsDir() {
+			continue
+		}
+		lower := strings.ToLower(entry.Name())
+		if strings.HasSuffix(lower, ".jpg") || strings.HasSuffix(lower, ".jpeg") || strings.HasSuffix(lower, ".png") {
+			paths = append(paths, filepath.Join(dir, entry.Name()))
+		}
+	}
+	return paths
 }
 
 // cacheEntry is the YAML-serializable form of EXIF data with image metadata.

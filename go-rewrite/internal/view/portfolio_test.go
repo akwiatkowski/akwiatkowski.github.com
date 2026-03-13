@@ -52,7 +52,7 @@ func TestPortfolioPageRender(t *testing.T) {
 	}
 	data := index.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, nil, nil,
+		nil, nil,
 	)
 	rtr := router.New("https://example.com")
 
@@ -67,8 +67,15 @@ func TestPortfolioPageRender(t *testing.T) {
 	if !strings.Contains(html, "Best landscape") {
 		t.Error("portfolio should contain best-tagged photo")
 	}
-	// Should not contain non-best photo
-	if strings.Contains(html, "Normal photo") {
-		t.Error("portfolio should not contain non-best photo")
+	// Should contain good-tagged photo (3-tier selection: portfolio > best > good)
+	if !strings.Contains(html, "Normal photo") {
+		t.Error("portfolio should contain good-tagged photo via tier 3 fill")
+	}
+	// Should contain portfolio-specific elements
+	if !strings.Contains(html, "portfolio-root") {
+		t.Error("portfolio should have portfolio-root mount div")
+	}
+	if !strings.Contains(html, "portfolio-data") {
+		t.Error("portfolio should have portfolio-data JSON script")
 	}
 }

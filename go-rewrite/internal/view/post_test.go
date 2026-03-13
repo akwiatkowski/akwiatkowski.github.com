@@ -45,7 +45,7 @@ func testSiteDataWithPosts() *index.SiteData {
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
 
-	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil)
 }
 
 func TestPostArticlePageURL(t *testing.T) {

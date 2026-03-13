@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"odkrywajac/internal/model"
 
@@ -27,6 +28,13 @@ func LoadExternalAreas(externalDir string) (map[string][]ExternalArea, error) {
 		var areas []ExternalArea
 		if err := yaml.Unmarshal(data, &areas); err != nil {
 			return nil, fmt.Errorf("parse %s: %w", path, err)
+		}
+
+		// Voivodeship names are uppercase in source data — lowercase them
+		if areaType == model.AreaTypeVoivodeship {
+			for i := range areas {
+				areas[i].Name = strings.ToLower(areas[i].Name)
+			}
 		}
 
 		result[typeName] = areas

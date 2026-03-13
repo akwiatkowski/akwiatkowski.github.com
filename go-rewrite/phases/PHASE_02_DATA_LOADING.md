@@ -168,7 +168,8 @@ EXIF comparison (full env, 25,641 images):
 
 ## What's Deferred
 
-- **Route Coverage (R5)**: Pipeline nodes for area-route intersection computation
+- **Route Coverage (R5)**: ~~Pipeline nodes for area-route intersection computation~~ **DONE** — implemented in `internal/spatial/` using GEOS (twpayne/go-geos). Pipeline node `spatialMatching` generates `areas_for_post/*.yml` with route→area distances. Output matches Crystal format (same slugs, distances, percentages). Go has 5 area types vs Crystal's 8 (missing mega_regions, subprovinces, provinces).
+- **Area Photos**: ~~Photo→area assignment~~ **DONE** — same `spatialMatching` pipeline node generates `photos_in_area/{type}/{slug}.yml` using GEOS point-in-polygon. Processes AllPhotos (not just published).
 - **Grid Data (R7)**: Spatial grid computation for maps and photo planner
 - **Polygon Loader (R6)**: Simple file read — implement when area show views need it
 - **Photo Index**: Camera/lens/ISO grouping indexes — implement when gallery views need it

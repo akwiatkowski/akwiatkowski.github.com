@@ -38,7 +38,8 @@ func TestPopulatePublishedPhotos(t *testing.T) {
 		},
 	}
 
-	PopulatePublishedPhotos([]*model.Post{post}, exifCache, photoTags)
+	// imagesDir not used for published photos when cache exists, but required by signature.
+	PopulatePublishedPhotos([]*model.Post{post}, exifCache, photoTags, t.TempDir())
 
 	if len(post.PublishedPhotos) != 2 {
 		t.Fatalf("expected 2 published photos, got %d", len(post.PublishedPhotos))
@@ -85,7 +86,7 @@ func TestPopulatePublishedPhotosSkipsPostsWithNoRefs(t *testing.T) {
 	exifCache := exif.NewCache(cacheDir)
 
 	post := &model.Post{Slug: "2022-01-01-empty", Date: mustParseDate("2022-01-01")}
-	PopulatePublishedPhotos([]*model.Post{post}, exifCache, nil)
+	PopulatePublishedPhotos([]*model.Post{post}, exifCache, nil, t.TempDir())
 
 	if len(post.PublishedPhotos) != 0 {
 		t.Errorf("expected 0 photos, got %d", len(post.PublishedPhotos))

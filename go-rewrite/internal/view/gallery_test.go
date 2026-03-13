@@ -68,7 +68,7 @@ func testSiteDataForGallery() *index.SiteData {
 		{Slug: "best", SlugPl: "najlepsze", Title: "Najlepsze"},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, photoTags, nil, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, nil, photoTags, nil, cfg, nil, nil)
 }
 
 func TestGalleryFillAlgorithm(t *testing.T) {

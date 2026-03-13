@@ -48,12 +48,12 @@ func testSiteDataForPOIs() *index.SiteData {
 		},
 	}
 
-	pois := []model.TransportPOI{
+	stations := []model.TrainStation{
 		{Name: "Castle", Lat: 52.41, Lon: 16.91},
 	}
 
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, pois)
+	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, stations)
 }
 
 func TestPOIsPageURL(t *testing.T) {

@@ -1,0 +1,17 @@
+package views
+
+// ShellMapContent renders the HTML structure expected by map_leaflet.js.
+// The JS creates a BlogMap that fetches /jsons/map.json and renders routes
+// onto the Leaflet map in #content.
+templ ShellMapContent() {
+	<div id="map-container">
+		<div id="content"></div>
+		<div id="links"></div>
+	</div>
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function() {
+			var l = new BlogMap();
+			l.start();
+		});
+	</script>
+}

@@ -55,7 +55,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 
 	return index.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, stations, nil,
+		nil, stations,
 	)
 }
 

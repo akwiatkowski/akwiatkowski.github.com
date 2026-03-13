@@ -51,7 +51,7 @@ func testSiteDataForPhotoMaps() *index.SiteData {
 			BBox: &model.BBox{South: 51.0, North: 53.0, West: 15.5, East: 18.5}},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
+	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil)
 }
 
 func TestGlobalMapSVGs(t *testing.T) {

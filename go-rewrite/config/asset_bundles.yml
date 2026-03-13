@@ -57,6 +57,11 @@ bundles:
     js:
       - /js/self/post_collection.js
 
+  chartjs:
+    js:
+      - /js/libs/chart.umd.js
+      - /js/libs/chartjs-chart-matrix.min.js
+
 composites:
   core:
     includes:
@@ -109,6 +114,12 @@ page-assets:
   fonts:
     css:
       - /css/self/fonts.css
+  timeline:
+    css:
+      - /css/self/timeline.css
+  exif_stats:
+    css:
+      - /css/self/exif_stats.css
   area-show:
     css:
       - /css/self/area_show.css

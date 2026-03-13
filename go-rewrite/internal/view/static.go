@@ -66,14 +66,14 @@ func MorePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolve
 	currentYear := time.Now().Year()
 
 	links := []views.MoreLink{
-		{URL: rtr.PortfolioURL(), Name: "Portfolio", Desc: "Wybrane najlepsze zdjęcia z wycieczek"},
-		{URL: rtr.YearReportURL(currentYear), Name: fmt.Sprintf("Rok %d", currentYear), Desc: fmt.Sprintf("Podsumowanie roku %d — trasy, kilometry, zdjęcia", currentYear)},
-		{URL: rtr.PhotoMapURL(), Name: "Mapa zdjęć", Desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio"},
-		{URL: rtr.TimelineURL(), Name: "Linia czasu", Desc: "Zdjęcia ułożone według miesiąca i dnia roku"},
-		{URL: rtr.MapURL(), Name: "Mapa tras", Desc: "Interaktywna mapa z trasami wycieczek"},
-		{URL: rtr.TripIdeasURL(), Name: "Pomysły na trasy", Desc: "Planer rowerowych wycieczek z filtrami i mapami"},
-		{URL: rtr.PhotoPlannerURL(), Name: "Planer dla zdjęć", Desc: "Generator tras optymalizujący pokrycie zdjęciami"},
-		{URL: rtr.ExifStatsURL(), Name: "Statystyki EXIF", Desc: "Wykresy i heatmapy z metadanych zdjęć"},
+		{URL: rtr.PortfolioURL(), Name: "Portfolio", Desc: "Wybrane najlepsze zdjęcia z wycieczek", Icon: "portfolio"},
+		{URL: rtr.YearReportURL(currentYear), Name: fmt.Sprintf("Rok %d", currentYear), Desc: fmt.Sprintf("Podsumowanie roku %d — trasy, kilometry, zdjęcia", currentYear), Icon: "calendar"},
+		{URL: rtr.PhotoMapURL(), Name: "Mapa zdjęć", Desc: "Przeglądaj zdjęcia na mapie w stylu Panoramio", Icon: "photos"},
+		{URL: rtr.TimelineURL(), Name: "Linia czasu", Desc: "Zdjęcia ułożone według miesiąca i dnia roku", Icon: "clock"},
+		{URL: rtr.MapURL(), Name: "Mapa tras", Desc: "Interaktywna mapa z trasami wycieczek", Icon: "map"},
+		{URL: rtr.TripIdeasURL(), Name: "Pomysły na trasy", Desc: "Planer rowerowych wycieczek z filtrami i mapami", Icon: "idea"},
+		{URL: rtr.PhotoPlannerURL(), Name: "Planer dla zdjęć", Desc: "Generator tras optymalizujący pokrycie zdjęciami", Icon: "camera"},
+		{URL: rtr.ExifStatsURL(), Name: "Statystyki EXIF", Desc: "Wykresy i heatmapy z metadanych zdjęć", Icon: "stats"},
 	}
 
 	page := layout.PageData{

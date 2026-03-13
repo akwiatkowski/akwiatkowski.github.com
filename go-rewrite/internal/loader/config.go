@@ -102,19 +102,6 @@ func LoadTrainStations(path string) ([]model.TrainStation, error) {
 	return stations, nil
 }
 
-// LoadTransportPOIs loads transport POI definitions from a YAML file.
-func LoadTransportPOIs(path string) ([]model.TransportPOI, error) {
-	data, err := os.ReadFile(path)
-	if err != nil {
-		return nil, fmt.Errorf("read transport_pois: %w", err)
-	}
-	var pois []model.TransportPOI
-	if err := yaml.Unmarshal(data, &pois); err != nil {
-		return nil, fmt.Errorf("parse transport_pois: %w", err)
-	}
-	return pois, nil
-}
-
 // LoadAllConfigs loads all config files from a config directory in parallel.
 func LoadAllConfigs(configDir string) (
 	cfg model.SiteConfig,
@@ -122,7 +109,6 @@ func LoadAllConfigs(configDir string) (
 	photoTags []model.PhotoTag,
 	routeColors map[string]model.RouteColor,
 	stations []model.TrainStation,
-	pois []model.TransportPOI,
 	err error,
 ) {
 	type result struct {
@@ -130,7 +116,7 @@ func LoadAllConfigs(configDir string) (
 		val any
 		err error
 	}
-	ch := make(chan result, 6)
+	ch := make(chan result, 5)
 
 	go func() {
 		v, e := LoadSiteConfig(filepath.Join(configDir, "config.yml"))
@@ -152,12 +138,8 @@ func LoadAllConfigs(configDir string) (
 		v, e := LoadTrainStations(filepath.Join(configDir, "train_stations.yml"))
 		ch <- result{4, v, e}
 	}()
-	go func() {
-		v, e := LoadTransportPOIs(filepath.Join(configDir, "transport_pois.yml"))
-		ch <- result{5, v, e}
-	}()
 
-	for range 6 {
+	for range 5 {
 		r := <-ch
 		if r.err != nil {
 			err = r.err
@@ -174,8 +156,6 @@ func LoadAllConfigs(configDir string) (
 			routeColors = r.val.(map[string]model.RouteColor)
 		case 4:
 			stations = r.val.([]model.TrainStation)
-		case 5:
-			pois = r.val.([]model.TransportPOI)
 		}
 	}
 	return

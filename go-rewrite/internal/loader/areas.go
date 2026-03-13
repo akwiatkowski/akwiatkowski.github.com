@@ -12,8 +12,10 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-// LoadAreas loads all 5 area types from YAML configs and returns them combined.
-func LoadAreas(configDir string) ([]*model.Area, error) {
+// LoadAreas loads all 5 area types from YAML configs in the given directory
+// and returns them combined. The areasDir should contain towns.yml, counties.yml,
+// voivodeships.yml, meso_regions.yml, and macro_regions.yml.
+func LoadAreas(areasDir string) ([]*model.Area, error) {
 	areaTypes := model.AllAreaTypes()
 
 	type result struct {
@@ -29,7 +31,7 @@ func LoadAreas(configDir string) ([]*model.Area, error) {
 		wg.Add(1)
 		go func(at model.AreaType) {
 			defer wg.Done()
-			path := filepath.Join(configDir, "areas", at.ConfigFilename())
+			path := filepath.Join(areasDir, at.ConfigFilename())
 			areas, err := loadAreasFile(path, at)
 			ch <- result{at, areas, err}
 		}(at)

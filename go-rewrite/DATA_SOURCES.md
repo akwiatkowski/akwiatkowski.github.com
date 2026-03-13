@@ -88,8 +88,8 @@ Stored in `env/{env}/cache-go/`.
 
 | Cache | Old name | New name | What it stores | Time |
 |-------|----------|----------|---------------|------|
-| Route coverage | `areas_for_post/` | `route_coverage/` | Per-post: km/time breakdown by area (towns, counties, voivodeships, meso/macro regions, provinces, subprovinces, mega regions) + touched areas list | ~3 min full |
-| Area photos | `photos_in_area/` | `area_photos/` | Per-area: list of photos taken within polygon. A photo can belong to multiple areas (border overlap). | ~2 min full |
+| Route coverage | `areas_for_post/` | `areas_for_post/` | Per-post: km/time breakdown by area (towns, counties, voivodeships, meso/macro regions) + touched areas list. **Go generates natively** via GEOS spatial matching (`internal/spatial/`). Crystal also includes provinces, subprovinces, mega regions. | ~11s dev |
+| Area photos | `photos_in_area/` | `photos_in_area/` | Per-area: list of photos taken within polygon. A photo can belong to multiple areas (border overlap). **Go generates natively** via GEOS point-in-polygon. Processes AllPhotos (superset of Crystal's published-only). | ~11s dev |
 | EXIF metadata | `exifs/` | `exif/` | Per-post: extracted JPEG metadata (GPS, lens, camera, etc.) | Cached, expensive for 14K+ photos |
 | Route grid | `post_coord_quant.yml` | `route_grid.yml` | Route → quantized grid cells + related posts (spatial overlap) | Cached |
 | Photo grid | `photo_coord_quant.yml` | `photo_grid.yml` | Photo → grid cells + closest town info | Cached |
@@ -283,10 +283,15 @@ Tags format: `tag:good,tag:best,tag:timeline` (photo_tags slugs)
 Not all fields are present for every photo — only those with EXIF data.
 Photos without GPS have no lat/lon fields.
 
-## Route Coverage Cache Format (was areas_for_post)
+## Route Coverage Cache Format (areas_for_post)
 
 Per-post breakdown of distance/time across all area types.
 Also includes `touched_` lists (areas the route physically enters, even briefly).
+
+**Go implementation**: `internal/spatial/` generates these natively using GEOS
+line-polygon intersection + Haversine distance. Output is Crystal-compatible
+(same structure, same distance values). Go outputs 5 area types; Crystal also
+includes mega_regions, subprovinces, provinces. Requires `brew install geos`.
 
 ```yaml
 ---
@@ -332,10 +337,14 @@ Also includes `touched_` lists (areas the route physically enters, even briefly)
   touched_provinces: [...]
 ```
 
-## Area Photos Cache Format (was photos_in_area)
+## Area Photos Cache Format (photos_in_area)
 
 Per-area list of photos taken within that area's polygon.
 A photo can appear in multiple areas when taken near a border.
+
+**Go implementation**: `internal/spatial/` generates these natively using GEOS
+point-in-polygon tests. Go processes AllPhotos (all geotagged images in post
+directory), while Crystal only processes published photos.
 
 ```yaml
 ---
