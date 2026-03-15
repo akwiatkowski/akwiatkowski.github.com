@@ -1065,6 +1065,19 @@ article h3 {
 }
 
 /* ===========================================
+   Shared Site Width
+   =========================================== */
+:root {
+  --site-width: 1000px;
+}
+
+.site-content {
+  max-width: var(--site-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ===========================================
    New Navigation
    =========================================== */
 .site-nav {
@@ -1081,7 +1094,7 @@ article h3 {
 
 .site-nav-inner {
   width: 100%;
-  max-width: 1200px;
+  max-width: var(--site-width);
   margin: 0 auto;
   padding: 0 24px;
   height: 64px;
@@ -1161,7 +1174,7 @@ body {
 }
 
 .site-footer-inner {
-  max-width: 1200px;
+  max-width: var(--site-width);
   margin: 0 auto;
   display: flex;
   justify-content: space-between;

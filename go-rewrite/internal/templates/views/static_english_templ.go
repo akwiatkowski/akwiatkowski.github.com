@@ -29,7 +29,7 @@ func StaticEnglishContent(renderedHTML string) templ.Component {
 			templ_7745c5c3_Var1 = templ.NopComponent
 		}
 		ctx = templ.ClearChildren(ctx)
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<header class=\"intro-header\"><div class=\"container\"><div class=\"row\"><div class=\"col-lg-8 offset-lg-2 col-md-10 offset-md-1\"><div class=\"post-heading\"><h1>Welcome</h1><h2 class=\"subheading\">a few words for English only speaking visitors</h2></div></div></div></div></header><article><div class=\"container\"><div class=\"row\"><div class=\"col-lg-8 offset-lg-2 col-md-10 offset-md-1\">")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<header class=\"intro-header\"><div class=\"site-content\"><div class=\"post-heading\"><h1>Welcome</h1><h2 class=\"subheading\">a few words for English only speaking visitors</h2></div></div></header><article class=\"site-content\">")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
@@ -37,7 +37,7 @@ func StaticEnglishContent(renderedHTML string) templ.Component {
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "</div></div></div></article><hr>")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "</article><hr>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}

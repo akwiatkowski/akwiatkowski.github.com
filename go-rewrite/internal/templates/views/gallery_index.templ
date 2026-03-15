@@ -1,17 +1,11 @@
 package views
 
 templ GalleryIndexContent(links []GalleryIndexLink) {
-	<section class="section" style="padding-top: 40px;">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-					<h1>Galeria</h1>
-					if len(links) > 0 {
-						@galleryIndexCategory(links)
-					}
-				</div>
-			</div>
-		</div>
+	<section class="site-content" style="padding-top: 40px;">
+		<h1>Galeria</h1>
+		if len(links) > 0 {
+			@galleryIndexCategory(links)
+		}
 	</section>
 }
 

@@ -86,17 +86,13 @@ func heroStyle(imageURL, position string) string {
 
 templ HeroHeader(data PostArticleData) {
 	<header class="intro-header" { templ.Attributes{"style": heroStyle(data.HeroImageURL, data.ImagePosition)}... }>
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-					<div class="post-heading">
-						<h1>{ data.Title }</h1>
-						if data.Subtitle != "" {
-							<h2 class="subheading">{ data.Subtitle }</h2>
-						}
-						<span class="meta">{ data.Author }, { data.DateStr }</span>
-					</div>
-				</div>
+		<div class="site-content">
+			<div class="post-heading">
+				<h1>{ data.Title }</h1>
+				if data.Subtitle != "" {
+					<h2 class="subheading">{ data.Subtitle }</h2>
+				}
+				<span class="meta">{ data.Author }, { data.DateStr }</span>
 			</div>
 		</div>
 	</header>
@@ -106,99 +102,93 @@ templ PostArticleContent(data PostArticleData) {
 	if data.HeroImageURL != "" {
 		@HeroHeader(data)
 	}
-	<article>
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-					if len(data.TagLinks) > 0 || len(data.AreaLinks) > 0 {
-						<p>
-							if len(data.TagLinks) > 0 {
-								{ "Tagi: " }
-								for i, tag := range data.TagLinks {
-									if i > 0 {
-										{ ", " }
-									}
-									<a href={ templ.SafeURL(tag.URL) }>{ tag.Name }</a>
-								}
-								<br/>
-							}
-							for _, group := range data.AreaLinks {
-								{ group.Label + ": " }
-								for i, area := range group.Areas {
-									if i > 0 {
-										{ ", " }
-									}
-									<a href={ templ.SafeURL(area.URL) }>{ area.Name }</a>
-								}
-								<br/>
-							}
-						</p>
+	<article class="site-content">
+		if len(data.TagLinks) > 0 || len(data.AreaLinks) > 0 {
+			<p>
+				if len(data.TagLinks) > 0 {
+					{ "Tagi: " }
+					for i, tag := range data.TagLinks {
+						if i > 0 {
+							{ ", " }
+						}
+						<a href={ templ.SafeURL(tag.URL) }>{ tag.Name }</a>
 					}
-					if data.SvgMapURL != "" {
-						<h2>Mapa</h2>
-						<object class="post_small_photo_map" style="max-width:100%;" data={ data.SvgMapURL } alt="Mapa"></object>
+					<br/>
+				}
+				for _, group := range data.AreaLinks {
+					{ group.Label + ": " }
+					for i, area := range group.Areas {
+						if i > 0 {
+							{ ", " }
+						}
+						<a href={ templ.SafeURL(area.URL) }>{ area.Name }</a>
 					}
-					if data.DistanceStr != "" || data.TimeStr != "" {
-						<div class="post-route-stats">
-							if data.ActivityBadge != "" {
-								<span class="activity-badge">{ data.ActivityBadge }</span>
-							}
-							if data.DistanceStr != "" {
-								<span>{ "📍 " + data.DistanceStr }</span>
-							}
-							if data.TimeStr != "" {
-								<span>{ "⏱️ " + data.TimeStr }</span>
-							}
-							if data.TemperatureStr != "" {
-								<span>{ data.TemperatureStr }</span>
-							}
+					<br/>
+				}
+			</p>
+		}
+		if data.SvgMapURL != "" {
+			<h2>Mapa</h2>
+			<object class="post_small_photo_map" style="max-width:100%;" data={ data.SvgMapURL } alt="Mapa"></object>
+		}
+		if data.DistanceStr != "" || data.TimeStr != "" {
+			<div class="post-route-stats">
+				if data.ActivityBadge != "" {
+					<span class="activity-badge">{ data.ActivityBadge }</span>
+				}
+				if data.DistanceStr != "" {
+					<span>{ "📍 " + data.DistanceStr }</span>
+				}
+				if data.TimeStr != "" {
+					<span>{ "⏱️ " + data.TimeStr }</span>
+				}
+				if data.TemperatureStr != "" {
+					<span>{ data.TemperatureStr }</span>
+				}
+			</div>
+		}
+		if len(data.MapLinks) > 0 {
+			<span class="small">
+				{ "Mapy: " }
+				for i, link := range data.MapLinks {
+					if i > 0 {
+						{ " | " }
+					}
+					<a href={ templ.SafeURL(link.URL) } target="_blank">{ link.Name }</a>
+				}
+			</span>
+		}
+		<div class="post-content">
+			@templ.Raw(data.RenderedMarkdown)
+		</div>
+		if len(data.RelatedPosts) > 0 {
+			<div class="related-posts">
+				<h3>Powiązane wpisy</h3>
+				<div class="row">
+					for _, rp := range data.RelatedPosts {
+						<div class="col-md-4 col-6">
+							@components.PostCard(rp)
 						</div>
 					}
-					if len(data.MapLinks) > 0 {
-						<span class="small">
-							{ "Mapy: " }
-							for i, link := range data.MapLinks {
-								if i > 0 {
-									{ " | " }
-								}
-								<a href={ templ.SafeURL(link.URL) } target="_blank">{ link.Name }</a>
-							}
-						</span>
-					}
-					<div class="post-content">
-						@templ.Raw(data.RenderedMarkdown)
-					</div>
-					if len(data.RelatedPosts) > 0 {
-						<div class="related-posts">
-							<h3>Powiązane wpisy</h3>
-							<div class="row">
-								for _, rp := range data.RelatedPosts {
-									<div class="col-md-4 col-6">
-										@components.PostCard(rp)
-									</div>
-								}
-							</div>
-						</div>
-					}
-					if data.FinishedAtStr != "" {
-						<p class="text-muted finished-at">
-							{ fmt.Sprintf("Wpis ukończony: %s", data.FinishedAtStr) }
-						</p>
-					}
-					<hr/>
-					<div class="post-pager-container">
-						if data.PrevPost != nil {
-							@PostPagerLink(*data.PrevPost, "post-pager-prev", "← Poprzedni")
-						}
-						if data.GalleryURL != "" {
-							<a class="btn btn-primary" href={ templ.SafeURL(data.GalleryURL) } data-bs-toggle="tooltip" data-bs-placement="top" title="Galeria">Galeria</a>
-						}
-						if data.NextPost != nil {
-							@PostPagerLink(*data.NextPost, "post-pager-next", "Następny →")
-						}
-					</div>
 				</div>
 			</div>
+		}
+		if data.FinishedAtStr != "" {
+			<p class="text-muted finished-at">
+				{ fmt.Sprintf("Wpis ukończony: %s", data.FinishedAtStr) }
+			</p>
+		}
+		<hr/>
+		<div class="post-pager-container">
+			if data.PrevPost != nil {
+				@PostPagerLink(*data.PrevPost, "post-pager-prev", "← Poprzedni")
+			}
+			if data.GalleryURL != "" {
+				<a class="btn btn-primary" href={ templ.SafeURL(data.GalleryURL) } data-bs-toggle="tooltip" data-bs-placement="top" title="Galeria">Galeria</a>
+			}
+			if data.NextPost != nil {
+				@PostPagerLink(*data.NextPost, "post-pager-next", "Następny →")
+			}
 		</div>
 	</article>
 }

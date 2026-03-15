@@ -13,7 +13,6 @@ type MoreLink struct {
 // and a 2-column grid (1-column on mobile).
 templ StaticMoreContent(links []MoreLink) {
 	<style>
-		.more-page { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
 		.more-page h1 { font-size: 2rem; font-weight: 600; margin-bottom: 24px; }
 		.more-links-grid {
 			display: grid;
@@ -63,7 +62,7 @@ templ StaticMoreContent(links []MoreLink) {
 			.more-link-icon { background: rgba(77, 184, 199, 0.15); color: #4db8c7; }
 		}
 	</style>
-	<section class="section" style="padding-top: 40px;">
+	<section class="site-content" style="padding-top: 40px;">
 		<div class="more-page">
 			<h1>Więcej</h1>
 			<div class="more-links-grid">

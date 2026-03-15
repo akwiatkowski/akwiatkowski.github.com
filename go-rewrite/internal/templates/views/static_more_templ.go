@@ -40,7 +40,7 @@ func StaticMoreContent(links []MoreLink) templ.Component {
 			templ_7745c5c3_Var1 = templ.NopComponent
 		}
 		ctx = templ.ClearChildren(ctx)
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<style>\n\t\t.more-page { max-width: 800px; margin: 0 auto; padding: 40px 20px; }\n\t\t.more-page h1 { font-size: 2rem; font-weight: 600; margin-bottom: 24px; }\n\t\t.more-links-grid {\n\t\t\tdisplay: grid;\n\t\t\tgrid-template-columns: repeat(2, 1fr);\n\t\t\tgap: 16px;\n\t\t}\n\t\t.more-link {\n\t\t\tdisplay: flex;\n\t\t\talign-items: center;\n\t\t\tgap: 16px;\n\t\t\tpadding: 20px 24px;\n\t\t\tbackground: var(--bs-body-bg, #fff);\n\t\t\tborder: 1px solid var(--bs-border-color, #dee2e6);\n\t\t\tborder-radius: 8px;\n\t\t\ttext-decoration: none;\n\t\t\tcolor: inherit;\n\t\t\ttransition: all 0.2s;\n\t\t}\n\t\t.more-link:hover {\n\t\t\tborder-color: #2d7a85;\n\t\t\ttransform: translateY(-2px);\n\t\t\tbox-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\t\t\ttext-decoration: none;\n\t\t\tcolor: inherit;\n\t\t}\n\t\t.more-link-icon {\n\t\t\tflex-shrink: 0;\n\t\t\twidth: 40px;\n\t\t\theight: 40px;\n\t\t\tdisplay: flex;\n\t\t\talign-items: center;\n\t\t\tjustify-content: center;\n\t\t\tbackground: rgba(45, 122, 133, 0.1);\n\t\t\tborder-radius: 6px;\n\t\t\tcolor: #2d7a85;\n\t\t}\n\t\t.more-link-icon svg { width: 24px; height: 24px; }\n\t\t.more-link-text { display: flex; flex-direction: column; gap: 4px; }\n\t\t.more-link-name { font-size: 1rem; font-weight: 500; }\n\t\t.more-link-desc { font-size: 0.875rem; opacity: 0.7; }\n\t\t@media (max-width: 640px) {\n\t\t\t.more-links-grid { grid-template-columns: 1fr; }\n\t\t}\n\t\t@media (prefers-color-scheme: dark) {\n\t\t\t.more-link { background: #1a1a1a; border-color: #333; }\n\t\t\t.more-link:hover { border-color: #4db8c7; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }\n\t\t\t.more-link-icon { background: rgba(77, 184, 199, 0.15); color: #4db8c7; }\n\t\t}\n\t</style><section class=\"section\" style=\"padding-top: 40px;\"><div class=\"more-page\"><h1>Więcej</h1><div class=\"more-links-grid\">")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<style>\n\t\t.more-page h1 { font-size: 2rem; font-weight: 600; margin-bottom: 24px; }\n\t\t.more-links-grid {\n\t\t\tdisplay: grid;\n\t\t\tgrid-template-columns: repeat(2, 1fr);\n\t\t\tgap: 16px;\n\t\t}\n\t\t.more-link {\n\t\t\tdisplay: flex;\n\t\t\talign-items: center;\n\t\t\tgap: 16px;\n\t\t\tpadding: 20px 24px;\n\t\t\tbackground: var(--bs-body-bg, #fff);\n\t\t\tborder: 1px solid var(--bs-border-color, #dee2e6);\n\t\t\tborder-radius: 8px;\n\t\t\ttext-decoration: none;\n\t\t\tcolor: inherit;\n\t\t\ttransition: all 0.2s;\n\t\t}\n\t\t.more-link:hover {\n\t\t\tborder-color: #2d7a85;\n\t\t\ttransform: translateY(-2px);\n\t\t\tbox-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\t\t\ttext-decoration: none;\n\t\t\tcolor: inherit;\n\t\t}\n\t\t.more-link-icon {\n\t\t\tflex-shrink: 0;\n\t\t\twidth: 40px;\n\t\t\theight: 40px;\n\t\t\tdisplay: flex;\n\t\t\talign-items: center;\n\t\t\tjustify-content: center;\n\t\t\tbackground: rgba(45, 122, 133, 0.1);\n\t\t\tborder-radius: 6px;\n\t\t\tcolor: #2d7a85;\n\t\t}\n\t\t.more-link-icon svg { width: 24px; height: 24px; }\n\t\t.more-link-text { display: flex; flex-direction: column; gap: 4px; }\n\t\t.more-link-name { font-size: 1rem; font-weight: 500; }\n\t\t.more-link-desc { font-size: 0.875rem; opacity: 0.7; }\n\t\t@media (max-width: 640px) {\n\t\t\t.more-links-grid { grid-template-columns: 1fr; }\n\t\t}\n\t\t@media (prefers-color-scheme: dark) {\n\t\t\t.more-link { background: #1a1a1a; border-color: #333; }\n\t\t\t.more-link:hover { border-color: #4db8c7; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }\n\t\t\t.more-link-icon { background: rgba(77, 184, 199, 0.15); color: #4db8c7; }\n\t\t}\n\t</style><section class=\"site-content\" style=\"padding-top: 40px;\"><div class=\"more-page\"><h1>Więcej</h1><div class=\"more-links-grid\">")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
@@ -52,7 +52,7 @@ func StaticMoreContent(links []MoreLink) templ.Component {
 			var templ_7745c5c3_Var2 templ.SafeURL
 			templ_7745c5c3_Var2, templ_7745c5c3_Err = templ.JoinURLErrs(templ.SafeURL(link.URL))
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 71, Col: 38}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 70, Col: 38}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var2))
 			if templ_7745c5c3_Err != nil {
@@ -73,7 +73,7 @@ func StaticMoreContent(links []MoreLink) templ.Component {
 			var templ_7745c5c3_Var3 string
 			templ_7745c5c3_Var3, templ_7745c5c3_Err = templ.JoinStringErrs(link.Name)
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 76, Col: 47}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 75, Col: 47}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var3))
 			if templ_7745c5c3_Err != nil {
@@ -86,7 +86,7 @@ func StaticMoreContent(links []MoreLink) templ.Component {
 			var templ_7745c5c3_Var4 string
 			templ_7745c5c3_Var4, templ_7745c5c3_Err = templ.JoinStringErrs(link.Desc)
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 77, Col: 47}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/views/static_more.templ`, Line: 76, Col: 47}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var4))
 			if templ_7745c5c3_Err != nil {

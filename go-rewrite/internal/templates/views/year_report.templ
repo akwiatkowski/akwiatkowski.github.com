@@ -3,10 +3,7 @@ package views
 import "fmt"
 
 templ YearReportContent(rd YearReportData) {
-	<section class="section" style="padding-top: 40px;">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+	<section class="site-content" style="padding-top: 40px;">
 					<h1>{ fmt.Sprintf("Rok %d", rd.Year) }</h1>
 
 					<!-- Year navigation pills -->
@@ -134,9 +131,7 @@ templ YearReportContent(rd YearReportData) {
 						<div class="ys-map-container">
 							<div id="ys-map"></div>
 						</div>
-						<script id="ys-route-data" type="application/json">
-							@templ.Raw(rd.RouteJSON)
-						</script>
+						@templ.Raw(jsonScriptTag("ys-route-data", rd.RouteJSON))
 						<script>
 							(function() {
 								var el = document.getElementById('ys-map');
@@ -224,9 +219,6 @@ templ YearReportContent(rd YearReportData) {
 							}
 						</tbody>
 					</table>
-				</div>
-			</div>
-		</div>
 	</section>
 }
 
@@ -368,4 +360,11 @@ func monthNamePl(m int) string {
 		return names[m-1]
 	}
 	return ""
+}
+
+// jsonScriptTag wraps a JSON string in a <script type="application/json"> tag.
+// This is needed because templ treats content inside <script> as literal text,
+// so @templ.Raw() doesn't work inside <script> blocks.
+func jsonScriptTag(id, jsonStr string) string {
+	return fmt.Sprintf(`<script id="%s" type="application/json">%s</script>`, id, jsonStr)
 }

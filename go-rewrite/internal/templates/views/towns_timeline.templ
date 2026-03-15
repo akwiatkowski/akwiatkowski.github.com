@@ -3,44 +3,38 @@ package views
 import "fmt"
 
 templ TownsTimelineContent(td TownsTimelineData) {
-	<section class="section" style="padding-top: 40px;">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-					<h1>Gminy chronologicznie</h1>
-					for _, month := range td.Months {
-						<div class="timeline-month mb-4">
-							<h4>{ month.Label }</h4>
-							<div class="text-muted small mb-2">
-								{ fmt.Sprintf("Łącznie własnym napędem: %d | Wszystkie: %d", month.CumulativeSelf, month.CumulativeTotal) }
-								if month.RevisitCount > 0 {
-									{ fmt.Sprintf(" | Powtórne: %d", month.RevisitCount) }
-								}
-							</div>
-							if len(month.SelfTowns) > 0 {
-								<ul class="list-unstyled">
-									for _, town := range month.SelfTowns {
-										<li class="timeline-self-propelled">
-											<span class="badge bg-success me-1">{ fmt.Sprintf("#%d", town.Ordinal) }</span>
-											<a href={ templ.SafeURL(town.URL) }>{ town.Name }</a>
-										</li>
-									}
-								</ul>
-							}
-							if len(month.VehicleTowns) > 0 {
-								<ul class="list-unstyled">
-									for _, town := range month.VehicleTowns {
-										<li class="timeline-vehicle-propelled">
-											<span class="badge bg-secondary me-1">{ fmt.Sprintf("#%d", town.Ordinal) }</span>
-											<a href={ templ.SafeURL(town.URL) }>{ town.Name }</a>
-										</li>
-									}
-								</ul>
-							}
-						</div>
+	<section class="site-content" style="padding-top: 40px;">
+		<h1>Gminy chronologicznie</h1>
+		for _, month := range td.Months {
+			<div class="timeline-month mb-4">
+				<h4>{ month.Label }</h4>
+				<div class="text-muted small mb-2">
+					{ fmt.Sprintf("Łącznie własnym napędem: %d | Wszystkie: %d", month.CumulativeSelf, month.CumulativeTotal) }
+					if month.RevisitCount > 0 {
+						{ fmt.Sprintf(" | Powtórne: %d", month.RevisitCount) }
 					}
 				</div>
+				if len(month.SelfTowns) > 0 {
+					<ul class="list-unstyled">
+						for _, town := range month.SelfTowns {
+							<li class="timeline-self-propelled">
+								<span class="badge bg-success me-1">{ fmt.Sprintf("#%d", town.Ordinal) }</span>
+								<a href={ templ.SafeURL(town.URL) }>{ town.Name }</a>
+							</li>
+						}
+					</ul>
+				}
+				if len(month.VehicleTowns) > 0 {
+					<ul class="list-unstyled">
+						for _, town := range month.VehicleTowns {
+							<li class="timeline-vehicle-propelled">
+								<span class="badge bg-secondary me-1">{ fmt.Sprintf("#%d", town.Ordinal) }</span>
+								<a href={ templ.SafeURL(town.URL) }>{ town.Name }</a>
+							</li>
+						}
+					</ul>
+				}
 			</div>
-		</div>
+		}
 	</section>
 }
