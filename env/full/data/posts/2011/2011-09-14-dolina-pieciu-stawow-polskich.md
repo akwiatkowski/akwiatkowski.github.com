@@ -5,6 +5,7 @@ subtitle:               "i powrót będący wyścigiem z czasem"
 desc:                   "Po czterech dniach moje kolana wróciły do życia. Postanowiliśmy na ostatni dzień dostać się do Doliny Pięciu Stawów Polskich, która jest ponoć najładniejszym miejscem w polskich Tatrach."
 keywords:               [tatry wysokie, morskie oko, wodogrzmoty mickiewicza, dolina roztoki, dolina rybiego potoku]
 date:                   2011-09-14 21:00:00
+finished_at:            2011-12-31 23:59:59
 header_timeline:        true
 image_position:         50% 20%
 author:                 "Aleksander Kwiatkowski"

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Hali Łabowskiej przez Rytro do Kordowca"
 subtitle:               "trochę więcej widoków, bardzo ładne okolice Rytra"
 date:                   2015-07-12 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]

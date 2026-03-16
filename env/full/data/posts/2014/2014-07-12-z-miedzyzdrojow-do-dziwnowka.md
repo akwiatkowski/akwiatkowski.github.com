@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Międzyzdrojów do Dziwnówka"
 subtitle:               "pierwszy dzień przejażdzki na wybrzeżu"
 date:                   2014-07-12 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, coast, panniers]

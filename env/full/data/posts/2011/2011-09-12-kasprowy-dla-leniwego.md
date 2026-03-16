@@ -5,6 +5,7 @@ subtitle:               "lub gdy się wcześniej przesadzi z chodzeniem"
 desc:                   "Wjechałem na Kasprowy Wierch jak większość leniwych ludzi gdyż jeszcze miałem problemy z kolanem. Tym razem nieby było prawie bezchmurne i mieliśmy widok na Podhale oraz Pieniny."
 keywords:               [tatry wysokie, kasprowy, świnica]
 date:                   2011-09-12 21:00:00
+finished_at:            2011-12-31 23:59:59
 image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

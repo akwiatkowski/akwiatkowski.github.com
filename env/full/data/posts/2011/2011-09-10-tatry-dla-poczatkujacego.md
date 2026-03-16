@@ -5,6 +5,7 @@ subtitle:               "okazały się nie być takie łatwe"
 desc:                   "Pierwsza dłuższa trasa w wyższych górach - Tatrach. Przejście na Trzydniowiański i Kończysty Wierch i... nadwyrężenie kolana. Zapłaciłem bólem za piękne widoki."
 keywords:               [tatry zachodnie, chochołowska, trzydniowiański, kończysty, wierch, jesień]
 date:                   2011-09-10 21:00:00
+finished_at:            2011-12-31 23:59:59
 image_position:         50% 30%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

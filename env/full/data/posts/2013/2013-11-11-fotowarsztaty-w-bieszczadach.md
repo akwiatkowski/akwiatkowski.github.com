@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Fotowarsztaty w Bieszczadach w 2013r."
 subtitle:               "czyli jak wydobyć coś ciekawego z mgły, deszczu i złej pogody"
 date:                   2013-11-11 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, photo, workshop, mountains]

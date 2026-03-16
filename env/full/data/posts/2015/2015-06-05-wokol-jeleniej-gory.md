@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Na północ wokół Jeleniej Góry"
 subtitle:               "sudeckie wioski, pola i dużo słońca - pogórze"
 date:                   2015-06-05 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, mountains, best]

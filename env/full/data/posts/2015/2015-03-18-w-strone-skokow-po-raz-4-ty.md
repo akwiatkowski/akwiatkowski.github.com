@@ -3,6 +3,7 @@ layout:                 post
 title:                  "W stronę Skoków, po raz 4-ty"
 subtitle:               "bardzo wczesna wiosna, drzewa jeszcze bez liści"
 date:                   2015-03-18 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

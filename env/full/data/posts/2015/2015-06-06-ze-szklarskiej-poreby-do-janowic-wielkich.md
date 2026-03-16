@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Ze Szklarskiej Poręby do Janowic Wielkich"
 subtitle:               "przez dwa pasma górskie"
 date:                   2015-06-06 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 image_position:         50% 70%
 categories:             trip

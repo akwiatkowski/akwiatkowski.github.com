@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Muszyny na Halę Łabowską"
 subtitle:               "trochę małego miasta, łąk i dużo lasu gdzie nic nie widać"
 date:                   2015-07-11 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

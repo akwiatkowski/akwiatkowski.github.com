@@ -5,6 +5,7 @@ subtitle:               "niepewna pogoda zmusiła nas, aby nie atakować Lackowe
 desc:                   "Ostatniego dnia planowaliśmy wejść na Lackową. Zapowiadana burza przekonała nas abyśmy byli bardziej zachowawczy. Przeszliśmy pętle przez Ropki."
 keywords:               [wiosna, majówka, zielono, hańczowa, ropki, spacer]
 date:                   2012-05-03 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

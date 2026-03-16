@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Turystyka tramwajowa w Krakowie i na Śląsku"
 subtitle:               "czyli dojazd tramwajem do dwóch hut"
 date:                   2016-01-30 21:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_nogallery:       true
 categories:             trip

@@ -5,6 +5,7 @@ subtitle:               "przez gęste lasy w stronę Klimkówki"
 desc:                   "Najdłuższą trasę przeszliśmy drugiego dnia idąc zalesionymi górami. Oprócz rozpoczęcia i końca trasy jedynie w okolicy wsi Czarne zeszliśmy z grani w dół."
 keywords:               [wiosna, majówka, zielono, klimkówka, rotunda, hańczowa]
 date:                   2012-04-30 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]

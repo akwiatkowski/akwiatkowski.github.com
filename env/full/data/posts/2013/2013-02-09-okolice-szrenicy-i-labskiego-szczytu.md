@@ -5,6 +5,7 @@ subtitle:               "oraz zejście do Szklarskiej Poręby rankiem następneg
 desc:                   "Nasze zmęczenie dniem wczorajszym przekonało abyśmy wjechali wyciągiem na Szrenicę. Dalsza trasa była bezproblemowa. Pokręciliśmy się po grani Karkonoszy i następnie dość wcześnie dotarliśmy do schroniska pod Łabskim Szczytem."
 keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima, jakuszyce, śnieg, zaspy]
 date:                   2013-02-09 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8806b.jpg

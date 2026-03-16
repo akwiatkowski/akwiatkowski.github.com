@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Lednogóry do Skoków kręcąc się wokół jezior"
 subtitle:               "rozpoczęcie roku szkolnego w piekle na Ziemii (rekordowa temperatura września)"
 date:                   2015-09-01 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

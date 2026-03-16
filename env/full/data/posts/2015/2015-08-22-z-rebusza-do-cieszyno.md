@@ -5,6 +5,7 @@ subtitle:               "długa samotna jazda w kierunku Drawskiego Parku Krajob
 desc:                   "Moja pierwsza samotna dwudniowa wycieczka rowerowa. Przejazd przez Pojezierze Drawskie wypełnione jeziorami oraz pagórkami w słoneczny weekend."
 keywords:               [drawski, wioska, lato, pojezierze, pagórki, wycieczka]
 date:                   2015-08-22 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, panniers, best]

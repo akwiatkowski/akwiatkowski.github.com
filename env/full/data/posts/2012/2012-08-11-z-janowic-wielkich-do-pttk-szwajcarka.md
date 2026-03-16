@@ -5,6 +5,7 @@ subtitle:               "mokro, mgliście i zielono"
 desc:                   "Moje pierwsze spotkanie z Rudawami Janowickimi, a dokładniej z północną częścia, można podsumować jako spacer przez letni, deszczowy las. Najciekawszym obiektem na trasie był Zamek Bolczów."
 keywords:               [lato, rudawy, janowice wielkie, bolczów, zamek, deszcz, deszczowy]
 date:                   2012-08-11 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

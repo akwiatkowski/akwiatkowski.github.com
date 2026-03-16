@@ -5,6 +5,7 @@ subtitle:               "i najgorsze 2 kilometry spaceru przez las"
 desc:                   "Mieliśmy iść zgodnie z czerwonym szlakiem pieszym (Główny Szlak Sudecki) i tego dnia musieliśmy do niego dotrzeć. Wybraliśmy szlak przez las, który nas tak zmęczył, że tego dnia postanowiliśmy dostać się do Jakuszyc i dojechać pociągiem do Szklarskiej Poręby."
 keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima, jakuszyce, śnieg, zaspy]
 date:                   2013-02-08 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP8140b.jpg

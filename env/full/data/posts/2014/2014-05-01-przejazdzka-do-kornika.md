@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przejażdzka do Kórnika"
 subtitle:               "tylko 93 km"
 date:                   2014-05-01 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 image_position:         50% 70%
 categories:             trip

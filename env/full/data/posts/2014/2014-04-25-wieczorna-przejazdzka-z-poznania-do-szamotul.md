@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wieczorna przejażdżka z Poznania do Szamotuł"
 subtitle:               "lekki spad terenu zaowocował dobrą średnią prędkością - rzędu 21 km/h"
 date:                   2014-04-25 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

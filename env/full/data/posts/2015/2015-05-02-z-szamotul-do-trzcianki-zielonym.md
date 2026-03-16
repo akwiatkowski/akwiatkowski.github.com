@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Szamotuł do Trzcianki"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-02 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, best]

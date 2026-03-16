@@ -5,6 +5,7 @@ subtitle:               "ostatni dzień w Masywie Śnieżnika"
 desc:                   "Opuszczając okolice Śnieżnika szliśmy w stronę Międzygórza, które jest bardzo klimatyczną miejscowością."
 keywords:               [śnieżnik, międzygórze]
 date:                   2013-07-24 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

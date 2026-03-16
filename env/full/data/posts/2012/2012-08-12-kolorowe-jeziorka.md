@@ -5,6 +5,7 @@ subtitle:               "pierwsze nieudane wejście na wschód słońca, trochę
 desc:                   "Po nocy przy schronisku wstaliśmy wcześnie aby udać się na wschód słońca na Krzyżną Górę. Niestety pogoda nie sprzyjała i nie było żadnych widoków. Po krótkim śnie ruszyliśmy ponownie, tym razem pogoda się wyraźnie poprawiła. Chcieliśmy zobaczyć Kolorowe Jeziorka jednak pociąg, który miał jechać, po prostu nie wyruszył."
 keywords:               [lato, rudawy, szwajcarka, krzyżna góra, trzcińsko, marciszów, wieściszowice, kolorowe jeziorka]
 date:                   2012-08-12 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]

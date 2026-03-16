@@ -3,6 +3,7 @@ layout:                 post
 title:                  "W stronę Śremu, ale bez niego"
 subtitle:               "koniec trasy był w Czempinie"
 date:                   2015-05-24 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Obok Jeziora Kierskiego"
 subtitle:               "i wokół Rusałki"
 date:                   2013-09-05 20:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle, hidden]

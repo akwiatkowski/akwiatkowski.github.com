@@ -3,6 +3,7 @@ layout:                 post
 title:                  "W stronę Skoków, po raz 2-gi"
 subtitle:               "powoli lato się kończy"
 date:                   2013-08-25 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle]

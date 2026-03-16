@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Początek Sylwestra w Maciejowej"
 subtitle:               "dojazd do Rabki koleją przez Beskid Makowski i podejście do schroniska"
 date:                   2015-12-30 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

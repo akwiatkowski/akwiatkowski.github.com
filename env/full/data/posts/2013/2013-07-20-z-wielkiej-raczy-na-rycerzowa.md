@@ -5,6 +5,7 @@ subtitle:               "już nie tak ciepło, ale pogoda nadal ładna"
 desc:                   "Tego dnia pogoda nie była taka ciepła. Pojawiły się chmury. Ruszyliśmy na wschód z Wielkiej Raczy. Naszym celem było schronisko Rycerzowa."
 keywords:               [rycerzowa, lato, wielka racza]
 date:                   2013-07-20 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 image_position:         50% 20%

@@ -5,6 +5,7 @@ subtitle:               "Szczeliniec Wielki oraz Błędne Skały"
 desc:                   "To były moje piersze fotowarsztaty. Pierwszy raz byłem w Górach Stołowych i mogłem nauczyć się dużo przydatnych rzeczy - ponownie wrócić do robienia zdjęć w RAWie."
 keywords:               [radków, jesień]
 date:                   2013-10-19 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, photo, workshop, mountains, best]

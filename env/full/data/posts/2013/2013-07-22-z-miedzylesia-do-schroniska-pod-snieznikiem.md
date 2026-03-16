@@ -5,6 +5,7 @@ subtitle:               "sudeckie wioski, żar, a pod koniec lasy"
 desc:                   "Z Beskidu Żywieckiego przemieściłem się do Międzylesia. Naszym celem był Masyw Śnieżnika."
 keywords:               [międzylesie, śnieżnik, lato, idealne na rower]
 date:                   2013-07-22 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

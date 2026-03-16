@@ -5,6 +5,7 @@ subtitle:               "w sumie to taki większy las z dodatkami"
 desc:                   "Kolejny popołudniowy przejazd rowerem. Tym razem chciałem przejechać przez Puszczę Zielonkę."
 keywords:               [lato, puszcza zielonka, tuczno, biskupice]
 date:                   2013-08-24 20:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

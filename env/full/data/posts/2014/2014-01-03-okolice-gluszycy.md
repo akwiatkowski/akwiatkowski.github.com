@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Okolice Głuszycy"
 subtitle:               "Głuszyca Górna i spacer do Czech na kolacje"
 date:                   2014-01-03 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

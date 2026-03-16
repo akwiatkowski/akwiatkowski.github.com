@@ -5,6 +5,7 @@ subtitle:               "ostatni dzień pierwszej prawdziwie zimowej, lecz krót
 desc:                   "Nocowaliśmy prawie w sercu Góry Kamiennych. Tego dnia planowaliśmy iść w stronę Andrzejówki a może nawet i na Waligórę. Samo podejście na Bukowiec okazało się czasowo 3 razy trudniejsze niż gdybyśmy szli tam latem. "
 keywords:               [góry kamienne, wałbrzych, sokołowsko, zima, śnieg, sudety, bukowiec]
 date:                   2012-12-11 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 70%

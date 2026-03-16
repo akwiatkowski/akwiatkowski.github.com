@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Dąbek do Ustki"
 subtitle:               "czwarty ostatni dzień przejażdzki na wybrzeżu, 57km i poszukiwanie powrotu"
 date:                   2014-07-15 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, panniers, coast, best]

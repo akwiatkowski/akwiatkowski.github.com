@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Centralna część Beskidu Małego"
 subtitle:               "niskie górki, trochę widoków, ciekawy staw"
 date:                   2014-06-01 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

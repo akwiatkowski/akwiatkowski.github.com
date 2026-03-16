@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przez Jakuszyce i Stóg Izerski"
 subtitle:               "zjazd z 1050 do 600m npm w ciągu 15 minut"
 date:                   2014-06-20 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, mountains, best, no_photos]

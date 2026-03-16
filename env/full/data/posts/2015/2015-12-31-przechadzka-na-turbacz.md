@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przechadzka na Turbacz"
 subtitle:               "czyli zmęczenie się przed Sylwestrem"
 date:                   2015-12-31 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 84%

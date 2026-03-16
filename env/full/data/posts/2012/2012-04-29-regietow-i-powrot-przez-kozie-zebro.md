@@ -5,6 +5,7 @@ subtitle:               "pierwszy raz w Beskidzie Niskim"
 desc:                   "Pierwsza wycieczka w Beskidzie Niskim dała mi do zrozumienia, że to pasmo należy traktować zupełnie inaczej niż inne. Na pierwszy dzień wybraliśmy pętlę przez Regietów i Kozie Żebro."
 keywords:               [wiosna, majówka, kozie żebro, regietów, zielono]
 date:                   2012-04-29 21:00:00
+finished_at:            2012-12-31 23:59:59
 image_position:         50% 10%
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Dokończenie trasy z Opalenicy do Zbąszynia"
 subtitle:               "ciepło, cieplej, ale tym razem mniej robali"
 date:                   2015-07-18 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 64%

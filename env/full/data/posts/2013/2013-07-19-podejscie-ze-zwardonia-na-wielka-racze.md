@@ -5,6 +5,7 @@ subtitle:               "zdecydowanie ciepły dzień"
 desc:                   "Pierwszy dzień 3-dniowej wycieczki w Beskidzie Żywieckim. Dojechaliśmy do Zwardonia i tego ciepłego dnia musieliśmy podejść do schroniska na Wielkiej Raczy."
 keywords:               [zwardoń, lato, wielka racza]
 date:                   2013-07-19 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

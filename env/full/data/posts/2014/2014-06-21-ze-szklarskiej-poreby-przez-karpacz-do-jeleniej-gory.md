@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Ze Szklarskiej Poręby przez Karpacz do Jeleniej Góry"
 subtitle:               "zjazd w Karpaczu środkiem pasa szybciej niż samochody"
 date:                   2014-06-21 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, mountains, best, no_photos]

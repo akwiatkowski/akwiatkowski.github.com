@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przez Powidz i granicę dwóch województw"
 subtitle:               "wielkopolskie i kujawsko-pomorskie, od Strzałkowa do Strzelna"
 date:                   2015-08-01 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

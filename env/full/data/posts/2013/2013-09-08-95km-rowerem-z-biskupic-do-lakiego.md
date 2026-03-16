@@ -3,6 +3,7 @@ layout:                 post
 title:                  "95km rowerem - Z Biskupic do Łąkiego"
 subtitle:               "najdłuższa jazda rowerem"
 date:                   2013-09-08 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/123052857/m%3D2048/782aaa3a676afd37aeaad562ec6b9fb1"
 categories:             trip
