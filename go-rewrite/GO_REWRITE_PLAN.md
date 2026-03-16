@@ -803,6 +803,35 @@ This allows `diff -r` comparison between the two engines at any point.
 | **Binary** | Needs libc, separate template/config files | Single static binary with embedded assets |
 | **Profiling** | Custom `@[Profile]` macro, manual timing | Built-in pprof (CPU, memory, goroutine, trace) |
 
+## Bugs & Improvements
+
+Issues and improvements identified for the Go rewrite:
+
+### Render Optimization
+- [ ] `make render` spatialMatching should only run when needed — render polygon when new area should be rendered, render area visit stats when post has been changed. Think about how to optimize this.
+
+### Bugs
+- [ ] Voivodeship name should be lowercase — ensure rendered output uses lowercase
+- [ ] Voivodeship name is duplicated on `/gmina/gruta.html` — investigate and fix
+- [ ] `wiecej.html` has incorrect styling locally vs production (`https://odkrywajacpolske.pl/wiecej.html`) — fix and explain root cause
+
+### Page Parity with Production
+Check every page linked from `wiecej.html` and compare with production. The following pages have known issues:
+
+- [ ] `/portfolio.html` — uses special JS frontend, not gallery tag page
+- [ ] Year stats URL is wrong: `/rok-2026.html` should be `/rok/2026.html` (and page is missing)
+- [ ] `/mapa_zdjec.html` — does not load photos
+- [ ] `/linia_czasu.html` — JS code does not execute to render page
+- [ ] `/mapa_tras.html` — JS code does not execute
+- [ ] `/pomysly_tras.html` — check if/how ideas are fetched/passed
+- [ ] `/pomysly_dla_zdjec.html` — JS not working
+- [ ] `/statystyki_exif.html` — JS not working
+
+All pages should work the same as the released production version.
+
+### E2E Tests
+- [ ] After fixing the above pages, add comprehensive e2e tests — focus on easy, practical, and safe tests that check for regressions
+
 ## Open Decisions
 
 These don't need answering now — decide when you get there:

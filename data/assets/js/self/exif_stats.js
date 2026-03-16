@@ -23,6 +23,7 @@ var FOCAL_BOUNDARIES = [10, 14, 20, 28, 35, 50, 70, 100, 135, 200, 280, 400, 100
 var allPhotos = [];
 var filteredPhotos = [];
 var charts = {};
+var tagNames = {}; // slug → Polish display name (loaded from JSON)
 
 // --- Mock data ---
 var MOCK_PHOTOS = [
@@ -90,6 +91,7 @@ async function loadPhotos() {
 
         var parsed = JSON.parse(new TextDecoder().decode(buffer));
         allPhotos = Array.isArray(parsed) ? parsed : (parsed.photos || []);
+        if (parsed.tag_names) tagNames = parsed.tag_names;
 
         progressFill.style.width = '100%';
         progressText.textContent = '100%';
@@ -199,10 +201,22 @@ function calculateStats(photos) {
 
     var stats = {
         totalPhotos: valid.length,
+        allPhotosCount: photos.length,
         publishedCount: valid.filter(function(p){return p.is_published;}).length,
         focalLengths: [], apertures: [], cameras: {}, lenses: {},
-        years: {}, isos: [], exposures: [], altitudes: []
+        years: {}, allYears: {}, isos: [], exposures: [], altitudes: []
     };
+
+    // Year chart uses ALL photos with a timestamp — not just those with full EXIF.
+    // This includes photos from older cameras (Pentax K-5) that lack lens_name,
+    // and drone photos that lack focal_35mm.
+    photos.forEach(function(p) {
+        var t = p['exif.time'] || p.time;
+        if (t) {
+            var year = new Date(t).getFullYear();
+            stats.allYears[year] = (stats.allYears[year] || 0) + 1;
+        }
+    });
 
     valid.forEach(function(p) {
         if (p['exif.focal_35mm']) stats.focalLengths.push(p['exif.focal_35mm']);
@@ -399,14 +413,17 @@ function updateCharts() {
 // --- Photos Over Time ---
 
 function renderYearChart(stats) {
-    var years = Object.keys(stats.years).sort();
+    // Use allYears (all photos with timestamps) for the year chart,
+    // not just photos with full EXIF data (years). This includes photos
+    // from cameras that don't write lens model or focal_35mm.
+    var years = Object.keys(stats.allYears).sort();
     charts.year = new Chart(document.getElementById('yearChart'), {
         type: 'line',
         data: {
             labels: years,
             datasets: [{
                 label: 'Zdjęcia',
-                data: years.map(function(y){return stats.years[y];}),
+                data: years.map(function(y){return stats.allYears[y];}),
                 borderColor: COLORS.teal, backgroundColor: 'rgba(32,128,129,0.1)',
                 tension: 0.4, fill: true, pointBackgroundColor: COLORS.teal,
                 pointBorderColor: '#fff', pointBorderWidth: 2
@@ -1048,7 +1065,7 @@ function renderTagsChart() {
     charts.tags = new Chart(document.getElementById('tagsChart'), {
         type: 'bar',
         data: {
-            labels: top.map(function(t){return t[0];}),
+            labels: top.map(function(t){return tagNames[t[0]] || t[0];}),
             datasets: [{label: 'Zdjęcia', data: top.map(function(t){return t[1];}), backgroundColor: COLORS.purple}]
         },
         options: barOpts({indexAxis:'y', scales:{x:{beginAtZero:true}}})
