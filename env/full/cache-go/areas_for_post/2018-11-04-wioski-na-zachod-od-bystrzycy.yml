@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 19594.01
+  total_distance_km: 19.594
+  points_count: 338
+  towns:
+    - slug: bystrzyca_klodzka
+      name: Bystrzyca Kłodzka
+      code: "0208063"
+      distance_meters: 19269.78
+      distance_km: 19.27
+      distance_percent: 98.3452
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+      distance_meters: 324.23
+      distance_km: 0.324
+      distance_percent: 1.6548
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 19594.01
+      distance_km: 19.594
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 19594.01
+      distance_km: 19.594
+      distance_percent: 100
+  meso_regions:
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+      distance_meters: 11081.62
+      distance_km: 11.082
+      distance_percent: 56.5562
+    - slug: gory_bystrzyckie
+      name: Góry Bystrzyckie
+      code: "332.53"
+      distance_meters: 8512.39
+      distance_km: 8.512
+      distance_percent: 43.4438
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 19594.01
+      distance_km: 19.594
+      distance_percent: 100
+  touched_towns:
+    - slug: bystrzyca_klodzka
+      name: Bystrzyca Kłodzka
+      code: "0208063"
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_bystrzyckie
+      name: Góry Bystrzyckie
+      code: "332.53"
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

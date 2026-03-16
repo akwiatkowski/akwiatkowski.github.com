@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP4508raw1.jpg
+  post_slug: 2014-03-30-do-puszczykowa
+  ahash: fdfdfcf8c0000000
+  dhash: 212169492931d171
+  phash: dacaa838350797d6
+  avg_rgb:
+  - 88
+  - 91
+  - 76
+  top5_rgb:
+  - - 93
+    - 79
+    - 42
+  - - 90
+    - 79
+    - 65
+  - - 45
+    - 42
+    - 27
+  - - 52
+    - 70
+    - 23
+  - - 108
+    - 87
+    - 47
+- image_filename: header.jpg
+  post_slug: 2014-03-30-do-puszczykowa
+  ahash: fefe760070e60200
+  dhash: 0c8ccc60c08e3e3e
+  phash: d5d2b5f54a2f2c01
+  avg_rgb:
+  - 87
+  - 94
+  - 103
+  top5_rgb:
+  - - 51
+    - 62
+    - 87
+  - - 141
+    - 183
+    - 233
+  - - 51
+    - 67
+    - 95
+  - - 77
+    - 63
+    - 36
+  - - 78
+    - 98
+    - 127

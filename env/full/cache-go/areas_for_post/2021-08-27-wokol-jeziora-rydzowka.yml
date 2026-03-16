@@ -1,0 +1,78 @@
+---
+- type: bicycle
+  total_distance_meters: 26916.91
+  total_distance_km: 26.917
+  points_count: 156
+  towns:
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+      distance_meters: 17170.38
+      distance_km: 17.17
+      distance_percent: 63.7903
+    - slug: srokowo
+      name: Srokowo
+      code: "2808062"
+      distance_meters: 9746.53
+      distance_km: 9.747
+      distance_percent: 36.2097
+  counties:
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+      distance_meters: 17170.38
+      distance_km: 17.17
+      distance_percent: 63.7903
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 9746.53
+      distance_km: 9.747
+      distance_percent: 36.2097
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 26916.91
+      distance_km: 26.917
+      distance_percent: 100
+  meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 26916.91
+      distance_km: 26.917
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 26916.91
+      distance_km: 26.917
+      distance_percent: 100
+  touched_towns:
+    - slug: srokowo
+      name: Srokowo
+      code: "2808062"
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+  touched_counties:
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+  touched_macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

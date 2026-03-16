@@ -1,0 +1,128 @@
+---
+- type: hike
+  total_distance_meters: 7135.57
+  total_distance_km: 7.136
+  points_count: 101
+  towns:
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+      distance_meters: 7135.57
+      distance_km: 7.136
+      distance_percent: 100
+  counties:
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+      distance_meters: 7135.57
+      distance_km: 7.136
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 7135.57
+      distance_km: 7.136
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+      distance_meters: 7135.57
+      distance_km: 7.136
+      distance_percent: 100
+  macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 7135.57
+      distance_km: 7.136
+      distance_percent: 100
+  touched_towns:
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+  touched_counties:
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+  touched_macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+- type: hike
+  total_distance_meters: 15595.58
+  total_distance_km: 15.596
+  points_count: 242
+  towns:
+    - slug: oborniki_slaskie
+      name: Oborniki Śląskie
+      code: "0220013"
+      distance_meters: 8414.38
+      distance_km: 8.414
+      distance_percent: 53.9536
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+      distance_meters: 7181.2
+      distance_km: 7.181
+      distance_percent: 46.0464
+  counties:
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+      distance_meters: 15595.58
+      distance_km: 15.596
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 15595.58
+      distance_km: 15.596
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+      distance_meters: 15595.58
+      distance_km: 15.596
+      distance_percent: 100
+  macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 15595.58
+      distance_km: 15.596
+      distance_percent: 100
+  touched_towns:
+    - slug: oborniki_slaskie
+      name: Oborniki Śląskie
+      code: "0220013"
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+  touched_counties:
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+  touched_macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"

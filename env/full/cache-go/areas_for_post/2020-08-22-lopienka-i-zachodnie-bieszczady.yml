@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 4753.37
+  total_distance_km: 4.753
+  points_count: 93
+  towns:
+    - slug: cisna
+      name: Cisna
+      code: "1821022"
+      distance_meters: 4753.37
+      distance_km: 4.753
+      distance_percent: 100
+  counties:
+    - slug: leski
+      name: leski
+      code: "1821"
+      distance_meters: 4753.37
+      distance_km: 4.753
+      distance_percent: 100
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 4753.37
+      distance_km: 4.753
+      distance_percent: 100
+  meso_regions:
+    - slug: bieszczady_zachodnie
+      name: Bieszczady Zachodnie
+      code: "522.12"
+      distance_meters: 4753.37
+      distance_km: 4.753
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"
+      distance_meters: 4753.37
+      distance_km: 4.753
+      distance_percent: 100
+  touched_towns:
+    - slug: cisna
+      name: Cisna
+      code: "1821022"
+  touched_counties:
+    - slug: leski
+      name: leski
+      code: "1821"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: bieszczady_zachodnie
+      name: Bieszczady Zachodnie
+      code: "522.12"
+  touched_macro_regions:
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"

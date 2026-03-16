@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 4964.47
+  total_distance_km: 4.964
+  points_count: 76
+  towns:
+    - slug: krzykosy
+      name: Krzykosy
+      code: "3025022"
+      distance_meters: 4905.13
+      distance_km: 4.905
+      distance_percent: 98.8046
+    - slug: nowe_miasto_nad_warta
+      name: Nowe Miasto nad Wartą
+      code: "3025032"
+      distance_meters: 59.34
+      distance_km: 0.059
+      distance_percent: 1.1954
+  counties:
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+      distance_meters: 4964.47
+      distance_km: 4.964
+      distance_percent: 100
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 4964.47
+      distance_km: 4.964
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+      distance_meters: 4964.47
+      distance_km: 4.964
+      distance_percent: 100
+  macro_regions:
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 4964.47
+      distance_km: 4.964
+      distance_percent: 100
+  touched_towns:
+    - slug: krzykosy
+      name: Krzykosy
+      code: "3025022"
+    - slug: nowe_miasto_nad_warta
+      name: Nowe Miasto nad Wartą
+      code: "3025032"
+  touched_counties:
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+  touched_macro_regions:
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316

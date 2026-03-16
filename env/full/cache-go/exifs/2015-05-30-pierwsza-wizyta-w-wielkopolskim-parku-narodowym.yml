@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP0187raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.31932042170102
+  lon: 16.848673783287417
+  altitude: 72.24
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-05-30T16:18:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0189raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.31932687567781
+  lon: 16.84867168785701
+  altitude: 72.72
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-05-30T16:18:15+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0192raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.31378467753468
+  lon: 16.847177110673666
+  altitude: 86.66
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-05-30T16:27:37+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0194raw1.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.313558952837724
+  lon: 16.846876870748297
+  altitude: 86.66
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-05-30T16:27:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-05-30-pierwsza-wizyta-w-wielkopolskim-parku-narodowym
+  lat: 52.308828541969916
+  lon: 16.84038944541231
+  altitude: 93.87
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-05-30T16:31:43+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

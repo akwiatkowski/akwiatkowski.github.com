@@ -1,0 +1,234 @@
+---
+- image_filename: 2024_10_22__08_55_PA220241.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.876472222222226
+  lon: 16.584930555555555
+  altitude: 204
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5573
+  height: 3981
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-10-22T08:55:29+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_07_PA220245.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.876416666666664
+  lon: 16.58523611111111
+  altitude: 204
+  focal_length: 66
+  focal_length_35: 132
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-10-22T09:07:07+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_09_PA220246.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.87670833333333
+  lon: 16.586388888888887
+  altitude: 205
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8004
+  height: 5912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-10-22T09:09:41+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_36_DJI_0599.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.874481016666664
+  lon: 16.584665516666668
+  altitude: 147.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-10-22T09:36:43+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_40_DJI_0612.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.874882316666664
+  lon: 16.59003188333333
+  altitude: 228.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-10-22T09:40:03+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_47_DJI_0628.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.873588766666664
+  lon: 16.581459966666667
+  altitude: 209.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-10-22T09:47:41+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_10_22__09_49_DJI_0634.jpg
+  post_slug: 2024-10-22-aby-wykorzystac-wczesniejszy-powrot
+  lat: 50.87207266666667
+  lon: 16.579857266666668
+  altitude: 204
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-10-22T09:49:23+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

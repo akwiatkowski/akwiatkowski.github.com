@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 21043.81
+  total_distance_km: 21.044
+  points_count: 183
+  towns:
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+      distance_meters: 13500.33
+      distance_km: 13.5
+      distance_percent: 64.1535
+    - slug: mosina
+      name: Mosina
+      code: "3021103"
+      distance_meters: 7543.48
+      distance_km: 7.543
+      distance_percent: 35.8465
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 21043.81
+      distance_km: 21.044
+      distance_percent: 100
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 21043.81
+      distance_km: 21.044
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 15424.51
+      distance_km: 15.425
+      distance_percent: 73.2972
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+      distance_meters: 5619.3
+      distance_km: 5.619
+      distance_percent: 26.7028
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 15424.51
+      distance_km: 15.425
+      distance_percent: 73.2972
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 5619.3
+      distance_km: 5.619
+      distance_percent: 26.7028
+  touched_towns:
+    - slug: mosina
+      name: Mosina
+      code: "3021103"
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+  touched_counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316

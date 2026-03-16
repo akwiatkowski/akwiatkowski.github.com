@@ -1,0 +1,376 @@
+---
+- image_filename: IMGP0591b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.42555812191426
+  lon: 20.461942255494264
+  altitude: 438.02
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4417
+  height: 2945
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T10:52:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0722b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.39659202471702
+  lon: 20.593423387096774
+  altitude: 752.85
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T13:56:18+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0730d.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.39645238220262
+  lon: 20.59398095124473
+  altitude: 760.06
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T14:00:45+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0747b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.39585215419501
+  lon: 20.596981840193703
+  altitude: 802.84
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T14:08:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0854b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.422216508498686
+  lon: 20.61365361329071
+  altitude: 933.58
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T16:28:35+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0860b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.42481506619742
+  lon: 20.61031845400109
+  altitude: 932.14
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T16:33:37+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0955b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40798956892577
+  lon: 20.590740004608826
+  altitude: 868.69
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 2.4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:35:09+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0956b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40663295802057
+  lon: 20.589219862560025
+  altitude: 847.06
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:37:39+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0968b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40612937319805
+  lon: 20.58882130305488
+  altitude: 838.41
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:45:11+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0985b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40528950650276
+  lon: 20.585858887104585
+  altitude: 802.84
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:56:05+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0986b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40529436800778
+  lon: 20.58574212719975
+  altitude: 801.88
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:57:36+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0987b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40529436800778
+  lon: 20.58574212719975
+  altitude: 801.88
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T17:57:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP1002b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40558195110578
+  lon: 20.582284927332395
+  altitude: 771.11
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T18:02:06+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP1008b.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.4057947677041
+  lon: 20.577693991397567
+  altitude: 718.72
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T18:08:17+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP1026c.jpg
+  post_slug: 2013-05-01-biala-woda
+  lat: 49.40605016429569
+  lon: 20.573738403600625
+  altitude: 691.81
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4480
+  height: 2987
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-01T18:14:19+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0

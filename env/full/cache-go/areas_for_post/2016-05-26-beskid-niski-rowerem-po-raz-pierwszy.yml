@@ -1,0 +1,60 @@
+---
+- type: bicycle
+  total_distance_meters: 48716.4
+  total_distance_km: 48.716
+  points_count: 437
+  towns:
+    - slug: krempna
+      name: Krempna
+      code: "1805062"
+      distance_meters: 48716.4
+      distance_km: 48.716
+      distance_percent: 100
+  counties:
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+      distance_meters: 48716.4
+      distance_km: 48.716
+      distance_percent: 100
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 48716.4
+      distance_km: 48.716
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 48716.4
+      distance_km: 48.716
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 48716.4
+      distance_km: 48.716
+      distance_percent: 100
+  touched_towns:
+    - slug: krempna
+      name: Krempna
+      code: "1805062"
+  touched_counties:
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

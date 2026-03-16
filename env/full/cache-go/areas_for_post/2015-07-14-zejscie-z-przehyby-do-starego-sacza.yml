@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 15090.56
+  total_distance_km: 15.091
+  points_count: 207
+  towns:
+    - slug: stary_sacz
+      name: Stary Sącz
+      code: "1210163"
+      distance_meters: 14241.13
+      distance_km: 14.241
+      distance_percent: 94.3711
+    - slug: szczawnica
+      name: Szczawnica
+      code: "1211023"
+      distance_meters: 849.43
+      distance_km: 0.849
+      distance_percent: 5.6289
+  counties:
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+      distance_meters: 14241.13
+      distance_km: 14.241
+      distance_percent: 94.3711
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 849.43
+      distance_km: 0.849
+      distance_percent: 5.6289
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 15090.56
+      distance_km: 15.091
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+      distance_meters: 8186.38
+      distance_km: 8.186
+      distance_percent: 54.2484
+    - slug: kotlina_sadecka
+      name: Kotlina Sądecka
+      code: "513.53"
+      distance_meters: 6904.18
+      distance_km: 6.904
+      distance_percent: 45.7516
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 15090.56
+      distance_km: 15.091
+      distance_percent: 100
+  touched_towns:
+    - slug: stary_sacz
+      name: Stary Sącz
+      code: "1210163"
+    - slug: szczawnica
+      name: Szczawnica
+      code: "1211023"
+  touched_counties:
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+    - slug: kotlina_sadecka
+      name: Kotlina Sądecka
+      code: "513.53"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

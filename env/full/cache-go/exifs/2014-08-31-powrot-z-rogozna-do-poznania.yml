@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP8972raw1.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  lat: 52.723565362450714
+  lon: 16.997488103735428
+  altitude: 72.72
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-31T16:23:06+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8976raw1.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  lat: 52.689909255153154
+  lon: 16.946432422876338
+  altitude: 81.37
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-31T16:44:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  lat: 52.53788785080183
+  lon: 16.849647006009967
+  altitude: 93.87
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-31T18:25:18+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

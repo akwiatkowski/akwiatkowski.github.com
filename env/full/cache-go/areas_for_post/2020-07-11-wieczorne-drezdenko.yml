@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 2553.9
+  total_distance_km: 2.554
+  points_count: 68
+  towns:
+    - slug: drezdenko
+      name: Drezdenko
+      code: "0806023"
+      distance_meters: 2553.9
+      distance_km: 2.554
+      distance_percent: 100
+  counties:
+    - slug: strzelecko-drezdenecki
+      name: strzelecko-drezdenecki
+      code: "0806"
+      distance_meters: 2553.9
+      distance_km: 2.554
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 2553.9
+      distance_km: 2.554
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 2553.9
+      distance_km: 2.554
+      distance_percent: 100
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 2553.9
+      distance_km: 2.554
+      distance_percent: 100
+  touched_towns:
+    - slug: drezdenko
+      name: Drezdenko
+      code: "0806023"
+  touched_counties:
+    - slug: strzelecko-drezdenecki
+      name: strzelecko-drezdenecki
+      code: "0806"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+  touched_macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

@@ -1,0 +1,316 @@
+---
+- image_filename: 2022_08_27__08_38_P8272027.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.57555555555556
+  lon: 17.676041666666666
+  altitude: 108
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8158
+  height: 6079
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T08:38:36+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__08_46_P8272029.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.58554166666667
+  lon: 17.664152777777776
+  altitude: 95
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 7904
+  height: 5705
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T08:46:45+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__08_47_P8272031.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.58558333333333
+  lon: 17.664166666666667
+  altitude: 95
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8042
+  height: 5917
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T08:47:43+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__08_50_P8272033.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.586986111111116
+  lon: 17.66525
+  altitude: 96
+  focal_length: 38
+  focal_length_35: 76
+  crop: 2
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8130
+  height: 6052
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T08:50:12+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__08_52_P8272034.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.589708333333334
+  lon: 17.666138888888888
+  altitude: 101
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8047
+  height: 5925
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T08:52:13+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__09_05_P8272036.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.61797222222222
+  lon: 17.648138888888887
+  altitude: 93
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 8199
+  height: 6131
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T09:05:30+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__09_35_P8272037.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.59298611111112
+  lon: 17.559875
+  altitude: 102
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8141
+  height: 6054
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T09:35:33+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__10_26_P8272038.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.608180555555556
+  lon: 17.487625
+  altitude: 95
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 7713
+  height: 5922
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T10:26:52+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2022_08_27__10_36_P8272039.jpg
+  post_slug: 2022-08-27-goracy-poranek-obok-gniezna
+  lat: 52.59081944444445
+  lon: 17.47508333333333
+  altitude: 104
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8165
+  height: 6088
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-08-27T10:36:54+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP8972raw1.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  ahash: 79206000407fffff
+  dhash: e364c61793c2e241
+  phash: c74f8ec93bcd8141
+  avg_rgb:
+  - 112
+  - 129
+  - 67
+  top5_rgb:
+  - - 155
+    - 181
+    - 33
+  - - 183
+    - 183
+    - 174
+  - - 153
+    - 160
+    - 156
+  - - 92
+    - 116
+    - 33
+  - - 66
+    - 86
+    - 29
+- image_filename: IMGP8976raw1.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  ahash: fffffc700000bc3c
+  dhash: c06430a4a45241e8
+  phash: d5d4abab44d3912a
+  avg_rgb:
+  - 86
+  - 124
+  - 145
+  top5_rgb:
+  - - 52
+    - 142
+    - 236
+  - - 162
+    - 138
+    - 87
+  - - 122
+    - 171
+    - 254
+  - - 112
+    - 166
+    - 254
+  - - 61
+    - 134
+    - 226
+- image_filename: header.jpg
+  post_slug: 2014-08-31-powrot-z-rogozna-do-poznania
+  ahash: 7f3c3f3e70303030
+  dhash: f8e5e5d4c5a4e4e3
+  phash: 8693cfc181b48fe3
+  avg_rgb:
+  - 127
+  - 127
+  - 96
+  top5_rgb:
+  - - 139
+    - 113
+    - 46
+  - - 119
+    - 113
+    - 87
+  - - 122
+    - 145
+    - 165
+  - - 113
+    - 97
+    - 37
+  - - 161
+    - 147
+    - 104

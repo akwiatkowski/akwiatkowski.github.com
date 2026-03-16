@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP6963b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  ahash: 0087ffff0000387e
+  dhash: 0f1f5d879fe6e0c8
+  phash: 86b8d36ce1cc945b
+  avg_rgb:
+  - 68
+  - 96
+  - 122
+  top5_rgb:
+  - - 29
+    - 47
+    - 15
+  - - 110
+    - 147
+    - 196
+  - - 29
+    - 49
+    - 49
+  - - 140
+    - 181
+    - 223
+  - - 40
+    - 59
+    - 20
+- image_filename: IMGP6964b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  ahash: f0f8ffff00000000
+  dhash: 0000004ccccac2e3
+  phash: e7f6e92032d7c144
+  avg_rgb:
+  - 61
+  - 81
+  - 91
+  top5_rgb:
+  - - 45
+    - 46
+    - 10
+  - - 34
+    - 39
+    - 11
+  - - 72
+    - 67
+    - 12
+  - - 25
+    - 62
+    - 125
+  - - 20
+    - 31
+    - 6
+- image_filename: IMGP7179b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  ahash: 00000000707e7c7f
+  dhash: b6e6a696a2e0e0f1
+  phash: c43d9bc4394995cb
+  avg_rgb:
+  - 85
+  - 98
+  - 34
+  top5_rgb:
+  - - 68
+    - 75
+    - 47
+  - - 52
+    - 56
+    - 30
+  - - 148
+    - 173
+    - 34
+  - - 58
+    - 62
+    - 37
+  - - 64
+    - 64
+    - 29
+- image_filename: header.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  ahash: fffffe6000000000
+  dhash: 8050c0c0c0ca9cf3
+  phash: c1dabd33c470c83b
+  avg_rgb:
+  - 103
+  - 118
+  - 132
+  top5_rgb:
+  - - 54
+    - 75
+    - 116
+  - - 43
+    - 58
+    - 85
+  - - 73
+    - 102
+    - 148
+  - - 67
+    - 95
+    - 141
+  - - 188
+    - 199
+    - 224

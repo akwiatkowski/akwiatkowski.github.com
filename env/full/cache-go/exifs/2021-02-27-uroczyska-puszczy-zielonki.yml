@@ -1,0 +1,822 @@
+---
+- image_filename: 2021_02_27__10_45__2271023.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.56323304954747
+  lon: 16.998579260075953
+  altitude: 59.74
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4900
+  height: 3658
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T10:45:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+- image_filename: 2021_02_27__11_05__2271035.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.57216666666667
+  lon: 17.002819444444444
+  altitude: 61
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 3889
+  height: 5209
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T11:05:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__11_09_DSC07162.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.57251388888889
+  lon: 17.00102777777778
+  altitude: 53
+  focal_length: 71
+  focal_length_35: 71
+  crop: 1
+  aperture: 9
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5960
+  height: 3965
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T11:09:23+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__11_18_DSC07168.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.571333333333335
+  lon: 17.00263888888889
+  altitude: 57
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 9
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5813
+  height: 3868
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T11:18:25+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_16__2271069.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55883333333333
+  lon: 17.001194444444444
+  altitude: 59
+  focal_length: 260
+  focal_length_35: 520
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T12:16:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_31_DSC07197.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.557069444444444
+  lon: 17.009722222222223
+  altitude: 59
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T12:31:58+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_46__2271107.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55744444444444
+  lon: 17.014333333333333
+  altitude: 58
+  focal_length: 250
+  focal_length_35: 500
+  crop: 2
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T12:46:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_52__2271127.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55679166666666
+  lon: 17.014152777777777
+  altitude: 57
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5039
+  height: 3762
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T12:52:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_54__2271130.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55676388888889
+  lon: 17.013958333333335
+  altitude: 58
+  focal_length: 31
+  focal_length_35: 62
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 5184
+  height: 3870
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T12:54:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_54__2271132-hdr.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55676388888889
+  lon: 17.013972222222222
+  altitude: 58
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T12:54:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__12_55_DSC07209.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55683333333333
+  lon: 17.014041666666667
+  altitude: 60
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 3165
+  height: 5262
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T12:55:20+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__13_00_DSC07228.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55701388888889
+  lon: 17.013430555555555
+  altitude: 63
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5912
+  height: 3933
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T13:00:04+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__13_13__2271182.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55670833333333
+  lon: 17.01365277777778
+  altitude: 65
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T13:13:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__13_35__2271217.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.555375
+  lon: 17.012583333333332
+  altitude: 67
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-27T13:35:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_21__2271235.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55493055555555
+  lon: 17.01534722222222
+  altitude: 66
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:21:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_23__2271239.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.553999999999995
+  lon: 17.014666666666667
+  altitude: 68
+  focal_length: 75
+  focal_length_35: 150
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:23:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_33__2271246.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55168055555555
+  lon: 17.01413888888889
+  altitude: 58
+  focal_length: 18
+  focal_length_35: 36
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:33:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_34__2271250-hdr.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55161111111111
+  lon: 17.014902777777777
+  altitude: 60
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:34:08+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_35__2271262.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.551375
+  lon: 17.015180555555556
+  altitude: 60
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:35:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_38__2271263.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.550444444444445
+  lon: 17.017055555555554
+  altitude: 65
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:38:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_39__2271268.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55084722222222
+  lon: 17.018013888888888
+  altitude: 66
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:39:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_46__2271284.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.553124999999994
+  lon: 17.02252777777778
+  altitude: 72
+  focal_length: 54
+  focal_length_35: 108
+  crop: 2
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T14:46:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__14_56_DSC07301.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55705555555555
+  lon: 17.015138888888888
+  altitude: 57
+  focal_length: 51
+  focal_length_35: 51
+  crop: 1
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-27T14:56:24+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_27__15_02__2271303-hdr.jpg
+  post_slug: 2021-02-27-uroczyska-puszczy-zielonki
+  lat: 52.55905555555555
+  lon: 17.013638888888888
+  altitude: 57
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 3801
+  height: 5092
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-27T15:02:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

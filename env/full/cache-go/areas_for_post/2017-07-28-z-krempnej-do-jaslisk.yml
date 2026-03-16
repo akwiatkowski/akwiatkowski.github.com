@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 40246.15
+  total_distance_km: 40.246
+  points_count: 276
+  towns:
+    - slug: dukla
+      name: Dukla
+      code: "1807023"
+      distance_meters: 23770.78
+      distance_km: 23.771
+      distance_percent: 59.0635
+    - slug: krempna
+      name: Krempna
+      code: "1805062"
+      distance_meters: 10362.57
+      distance_km: 10.363
+      distance_percent: 25.748
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+      distance_meters: 6112.8
+      distance_km: 6.113
+      distance_percent: 15.1885
+  counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+      distance_meters: 29883.58
+      distance_km: 29.884
+      distance_percent: 74.252
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+      distance_meters: 10362.57
+      distance_km: 10.363
+      distance_percent: 25.748
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 40246.15
+      distance_km: 40.246
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 40246.15
+      distance_km: 40.246
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 40246.15
+      distance_km: 40.246
+      distance_percent: 100
+  touched_towns:
+    - slug: dukla
+      name: Dukla
+      code: "1807023"
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+    - slug: krempna
+      name: Krempna
+      code: "1805062"
+  touched_counties:
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

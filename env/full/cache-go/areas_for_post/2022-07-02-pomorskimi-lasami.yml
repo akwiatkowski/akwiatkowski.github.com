@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 75770.38
+  total_distance_km: 75.77
+  points_count: 340
+  towns:
+    - slug: bialogard
+      name: Białogard
+      code: "3201022"
+      distance_meters: 28345.94
+      distance_km: 28.346
+      distance_percent: 37.4103
+    - slug: slawoborze
+      name: Sławoborze
+      code: "3216052"
+      distance_meters: 21604.64
+      distance_km: 21.605
+      distance_percent: 28.5133
+    - slug: resko
+      name: Resko
+      code: "3218043"
+      distance_meters: 18689.15
+      distance_km: 18.689
+      distance_percent: 24.6655
+    - slug: bialogard
+      name: Białogard
+      code: "3201011"
+      distance_meters: 9513.94
+      distance_km: 9.514
+      distance_percent: 12.5563
+    - slug: ploty
+      name: Płoty
+      code: "3205043"
+      distance_meters: 6314.13
+      distance_km: 6.314
+      distance_percent: 8.3332
+    - slug: swidwin
+      name: Świdwin
+      code: "3216062"
+      distance_meters: 816.51
+      distance_km: 0.817
+      distance_percent: 1.0776
+  counties:
+    - slug: bialogardzki
+      name: białogardzki
+      code: "3201"
+      distance_meters: 28345.94
+      distance_km: 28.346
+      distance_percent: 37.4103
+    - slug: swidwinski
+      name: świdwiński
+      code: "3216"
+      distance_meters: 22421.15
+      distance_km: 22.421
+      distance_percent: 29.5909
+    - slug: lobeski
+      name: łobeski
+      code: "3218"
+      distance_meters: 18689.15
+      distance_km: 18.689
+      distance_percent: 24.6655
+    - slug: gryficki
+      name: gryficki
+      code: "3205"
+      distance_meters: 6314.13
+      distance_km: 6.314
+      distance_percent: 8.3332
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 75770.38
+      distance_km: 75.77
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_gryficka
+      name: Równina Gryficka
+      code: "313.33"
+      distance_meters: 36024.87
+      distance_km: 36.025
+      distance_percent: 47.5448
+    - slug: rownina_nowogardzka
+      name: Równina Nowogardzka
+      code: "313.32"
+      distance_meters: 22283.78
+      distance_km: 22.284
+      distance_percent: 29.4096
+    - slug: rownina_bialogardzka
+      name: Równina Białogardzka
+      code: "313.42"
+      distance_meters: 17461.73
+      distance_km: 17.462
+      distance_percent: 23.0456
+  macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+      distance_meters: 58308.65
+      distance_km: 58.309
+      distance_percent: 76.9544
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 17461.73
+      distance_km: 17.462
+      distance_percent: 23.0456
+  touched_towns:
+    - slug: bialogard
+      name: Białogard
+      code: "3201022"
+    - slug: ploty
+      name: Płoty
+      code: "3205043"
+    - slug: resko
+      name: Resko
+      code: "3218043"
+    - slug: slawoborze
+      name: Sławoborze
+      code: "3216052"
+    - slug: swidwin
+      name: Świdwin
+      code: "3216062"
+  touched_counties:
+    - slug: bialogardzki
+      name: białogardzki
+      code: "3201"
+    - slug: gryficki
+      name: gryficki
+      code: "3205"
+    - slug: lobeski
+      name: łobeski
+      code: "3218"
+    - slug: swidwinski
+      name: świdwiński
+      code: "3216"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: rownina_bialogardzka
+      name: Równina Białogardzka
+      code: "313.42"
+    - slug: rownina_gryficka
+      name: Równina Gryficka
+      code: "313.33"
+    - slug: rownina_nowogardzka
+      name: Równina Nowogardzka
+      code: "313.32"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"

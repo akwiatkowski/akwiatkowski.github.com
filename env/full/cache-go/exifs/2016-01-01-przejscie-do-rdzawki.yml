@@ -1,0 +1,235 @@
+---
+- image_filename: IMGP7162raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.57007596269555
+  lon: 19.99875552022611
+  altitude: 740.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:34:39+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7170raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.569696178705875
+  lon: 19.998152358510595
+  altitude: 728.82
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:37:26+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7175raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.56948772069561
+  lon: 19.99720101239474
+  altitude: 710.07
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:39:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7183raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.56948964858501
+  lon: 19.99680069292487
+  altitude: 700.94
+  focal_length: 150
+  focal_length_35: 225
+  crop: 1.5
+  aperture: 8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:41:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7188raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.56953155809987
+  lon: 19.99684478149698
+  altitude: 701.42
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 9
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:43:26+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7208raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.56855565309478
+  lon: 19.99450572768281
+  altitude: 649.51
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 9
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:50:04+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7252raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.55861010588393
+  lon: 19.983915193002474
+  altitude: 736.51
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T13:40:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7285raw1.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.58633040078202
+  lon: 19.977524662400214
+  altitude: 647.59
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T15:26:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-01-01-przejscie-do-rdzawki
+  lat: 49.56953449170125
+  lon: 19.99684453016179
+  altitude: 700.94
+  focal_length: 150
+  focal_length_35: 225
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T12:40:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

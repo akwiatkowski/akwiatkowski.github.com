@@ -1,0 +1,27 @@
+---
+- image_filename: header.jpg
+  post_slug: 2018-01-04-podsumowanie-roku-2017
+  lat: 49.565527777777774
+  lon: 21.46275
+  altitude: 458
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-07-27T10:45:08+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.1
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

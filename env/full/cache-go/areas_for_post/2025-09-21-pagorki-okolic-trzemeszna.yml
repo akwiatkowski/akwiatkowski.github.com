@@ -1,0 +1,114 @@
+---
+- type: e-bike
+  total_distance_meters: 40608.82
+  total_distance_km: 40.609
+  points_count: 250
+  towns:
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+      distance_meters: 18900.34
+      distance_km: 18.9
+      distance_percent: 46.5424
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 15704.57
+      distance_km: 15.705
+      distance_percent: 38.6728
+    - slug: rogowo
+      name: Rogowo
+      code: "0419052"
+      distance_meters: 6003.91
+      distance_km: 6.004
+      distance_percent: 14.7847
+  counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 18900.34
+      distance_km: 18.9
+      distance_percent: 46.5424
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 15704.57
+      distance_km: 15.705
+      distance_percent: 38.6728
+    - slug: zninski
+      name: żniński
+      code: "0419"
+      distance_meters: 6003.91
+      distance_km: 6.004
+      distance_percent: 14.7847
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 21708.48
+      distance_km: 21.708
+      distance_percent: 53.4576
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 18900.34
+      distance_km: 18.9
+      distance_percent: 46.5424
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 26701.2
+      distance_km: 26.701
+      distance_percent: 65.7522
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 13907.62
+      distance_km: 13.908
+      distance_percent: 34.2478
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 40608.82
+      distance_km: 40.609
+      distance_percent: 100
+  touched_towns:
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: rogowo
+      name: Rogowo
+      code: "0419052"
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: zninski
+      name: żniński
+      code: "0419"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

@@ -1,0 +1,159 @@
+---
+- type: car
+  total_distance_meters: 76378.55
+  total_distance_km: 76.379
+  points_count: 418
+  towns:
+    - slug: biala
+      name: Biała
+      code: "1610013"
+      distance_meters: 26641.75
+      distance_km: 26.642
+      distance_percent: 34.8812
+    - slug: proszkow
+      name: Prószków
+      code: "1609103"
+      distance_meters: 11453.72
+      distance_km: 11.454
+      distance_percent: 14.996
+    - slug: strzeleczki
+      name: Strzeleczki
+      code: "1605032"
+      distance_meters: 11104.14
+      distance_km: 11.104
+      distance_percent: 14.5383
+    - slug: opole
+      name: Opole
+      code: "1661011"
+      distance_meters: 10133.66
+      distance_km: 10.134
+      distance_percent: 13.2677
+    - slug: prudnik
+      name: Prudnik
+      code: "1610043"
+      distance_meters: 8287.28
+      distance_km: 8.287
+      distance_percent: 10.8503
+    - slug: komprachcice
+      name: Komprachcice
+      code: "1609042"
+      distance_meters: 4801.5
+      distance_km: 4.802
+      distance_percent: 6.2865
+    - slug: lubrza
+      name: Lubrza
+      code: "1610032"
+      distance_meters: 3956.49
+      distance_km: 3.956
+      distance_percent: 5.1801
+  counties:
+    - slug: prudnicki
+      name: prudnicki
+      code: "1610"
+      distance_meters: 38885.52
+      distance_km: 38.886
+      distance_percent: 50.9116
+    - slug: opolski
+      name: opolski
+      code: "1609"
+      distance_meters: 26388.88
+      distance_km: 26.389
+      distance_percent: 34.5501
+    - slug: krapkowicki
+      name: krapkowicki
+      code: "1605"
+      distance_meters: 11104.14
+      distance_km: 11.104
+      distance_percent: 14.5383
+    - slug: opole
+      name: Opole
+      code: "1661"
+      distance_meters: 10133.66
+      distance_km: 10.134
+      distance_percent: 13.2677
+  voivodeships:
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+      distance_meters: 76378.55
+      distance_km: 76.379
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+      distance_meters: 48515.52
+      distance_km: 48.516
+      distance_percent: 63.5198
+    - slug: plaskowyz_glubczycki
+      name: Płaskowyż Głubczycki
+      code: "318.58"
+      distance_meters: 19866.49
+      distance_km: 19.866
+      distance_percent: 26.0106
+    - slug: pradolina_wroclawska
+      name: Pradolina Wrocławska
+      code: "318.52"
+      distance_meters: 7996.53
+      distance_km: 7.997
+      distance_percent: 10.4696
+  macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+      distance_meters: 76378.55
+      distance_km: 76.379
+      distance_percent: 100
+  touched_towns:
+    - slug: biala
+      name: Biała
+      code: "1610013"
+    - slug: komprachcice
+      name: Komprachcice
+      code: "1609042"
+    - slug: lubrza
+      name: Lubrza
+      code: "1610032"
+    - slug: opole
+      name: Opole
+      code: "1661011"
+    - slug: proszkow
+      name: Prószków
+      code: "1609103"
+    - slug: prudnik
+      name: Prudnik
+      code: "1610043"
+    - slug: strzeleczki
+      name: Strzeleczki
+      code: "1605032"
+  touched_counties:
+    - slug: krapkowicki
+      name: krapkowicki
+      code: "1605"
+    - slug: opole
+      name: Opole
+      code: "1661"
+    - slug: opolski
+      name: opolski
+      code: "1609"
+    - slug: prudnicki
+      name: prudnicki
+      code: "1610"
+  touched_voivodeships:
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+  touched_meso_regions:
+    - slug: plaskowyz_glubczycki
+      name: Płaskowyż Głubczycki
+      code: "318.58"
+    - slug: pradolina_wroclawska
+      name: Pradolina Wrocławska
+      code: "318.52"
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+  touched_macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"

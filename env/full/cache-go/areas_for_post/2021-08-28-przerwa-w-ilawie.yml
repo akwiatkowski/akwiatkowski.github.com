@@ -1,0 +1,66 @@
+---
+- type: hike
+  total_distance_meters: 1899.04
+  total_distance_km: 1.899
+  points_count: 36
+  towns:
+    - slug: ilawa
+      name: Iława
+      code: "2807011"
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+  counties:
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+      distance_meters: 1899.04
+      distance_km: 1.899
+      distance_percent: 100
+  touched_towns:
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+  touched_counties:
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+  touched_macro_regions:
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316

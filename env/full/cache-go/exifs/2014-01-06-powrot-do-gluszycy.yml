@@ -1,0 +1,151 @@
+---
+- image_filename: IMGP3176raw1.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.66301947451198
+  lon: 16.47003631109755
+  altitude: 810.05
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T09:16:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: IMGP3248raw1.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.66463785251357
+  lon: 16.422322243446885
+  altitude: 610.09
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T10:21:39+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP3255raw1.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.66554678593352
+  lon: 16.421482544406654
+  altitude: 619.71
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T10:24:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP3268raw1.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.667105317099164
+  lon: 16.41981513240029
+  altitude: 600
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T10:27:12+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP3276raw1.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.672256667188556
+  lon: 16.39685483650481
+  altitude: 529.34
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T10:59:26+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-01-06-powrot-do-gluszycy
+  lat: 50.66555508394642
+  lon: 16.42145781783905
+  altitude: 618.75
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-06T10:24:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

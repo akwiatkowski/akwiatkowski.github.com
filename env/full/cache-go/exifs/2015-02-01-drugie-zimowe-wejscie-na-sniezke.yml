@@ -1,0 +1,526 @@
+---
+- image_filename: IMGP8226raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.83227289840668
+  lon: 15.519627900805713
+  altitude: 686.04
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 400
+  width: 4550
+  height: 3033
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-01-30T18:35:11+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP8227raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.832124706384796
+  lon: 15.519230850002625
+  altitude: 687.48
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-01-30T18:36:30+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP8232raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.82949865609768
+  lon: 15.52161575299925
+  altitude: 662.97
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 13
+  exposure: 10
+  exposure_string: 10.0 s
+  iso: 400
+  width: 4057
+  height: 2705
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-01-30T18:44:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP8246raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.81758176910393
+  lon: 15.512592717971865
+  altitude: 727.37
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-01-30T20:08:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP8299raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.75528520159967
+  lon: 15.708480896399706
+  altitude: 1180.64
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T11:08:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8308raw2.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.75479242950085
+  lon: 15.70857653392741
+  altitude: 1191.21
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 400
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T11:10:15+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8330raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.752730649007475
+  lon: 15.709243398247935
+  altitude: 1230.14
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T11:16:55+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8362raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.746973455003484
+  lon: 15.707371803014905
+  altitude: 1350.31
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T12:33:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8364raw2.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.74558407079646
+  lon: 15.706393383389734
+  altitude: 1368.57
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T12:36:43+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8435raw2.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.73690687310059
+  lon: 15.732810711586222
+  altitude: 1426.73
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T13:34:58+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8436raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.73682959192552
+  lon: 15.733252689199867
+  altitude: 1436.83
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T13:35:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8488raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.736311757901944
+  lon: 15.734930075700499
+  altitude: 1489.22
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T13:45:22+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8524raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.73614948428411
+  lon: 15.739717148201208
+  altitude: 1592.08
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:03:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP8597raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.73885388923035
+  lon: 15.737115172261483
+  altitude: 1530.9490740740741
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:25:10+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8615raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.73921618673648
+  lon: 15.736708892270695
+  altitude: 1522.6858638743456
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:27:09+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8665raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.740708
+  lon: 15.73503597467383
+  altitude: 1488.6608695652174
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:35:19+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8674raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.74106420859178
+  lon: 15.734636522920688
+  altitude: 1480.5365296803652
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:37:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8709raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.7436733595432
+  lon: 15.73171062419693
+  altitude: 1421.0275
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:51:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8733raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.74605112737789
+  lon: 15.72904419840956
+  altitude: 1366.7958115183246
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T15:04:34+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP8739raw1.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.746784855994896
+  lon: 15.728221396117307
+  altitude: 1350.0610687022902
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 11
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T15:08:35+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0.3
+- image_filename: header.jpg
+  post_slug: 2015-02-01-drugie-zimowe-wejscie-na-sniezke
+  lat: 50.74106420859178
+  lon: 15.734636522920688
+  altitude: 1480.5365296803652
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-02-01T14:37:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3

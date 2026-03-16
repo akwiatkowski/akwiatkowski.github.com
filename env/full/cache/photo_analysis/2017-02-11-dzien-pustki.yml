@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP2718raw1.jpg
+  post_slug: 2017-02-11-dzien-pustki
+  ahash: 8080802026ffffff
+  dhash: 10314c4c4465671f
+  phash: f77fb89815a58411
+  avg_rgb:
+  - 123
+  - 123
+  - 123
+  top5_rgb:
+  - - 167
+    - 168
+    - 168
+  - - 128
+    - 128
+    - 128
+  - - 151
+    - 151
+    - 151
+  - - 147
+    - 147
+    - 147
+  - - 155
+    - 153
+    - 154
+- image_filename: header.jpg
+  post_slug: 2017-02-11-dzien-pustki
+  ahash: e0e0e0e0c0f5ffff
+  dhash: 000202858595d1c8
+  phash: e2678f2076cba456
+  avg_rgb:
+  - 146
+  - 146
+  - 146
+  top5_rgb:
+  - - 215
+    - 219
+    - 219
+  - - 218
+    - 219
+    - 219
+  - - 47
+    - 46
+    - 45
+  - - 219
+    - 222
+    - 223
+  - - 64
+    - 61
+    - 59

@@ -1,0 +1,60 @@
+---
+- type: bicycle
+  total_distance_meters: 12264.57
+  total_distance_km: 12.265
+  points_count: 130
+  towns:
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+      distance_meters: 12264.57
+      distance_km: 12.265
+      distance_percent: 100
+  counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+      distance_meters: 12264.57
+      distance_km: 12.265
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 12264.57
+      distance_km: 12.265
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 12264.57
+      distance_km: 12.265
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 12264.57
+      distance_km: 12.265
+      distance_percent: 100
+  touched_towns:
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+  touched_counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

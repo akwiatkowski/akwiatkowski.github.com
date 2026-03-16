@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 63836.57
+  total_distance_km: 63.837
+  points_count: 249
+  towns:
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028072"
+      distance_meters: 22129.93
+      distance_km: 22.13
+      distance_percent: 34.6665
+    - slug: kcynia
+      name: Kcynia
+      code: "0410013"
+      distance_meters: 19659.96
+      distance_km: 19.66
+      distance_percent: 30.7973
+    - slug: golancz
+      name: Gołańcz
+      code: "3028033"
+      distance_meters: 10532.91
+      distance_km: 10.533
+      distance_percent: 16.4998
+    - slug: rogozno
+      name: Rogoźno
+      code: "3016023"
+      distance_meters: 6305.48
+      distance_km: 6.305
+      distance_percent: 9.8775
+    - slug: sadki
+      name: Sadki
+      code: "0410042"
+      distance_meters: 5208.29
+      distance_km: 5.208
+      distance_percent: 8.1588
+  counties:
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+      distance_meters: 32662.84
+      distance_km: 32.663
+      distance_percent: 51.1663
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+      distance_meters: 24868.25
+      distance_km: 24.868
+      distance_percent: 38.9561
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+      distance_meters: 6305.48
+      distance_km: 6.305
+      distance_percent: 9.8775
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 38968.31
+      distance_km: 38.968
+      distance_percent: 61.0439
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 24868.25
+      distance_km: 24.868
+      distance_percent: 38.9561
+  meso_regions:
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 46490.06
+      distance_km: 46.49
+      distance_percent: 72.8267
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+      distance_meters: 10206.1
+      distance_km: 10.206
+      distance_percent: 15.9879
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 7140.41
+      distance_km: 7.14
+      distance_percent: 11.1855
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 53630.47
+      distance_km: 53.63
+      distance_percent: 84.0121
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 10206.1
+      distance_km: 10.206
+      distance_percent: 15.9879
+  touched_towns:
+    - slug: golancz
+      name: Gołańcz
+      code: "3028033"
+    - slug: kcynia
+      name: Kcynia
+      code: "0410013"
+    - slug: rogozno
+      name: Rogoźno
+      code: "3016023"
+    - slug: sadki
+      name: Sadki
+      code: "0410042"
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028072"
+  touched_counties:
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP8432b.jpg
+  post_slug: 2013-08-25-w-strone-skokow-po-raz-2-gi
+  lat: 52.71383707410778
+  lon: 17.093336759164096
+  altitude: 78.48
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 3597
+  height: 2398
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-08-25T14:37:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: header.jpg
+  post_slug: 2013-08-25-w-strone-skokow-po-raz-2-gi
+  lat: 52.65909913921045
+  lon: 16.998734828084142
+  altitude: 116.46
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-08-25T13:41:58+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3

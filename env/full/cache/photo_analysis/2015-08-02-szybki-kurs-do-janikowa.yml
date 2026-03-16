@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP2491raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  ahash: 000000ff7f3f3f00
+  dhash: ffffffdff8f8fcfe
+  phash: 857a708fe0725f83
+  avg_rgb:
+  - 43
+  - 113
+  - 160
+  top5_rgb:
+  - - 59
+    - 73
+    - 33
+  - - 58
+    - 86
+    - 55
+  - - 79
+    - 167
+    - 235
+  - - 60
+    - 148
+    - 181
+  - - 56
+    - 111
+    - 110
+- image_filename: IMGP2496raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  ahash: 00033f0f03070fff
+  dhash: 8fdfffff1f3f3f86
+  phash: a0415e3ce19ec76b
+  avg_rgb:
+  - 52
+  - 101
+  - 111
+  top5_rgb:
+  - - 2
+    - 84
+    - 164
+  - - 119
+    - 134
+    - 36
+  - - 64
+    - 113
+    - 106
+  - - 64
+    - 105
+    - 88
+  - - 2
+    - 80
+    - 161
+- image_filename: IMGP2617raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  ahash: ff0000183f9f6f0f
+  dhash: f0b019b9b032dccc
+  phash: 984aa795c5ebac16
+  avg_rgb:
+  - 123
+  - 130
+  - 65
+  top5_rgb:
+  - - 150
+    - 178
+    - 219
+  - - 67
+    - 77
+    - 41
+  - - 145
+    - 174
+    - 216
+  - - 121
+    - 132
+    - 28
+  - - 51
+    - 69
+    - 55
+- image_filename: header.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  ahash: 7ffcf0e061f8f0f0
+  dhash: f9e16149c3930244
+  phash: ce929c993376cb24
+  avg_rgb:
+  - 73
+  - 104
+  - 104
+  top5_rgb:
+  - - 25
+    - 48
+    - 73
+  - - 68
+    - 104
+    - 110
+  - - 50
+    - 69
+    - 36
+  - - 19
+    - 42
+    - 66
+  - - 118
+    - 118
+    - 125

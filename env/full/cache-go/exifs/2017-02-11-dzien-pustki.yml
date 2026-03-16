@@ -1,0 +1,53 @@
+---
+- image_filename: IMGP2718raw1.jpg
+  post_slug: 2017-02-11-dzien-pustki
+  lat: 50.73608333333333
+  lon: 15.739777777777777
+  altitude: 1605
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  width: 3656
+  height: 5480
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-02-12T07:23:48+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2017-02-11-dzien-pustki
+  lat: 50.733666666666664
+  lon: 15.69725
+  altitude: 1414
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-02-11T14:57:41+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

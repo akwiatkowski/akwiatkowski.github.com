@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP6963b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  lat: 50.204478744413265
+  lon: 16.83942493978427
+  altitude: 1315.7
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-07-23T09:35:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6964b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  lat: 50.20480429746785
+  lon: 16.84085908353609
+  altitude: 1338.29
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-07-23T09:41:55+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP7179b.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  lat: 50.210849661344945
+  lon: 16.83133372109419
+  altitude: 1210.44
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-07-23T18:26:33+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: header.jpg
+  post_slug: 2013-07-23-snieznik-jaskinia-niedzwiedzia-i-kopalnia-uranu-w-kletnie
+  lat: 50.20696221849991
+  lon: 16.84615099796593
+  altitude: 1418.56
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 2048
+  height: 1356
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-07-23T10:31:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

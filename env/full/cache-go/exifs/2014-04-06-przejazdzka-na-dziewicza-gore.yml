@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP4536raw1.jpg
+  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
+  lat: 52.408313183103346
+  lon: 17.044889274935077
+  altitude: 75.6
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-04-06T13:06:38+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
+  lat: 52.46785889379151
+  lon: 17.06941505890618
+  altitude: 95.79
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-04-06T15:48:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

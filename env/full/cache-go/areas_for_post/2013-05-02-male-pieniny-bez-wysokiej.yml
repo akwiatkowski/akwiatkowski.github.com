@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 11295.05
+  total_distance_km: 11.295
+  points_count: 216
+  towns:
+    - slug: szczawnica
+      name: Szczawnica
+      code: "1211023"
+      distance_meters: 9939.8
+      distance_km: 9.94
+      distance_percent: 88.0014
+  counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 9939.8
+      distance_km: 9.94
+      distance_percent: 88.0014
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 9939.8
+      distance_km: 9.94
+      distance_percent: 88.0014
+  meso_regions:
+    - slug: pieniny
+      name: Pieniny
+      code: "514.12"
+      distance_meters: 9896.97
+      distance_km: 9.897
+      distance_percent: 87.6221
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+      distance_meters: 963.98
+      distance_km: 0.964
+      distance_percent: 8.5345
+  macro_regions:
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15
+      distance_meters: 9896.97
+      distance_km: 9.897
+      distance_percent: 87.6221
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 963.98
+      distance_km: 0.964
+      distance_percent: 8.5345
+  touched_towns:
+    - slug: szczawnica
+      name: Szczawnica
+      code: "1211023"
+  touched_counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+    - slug: pieniny
+      name: Pieniny
+      code: "514.12"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15

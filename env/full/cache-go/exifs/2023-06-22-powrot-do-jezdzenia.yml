@@ -1,0 +1,36 @@
+---
+- image_filename: 2023_06_22__15_51_P6223179.jpg
+  post_slug: 2023-06-22-powrot-do-jezdzenia
+  lat: 52.46088888888889
+  lon: 17.201277777777776
+  altitude: 99
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8069
+  height: 5958
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-22T15:51:52+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

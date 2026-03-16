@@ -1,0 +1,225 @@
+---
+- image_filename: 2022_12_29__14_21_DJI_0004.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.48748741666667
+  lon: 17.207096566666667
+  altitude: 190
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 4032
+  height: 2714
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T14:21:12+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__14_25_DJI_0013.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.48749758333334
+  lon: 17.20708935
+  altitude: 222.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 130
+  width: 4032
+  height: 3024
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T14:25:23+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__15_00_DJI_0016.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.48542655
+  lon: 17.220775633333332
+  altitude: 188.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4014
+  height: 3000
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T15:00:06+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__15_00_DJI_0019.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.4854173
+  lon: 17.220766233333332
+  altitude: 227.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.005555555555555556
+  exposure_string: 1/180 s
+  iso: 110
+  width: 3992
+  height: 2970
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T15:00:55+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__15_17_DJI_0031.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.48473658333333
+  lon: 17.2117516
+  altitude: 218.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4032
+  height: 3024
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T15:17:48+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__15_24_DJI_0040.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.48441815
+  lon: 17.207940166666667
+  altitude: 206.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4000
+  height: 2980
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T15:24:31+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2022_12_29__15_54_DJI_0044.jpg
+  post_slug: 2022-12-29-pierwszy-lot-dji-mini-3-pro
+  lat: 52.47144393333333
+  lon: 17.213571233333333
+  altitude: 175.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 140
+  width: 4032
+  height: 3024
+  camera: FC3582
+  camera_name: FC3582
+  time: "2022-12-29T15:54:30+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.0.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

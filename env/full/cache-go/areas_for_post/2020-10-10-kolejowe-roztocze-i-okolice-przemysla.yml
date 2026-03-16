@@ -1,0 +1,608 @@
+---
+- type: train
+  total_distance_meters: 114834.86
+  total_distance_km: 114.835
+  points_count: 266
+  towns:
+    - slug: susiec
+      name: Susiec
+      code: "0618082"
+      distance_meters: 18802.85
+      distance_km: 18.803
+      distance_percent: 16.3738
+    - slug: horyniec-zdroj
+      name: Horyniec-Zdrój
+      code: "1809032"
+      distance_meters: 18575.36
+      distance_km: 18.575
+      distance_percent: 16.1757
+    - slug: lubycza_krolewska
+      name: Lubycza Królewska
+      code: "0618053"
+      distance_meters: 17138.89
+      distance_km: 17.139
+      distance_percent: 14.9248
+    - slug: zwierzyniec
+      name: Zwierzyniec
+      code: "0620153"
+      distance_meters: 16444.66
+      distance_km: 16.445
+      distance_percent: 14.3203
+    - slug: szczebrzeszyn
+      name: Szczebrzeszyn
+      code: "0620133"
+      distance_meters: 12046.2
+      distance_km: 12.046
+      distance_percent: 10.49
+    - slug: belzec
+      name: Bełżec
+      code: "0618022"
+      distance_meters: 9869.46
+      distance_km: 9.869
+      distance_percent: 8.5945
+    - slug: jozefow
+      name: Józefów
+      code: "0602073"
+      distance_meters: 9202.04
+      distance_km: 9.202
+      distance_percent: 8.0133
+    - slug: zamosc
+      name: Zamość
+      code: "0620142"
+      distance_meters: 8048.62
+      distance_km: 8.049
+      distance_percent: 7.0089
+    - slug: narol
+      name: Narol
+      code: "1809053"
+      distance_meters: 1656.15
+      distance_km: 1.656
+      distance_percent: 1.4422
+    - slug: zamosc
+      name: Zamość
+      code: "0664011"
+      distance_meters: 1595.24
+      distance_km: 1.595
+      distance_percent: 1.3892
+    - slug: krasnobrod
+      name: Krasnobród
+      code: "0620043"
+      distance_meters: 1455.4
+      distance_km: 1.455
+      distance_percent: 1.2674
+  counties:
+    - slug: tomaszowski
+      name: tomaszowski
+      code: "0618"
+      distance_meters: 45811.2
+      distance_km: 45.811
+      distance_percent: 39.8931
+    - slug: zamojski
+      name: zamojski
+      code: "0620"
+      distance_meters: 39590.11
+      distance_km: 39.59
+      distance_percent: 34.4757
+    - slug: lubaczowski
+      name: lubaczowski
+      code: "1809"
+      distance_meters: 20231.51
+      distance_km: 20.232
+      distance_percent: 17.6179
+    - slug: bilgorajski
+      name: biłgorajski
+      code: "0602"
+      distance_meters: 9202.04
+      distance_km: 9.202
+      distance_percent: 8.0133
+    - slug: zamosc
+      name: Zamość
+      code: "0664"
+      distance_meters: 1595.24
+      distance_km: 1.595
+      distance_percent: 1.3892
+  voivodeships:
+    - slug: lubelskie
+      name: lubelskie
+      code: "06"
+      distance_meters: 94603.35
+      distance_km: 94.603
+      distance_percent: 82.3821
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 20231.51
+      distance_km: 20.232
+      distance_percent: 17.6179
+  meso_regions:
+    - slug: roztocze_srodkowe
+      name: Roztocze Środkowe
+      code: "343.22"
+      distance_meters: 70602.87
+      distance_km: 70.603
+      distance_percent: 61.4821
+    - slug: roztocze_wschodnie
+      name: Roztocze Wschodnie
+      code: "343.23"
+      distance_meters: 20815.46
+      distance_km: 20.815
+      distance_percent: 18.1264
+    - slug: kotlina_zamojska
+      name: Kotlina Zamojska
+      code: "343.19"
+      distance_meters: 19422.39
+      distance_km: 19.422
+      distance_percent: 16.9133
+    - slug: plaskowyz_tarnogrodzki
+      name: Płaskowyż Tarnogrodzki
+      code: "512.49"
+      distance_meters: 2251.42
+      distance_km: 2.251
+      distance_percent: 1.9606
+    - slug: rownina_belska
+      name: Równina Bełska
+      code: "851.21"
+      distance_meters: 1742.73
+      distance_km: 1.743
+      distance_percent: 1.5176
+  macro_regions:
+    - slug: roztocze
+      name: Roztocze
+      code: "343"
+      distance_meters: 91418.32
+      distance_km: 91.418
+      distance_percent: 79.6085
+    - slug: wyzyna_lubelska
+      name: Wyżyna Lubelska
+      code: "343"
+      distance_meters: 19422.39
+      distance_km: 19.422
+      distance_percent: 16.9133
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+      distance_meters: 2251.42
+      distance_km: 2.251
+      distance_percent: 1.9606
+    - slug: kotlina_pobuza
+      name: Kotlina Pobuża
+      code: "851"
+      distance_meters: 1742.73
+      distance_km: 1.743
+      distance_percent: 1.5176
+  touched_towns:
+    - slug: belzec
+      name: Bełżec
+      code: "0618022"
+    - slug: horyniec-zdroj
+      name: Horyniec-Zdrój
+      code: "1809032"
+    - slug: jozefow
+      name: Józefów
+      code: "0602073"
+    - slug: lubycza_krolewska
+      name: Lubycza Królewska
+      code: "0618053"
+    - slug: narol
+      name: Narol
+      code: "1809053"
+    - slug: susiec
+      name: Susiec
+      code: "0618082"
+    - slug: szczebrzeszyn
+      name: Szczebrzeszyn
+      code: "0620133"
+    - slug: zamosc
+      name: Zamość
+      code: "0620142"
+    - slug: zwierzyniec
+      name: Zwierzyniec
+      code: "0620153"
+  touched_counties:
+    - slug: bilgorajski
+      name: biłgorajski
+      code: "0602"
+    - slug: lubaczowski
+      name: lubaczowski
+      code: "1809"
+    - slug: tomaszowski
+      name: tomaszowski
+      code: "0618"
+    - slug: zamojski
+      name: zamojski
+      code: "0620"
+    - slug: zamosc
+      name: Zamość
+      code: "0664"
+  touched_voivodeships:
+    - slug: lubelskie
+      name: lubelskie
+      code: "06"
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: kotlina_zamojska
+      name: Kotlina Zamojska
+      code: "343.19"
+    - slug: plaskowyz_tarnogrodzki
+      name: Płaskowyż Tarnogrodzki
+      code: "512.49"
+    - slug: rownina_belska
+      name: Równina Bełska
+      code: "851.21"
+    - slug: roztocze_srodkowe
+      name: Roztocze Środkowe
+      code: "343.22"
+    - slug: roztocze_wschodnie
+      name: Roztocze Wschodnie
+      code: "343.23"
+  touched_macro_regions:
+    - slug: kotlina_pobuza
+      name: Kotlina Pobuża
+      code: "851"
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+    - slug: roztocze
+      name: Roztocze
+      code: "343"
+    - slug: wyzyna_lubelska
+      name: Wyżyna Lubelska
+      code: "343"
+- type: train
+  total_distance_meters: 211700.51
+  total_distance_km: 211.701
+  points_count: 202
+  towns:
+    - slug: przemysl
+      name: Przemyśl
+      code: "1862011"
+      distance_meters: 27798.48
+      distance_km: 27.798
+      distance_percent: 13.131
+    - slug: zurawica
+      name: Żurawica
+      code: "1813102"
+      distance_meters: 23259.08
+      distance_km: 23.259
+      distance_percent: 10.9868
+    - slug: jaroslaw
+      name: Jarosław
+      code: "1804042"
+      distance_meters: 16913.57
+      distance_km: 16.914
+      distance_percent: 7.9894
+    - slug: medyka
+      name: Medyka
+      code: "1813062"
+      distance_meters: 14524.12
+      distance_km: 14.524
+      distance_percent: 6.8607
+    - slug: oleszyce
+      name: Oleszyce
+      code: "1809063"
+      distance_meters: 13898.35
+      distance_km: 13.898
+      distance_percent: 6.5651
+    - slug: laszki
+      name: Laszki
+      code: "1804052"
+      distance_meters: 13662.81
+      distance_km: 13.663
+      distance_percent: 6.4538
+    - slug: przeworsk
+      name: Przeworsk
+      code: "1814062"
+      distance_meters: 12555.09
+      distance_km: 12.555
+      distance_percent: 5.9306
+    - slug: lubaczow
+      name: Lubaczów
+      code: "1809042"
+      distance_meters: 11792.96
+      distance_km: 11.793
+      distance_percent: 5.5706
+    - slug: orly
+      name: Orły
+      code: "1813072"
+      distance_meters: 11266.37
+      distance_km: 11.266
+      distance_percent: 5.3218
+    - slug: radymno
+      name: Radymno
+      code: "1804082"
+      distance_meters: 10513.14
+      distance_km: 10.513
+      distance_percent: 4.966
+    - slug: lancut
+      name: Łańcut
+      code: "1810042"
+      distance_meters: 8725.51
+      distance_km: 8.726
+      distance_percent: 4.1216
+    - slug: krasne
+      name: Krasne
+      code: "1816092"
+      distance_meters: 6336.86
+      distance_km: 6.337
+      distance_percent: 2.9933
+    - slug: jaroslaw
+      name: Jarosław
+      code: "1804011"
+      distance_meters: 5664.15
+      distance_km: 5.664
+      distance_percent: 2.6755
+    - slug: lubaczow
+      name: Lubaczów
+      code: "1809011"
+      distance_meters: 5308.23
+      distance_km: 5.308
+      distance_percent: 2.5074
+    - slug: chlopice
+      name: Chłopice
+      code: "1804032"
+      distance_meters: 5172.03
+      distance_km: 5.172
+      distance_percent: 2.4431
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863011"
+      distance_meters: 4914.79
+      distance_km: 4.915
+      distance_percent: 2.3216
+    - slug: lancut
+      name: Łańcut
+      code: "1810011"
+      distance_meters: 4655.21
+      distance_km: 4.655
+      distance_percent: 2.199
+    - slug: horyniec-zdroj
+      name: Horyniec-Zdrój
+      code: "1809032"
+      distance_meters: 4534.27
+      distance_km: 4.534
+      distance_percent: 2.1418
+    - slug: przeworsk
+      name: Przeworsk
+      code: "1814011"
+      distance_meters: 3845.23
+      distance_km: 3.845
+      distance_percent: 1.8164
+    - slug: czarna
+      name: Czarna
+      code: "1810032"
+      distance_meters: 3301.53
+      distance_km: 3.302
+      distance_percent: 1.5595
+    - slug: pawlosiow
+      name: Pawłosiów
+      code: "1804062"
+      distance_meters: 1721.05
+      distance_km: 1.721
+      distance_percent: 0.813
+  counties:
+    - slug: przemyski
+      name: przemyski
+      code: "1813"
+      distance_meters: 76848.05
+      distance_km: 76.848
+      distance_percent: 36.3004
+    - slug: jaroslawski
+      name: jarosławski
+      code: "1804"
+      distance_meters: 54984.43
+      distance_km: 54.984
+      distance_percent: 25.9727
+    - slug: lubaczowski
+      name: lubaczowski
+      code: "1809"
+      distance_meters: 35533.81
+      distance_km: 35.534
+      distance_percent: 16.7849
+    - slug: przemysl
+      name: Przemyśl
+      code: "1862"
+      distance_meters: 27798.48
+      distance_km: 27.798
+      distance_percent: 13.131
+    - slug: lancucki
+      name: łańcucki
+      code: "1810"
+      distance_meters: 16682.25
+      distance_km: 16.682
+      distance_percent: 7.8801
+    - slug: przeworski
+      name: przeworski
+      code: "1814"
+      distance_meters: 16400.32
+      distance_km: 16.4
+      distance_percent: 7.7469
+    - slug: rzeszowski
+      name: rzeszowski
+      code: "1816"
+      distance_meters: 11251.66
+      distance_km: 11.252
+      distance_percent: 5.3149
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863"
+      distance_meters: 4914.79
+      distance_km: 4.915
+      distance_percent: 2.3216
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 211700.51
+      distance_km: 211.701
+      distance_percent: 100
+  meso_regions:
+    - slug: dolina_dolnego_sanu
+      name: Dolina Dolnego Sanu
+      code: "512.46"
+      distance_meters: 71836.19
+      distance_km: 71.836
+      distance_percent: 33.9329
+    - slug: podgorze_rzeszowskie
+      name: Podgórze Rzeszowskie
+      code: "512.52"
+      distance_meters: 52593.14
+      distance_km: 52.593
+      distance_percent: 24.8432
+    - slug: plaskowyz_tarnogrodzki
+      name: Płaskowyż Tarnogrodzki
+      code: "512.49"
+      distance_meters: 49734.84
+      distance_km: 49.735
+      distance_percent: 23.493
+    - slug: pradolina_podkarpacka
+      name: Pradolina Podkarpacka
+      code: "512.51"
+      distance_meters: 27532.7
+      distance_km: 27.533
+      distance_percent: 13.0055
+    - slug: pogorze_dynowskie
+      name: Pogórze Dynowskie
+      code: "513.64"
+      distance_meters: 5756.92
+      distance_km: 5.757
+      distance_percent: 2.7194
+    - slug: plaskowyz_mosciski
+      name: Płaskowyż Mościski
+      code: "521.13"
+      distance_meters: 3105.14
+      distance_km: 3.105
+      distance_percent: 1.4668
+    - slug: pogorze_strzyzowskie
+      name: Pogórze Strzyżowskie
+      code: "513.63"
+      distance_meters: 1141.58
+      distance_km: 1.142
+      distance_percent: 0.5392
+  macro_regions:
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+      distance_meters: 201696.87
+      distance_km: 201.697
+      distance_percent: 95.2746
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"
+      distance_meters: 6898.5
+      distance_km: 6.899
+      distance_percent: 3.2586
+    - slug: plaskowyz_sansko-dniestrzanski
+      name: Płaskowyż Sańsko-Dniestrzański
+      code: "521"
+      distance_meters: 3105.14
+      distance_km: 3.105
+      distance_percent: 1.4668
+  touched_towns:
+    - slug: czarna
+      name: Czarna
+      code: "1810032"
+    - slug: horyniec-zdroj
+      name: Horyniec-Zdrój
+      code: "1809032"
+    - slug: jaroslaw
+      name: Jarosław
+      code: "1804011"
+    - slug: krasne
+      name: Krasne
+      code: "1816092"
+    - slug: lancut
+      name: Łańcut
+      code: "1810011"
+    - slug: laszki
+      name: Laszki
+      code: "1804052"
+    - slug: lubaczow
+      name: Lubaczów
+      code: "1809011"
+    - slug: medyka
+      name: Medyka
+      code: "1813062"
+    - slug: oleszyce
+      name: Oleszyce
+      code: "1809063"
+    - slug: orly
+      name: Orły
+      code: "1813072"
+    - slug: przemysl
+      name: Przemyśl
+      code: "1862011"
+    - slug: przeworsk
+      name: Przeworsk
+      code: "1814011"
+    - slug: radymno
+      name: Radymno
+      code: "1804082"
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863011"
+    - slug: zurawica
+      name: Żurawica
+      code: "1813102"
+  touched_counties:
+    - slug: jaroslawski
+      name: jarosławski
+      code: "1804"
+    - slug: lancucki
+      name: łańcucki
+      code: "1810"
+    - slug: lubaczowski
+      name: lubaczowski
+      code: "1809"
+    - slug: przemyski
+      name: przemyski
+      code: "1813"
+    - slug: przemysl
+      name: Przemyśl
+      code: "1862"
+    - slug: przeworski
+      name: przeworski
+      code: "1814"
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863"
+    - slug: rzeszowski
+      name: rzeszowski
+      code: "1816"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: dolina_dolnego_sanu
+      name: Dolina Dolnego Sanu
+      code: "512.46"
+    - slug: plaskowyz_mosciski
+      name: Płaskowyż Mościski
+      code: "521.13"
+    - slug: plaskowyz_tarnogrodzki
+      name: Płaskowyż Tarnogrodzki
+      code: "512.49"
+    - slug: podgorze_rzeszowskie
+      name: Podgórze Rzeszowskie
+      code: "512.52"
+    - slug: pogorze_dynowskie
+      name: Pogórze Dynowskie
+      code: "513.64"
+    - slug: pogorze_strzyzowskie
+      name: Pogórze Strzyżowskie
+      code: "513.63"
+    - slug: pradolina_podkarpacka
+      name: Pradolina Podkarpacka
+      code: "512.51"
+  touched_macro_regions:
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+    - slug: plaskowyz_sansko-dniestrzanski
+      name: Płaskowyż Sańsko-Dniestrzański
+      code: "521"
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"

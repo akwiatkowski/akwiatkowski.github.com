@@ -1,0 +1,128 @@
+---
+- type: hike
+  total_distance_meters: 1187.32
+  total_distance_km: 1.187
+  points_count: 15
+  towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+      distance_meters: 1187.32
+      distance_km: 1.187
+      distance_percent: 100
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 1187.32
+      distance_km: 1.187
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 1187.32
+      distance_km: 1.187
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 1187.32
+      distance_km: 1.187
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 1187.32
+      distance_km: 1.187
+      distance_percent: 100
+  touched_towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+- type: hike
+  total_distance_meters: 8910.06
+  total_distance_km: 8.91
+  points_count: 65
+  towns:
+    - slug: marciszow
+      name: Marciszów
+      code: "0207042"
+      distance_meters: 8910.06
+      distance_km: 8.91
+      distance_percent: 100
+  counties:
+    - slug: kamiennogorski
+      name: kamiennogórski
+      code: "0207"
+      distance_meters: 8910.06
+      distance_km: 8.91
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 8910.06
+      distance_km: 8.91
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 5194.74
+      distance_km: 5.195
+      distance_percent: 58.3019
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+      distance_meters: 3715.32
+      distance_km: 3.715
+      distance_percent: 41.6981
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 8910.06
+      distance_km: 8.91
+      distance_percent: 100
+  touched_towns:
+    - slug: marciszow
+      name: Marciszów
+      code: "0207042"
+  touched_counties:
+    - slug: kamiennogorski
+      name: kamiennogórski
+      code: "0207"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

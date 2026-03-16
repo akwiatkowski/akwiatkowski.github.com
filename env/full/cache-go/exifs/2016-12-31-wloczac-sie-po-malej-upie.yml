@@ -1,0 +1,80 @@
+---
+- image_filename: IMGP1158raw1.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  lat: 50.742152777777775
+  lon: 15.820666666666666
+  altitude: 1022
+  focal_length: 170
+  focal_length_35: 255
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-31T12:29:49+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP1189raw1.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  lat: 50.73579166666667
+  lon: 15.814236111111112
+  altitude: 949
+  focal_length: 33
+  focal_length_35: 49
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-31T12:55:52+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  lat: 50.73386111111111
+  lon: 15.810402777777778
+  altitude: 935
+  focal_length: 125
+  focal_length_35: 187
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-31T13:37:12+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

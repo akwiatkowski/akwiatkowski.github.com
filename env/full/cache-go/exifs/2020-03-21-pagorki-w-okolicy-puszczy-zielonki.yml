@@ -1,0 +1,1905 @@
+---
+- image_filename: 2020_03_21__12_37__3216633.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55416666666667
+  lon: 17.240305555555558
+  altitude: 100
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T12:37:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__12_40__3216644.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55427777777778
+  lon: 17.239555555555558
+  altitude: 101
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T12:40:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__12_41_DSC07188.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.554249999999996
+  lon: 17.239583333333336
+  altitude: 102
+  focal_length: 29
+  focal_length_35: 29
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T12:41:19+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__12_42_DSC07194.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.554291666666664
+  lon: 17.239541666666668
+  altitude: 100
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T12:42:38+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__12_46_DSC07200.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.555305555555556
+  lon: 17.23859722222222
+  altitude: 101
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T12:46:46+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__12_52_DSC07207.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556152777777775
+  lon: 17.236375000000002
+  altitude: 106
+  focal_length: 49
+  focal_length_35: 49
+  crop: 1
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T12:52:04+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_02__3216734.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55658333333333
+  lon: 17.234236111111112
+  altitude: 107
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:02:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_03__3216742.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55658333333333
+  lon: 17.234208333333335
+  altitude: 106
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:03:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_04__3216754.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55661111111111
+  lon: 17.234194444444444
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:04:09+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_05__3216768.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55661111111111
+  lon: 17.234180555555557
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:05:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_05__3216774.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556638888888884
+  lon: 17.234180555555557
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 4924
+  height: 3276
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:05:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_05__3216777.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556638888888884
+  lon: 17.234180555555557
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 500
+  width: 4481
+  height: 3397
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:05:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_06__3216779.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556625
+  lon: 17.234180555555557
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 500
+  width: 4825
+  height: 3724
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:06:00+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_06__3216787.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.556625
+  lon: 17.234222222222222
+  altitude: 105
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:06:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_08__3216793.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55676388888889
+  lon: 17.233833333333333
+  altitude: 104
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 500
+  width: 5042
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:08:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_10__3216804.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55768055555555
+  lon: 17.231652777777775
+  altitude: 101
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 9
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5130
+  height: 3830
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:10:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_24__3216830.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56316666666666
+  lon: 17.231499999999997
+  altitude: 96
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:24:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_30__3216848.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56480555555555
+  lon: 17.233194444444443
+  altitude: 97
+  focal_length: 160
+  focal_length_35: 320
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:30:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_30__3216851.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56481944444444
+  lon: 17.233180555555553
+  altitude: 96
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:30:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_30__3216852.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56483333333333
+  lon: 17.233194444444443
+  altitude: 96
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:30:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_31__3216861.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56505555555555
+  lon: 17.233194444444443
+  altitude: 96
+  focal_length: 175
+  focal_length_35: 350
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:31:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_35__3216878.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56616666666666
+  lon: 17.231902777777776
+  altitude: 99
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4989
+  height: 3724
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:35:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_38__3216882.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56604166666666
+  lon: 17.22973611111111
+  altitude: 96
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5188
+  height: 3841
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:38:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_38__3216885.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566125
+  lon: 17.22908333333333
+  altitude: 91
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 3891
+  height: 5202
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:38:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_43_DSC07213.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56645833333333
+  lon: 17.226888888888887
+  altitude: 83
+  focal_length: 59
+  focal_length_35: 59
+  crop: 1
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T13:43:00+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_47__3216907.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56615277777777
+  lon: 17.227152777777775
+  altitude: 84
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5072
+  height: 3786
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:47:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_50__3216918.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566111111111105
+  lon: 17.22720833333333
+  altitude: 86
+  focal_length: 85
+  focal_length_35: 170
+  crop: 2
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T13:50:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__13_59_DSC07225.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566374999999994
+  lon: 17.227819444444442
+  altitude: 89
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T13:59:58+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_01_DSC07226.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566180555555555
+  lon: 17.22922222222222
+  altitude: 96
+  focal_length: 31
+  focal_length_35: 31
+  crop: 1
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:01:58+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_03_DSC07228.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56615277777777
+  lon: 17.229333333333333
+  altitude: 96
+  focal_length: 33
+  focal_length_35: 33
+  crop: 1
+  aperture: 9
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6980
+  height: 4662
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:03:18+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_03__3216924.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56613888888889
+  lon: 17.229416666666665
+  altitude: 97
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:03:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_06_DSC07231.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566125
+  lon: 17.230513888888886
+  altitude: 100
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7024
+  height: 4692
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:06:17+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_10__3216932.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56619444444444
+  lon: 17.233055555555556
+  altitude: 98
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:10:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_10__3216935.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.23309722222222
+  altitude: 98
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:10:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_11__3216938.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.23309722222222
+  altitude: 99
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:11:01+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_11__3216943.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.233152777777775
+  altitude: 99
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5090
+  height: 3728
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:11:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_11__3216946.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56623611111111
+  lon: 17.233305555555553
+  altitude: 99
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:11:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_12__3216951.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56622222222222
+  lon: 17.233611111111113
+  altitude: 99
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 4847
+  height: 3505
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:12:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_22__3216963.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.565416666666664
+  lon: 17.239555555555558
+  altitude: 98
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:22:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_27__3216974.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56443055555555
+  lon: 17.24013888888889
+  altitude: 98
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:27:09+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_32_DSC07250.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56279166666666
+  lon: 17.241875
+  altitude: 97
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 3.5
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:32:34+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_33_DSC07257.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.562625
+  lon: 17.242361111111112
+  altitude: 97
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 3.5
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:33:13+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_36_DSC07258.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56295833333333
+  lon: 17.24126388888889
+  altitude: 99
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 3.5
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:36:01+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_37__3217003.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.563541666666666
+  lon: 17.240708333333334
+  altitude: 98
+  focal_length: 115
+  focal_length_35: 230
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:37:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_45__3217024.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.566374999999994
+  lon: 17.241847222222223
+  altitude: 99
+  focal_length: 200
+  focal_length_35: 400
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:45:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_46__3217034.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56644444444444
+  lon: 17.24251388888889
+  altitude: 98
+  focal_length: 85
+  focal_length_35: 170
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5148
+  height: 3786
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:46:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_50_DSC07260.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56634722222222
+  lon: 17.246208333333335
+  altitude: 101
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 9
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:50:29+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_53__3217044.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56477777777778
+  lon: 17.247666666666667
+  altitude: 99
+  focal_length: 67
+  focal_length_35: 134
+  crop: 2
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:53:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_56__3217051.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.563125
+  lon: 17.249597222222224
+  altitude: 101
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5020
+  height: 3748
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:56:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_58_DSC07267.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.56261111111111
+  lon: 17.250875
+  altitude: 103
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T14:58:35+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__14_59__3217066.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.562486111111106
+  lon: 17.251208333333334
+  altitude: 102
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T14:59:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__15_05__3217081.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.560652777777776
+  lon: 17.25575
+  altitude: 108
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T15:05:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__15_05__3217082.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.560583333333334
+  lon: 17.255916666666668
+  altitude: 109
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5025
+  height: 3477
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-03-21T15:05:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__15_07_DSC07273.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55981944444444
+  lon: 17.25775
+  altitude: 107
+  focal_length: 37
+  focal_length_35: 37
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 6938
+  height: 4634
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T15:07:59+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__15_14_DSC07279.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55645833333333
+  lon: 17.257819444444443
+  altitude: 102
+  focal_length: 65
+  focal_length_35: 65
+  crop: 1
+  aperture: 11
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T15:14:54+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_03_21__15_31_DSC07295.jpg
+  post_slug: 2020-03-21-pagorki-w-okolicy-puszczy-zielonki
+  lat: 52.55423611111111
+  lon: 17.24502777777778
+  altitude: 122
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7177
+  height: 4794
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-03-21T15:31:01+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84

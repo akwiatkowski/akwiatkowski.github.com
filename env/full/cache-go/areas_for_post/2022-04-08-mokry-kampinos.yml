@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 5480.27
+  total_distance_km: 5.48
+  points_count: 85
+  towns:
+    - slug: izabelin
+      name: Izabelin
+      code: "1432022"
+      distance_meters: 4248.65
+      distance_km: 4.249
+      distance_percent: 77.5263
+    - slug: stare_babice
+      name: Stare Babice
+      code: "1432072"
+      distance_meters: 1231.62
+      distance_km: 1.232
+      distance_percent: 22.4737
+  counties:
+    - slug: warszawski_zachodni
+      name: warszawski zachodni
+      code: "1432"
+      distance_meters: 5480.27
+      distance_km: 5.48
+      distance_percent: 100
+  voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+      distance_meters: 5480.27
+      distance_km: 5.48
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+      distance_meters: 5480.27
+      distance_km: 5.48
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"
+      distance_meters: 5480.27
+      distance_km: 5.48
+      distance_percent: 100
+  touched_towns:
+    - slug: izabelin
+      name: Izabelin
+      code: "1432022"
+    - slug: stare_babice
+      name: Stare Babice
+      code: "1432072"
+  touched_counties:
+    - slug: warszawski_zachodni
+      name: warszawski zachodni
+      code: "1432"
+  touched_voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+  touched_meso_regions:
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+  touched_macro_regions:
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"

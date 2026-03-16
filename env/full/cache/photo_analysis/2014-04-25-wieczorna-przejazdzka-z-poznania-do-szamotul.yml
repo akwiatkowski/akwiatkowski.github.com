@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP5478raw1.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  ahash: ffffff0000000000
+  dhash: 4000c0f49e828bf8
+  phash: c1d7cb683d07c4e1
+  avg_rgb:
+  - 117
+  - 138
+  - 106
+  top5_rgb:
+  - - 75
+    - 112
+    - 35
+  - - 81
+    - 121
+    - 41
+  - - 50
+    - 78
+    - 19
+  - - 69
+    - 101
+    - 27
+  - - 61
+    - 92
+    - 27
+- image_filename: IMGP5484raw1.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  ahash: ffffffffff000000
+  dhash: f4c0e03b2090d1e8
+  phash: d1bc07f58e699485
+  avg_rgb:
+  - 139
+  - 151
+  - 124
+  top5_rgb:
+  - - 204
+    - 192
+    - 34
+  - - 153
+    - 150
+    - 35
+  - - 166
+    - 187
+    - 221
+  - - 63
+    - 79
+    - 27
+  - - 187
+    - 205
+    - 246
+- image_filename: IMGP5486raw1.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  ahash: fffefefc10000000
+  dhash: 0430686072d16060
+  phash: dede23294dd6b280
+  avg_rgb:
+  - 94
+  - 97
+  - 93
+  top5_rgb:
+  - - 61
+    - 56
+    - 53
+  - - 32
+    - 45
+    - 24
+  - - 57
+    - 53
+    - 51
+  - - 192
+    - 190
+    - 190
+  - - 204
+    - 190
+    - 179
+- image_filename: header.jpg
+  post_slug: 2014-04-25-wieczorna-przejazdzka-z-poznania-do-szamotul
+  ahash: fcfc8c8c04000000
+  dhash: f0393839acbcf8fc
+  phash: dbdbcd04020f6d35
+  avg_rgb:
+  - 103
+  - 109
+  - 102
+  top5_rgb:
+  - - 73
+    - 78
+    - 97
+  - - 64
+    - 90
+    - 37
+  - - 76
+    - 82
+    - 100
+  - - 91
+    - 94
+    - 87
+  - - 245
+    - 227
+    - 216

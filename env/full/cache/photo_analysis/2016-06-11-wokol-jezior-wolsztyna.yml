@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP1404raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  ahash: 7fff7d040c0000ff
+  dhash: fe7981dcd8da43e1
+  phash: 91bfaf15957280ca
+  avg_rgb:
+  - 114
+  - 138
+  - 148
+  top5_rgb:
+  - - 78
+    - 172
+    - 252
+  - - 35
+    - 154
+    - 247
+  - - 137
+    - 205
+    - 254
+  - - 88
+    - 179
+    - 253
+  - - 200
+    - 176
+    - 147
+- image_filename: IMGP1407raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  ahash: fecec2f2e0202100
+  dhash: 3c08121682c3ad8c
+  phash: f59592c2d19c1de1
+  avg_rgb:
+  - 79
+  - 126
+  - 142
+  top5_rgb:
+  - - 116
+    - 136
+    - 15
+  - - 73
+    - 90
+    - 26
+  - - 87
+    - 98
+    - 114
+  - - 105
+    - 132
+    - 9
+  - - 2
+    - 102
+    - 204
+- image_filename: IMGP1413raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  ahash: f8fffffff8000000
+  dhash: 406202801218ab8e
+  phash: cdcd4e4b41d2f1e0
+  avg_rgb:
+  - 91
+  - 114
+  - 110
+  top5_rgb:
+  - - 45
+    - 56
+    - 21
+  - - 173
+    - 148
+    - 62
+  - - 157
+    - 137
+    - 48
+  - - 129
+    - 163
+    - 206
+  - - 57
+    - 67
+    - 26
+- image_filename: header.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  ahash: 1b9b5dffff000000
+  dhash: 33339bd2fc922575
+  phash: 9dbd6e4f85475110
+  avg_rgb:
+  - 82
+  - 117
+  - 133
+  top5_rgb:
+  - - 3
+    - 64
+    - 139
+  - - 76
+    - 99
+    - 38
+  - - 141
+    - 167
+    - 211
+  - - 94
+    - 145
+    - 206
+  - - 42
+    - 57
+    - 22

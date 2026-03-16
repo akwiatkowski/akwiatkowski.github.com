@@ -1,0 +1,204 @@
+---
+- type: bicycle
+  total_distance_meters: 73424.63
+  total_distance_km: 73.425
+  points_count: 203
+  towns:
+    - slug: galewice
+      name: Galewice
+      code: "1018032"
+      distance_meters: 15091.18
+      distance_km: 15.091
+      distance_percent: 20.5533
+    - slug: klonowa
+      name: Klonowa
+      code: "1014072"
+      distance_meters: 12818.9
+      distance_km: 12.819
+      distance_percent: 17.4586
+    - slug: doruchow
+      name: Doruchów
+      code: "3018022"
+      distance_meters: 12711.83
+      distance_km: 12.712
+      distance_percent: 17.3128
+    - slug: brzeznio
+      name: Brzeźnio
+      code: "1014042"
+      distance_meters: 11656.58
+      distance_km: 11.657
+      distance_percent: 15.8756
+    - slug: sieradz
+      name: Sieradz
+      code: "1014082"
+      distance_meters: 5514.58
+      distance_km: 5.515
+      distance_percent: 7.5105
+    - slug: braszewice
+      name: Brąszewice
+      code: "1014032"
+      distance_meters: 5498.1
+      distance_km: 5.498
+      distance_percent: 7.4881
+    - slug: ostrzeszow
+      name: Ostrzeszów
+      code: "3018073"
+      distance_meters: 4143.73
+      distance_km: 4.144
+      distance_percent: 5.6435
+    - slug: wieruszow
+      name: Wieruszów
+      code: "1018073"
+      distance_meters: 3374.97
+      distance_km: 3.375
+      distance_percent: 4.5965
+    - slug: sieradz
+      name: Sieradz
+      code: "1014011"
+      distance_meters: 2579.63
+      distance_km: 2.58
+      distance_percent: 3.5133
+    - slug: kepno
+      name: Kępno
+      code: "3008033"
+      distance_meters: 35.13
+      distance_km: 0.035
+      distance_percent: 0.0478
+  counties:
+    - slug: sieradzki
+      name: sieradzki
+      code: "1014"
+      distance_meters: 38067.78
+      distance_km: 38.068
+      distance_percent: 51.8461
+    - slug: wieruszowski
+      name: wieruszowski
+      code: "1018"
+      distance_meters: 18466.15
+      distance_km: 18.466
+      distance_percent: 25.1498
+    - slug: ostrzeszowski
+      name: ostrzeszowski
+      code: "3018"
+      distance_meters: 16855.56
+      distance_km: 16.856
+      distance_percent: 22.9563
+    - slug: kepinski
+      name: kępiński
+      code: "3008"
+      distance_meters: 35.13
+      distance_km: 0.035
+      distance_percent: 0.0478
+  voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+      distance_meters: 56533.94
+      distance_km: 56.534
+      distance_percent: 76.9959
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 16890.7
+      distance_km: 16.891
+      distance_percent: 23.0041
+  meso_regions:
+    - slug: wysoczyzna_zloczewska
+      name: Wysoczyzna Złoczewska
+      code: "318.22"
+      distance_meters: 31653.91
+      distance_km: 31.654
+      distance_percent: 43.1108
+    - slug: kotlina_grabowska
+      name: Kotlina Grabowska
+      code: "318.21"
+      distance_meters: 23385.48
+      distance_km: 23.385
+      distance_percent: 31.8496
+    - slug: wysoczyzna_wieruszowska
+      name: Wysoczyzna Wieruszowska
+      code: "318.24"
+      distance_meters: 14295.1
+      distance_km: 14.295
+      distance_percent: 19.4691
+    - slug: wzgorza_ostrzeszowskie
+      name: Wzgórza Ostrzeszowskie
+      code: "318.46"
+      distance_meters: 4090.14
+      distance_km: 4.09
+      distance_percent: 5.5705
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 69334.49
+      distance_km: 69.334
+      distance_percent: 94.4295
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 4090.14
+      distance_km: 4.09
+      distance_percent: 5.5705
+  touched_towns:
+    - slug: braszewice
+      name: Brąszewice
+      code: "1014032"
+    - slug: brzeznio
+      name: Brzeźnio
+      code: "1014042"
+    - slug: doruchow
+      name: Doruchów
+      code: "3018022"
+    - slug: galewice
+      name: Galewice
+      code: "1018032"
+    - slug: klonowa
+      name: Klonowa
+      code: "1014072"
+    - slug: ostrzeszow
+      name: Ostrzeszów
+      code: "3018073"
+    - slug: sieradz
+      name: Sieradz
+      code: "1014082"
+    - slug: wieruszow
+      name: Wieruszów
+      code: "1018073"
+  touched_counties:
+    - slug: ostrzeszowski
+      name: ostrzeszowski
+      code: "3018"
+    - slug: sieradzki
+      name: sieradzki
+      code: "1014"
+    - slug: wieruszowski
+      name: wieruszowski
+      code: "1018"
+  touched_voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_grabowska
+      name: Kotlina Grabowska
+      code: "318.21"
+    - slug: wysoczyzna_wieruszowska
+      name: Wysoczyzna Wieruszowska
+      code: "318.24"
+    - slug: wysoczyzna_zloczewska
+      name: Wysoczyzna Złoczewska
+      code: "318.22"
+    - slug: wzgorza_ostrzeszowskie
+      name: Wzgórza Ostrzeszowskie
+      code: "318.46"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"

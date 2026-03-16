@@ -1,0 +1,979 @@
+---
+- image_filename: 2023_11_11__13_52_DSC09256.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48652777777778
+  lon: 17.155347222222222
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T13:52:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__13_53_DSC09271.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48652777777778
+  lon: 17.155347222222222
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T13:53:03+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_31_DJI_0354.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.4858066
+  lon: 17.154961683333333
+  altitude: 281.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:31:31+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_32_DJI_0357.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48509318333333
+  lon: 17.158879233333334
+  altitude: 308.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:32:36+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_33_DJI_0360.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48601693333333
+  lon: 17.16149665
+  altitude: 308.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:33:18+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_34_DJI_0364.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48821735
+  lon: 17.163199016666667
+  altitude: 309
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:34:21+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_34_DJI_0365.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.488216433333335
+  lon: 17.163199683333332
+  altitude: 308.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 110
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:34:28+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_36_DJI_0369.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48977971666667
+  lon: 17.155433833333333
+  altitude: 305.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 160
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:36:17+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_37_DJI_0371.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48499833333333
+  lon: 17.154298883333333
+  altitude: 305.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:37:38+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_45_DJI_0386.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.4822408
+  lon: 17.1594748
+  altitude: 323
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:45:27+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_45_DJI_0388.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.4822413
+  lon: 17.159472983333334
+  altitude: 322.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 140
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:45:44+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_46_DJI_0391.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.482243966666665
+  lon: 17.159473566666666
+  altitude: 313.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:46:07+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_46_DJI_0392.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48224155
+  lon: 17.159476766666668
+  altitude: 313.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:46:14+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_46_DJI_0394.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.48293963333333
+  lon: 17.157738766666668
+  altitude: 313.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:46:56+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_50_DSC09318.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.485625
+  lon: 17.15498611111111
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T14:50:09+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_52_DJI_0407.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49561138333333
+  lon: 17.161251433333334
+  altitude: 313.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 130
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:52:01+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_52_DSC09335.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.485625
+  lon: 17.15497222222222
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5915
+  height: 3832
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T14:52:06+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_53_DJI_0411.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49291655
+  lon: 17.158409483333333
+  altitude: 276.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T14:53:30+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_54_DSC09341.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.485625
+  lon: 17.15497222222222
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5642
+  height: 3481
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T14:54:22+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__14_56_DSC09351.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.485625
+  lon: 17.15497222222222
+  altitude: 95
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-11-11T14:56:11+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_18_DJI_0431.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.4976178
+  lon: 17.155013216666667
+  altitude: 315.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 130
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:18:41+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_18_DJI_0432.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49761715
+  lon: 17.155013183333335
+  altitude: 315.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 120
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:18:50+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_19_DJI_0435.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49698121666667
+  lon: 17.153234733333335
+  altitude: 314.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 140
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:19:38+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_19_DJI_0436.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49698135
+  lon: 17.15323355
+  altitude: 314.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:19:47+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_19_DJI_0437.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49698121666667
+  lon: 17.153232316666667
+  altitude: 314.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:19:54+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_20_DJI_0438.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.4969816
+  lon: 17.15323115
+  altitude: 314.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.011111111111111112
+  exposure_string: 1/90 s
+  iso: 100
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:20:05+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_20_DJI_0441.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49627493333333
+  lon: 17.15438885
+  altitude: 311.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 140
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:20:49+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_21_DJI_0444.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.496275583333336
+  lon: 17.154387516666667
+  altitude: 310.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 130
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:21:11+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_22_DJI_0450.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49395418333334
+  lon: 17.155226266666666
+  altitude: 305.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 150
+  width: 7414
+  height: 5267
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:22:42+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_11_11__15_26_DJI_0461.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  lat: 52.49583618333333
+  lon: 17.159067933333333
+  altitude: 304
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 110
+  width: 7987
+  height: 5946
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-11-11T15:26:14+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

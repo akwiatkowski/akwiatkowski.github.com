@@ -1,0 +1,23 @@
+---
+- image_filename: header.jpg
+  post_slug: 2017-07-06-popoludniowa-ucieczka-do-szamotul
+  lat: 52.51239775
+  lon: 16.69586372222222
+  altitude: 79
+  focal_length: 3.5
+  aperture: 2.2
+  exposure: 0.000481
+  exposure_string: 1/2079 s
+  iso: 116
+  width: 4160
+  height: 2773
+  camera: Redmi Note 3
+  camera_name: Redmi Note 3
+  time: "2017-07-06T17:37:48+00:00"
+  make: Xiaomi
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.1
+  exposure_bias: 0

@@ -1,0 +1,880 @@
+---
+- image_filename: 06_40_PA060001.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 1.7
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T06:40:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+- image_filename: 09_13_PA060009.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:13:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+- image_filename: 09_14_PA060011.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:14:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+- image_filename: 09_33_PA060014.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.465986111111114
+  lon: 17.954069444444443
+  altitude: 193
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:33:01+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 09_33_PA060016.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.466875
+  lon: 17.954569444444445
+  altitude: 194
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:33:14+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 09_44_PA060021.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.50225
+  lon: 17.964
+  altitude: 194
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:44:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 09_51_PA060024.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.52079166666667
+  lon: 17.96723611111111
+  altitude: 214
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T09:51:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_00_PA060028.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.53172222222222
+  lon: 17.972583333333333
+  altitude: 202
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:00:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_01_PA060029.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.531777777777776
+  lon: 17.97244444444444
+  altitude: 202
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:01:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_01_PA060032.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.53176388888889
+  lon: 17.972430555555555
+  altitude: 202
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:01:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_09_PA060034.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.54094444444444
+  lon: 17.970291666666665
+  altitude: 228
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:09:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_09_PA060037.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.54273611111111
+  lon: 17.971124999999997
+  altitude: 226
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:09:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_13_PA060046.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.54738888888889
+  lon: 17.970555555555553
+  altitude: 229
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:13:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 10_17_PA060064.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.548208333333335
+  lon: 17.971666666666664
+  altitude: 231
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T10:17:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 12_15_PA060067.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.66772222222222
+  lon: 17.82961111111111
+  altitude: 148
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T12:15:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 12_18_PA060070.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.667541666666665
+  lon: 17.82675
+  altitude: 149
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T12:18:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 12_21_PA060076.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.66668055555555
+  lon: 17.81951388888889
+  altitude: 150
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T12:21:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 13_03_PA060087.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.726875
+  lon: 17.72397222222222
+  altitude: 169
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T13:03:52+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 13_29_PA060094.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T13:29:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+- image_filename: 13_31_PA060095.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T13:31:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+- image_filename: 14_00_PA060101.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.86536111111111
+  lon: 17.671430555555556
+  altitude: 167
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T14:00:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 14_09_PA060103.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.874069444444444
+  lon: 17.662027777777777
+  altitude: 164
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T14:09:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 15_04_PA060107.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.94222222222222
+  lon: 17.62801388888889
+  altitude: 161
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T15:04:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 15_12_PA060111.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.95384722222222
+  lon: 17.59998611111111
+  altitude: 162
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T15:12:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 15_16_PA060116.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 51.95783333333333
+  lon: 17.592041666666667
+  altitude: 161
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T15:16:40+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 16_02_PA060121.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 52.00095833333334
+  lon: 17.459069444444445
+  altitude: 154
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 2.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T16:02:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 16_02_PA060124.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 52.001
+  lon: 17.458263888888887
+  altitude: 154
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T16:02:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 16_04_PA060127.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 52.001194444444444
+  lon: 17.456208333333333
+  altitude: 154
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T16:04:35+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 16_08_PA060131.jpg
+  post_slug: 2018-10-06-zakonczenie-sezonu-rowerowego-w-2018
+  lat: 52.00648611111111
+  lon: 17.44326388888889
+  altitude: 139
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-10-06T16:08:37+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84

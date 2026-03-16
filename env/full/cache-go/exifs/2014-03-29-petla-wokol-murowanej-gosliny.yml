@@ -1,0 +1,24 @@
+---
+- image_filename: header.jpg
+  post_slug: 2014-03-29-petla-wokol-murowanej-gosliny
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 2048
+  height: 1356
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-06-17T20:14:22+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: K-5 Ver 1.01
+  exposure_program: program
+  exposure_bias: 0

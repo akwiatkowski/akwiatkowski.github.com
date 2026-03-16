@@ -1,0 +1,201 @@
+---
+- image_filename: IMGP5553raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.404570663330766
+  lon: 16.955233253501707
+  altitude: 57.82
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T09:39:45+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP5566raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.261642115203024
+  lon: 17.010670155300474
+  altitude: 85.21
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T12:00:57+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP5593raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.216438678999616
+  lon: 16.981307929421767
+  altitude: 66.47
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T14:38:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP5607raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.235351689198886
+  lon: 16.917685344800066
+  altitude: 62.62
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T15:10:07+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP5656raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.24480915803263
+  lon: 16.901836339395768
+  altitude: 59.26
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T15:40:09+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP5677raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.30462954381629
+  lon: 16.893066186556926
+  altitude: 57.34
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T16:45:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP5682raw1.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.30996303258145
+  lon: 16.89832272936837
+  altitude: 58.78
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T16:52:23+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-05-01-przejazdzka-do-kornika
+  lat: 52.24480915803263
+  lon: 16.901836339395768
+  altitude: 59.26
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-01T15:40:09+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

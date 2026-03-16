@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 76001.69
+  total_distance_km: 76.002
+  points_count: 500
+  towns:
+    - slug: rewal
+      name: Rewal
+      code: "3205072"
+      distance_meters: 22281.39
+      distance_km: 22.281
+      distance_percent: 29.317
+    - slug: trzebiatow
+      name: Trzebiatów
+      code: "3205083"
+      distance_meters: 16899.62
+      distance_km: 16.9
+      distance_percent: 22.2358
+    - slug: kolobrzeg
+      name: Kołobrzeg
+      code: "3208011"
+      distance_meters: 13778.77
+      distance_km: 13.779
+      distance_percent: 18.1296
+    - slug: kolobrzeg
+      name: Kołobrzeg
+      code: "3208042"
+      distance_meters: 8464.45
+      distance_km: 8.464
+      distance_percent: 11.1372
+    - slug: dziwnow
+      name: Dziwnów
+      code: "3207013"
+      distance_meters: 8252.79
+      distance_km: 8.253
+      distance_percent: 10.8587
+    - slug: ustronie_morskie
+      name: Ustronie Morskie
+      code: "3208072"
+      distance_meters: 4800.65
+      distance_km: 4.801
+      distance_percent: 6.3165
+  counties:
+    - slug: gryficki
+      name: gryficki
+      code: "3205"
+      distance_meters: 39181
+      distance_km: 39.181
+      distance_percent: 51.5528
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+      distance_meters: 27043.87
+      distance_km: 27.044
+      distance_percent: 35.5832
+    - slug: kamienski
+      name: kamieński
+      code: "3207"
+      distance_meters: 8252.79
+      distance_km: 8.253
+      distance_percent: 10.8587
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 74477.67
+      distance_km: 74.478
+      distance_percent: 97.9948
+  meso_regions:
+    - slug: wybrzeze_trzebiatowskie
+      name: Wybrzeże Trzebiatowskie
+      code: "313.22"
+      distance_meters: 61916.94
+      distance_km: 61.917
+      distance_percent: 81.4678
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+      distance_meters: 14084.75
+      distance_km: 14.085
+      distance_percent: 18.5322
+  macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+      distance_meters: 61916.94
+      distance_km: 61.917
+      distance_percent: 81.4678
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 14084.75
+      distance_km: 14.085
+      distance_percent: 18.5322
+  touched_towns:
+    - slug: dziwnow
+      name: Dziwnów
+      code: "3207013"
+    - slug: kolobrzeg
+      name: Kołobrzeg
+      code: "3208042"
+    - slug: rewal
+      name: Rewal
+      code: "3205072"
+    - slug: trzebiatow
+      name: Trzebiatów
+      code: "3205083"
+    - slug: ustronie_morskie
+      name: Ustronie Morskie
+      code: "3208072"
+  touched_counties:
+    - slug: gryficki
+      name: gryficki
+      code: "3205"
+    - slug: kamienski
+      name: kamieński
+      code: "3207"
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+    - slug: wybrzeze_trzebiatowskie
+      name: Wybrzeże Trzebiatowskie
+      code: "313.22"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"

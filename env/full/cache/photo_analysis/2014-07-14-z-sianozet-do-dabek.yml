@@ -1,0 +1,126 @@
+---
+- image_filename: IMGP8114raw1.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  ahash: ff7f3f01000080f0
+  dhash: 80f071c3ee680380
+  phash: c280d0b4e07a5ffd
+  avg_rgb:
+  - 106
+  - 112
+  - 121
+  top5_rgb:
+  - - 118
+    - 149
+    - 177
+  - - 181
+    - 211
+    - 246
+  - - 131
+    - 180
+    - 231
+  - - 76
+    - 64
+    - 55
+  - - 97
+    - 89
+    - 85
+- image_filename: IMGP8156raw1.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  ahash: 1f1f1f1b10000000
+  dhash: bcfbf3f664e5f0f0
+  phash: 9d99b356564c8d89
+  avg_rgb:
+  - 101
+  - 106
+  - 68
+  top5_rgb:
+  - - 89
+    - 112
+    - 6
+  - - 89
+    - 100
+    - 62
+  - - 210
+    - 215
+    - 230
+  - - 136
+    - 123
+    - 102
+  - - 130
+    - 112
+    - 89
+- image_filename: IMGP8177raw1.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  ahash: f8f87efffc080000
+  dhash: c0c0e0e0e0d0e0e0
+  phash: c5c12b539686393f
+  avg_rgb:
+  - 131
+  - 120
+  - 122
+  top5_rgb:
+  - - 102
+    - 85
+    - 84
+  - - 128
+    - 118
+    - 119
+  - - 131
+    - 131
+    - 156
+  - - 198
+    - 137
+    - 100
+  - - 135
+    - 142
+    - 172
+- image_filename: IMGP8190raw1.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  ahash: fefffeff30000000
+  dhash: e0e024e0c0a0b0e0
+  phash: c4c719192b984f3f
+  avg_rgb:
+  - 170
+  - 106
+  - 49
+  top5_rgb:
+  - - 255
+    - 152
+    - 3
+  - - 93
+    - 74
+    - 55
+  - - 184
+    - 109
+    - 74
+  - - 86
+    - 68
+    - 51
+  - - 255
+    - 163
+    - 1
+- image_filename: header.jpg
+  post_slug: 2014-07-14-z-sianozet-do-dabek
+  ahash: fefc7f3e38000000
+  dhash: e060f8e8f0e0e1d2
+  phash: c8cc6c6f279391d1
+  avg_rgb:
+  - 99
+  - 113
+  - 120
+  top5_rgb:
+  - - 198
+    - 215
+    - 219
+  - - 72
+    - 83
+    - 96
+  - - 46
+    - 47
+    - 50
+  - - 41
+    - 93
+    - 130
+  - - 62
+    - 80
+    - 97

@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP4253raw1.jpg
+  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
+  ahash: 3f3f3e0000000000
+  dhash: e0ecd0d0ece6d5da
+  phash: 878787a67c794983
+  avg_rgb:
+  - 105
+  - 115
+  - 101
+  top5_rgb:
+  - - 113
+    - 106
+    - 99
+  - - 32
+    - 43
+    - 30
+  - - 207
+    - 223
+    - 240
+  - - 80
+    - 100
+    - 42
+  - - 44
+    - 54
+    - 42
+- image_filename: header.jpg
+  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
+  ahash: 1e1e0e0e0e070f3f
+  dhash: f0b8d8f8bcbc7bee
+  phash: 9298cd6cc50b659f
+  avg_rgb:
+  - 95
+  - 113
+  - 75
+  top5_rgb:
+  - - 131
+    - 128
+    - 122
+  - - 129
+    - 161
+    - 54
+  - - 157
+    - 182
+    - 75
+  - - 195
+    - 218
+    - 249
+  - - 66
+    - 87
+    - 38

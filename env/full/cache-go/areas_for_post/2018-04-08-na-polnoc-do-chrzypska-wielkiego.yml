@@ -1,0 +1,159 @@
+---
+- type: bicycle
+  total_distance_meters: 62241.56
+  total_distance_km: 62.242
+  points_count: 247
+  towns:
+    - slug: chrzypsko_wielkie
+      name: Chrzypsko Wielkie
+      code: "3014012"
+      distance_meters: 17567.38
+      distance_km: 17.567
+      distance_percent: 28.2245
+    - slug: pniewy
+      name: Pniewy
+      code: "3024063"
+      distance_meters: 12625.32
+      distance_km: 12.625
+      distance_percent: 20.2844
+    - slug: wronki
+      name: Wronki
+      code: "3024083"
+      distance_meters: 11311.57
+      distance_km: 11.312
+      distance_percent: 18.1737
+    - slug: kuslin
+      name: Kuślin
+      code: "3015012"
+      distance_meters: 9339.36
+      distance_km: 9.339
+      distance_percent: 15.005
+    - slug: nowy_tomysl
+      name: Nowy Tomyśl
+      code: "3015043"
+      distance_meters: 6073.7
+      distance_km: 6.074
+      distance_percent: 9.7583
+    - slug: lwowek
+      name: Lwówek
+      code: "3015023"
+      distance_meters: 5324.22
+      distance_km: 5.324
+      distance_percent: 8.5541
+  counties:
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+      distance_meters: 23936.9
+      distance_km: 23.937
+      distance_percent: 38.4581
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 20737.28
+      distance_km: 20.737
+      distance_percent: 33.3174
+    - slug: miedzychodzki
+      name: międzychodzki
+      code: "3014"
+      distance_meters: 17567.38
+      distance_km: 17.567
+      distance_percent: 28.2245
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 62241.56
+      distance_km: 62.242
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 36382.79
+      distance_km: 36.383
+      distance_percent: 58.4542
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 22452.7
+      distance_km: 22.453
+      distance_percent: 36.0735
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 2384.64
+      distance_km: 2.385
+      distance_percent: 3.8313
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+      distance_meters: 1021.43
+      distance_km: 1.021
+      distance_percent: 1.6411
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 59856.92
+      distance_km: 59.857
+      distance_percent: 96.1687
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 2384.64
+      distance_km: 2.385
+      distance_percent: 3.8313
+  touched_towns:
+    - slug: chrzypsko_wielkie
+      name: Chrzypsko Wielkie
+      code: "3014012"
+    - slug: kuslin
+      name: Kuślin
+      code: "3015012"
+    - slug: lwowek
+      name: Lwówek
+      code: "3015023"
+    - slug: nowy_tomysl
+      name: Nowy Tomyśl
+      code: "3015043"
+    - slug: pniewy
+      name: Pniewy
+      code: "3024063"
+    - slug: wronki
+      name: Wronki
+      code: "3024083"
+  touched_counties:
+    - slug: miedzychodzki
+      name: międzychodzki
+      code: "3014"
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

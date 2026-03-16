@@ -1,0 +1,114 @@
+---
+- type: bicycle
+  total_distance_meters: 52642.88
+  total_distance_km: 52.643
+  points_count: 710
+  towns:
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+      distance_meters: 28631.3
+      distance_km: 28.631
+      distance_percent: 54.3878
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+      distance_meters: 9115.79
+      distance_km: 9.116
+      distance_percent: 17.3163
+    - slug: karpacz
+      name: Karpacz
+      code: "0206011"
+      distance_meters: 7669.59
+      distance_km: 7.67
+      distance_percent: 14.5691
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+      distance_meters: 4588.42
+      distance_km: 4.588
+      distance_percent: 8.7161
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+      distance_meters: 2637.78
+      distance_km: 2.638
+      distance_percent: 5.0107
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 43527.09
+      distance_km: 43.527
+      distance_percent: 82.6837
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+      distance_meters: 9115.79
+      distance_km: 9.116
+      distance_percent: 17.3163
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 52642.88
+      distance_km: 52.643
+      distance_percent: 100
+  meso_regions:
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+      distance_meters: 34883.65
+      distance_km: 34.884
+      distance_percent: 66.2647
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 17759.23
+      distance_km: 17.759
+      distance_percent: 33.7353
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 52642.88
+      distance_km: 52.643
+      distance_percent: 100
+  touched_towns:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+    - slug: karpacz
+      name: Karpacz
+      code: "0206011"
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+  touched_counties:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

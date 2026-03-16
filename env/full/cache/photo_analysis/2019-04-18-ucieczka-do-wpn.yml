@@ -1,0 +1,326 @@
+---
+- image_filename: 2019_04_18__16_54_P4180001.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 3f3f9f0f1c181800
+  dhash: 7f7f7f1e7477710a
+  phash: 9db3624c33b1ec52
+  avg_rgb:
+  - 99
+  - 105
+  - 120
+  top5_rgb:
+  - - 160
+    - 186
+    - 224
+  - - 74
+    - 73
+    - 81
+  - - 67
+    - 69
+    - 84
+  - - 52
+    - 62
+    - 36
+  - - 68
+    - 59
+    - 56
+- image_filename: 2019_04_18__16_55_P4180002.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 0f1383c3030303d7
+  dhash: 1922069ea6765626
+  phash: a54a5a11da35d765
+  avg_rgb:
+  - 127
+  - 128
+  - 132
+  top5_rgb:
+  - - 99
+    - 104
+    - 61
+  - - 116
+    - 109
+    - 104
+  - - 101
+    - 97
+    - 102
+  - - 110
+    - 123
+    - 164
+  - - 131
+    - 157
+    - 216
+- image_filename: 2019_04_18__17_02_P4180004.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: ffffffff04000000
+  dhash: fefffedddce7a37b
+  phash: 96b52d4413db4d35
+  avg_rgb:
+  - 119
+  - 123
+  - 131
+  top5_rgb:
+  - - 94
+    - 91
+    - 58
+  - - 71
+    - 71
+    - 76
+  - - 77
+    - 76
+    - 82
+  - - 95
+    - 91
+    - 90
+  - - 121
+    - 116
+    - 96
+- image_filename: 2019_04_18__17_07_P4180006.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: fffff00e0c000000
+  dhash: 80a8c3dcf8c14f76
+  phash: c2c0ff9c9c63614b
+  avg_rgb:
+  - 118
+  - 116
+  - 111
+  top5_rgb:
+  - - 225
+    - 230
+    - 235
+  - - 92
+    - 79
+    - 60
+  - - 85
+    - 74
+    - 64
+  - - 91
+    - 80
+    - 69
+  - - 100
+    - 99
+    - 98
+- image_filename: 2019_04_18__17_34_P4180007.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 80c0e8f8e1e888fe
+  dhash: 01010a0b0b1b5984
+  phash: fb24047ba41ff423
+  avg_rgb:
+  - 106
+  - 115
+  - 135
+  top5_rgb:
+  - - 145
+    - 139
+    - 123
+  - - 141
+    - 165
+    - 206
+  - - 77
+    - 99
+    - 148
+  - - 102
+    - 102
+    - 63
+  - - 162
+    - 154
+    - 136
+- image_filename: 2019_04_18__17_41_P4180009.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: fefefefcd0000000
+  dhash: 3dac8c85a5a5b979
+  phash: d2f61b18c8d31f1a
+  avg_rgb:
+  - 91
+  - 90
+  - 85
+  top5_rgb:
+  - - 51
+    - 50
+    - 45
+  - - 72
+    - 65
+    - 59
+  - - 94
+    - 91
+    - 91
+  - - 43
+    - 40
+    - 42
+  - - 125
+    - 122
+    - 69
+- image_filename: 2019_04_18__17_45_P4180011.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 80a1b5f9000c1878
+  dhash: 29296d63613933e2
+  phash: ea2a5511cce9b617
+  avg_rgb:
+  - 101
+  - 104
+  - 98
+  top5_rgb:
+  - - 74
+    - 75
+    - 72
+  - - 88
+    - 86
+    - 69
+  - - 165
+    - 148
+    - 121
+  - - 103
+    - 123
+    - 169
+  - - 100
+    - 97
+    - 56
+- image_filename: 2019_04_18__17_45_P4180012.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 8789c34303038f0f
+  dhash: 3f1b179fbb9f1a1c
+  phash: baee97449067c435
+  avg_rgb:
+  - 133
+  - 132
+  - 111
+  top5_rgb:
+  - - 131
+    - 123
+    - 76
+  - - 215
+    - 235
+    - 247
+  - - 231
+    - 217
+    - 177
+  - - 151
+    - 138
+    - 116
+  - - 171
+    - 159
+    - 102
+- image_filename: 2019_04_18__18_05_P4180013.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: fefefcfc08001000
+  dhash: 000000f07830e5cc
+  phash: d9d5a43909c6f11b
+  avg_rgb:
+  - 116
+  - 118
+  - 113
+  top5_rgb:
+  - - 58
+    - 54
+    - 34
+  - - 58
+    - 60
+    - 64
+  - - 183
+    - 194
+    - 208
+  - - 75
+    - 68
+    - 55
+  - - 111
+    - 123
+    - 149
+- image_filename: 2019_04_18__18_15_P4180014.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: f7f7f7f9f0c00000
+  dhash: 8fefa7d1431c1939
+  phash: eaaaa475893a78c9
+  avg_rgb:
+  - 103
+  - 102
+  - 89
+  top5_rgb:
+  - - 141
+    - 147
+    - 171
+  - - 125
+    - 115
+    - 68
+  - - 145
+    - 169
+    - 209
+  - - 73
+    - 74
+    - 74
+  - - 121
+    - 117
+    - 112
+- image_filename: 2019_04_18__18_20_P4180018.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 7dfffd8d07060008
+  dhash: d2c9193d1d7cfa79
+  phash: 9bcbc104ca5d1dcd
+  avg_rgb:
+  - 110
+  - 109
+  - 103
+  top5_rgb:
+  - - 94
+    - 90
+    - 88
+  - - 82
+    - 80
+    - 74
+  - - 160
+    - 162
+    - 181
+  - - 74
+    - 79
+    - 45
+  - - 75
+    - 72
+    - 73
+- image_filename: 2019_04_18__18_21_P4180020.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: 0080c1ffffe0ff07
+  dhash: 070f070f0604ff7f
+  phash: fe7b0044e98856f9
+  avg_rgb:
+  - 90
+  - 97
+  - 109
+  top5_rgb:
+  - - 151
+    - 127
+    - 90
+  - - 89
+    - 77
+    - 67
+  - - 120
+    - 140
+    - 175
+  - - 38
+    - 65
+    - 114
+  - - 102
+    - 118
+    - 146
+- image_filename: 2019_04_18__18_37_P4180022.jpg
+  post_slug: 2019-04-18-ucieczka-do-wpn
+  ahash: feffee0e0c000000
+  dhash: f8da587cd8d873f3
+  phash: 91d1c95b9a1e5a1b
+  avg_rgb:
+  - 85
+  - 86
+  - 86
+  top5_rgb:
+  - - 85
+    - 89
+    - 98
+  - - 62
+    - 63
+    - 65
+  - - 78
+    - 82
+    - 85
+  - - 56
+    - 59
+    - 60
+  - - 53
+    - 54
+    - 55

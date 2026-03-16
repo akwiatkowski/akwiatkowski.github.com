@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 4959.48
+  total_distance_km: 4.959
+  points_count: 85
+  towns:
+    - slug: bukowsko
+      name: Bukowsko
+      code: "1817032"
+      distance_meters: 4959.48
+      distance_km: 4.959
+      distance_percent: 100
+  counties:
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+      distance_meters: 4959.48
+      distance_km: 4.959
+      distance_percent: 100
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 4959.48
+      distance_km: 4.959
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 4959.48
+      distance_km: 4.959
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 4959.48
+      distance_km: 4.959
+      distance_percent: 100
+  touched_towns:
+    - slug: bukowsko
+      name: Bukowsko
+      code: "1817032"
+  touched_counties:
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

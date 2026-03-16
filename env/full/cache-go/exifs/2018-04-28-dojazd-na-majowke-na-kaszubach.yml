@@ -1,0 +1,468 @@
+---
+- image_filename: IMGP7949raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.52038888888889
+  lon: 18.11152777777778
+  altitude: 97
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T13:26:57+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7955raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.59977777777778
+  lon: 17.906222222222222
+  altitude: 106
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:14:08+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7959raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.61265277777778
+  lon: 17.951430555555554
+  altitude: 95
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:25:55+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7962raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.63823611111111
+  lon: 17.95197222222222
+  altitude: 113
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:39:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7963raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.57925
+  lon: 18.020166666666665
+  altitude: 102
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5246
+  height: 3500
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:39:39+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7966raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.640347222222225
+  lon: 17.95276388888889
+  altitude: 107
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5314
+  height: 3545
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:40:05+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7972raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.65348611111111
+  lon: 17.962791666666664
+  altitude: 115
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:49:37+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7974raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.67041666666666
+  lon: 17.971319444444443
+  altitude: 119
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T14:57:43+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7977raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68270833333333
+  lon: 17.976041666666664
+  altitude: 111
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:09:54+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7980raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68273611111111
+  lon: 17.976041666666664
+  altitude: 111
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:11:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7981raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68273611111111
+  lon: 17.976041666666664
+  altitude: 111
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:11:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7985raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68270833333333
+  lon: 17.975916666666667
+  altitude: 111
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:19:12+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7990raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68272222222222
+  lon: 17.975930555555554
+  altitude: 111
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:20:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7997raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.700125
+  lon: 17.997069444444445
+  altitude: 119
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:39:08+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7999raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.70097222222223
+  lon: 17.997541666666667
+  altitude: 120
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:39:34+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP8001raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.725500000000004
+  lon: 18.016347222222223
+  altitude: 128
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T15:55:47+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP8004raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.74594444444445
+  lon: 18.023402777777775
+  altitude: 136
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T16:10:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP8005raw1.jpg
+  post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.68271418539326
+  lon: 17.976011224694325
+  altitude: 110.69
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 640
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-04-28T16:14:06+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7

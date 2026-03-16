@@ -1,0 +1,78 @@
+---
+- type: bicycle
+  total_distance_meters: 21565.05
+  total_distance_km: 21.565
+  points_count: 148
+  towns:
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 12121.2
+      distance_km: 12.121
+      distance_percent: 56.2076
+    - slug: swarzedz
+      name: Swarzędz
+      code: "3021163"
+      distance_meters: 9443.84
+      distance_km: 9.444
+      distance_percent: 43.7924
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 21565.05
+      distance_km: 21.565
+      distance_percent: 100
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 21565.05
+      distance_km: 21.565
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 11672.15
+      distance_km: 11.672
+      distance_percent: 54.1253
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 9892.9
+      distance_km: 9.893
+      distance_percent: 45.8747
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 21565.05
+      distance_km: 21.565
+      distance_percent: 100
+  touched_towns:
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+    - slug: swarzedz
+      name: Swarzędz
+      code: "3021163"
+  touched_counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

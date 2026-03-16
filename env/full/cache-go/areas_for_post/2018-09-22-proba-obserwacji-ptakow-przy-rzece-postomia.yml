@@ -1,0 +1,119 @@
+---
+- type: hike
+  total_distance_meters: 4341.59
+  total_distance_km: 4.342
+  points_count: 73
+  towns:
+    - slug: slonsk
+      name: Słońsk
+      code: "0807032"
+      distance_meters: 4341.59
+      distance_km: 4.342
+      distance_percent: 100
+  counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 4341.59
+      distance_km: 4.342
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 4341.59
+      distance_km: 4.342
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 4341.59
+      distance_km: 4.342
+      distance_percent: 100
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 4341.59
+      distance_km: 4.342
+      distance_percent: 100
+  touched_towns:
+    - slug: slonsk
+      name: Słońsk
+      code: "0807032"
+  touched_counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+  touched_macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+- type: hike
+  total_distance_meters: 3318.15
+  total_distance_km: 3.318
+  points_count: 50
+  towns:
+    - slug: slonsk
+      name: Słońsk
+      code: "0807032"
+      distance_meters: 3318.15
+      distance_km: 3.318
+      distance_percent: 100
+  counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 3318.15
+      distance_km: 3.318
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 3318.15
+      distance_km: 3.318
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 3318.15
+      distance_km: 3.318
+      distance_percent: 100
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 3318.15
+      distance_km: 3.318
+      distance_percent: 100
+  touched_towns:
+    - slug: slonsk
+      name: Słońsk
+      code: "0807032"
+  touched_counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+  touched_macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

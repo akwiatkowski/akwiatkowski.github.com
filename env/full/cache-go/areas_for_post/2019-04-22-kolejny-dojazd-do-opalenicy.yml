@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 51656.13
+  total_distance_km: 51.656
+  points_count: 199
+  towns:
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+      distance_meters: 12943.53
+      distance_km: 12.944
+      distance_percent: 25.0571
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+      distance_meters: 10282.51
+      distance_km: 10.283
+      distance_percent: 19.9057
+    - slug: komorniki
+      name: Komorniki
+      code: "3021072"
+      distance_meters: 8853.78
+      distance_km: 8.854
+      distance_percent: 17.1398
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+      distance_meters: 6672.72
+      distance_km: 6.673
+      distance_percent: 12.9176
+    - slug: buk
+      name: Buk
+      code: "3021033"
+      distance_meters: 5245.58
+      distance_km: 5.246
+      distance_percent: 10.1548
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 3869.29
+      distance_km: 3.869
+      distance_percent: 7.4905
+    - slug: lubon
+      name: Luboń
+      code: "3021011"
+      distance_meters: 3788.73
+      distance_km: 3.789
+      distance_percent: 7.3345
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 38712.6
+      distance_km: 38.713
+      distance_percent: 74.9429
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 12943.53
+      distance_km: 12.944
+      distance_percent: 25.0571
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 3869.29
+      distance_km: 3.869
+      distance_percent: 7.4905
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 51656.13
+      distance_km: 51.656
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 46748.36
+      distance_km: 46.748
+      distance_percent: 90.4992
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 4646.94
+      distance_km: 4.647
+      distance_percent: 8.9959
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 260.83
+      distance_km: 0.261
+      distance_percent: 0.5049
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 51656.13
+      distance_km: 51.656
+      distance_percent: 100
+  touched_towns:
+    - slug: buk
+      name: Buk
+      code: "3021033"
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+    - slug: komorniki
+      name: Komorniki
+      code: "3021072"
+    - slug: lubon
+      name: Luboń
+      code: "3021011"
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+  touched_counties:
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

@@ -1,0 +1,183 @@
+---
+- image_filename: IMGP5908raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.12623794190375
+  lon: 16.63683911790255
+  altitude: 70.79
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:03:29+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP5910raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.12172529290271
+  lon: 16.591261010662958
+  altitude: 80.89
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:16:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP5921raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.105408912446016
+  lon: 16.540575726002512
+  altitude: 75.6
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:34:06+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP5923raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.10511152263375
+  lon: 16.538565745609514
+  altitude: 78.48
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:34:54+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP5926raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.10483642845949
+  lon: 16.53767558751082
+  altitude: 80.41
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:35:00+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP5938raw1.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 52.90230860931478
+  lon: 16.297832876294944
+  altitude: 40.99
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T13:54:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-09-10-z-pily-do-krzyza
+  lat: 53.12236349097555
+  lon: 16.575758932221405
+  altitude: 83.77
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-09-10T11:20:36+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

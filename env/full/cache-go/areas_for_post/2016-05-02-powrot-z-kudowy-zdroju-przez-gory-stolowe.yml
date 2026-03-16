@@ -1,0 +1,173 @@
+---
+- type: bicycle
+  total_distance_meters: 5339
+  total_distance_km: 5.339
+  points_count: 44
+  towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 5339
+      distance_km: 5.339
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 5339
+      distance_km: 5.339
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 5339
+      distance_km: 5.339
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 5339
+      distance_km: 5.339
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 5339
+      distance_km: 5.339
+      distance_percent: 100
+  touched_towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+- type: bicycle
+  total_distance_meters: 40818.13
+  total_distance_km: 40.818
+  points_count: 420
+  towns:
+    - slug: szczytna
+      name: Szczytna
+      code: "0208143"
+      distance_meters: 13266.12
+      distance_km: 13.266
+      distance_percent: 32.5005
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 12789.81
+      distance_km: 12.79
+      distance_percent: 31.3336
+    - slug: kudowa-zdroj
+      name: Kudowa-Zdrój
+      code: "0208031"
+      distance_meters: 9929.59
+      distance_km: 9.93
+      distance_percent: 24.3264
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 4195.72
+      distance_km: 4.196
+      distance_percent: 10.2791
+    - slug: lewin_klodzki
+      name: Lewin Kłodzki
+      code: "0208092"
+      distance_meters: 636.9
+      distance_km: 0.637
+      distance_percent: 1.5603
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 40818.13
+      distance_km: 40.818
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 40818.13
+      distance_km: 40.818
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+      distance_meters: 31202.79
+      distance_km: 31.203
+      distance_percent: 76.4435
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 7806.85
+      distance_km: 7.807
+      distance_percent: 19.1259
+    - slug: pogorze_orlickie
+      name: Pogórze Orlickie
+      code: "332.51"
+      distance_meters: 1808.49
+      distance_km: 1.808
+      distance_percent: 4.4306
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 40818.13
+      distance_km: 40.818
+      distance_percent: 100
+  touched_towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+    - slug: kudowa-zdroj
+      name: Kudowa-Zdrój
+      code: "0208031"
+    - slug: lewin_klodzki
+      name: Lewin Kłodzki
+      code: "0208092"
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+    - slug: szczytna
+      name: Szczytna
+      code: "0208143"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+    - slug: pogorze_orlickie
+      name: Pogórze Orlickie
+      code: "332.51"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

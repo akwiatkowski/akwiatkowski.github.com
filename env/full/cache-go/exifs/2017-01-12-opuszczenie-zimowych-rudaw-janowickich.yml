@@ -1,0 +1,79 @@
+---
+- image_filename: IMGP1897raw1.jpg
+  post_slug: 2017-01-12-opuszczenie-zimowych-rudaw-janowickich
+  lat: 50.88223611111111
+  lon: 15.817555555555556
+  altitude: 338
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4907
+  height: 3271
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-01-12T09:06:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP1902raw1.jpg
+  post_slug: 2017-01-12-opuszczenie-zimowych-rudaw-janowickich
+  lat: 50.882847222222225
+  lon: 15.81898611111111
+  altitude: 341
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 160
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-01-12T09:08:13+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2017-01-12-opuszczenie-zimowych-rudaw-janowickich
+  lat: 50.87383333333334
+  lon: 15.817833333333333
+  altitude: 331
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-01-12T08:53:09+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

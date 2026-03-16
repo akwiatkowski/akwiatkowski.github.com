@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP7295raw1.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  ahash: ffff787e7c7c0000
+  dhash: f0f8c2e4d0c8c2f0
+  phash: c0bc3fc310e63f29
+  avg_rgb:
+  - 108
+  - 114
+  - 142
+  top5_rgb:
+  - - 162
+    - 178
+    - 214
+  - - 73
+    - 66
+    - 57
+  - - 147
+    - 174
+    - 215
+  - - 139
+    - 159
+    - 204
+  - - 93
+    - 98
+    - 125
+- image_filename: IMGP7310raw1.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  ahash: fcc0c0faf89400f8
+  dhash: 908606d232244901
+  phash: d8f0d29ac1139e5e
+  avg_rgb:
+  - 108
+  - 104
+  - 111
+  top5_rgb:
+  - - 182
+    - 182
+    - 203
+  - - 97
+    - 120
+    - 152
+  - - 155
+    - 128
+    - 109
+  - - 204
+    - 172
+    - 148
+  - - 182
+    - 147
+    - 123
+- image_filename: header.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  ahash: ffffffc080070304
+  dhash: 0848a82a388c3e9d
+  phash: b2cd83375934c05f
+  avg_rgb:
+  - 94
+  - 113
+  - 136
+  top5_rgb:
+  - - 92
+    - 118
+    - 160
+  - - 84
+    - 162
+    - 218
+  - - 141
+    - 116
+    - 99
+  - - 146
+    - 139
+    - 139
+  - - 136
+    - 150
+    - 182

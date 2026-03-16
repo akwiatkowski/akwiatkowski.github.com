@@ -1,0 +1,526 @@
+---
+- image_filename: IMGP6711pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffffff01000000
+  dhash: 000040ebfb7c8673
+  phash: 95cb76140ae7974a
+  avg_rgb:
+  - 110
+  - 110
+  - 112
+  top5_rgb:
+  - - 9
+    - 19
+    - 35
+  - - 92
+    - 95
+    - 129
+  - - 10
+    - 11
+    - 16
+  - - 7
+    - 8
+    - 12
+  - - 131
+    - 106
+    - 128
+- image_filename: IMGP6713pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffff0100740000
+  dhash: 80303fcf308dc5b2
+  phash: b2bdc9c26922b91d
+  avg_rgb:
+  - 109
+  - 115
+  - 122
+  top5_rgb:
+  - - 6
+    - 28
+    - 51
+  - - 191
+    - 164
+    - 129
+  - - 85
+    - 109
+    - 143
+  - - 83
+    - 96
+    - 129
+  - - 115
+    - 116
+    - 143
+- image_filename: IMGP6809raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: fffffede5e2f0101
+  dhash: 192a30349cdc63fb
+  phash: 9df42b83780e11f9
+  avg_rgb:
+  - 107
+  - 107
+  - 108
+  top5_rgb:
+  - - 78
+    - 79
+    - 83
+  - - 161
+    - 164
+    - 162
+  - - 171
+    - 170
+    - 163
+  - - 145
+    - 148
+    - 149
+  - - 61
+    - 63
+    - 64
+- image_filename: IMGP6836raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffff7f0480f80000
+  dhash: 6267ecbc46209848
+  phash: d7aedbcc2110d427
+  avg_rgb:
+  - 101
+  - 96
+  - 93
+  top5_rgb:
+  - - 218
+    - 171
+    - 134
+  - - 88
+    - 80
+    - 78
+  - - 153
+    - 143
+    - 133
+  - - 32
+    - 73
+    - 95
+  - - 204
+    - 164
+    - 133
+- image_filename: IMGP6881raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 000000787f79fbff
+  dhash: f4f0f4d1e5e1f2e2
+  phash: cc32fd2ec15962b4
+  avg_rgb:
+  - 97
+  - 97
+  - 95
+  top5_rgb:
+  - - 111
+    - 106
+    - 109
+  - - 179
+    - 174
+    - 181
+  - - 71
+    - 81
+    - 58
+  - - 187
+    - 185
+    - 196
+  - - 72
+    - 80
+    - 73
+- image_filename: IMGP6907raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: c0e0f0f0001eee4b
+  dhash: 030202020ef4cada
+  phash: e57aa91629e60937
+  avg_rgb:
+  - 67
+  - 94
+  - 113
+  top5_rgb:
+  - - 73
+    - 77
+    - 26
+  - - 203
+    - 182
+    - 132
+  - - 98
+    - 98
+    - 36
+  - - 56
+    - 58
+    - 33
+  - - 63
+    - 67
+    - 33
+- image_filename: IMGP6918raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 070f1f3f1f000000
+  dhash: fefefcfcfd7d78fc
+  phash: 94b44b6b8b5b3496
+  avg_rgb:
+  - 38
+  - 85
+  - 135
+  top5_rgb:
+  - - 2
+    - 41
+    - 110
+  - - 2
+    - 63
+    - 146
+  - - 66
+    - 62
+    - 65
+  - - 2
+    - 53
+    - 131
+  - - 3
+    - 72
+    - 161
+- image_filename: IMGP6921raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 0f0f0f023078ccf4
+  dhash: fffffe1ce0d39864
+  phash: a43ebc494e31ccd3
+  avg_rgb:
+  - 60
+  - 86
+  - 104
+  top5_rgb:
+  - - 54
+    - 54
+    - 25
+  - - 37
+    - 41
+    - 24
+  - - 196
+    - 151
+    - 85
+  - - 65
+    - 67
+    - 27
+  - - 1
+    - 44
+    - 138
+- image_filename: IMGP6992raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: f0f8d8d8d8d80000
+  dhash: 00223131313119d3
+  phash: d8f4234ac933ec8d
+  avg_rgb:
+  - 79
+  - 108
+  - 128
+  top5_rgb:
+  - - 74
+    - 65
+    - 35
+  - - 133
+    - 194
+    - 249
+  - - 90
+    - 81
+    - 66
+  - - 80
+    - 160
+    - 229
+  - - 119
+    - 183
+    - 244
+- image_filename: IMGP7001pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffe700000000ff
+  dhash: ffda0d35fa77fd2c
+  phash: bef681015d7eb680
+  avg_rgb:
+  - 119
+  - 118
+  - 116
+  top5_rgb:
+  - - 182
+    - 182
+    - 173
+  - - 187
+    - 186
+    - 175
+  - - 66
+    - 69
+    - 79
+  - - 89
+    - 93
+    - 102
+  - - 88
+    - 91
+    - 98
+- image_filename: IMGP7013pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffffe1800000ff
+  dhash: fffdf7861d7fdac4
+  phash: e1a58e1af1658e1e
+  avg_rgb:
+  - 119
+  - 118
+  - 116
+  top5_rgb:
+  - - 202
+    - 173
+    - 148
+  - - 161
+    - 163
+    - 154
+  - - 153
+    - 160
+    - 161
+  - - 67
+    - 70
+    - 78
+  - - 157
+    - 158
+    - 150
+- image_filename: IMGP7035raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ff000003ffff011f
+  dhash: 1c9d6fffffddfdfe
+  phash: 99795992993af48c
+  avg_rgb:
+  - 92
+  - 92
+  - 88
+  top5_rgb:
+  - - 163
+    - 186
+    - 196
+  - - 155
+    - 130
+    - 100
+  - - 70
+    - 65
+    - 61
+  - - 100
+    - 92
+    - 80
+  - - 33
+    - 53
+    - 74
+- image_filename: IMGP7048raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: fffffffec0000000
+  dhash: 0202020000587be5
+  phash: ddd5292b5485876a
+  avg_rgb:
+  - 100
+  - 106
+  - 108
+  top5_rgb:
+  - - 64
+    - 71
+    - 80
+  - - 33
+    - 32
+    - 20
+  - - 51
+    - 55
+    - 61
+  - - 107
+    - 116
+    - 128
+  - - 98
+    - 105
+    - 114
+- image_filename: IMGP7058raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffff3f1000000000
+  dhash: f864faa5cc04457a
+  phash: 8698bfe493ee3103
+  avg_rgb:
+  - 110
+  - 113
+  - 118
+  top5_rgb:
+  - - 178
+    - 185
+    - 205
+  - - 125
+    - 94
+    - 63
+  - - 65
+    - 58
+    - 33
+  - - 225
+    - 231
+    - 224
+  - - 85
+    - 71
+    - 30
+- image_filename: IMGP7093raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffff3f0e000000
+  dhash: ffdedffef8dff7f9
+  phash: 9183673f9ce66219
+  avg_rgb:
+  - 125
+  - 108
+  - 81
+  top5_rgb:
+  - - 226
+    - 205
+    - 161
+  - - 247
+    - 197
+    - 125
+  - - 91
+    - 74
+    - 57
+  - - 18
+    - 15
+    - 12
+  - - 19
+    - 16
+    - 13
+- image_filename: IMGP7095raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffff7f03000000
+  dhash: fffffffffffffff3
+  phash: 80825b378dd75b2d
+  avg_rgb:
+  - 127
+  - 112
+  - 98
+  top5_rgb:
+  - - 162
+    - 140
+    - 133
+  - - 216
+    - 166
+    - 122
+  - - 132
+    - 119
+    - 124
+  - - 186
+    - 173
+    - 153
+  - - 47
+    - 39
+    - 33
+- image_filename: IMGP7102raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: ffffff0000000000
+  dhash: 8080b03c30303131
+  phash: dcd4c76f38348d82
+  avg_rgb:
+  - 88
+  - 86
+  - 85
+  top5_rgb:
+  - - 20
+    - 52
+    - 88
+  - - 16
+    - 43
+    - 75
+  - - 10
+    - 14
+    - 17
+  - - 32
+    - 72
+    - 115
+  - - 9
+    - 12
+    - 17
+- image_filename: IMGP7117raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 00001c3d3c1f0600
+  dhash: a02079f9e8f89ca1
+  phash: 9bc96494cbb19966
+  avg_rgb:
+  - 56
+  - 41
+  - 48
+  top5_rgb:
+  - - 19
+    - 15
+    - 19
+  - - 41
+    - 30
+    - 46
+  - - 39
+    - 27
+    - 43
+  - - 50
+    - 35
+    - 50
+  - - 20
+    - 16
+    - 20
+- image_filename: IMGP7121raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 00000078f8f83e02
+  dhash: 808084c08081c616
+  phash: c03f3fc03c1fe035
+  avg_rgb:
+  - 41
+  - 28
+  - 27
+  top5_rgb:
+  - - 0
+    - 0
+    - 0
+  - - 19
+    - 12
+    - 18
+  - - 26
+    - 16
+    - 23
+  - - 23
+    - 13
+    - 16
+  - - 14
+    - 6
+    - 7
+- image_filename: IMGP7136raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 1c1c1c3c7c7c2800
+  dhash: 79f9f8f4cce8eae0
+  phash: 929a39e6667d6413
+  avg_rgb:
+  - 86
+  - 55
+  - 34
+  top5_rgb:
+  - - 98
+    - 63
+    - 36
+  - - 19
+    - 11
+    - 10
+  - - 21
+    - 13
+    - 11
+  - - 18
+    - 10
+    - 9
+  - - 31
+    - 17
+    - 15
+- image_filename: header.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  ahash: 000000fe7c7c0600
+  dhash: c0c08894d0c86c8b
+  phash: c1fc3ec36816c339
+  avg_rgb:
+  - 69
+  - 38
+  - 20
+  top5_rgb:
+  - - 0
+    - 0
+    - 0
+  - - 73
+    - 36
+    - 17
+  - - 109
+    - 59
+    - 31
+  - - 70
+    - 35
+    - 17
+  - - 97
+    - 50
+    - 25

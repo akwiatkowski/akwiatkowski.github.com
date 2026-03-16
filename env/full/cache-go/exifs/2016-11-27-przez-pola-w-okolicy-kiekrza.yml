@@ -1,0 +1,184 @@
+---
+- image_filename: IMGP0036raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.452041666666666
+  lon: 16.839222222222222
+  altitude: 60
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T11:28:53+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0051raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.474111111111114
+  lon: 16.78236111111111
+  altitude: 58
+  focal_length: 36
+  focal_length_35: 54
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T12:04:06+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0103raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.48394444444445
+  lon: 16.807000000000002
+  altitude: 74
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T13:20:55+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0126raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.48341666666667
+  lon: 16.811291666666666
+  altitude: 75
+  focal_length: 22
+  focal_length_35: 33
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T13:30:18+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0172raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.474916666666665
+  lon: 16.829333333333334
+  altitude: 82
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T14:00:28+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0201raw1.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.46554166666667
+  lon: 16.82661111111111
+  altitude: 73
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T14:18:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1241
+  exposure_program: program
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-11-27-przez-pola-w-okolicy-kiekrza
+  lat: 52.48323611111111
+  lon: 16.812875000000002
+  altitude: 77
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-11-27T13:32:02+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: RawTherapee 4.2.1241
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

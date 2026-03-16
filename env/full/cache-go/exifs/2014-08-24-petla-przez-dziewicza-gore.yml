@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP8923raw1.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  lat: 52.508982606201705
+  lon: 16.989982277199076
+  altitude: 68.87
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-24T15:16:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8928raw1.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  lat: 52.503758333600864
+  lon: 16.99429677800167
+  altitude: 73.68
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 9
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 4173
+  height: 2782
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-24T15:20:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  lat: 52.5089876353859
+  lon: 16.989996693996297
+  altitude: 68.87
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-08-24T15:16:54+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

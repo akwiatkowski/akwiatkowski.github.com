@@ -1,0 +1,171 @@
+---
+- type: bicycle
+  total_distance_meters: 63354.89
+  total_distance_km: 63.355
+  points_count: 251
+  towns:
+    - slug: bledzew
+      name: Bledzew
+      code: "0803012"
+      distance_meters: 22212.52
+      distance_km: 22.213
+      distance_percent: 35.0605
+    - slug: skwierzyna
+      name: Skwierzyna
+      code: "0803053"
+      distance_meters: 18245.18
+      distance_km: 18.245
+      distance_percent: 28.7984
+    - slug: santok
+      name: Santok
+      code: "0801062"
+      distance_meters: 15324.11
+      distance_km: 15.324
+      distance_percent: 24.1877
+    - slug: gorzow_wielkopolski
+      name: Gorzów Wielkopolski
+      code: "0861011"
+      distance_meters: 4269.49
+      distance_km: 4.269
+      distance_percent: 6.739
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+      distance_meters: 3303.58
+      distance_km: 3.304
+      distance_percent: 5.2144
+  counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 40457.71
+      distance_km: 40.458
+      distance_percent: 63.8589
+    - slug: gorzowski
+      name: gorzowski
+      code: "0801"
+      distance_meters: 19593.6
+      distance_km: 19.594
+      distance_percent: 30.9267
+    - slug: gorzow_wielkopolski
+      name: Gorzów Wielkopolski
+      code: "0861"
+      distance_meters: 4269.49
+      distance_km: 4.269
+      distance_percent: 6.739
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 3303.58
+      distance_km: 3.304
+      distance_percent: 5.2144
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 63354.89
+      distance_km: 63.355
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 36987.47
+      distance_km: 36.987
+      distance_percent: 58.3814
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 18153.64
+      distance_km: 18.154
+      distance_percent: 28.6539
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 6509.04
+      distance_km: 6.509
+      distance_percent: 10.2739
+    - slug: rownina_gorzowska
+      name: Równina Gorzowska
+      code: "314.61"
+      distance_meters: 1704.74
+      distance_km: 1.705
+      distance_percent: 2.6908
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 36987.47
+      distance_km: 36.987
+      distance_percent: 58.3814
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 18153.64
+      distance_km: 18.154
+      distance_percent: 28.6539
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 6509.04
+      distance_km: 6.509
+      distance_percent: 10.2739
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 1704.74
+      distance_km: 1.705
+      distance_percent: 2.6908
+  touched_towns:
+    - slug: bledzew
+      name: Bledzew
+      code: "0803012"
+    - slug: gorzow_wielkopolski
+      name: Gorzów Wielkopolski
+      code: "0861011"
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+    - slug: santok
+      name: Santok
+      code: "0801062"
+    - slug: skwierzyna
+      name: Skwierzyna
+      code: "0803053"
+  touched_counties:
+    - slug: gorzow_wielkopolski
+      name: Gorzów Wielkopolski
+      code: "0861"
+    - slug: gorzowski
+      name: gorzowski
+      code: "0801"
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

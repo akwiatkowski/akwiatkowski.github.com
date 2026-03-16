@@ -1,0 +1,805 @@
+---
+- image_filename: 2018_11_28__20_38__B284741.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.8
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-28T20:38:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+- image_filename: 2018_11_29__06_48__B294750.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48013888888889
+  lon: 18.564222222222224
+  altitude: 4.294967161e+09
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 5
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T06:48:40+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__06_53__B294752.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48002777777778
+  lon: 18.56488888888889
+  altitude: 4.294967179e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T06:53:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__06_58__B294755_01.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48034722222222
+  lon: 18.56411111111111
+  altitude: 4.294967197e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 25
+  exposure_string: 25.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T06:58:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_03__B294757.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.480375
+  lon: 18.564541666666667
+  altitude: 4.294967207e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 13
+  exposure_string: 13.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:03:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_11__B294763.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.480375
+  lon: 18.56452777777778
+  altitude: 4.294967227e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:11:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_13__B294765.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48026388888889
+  lon: 18.564194444444446
+  altitude: 4.294967231e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 3.2
+  exposure_string: 3.2 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:13:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_17__B294767.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48016666666667
+  lon: 18.564333333333334
+  altitude: 4.294967241e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:17:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_20__B294769.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479958333333336
+  lon: 18.564291666666666
+  altitude: 4.294967245e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4.5
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:20:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_24__B294772.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479847222222226
+  lon: 18.564125
+  altitude: 4.294967249e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 50
+  exposure_string: 50.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:24:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_25__B294773_01.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47980555555556
+  lon: 18.56425
+  altitude: 4.294967251e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 50
+  exposure_string: 50.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:25:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_27__B294775.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47983333333333
+  lon: 18.564305555555556
+  altitude: 4.294967255e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:27:52+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_29__B294777.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.479819444444445
+  lon: 18.564347222222224
+  altitude: 4.294967255e+09
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 5.6
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:29:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_37__B294784.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47793055555556
+  lon: 18.56365277777778
+  altitude: 4.294967266e+09
+  focal_length: 50
+  focal_length_35: 100
+  crop: 2
+  aperture: 5.6
+  exposure: 4
+  exposure_string: 4.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:37:28+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_44__B294797.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47759722222222
+  lon: 18.563666666666666
+  altitude: 4.29496727e+09
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 5.6
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:44:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_48__B294806.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47756944444445
+  lon: 18.563625000000002
+  altitude: 4.294967273e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:48:01+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_55__B294817.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.563444444444446
+  altitude: 4.294967278e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:55:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__07_57__B294818.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.563458333333333
+  altitude: 4.294967278e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T07:57:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_00__B294825.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.5635
+  altitude: 4.294967279e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:00:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_00__B294826.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47726388888889
+  lon: 18.5635
+  altitude: 4.29496728e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:00:52+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_01__B294828.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47727777777778
+  lon: 18.5635
+  altitude: 4.294967281e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:01:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_04__B294833_01_bw_small.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.477222222222224
+  lon: 18.563402777777778
+  altitude: 4.294967283e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:04:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: GIMP 2.10.2
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_08__B294846.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47763888888889
+  lon: 18.563513888888888
+  altitude: 4.294967285e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:08:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_11__B294865.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47830555555556
+  lon: 18.563736111111112
+  altitude: 4.294967288e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:11:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_14__B294875.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.47983333333333
+  lon: 18.56376388888889
+  altitude: 4.29496729e+09
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:14:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__08_15__B294878.jpg
+  post_slug: 2018-11-29-wietrzne-orlowo
+  lat: 54.48008333333333
+  lon: 18.563291666666668
+  altitude: 4.294967295e+09
+  focal_length: 15
+  focal_length_35: 30
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-11-29T08:15:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

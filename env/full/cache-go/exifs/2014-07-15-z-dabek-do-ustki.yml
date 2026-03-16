@@ -1,0 +1,192 @@
+---
+- image_filename: IMGP8230raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  lat: 54.44204393770856
+  lon: 16.416452815829526
+  altitude: 14.08
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 11
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T10:57:15+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -1
+- image_filename: IMGP8261raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  lat: 54.52984965407131
+  lon: 16.59204429950095
+  altitude: 9.27
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T15:33:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8264raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  lat: 54.51261637734868
+  lon: 16.61362367679537
+  altitude: 7.83
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T15:48:01+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8273raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  lat: 54.52012346130111
+  lon: 16.706028878703453
+  altitude: 19.84
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T16:21:41+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8280raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  lat: 54.52130237587966
+  lon: 16.74372489567032
+  altitude: 21.77
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T16:32:53+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8292raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T20:18:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8293raw1.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T20:19:51+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-07-15-z-dabek-do-ustki
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-07-15T20:18:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

@@ -1,0 +1,114 @@
+---
+- type: hike
+  total_distance_meters: 20235.04
+  total_distance_km: 20.235
+  points_count: 382
+  towns:
+    - slug: czernichow
+      name: Czernichów
+      code: "2417022"
+      distance_meters: 9659.11
+      distance_km: 9.659
+      distance_percent: 47.7345
+    - slug: lekawica
+      name: Łękawica
+      code: "2417072"
+      distance_meters: 4985.56
+      distance_km: 4.986
+      distance_percent: 24.6382
+    - slug: andrychow
+      name: Andrychów
+      code: "1218013"
+      distance_meters: 3042.41
+      distance_km: 3.042
+      distance_percent: 15.0354
+    - slug: porabka
+      name: Porąbka
+      code: "2402082"
+      distance_meters: 2547.96
+      distance_km: 2.548
+      distance_percent: 12.5918
+  counties:
+    - slug: zywiecki
+      name: żywiecki
+      code: "2417"
+      distance_meters: 14644.67
+      distance_km: 14.645
+      distance_percent: 72.3728
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+      distance_meters: 3042.41
+      distance_km: 3.042
+      distance_percent: 15.0354
+    - slug: bielski
+      name: bielski
+      code: "2402"
+      distance_meters: 2547.96
+      distance_km: 2.548
+      distance_percent: 12.5918
+  voivodeships:
+    - slug: slaskie
+      name: śląskie
+      code: "24"
+      distance_meters: 17192.63
+      distance_km: 17.193
+      distance_percent: 84.9646
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 3042.41
+      distance_km: 3.042
+      distance_percent: 15.0354
+  meso_regions:
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+      distance_meters: 20235.04
+      distance_km: 20.235
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 20235.04
+      distance_km: 20.235
+      distance_percent: 100
+  touched_towns:
+    - slug: andrychow
+      name: Andrychów
+      code: "1218013"
+    - slug: czernichow
+      name: Czernichów
+      code: "2417022"
+    - slug: lekawica
+      name: Łękawica
+      code: "2417072"
+    - slug: porabka
+      name: Porąbka
+      code: "2402082"
+  touched_counties:
+    - slug: bielski
+      name: bielski
+      code: "2402"
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+    - slug: zywiecki
+      name: żywiecki
+      code: "2417"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+    - slug: slaskie
+      name: śląskie
+      code: "24"
+  touched_meso_regions:
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

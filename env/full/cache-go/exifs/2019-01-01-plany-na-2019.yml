@@ -1,0 +1,28 @@
+---
+- image_filename: 2019_01_09__10_50__1090265.jpg
+  post_slug: 2019-01-01-plany-na-2019
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-01-09T10:50:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0

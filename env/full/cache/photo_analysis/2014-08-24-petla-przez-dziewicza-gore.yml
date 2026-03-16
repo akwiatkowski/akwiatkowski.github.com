@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP8923raw1.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  ahash: fefcec8f00000000
+  dhash: 8080191833c218b0
+  phash: d1d1c4c595b3e46c
+  avg_rgb:
+  - 90
+  - 125
+  - 142
+  top5_rgb:
+  - - 86
+    - 124
+    - 35
+  - - 107
+    - 151
+    - 233
+  - - 80
+    - 118
+    - 34
+  - - 88
+    - 143
+    - 230
+  - - 52
+    - 78
+    - 26
+- image_filename: IMGP8928raw1.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  ahash: 0f1f3e7e3c0c0000
+  dhash: def8eae078d8c282
+  phash: 9595383acee262dc
+  avg_rgb:
+  - 98
+  - 126
+  - 158
+  top5_rgb:
+  - - 50
+    - 112
+    - 186
+  - - 120
+    - 102
+    - 87
+  - - 111
+    - 99
+    - 84
+  - - 2
+    - 80
+    - 148
+  - - 135
+    - 119
+    - 97
+- image_filename: header.jpg
+  post_slug: 2014-08-24-petla-przez-dziewicza-gore
+  ahash: 07070181801e1fff
+  dhash: bd3f3b1b13785839
+  phash: bb269414fefb4a20
+  avg_rgb:
+  - 103
+  - 119
+  - 100
+  top5_rgb:
+  - - 179
+    - 175
+    - 182
+  - - 213
+    - 204
+    - 210
+  - - 161
+    - 158
+    - 163
+  - - 88
+    - 106
+    - 33
+  - - 51
+    - 64
+    - 16

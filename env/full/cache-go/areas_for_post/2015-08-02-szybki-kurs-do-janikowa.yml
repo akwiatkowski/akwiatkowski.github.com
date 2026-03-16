@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 18036.34
+  total_distance_km: 18.036
+  points_count: 51
+  towns:
+    - slug: janikowo
+      name: Janikowo
+      code: "0407053"
+      distance_meters: 7476.99
+      distance_km: 7.477
+      distance_percent: 41.4551
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 7234.65
+      distance_km: 7.235
+      distance_percent: 40.1115
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 3324.7
+      distance_km: 3.325
+      distance_percent: 18.4333
+  counties:
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 10559.35
+      distance_km: 10.559
+      distance_percent: 58.5449
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+      distance_meters: 7476.99
+      distance_km: 7.477
+      distance_percent: 41.4551
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 18036.34
+      distance_km: 18.036
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 18036.34
+      distance_km: 18.036
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 18036.34
+      distance_km: 18.036
+      distance_percent: 100
+  touched_towns:
+    - slug: janikowo
+      name: Janikowo
+      code: "0407053"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+  touched_counties:
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

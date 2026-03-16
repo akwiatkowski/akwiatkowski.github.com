@@ -1,0 +1,235 @@
+---
+- image_filename: IMGP0437raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.0467835106138
+  lon: 17.572436537599536
+  altitude: 83.29
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T10:19:02+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0441raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.05134234390342
+  lon: 17.57377982140477
+  altitude: 85.21
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T10:21:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0446raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.09058272647027
+  lon: 17.618208434401463
+  altitude: 78
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T10:50:51+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0449raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.09693553859203
+  lon: 17.629205826663224
+  altitude: 78
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T10:55:02+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0453raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.12067845282814
+  lon: 17.660083668299933
+  altitude: 76.08
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T11:18:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0458raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.162606324972735
+  lon: 17.785998210305213
+  altitude: 67.91
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T11:55:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0463raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.20424057918333
+  lon: 17.886173855501415
+  altitude: 81.37
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4282
+  height: 2855
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T12:53:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0465raw1.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.22415564572688
+  lon: 17.89084064775124
+  altitude: 89.06
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T13:00:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-05-22-z-jarocina-do-slupcy
+  lat: 52.20424057918333
+  lon: 17.886173855501415
+  altitude: 81.37
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2000
+  height: 1333
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-22T12:53:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

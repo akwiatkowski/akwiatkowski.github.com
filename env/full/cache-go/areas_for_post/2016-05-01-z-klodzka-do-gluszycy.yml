@@ -1,0 +1,197 @@
+---
+- type: bicycle
+  total_distance_meters: 48990.46
+  total_distance_km: 48.99
+  points_count: 576
+  towns:
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208112"
+      distance_meters: 15931.01
+      distance_km: 15.931
+      distance_percent: 32.5186
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 13958.01
+      distance_km: 13.958
+      distance_percent: 28.4913
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+      distance_meters: 10000.47
+      distance_km: 10
+      distance_percent: 20.4131
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 6866.53
+      distance_km: 6.867
+      distance_percent: 14.016
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208041"
+      distance_meters: 2234.44
+      distance_km: 2.234
+      distance_percent: 4.561
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 38989.99
+      distance_km: 38.99
+      distance_percent: 79.5869
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+      distance_meters: 10000.47
+      distance_km: 10
+      distance_percent: 20.4131
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 48990.46
+      distance_km: 48.99
+      distance_percent: 100
+  meso_regions:
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+      distance_meters: 26329.35
+      distance_km: 26.329
+      distance_percent: 53.7438
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+      distance_meters: 17231.32
+      distance_km: 17.231
+      distance_percent: 35.1728
+    - slug: gory_kamienne
+      name: Góry Kamienne
+      code: "332.43"
+      distance_meters: 3161.21
+      distance_km: 3.161
+      distance_percent: 6.4527
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 2268.59
+      distance_km: 2.269
+      distance_percent: 4.6307
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 48990.46
+      distance_km: 48.99
+      distance_percent: 100
+  touched_towns:
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208041"
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kamienne
+      name: Góry Kamienne
+      code: "332.43"
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+- type: bicycle
+  total_distance_meters: 5640.47
+  total_distance_km: 5.64
+  points_count: 64
+  towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 5640.47
+      distance_km: 5.64
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 5640.47
+      distance_km: 5.64
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 5640.47
+      distance_km: 5.64
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 2927.78
+      distance_km: 2.928
+      distance_percent: 51.9067
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+      distance_meters: 2712.69
+      distance_km: 2.713
+      distance_percent: 48.0933
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 5640.47
+      distance_km: 5.64
+      distance_percent: 100
+  touched_towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

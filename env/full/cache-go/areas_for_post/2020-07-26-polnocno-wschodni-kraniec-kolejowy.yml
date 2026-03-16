@@ -1,0 +1,363 @@
+---
+- type: train
+  total_distance_meters: 270548.88
+  total_distance_km: 270.549
+  points_count: 467
+  towns:
+    - slug: elk
+      name: Ełk
+      code: "2805022"
+      distance_meters: 28324.56
+      distance_km: 28.325
+      distance_percent: 10.4693
+    - slug: biala_piska
+      name: Biała Piska
+      code: "2816013"
+      distance_meters: 26270.02
+      distance_km: 26.27
+      distance_percent: 9.7099
+    - slug: ruciane-nida
+      name: Ruciane-Nida
+      code: "2816043"
+      distance_meters: 21306.4
+      distance_km: 21.306
+      distance_percent: 7.8752
+    - slug: szypliszki
+      name: Szypliszki
+      code: "2012082"
+      distance_meters: 20853
+      distance_km: 20.853
+      distance_percent: 7.7077
+    - slug: szczytno
+      name: Szczytno
+      code: "2817062"
+      distance_meters: 20223.69
+      distance_km: 20.224
+      distance_percent: 7.4751
+    - slug: olecko
+      name: Olecko
+      code: "2813043"
+      distance_meters: 18992.24
+      distance_km: 18.992
+      distance_percent: 7.0199
+    - slug: swietajno
+      name: Świętajno
+      code: "2817072"
+      distance_meters: 18016.04
+      distance_km: 18.016
+      distance_percent: 6.6591
+    - slug: pisz
+      name: Pisz
+      code: "2816033"
+      distance_meters: 17448.53
+      distance_km: 17.449
+      distance_percent: 6.4493
+    - slug: purda
+      name: Purda
+      code: "2814102"
+      distance_meters: 16463.55
+      distance_km: 16.464
+      distance_percent: 6.0852
+    - slug: raczki
+      name: Raczki
+      code: "2012052"
+      distance_meters: 15301.71
+      distance_km: 15.302
+      distance_percent: 5.6558
+    - slug: suwalki
+      name: Suwałki
+      code: "2012072"
+      distance_meters: 14198.1
+      distance_km: 14.198
+      distance_percent: 5.2479
+    - slug: pasym
+      name: Pasym
+      code: "2817043"
+      distance_meters: 13890.05
+      distance_km: 13.89
+      distance_percent: 5.134
+    - slug: wieliczki
+      name: Wieliczki
+      code: "2813062"
+      distance_meters: 13275.17
+      distance_km: 13.275
+      distance_percent: 4.9068
+    - slug: suwalki
+      name: Suwałki
+      code: "2063011"
+      distance_meters: 11637.75
+      distance_km: 11.638
+      distance_percent: 4.3015
+    - slug: punsk
+      name: Puńsk
+      code: "2009042"
+      distance_meters: 10177.01
+      distance_km: 10.177
+      distance_percent: 3.7616
+    - slug: elk
+      name: Ełk
+      code: "2805011"
+      distance_meters: 5447.35
+      distance_km: 5.447
+      distance_percent: 2.0134
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862011"
+      distance_meters: 4017.94
+      distance_km: 4.018
+      distance_percent: 1.4851
+    - slug: szczytno
+      name: Szczytno
+      code: "2817011"
+      distance_meters: 2978.55
+      distance_km: 2.979
+      distance_percent: 1.1009
+    - slug: prostki
+      name: Prostki
+      code: "2805042"
+      distance_meters: 153.12
+      distance_km: 0.153
+      distance_percent: 0.0566
+  counties:
+    - slug: piski
+      name: piski
+      code: "2816"
+      distance_meters: 65024.95
+      distance_km: 65.025
+      distance_percent: 24.0345
+    - slug: suwalski
+      name: suwalski
+      code: "2012"
+      distance_meters: 61990.56
+      distance_km: 61.991
+      distance_percent: 22.9129
+    - slug: szczycienski
+      name: szczycieński
+      code: "2817"
+      distance_meters: 52129.77
+      distance_km: 52.13
+      distance_percent: 19.2682
+    - slug: olecki
+      name: olecki
+      code: "2813"
+      distance_meters: 32267.4
+      distance_km: 32.267
+      distance_percent: 11.9266
+    - slug: elcki
+      name: ełcki
+      code: "2805"
+      distance_meters: 28477.69
+      distance_km: 28.478
+      distance_percent: 10.5259
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+      distance_meters: 20481.49
+      distance_km: 20.481
+      distance_percent: 7.5703
+    - slug: suwalki
+      name: Suwałki
+      code: "2063"
+      distance_meters: 11637.75
+      distance_km: 11.638
+      distance_percent: 4.3015
+    - slug: sejnenski
+      name: sejneński
+      code: "2009"
+      distance_meters: 10177.01
+      distance_km: 10.177
+      distance_percent: 3.7616
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862"
+      distance_meters: 4017.94
+      distance_km: 4.018
+      distance_percent: 1.4851
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 198381.3
+      distance_km: 198.381
+      distance_percent: 73.3255
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 72167.57
+      distance_km: 72.168
+      distance_percent: 26.6745
+  meso_regions:
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+      distance_meters: 89714.95
+      distance_km: 89.715
+      distance_percent: 33.1604
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+      distance_meters: 66130.12
+      distance_km: 66.13
+      distance_percent: 24.4429
+    - slug: pojezierze_wschodniosuwalskie
+      name: Pojezierze Wschodniosuwalskie
+      code: "842.73"
+      distance_meters: 43336.3
+      distance_km: 43.336
+      distance_percent: 16.0179
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+      distance_meters: 35256.84
+      distance_km: 35.257
+      distance_percent: 13.0316
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+      distance_meters: 13384.36
+      distance_km: 13.384
+      distance_percent: 4.9471
+    - slug: pojezierze_zachodniosuwalskie
+      name: Pojezierze Zachodniosuwalskie
+      code: "842.72"
+      distance_meters: 11181.45
+      distance_km: 11.181
+      distance_percent: 4.1329
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 9635.71
+      distance_km: 9.636
+      distance_percent: 3.5615
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 1909.13
+      distance_km: 1.909
+      distance_percent: 0.7057
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 202646.76
+      distance_km: 202.647
+      distance_percent: 74.9021
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"
+      distance_meters: 67902.12
+      distance_km: 67.902
+      distance_percent: 25.0979
+  touched_towns:
+    - slug: biala_piska
+      name: Biała Piska
+      code: "2816013"
+    - slug: elk
+      name: Ełk
+      code: "2805022"
+    - slug: olecko
+      name: Olecko
+      code: "2813043"
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862011"
+    - slug: pasym
+      name: Pasym
+      code: "2817043"
+    - slug: pisz
+      name: Pisz
+      code: "2816033"
+    - slug: punsk
+      name: Puńsk
+      code: "2009042"
+    - slug: purda
+      name: Purda
+      code: "2814102"
+    - slug: raczki
+      name: Raczki
+      code: "2012052"
+    - slug: ruciane-nida
+      name: Ruciane-Nida
+      code: "2816043"
+    - slug: suwalki
+      name: Suwałki
+      code: "2063011"
+    - slug: swietajno
+      name: Świętajno
+      code: "2817072"
+    - slug: szczytno
+      name: Szczytno
+      code: "2817062"
+    - slug: szypliszki
+      name: Szypliszki
+      code: "2012082"
+    - slug: wieliczki
+      name: Wieliczki
+      code: "2813062"
+  touched_counties:
+    - slug: elcki
+      name: ełcki
+      code: "2805"
+    - slug: olecki
+      name: olecki
+      code: "2813"
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862"
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+    - slug: piski
+      name: piski
+      code: "2816"
+    - slug: sejnenski
+      name: sejneński
+      code: "2009"
+    - slug: suwalki
+      name: Suwałki
+      code: "2063"
+    - slug: suwalski
+      name: suwalski
+      code: "2012"
+    - slug: szczycienski
+      name: szczycieński
+      code: "2817"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+    - slug: pojezierze_wschodniosuwalskie
+      name: Pojezierze Wschodniosuwalskie
+      code: "842.73"
+    - slug: pojezierze_zachodniosuwalskie
+      name: Pojezierze Zachodniosuwalskie
+      code: "842.72"
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+  touched_macro_regions:
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

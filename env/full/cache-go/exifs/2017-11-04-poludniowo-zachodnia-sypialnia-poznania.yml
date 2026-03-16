@@ -1,0 +1,27 @@
+---
+- image_filename: header.jpg
+  post_slug: 2017-11-04-poludniowo-zachodnia-sypialnia-poznania
+  lat: 52.420027777777776
+  lon: 16.718069444444442
+  altitude: 95
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 4458
+  height: 2972
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-11-04T14:28:50+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.1
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

@@ -1,0 +1,449 @@
+---
+- image_filename: IMGP0003raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 55
+  focal_length_35: 82
+  crop: 1.5
+  aperture: 0
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-09T07:30:10+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0019raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-09T14:21:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0022raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-09T14:24:18+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+- image_filename: IMGP0041raw2.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.451816948100074
+  lon: 22.442747913316488
+  altitude: 382.26
+  focal_length: 55
+  focal_length_35: 82
+  crop: 1.5
+  aperture: 0
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-09T16:33:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0089raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.406320815878715
+  lon: 22.591604981650658
+  altitude: 509.16
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T09:44:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: IMGP0122raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.40643740818062
+  lon: 22.59177429602521
+  altitude: 503.87
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T10:08:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+- image_filename: IMGP0124raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.40643128941074
+  lon: 22.591926511394497
+  altitude: 502.91
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T10:09:37+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -1
+- image_filename: IMGP0192raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T12:16:20+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0321raw2.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T14:16:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0422raw3.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T15:45:36+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP0430raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T15:52:25+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP0509raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.45168375969886
+  lon: 22.442421689606075
+  altitude: 288.05
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T10:56:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: IMGP0546raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.45132560100356
+  lon: 22.441556593466622
+  altitude: 310.64
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 1600
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T11:09:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP0567raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.469294557306064
+  lon: 22.411437062452343
+  altitude: 350.54
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 80
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T12:57:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0592raw2.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.445238160043544
+  lon: 22.399737853628537
+  altitude: 349.58
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T13:51:42+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0670raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.44616880268528
+  lon: 22.397330068064754
+  altitude: 349.1
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T14:21:18+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0679raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  lat: 49.44611046461512
+  lon: 22.397310454498818
+  altitude: 348.62
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-11T14:24:29+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP9990raw1.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 55
+  focal_length_35: 82
+  crop: 1.5
+  aperture: 0
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 1600
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-09T07:21:25+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2013-11-11-fotowarsztaty-w-bieszczadach
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-10T15:39:44+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3

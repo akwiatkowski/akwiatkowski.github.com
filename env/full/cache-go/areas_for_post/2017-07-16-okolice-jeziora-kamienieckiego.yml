@@ -1,0 +1,141 @@
+---
+- type: bicycle
+  total_distance_meters: 56210.57
+  total_distance_km: 56.211
+  points_count: 243
+  towns:
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+      distance_meters: 17221.93
+      distance_km: 17.222
+      distance_percent: 30.6382
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 17192.78
+      distance_km: 17.193
+      distance_percent: 30.5864
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 10777.75
+      distance_km: 10.778
+      distance_percent: 19.1739
+    - slug: orchowo
+      name: Orchowo
+      code: "3023032"
+      distance_meters: 6155.43
+      distance_km: 6.155
+      distance_percent: 10.9507
+    - slug: janikowo
+      name: Janikowo
+      code: "0407053"
+      distance_meters: 4862.68
+      distance_km: 4.863
+      distance_percent: 8.6508
+  counties:
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 27970.53
+      distance_km: 27.971
+      distance_percent: 49.7603
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 17221.93
+      distance_km: 17.222
+      distance_percent: 30.6382
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+      distance_meters: 6155.43
+      distance_km: 6.155
+      distance_percent: 10.9507
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+      distance_meters: 4862.68
+      distance_km: 4.863
+      distance_percent: 8.6508
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 32833.21
+      distance_km: 32.833
+      distance_percent: 58.4111
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 23377.37
+      distance_km: 23.377
+      distance_percent: 41.5889
+  meso_regions:
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 53828.01
+      distance_km: 53.828
+      distance_percent: 95.7614
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 2382.56
+      distance_km: 2.383
+      distance_percent: 4.2386
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 56210.57
+      distance_km: 56.211
+      distance_percent: 100
+  touched_towns:
+    - slug: janikowo
+      name: Janikowo
+      code: "0407053"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: orchowo
+      name: Orchowo
+      code: "3023032"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

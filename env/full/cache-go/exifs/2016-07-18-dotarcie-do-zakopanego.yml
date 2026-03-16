@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP2270raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.292462803445574
+  lon: 19.964860109508546
+  altitude: 866.77
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-07-18T13:42:05+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP2302raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.274918641913914
+  lon: 19.980873148924278
+  altitude: 961.94
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 5285
+  height: 3523
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-07-18T15:46:54+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP2324raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.25938957370313
+  lon: 19.966757856299914
+  altitude: 1184.48
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 160
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-07-18T16:37:36+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP2362raw1.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.25929661835749
+  lon: 19.96701057069897
+  altitude: 1192.17
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-07-18T18:59:07+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-07-18-dotarcie-do-zakopanego
+  lat: 49.26258081577389
+  lon: 19.971898477506272
+  altitude: 1126.32
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.05
+  exposure_string: 1/20 s
+  iso: 400
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-07-18T16:25:23+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

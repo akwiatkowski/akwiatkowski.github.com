@@ -1,0 +1,96 @@
+---
+- type: bicycle
+  total_distance_meters: 30682.48
+  total_distance_km: 30.682
+  points_count: 182
+  towns:
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+      distance_meters: 12705.32
+      distance_km: 12.705
+      distance_percent: 41.409
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+      distance_meters: 9934.87
+      distance_km: 9.935
+      distance_percent: 32.3796
+    - slug: ksiazki
+      name: Książki
+      code: "0417032"
+      distance_meters: 8042.28
+      distance_km: 8.042
+      distance_percent: 26.2113
+  counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+      distance_meters: 22640.19
+      distance_km: 22.64
+      distance_percent: 73.7887
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+      distance_meters: 8042.28
+      distance_km: 8.042
+      distance_percent: 26.2113
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 30682.48
+      distance_km: 30.682
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+      distance_meters: 28548.37
+      distance_km: 28.548
+      distance_percent: 93.0446
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+      distance_meters: 2134.1
+      distance_km: 2.134
+      distance_percent: 6.9554
+  macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 30682.48
+      distance_km: 30.682
+      distance_percent: 100
+  touched_towns:
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+    - slug: ksiazki
+      name: Książki
+      code: "0417032"
+  touched_counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+  touched_macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316

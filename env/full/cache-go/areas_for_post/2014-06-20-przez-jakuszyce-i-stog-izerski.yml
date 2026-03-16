@@ -1,0 +1,96 @@
+---
+- type: bicycle
+  total_distance_meters: 55195.69
+  total_distance_km: 55.196
+  points_count: 550
+  towns:
+    - slug: mirsk
+      name: Mirsk
+      code: "0212043"
+      distance_meters: 24752.76
+      distance_km: 24.753
+      distance_percent: 44.8455
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+      distance_meters: 23704.18
+      distance_km: 23.704
+      distance_percent: 42.9457
+    - slug: stara_kamienica
+      name: Stara Kamienica
+      code: "0206092"
+      distance_meters: 6738.74
+      distance_km: 6.739
+      distance_percent: 12.2088
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 30442.93
+      distance_km: 30.443
+      distance_percent: 55.1545
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+      distance_meters: 24752.76
+      distance_km: 24.753
+      distance_percent: 44.8455
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 55195.69
+      distance_km: 55.196
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+      distance_meters: 53424.34
+      distance_km: 53.424
+      distance_percent: 96.7908
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+      distance_meters: 1771.34
+      distance_km: 1.771
+      distance_percent: 3.2092
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 55195.69
+      distance_km: 55.196
+      distance_percent: 100
+  touched_towns:
+    - slug: mirsk
+      name: Mirsk
+      code: "0212043"
+    - slug: stara_kamienica
+      name: Stara Kamienica
+      code: "0206092"
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

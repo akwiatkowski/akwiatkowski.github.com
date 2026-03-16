@@ -1,0 +1,96 @@
+---
+- type: bicycle
+  total_distance_meters: 35792.03
+  total_distance_km: 35.792
+  points_count: 138
+  towns:
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+      distance_meters: 13520.74
+      distance_km: 13.521
+      distance_percent: 37.7759
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 12913.98
+      distance_km: 12.914
+      distance_percent: 36.0806
+    - slug: rokietnica
+      name: Rokietnica
+      code: "3021132"
+      distance_meters: 9357.3
+      distance_km: 9.357
+      distance_percent: 26.1435
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 22271.28
+      distance_km: 22.271
+      distance_percent: 62.2241
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+      distance_meters: 13520.74
+      distance_km: 13.521
+      distance_percent: 37.7759
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 12913.98
+      distance_km: 12.914
+      distance_percent: 36.0806
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 35792.03
+      distance_km: 35.792
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 35792.03
+      distance_km: 35.792
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 35792.03
+      distance_km: 35.792
+      distance_percent: 100
+  touched_towns:
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: rokietnica
+      name: Rokietnica
+      code: "3021132"
+  touched_counties:
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

@@ -1,0 +1,49 @@
+---
+- type: hike
+  total_distance_meters: 2841.12
+  total_distance_km: 2.841
+  points_count: 61
+  towns:
+    - slug: jastarnia
+      name: Jastarnia
+      code: "2211023"
+      distance_meters: 2836.1
+      distance_km: 2.836
+      distance_percent: 99.8231
+  counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+      distance_meters: 2836.1
+      distance_km: 2.836
+      distance_percent: 99.8231
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 2836.1
+      distance_km: 2.836
+      distance_percent: 99.8231
+  meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"
+      distance_meters: 2258.43
+      distance_km: 2.258
+      distance_percent: 79.4909
+  touched_towns:
+    - slug: jastarnia
+      name: Jastarnia
+      code: "2211023"
+  touched_counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"

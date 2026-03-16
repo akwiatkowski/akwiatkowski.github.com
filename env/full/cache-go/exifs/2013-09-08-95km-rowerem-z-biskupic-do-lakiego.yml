@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP8486raw_b.jpg
+  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
+  lat: 52.517264
+  lon: 17.386741
+  altitude: 111.3
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-09-08T11:14:07+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8506raw_b.jpg
+  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
+  lat: 52.560110999925875
+  lon: 17.630639000000002
+  altitude: 112.8
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-09-08T12:44:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP8526raw_b.jpg
+  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
+  lat: 52.613318
+  lon: 18.133489
+  altitude: 98.8
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-09-08T16:01:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2013-09-08-95km-rowerem-z-biskupic-do-lakiego
+  lat: 52.460832
+  lon: 17.200322
+  altitude: 98.1
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-09-08T09:43:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 6197.51
+  total_distance_km: 6.198
+  points_count: 121
+  towns:
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+      distance_meters: 6197.51
+      distance_km: 6.198
+      distance_percent: 100
+  counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 6197.51
+      distance_km: 6.198
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 6197.51
+      distance_km: 6.198
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 6197.51
+      distance_km: 6.198
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 6197.51
+      distance_km: 6.198
+      distance_percent: 100
+  touched_towns:
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+  touched_counties:
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316

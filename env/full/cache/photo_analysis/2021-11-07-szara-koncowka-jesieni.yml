@@ -1,0 +1,451 @@
+---
+- image_filename: 2021_11_07__15_12_DSC00007.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 7f7f7fffff000000
+  dhash: ece2f8f8f0d9f0f0
+  phash: c0842ffadc1731f4
+  avg_rgb:
+  - 89
+  - 88
+  - 85
+  top5_rgb:
+  - - 100
+    - 99
+    - 104
+  - - 101
+    - 100
+    - 105
+  - - 104
+    - 102
+    - 107
+  - - 51
+    - 57
+    - 37
+  - - 97
+    - 96
+    - 101
+- image_filename: 2021_11_07__15_29_DSC00041.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 0010e0ee1cfe7c00
+  dhash: 5464c49c7950d8cd
+  phash: d36c269938e1e54b
+  avg_rgb:
+  - 82
+  - 71
+  - 40
+  top5_rgb:
+  - - 62
+    - 59
+    - 47
+  - - 48
+    - 46
+    - 35
+  - - 199
+    - 134
+    - 56
+  - - 35
+    - 32
+    - 20
+  - - 67
+    - 70
+    - 51
+- image_filename: 2021_11_07__15_34_DSC00060.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 7c3c3c5cce1e0e00
+  dhash: d0f4f0999cb43ad6
+  phash: d0ca2ff1731b0666
+  avg_rgb:
+  - 108
+  - 75
+  - 23
+  top5_rgb:
+  - - 142
+    - 98
+    - 5
+  - - 183
+    - 115
+    - 43
+  - - 191
+    - 139
+    - 2
+  - - 206
+    - 152
+    - 10
+  - - 171
+    - 122
+    - 10
+- image_filename: 2021_11_07__15_34_DSC00061.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 10343c3e1e0ce6ef
+  dhash: b46564b8fa58cc4a
+  phash: 974c6618b9f638c5
+  avg_rgb:
+  - 111
+  - 77
+  - 24
+  top5_rgb:
+  - - 197
+    - 141
+    - 4
+  - - 172
+    - 129
+    - 9
+  - - 145
+    - 100
+    - 11
+  - - 181
+    - 116
+    - 47
+  - - 143
+    - 100
+    - 52
+- image_filename: 2021_11_07__15_37_DSC00078.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 0000067e7e3c0400
+  dhash: 584a4cccc8e8cca4
+  phash: 93fd6cc3c3301e43
+  avg_rgb:
+  - 59
+  - 51
+  - 6
+  top5_rgb:
+  - - 50
+    - 44
+    - 12
+  - - 42
+    - 39
+    - 1
+  - - 38
+    - 33
+    - 1
+  - - 45
+    - 42
+    - 2
+  - - 50
+    - 43
+    - 2
+- image_filename: 2021_11_07__15_39_DSC00088.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: a8387c6e387c1b1e
+  dhash: 49a3d8dae2b0b272
+  phash: c1621f6e07b1d38d
+  avg_rgb:
+  - 126
+  - 78
+  - 27
+  top5_rgb:
+  - - 176
+    - 102
+    - 4
+  - - 196
+    - 118
+    - 49
+  - - 197
+    - 118
+    - 7
+  - - 138
+    - 77
+    - 5
+  - - 110
+    - 52
+    - 5
+- image_filename: 2021_11_07__15_41_DSC00095.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 003c0e62303e7e0d
+  dhash: e0e8dcd6c0f2f8d9
+  phash: 917f1acd62d53852
+  avg_rgb:
+  - 103
+  - 65
+  - 24
+  top5_rgb:
+  - - 196
+    - 117
+    - 64
+  - - 81
+    - 59
+    - 36
+  - - 149
+    - 80
+    - 9
+  - - 169
+    - 94
+    - 13
+  - - 59
+    - 42
+    - 25
+- image_filename: 2021_11_07__15_42_DSC00101.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 00080c0efefe3e3e
+  dhash: f6f2d8d89a6ef0f4
+  phash: 95384ce730db26b3
+  avg_rgb:
+  - 81
+  - 60
+  - 33
+  top5_rgb:
+  - - 34
+    - 28
+    - 15
+  - - 58
+    - 46
+    - 27
+  - - 117
+    - 91
+    - 66
+  - - 28
+    - 22
+    - 5
+  - - 43
+    - 36
+    - 22
+- image_filename: 2021_11_07__15_52_DSC00146.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 0a1a1c7e1c043c5c
+  dhash: d672f8dcf86d6cd0
+  phash: 918d6d3621b37b4a
+  avg_rgb:
+  - 72
+  - 54
+  - 17
+  top5_rgb:
+  - - 225
+    - 154
+    - 10
+  - - 44
+    - 37
+    - 22
+  - - 40
+    - 33
+    - 19
+  - - 35
+    - 29
+    - 7
+  - - 36
+    - 29
+    - 14
+- image_filename: 2021_11_07__15_53_DSC00152.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: c3c1e3637ff3ff20
+  dhash: 868747c6d346a5c3
+  phash: e4347af451b47790
+  avg_rgb:
+  - 105
+  - 85
+  - 41
+  top5_rgb:
+  - - 211
+    - 156
+    - 34
+  - - 152
+    - 116
+    - 72
+  - - 183
+    - 138
+    - 36
+  - - 97
+    - 92
+    - 51
+  - - 113
+    - 103
+    - 74
+- image_filename: 2021_11_07__15_56_DSC00165.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 0e1e1e1e1e1c1c18
+  dhash: b8b8b8b0b4b0f171
+  phash: 98f96b6727624236
+  avg_rgb:
+  - 89
+  - 77
+  - 50
+  top5_rgb:
+  - - 69
+    - 63
+    - 52
+  - - 107
+    - 99
+    - 79
+  - - 142
+    - 133
+    - 80
+  - - 98
+    - 92
+    - 74
+  - - 64
+    - 59
+    - 48
+- image_filename: 2021_11_07__15_58_DSC00172.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 3e3e3e2c647c7c7c
+  dhash: f4e46adccce0f0f8
+  phash: d5959d8630796723
+  avg_rgb:
+  - 77
+  - 66
+  - 45
+  top5_rgb:
+  - - 86
+    - 77
+    - 66
+  - - 105
+    - 87
+    - 69
+  - - 57
+    - 53
+    - 45
+  - - 95
+    - 77
+    - 52
+  - - 78
+    - 53
+    - 30
+- image_filename: 2021_11_07__15_58_DSC00175.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: ffff007f1c000000
+  dhash: 98b0b8b0e0f8f9f1
+  phash: 9090b39391937f2f
+  avg_rgb:
+  - 80
+  - 79
+  - 71
+  top5_rgb:
+  - - 64
+    - 54
+    - 39
+  - - 50
+    - 52
+    - 48
+  - - 31
+    - 26
+    - 19
+  - - 181
+    - 205
+    - 218
+  - - 33
+    - 30
+    - 21
+- image_filename: 2021_11_07__16_00_DSC00179.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 18387c7cfe7c0030
+  dhash: f0e0c0d070e070e0
+  phash: c50b3a1cf833c33e
+  avg_rgb:
+  - 67
+  - 68
+  - 61
+  top5_rgb:
+  - - 76
+    - 78
+    - 73
+  - - 67
+    - 69
+    - 64
+  - - 85
+    - 90
+    - 88
+  - - 56
+    - 57
+    - 51
+  - - 59
+    - 61
+    - 53
+- image_filename: 2021_11_07__16_02_DSC00182.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: 00387c7f7e785070
+  dhash: c6e4f1f0e0e0b4a0
+  phash: 800f7f24b5394b7a
+  avg_rgb:
+  - 55
+  - 55
+  - 46
+  top5_rgb:
+  - - 36
+    - 33
+    - 23
+  - - 22
+    - 20
+    - 13
+  - - 27
+    - 30
+    - 23
+  - - 28
+    - 24
+    - 16
+  - - 118
+    - 123
+    - 114
+- image_filename: 2021_11_07__16_07_DSC00192.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: fdfdfd7c005c0000
+  dhash: a1a1a9b9b1b1a1e1
+  phash: c8c86d6c3dd1d037
+  avg_rgb:
+  - 70
+  - 84
+  - 92
+  top5_rgb:
+  - - 124
+    - 164
+    - 198
+  - - 137
+    - 182
+    - 218
+  - - 131
+    - 172
+    - 206
+  - - 150
+    - 193
+    - 226
+  - - 56
+    - 55
+    - 50
+- image_filename: 2021_11_07__16_21_DSC00196.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: fffcf4c6e0200818
+  dhash: 9488299c09425070
+  phash: d1f209a73c17265b
+  avg_rgb:
+  - 92
+  - 83
+  - 84
+  top5_rgb:
+  - - 138
+    - 158
+    - 190
+  - - 70
+    - 34
+    - 2
+  - - 95
+    - 39
+    - 2
+  - - 34
+    - 24
+    - 2
+  - - 132
+    - 147
+    - 178
+- image_filename: 2021_11_07__16_24_DSC00207.jpg
+  post_slug: 2021-11-07-szara-koncowka-jesieni
+  ahash: e3e36778340440b0
+  dhash: 0a8b8ed4cd4c8c69
+  phash: e2e1f832ccfc9606
+  avg_rgb:
+  - 79
+  - 59
+  - 33
+  top5_rgb:
+  - - 92
+    - 69
+    - 17
+  - - 92
+    - 95
+    - 79
+  - - 131
+    - 128
+    - 108
+  - - 157
+    - 104
+    - 17
+  - - 139
+    - 100
+    - 21

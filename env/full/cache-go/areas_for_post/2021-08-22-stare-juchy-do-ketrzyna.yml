@@ -1,0 +1,147 @@
+---
+- type: bicycle
+  total_distance_meters: 83066.48
+  total_distance_km: 83.066
+  points_count: 244
+  towns:
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808032"
+      distance_meters: 18010.29
+      distance_km: 18.01
+      distance_percent: 21.6818
+    - slug: ryn
+      name: Ryn
+      code: "2806083"
+      distance_meters: 17856.29
+      distance_km: 17.856
+      distance_percent: 21.4964
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+      distance_meters: 16969.83
+      distance_km: 16.97
+      distance_percent: 20.4292
+    - slug: wydminy
+      name: Wydminy
+      code: "2806102"
+      distance_meters: 13303.43
+      distance_km: 13.303
+      distance_percent: 16.0154
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+      distance_meters: 10430.22
+      distance_km: 10.43
+      distance_percent: 12.5565
+    - slug: stare_juchy
+      name: Stare Juchy
+      code: "2805052"
+      distance_meters: 6496.41
+      distance_km: 6.496
+      distance_percent: 7.8207
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+      distance_meters: 2666.9
+      distance_km: 2.667
+      distance_percent: 3.2106
+  counties:
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+      distance_meters: 58559.78
+      distance_km: 58.56
+      distance_percent: 70.4975
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 18010.29
+      distance_km: 18.01
+      distance_percent: 21.6818
+    - slug: elcki
+      name: ełcki
+      code: "2805"
+      distance_meters: 6496.41
+      distance_km: 6.496
+      distance_percent: 7.8207
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 83066.48
+      distance_km: 83.066
+      distance_percent: 100
+  meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 64412.54
+      distance_km: 64.413
+      distance_percent: 77.5434
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 15084.71
+      distance_km: 15.085
+      distance_percent: 18.1598
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+      distance_meters: 3569.22
+      distance_km: 3.569
+      distance_percent: 4.2968
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 83066.48
+      distance_km: 83.066
+      distance_percent: 100
+  touched_towns:
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+    - slug: ryn
+      name: Ryn
+      code: "2806083"
+    - slug: stare_juchy
+      name: Stare Juchy
+      code: "2805052"
+    - slug: wydminy
+      name: Wydminy
+      code: "2806102"
+  touched_counties:
+    - slug: elcki
+      name: ełcki
+      code: "2805"
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+  touched_macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

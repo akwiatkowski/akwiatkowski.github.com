@@ -1,0 +1,386 @@
+---
+- image_filename: 2023_05_28__06_39_P5282622.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.14565277777778
+  lon: 17.225680555555552
+  altitude: 70
+  focal_length: 44
+  focal_length_35: 88
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8027
+  height: 5895
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T06:39:57+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__06_40_P5282623.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.14565277777778
+  lon: 17.225680555555552
+  altitude: 70
+  focal_length: 54
+  focal_length_35: 108
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8139
+  height: 6050
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T06:40:21+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_03_P5282624.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.1285
+  lon: 17.16197222222222
+  altitude: 79
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8126
+  height: 6067
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:03:33+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_04_P5282625.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.12848611111111
+  lon: 17.161944444444444
+  altitude: 79
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:04:01+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_04_P5282626.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.12848611111111
+  lon: 17.16195833333333
+  altitude: 79
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:04:26+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_19_P5282627.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.11183333333334
+  lon: 17.114
+  altitude: 67
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4489
+  height: 3355
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:19:55+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_34_P5282631.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.152791666666666
+  lon: 17.085416666666667
+  altitude: 75
+  focal_length: 66
+  focal_length_35: 132
+  crop: 2
+  aperture: 5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8139
+  height: 6068
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:34:30+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_35_P5282632.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.15277777777778
+  lon: 17.085430555555554
+  altitude: 75
+  focal_length: 34
+  focal_length_35: 68
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8135
+  height: 6042
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:35:27+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__07_35_P5282633.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.15277777777778
+  lon: 17.085430555555554
+  altitude: 75
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8083
+  height: 5982
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T07:35:52+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__08_09_P5282639.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.233291666666666
+  lon: 17.014208333333332
+  altitude: 67
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T08:09:58+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_05_28__08_10_P5282640.jpg
+  post_slug: 2023-05-28-cieply-poranek
+  lat: 52.233291666666666
+  lon: 17.014208333333332
+  altitude: 67
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-05-28T08:10:03+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

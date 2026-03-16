@@ -1,0 +1,89 @@
+---
+- image_filename: IMGP7253raw2.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 13
+  exposure: 13
+  exposure_string: 13.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-10-04T07:17:18+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: -0.7
+- image_filename: IMGP7286raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 9
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-10-04T07:34:36+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: -0.7
+- image_filename: IMGP7311raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 11
+  exposure: 4
+  exposure_string: 4.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-10-04T07:50:50+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: -0.7
+- image_filename: header.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 13
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-10-04T07:10:33+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: -0.7

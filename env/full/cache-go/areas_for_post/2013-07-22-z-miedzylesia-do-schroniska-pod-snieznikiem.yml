@@ -1,0 +1,87 @@
+---
+- type: hike
+  total_distance_meters: 18662.85
+  total_distance_km: 18.663
+  points_count: 277
+  towns:
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+      distance_meters: 16794.14
+      distance_km: 16.794
+      distance_percent: 89.987
+    - slug: bystrzyca_klodzka
+      name: Bystrzyca Kłodzka
+      code: "0208063"
+      distance_meters: 1868.71
+      distance_km: 1.869
+      distance_percent: 10.013
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 18662.85
+      distance_km: 18.663
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 18662.85
+      distance_km: 18.663
+      distance_percent: 100
+  meso_regions:
+    - slug: masyw_snieznika
+      name: Masyw Śnieżnika
+      code: "332.62"
+      distance_meters: 12540.74
+      distance_km: 12.541
+      distance_percent: 67.1963
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+      distance_meters: 6122.11
+      distance_km: 6.122
+      distance_percent: 32.8037
+  macro_regions:
+    - slug: sudety_wschodnie
+      name: Sudety Wschodnie
+      code: "332"
+      distance_meters: 12540.74
+      distance_km: 12.541
+      distance_percent: 67.1963
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 6122.11
+      distance_km: 6.122
+      distance_percent: 32.8037
+  touched_towns:
+    - slug: bystrzyca_klodzka
+      name: Bystrzyca Kłodzka
+      code: "0208063"
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: masyw_snieznika
+      name: Masyw Śnieżnika
+      code: "332.62"
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+    - slug: sudety_wschodnie
+      name: Sudety Wschodnie
+      code: "332"

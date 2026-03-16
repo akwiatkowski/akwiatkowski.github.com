@@ -1,0 +1,26 @@
+---
+- image_filename: header.jpg
+  post_slug: 2014-06-21-ze-szklarskiej-poreby-przez-karpacz-do-jeleniej-gory
+  lat: 50.80697069882017
+  lon: 15.605561351427763
+  altitude: 684.12
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-06-21T09:55:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7

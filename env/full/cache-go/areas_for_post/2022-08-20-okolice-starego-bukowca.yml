@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 9110.38
+  total_distance_km: 9.11
+  points_count: 141
+  towns:
+    - slug: stara_kiszewa
+      name: Stara Kiszewa
+      code: "2206082"
+      distance_meters: 9110.38
+      distance_km: 9.11
+      distance_percent: 100
+  counties:
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+      distance_meters: 9110.38
+      distance_km: 9.11
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 9110.38
+      distance_km: 9.11
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 9043.9
+      distance_km: 9.044
+      distance_percent: 99.2703
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 66.48
+      distance_km: 0.066
+      distance_percent: 0.7297
+  macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 9043.9
+      distance_km: 9.044
+      distance_percent: 99.2703
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 66.48
+      distance_km: 0.066
+      distance_percent: 0.7297
+  touched_towns:
+    - slug: stara_kiszewa
+      name: Stara Kiszewa
+      code: "2206082"
+  touched_counties:
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316

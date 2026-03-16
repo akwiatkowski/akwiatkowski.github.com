@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 48549.02
+  total_distance_km: 48.549
+  points_count: 340
+  towns:
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+      distance_meters: 41642.38
+      distance_km: 41.642
+      distance_percent: 85.7739
+    - slug: sulecin
+      name: Sulęcin
+      code: "0807043"
+      distance_meters: 3654.02
+      distance_km: 3.654
+      distance_percent: 7.5264
+    - slug: lubrza
+      name: Lubrza
+      code: "0808012"
+      distance_meters: 3252.63
+      distance_km: 3.253
+      distance_percent: 6.6997
+  counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 41642.38
+      distance_km: 41.642
+      distance_percent: 85.7739
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 3654.02
+      distance_km: 3.654
+      distance_percent: 7.5264
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+      distance_meters: 3252.63
+      distance_km: 3.253
+      distance_percent: 6.6997
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 48549.02
+      distance_km: 48.549
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 28175.64
+      distance_km: 28.176
+      distance_percent: 58.0354
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 20373.38
+      distance_km: 20.373
+      distance_percent: 41.9646
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 48549.02
+      distance_km: 48.549
+      distance_percent: 100
+  touched_towns:
+    - slug: lubrza
+      name: Lubrza
+      code: "0808012"
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+    - slug: sulecin
+      name: Sulęcin
+      code: "0807043"
+  touched_counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316

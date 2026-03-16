@@ -1,0 +1,806 @@
+---
+- image_filename: 2020_11_07__15_34_DSC06147.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58759722222222
+  lon: 17.077930555555554
+  altitude: 68
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:34:17+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_35_DSC06148.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58748611111111
+  lon: 17.077875
+  altitude: 69
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:35:10+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_42_DSC06167.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58734722222223
+  lon: 17.085666666666665
+  altitude: 75
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5982
+  height: 3926
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:42:08+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_43_DSC06168.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58827777777778
+  lon: 17.08675
+  altitude: 75
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 2
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:43:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_44_DSC06170.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58854166666667
+  lon: 17.086805555555554
+  altitude: 75
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5943
+  height: 3861
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:44:16+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_48_DSC06175.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58940277777778
+  lon: 17.08513888888889
+  altitude: 76
+  focal_length: 220.6
+  focal_length_35: 220
+  crop: 1
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 1000
+  width: 5751
+  height: 3839
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:48:23+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_50_DSC06178.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58954166666667
+  lon: 17.084847222222223
+  altitude: 76
+  focal_length: 118.2
+  focal_length_35: 118
+  crop: 1
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 2500
+  width: 5751
+  height: 3839
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:50:03+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_53_DSC06191.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.59022222222222
+  lon: 17.083388888888887
+  altitude: 75
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 4959
+  height: 3009
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:53:50+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__15_58_DSC06222.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.59077777777778
+  lon: 17.08223611111111
+  altitude: 78
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 3771
+  height: 2825
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-11-07T15:58:21+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_07_DSC06239.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58952777777778
+  lon: 17.078208333333333
+  altitude: 68
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:07:27+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_08_DSC06244.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58952777777778
+  lon: 17.078097222222222
+  altitude: 67
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:08:03+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_16_DSC06276.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58965277777778
+  lon: 17.07736111111111
+  altitude: 62
+  focal_length: 43
+  focal_length_35: 43
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 5850
+  height: 3892
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:16:04+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_30_DSC06284.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.588486111111116
+  lon: 17.07761111111111
+  altitude: 66
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 125
+  width: 4024
+  height: 6047
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:30:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_33_DSC06289.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58775
+  lon: 17.077930555555554
+  altitude: 67
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 1600
+  width: 4024
+  height: 6047
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:33:38+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_36_DSC06295.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58726388888889
+  lon: 17.07788888888889
+  altitude: 70
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:36:01+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_37_DSC06304.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.587069444444445
+  lon: 17.07788888888889
+  altitude: 70
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 8000
+  width: 3528
+  height: 2408
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:37:57+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 1.3
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_38_DSC06308.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58697222222222
+  lon: 17.07784722222222
+  altitude: 69
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  width: 4023
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:38:53+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_39_DSC06312.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58691666666667
+  lon: 17.077833333333334
+  altitude: 69
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 4023
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:39:23+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_48_DSC06339.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58565277777778
+  lon: 17.07990277777778
+  altitude: 68
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 6048
+  height: 4024
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:48:15+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_50_DSC06347.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.585347222222225
+  lon: 17.080555555555556
+  altitude: 67
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:50:35+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__16_56_DSC06355.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58434722222223
+  lon: 17.079763888888888
+  altitude: 68
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 640
+  width: 5769
+  height: 3839
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T16:56:41+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__17_02_DSC06371.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.58416666666667
+  lon: 17.080291666666668
+  altitude: 67
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 2000
+  width: 4024
+  height: 6047
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T17:02:44+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_11_07__17_17_DSC06390.jpg
+  post_slug: 2020-11-07-szary-listopad
+  lat: 52.61066666666667
+  lon: 17.090694444444445
+  altitude: 79
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 4000
+  width: 5960
+  height: 3965
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2020-11-07T17:17:34+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84

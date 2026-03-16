@@ -1,0 +1,159 @@
+---
+- type: bicycle
+  total_distance_meters: 87978.81
+  total_distance_km: 87.979
+  points_count: 293
+  towns:
+    - slug: kobylin
+      name: Kobylin
+      code: "3012023"
+      distance_meters: 22631.8
+      distance_km: 22.632
+      distance_percent: 25.7242
+    - slug: rozdrazew
+      name: Rozdrażew
+      code: "3012052"
+      distance_meters: 12888.4
+      distance_km: 12.888
+      distance_percent: 14.6494
+    - slug: miejska_gorka
+      name: Miejska Górka
+      code: "3022033"
+      distance_meters: 11862.23
+      distance_km: 11.862
+      distance_percent: 13.4831
+    - slug: dobrzyca
+      name: Dobrzyca
+      code: "3020033"
+      distance_meters: 10787.7
+      distance_km: 10.788
+      distance_percent: 12.2617
+    - slug: rawicz
+      name: Rawicz
+      code: "3022053"
+      distance_meters: 9058.37
+      distance_km: 9.058
+      distance_percent: 10.2961
+    - slug: krotoszyn
+      name: Krotoszyn
+      code: "3012043"
+      distance_meters: 9043.5
+      distance_km: 9.043
+      distance_percent: 10.2792
+    - slug: jutrosin
+      name: Jutrosin
+      code: "3022023"
+      distance_meters: 8350.61
+      distance_km: 8.351
+      distance_percent: 9.4916
+    - slug: pleszew
+      name: Pleszew
+      code: "3020063"
+      distance_meters: 3356.19
+      distance_km: 3.356
+      distance_percent: 3.8148
+  counties:
+    - slug: krotoszynski
+      name: krotoszyński
+      code: "3012"
+      distance_meters: 44563.7
+      distance_km: 44.564
+      distance_percent: 50.6528
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+      distance_meters: 29271.21
+      distance_km: 29.271
+      distance_percent: 33.2708
+    - slug: pleszewski
+      name: pleszewski
+      code: "3020"
+      distance_meters: 14143.89
+      distance_km: 14.144
+      distance_percent: 16.0765
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 87978.81
+      distance_km: 87.979
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+      distance_meters: 78389.64
+      distance_km: 78.39
+      distance_percent: 89.1006
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+      distance_meters: 9589.16
+      distance_km: 9.589
+      distance_percent: 10.8994
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 78389.64
+      distance_km: 78.39
+      distance_percent: 89.1006
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 9589.16
+      distance_km: 9.589
+      distance_percent: 10.8994
+  touched_towns:
+    - slug: dobrzyca
+      name: Dobrzyca
+      code: "3020033"
+    - slug: jutrosin
+      name: Jutrosin
+      code: "3022023"
+    - slug: kobylin
+      name: Kobylin
+      code: "3012023"
+    - slug: krotoszyn
+      name: Krotoszyn
+      code: "3012043"
+    - slug: miejska_gorka
+      name: Miejska Górka
+      code: "3022033"
+    - slug: pleszew
+      name: Pleszew
+      code: "3020063"
+    - slug: rawicz
+      name: Rawicz
+      code: "3022053"
+    - slug: rozdrazew
+      name: Rozdrażew
+      code: "3012052"
+  touched_counties:
+    - slug: krotoszynski
+      name: krotoszyński
+      code: "3012"
+    - slug: pleszewski
+      name: pleszewski
+      code: "3020"
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"

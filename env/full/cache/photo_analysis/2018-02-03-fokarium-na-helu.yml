@@ -1,0 +1,601 @@
+---
+- image_filename: IMGP5216raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: fffe7e060c0c0400
+  dhash: e0e0e8d838d8cca4
+  phash: 91c2ccf93e13c9cc
+  avg_rgb:
+  - 107
+  - 106
+  - 103
+  top5_rgb:
+  - - 128
+    - 99
+    - 75
+  - - 107
+    - 85
+    - 65
+  - - 134
+    - 155
+    - 167
+  - - 128
+    - 119
+    - 119
+  - - 149
+    - 144
+    - 150
+- image_filename: IMGP5220raw1true.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: ffffffe000000000
+  dhash: f3e4c5c4c7c6c1c3
+  phash: c4c8985b7b9aaa6a
+  avg_rgb:
+  - 82
+  - 110
+  - 147
+  top5_rgb:
+  - - 47
+    - 74
+    - 111
+  - - 43
+    - 52
+    - 68
+  - - 130
+    - 173
+    - 228
+  - - 39
+    - 48
+    - 64
+  - - 51
+    - 80
+    - 120
+- image_filename: IMGP5237raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 000000c0e0f8feff
+  dhash: "8000809081405846"
+  phash: f0299f462990cf37
+  avg_rgb:
+  - 122
+  - 122
+  - 122
+  top5_rgb:
+  - - 96
+    - 96
+    - 96
+  - - 94
+    - 94
+    - 93
+  - - 93
+    - 93
+    - 93
+  - - 90
+    - 90
+    - 89
+  - - 95
+    - 95
+    - 95
+- image_filename: IMGP5238raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 7e7f06043873170e
+  dhash: fcfefcecd3cbb6bc
+  phash: 95ca95eb53a4433c
+  avg_rgb:
+  - 116
+  - 116
+  - 116
+  top5_rgb:
+  - - 108
+    - 109
+    - 109
+  - - 125
+    - 126
+    - 127
+  - - 116
+    - 117
+    - 117
+  - - 121
+    - 122
+    - 122
+  - - 144
+    - 141
+    - 140
+- image_filename: IMGP5247raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 7f7fff0d0d0c1c1c
+  dhash: f0f0f0c9d970f0f0
+  phash: 91f0c43d33e6cc99
+  avg_rgb:
+  - 117
+  - 116
+  - 115
+  top5_rgb:
+  - - 124
+    - 119
+    - 114
+  - - 152
+    - 156
+    - 161
+  - - 141
+    - 131
+    - 120
+  - - 154
+    - 159
+    - 164
+  - - 71
+    - 64
+    - 60
+- image_filename: IMGP5249raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 0000001818387cfe
+  dhash: f0f0f0f0f070f0f0
+  phash: c53fd04f34c26d70
+  avg_rgb:
+  - 110
+  - 110
+  - 109
+  top5_rgb:
+  - - 60
+    - 60
+    - 60
+  - - 91
+    - 90
+    - 92
+  - - 226
+    - 228
+    - 225
+  - - 88
+    - 88
+    - 90
+  - - 78
+    - 77
+    - 78
+- image_filename: IMGP5307raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 2f1d1c0c0c9e3c0c
+  dhash: 4e7939395838f878
+  phash: 9b2f25b5626cfc04
+  avg_rgb:
+  - 107
+  - 105
+  - 108
+  top5_rgb:
+  - - 107
+    - 105
+    - 101
+  - - 76
+    - 83
+    - 76
+  - - 104
+    - 102
+    - 98
+  - - 116
+    - 115
+    - 109
+  - - 118
+    - 117
+    - 114
+- image_filename: IMGP5330raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 1e3e3277ffb3a3f7
+  dhash: faeac6cd21676626
+  phash: 861b25ddda241c7e
+  avg_rgb:
+  - 116
+  - 113
+  - 109
+  top5_rgb:
+  - - 105
+    - 106
+    - 108
+  - - 126
+    - 126
+    - 122
+  - - 154
+    - 154
+    - 151
+  - - 148
+    - 148
+    - 144
+  - - 143
+    - 144
+    - 143
+- image_filename: IMGP5345raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 04001f0007c3ffff
+  dhash: e9f9e94d1d1fea1c
+  phash: b20ecd3936c6f898
+  avg_rgb:
+  - 132
+  - 131
+  - 128
+  top5_rgb:
+  - - 189
+    - 176
+    - 157
+  - - 177
+    - 180
+    - 183
+  - - 172
+    - 175
+    - 179
+  - - 118
+    - 122
+    - 122
+  - - 88
+    - 91
+    - 90
+- image_filename: IMGP5347raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: c10c0c0c1c1c0cfd
+  dhash: 0719191939397971
+  phash: 9a63ed10ec67d813
+  avg_rgb:
+  - 91
+  - 89
+  - 88
+  top5_rgb:
+  - - 73
+    - 70
+    - 64
+  - - 65
+    - 71
+    - 73
+  - - 63
+    - 64
+    - 58
+  - - 80
+    - 78
+    - 70
+  - - 57
+    - 63
+    - 66
+- image_filename: IMGP5352raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: ffdf9890d0c0c3c7
+  dhash: 153525a4361f0f0e
+  phash: fcccb3798423c38c
+  avg_rgb:
+  - 101
+  - 100
+  - 101
+  top5_rgb:
+  - - 100
+    - 103
+    - 110
+  - - 109
+    - 117
+    - 122
+  - - 98
+    - 106
+    - 99
+  - - 86
+    - 86
+    - 97
+  - - 97
+    - 98
+    - 109
+- image_filename: IMGP5363raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 00080806f4bf7fff
+  dhash: 12b239ca6c29d294
+  phash: 9b19a9ce76017e43
+  avg_rgb:
+  - 106
+  - 105
+  - 103
+  top5_rgb:
+  - - 45
+    - 47
+    - 42
+  - - 47
+    - 52
+    - 50
+  - - 40
+    - 45
+    - 45
+  - - 45
+    - 48
+    - 48
+  - - 51
+    - 53
+    - 50
+- image_filename: IMGP5428raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 07c310101093fbff
+  dhash: ce063361672713cb
+  phash: ac36b3a696191e4b
+  avg_rgb:
+  - 115
+  - 119
+  - 119
+  top5_rgb:
+  - - 83
+    - 88
+    - 65
+  - - 65
+    - 65
+    - 56
+  - - 62
+    - 61
+    - 52
+  - - 106
+    - 115
+    - 136
+  - - 95
+    - 95
+    - 74
+- image_filename: IMGP5450raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: e7fcfe8f8f8f0206
+  dhash: 4c40183b3d3f3ebc
+  phash: bdc244aeba25aa35
+  avg_rgb:
+  - 128
+  - 132
+  - 134
+  top5_rgb:
+  - - 161
+    - 165
+    - 167
+  - - 155
+    - 154
+    - 158
+  - - 146
+    - 147
+    - 147
+  - - 159
+    - 159
+    - 165
+  - - 71
+    - 77
+    - 70
+- image_filename: IMGP5455raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 3e340440daf8c1df
+  dhash: 686c6db4b4551336
+  phash: f416afc9d0619a78
+  avg_rgb:
+  - 104
+  - 104
+  - 111
+  top5_rgb:
+  - - 52
+    - 55
+    - 67
+  - - 56
+    - 60
+    - 73
+  - - 83
+    - 76
+    - 82
+  - - 35
+    - 50
+    - 77
+  - - 98
+    - 99
+    - 100
+- image_filename: IMGP5458raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 010187c38f8fc1f3
+  dhash: b333199f1e1c9b03
+  phash: b90e4a1de561963b
+  avg_rgb:
+  - 109
+  - 112
+  - 118
+  top5_rgb:
+  - - 74
+    - 67
+    - 75
+  - - 48
+    - 52
+    - 65
+  - - 96
+    - 102
+    - 105
+  - - 142
+    - 145
+    - 146
+  - - 152
+    - 154
+    - 155
+- image_filename: IMGP5465raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: fffe0c1b810307df
+  dhash: 3a2839d31b568f16
+  phash: b5d9b425a922197e
+  avg_rgb:
+  - 122
+  - 124
+  - 127
+  top5_rgb:
+  - - 174
+    - 179
+    - 177
+  - - 110
+    - 93
+    - 81
+  - - 148
+    - 150
+    - 152
+  - - 87
+    - 105
+    - 131
+  - - 183
+    - 196
+    - 205
+- image_filename: IMGP5469raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: fefcf8e0f8f404c6
+  dhash: 5a103088d8044514
+  phash: d6c9be07c122dc1d
+  avg_rgb:
+  - 111
+  - 112
+  - 118
+  top5_rgb:
+  - - 165
+    - 172
+    - 177
+  - - 105
+    - 100
+    - 94
+  - - 115
+    - 110
+    - 103
+  - - 180
+    - 182
+    - 186
+  - - 117
+    - 132
+    - 150
+- image_filename: IMGP5500raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: f8f91f3031737060
+  dhash: e3f3656be7e78783
+  phash: ccdde8c576445634
+  avg_rgb:
+  - 108
+  - 110
+  - 112
+  top5_rgb:
+  - - 118
+    - 113
+    - 99
+  - - 187
+    - 192
+    - 200
+  - - 87
+    - 86
+    - 78
+  - - 120
+    - 136
+    - 167
+  - - 178
+    - 187
+    - 203
+- image_filename: IMGP5505raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 0c3e7c00c1c1ffff
+  dhash: f8f8f0b1b30ec8e0
+  phash: d013972d78d746c9
+  avg_rgb:
+  - 122
+  - 121
+  - 120
+  top5_rgb:
+  - - 132
+    - 126
+    - 115
+  - - 170
+    - 178
+    - 189
+  - - 103
+    - 99
+    - 95
+  - - 109
+    - 114
+    - 128
+  - - 133
+    - 142
+    - 154
+- image_filename: IMGP5508raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 0000000cffffffff
+  dhash: f0f0f8f8e4f6f4f0
+  phash: c4535be4d21b2db2
+  avg_rgb:
+  - 106
+  - 106
+  - 106
+  top5_rgb:
+  - - 102
+    - 103
+    - 109
+  - - 124
+    - 120
+    - 113
+  - - 157
+    - 158
+    - 158
+  - - 145
+    - 145
+    - 143
+  - - 72
+    - 77
+    - 79
+- image_filename: IMGP5510raw1.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 1000187ef7fbfafc
+  dhash: f0f0f0e8e6e6f2f8
+  phash: c4525becb2996da2
+  avg_rgb:
+  - 109
+  - 109
+  - 109
+  top5_rgb:
+  - - 106
+    - 110
+    - 120
+  - - 116
+    - 111
+    - 103
+  - - 112
+    - 107
+    - 98
+  - - 111
+    - 118
+    - 120
+  - - 144
+    - 141
+    - 136
+- image_filename: IMGP5517raw2.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 0000007cffffffff
+  dhash: e0f0f0f0e0e6f2d8
+  phash: c4532be493c9e4d3
+  avg_rgb:
+  - 139
+  - 143
+  - 154
+  top5_rgb:
+  - - 195
+    - 194
+    - 201
+  - - 187
+    - 170
+    - 157
+  - - 106
+    - 108
+    - 149
+  - - 185
+    - 185
+    - 191
+  - - 91
+    - 91
+    - 126
+- image_filename: IMGP5522raw1heal.jpg
+  post_slug: 2018-02-03-fokarium-na-helu
+  ahash: 003872fefbf22e2e
+  dhash: e0e084e4e6b6c8d8
+  phash: c54c136c9d336c73
+  avg_rgb:
+  - 133
+  - 133
+  - 132
+  top5_rgb:
+  - - 134
+    - 138
+    - 150
+  - - 162
+    - 156
+    - 148
+  - - 140
+    - 134
+    - 124
+  - - 106
+    - 108
+    - 120
+  - - 179
+    - 180
+    - 180

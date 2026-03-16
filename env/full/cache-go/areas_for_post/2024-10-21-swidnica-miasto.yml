@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 1282.3
+  total_distance_km: 1.282
+  points_count: 33
+  towns:
+    - slug: swidnica
+      name: Świdnica
+      code: "0219011"
+      distance_meters: 1282.3
+      distance_km: 1.282
+      distance_percent: 100
+  counties:
+    - slug: swidnicki
+      name: świdnicki
+      code: "0219"
+      distance_meters: 1282.3
+      distance_km: 1.282
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 1282.3
+      distance_km: 1.282
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_swidnicka
+      name: Równina Świdnicka
+      code: "332.12"
+      distance_meters: 1282.3
+      distance_km: 1.282
+      distance_percent: 100
+  macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+      distance_meters: 1282.3
+      distance_km: 1.282
+      distance_percent: 100
+  touched_towns:
+    - slug: swidnica
+      name: Świdnica
+      code: "0219011"
+  touched_counties:
+    - slug: swidnicki
+      name: świdnicki
+      code: "0219"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: rownina_swidnicka
+      name: Równina Świdnicka
+      code: "332.12"
+  touched_macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"

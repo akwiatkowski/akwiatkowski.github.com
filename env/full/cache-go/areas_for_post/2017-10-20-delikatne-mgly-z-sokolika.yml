@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 6440.89
+  total_distance_km: 6.441
+  points_count: 138
+  towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+      distance_meters: 4511.71
+      distance_km: 4.512
+      distance_percent: 70.0479
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+      distance_meters: 1929.18
+      distance_km: 1.929
+      distance_percent: 29.9521
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 6440.89
+      distance_km: 6.441
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 6440.89
+      distance_km: 6.441
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 6440.89
+      distance_km: 6.441
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 6440.89
+      distance_km: 6.441
+      distance_percent: 100
+  touched_towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

@@ -1,0 +1,455 @@
+---
+- type: bus
+  total_distance_meters: 142485.52
+  total_distance_km: 142.486
+  points_count: 582
+  towns:
+    - slug: szczytno
+      name: Szczytno
+      code: "2817062"
+      distance_meters: 28571.4
+      distance_km: 28.571
+      distance_percent: 20.0521
+    - slug: ryn
+      name: Ryn
+      code: "2806083"
+      distance_meters: 23429.74
+      distance_km: 23.43
+      distance_percent: 16.4436
+    - slug: mikolajki
+      name: Mikołajki
+      code: "2810023"
+      distance_meters: 21232.01
+      distance_km: 21.232
+      distance_percent: 14.9012
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810032"
+      distance_meters: 17987.13
+      distance_km: 17.987
+      distance_percent: 12.6238
+    - slug: piecki
+      name: Piecki
+      code: "2810042"
+      distance_meters: 17723.09
+      distance_km: 17.723
+      distance_percent: 12.4385
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+      distance_meters: 15812.45
+      distance_km: 15.812
+      distance_percent: 11.0976
+    - slug: wielbark
+      name: Wielbark
+      code: "2817083"
+      distance_meters: 8995.79
+      distance_km: 8.996
+      distance_percent: 6.3135
+    - slug: swietajno
+      name: Świętajno
+      code: "2817072"
+      distance_meters: 7250.03
+      distance_km: 7.25
+      distance_percent: 5.0883
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810011"
+      distance_meters: 4960.62
+      distance_km: 4.961
+      distance_percent: 3.4815
+    - slug: gizycko
+      name: Giżycko
+      code: "2806011"
+      distance_meters: 4763.55
+      distance_km: 4.764
+      distance_percent: 3.3432
+    - slug: szczytno
+      name: Szczytno
+      code: "2817011"
+      distance_meters: 3222.35
+      distance_km: 3.222
+      distance_percent: 2.2615
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+      distance_meters: 1483.88
+      distance_km: 1.484
+      distance_percent: 1.0414
+  counties:
+    - slug: mragowski
+      name: mrągowski
+      code: "2810"
+      distance_meters: 56942.23
+      distance_km: 56.942
+      distance_percent: 39.9635
+    - slug: szczycienski
+      name: szczycieński
+      code: "2817"
+      distance_meters: 44817.21
+      distance_km: 44.817
+      distance_percent: 31.4539
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+      distance_meters: 40726.07
+      distance_km: 40.726
+      distance_percent: 28.5826
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 142485.52
+      distance_km: 142.486
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 69652.45
+      distance_km: 69.652
+      distance_percent: 48.8839
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 51578.74
+      distance_km: 51.579
+      distance_percent: 36.1993
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+      distance_meters: 21254.33
+      distance_km: 21.254
+      distance_percent: 14.9168
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 142485.52
+      distance_km: 142.486
+      distance_percent: 100
+  touched_towns:
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+    - slug: mikolajki
+      name: Mikołajki
+      code: "2810023"
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810032"
+    - slug: piecki
+      name: Piecki
+      code: "2810042"
+    - slug: ryn
+      name: Ryn
+      code: "2806083"
+    - slug: swietajno
+      name: Świętajno
+      code: "2817072"
+    - slug: szczytno
+      name: Szczytno
+      code: "2817011"
+    - slug: wielbark
+      name: Wielbark
+      code: "2817083"
+  touched_counties:
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+    - slug: mragowski
+      name: mrągowski
+      code: "2810"
+    - slug: szczycienski
+      name: szczycieński
+      code: "2817"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+  touched_macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+- type: bus
+  total_distance_meters: 154533.92
+  total_distance_km: 154.534
+  points_count: 652
+  towns:
+    - slug: goldap
+      name: Gołdap
+      code: "2818033"
+      distance_meters: 40055.9
+      distance_km: 40.056
+      distance_percent: 25.9205
+    - slug: dubeninki
+      name: Dubeninki
+      code: "2818022"
+      distance_meters: 23917.66
+      distance_km: 23.918
+      distance_percent: 15.4773
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+      distance_meters: 15886.08
+      distance_km: 15.886
+      distance_percent: 10.28
+    - slug: przerosl
+      name: Przerośl
+      code: "2012042"
+      distance_meters: 12915.15
+      distance_km: 12.915
+      distance_percent: 8.3575
+    - slug: budry
+      name: Budry
+      code: "2819012"
+      distance_meters: 12175.59
+      distance_km: 12.176
+      distance_percent: 7.8789
+    - slug: banie_mazurskie
+      name: Banie Mazurskie
+      code: "2818012"
+      distance_meters: 12036.33
+      distance_km: 12.036
+      distance_percent: 7.7888
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+      distance_meters: 10242.33
+      distance_km: 10.242
+      distance_percent: 6.6279
+    - slug: pozezdrze
+      name: Pozezdrze
+      code: "2819022"
+      distance_meters: 8596.23
+      distance_km: 8.596
+      distance_percent: 5.5627
+    - slug: suwalki
+      name: Suwałki
+      code: "2012072"
+      distance_meters: 8051.78
+      distance_km: 8.052
+      distance_percent: 5.2104
+    - slug: suwalki
+      name: Suwałki
+      code: "2063011"
+      distance_meters: 5728.79
+      distance_km: 5.729
+      distance_percent: 3.7071
+    - slug: filipow
+      name: Filipów
+      code: "2012022"
+      distance_meters: 4928.09
+      distance_km: 4.928
+      distance_percent: 3.189
+    - slug: gizycko
+      name: Giżycko
+      code: "2806011"
+      distance_meters: 1892.55
+      distance_km: 1.893
+      distance_percent: 1.2247
+  counties:
+    - slug: goldapski
+      name: gołdapski
+      code: "2818"
+      distance_meters: 76009.89
+      distance_km: 76.01
+      distance_percent: 49.1865
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+      distance_meters: 36657.89
+      distance_km: 36.658
+      distance_percent: 23.7216
+    - slug: suwalski
+      name: suwalski
+      code: "2012"
+      distance_meters: 31623.81
+      distance_km: 31.624
+      distance_percent: 20.464
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+      distance_meters: 10242.33
+      distance_km: 10.242
+      distance_percent: 6.6279
+    - slug: suwalki
+      name: Suwałki
+      code: "2063"
+      distance_meters: 5728.79
+      distance_km: 5.729
+      distance_percent: 3.7071
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 122910.11
+      distance_km: 122.91
+      distance_percent: 79.536
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 31623.81
+      distance_km: 31.624
+      distance_percent: 20.464
+  meso_regions:
+    - slug: pojezierze_zachodniosuwalskie
+      name: Pojezierze Zachodniosuwalskie
+      code: "842.72"
+      distance_meters: 35782.65
+      distance_km: 35.783
+      distance_percent: 23.1552
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 32170.23
+      distance_km: 32.17
+      distance_percent: 20.8176
+    - slug: kraina_wegorapy
+      name: Kraina Węgorapy
+      code: "842.84"
+      distance_meters: 29032.85
+      distance_km: 29.033
+      distance_percent: 18.7874
+    - slug: puszcza_romincka
+      name: Puszcza Romincka
+      code: "842.71"
+      distance_meters: 17764.6
+      distance_km: 17.765
+      distance_percent: 11.4956
+    - slug: wzgorza_szeskie
+      name: Wzgórza Szeskie
+      code: "842.85"
+      distance_meters: 16569.41
+      distance_km: 16.569
+      distance_percent: 10.7222
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+      distance_meters: 15586.9
+      distance_km: 15.587
+      distance_percent: 10.0864
+    - slug: pojezierze_wschodniosuwalskie
+      name: Pojezierze Wschodniosuwalskie
+      code: "842.73"
+      distance_meters: 6393.31
+      distance_km: 6.393
+      distance_percent: 4.1372
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+      distance_meters: 1233.97
+      distance_km: 1.234
+      distance_percent: 0.7985
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 79006.46
+      distance_km: 79.006
+      distance_percent: 51.1256
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"
+      distance_meters: 75527.46
+      distance_km: 75.527
+      distance_percent: 48.8744
+  touched_towns:
+    - slug: banie_mazurskie
+      name: Banie Mazurskie
+      code: "2818012"
+    - slug: budry
+      name: Budry
+      code: "2819012"
+    - slug: dubeninki
+      name: Dubeninki
+      code: "2818022"
+    - slug: filipow
+      name: Filipów
+      code: "2012022"
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+    - slug: goldap
+      name: Gołdap
+      code: "2818033"
+    - slug: pozezdrze
+      name: Pozezdrze
+      code: "2819022"
+    - slug: przerosl
+      name: Przerośl
+      code: "2012042"
+    - slug: suwalki
+      name: Suwałki
+      code: "2063011"
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+  touched_counties:
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+    - slug: goldapski
+      name: gołdapski
+      code: "2818"
+    - slug: suwalki
+      name: Suwałki
+      code: "2063"
+    - slug: suwalski
+      name: suwalski
+      code: "2012"
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wegorapy
+      name: Kraina Węgorapy
+      code: "842.84"
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+    - slug: pojezierze_wschodniosuwalskie
+      name: Pojezierze Wschodniosuwalskie
+      code: "842.73"
+    - slug: pojezierze_zachodniosuwalskie
+      name: Pojezierze Zachodniosuwalskie
+      code: "842.72"
+    - slug: puszcza_romincka
+      name: Puszcza Romincka
+      code: "842.71"
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+    - slug: wzgorza_szeskie
+      name: Wzgórza Szeskie
+      code: "842.85"
+  touched_macro_regions:
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

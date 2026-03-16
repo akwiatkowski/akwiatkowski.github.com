@@ -1,0 +1,578 @@
+---
+- image_filename: 2020_07_24__16_08__7241489.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.164530415125355
+  lon: 18.872859058884366
+  altitude: 129.92
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5222
+  height: 3890
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:08:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+- image_filename: 2020_07_24__16_18__7241508.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.166555555555554
+  lon: 18.877458333333333
+  altitude: 121
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:18:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_19__7241513.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.166583333333335
+  lon: 18.87748611111111
+  altitude: 120
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:19:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_22__7241526.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16670833333333
+  lon: 18.87765277777778
+  altitude: 117
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 14
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5197
+  height: 3880
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:22:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_23__7241531.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.166666666666664
+  lon: 18.877708333333334
+  altitude: 115
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 18
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:23:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_25_DSC09190.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.166694444444445
+  lon: 18.877555555555556
+  altitude: 115
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:25:00+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_25_DSC09196.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16668055555555
+  lon: 18.87765277777778
+  altitude: 114
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:25:21+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_25_DSC09200.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.166694444444445
+  lon: 18.877694444444444
+  altitude: 113
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:25:47+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_26_DSC09205.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16672222222222
+  lon: 18.877583333333334
+  altitude: 114
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:26:20+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_26_DSC09207.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16672222222222
+  lon: 18.877583333333334
+  altitude: 113
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:26:28+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_27_DSC09214.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16668055555555
+  lon: 18.87752777777778
+  altitude: 111
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 100
+  width: 7316
+  height: 4693
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-07-24T16:27:24+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_38__7241555.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.165083333333335
+  lon: 18.874319444444446
+  altitude: 98
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4944
+  height: 3147
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:38:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__16_41__7241563.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16480555555555
+  lon: 18.871791666666667
+  altitude: 100
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5116
+  height: 3819
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T16:41:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__18_54__7241576.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.009375
+  lon: 18.607958333333336
+  altitude: 47
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 3.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5073
+  height: 3807
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T18:54:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__20_43__7241583.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.008402777777775
+  lon: 18.608972222222224
+  altitude: 39
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 2.8
+  exposure: 4
+  exposure_string: 4.0 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-24T20:43:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__20_50__7241598.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.00813888888889
+  lon: 18.609055555555557
+  altitude: 36
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 200
+  width: 10287
+  height: 7706
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2020-07-24T20:50:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_24__20_52__7241599.jpg
+  post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.008125
+  lon: 18.609069444444447
+  altitude: 36
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 3.2
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5219
+  height: 3895
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2020-07-24T20:52:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84

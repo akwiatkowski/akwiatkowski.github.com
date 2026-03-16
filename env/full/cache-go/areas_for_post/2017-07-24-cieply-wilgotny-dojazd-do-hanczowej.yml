@@ -1,0 +1,93 @@
+---
+- type: bicycle
+  total_distance_meters: 38856.27
+  total_distance_km: 38.856
+  points_count: 325
+  towns:
+    - slug: ropa
+      name: Ropa
+      code: "1205082"
+      distance_meters: 20103.24
+      distance_km: 20.103
+      distance_percent: 51.7374
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+      distance_meters: 11001.86
+      distance_km: 11.002
+      distance_percent: 28.3142
+    - slug: grybow
+      name: Grybów
+      code: "1210011"
+      distance_meters: 5533.45
+      distance_km: 5.533
+      distance_percent: 14.2408
+    - slug: grybow
+      name: Grybów
+      code: "1210042"
+      distance_meters: 2217.73
+      distance_km: 2.218
+      distance_percent: 5.7075
+  counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+      distance_meters: 31105.1
+      distance_km: 31.105
+      distance_percent: 80.0517
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+      distance_meters: 7751.18
+      distance_km: 7.751
+      distance_percent: 19.9483
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 38856.27
+      distance_km: 38.856
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 38856.27
+      distance_km: 38.856
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 38856.27
+      distance_km: 38.856
+      distance_percent: 100
+  touched_towns:
+    - slug: grybow
+      name: Grybów
+      code: "1210042"
+    - slug: ropa
+      name: Ropa
+      code: "1205082"
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+  touched_counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

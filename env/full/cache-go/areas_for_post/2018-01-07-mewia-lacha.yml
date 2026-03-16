@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 6240.05
+  total_distance_km: 6.24
+  points_count: 95
+  towns:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+      distance_meters: 5840.17
+      distance_km: 5.84
+      distance_percent: 93.5916
+  counties:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+      distance_meters: 5840.17
+      distance_km: 5.84
+      distance_percent: 93.5916
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 5840.17
+      distance_km: 5.84
+      distance_percent: 93.5916
+  meso_regions:
+    - slug: mierzeja_wislana
+      name: Mierzeja Wiślana
+      code: "313.53"
+      distance_meters: 4619.6
+      distance_km: 4.62
+      distance_percent: 74.0315
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+      distance_meters: 1223.78
+      distance_km: 1.224
+      distance_percent: 19.6117
+  macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+      distance_meters: 5843.38
+      distance_km: 5.843
+      distance_percent: 93.6432
+  touched_towns:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+  touched_counties:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: mierzeja_wislana
+      name: Mierzeja Wiślana
+      code: "313.53"
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+  touched_macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"

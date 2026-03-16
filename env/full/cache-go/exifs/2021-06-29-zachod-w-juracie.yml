@@ -1,0 +1,889 @@
+---
+- image_filename: 2021_06_29__19_09__6295782.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.60866666666667
+  lon: 18.800166666666666
+  altitude: 30
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 3764
+  height: 3048
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T19:09:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__19_13__6295792.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.60883333333334
+  lon: 18.800333333333334
+  altitude: 27
+  focal_length: 128
+  focal_length_35: 256
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5201
+  height: 3882
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T19:13:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__19_36_DSC02744.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.61263888888889
+  lon: 18.8015
+  altitude: 12
+  focal_length: 30
+  focal_length_35: 30
+  crop: 1
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5772
+  height: 3840
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-06-29T19:36:25+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__19_41_DSC02756.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.64597222222222
+  lon: 18.784916666666668
+  altitude: 13
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 2000
+  width: 5880
+  height: 3912
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-06-29T19:41:57+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__19_43_DSC02761.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.655902777777776
+  lon: 18.766083333333334
+  altitude: 12
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5980
+  height: 3979
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-06-29T19:43:29+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__19_59__6295798.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68295833333333
+  lon: 18.71947222222222
+  altitude: 14
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5131
+  height: 3830
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T19:59:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__20_47__6295816.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68597222222222
+  lon: 18.717888888888886
+  altitude: 2
+  focal_length: 50
+  focal_length_35: 100
+  crop: 2
+  aperture: 7.1
+  exposure: 10
+  exposure_string: 10.0 s
+  iso: 200
+  width: 4901
+  height: 3663
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T20:47:15+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__20_51_DSC02772.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 10
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 160
+  width: 5989
+  height: 3985
+  lens: E 20mm F2
+  camera: ILCE-7M3
+  lens_name: E 20mm F2
+  camera_name: ILCE-7M3
+  time: "2021-06-29T20:51:53+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__20_58__6295832.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 9
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5158
+  height: 3851
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T20:58:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_00__6295833.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 9
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:00:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_01__6295838.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.685986111111106
+  lon: 18.717875
+  altitude: 2
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 9
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5124
+  height: 3825
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:01:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_04__6295849.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.686
+  lon: 18.717875
+  altitude: 2
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:04:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_08__6295856.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68629166666666
+  lon: 18.717555555555553
+  altitude: 2
+  focal_length: 270
+  focal_length_35: 540
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5133
+  height: 3872
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:08:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_16__6295876.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715888888888887
+  altitude: 0
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5025
+  height: 3751
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:16:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_24__6295901.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715875
+  altitude: 0
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4047
+  height: 3089
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:24:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_25__6295904.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.687194444444444
+  lon: 18.715875
+  altitude: 0
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5148
+  height: 3844
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:25:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_39__6295922.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68458333333333
+  lon: 18.71425
+  altitude: 6
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:39:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_39__6295925.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68454166666666
+  lon: 18.71423611111111
+  altitude: 6
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:39:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_39__6295926.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.684527777777774
+  lon: 18.71425
+  altitude: 6
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:39:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_52__6295949.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.6815
+  lon: 18.709944444444442
+  altitude: 13
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 4995
+  height: 3729
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:52:15+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_56__6295964.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68134722222222
+  lon: 18.709152777777778
+  altitude: 12
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 2.8
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 200
+  width: 4990
+  height: 3870
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:56:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_56__6295965.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68136111111111
+  lon: 18.709125
+  altitude: 12
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 3837
+  height: 5139
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:56:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_57__6295971.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.681416666666664
+  lon: 18.709083333333332
+  altitude: 11
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 2.8
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 5174
+  height: 3863
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:57:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__21_59__6295977.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68138888888889
+  lon: 18.70911111111111
+  altitude: 10
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 13
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 200
+  width: 5160
+  height: 3852
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T21:59:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__22_00__6295981.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.68165277777778
+  lon: 18.710444444444445
+  altitude: 10
+  focal_length: 13
+  focal_length_35: 26
+  crop: 2
+  aperture: 3.4
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  width: 5111
+  height: 3816
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T22:00:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_06_29__22_02__6295983.jpg
+  post_slug: 2021-06-29-zachod-w-juracie
+  lat: 54.682472222222216
+  lon: 18.712555555555554
+  altitude: 9
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 5.6
+  exposure: 1.6
+  exposure_string: 1.6 s
+  iso: 200
+  width: 5025
+  height: 3751
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: E-M1MarkII
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: E-M1MarkII
+  time: "2021-06-29T22:02:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84

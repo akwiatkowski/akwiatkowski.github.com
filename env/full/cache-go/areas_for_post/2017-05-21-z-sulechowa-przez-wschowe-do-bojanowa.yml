@@ -1,0 +1,240 @@
+---
+- type: bicycle
+  total_distance_meters: 117600.51
+  total_distance_km: 117.601
+  points_count: 512
+  towns:
+    - slug: wschowa
+      name: Wschowa
+      code: "0812033"
+      distance_meters: 20434.61
+      distance_km: 20.435
+      distance_percent: 17.3763
+    - slug: slawa
+      name: Sława
+      code: "0812013"
+      distance_meters: 18164.29
+      distance_km: 18.164
+      distance_percent: 15.4458
+    - slug: trzebiechow
+      name: Trzebiechów
+      code: "0809082"
+      distance_meters: 15465.19
+      distance_km: 15.465
+      distance_percent: 13.1506
+    - slug: gora
+      name: Góra
+      code: "0204013"
+      distance_meters: 15058.65
+      distance_km: 15.059
+      distance_percent: 12.8049
+    - slug: bojadla
+      name: Bojadła
+      code: "0809022"
+      distance_meters: 13189.25
+      distance_km: 13.189
+      distance_percent: 11.2153
+    - slug: nowa_sol
+      name: Nowa Sól
+      code: "0804052"
+      distance_meters: 12241.18
+      distance_km: 12.241
+      distance_percent: 10.4091
+    - slug: niechlow
+      name: Niechlów
+      code: "0204032"
+      distance_meters: 8633.3
+      distance_km: 8.633
+      distance_percent: 7.3412
+    - slug: bojanowo
+      name: Bojanowo
+      code: "3022013"
+      distance_meters: 8424.18
+      distance_km: 8.424
+      distance_percent: 7.1634
+    - slug: sulechow
+      name: Sulechów
+      code: "0809063"
+      distance_meters: 5989.86
+      distance_km: 5.99
+      distance_percent: 5.0934
+  counties:
+    - slug: wschowski
+      name: wschowski
+      code: "0812"
+      distance_meters: 38598.9
+      distance_km: 38.599
+      distance_percent: 32.822
+    - slug: zielonogorski
+      name: zielonogórski
+      code: "0809"
+      distance_meters: 34644.29
+      distance_km: 34.644
+      distance_percent: 29.4593
+    - slug: gorowski
+      name: górowski
+      code: "0204"
+      distance_meters: 23691.95
+      distance_km: 23.692
+      distance_percent: 20.1461
+    - slug: nowosolski
+      name: nowosolski
+      code: "0804"
+      distance_meters: 12241.18
+      distance_km: 12.241
+      distance_percent: 10.4091
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+      distance_meters: 8424.18
+      distance_km: 8.424
+      distance_percent: 7.1634
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 85484.37
+      distance_km: 85.484
+      distance_percent: 72.6905
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 23691.95
+      distance_km: 23.692
+      distance_percent: 20.1461
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 8424.18
+      distance_km: 8.424
+      distance_percent: 7.1634
+  meso_regions:
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+      distance_meters: 46157.45
+      distance_km: 46.157
+      distance_percent: 39.2494
+    - slug: pojezierze_slawskie
+      name: Pojezierze Sławskie
+      code: "315.81"
+      distance_meters: 35126.96
+      distance_km: 35.127
+      distance_percent: 29.8697
+    - slug: kotlina_kargowska
+      name: Kotlina Kargowska
+      code: "315.62"
+      distance_meters: 27378.12
+      distance_km: 27.378
+      distance_percent: 23.2806
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 8937.98
+      distance_km: 8.938
+      distance_percent: 7.6003
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 46157.45
+      distance_km: 46.157
+      distance_percent: 39.2494
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+      distance_meters: 35126.96
+      distance_km: 35.127
+      distance_percent: 29.8697
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 27378.12
+      distance_km: 27.378
+      distance_percent: 23.2806
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 8937.98
+      distance_km: 8.938
+      distance_percent: 7.6003
+  touched_towns:
+    - slug: bojadla
+      name: Bojadła
+      code: "0809022"
+    - slug: bojanowo
+      name: Bojanowo
+      code: "3022013"
+    - slug: gora
+      name: Góra
+      code: "0204013"
+    - slug: niechlow
+      name: Niechlów
+      code: "0204032"
+    - slug: nowa_sol
+      name: Nowa Sól
+      code: "0804052"
+    - slug: slawa
+      name: Sława
+      code: "0812013"
+    - slug: sulechow
+      name: Sulechów
+      code: "0809063"
+    - slug: trzebiechow
+      name: Trzebiechów
+      code: "0809082"
+    - slug: wschowa
+      name: Wschowa
+      code: "0812033"
+  touched_counties:
+    - slug: gorowski
+      name: górowski
+      code: "0204"
+    - slug: nowosolski
+      name: nowosolski
+      code: "0804"
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+    - slug: wschowski
+      name: wschowski
+      code: "0812"
+    - slug: zielonogorski
+      name: zielonogórski
+      code: "0809"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_kargowska
+      name: Kotlina Kargowska
+      code: "315.62"
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+    - slug: pojezierze_slawskie
+      name: Pojezierze Sławskie
+      code: "315.81"
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316

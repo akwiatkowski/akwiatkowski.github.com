@@ -1,0 +1,208 @@
+---
+- image_filename: IMGP0348raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.873677488360386
+  lon: 15.525535969092427
+  altitude: 749.97
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T12:14:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.10.18
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0365raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.874424735156445
+  lon: 15.526615977291161
+  altitude: 741.79
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T12:26:02+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0368raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.87444032540418
+  lon: 15.526596615108721
+  altitude: 741.79
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T12:26:53+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0390raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.944451512788014
+  lon: 15.644740797546012
+  altitude: 301.51
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T14:00:32+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.10.18
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0396raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.9354715608001
+  lon: 15.676608458177277
+  altitude: 299.11
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T14:25:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0399raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.93566342259778
+  lon: 15.677183372911719
+  altitude: 298.63
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T14:25:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0414raw1.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.948809767124985
+  lon: 15.705568352709815
+  altitude: 402.45
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T15:15:31+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-06-05-wokol-jeleniej-gory
+  lat: 50.94827927638621
+  lon: 15.703435493617341
+  altitude: 390.43
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-05T15:13:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.10.18
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

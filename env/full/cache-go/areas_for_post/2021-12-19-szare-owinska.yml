@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 4898.37
+  total_distance_km: 4.898
+  points_count: 89
+  towns:
+    - slug: czerwonak
+      name: Czerwonak
+      code: "3021042"
+      distance_meters: 4898.37
+      distance_km: 4.898
+      distance_percent: 100
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 4898.37
+      distance_km: 4.898
+      distance_percent: 100
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 4898.37
+      distance_km: 4.898
+      distance_percent: 100
+  meso_regions:
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 3811
+      distance_km: 3.811
+      distance_percent: 77.8014
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 1087.37
+      distance_km: 1.087
+      distance_percent: 22.1986
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 4898.37
+      distance_km: 4.898
+      distance_percent: 100
+  touched_towns:
+    - slug: czerwonak
+      name: Czerwonak
+      code: "3021042"
+  touched_counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

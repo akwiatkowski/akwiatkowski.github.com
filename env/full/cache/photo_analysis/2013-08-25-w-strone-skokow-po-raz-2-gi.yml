@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP8432b.jpg
+  post_slug: 2013-08-25-w-strone-skokow-po-raz-2-gi
+  ahash: 0fe4c0ccecf0f1e0
+  dhash: 3a0c091810030301
+  phash: fb1224ec18a93de6
+  avg_rgb:
+  - 94
+  - 109
+  - 84
+  top5_rgb:
+  - - 86
+    - 128
+    - 67
+  - - 112
+    - 123
+    - 173
+  - - 30
+    - 46
+    - 14
+  - - 169
+    - 201
+    - 225
+  - - 82
+    - 120
+    - 65
+- image_filename: header.jpg
+  post_slug: 2013-08-25-w-strone-skokow-po-raz-2-gi
+  ahash: ff7f7e0000000000
+  dhash: 8ce6d4c4e5e1f825
+  phash: 8080b47f7e5b5b83
+  avg_rgb:
+  - 105
+  - 104
+  - 104
+  top5_rgb:
+  - - 17
+    - 23
+    - 24
+  - - 240
+    - 240
+    - 240
+  - - 123
+    - 183
+    - 254
+  - - 119
+    - 180
+    - 254
+  - - 107
+    - 57
+    - 34

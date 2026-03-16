@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 48078.33
+  total_distance_km: 48.078
+  points_count: 249
+  towns:
+    - slug: reszel
+      name: Reszel
+      code: "2808053"
+      distance_meters: 19845.9
+      distance_km: 19.846
+      distance_percent: 41.2783
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808032"
+      distance_meters: 11864.63
+      distance_km: 11.865
+      distance_percent: 24.6777
+    - slug: bisztynek
+      name: Bisztynek
+      code: "2801043"
+      distance_meters: 8204.12
+      distance_km: 8.204
+      distance_percent: 17.0641
+    - slug: kolno
+      name: Kolno
+      code: "2814082"
+      distance_meters: 8163.68
+      distance_km: 8.164
+      distance_percent: 16.98
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+      distance_meters: 3860.42
+      distance_km: 3.86
+      distance_percent: 8.0294
+  counties:
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 31710.53
+      distance_km: 31.711
+      distance_percent: 65.956
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+      distance_meters: 8204.12
+      distance_km: 8.204
+      distance_percent: 17.0641
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+      distance_meters: 8163.68
+      distance_km: 8.164
+      distance_percent: 16.98
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 48078.33
+      distance_km: 48.078
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 31951.76
+      distance_km: 31.952
+      distance_percent: 66.4577
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+      distance_meters: 8501.31
+      distance_km: 8.501
+      distance_percent: 17.6822
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 7625.25
+      distance_km: 7.625
+      distance_percent: 15.8601
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 39577.01
+      distance_km: 39.577
+      distance_percent: 82.3178
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+      distance_meters: 8501.31
+      distance_km: 8.501
+      distance_percent: 17.6822
+  touched_towns:
+    - slug: bisztynek
+      name: Bisztynek
+      code: "2801043"
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+    - slug: kolno
+      name: Kolno
+      code: "2814082"
+    - slug: reszel
+      name: Reszel
+      code: "2808053"
+  touched_counties:
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+  touched_macro_regions:
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

@@ -1,0 +1,27 @@
+---
+- image_filename: header.jpg
+  post_slug: 2015-04-18-kolko-przez-poligon-w-biedrusku
+  lat: 52.5223229079954
+  lon: 16.91166328272128
+  altitude: 77.04
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-04-18T17:16:14+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

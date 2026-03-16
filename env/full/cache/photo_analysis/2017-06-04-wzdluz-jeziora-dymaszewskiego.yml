@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP7056raw1.jpg
+  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
+  ahash: ffffcfcf00000000
+  dhash: 679b989e935e5a9c
+  phash: b1b88e4ec4b73613
+  avg_rgb:
+  - 117
+  - 130
+  - 123
+  top5_rgb:
+  - - 76
+    - 94
+    - 35
+  - - 88
+    - 105
+    - 107
+  - - 59
+    - 78
+    - 38
+  - - 47
+    - 60
+    - 50
+  - - 75
+    - 87
+    - 51
+- image_filename: IMGP7059raw1.jpg
+  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
+  ahash: 1f1f1f3f3f0f0000
+  dhash: ecb5707cececf763
+  phash: 8e9e78a247a73278
+  avg_rgb:
+  - 109
+  - 117
+  - 116
+  top5_rgb:
+  - - 34
+    - 44
+    - 27
+  - - 88
+    - 71
+    - 50
+  - - 25
+    - 32
+    - 20
+  - - 40
+    - 51
+    - 32
+  - - 208
+    - 218
+    - 229
+- image_filename: IMGP7064raw1.jpg
+  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
+  ahash: fff00010f3db9880
+  dhash: 4682d1f786b23116
+  phash: ecc6f6e5a50a10b3
+  avg_rgb:
+  - 90
+  - 106
+  - 61
+  top5_rgb:
+  - - 88
+    - 121
+    - 45
+  - - 99
+    - 142
+    - 57
+  - - 138
+    - 122
+    - 95
+  - - 110
+    - 99
+    - 76
+  - - 80
+    - 87
+    - 51
+- image_filename: header.jpg
+  post_slug: 2017-06-04-wzdluz-jeziora-dymaszewskiego
+  ahash: c7ebebab28080000
+  dhash: 1f1a0a5b7a597949
+  phash: bbbda202aaae6a52
+  avg_rgb:
+  - 82
+  - 98
+  - 57
+  top5_rgb:
+  - - 80
+    - 92
+    - 65
+  - - 80
+    - 118
+    - 30
+  - - 234
+    - 238
+    - 246
+  - - 37
+    - 39
+    - 25
+  - - 105
+    - 143
+    - 59

@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 27315.14
+  total_distance_km: 27.315
+  points_count: 316
+  towns:
+    - slug: czorsztyn
+      name: Czorsztyn
+      code: "1211042"
+      distance_meters: 18146.36
+      distance_km: 18.146
+      distance_percent: 66.4333
+    - slug: kroscienko_nad_dunajcem
+      name: Krościenko nad Dunajcem
+      code: "1211062"
+      distance_meters: 5130.13
+      distance_km: 5.13
+      distance_percent: 18.7813
+    - slug: lapsze_nizne
+      name: Łapsze Niżne
+      code: "1211082"
+      distance_meters: 4038.65
+      distance_km: 4.039
+      distance_percent: 14.7854
+  counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 27315.14
+      distance_km: 27.315
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 27315.14
+      distance_km: 27.315
+      distance_percent: 100
+  meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+      distance_meters: 13730.85
+      distance_km: 13.731
+      distance_percent: 50.2683
+    - slug: pieniny
+      name: Pieniny
+      code: "514.12"
+      distance_meters: 11962.65
+      distance_km: 11.963
+      distance_percent: 43.7949
+    - slug: kotlina_orawsko-nowotarska
+      name: Kotlina Orawsko-Nowotarska
+      code: "514.11"
+      distance_meters: 1621.64
+      distance_km: 1.622
+      distance_percent: 5.9368
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 13730.85
+      distance_km: 13.731
+      distance_percent: 50.2683
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15
+      distance_meters: 13584.29
+      distance_km: 13.584
+      distance_percent: 49.7317
+  touched_towns:
+    - slug: czorsztyn
+      name: Czorsztyn
+      code: "1211042"
+    - slug: kroscienko_nad_dunajcem
+      name: Krościenko nad Dunajcem
+      code: "1211062"
+    - slug: lapsze_nizne
+      name: Łapsze Niżne
+      code: "1211082"
+  touched_counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+    - slug: kotlina_orawsko-nowotarska
+      name: Kotlina Orawsko-Nowotarska
+      code: "514.11"
+    - slug: pieniny
+      name: Pieniny
+      code: "514.12"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15

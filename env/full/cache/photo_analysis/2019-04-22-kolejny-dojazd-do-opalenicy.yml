@@ -1,0 +1,551 @@
+---
+- image_filename: 2019_04_22__12_12_P4220002.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: c0e3f7fffb810000
+  dhash: 01070f8d033b2bf0
+  phash: e9e616e9c0163d87
+  avg_rgb:
+  - 102
+  - 122
+  - 134
+  top5_rgb:
+  - - 104
+    - 134
+    - 176
+  - - 93
+    - 121
+    - 171
+  - - 77
+    - 96
+    - 42
+  - - 110
+    - 139
+    - 178
+  - - 98
+    - 126
+    - 171
+- image_filename: 2019_04_22__12_30_P4220008.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: fffebc3c00000006
+  dhash: 283071d8d8a0e46c
+  phash: dedebc00a043ab6b
+  avg_rgb:
+  - 122
+  - 125
+  - 129
+  top5_rgb:
+  - - 255
+    - 254
+    - 252
+  - - 91
+    - 98
+    - 119
+  - - 48
+    - 51
+    - 61
+  - - 102
+    - 108
+    - 125
+  - - 37
+    - 36
+    - 45
+- image_filename: 2019_04_22__12_30_P4220011.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: f8fcfef83000f8f8
+  dhash: 70640402e6f43132
+  phash: ccd68e0acdf83315
+  avg_rgb:
+  - 101
+  - 105
+  - 114
+  top5_rgb:
+  - - 97
+    - 99
+    - 102
+  - - 120
+    - 117
+    - 110
+  - - 103
+    - 102
+    - 107
+  - - 100
+    - 123
+    - 163
+  - - 86
+    - 91
+    - 46
+- image_filename: 2019_04_22__12_35_P4220014.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: f0f9ffffc3c00001
+  dhash: 000303149e9a4513
+  phash: f8df0e70b5c670a0
+  avg_rgb:
+  - 103
+  - 120
+  - 144
+  top5_rgb:
+  - - 94
+    - 97
+    - 109
+  - - 97
+    - 105
+    - 72
+  - - 178
+    - 168
+    - 135
+  - - 88
+    - 93
+    - 105
+  - - 114
+    - 113
+    - 109
+- image_filename: 2019_04_22__12_36_P4220016.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 080c397f7bb93800
+  dhash: 5b3965a1e361717f
+  phash: 8fb037cb3146ee0c
+  avg_rgb:
+  - 92
+  - 108
+  - 116
+  top5_rgb:
+  - - 99
+    - 103
+    - 89
+  - - 55
+    - 92
+    - 154
+  - - 119
+    - 117
+    - 87
+  - - 162
+    - 157
+    - 126
+  - - 48
+    - 86
+    - 148
+- image_filename: 2019_04_22__12_37_P4220017.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: c080830f0f088fff
+  dhash: 83101e1c79113b33
+  phash: bb24ed58823749ae
+  avg_rgb:
+  - 110
+  - 121
+  - 124
+  top5_rgb:
+  - - 101
+    - 135
+    - 206
+  - - 115
+    - 118
+    - 102
+  - - 182
+    - 172
+    - 163
+  - - 173
+    - 167
+    - 158
+  - - 86
+    - 94
+    - 59
+- image_filename: 2019_04_22__12_46_P4220022.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 01c7efffff070000
+  dhash: 271b9937797f1f73
+  phash: aaab2b2eaeac2b42
+  avg_rgb:
+  - 82
+  - 101
+  - 108
+  top5_rgb:
+  - - 46
+    - 62
+    - 26
+  - - 25
+    - 63
+    - 116
+  - - 124
+    - 140
+    - 172
+  - - 110
+    - 129
+    - 73
+  - - 103
+    - 120
+    - 55
+- image_filename: 2019_04_22__12_46_P4220025.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: ffffffff00000000
+  dhash: 20484101910c0c1e
+  phash: d2ca1626ecec6d25
+  avg_rgb:
+  - 108
+  - 120
+  - 134
+  top5_rgb:
+  - - 59
+    - 57
+    - 61
+  - - 67
+    - 68
+    - 76
+  - - 159
+    - 193
+    - 240
+  - - 85
+    - 92
+    - 52
+  - - 147
+    - 158
+    - 178
+- image_filename: 2019_04_22__12_50_P4220028.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: ff3e3f3000000000
+  dhash: 65eccbc3d0c8ccdb
+  phash: 838eb8fc28a3ab8b
+  avg_rgb:
+  - 82
+  - 91
+  - 102
+  top5_rgb:
+  - - 74
+    - 80
+    - 97
+  - - 69
+    - 69
+    - 59
+  - - 64
+    - 78
+    - 46
+  - - 108
+    - 103
+    - 83
+  - - 93
+    - 87
+    - 75
+- image_filename: 2019_04_22__12_50_P4220030.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: fdff3e18191d0001
+  dhash: c3e3f47573717773
+  phash: 8cc6e3bb785490f1
+  avg_rgb:
+  - 88
+  - 93
+  - 98
+  top5_rgb:
+  - - 121
+    - 110
+    - 87
+  - - 47
+    - 53
+    - 71
+  - - 122
+    - 157
+    - 221
+  - - 88
+    - 97
+    - 122
+  - - 71
+    - 68
+    - 71
+- image_filename: 2019_04_22__12_51_P4220033.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 0080e0f326c6f0fc
+  dhash: 07034347468c8311
+  phash: e52f5a348fc83705
+  avg_rgb:
+  - 98
+  - 113
+  - 130
+  top5_rgb:
+  - - 156
+    - 149
+    - 144
+  - - 69
+    - 96
+    - 158
+  - - 71
+    - 99
+    - 158
+  - - 73
+    - 102
+    - 163
+  - - 164
+    - 157
+    - 151
+- image_filename: 2019_04_22__13_00_P4220034.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 0c8c878786b1979f
+  dhash: 78783d0c24616f7f
+  phash: bf11894eb4664b35
+  avg_rgb:
+  - 116
+  - 122
+  - 131
+  top5_rgb:
+  - - 68
+    - 101
+    - 182
+  - - 106
+    - 142
+    - 206
+  - - 88
+    - 90
+    - 105
+  - - 88
+    - 126
+    - 200
+  - - 87
+    - 102
+    - 68
+- image_filename: 2019_04_22__13_01_P4220036.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: ffffffff00000000
+  dhash: bf9fef9c9c330863
+  phash: b0b04f4f30b48f4f
+  avg_rgb:
+  - 113
+  - 131
+  - 124
+  top5_rgb:
+  - - 71
+    - 89
+    - 20
+  - - 65
+    - 83
+    - 18
+  - - 62
+    - 79
+    - 18
+  - - 74
+    - 92
+    - 13
+  - - 58
+    - 76
+    - 21
+- image_filename: 2019_04_22__13_07_P4220037.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: e0b61f0f000f8f3f
+  dhash: 4b2439597e3b1c78
+  phash: 9b64d2654fb38970
+  avg_rgb:
+  - 101
+  - 117
+  - 113
+  top5_rgb:
+  - - 113
+    - 128
+    - 86
+  - - 119
+    - 140
+    - 94
+  - - 113
+    - 129
+    - 115
+  - - 39
+    - 83
+    - 167
+  - - 99
+    - 148
+    - 223
+- image_filename: 2019_04_22__13_11_P4220044.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 80c0e0fcf8041e3e
+  dhash: 04000818109c78e0
+  phash: d26d8638cd9b266c
+  avg_rgb:
+  - 96
+  - 109
+  - 115
+  top5_rgb:
+  - - 181
+    - 163
+    - 134
+  - - 59
+    - 93
+    - 162
+  - - 117
+    - 146
+    - 191
+  - - 55
+    - 89
+    - 158
+  - - 109
+    - 117
+    - 67
+- image_filename: 2019_04_22__13_42_P4220048.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 00103377ff1f00f0
+  dhash: db63e7e6ab7f0000
+  phash: 8e0c5b33b1638ece
+  avg_rgb:
+  - 97
+  - 107
+  - 123
+  top5_rgb:
+  - - 59
+    - 80
+    - 29
+  - - 44
+    - 70
+    - 119
+  - - 116
+    - 100
+    - 80
+  - - 99
+    - 82
+    - 68
+  - - 50
+    - 77
+    - 122
+- image_filename: 2019_04_22__13_42_P4220051.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 000007ff1f071f1f
+  dhash: 7b7c7f7fffbebfb7
+  phash: bc635914cbfb4486
+  avg_rgb:
+  - 92
+  - 111
+  - 135
+  top5_rgb:
+  - - 133
+    - 161
+    - 208
+  - - 79
+    - 113
+    - 176
+  - - 71
+    - 106
+    - 174
+  - - 68
+    - 101
+    - 166
+  - - 183
+    - 161
+    - 125
+- image_filename: 2019_04_22__14_14_P4220056.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: feffffdf83000000
+  dhash: 18038a1a16d667c3
+  phash: bdfa4217bcd21226
+  avg_rgb:
+  - 96
+  - 110
+  - 113
+  top5_rgb:
+  - - 94
+    - 106
+    - 51
+  - - 138
+    - 150
+    - 172
+  - - 98
+    - 122
+    - 165
+  - - 123
+    - 142
+    - 170
+  - - 93
+    - 117
+    - 164
+- image_filename: 2019_04_22__14_18_P4220063.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: ffff00000682c081
+  dhash: 034b5d3c4c4e032b
+  phash: ffe3eaec08585062
+  avg_rgb:
+  - 116
+  - 120
+  - 101
+  top5_rgb:
+  - - 107
+    - 109
+    - 90
+  - - 115
+    - 137
+    - 186
+  - - 115
+    - 124
+    - 28
+  - - 122
+    - 144
+    - 191
+  - - 146
+    - 162
+    - 197
+- image_filename: 2019_04_22__14_36_P4220065.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 0063efdf030003ff
+  dhash: 2fd7ce2d2a4afb56
+  phash: a7f0400fbefa87a0
+  avg_rgb:
+  - 99
+  - 110
+  - 118
+  top5_rgb:
+  - - 81
+    - 107
+    - 159
+  - - 134
+    - 126
+    - 110
+  - - 66
+    - 93
+    - 149
+  - - 114
+    - 107
+    - 101
+  - - 75
+    - 100
+    - 153
+- image_filename: 2019_04_22__14_36_P4220067.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 81ffff6709011f0f
+  dhash: 1567cacab2fbeedf
+  phash: a1e6ee18317171cd
+  avg_rgb:
+  - 92
+  - 102
+  - 97
+  top5_rgb:
+  - - 102
+    - 110
+    - 54
+  - - 65
+    - 91
+    - 147
+  - - 79
+    - 103
+    - 159
+  - - 111
+    - 118
+    - 40
+  - - 94
+    - 120
+    - 169
+- image_filename: 2019_04_22__14_37_P4220070.jpg
+  post_slug: 2019-04-22-kolejny-dojazd-do-opalenicy
+  ahash: 00efef831909041f
+  dhash: 2dce1f1bf3b1f9f3
+  phash: a9f3460c0d32becd
+  avg_rgb:
+  - 91
+  - 103
+  - 99
+  top5_rgb:
+  - - 122
+    - 129
+    - 47
+  - - 54
+    - 86
+    - 152
+  - - 64
+    - 98
+    - 166
+  - - 40
+    - 37
+    - 39
+  - - 109
+    - 115
+    - 40

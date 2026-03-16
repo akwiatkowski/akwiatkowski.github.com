@@ -1,0 +1,49 @@
+---
+- type: hike
+  total_distance_meters: 1301.81
+  total_distance_km: 1.302
+  points_count: 26
+  towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+      distance_meters: 1301.81
+      distance_km: 1.302
+      distance_percent: 100
+  counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+      distance_meters: 1301.81
+      distance_km: 1.302
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 1301.81
+      distance_km: 1.302
+      distance_percent: 100
+  meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"
+      distance_meters: 1301.81
+      distance_km: 1.302
+      distance_percent: 100
+  touched_towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+  touched_counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"

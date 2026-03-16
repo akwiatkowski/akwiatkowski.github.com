@@ -1,0 +1,826 @@
+---
+- image_filename: 2020_05_26__13_18__5263277.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: "1010303030303021"
+  dhash: 3727676367674f4b
+  phash: ce1c39c73833a3c6
+  avg_rgb:
+  - 58
+  - 56
+  - 52
+  top5_rgb:
+  - - 49
+    - 54
+    - 57
+  - - 45
+    - 50
+    - 54
+  - - 39
+    - 44
+    - 48
+  - - 222
+    - 82
+    - 60
+  - - 30
+    - 35
+    - 39
+- image_filename: 2020_05_26__13_19__5263281.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 00f2fee666633f3f
+  dhash: b38608ce86c7cb6e
+  phash: a4781f60555b5f91
+  avg_rgb:
+  - 91
+  - 119
+  - 36
+  top5_rgb:
+  - - 144
+    - 176
+    - 93
+  - - 105
+    - 139
+    - 69
+  - - 122
+    - 160
+    - 75
+  - - 80
+    - 121
+    - 9
+  - - 128
+    - 173
+    - 20
+- image_filename: 2020_05_26__13_22__5263315.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 5c1a5a7963083cba
+  dhash: b1b292f3cad27164
+  phash: 89b19e338ecae0e3
+  avg_rgb:
+  - 83
+  - 113
+  - 48
+  top5_rgb:
+  - - 157
+    - 160
+    - 126
+  - - 74
+    - 127
+    - 3
+  - - 107
+    - 144
+    - 72
+  - - 59
+    - 106
+    - 2
+  - - 49
+    - 93
+    - 40
+- image_filename: 2020_05_26__13_29__5263336.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: ff5f1f1e3e705000
+  dhash: e5b9b1f8f4e4a4c4
+  phash: 84bb6ac617f8c835
+  avg_rgb:
+  - 94
+  - 99
+  - 83
+  top5_rgb:
+  - - 113
+    - 112
+    - 113
+  - - 119
+    - 118
+    - 119
+  - - 55
+    - 68
+    - 35
+  - - 31
+    - 56
+    - 4
+  - - 93
+    - 93
+    - 87
+- image_filename: 2020_05_26__13_29__5263337.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 3d13077f70070700
+  dhash: d9a33ecccb3666a7
+  phash: a48b2bc3c2973d6a
+  avg_rgb:
+  - 94
+  - 116
+  - 64
+  top5_rgb:
+  - - 60
+    - 104
+    - 0
+  - - 53
+    - 84
+    - 1
+  - - 43
+    - 76
+    - 3
+  - - 84
+    - 104
+    - 65
+  - - 56
+    - 83
+    - 33
+- image_filename: 2020_05_26__13_30__5263339.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 7c3c3e1f11508283
+  dhash: f1f0da7e33b62624
+  phash: 9c83d648aab5e173
+  avg_rgb:
+  - 82
+  - 117
+  - 44
+  top5_rgb:
+  - - 118
+    - 165
+    - 41
+  - - 53
+    - 90
+    - 20
+  - - 151
+    - 197
+    - 67
+  - - 115
+    - 135
+    - 82
+  - - 45
+    - 83
+    - 4
+- image_filename: 2020_05_26__13_30__5263342.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 6f7878fc1c0f0d4c
+  dhash: dacaa09939733999
+  phash: d3c1213ff2b241dc
+  avg_rgb:
+  - 83
+  - 117
+  - 49
+  top5_rgb:
+  - - 104
+    - 155
+    - 78
+  - - 103
+    - 154
+    - 52
+  - - 89
+    - 124
+    - 35
+  - - 72
+    - 107
+    - 28
+  - - 70
+    - 89
+    - 32
+- image_filename: 2020_05_26__13_40__5263374.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 0349286ca0c0f0fc
+  dhash: d2db5048488ea229
+  phash: f103e824de8437cf
+  avg_rgb:
+  - 100
+  - 117
+  - 61
+  top5_rgb:
+  - - 87
+    - 89
+    - 92
+  - - 114
+    - 111
+    - 93
+  - - 74
+    - 119
+    - 4
+  - - 243
+    - 248
+    - 254
+  - - 113
+    - 159
+    - 1
+- image_filename: 2020_05_26__14_40__5263400.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: f8f8fcd8d0702034
+  dhash: a2a0903230e5e4ec
+  phash: c4d9864ebd11f272
+  avg_rgb:
+  - 106
+  - 116
+  - 86
+  top5_rgb:
+  - - 61
+    - 65
+    - 73
+  - - 187
+    - 222
+    - 98
+  - - 128
+    - 137
+    - 105
+  - - 55
+    - 60
+    - 63
+  - - 168
+    - 183
+    - 147
+- image_filename: 2020_05_26__15_41__5263426.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: bcf8f8c0701b0480
+  dhash: 60d3b38981b24937
+  phash: c8c89f9752f28c8e
+  avg_rgb:
+  - 100
+  - 104
+  - 84
+  top5_rgb:
+  - - 144
+    - 153
+    - 135
+  - - 98
+    - 80
+    - 64
+  - - 154
+    - 163
+    - 149
+  - - 125
+    - 136
+    - 115
+  - - 115
+    - 128
+    - 99
+- image_filename: 2020_05_26__15_41__5263430.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: f1c0c4e0e06ca103
+  dhash: 8b9e8d418a98699a
+  phash: e1e28dc1ef8e90e4
+  avg_rgb:
+  - 100
+  - 103
+  - 85
+  top5_rgb:
+  - - 129
+    - 106
+    - 83
+  - - 140
+    - 152
+    - 133
+  - - 53
+    - 69
+    - 40
+  - - 177
+    - 186
+    - 169
+  - - 60
+    - 74
+    - 55
+- image_filename: 2020_05_26__15_41__5263433.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: ffff870303030303
+  dhash: fa0e266656b6ae36
+  phash: a4dbd8130f2e3c63
+  avg_rgb:
+  - 99
+  - 96
+  - 88
+  top5_rgb:
+  - - 129
+    - 132
+    - 121
+  - - 105
+    - 107
+    - 97
+  - - 130
+    - 133
+    - 123
+  - - 45
+    - 50
+    - 51
+  - - 48
+    - 53
+    - 55
+- image_filename: 2020_05_26__15_41__5263434.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: ffff070303030307
+  dhash: f00e2e56a62e4ea6
+  phash: a6d3dbd9080f0e74
+  avg_rgb:
+  - 97
+  - 94
+  - 85
+  top5_rgb:
+  - - 126
+    - 129
+    - 120
+  - - 126
+    - 129
+    - 118
+  - - 125
+    - 128
+    - 118
+  - - 124
+    - 127
+    - 117
+  - - 117
+    - 120
+    - 109
+- image_filename: 2020_05_26__15_41__5263436.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: fff7030303030303
+  dhash: f107276657b7b677
+  phash: add6dad01f193831
+  avg_rgb:
+  - 99
+  - 96
+  - 86
+  top5_rgb:
+  - - 49
+    - 53
+    - 53
+  - - 129
+    - 132
+    - 119
+  - - 130
+    - 136
+    - 125
+  - - 132
+    - 138
+    - 126
+  - - 49
+    - 54
+    - 55
+- image_filename: 2020_05_26__15_45__5263468.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 8c8cb8b0b8b8f8c8
+  dhash: "3929686162604292"
+  phash: df3fb10e38e60825
+  avg_rgb:
+  - 100
+  - 103
+  - 87
+  top5_rgb:
+  - - 57
+    - 65
+    - 66
+  - - 42
+    - 47
+    - 50
+  - - 92
+    - 79
+    - 63
+  - - 50
+    - 57
+    - 59
+  - - 169
+    - 150
+    - 121
+- image_filename: 2020_05_26__15_45__5263471.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 8888b0b0b8f8d8d8
+  dhash: 525a6a6262c09090
+  phash: dd3fb8d10cb0c31c
+  avg_rgb:
+  - 97
+  - 101
+  - 84
+  top5_rgb:
+  - - 50
+    - 56
+    - 61
+  - - 61
+    - 71
+    - 67
+  - - 47
+    - 53
+    - 55
+  - - 44
+    - 49
+    - 52
+  - - 156
+    - 143
+    - 119
+- image_filename: 2020_05_26__15_45__5263479.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: ff0707238380cb43
+  dhash: ec2e6e46370796ce
+  phash: b59791c8f7c14698
+  avg_rgb:
+  - 99
+  - 100
+  - 82
+  top5_rgb:
+  - - 96
+    - 96
+    - 80
+  - - 107
+    - 116
+    - 88
+  - - 39
+    - 62
+    - 32
+  - - 130
+    - 132
+    - 118
+  - - 166
+    - 160
+    - 136
+- image_filename: 2020_05_26__16_56__5263557.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: f9f0f1e8780c0b09
+  dhash: c3c1a193f3d95a73
+  phash: c9e0a793c9b13a8d
+  avg_rgb:
+  - 100
+  - 117
+  - 67
+  top5_rgb:
+  - - 73
+    - 99
+    - 67
+  - - 67
+    - 94
+    - 49
+  - - 122
+    - 145
+    - 86
+  - - 113
+    - 96
+    - 64
+  - - 47
+    - 71
+    - 44
+- image_filename: 2020_05_26__17_27__5263578.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: e078ec7858dbc303
+  dhash: 41c198d0b23a9e36
+  phash: d54a26494c37bd78
+  avg_rgb:
+  - 100
+  - 101
+  - 88
+  top5_rgb:
+  - - 144
+    - 132
+    - 120
+  - - 53
+    - 71
+    - 45
+  - - 150
+    - 139
+    - 124
+  - - 117
+    - 110
+    - 96
+  - - 85
+    - 99
+    - 67
+- image_filename: 2020_05_26__17_34__5263591.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: dbcbcacacfcf80c0
+  dhash: "9696969696983904"
+  phash: bda54e9ac46e9047
+  avg_rgb:
+  - 95
+  - 97
+  - 98
+  top5_rgb:
+  - - 71
+    - 82
+    - 78
+  - - 78
+    - 90
+    - 89
+  - - 59
+    - 62
+    - 69
+  - - 77
+    - 77
+    - 94
+  - - 78
+    - 68
+    - 60
+- image_filename: 2020_05_26__17_40__5263593.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 04063b9cdc4e546c
+  dhash: 6c746a38b09c94d9
+  phash: d03f2750db4b871c
+  avg_rgb:
+  - 91
+  - 118
+  - 51
+  top5_rgb:
+  - - 247
+    - 221
+    - 252
+  - - 68
+    - 108
+    - 4
+  - - 61
+    - 78
+    - 94
+  - - 77
+    - 102
+    - 63
+  - - 90
+    - 107
+    - 104
+- image_filename: 2020_05_26__18_08__5263632.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: fffefcb8b0a06040
+  dhash: 0284402265684090
+  phash: cfb220263c9b9bc6
+  avg_rgb:
+  - 70
+  - 84
+  - 94
+  top5_rgb:
+  - - 65
+    - 79
+    - 90
+  - - 72
+    - 89
+    - 105
+  - - 69
+    - 86
+    - 100
+  - - 63
+    - 77
+    - 88
+  - - 89
+    - 100
+    - 100
+- image_filename: 2020_05_26__18_09__5263636.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 000000183bbe9e0f
+  dhash: a37360b3f23232ba
+  phash: 8c6233cca076d6d7
+  avg_rgb:
+  - 62
+  - 83
+  - 47
+  top5_rgb:
+  - - 41
+    - 65
+    - 34
+  - - 47
+    - 52
+    - 39
+  - - 49
+    - 75
+    - 39
+  - - 36
+    - 43
+    - 30
+  - - 60
+    - 86
+    - 42
+- image_filename: 2020_05_26__18_16__5263666.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 3cff090c0c0407fc
+  dhash: d1861bd989298f80
+  phash: 9b8bc51ec20b4b3b
+  avg_rgb:
+  - 97
+  - 104
+  - 73
+  top5_rgb:
+  - - 88
+    - 93
+    - 84
+  - - 134
+    - 165
+    - 48
+  - - 192
+    - 186
+    - 154
+  - - 112
+    - 109
+    - 103
+  - - 73
+    - 76
+    - 69
+- image_filename: 2020_05_26__18_16__5263671.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: f121f2f6003e0266
+  dhash: c5432684c7644ecc
+  phash: c7e8e30ae0f0dc6c
+  avg_rgb:
+  - 96
+  - 107
+  - 68
+  top5_rgb:
+  - - 158
+    - 165
+    - 144
+  - - 139
+    - 165
+    - 40
+  - - 101
+    - 106
+    - 98
+  - - 139
+    - 145
+    - 142
+  - - 130
+    - 142
+    - 124
+- image_filename: 2020_05_26__18_31__5263786.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 80c08080feff81c3
+  dhash: 01840c00848c1b17
+  phash: f6423bc4c43bb1c6
+  avg_rgb:
+  - 58
+  - 88
+  - 50
+  top5_rgb:
+  - - 45
+    - 77
+    - 38
+  - - 25
+    - 50
+    - 29
+  - - 82
+    - 116
+    - 36
+  - - 52
+    - 82
+    - 41
+  - - 72
+    - 102
+    - 48
+- image_filename: 2020_05_26__18_39__5263830.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: e7372687031bd018
+  dhash: cd65cc0cd63636f4
+  phash: aca2caa933f2d171
+  avg_rgb:
+  - 58
+  - 72
+  - 46
+  top5_rgb:
+  - - 40
+    - 55
+    - 35
+  - - 47
+    - 63
+    - 34
+  - - 40
+    - 55
+    - 31
+  - - 58
+    - 80
+    - 39
+  - - 53
+    - 68
+    - 36
+- image_filename: 2020_05_26__19_02__5263900.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 000006767f770400
+  dhash: f1739dc4f2876ce9
+  phash: 80797badc552b03d
+  avg_rgb:
+  - 61
+  - 71
+  - 39
+  top5_rgb:
+  - - 48
+    - 60
+    - 26
+  - - 54
+    - 67
+    - 24
+  - - 47
+    - 58
+    - 23
+  - - 45
+    - 56
+    - 22
+  - - 44
+    - 55
+    - 21
+- image_filename: 2020_05_26__19_02__5263907.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 0018dcf8181c0000
+  dhash: 4653b13432318601
+  phash: d8ce27694d669299
+  avg_rgb:
+  - 66
+  - 75
+  - 46
+  top5_rgb:
+  - - 55
+    - 64
+    - 37
+  - - 68
+    - 83
+    - 38
+  - - 58
+    - 68
+    - 33
+  - - 64
+    - 78
+    - 37
+  - - 61
+    - 73
+    - 34
+- image_filename: 2020_05_26__19_03__5263914.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 00000cded8181c00
+  dhash: 0448503032d23162
+  phash: d92667d9e6928964
+  avg_rgb:
+  - 66
+  - 75
+  - 45
+  top5_rgb:
+  - - 64
+    - 79
+    - 36
+  - - 53
+    - 61
+    - 31
+  - - 62
+    - 75
+    - 35
+  - - 57
+    - 67
+    - 33
+  - - 54
+    - 64
+    - 30
+- image_filename: 2020_05_26__19_10__5263953.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: e000c14deeecf686
+  dhash: 889c0b9bdc1ce46c
+  phash: f26946d491c86eb6
+  avg_rgb:
+  - 44
+  - 60
+  - 19
+  top5_rgb:
+  - - 34
+    - 45
+    - 4
+  - - 42
+    - 82
+    - 4
+  - - 43
+    - 52
+    - 9
+  - - 28
+    - 39
+    - 4
+  - - 64
+    - 72
+    - 40
+- image_filename: 2020_05_26__19_10__5263956.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 00003b3fcc063003
+  dhash: 509966e4992c6127
+  phash: 9c8d6b73b28c8d68
+  avg_rgb:
+  - 42
+  - 57
+  - 16
+  top5_rgb:
+  - - 28
+    - 38
+    - 4
+  - - 34
+    - 54
+    - 3
+  - - 31
+    - 44
+    - 6
+  - - 36
+    - 59
+    - 3
+  - - 30
+    - 42
+    - 6
+- image_filename: 2020_05_26__19_22__5264014.jpg
+  post_slug: 2020-05-26-test-telekonwertera-olympus-mc-20
+  ahash: 0003800fe37fff5b
+  dhash: 694f10578fedaf95
+  phash: a03f48a2799e5b74
+  avg_rgb:
+  - 103
+  - 115
+  - 94
+  top5_rgb:
+  - - 51
+    - 71
+    - 35
+  - - 42
+    - 64
+    - 27
+  - - 63
+    - 86
+    - 68
+  - - 71
+    - 88
+    - 62
+  - - 58
+    - 73
+    - 46

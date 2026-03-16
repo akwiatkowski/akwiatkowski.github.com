@@ -1,0 +1,246 @@
+---
+- type: car
+  total_distance_meters: 133177.75
+  total_distance_km: 133.178
+  points_count: 562
+  towns:
+    - slug: nysa
+      name: Nysa
+      code: "1607053"
+      distance_meters: 26880.24
+      distance_km: 26.88
+      distance_percent: 20.1837
+    - slug: strzelin
+      name: Strzelin
+      code: "0217043"
+      distance_meters: 18278.02
+      distance_km: 18.278
+      distance_percent: 13.7245
+    - slug: przeworno
+      name: Przeworno
+      code: "0217032"
+      distance_meters: 17831.37
+      distance_km: 17.831
+      distance_percent: 13.3892
+    - slug: prudnik
+      name: Prudnik
+      code: "1610043"
+      distance_meters: 16661.67
+      distance_km: 16.662
+      distance_percent: 12.5109
+    - slug: kamiennik
+      name: Kamiennik
+      code: "1607022"
+      distance_meters: 13148.17
+      distance_km: 13.148
+      distance_percent: 9.8726
+    - slug: zorawina
+      name: Żórawina
+      code: "0223092"
+      distance_meters: 11724.74
+      distance_km: 11.725
+      distance_percent: 8.8038
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264011"
+      distance_meters: 7252.85
+      distance_km: 7.253
+      distance_percent: 5.446
+    - slug: borow
+      name: Borów
+      code: "0217012"
+      distance_meters: 6952.84
+      distance_km: 6.953
+      distance_percent: 5.2207
+    - slug: siechnice
+      name: Siechnice
+      code: "0223083"
+      distance_meters: 5711.45
+      distance_km: 5.711
+      distance_percent: 4.2886
+    - slug: pakoslawice
+      name: Pakosławice
+      code: "1607082"
+      distance_meters: 4480.05
+      distance_km: 4.48
+      distance_percent: 3.364
+    - slug: korfantow
+      name: Korfantów
+      code: "1607033"
+      distance_meters: 4251.6
+      distance_km: 4.252
+      distance_percent: 3.1924
+    - slug: otmuchow
+      name: Otmuchów
+      code: "1607063"
+      distance_meters: 4.75
+      distance_km: 0.005
+      distance_percent: 0.0036
+  counties:
+    - slug: nyski
+      name: nyski
+      code: "1607"
+      distance_meters: 48764.8
+      distance_km: 48.765
+      distance_percent: 36.6163
+    - slug: strzelinski
+      name: strzeliński
+      code: "0217"
+      distance_meters: 43062.23
+      distance_km: 43.062
+      distance_percent: 32.3344
+    - slug: wroclawski
+      name: wrocławski
+      code: "0223"
+      distance_meters: 17436.19
+      distance_km: 17.436
+      distance_percent: 13.0924
+    - slug: prudnicki
+      name: prudnicki
+      code: "1610"
+      distance_meters: 16661.67
+      distance_km: 16.662
+      distance_percent: 12.5109
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264"
+      distance_meters: 7252.85
+      distance_km: 7.253
+      distance_percent: 5.446
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 67751.27
+      distance_km: 67.751
+      distance_percent: 50.8728
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+      distance_meters: 65426.48
+      distance_km: 65.426
+      distance_percent: 49.1272
+  meso_regions:
+    - slug: rownina_wroclawska
+      name: Równina Wrocławska
+      code: "318.53"
+      distance_meters: 52021.24
+      distance_km: 52.021
+      distance_percent: 39.0615
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+      distance_meters: 49442.94
+      distance_km: 49.443
+      distance_percent: 37.1255
+    - slug: plaskowyz_glubczycki
+      name: Płaskowyż Głubczycki
+      code: "318.58"
+      distance_meters: 25925.24
+      distance_km: 25.925
+      distance_percent: 19.4666
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+      distance_meters: 4567.67
+      distance_km: 4.568
+      distance_percent: 3.4298
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+      distance_meters: 1220.66
+      distance_km: 1.221
+      distance_percent: 0.9166
+  macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+      distance_meters: 83734.8
+      distance_km: 83.735
+      distance_percent: 62.8745
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+      distance_meters: 49442.94
+      distance_km: 49.443
+      distance_percent: 37.1255
+  touched_towns:
+    - slug: borow
+      name: Borów
+      code: "0217012"
+    - slug: kamiennik
+      name: Kamiennik
+      code: "1607022"
+    - slug: korfantow
+      name: Korfantów
+      code: "1607033"
+    - slug: nysa
+      name: Nysa
+      code: "1607053"
+    - slug: pakoslawice
+      name: Pakosławice
+      code: "1607082"
+    - slug: prudnik
+      name: Prudnik
+      code: "1610043"
+    - slug: przeworno
+      name: Przeworno
+      code: "0217032"
+    - slug: siechnice
+      name: Siechnice
+      code: "0223083"
+    - slug: strzelin
+      name: Strzelin
+      code: "0217043"
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264011"
+    - slug: zorawina
+      name: Żórawina
+      code: "0223092"
+  touched_counties:
+    - slug: nyski
+      name: nyski
+      code: "1607"
+    - slug: prudnicki
+      name: prudnicki
+      code: "1610"
+    - slug: strzelinski
+      name: strzeliński
+      code: "0217"
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264"
+    - slug: wroclawski
+      name: wrocławski
+      code: "0223"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+  touched_meso_regions:
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+    - slug: plaskowyz_glubczycki
+      name: Płaskowyż Głubczycki
+      code: "318.58"
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+    - slug: rownina_wroclawska
+      name: Równina Wrocławska
+      code: "318.53"
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+  touched_macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"

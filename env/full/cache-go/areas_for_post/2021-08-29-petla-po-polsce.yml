@@ -1,0 +1,3222 @@
+---
+- type: car
+  total_distance_meters: 667053.61
+  total_distance_km: 667.054
+  points_count: 1065
+  towns:
+    - slug: pisz
+      name: Pisz
+      code: "2816033"
+      distance_meters: 34678.35
+      distance_km: 34.678
+      distance_percent: 5.1987
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+      distance_meters: 33591.97
+      distance_km: 33.592
+      distance_percent: 5.0359
+    - slug: warszawa
+      name: Warszawa
+      code: "1465011"
+      distance_meters: 21584.74
+      distance_km: 21.585
+      distance_percent: 3.2358
+    - slug: ostrow_mazowiecka
+      name: Ostrów Mazowiecka
+      code: "1416072"
+      distance_meters: 20080.73
+      distance_km: 20.081
+      distance_percent: 3.0104
+    - slug: orzysz
+      name: Orzysz
+      code: "2816023"
+      distance_meters: 17934.01
+      distance_km: 17.934
+      distance_percent: 2.6885
+    - slug: jedrzejow
+      name: Jędrzejów
+      code: "2602023"
+      distance_meters: 16945.63
+      distance_km: 16.946
+      distance_percent: 2.5404
+    - slug: branszczyk
+      name: Brańszczyk
+      code: "1435012"
+      distance_meters: 15454.97
+      distance_km: 15.455
+      distance_percent: 2.3169
+    - slug: sniadowo
+      name: Śniadowo
+      code: "2007072"
+      distance_meters: 15202.85
+      distance_km: 15.203
+      distance_percent: 2.2791
+    - slug: sulkowice
+      name: Sułkowice
+      code: "1209073"
+      distance_meters: 14737.25
+      distance_km: 14.737
+      distance_percent: 2.2093
+    - slug: krakow
+      name: Kraków
+      code: "1261011"
+      distance_meters: 14710.71
+      distance_km: 14.711
+      distance_percent: 2.2053
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+      distance_meters: 14315.19
+      distance_km: 14.315
+      distance_percent: 2.146
+    - slug: radzymin
+      name: Radzymin
+      code: "1434093"
+      distance_meters: 14197.41
+      distance_km: 14.197
+      distance_percent: 2.1284
+    - slug: maly_plock
+      name: Mały Płock
+      code: "2006042"
+      distance_meters: 14025.43
+      distance_km: 14.025
+      distance_percent: 2.1026
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+      distance_meters: 13934.43
+      distance_km: 13.934
+      distance_percent: 2.089
+    - slug: kolno
+      name: Kolno
+      code: "2006032"
+      distance_meters: 13883.18
+      distance_km: 13.883
+      distance_percent: 2.0813
+    - slug: slomniki
+      name: Słomniki
+      code: "1206123"
+      distance_meters: 13809.82
+      distance_km: 13.81
+      distance_percent: 2.0703
+    - slug: miechow
+      name: Miechów
+      code: "1208053"
+      distance_meters: 13494.09
+      distance_km: 13.494
+      distance_percent: 2.0229
+    - slug: ksiaz_wielki
+      name: Książ Wielki
+      code: "1208042"
+      distance_meters: 13428.62
+      distance_km: 13.429
+      distance_percent: 2.0131
+    - slug: szydlowiec
+      name: Szydłowiec
+      code: "1430053"
+      distance_meters: 12453.15
+      distance_km: 12.453
+      distance_percent: 1.8669
+    - slug: grojec
+      name: Grójec
+      code: "1406053"
+      distance_meters: 12246.27
+      distance_km: 12.246
+      distance_percent: 1.8359
+    - slug: wodzislaw
+      name: Wodzisław
+      code: "2602092"
+      distance_meters: 11913.71
+      distance_km: 11.914
+      distance_percent: 1.786
+    - slug: checiny
+      name: Chęciny
+      code: "2604033"
+      distance_meters: 11676.95
+      distance_km: 11.677
+      distance_percent: 1.7505
+    - slug: wyszkow
+      name: Wyszków
+      code: "1435053"
+      distance_meters: 11290.47
+      distance_km: 11.29
+      distance_percent: 1.6926
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808032"
+      distance_meters: 11280.12
+      distance_km: 11.28
+      distance_percent: 1.691
+    - slug: promna
+      name: Promna
+      code: "1401022"
+      distance_meters: 11160.28
+      distance_km: 11.16
+      distance_percent: 1.6731
+    - slug: budzow
+      name: Budzów
+      code: "1215032"
+      distance_meters: 10805.63
+      distance_km: 10.806
+      distance_percent: 1.6199
+    - slug: stary_lubotyn
+      name: Stary Lubotyń
+      code: "1416082"
+      distance_meters: 10790.8
+      distance_km: 10.791
+      distance_percent: 1.6177
+    - slug: skarzysko-kamienna
+      name: Skarżysko-Kamienna
+      code: "2610011"
+      distance_meters: 10763.86
+      distance_km: 10.764
+      distance_percent: 1.6136
+    - slug: tarczyn
+      name: Tarczyn
+      code: "1418063"
+      distance_meters: 10578.21
+      distance_km: 10.578
+      distance_percent: 1.5858
+    - slug: stryszawa
+      name: Stryszawa
+      code: "1215072"
+      distance_meters: 10297.23
+      distance_km: 10.297
+      distance_percent: 1.5437
+    - slug: pozezdrze
+      name: Pozezdrze
+      code: "2819022"
+      distance_meters: 8888.04
+      distance_km: 8.888
+      distance_percent: 1.3324
+    - slug: zakrzew
+      name: Zakrzew
+      code: "1425132"
+      distance_meters: 8454.55
+      distance_km: 8.455
+      distance_percent: 1.2674
+    - slug: stara_blotnica
+      name: Stara Błotnica
+      code: "1401042"
+      distance_meters: 8117.11
+      distance_km: 8.117
+      distance_percent: 1.2169
+    - slug: jedlinsk
+      name: Jedlińsk
+      code: "1425052"
+      distance_meters: 7788.47
+      distance_km: 7.788
+      distance_percent: 1.1676
+    - slug: piatnica
+      name: Piątnica
+      code: "2007052"
+      distance_meters: 7641.8
+      distance_km: 7.642
+      distance_percent: 1.1456
+    - slug: oronsko
+      name: Orońsko
+      code: "1430042"
+      distance_meters: 7609.27
+      distance_km: 7.609
+      distance_percent: 1.1407
+    - slug: lesznowola
+      name: Lesznowola
+      code: "1418032"
+      distance_meters: 7514.61
+      distance_km: 7.515
+      distance_percent: 1.1265
+    - slug: laczna
+      name: Łączna
+      code: "2610032"
+      distance_meters: 7365.91
+      distance_km: 7.366
+      distance_percent: 1.1042
+    - slug: miedziana_gora
+      name: Miedziana Góra
+      code: "2604102"
+      distance_meters: 7342.45
+      distance_km: 7.342
+      distance_percent: 1.1007
+    - slug: michalowice
+      name: Michałowice
+      code: "1206082"
+      distance_meters: 7278.91
+      distance_km: 7.279
+      distance_percent: 1.0912
+    - slug: mogilany
+      name: Mogilany
+      code: "1206092"
+      distance_meters: 7263.6
+      distance_km: 7.264
+      distance_percent: 1.0889
+    - slug: raszyn
+      name: Raszyn
+      code: "1421062"
+      distance_meters: 7134.78
+      distance_km: 7.135
+      distance_percent: 1.0696
+    - slug: sucha_beskidzka
+      name: Sucha Beskidzka
+      code: "1215021"
+      distance_meters: 7019.73
+      distance_km: 7.02
+      distance_percent: 1.0523
+    - slug: ostrow_mazowiecka
+      name: Ostrów Mazowiecka
+      code: "1416011"
+      distance_meters: 6786.16
+      distance_km: 6.786
+      distance_percent: 1.0173
+    - slug: bialobrzegi
+      name: Białobrzegi
+      code: "1401013"
+      distance_meters: 6689.66
+      distance_km: 6.69
+      distance_percent: 1.0029
+    - slug: wolanow
+      name: Wolanów
+      code: "1425122"
+      distance_meters: 6492.46
+      distance_km: 6.492
+      distance_percent: 0.9733
+    - slug: lomza
+      name: Łomża
+      code: "2062011"
+      distance_meters: 6243.64
+      distance_km: 6.244
+      distance_percent: 0.936
+    - slug: zagnansk
+      name: Zagnańsk
+      code: "2604192"
+      distance_meters: 6162.85
+      distance_km: 6.163
+      distance_percent: 0.9239
+    - slug: suchedniow
+      name: Suchedniów
+      code: "2610053"
+      distance_meters: 6047.9
+      distance_km: 6.048
+      distance_percent: 0.9067
+    - slug: zabrodzie
+      name: Zabrodzie
+      code: "1435062"
+      distance_meters: 6017.33
+      distance_km: 6.017
+      distance_percent: 0.9021
+    - slug: marki
+      name: Marki
+      code: "1434021"
+      distance_meters: 5878.07
+      distance_km: 5.878
+      distance_percent: 0.8812
+    - slug: dabrowka
+      name: Dąbrówka
+      code: "1434052"
+      distance_meters: 5729.74
+      distance_km: 5.73
+      distance_percent: 0.859
+    - slug: belsk_duzy
+      name: Belsk Duży
+      code: "1406012"
+      distance_meters: 5303.2
+      distance_km: 5.303
+      distance_percent: 0.795
+    - slug: sobkow
+      name: Sobków
+      code: "2602082"
+      distance_meters: 5300.49
+      distance_km: 5.3
+      distance_percent: 0.7946
+    - slug: kolno
+      name: Kolno
+      code: "2006011"
+      distance_meters: 5253.85
+      distance_km: 5.254
+      distance_percent: 0.7876
+    - slug: lomza
+      name: Łomża
+      code: "2007022"
+      distance_meters: 4843.99
+      distance_km: 4.844
+      distance_percent: 0.7262
+    - slug: maslow
+      name: Masłów
+      code: "2604092"
+      distance_meters: 4612.29
+      distance_km: 4.612
+      distance_percent: 0.6914
+    - slug: sitkowka-nowiny
+      name: Sitkówka-Nowiny
+      code: "2604172"
+      distance_meters: 4410.41
+      distance_km: 4.41
+      distance_percent: 0.6612
+    - slug: czerwin
+      name: Czerwin
+      code: "1415032"
+      distance_meters: 4086.19
+      distance_km: 4.086
+      distance_percent: 0.6126
+    - slug: piekoszow
+      name: Piekoszów
+      code: "2604142"
+      distance_meters: 4060.92
+      distance_km: 4.061
+      distance_percent: 0.6088
+    - slug: myslenice
+      name: Myślenice
+      code: "1209033"
+      distance_meters: 4044.08
+      distance_km: 4.044
+      distance_percent: 0.6063
+    - slug: zielonki
+      name: Zielonki
+      code: "1206172"
+      distance_meters: 3462.77
+      distance_km: 3.463
+      distance_percent: 0.5191
+    - slug: zembrzyce
+      name: Zembrzyce
+      code: "1215092"
+      distance_meters: 3365.27
+      distance_km: 3.365
+      distance_percent: 0.5045
+    - slug: jastrzab
+      name: Jastrząb
+      code: "1430022"
+      distance_meters: 3162.15
+      distance_km: 3.162
+      distance_percent: 0.474
+    - slug: michalowice
+      name: Michałowice
+      code: "1421042"
+      distance_meters: 3096.51
+      distance_km: 3.097
+      distance_percent: 0.4642
+    - slug: kobylka
+      name: Kobyłka
+      code: "1434011"
+      distance_meters: 2584.15
+      distance_km: 2.584
+      distance_percent: 0.3874
+    - slug: goszczyn
+      name: Goszczyn
+      code: "1406042"
+      distance_meters: 2234.63
+      distance_km: 2.235
+      distance_percent: 0.335
+    - slug: kowala
+      name: Kowala
+      code: "1425072"
+      distance_meters: 1475.32
+      distance_km: 1.475
+      distance_percent: 0.2212
+    - slug: iwanowice
+      name: Iwanowice
+      code: "1206032"
+      distance_meters: 1281.78
+      distance_km: 1.282
+      distance_percent: 0.1922
+    - slug: zielonka
+      name: Zielonka
+      code: "1434041"
+      distance_meters: 1168.43
+      distance_km: 1.168
+      distance_percent: 0.1752
+    - slug: jasieniec
+      name: Jasieniec
+      code: "1406062"
+      distance_meters: 974.11
+      distance_km: 0.974
+      distance_percent: 0.146
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+      distance_meters: 680.28
+      distance_km: 0.68
+      distance_percent: 0.102
+    - slug: gizycko
+      name: Giżycko
+      code: "2806011"
+      distance_meters: 650.89
+      distance_km: 0.651
+      distance_percent: 0.0976
+    - slug: lanckorona
+      name: Lanckorona
+      code: "1218042"
+      distance_meters: 173.59
+      distance_km: 0.174
+      distance_percent: 0.026
+  counties:
+    - slug: piski
+      name: piski
+      code: "2816"
+      distance_meters: 52612.36
+      distance_km: 52.612
+      distance_percent: 7.8873
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+      distance_meters: 42480.01
+      distance_km: 42.48
+      distance_percent: 6.3683
+    - slug: kielecki
+      name: kielecki
+      code: "2604"
+      distance_meters: 38265.87
+      distance_km: 38.266
+      distance_percent: 5.7366
+    - slug: ostrowski
+      name: ostrowski
+      code: "1416"
+      distance_meters: 37657.68
+      distance_km: 37.658
+      distance_percent: 5.6454
+    - slug: jedrzejowski
+      name: jędrzejowski
+      code: "2602"
+      distance_meters: 34159.83
+      distance_km: 34.16
+      distance_percent: 5.121
+    - slug: lomzynski
+      name: łomżyński
+      code: "2007"
+      distance_meters: 33932.28
+      distance_km: 33.932
+      distance_percent: 5.0869
+    - slug: krakowski
+      name: krakowski
+      code: "1206"
+      distance_meters: 33096.87
+      distance_km: 33.097
+      distance_percent: 4.9617
+    - slug: wyszkowski
+      name: wyszkowski
+      code: "1435"
+      distance_meters: 32762.78
+      distance_km: 32.763
+      distance_percent: 4.9116
+    - slug: suski
+      name: suski
+      code: "1215"
+      distance_meters: 32168.13
+      distance_km: 32.168
+      distance_percent: 4.8224
+    - slug: wolominski
+      name: wołomiński
+      code: "1434"
+      distance_meters: 29557.8
+      distance_km: 29.558
+      distance_percent: 4.4311
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+      distance_meters: 28249.61
+      distance_km: 28.25
+      distance_percent: 4.235
+    - slug: kolnenski
+      name: kolneński
+      code: "2006"
+      distance_meters: 27908.61
+      distance_km: 27.909
+      distance_percent: 4.1839
+    - slug: miechowski
+      name: miechowski
+      code: "1208"
+      distance_meters: 26922.71
+      distance_km: 26.923
+      distance_percent: 4.0361
+    - slug: bialobrzeski
+      name: białobrzeski
+      code: "1401"
+      distance_meters: 25967.05
+      distance_km: 25.967
+      distance_percent: 3.8928
+    - slug: radomski
+      name: radomski
+      code: "1425"
+      distance_meters: 24210.8
+      distance_km: 24.211
+      distance_percent: 3.6295
+    - slug: skarzyski
+      name: skarżyski
+      code: "2610"
+      distance_meters: 24177.66
+      distance_km: 24.178
+      distance_percent: 3.6245
+    - slug: szydlowiecki
+      name: szydłowiecki
+      code: "1430"
+      distance_meters: 23224.56
+      distance_km: 23.225
+      distance_percent: 3.4817
+    - slug: warszawa
+      name: Warszawa
+      code: "1465"
+      distance_meters: 21584.74
+      distance_km: 21.585
+      distance_percent: 3.2358
+    - slug: grojecki
+      name: grójecki
+      code: "1406"
+      distance_meters: 20758.21
+      distance_km: 20.758
+      distance_percent: 3.1119
+    - slug: myslenicki
+      name: myślenicki
+      code: "1209"
+      distance_meters: 18781.33
+      distance_km: 18.781
+      distance_percent: 2.8156
+    - slug: piaseczynski
+      name: piaseczyński
+      code: "1418"
+      distance_meters: 18092.83
+      distance_km: 18.093
+      distance_percent: 2.7123
+    - slug: krakow
+      name: Kraków
+      code: "1261"
+      distance_meters: 14710.71
+      distance_km: 14.711
+      distance_percent: 2.2053
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 11280.12
+      distance_km: 11.28
+      distance_percent: 1.691
+    - slug: pruszkowski
+      name: pruszkowski
+      code: "1421"
+      distance_meters: 10231.29
+      distance_km: 10.231
+      distance_percent: 1.5338
+    - slug: lomza
+      name: Łomża
+      code: "2062"
+      distance_meters: 6243.64
+      distance_km: 6.244
+      distance_percent: 0.936
+    - slug: ostrolecki
+      name: ostrołęcki
+      code: "1415"
+      distance_meters: 4086.19
+      distance_km: 4.086
+      distance_percent: 0.6126
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+      distance_meters: 173.59
+      distance_km: 0.174
+      distance_percent: 0.026
+  voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+      distance_meters: 248133.91
+      distance_km: 248.134
+      distance_percent: 37.1985
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 134622.1
+      distance_km: 134.622
+      distance_percent: 20.1816
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 125853.34
+      distance_km: 125.853
+      distance_percent: 18.8671
+    - slug: swietokrzyskie
+      name: świętokrzyskie
+      code: "26"
+      distance_meters: 96603.36
+      distance_km: 96.603
+      distance_percent: 14.4821
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 61840.89
+      distance_km: 61.841
+      distance_percent: 9.2708
+  meso_regions:
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 105000.6
+      distance_km: 105.001
+      distance_percent: 15.741
+    - slug: miedzyrzecze_lomzynskie
+      name: Międzyrzecze Łomżyńskie
+      code: "318.67"
+      distance_meters: 82012.49
+      distance_km: 82.012
+      distance_percent: 12.2947
+    - slug: gory_swietokrzyskie
+      name: Góry Świętokrzyskie
+      code: 342.34-35
+      distance_meters: 41071.45
+      distance_km: 41.071
+      distance_percent: 6.1571
+    - slug: wyzyna_miechowska
+      name: Wyżyna Miechowska
+      code: "342.22"
+      distance_meters: 40475.76
+      distance_km: 40.476
+      distance_percent: 6.0678
+    - slug: wysoczyzna_rawska
+      name: Wysoczyzna Rawska
+      code: "318.83"
+      distance_meters: 39728.5
+      distance_km: 39.729
+      distance_percent: 5.9558
+    - slug: wysoczyzna_kolnenska
+      name: Wysoczyzna Kolneńska
+      code: "843.31"
+      distance_meters: 35176.25
+      distance_km: 35.176
+      distance_percent: 5.2734
+    - slug: rownina_wolominska
+      name: Równina Wołomińska
+      code: "318.78"
+      distance_meters: 33647.14
+      distance_km: 33.647
+      distance_percent: 5.0441
+    - slug: rownina_warszawska
+      name: Równina Warszawska
+      code: "318.76"
+      distance_meters: 31046.9
+      distance_km: 31.047
+      distance_percent: 4.6543
+    - slug: pogorze_wielickie
+      name: Pogórze Wielickie
+      code: "513.33"
+      distance_meters: 25596.44
+      distance_km: 25.596
+      distance_percent: 3.8372
+    - slug: przedgorze_ilzeckie
+      name: Przedgórze Iłżeckie
+      code: "342.33"
+      distance_meters: 22863.63
+      distance_km: 22.864
+      distance_percent: 3.4276
+    - slug: plaskowyz_jedrzejowski
+      name: Płaskowyż Jędrzejowski
+      code: "342.21"
+      distance_meters: 20809.96
+      distance_km: 20.81
+      distance_percent: 3.1197
+    - slug: rownina_radomska
+      name: Równina Radomska
+      code: "318.86"
+      distance_meters: 20337.48
+      distance_km: 20.337
+      distance_percent: 3.0489
+    - slug: rownina_kozienicka
+      name: Równina Kozienicka
+      code: "318.77"
+      distance_meters: 19762.71
+      distance_km: 19.763
+      distance_percent: 2.9627
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+      distance_meters: 18629.64
+      distance_km: 18.63
+      distance_percent: 2.7928
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+      distance_meters: 14765.55
+      distance_km: 14.766
+      distance_percent: 2.2135
+    - slug: garb_wodzislawski
+      name: Garb Wodzisławski
+      code: "342.24"
+      distance_meters: 13940.76
+      distance_km: 13.941
+      distance_percent: 2.0899
+    - slug: beskid_makowski
+      name: Beskid Makowski
+      code: "513.48"
+      distance_meters: 12524.86
+      distance_km: 12.525
+      distance_percent: 1.8776
+    - slug: dolina_dolnego_bugu
+      name: Dolina Dolnego Bugu
+      code: "318.74"
+      distance_meters: 11583.87
+      distance_km: 11.584
+      distance_percent: 1.7366
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+      distance_meters: 11087.46
+      distance_km: 11.087
+      distance_percent: 1.6622
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+      distance_meters: 9939.89
+      distance_km: 9.94
+      distance_percent: 1.4901
+    - slug: pomost_krakowski
+      name: Pomost Krakowski
+      code: "512.33"
+      distance_meters: 9197.17
+      distance_km: 9.197
+      distance_percent: 1.3788
+    - slug: garb_gielniowski
+      name: Garb Gielniowski
+      code: "342.32"
+      distance_meters: 7286.84
+      distance_km: 7.287
+      distance_percent: 1.0924
+    - slug: plaskowyz_suchedniowski
+      name: Płaskowyż Suchedniowski
+      code: "342.31"
+      distance_meters: 6741.99
+      distance_km: 6.742
+      distance_percent: 1.0107
+    - slug: plaskowyz_proszowicki
+      name: Płaskowyż Proszowicki
+      code: "342.23"
+      distance_meters: 5576.16
+      distance_km: 5.576
+      distance_percent: 0.8359
+    - slug: dolina_nidy
+      name: Dolina Nidy
+      code: "342.25"
+      distance_meters: 4969.52
+      distance_km: 4.97
+      distance_percent: 0.745
+    - slug: podgorze_krakowskie
+      name: Podgórze Krakowskie
+      code: "512.53"
+      distance_meters: 4887.31
+      distance_km: 4.887
+      distance_percent: 0.7327
+    - slug: pasma_pewelsko-krzeczowskie
+      name: Pasma Pewelsko-Krzeczowskie
+      code: "513.57"
+      distance_meters: 4596.73
+      distance_km: 4.597
+      distance_percent: 0.6891
+    - slug: dolina_dolnej_pilicy
+      name: Dolina Dolnej Pilicy
+      code: "318.70"
+      distance_meters: 3713.34
+      distance_km: 3.713
+      distance_percent: 0.5567
+    - slug: wyzyna_olkuska
+      name: Wyżyna Olkuska
+      code: "341.32"
+      distance_meters: 3523.67
+      distance_km: 3.524
+      distance_percent: 0.5282
+    - slug: pogorze_szydlowskie
+      name: Pogórze Szydłowskie
+      code: "342.37"
+      distance_meters: 2873.09
+      distance_km: 2.873
+      distance_percent: 0.4307
+    - slug: dolina_dolnej_narwi
+      name: Dolina Dolnej Narwi
+      code: "318.66"
+      distance_meters: 2019.95
+      distance_km: 2.02
+      distance_percent: 0.3028
+    - slug: pasmo_przedborsko-malogoskie
+      name: Pasmo Przedborsko-Małogoskie
+      code: "342.15"
+      distance_meters: 1666.52
+      distance_km: 1.667
+      distance_percent: 0.2498
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 134717.7
+      distance_km: 134.718
+      distance_percent: 20.1959
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"
+      distance_meters: 109693.84
+      distance_km: 109.694
+      distance_percent: 16.4445
+    - slug: niecka_nidzianska
+      name: Niecka Nidziańska
+      code: "342"
+      distance_meters: 85772.16
+      distance_km: 85.772
+      distance_percent: 12.8584
+    - slug: nizina_polnocnomazowiecka
+      name: Nizina Północnomazowiecka
+      code: "318"
+      distance_meters: 84032.43
+      distance_km: 84.032
+      distance_percent: 12.5976
+    - slug: wyzyna_kielecka
+      name: Wyżyna Kielecka
+      code: "342"
+      distance_meters: 80837
+      distance_km: 80.837
+      distance_percent: 12.1185
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"
+      distance_meters: 60065.98
+      distance_km: 60.066
+      distance_percent: 9.0047
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 35176.25
+      distance_km: 35.176
+      distance_percent: 5.2734
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 31887.14
+      distance_km: 31.887
+      distance_percent: 4.7803
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"
+      distance_meters: 25596.44
+      distance_km: 25.596
+      distance_percent: 3.8372
+    - slug: brama_krakowska
+      name: Brama Krakowska
+      code: "512"
+      distance_meters: 9197.17
+      distance_km: 9.197
+      distance_percent: 1.3788
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+      distance_meters: 4887.31
+      distance_km: 4.887
+      distance_percent: 0.7327
+    - slug: wyzyna_krakowsko-czestochowska
+      name: Wyżyna Krakowsko-Częstochowska
+      code: "341"
+      distance_meters: 3523.67
+      distance_km: 3.524
+      distance_percent: 0.5282
+    - slug: wyzyna_przedborska
+      name: Wyżyna Przedborska
+      code: "342"
+      distance_meters: 1666.52
+      distance_km: 1.667
+      distance_percent: 0.2498
+  touched_towns:
+    - slug: bialobrzegi
+      name: Białobrzegi
+      code: "1401013"
+    - slug: branszczyk
+      name: Brańszczyk
+      code: "1435012"
+    - slug: budzow
+      name: Budzów
+      code: "1215032"
+    - slug: checiny
+      name: Chęciny
+      code: "2604033"
+    - slug: czerwin
+      name: Czerwin
+      code: "1415032"
+    - slug: gizycko
+      name: Giżycko
+      code: "2806042"
+    - slug: jastrzab
+      name: Jastrząb
+      code: "1430022"
+    - slug: jedlinsk
+      name: Jedlińsk
+      code: "1425052"
+    - slug: jedrzejow
+      name: Jędrzejów
+      code: "2602023"
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808032"
+    - slug: kobylka
+      name: Kobyłka
+      code: "1434011"
+    - slug: kolno
+      name: Kolno
+      code: "2006032"
+    - slug: kowala
+      name: Kowala
+      code: "1425072"
+    - slug: ksiaz_wielki
+      name: Książ Wielki
+      code: "1208042"
+    - slug: lanckorona
+      name: Lanckorona
+      code: "1218042"
+    - slug: lomza
+      name: Łomża
+      code: "2007022"
+    - slug: maly_plock
+      name: Mały Płock
+      code: "2006042"
+    - slug: marki
+      name: Marki
+      code: "1434021"
+    - slug: michalowice
+      name: Michałowice
+      code: "1421042"
+    - slug: miechow
+      name: Miechów
+      code: "1208053"
+    - slug: miedziana_gora
+      name: Miedziana Góra
+      code: "2604102"
+    - slug: milki
+      name: Miłki
+      code: "2806062"
+    - slug: mogilany
+      name: Mogilany
+      code: "1206092"
+    - slug: myslenice
+      name: Myślenice
+      code: "1209033"
+    - slug: oronsko
+      name: Orońsko
+      code: "1430042"
+    - slug: orzysz
+      name: Orzysz
+      code: "2816023"
+    - slug: ostrow_mazowiecka
+      name: Ostrów Mazowiecka
+      code: "1416072"
+    - slug: piatnica
+      name: Piątnica
+      code: "2007052"
+    - slug: piekoszow
+      name: Piekoszów
+      code: "2604142"
+    - slug: pisz
+      name: Pisz
+      code: "2816033"
+    - slug: pozezdrze
+      name: Pozezdrze
+      code: "2819022"
+    - slug: promna
+      name: Promna
+      code: "1401022"
+    - slug: radzymin
+      name: Radzymin
+      code: "1434093"
+    - slug: raszyn
+      name: Raszyn
+      code: "1421062"
+    - slug: sitkowka-nowiny
+      name: Sitkówka-Nowiny
+      code: "2604172"
+    - slug: skarzysko-kamienna
+      name: Skarżysko-Kamienna
+      code: "2610011"
+    - slug: slomniki
+      name: Słomniki
+      code: "1206123"
+    - slug: sniadowo
+      name: Śniadowo
+      code: "2007072"
+    - slug: sobkow
+      name: Sobków
+      code: "2602082"
+    - slug: stara_blotnica
+      name: Stara Błotnica
+      code: "1401042"
+    - slug: stryszawa
+      name: Stryszawa
+      code: "1215072"
+    - slug: sucha_beskidzka
+      name: Sucha Beskidzka
+      code: "1215021"
+    - slug: suchedniow
+      name: Suchedniów
+      code: "2610053"
+    - slug: sulkowice
+      name: Sułkowice
+      code: "1209073"
+    - slug: szydlowiec
+      name: Szydłowiec
+      code: "1430053"
+    - slug: tarczyn
+      name: Tarczyn
+      code: "1418063"
+    - slug: warszawa
+      name: Warszawa
+      code: "1465011"
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+    - slug: wodzislaw
+      name: Wodzisław
+      code: "2602092"
+    - slug: wyszkow
+      name: Wyszków
+      code: "1435053"
+    - slug: zabrodzie
+      name: Zabrodzie
+      code: "1435062"
+    - slug: zagnansk
+      name: Zagnańsk
+      code: "2604192"
+    - slug: zakrzew
+      name: Zakrzew
+      code: "1425132"
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+    - slug: zembrzyce
+      name: Zembrzyce
+      code: "1215092"
+  touched_counties:
+    - slug: bialobrzeski
+      name: białobrzeski
+      code: "1401"
+    - slug: gizycki
+      name: giżycki
+      code: "2806"
+    - slug: jedrzejowski
+      name: jędrzejowski
+      code: "2602"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+    - slug: kielecki
+      name: kielecki
+      code: "2604"
+    - slug: kolnenski
+      name: kolneński
+      code: "2006"
+    - slug: krakowski
+      name: krakowski
+      code: "1206"
+    - slug: lomza
+      name: Łomża
+      code: "2062"
+    - slug: lomzynski
+      name: łomżyński
+      code: "2007"
+    - slug: miechowski
+      name: miechowski
+      code: "1208"
+    - slug: myslenicki
+      name: myślenicki
+      code: "1209"
+    - slug: ostrolecki
+      name: ostrołęcki
+      code: "1415"
+    - slug: ostrowski
+      name: ostrowski
+      code: "1416"
+    - slug: piaseczynski
+      name: piaseczyński
+      code: "1418"
+    - slug: piski
+      name: piski
+      code: "2816"
+    - slug: pruszkowski
+      name: pruszkowski
+      code: "1421"
+    - slug: radomski
+      name: radomski
+      code: "1425"
+    - slug: skarzyski
+      name: skarżyski
+      code: "2610"
+    - slug: suski
+      name: suski
+      code: "1215"
+    - slug: szydlowiecki
+      name: szydłowiecki
+      code: "1430"
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+    - slug: warszawa
+      name: Warszawa
+      code: "1465"
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+    - slug: wolominski
+      name: wołomiński
+      code: "1434"
+    - slug: wyszkowski
+      name: wyszkowski
+      code: "1435"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+    - slug: swietokrzyskie
+      name: świętokrzyskie
+      code: "26"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: beskid_makowski
+      name: Beskid Makowski
+      code: "513.48"
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+    - slug: dolina_dolnego_bugu
+      name: Dolina Dolnego Bugu
+      code: "318.74"
+    - slug: dolina_dolnej_pilicy
+      name: Dolina Dolnej Pilicy
+      code: "318.70"
+    - slug: dolina_nidy
+      name: Dolina Nidy
+      code: "342.25"
+    - slug: garb_gielniowski
+      name: Garb Gielniowski
+      code: "342.32"
+    - slug: garb_wodzislawski
+      name: Garb Wodzisławski
+      code: "342.24"
+    - slug: gory_swietokrzyskie
+      name: Góry Świętokrzyskie
+      code: 342.34-35
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: miedzyrzecze_lomzynskie
+      name: Międzyrzecze Łomżyńskie
+      code: "318.67"
+    - slug: pasma_pewelsko-krzeczowskie
+      name: Pasma Pewelsko-Krzeczowskie
+      code: "513.57"
+    - slug: pasmo_przedborsko-malogoskie
+      name: Pasmo Przedborsko-Małogoskie
+      code: "342.15"
+    - slug: plaskowyz_jedrzejowski
+      name: Płaskowyż Jędrzejowski
+      code: "342.21"
+    - slug: plaskowyz_suchedniowski
+      name: Płaskowyż Suchedniowski
+      code: "342.31"
+    - slug: pogorze_szydlowskie
+      name: Pogórze Szydłowskie
+      code: "342.37"
+    - slug: pogorze_wielickie
+      name: Pogórze Wielickie
+      code: "513.33"
+    - slug: pojezierze_elckie
+      name: Pojezierze Ełckie
+      code: "842.86"
+    - slug: przedgorze_ilzeckie
+      name: Przedgórze Iłżeckie
+      code: "342.33"
+    - slug: rownina_kozienicka
+      name: Równina Kozienicka
+      code: "318.77"
+    - slug: rownina_mazurska
+      name: Równina Mazurska
+      code: "842.87"
+    - slug: rownina_radomska
+      name: Równina Radomska
+      code: "318.86"
+    - slug: rownina_warszawska
+      name: Równina Warszawska
+      code: "318.76"
+    - slug: rownina_wolominska
+      name: Równina Wołomińska
+      code: "318.78"
+    - slug: wysoczyzna_kolnenska
+      name: Wysoczyzna Kolneńska
+      code: "843.31"
+    - slug: wysoczyzna_rawska
+      name: Wysoczyzna Rawska
+      code: "318.83"
+    - slug: wyzyna_miechowska
+      name: Wyżyna Miechowska
+      code: "342.22"
+    - slug: wyzyna_olkuska
+      name: Wyżyna Olkuska
+      code: "341.32"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+    - slug: niecka_nidzianska
+      name: Niecka Nidziańska
+      code: "342"
+    - slug: nizina_polnocnomazowiecka
+      name: Nizina Północnomazowiecka
+      code: "318"
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+    - slug: wyzyna_kielecka
+      name: Wyżyna Kielecka
+      code: "342"
+    - slug: wyzyna_krakowsko-czestochowska
+      name: Wyżyna Krakowsko-Częstochowska
+      code: "341"
+    - slug: wyzyna_przedborska
+      name: Wyżyna Przedborska
+      code: "342"
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"
+- type: car
+  total_distance_meters: 432910.93
+  total_distance_km: 432.911
+  points_count: 741
+  towns:
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+      distance_meters: 19275.42
+      distance_km: 19.275
+      distance_percent: 4.4525
+    - slug: rudziniec
+      name: Rudziniec
+      code: "2405052"
+      distance_meters: 15823.56
+      distance_km: 15.824
+      distance_percent: 3.6552
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264011"
+      distance_meters: 15585.52
+      distance_km: 15.586
+      distance_percent: 3.6002
+    - slug: niemodlin
+      name: Niemodlin
+      code: "1609073"
+      distance_meters: 13507.96
+      distance_km: 13.508
+      distance_percent: 3.1203
+    - slug: prusice
+      name: Prusice
+      code: "0220023"
+      distance_meters: 13330.35
+      distance_km: 13.33
+      distance_percent: 3.0792
+    - slug: swieciechowa
+      name: Święciechowa
+      code: "3013052"
+      distance_meters: 13102.84
+      distance_km: 13.103
+      distance_percent: 3.0267
+    - slug: babice
+      name: Babice
+      code: "1203022"
+      distance_meters: 12862.18
+      distance_km: 12.862
+      distance_percent: 2.9711
+    - slug: zorawina
+      name: Żórawina
+      code: "0223092"
+      distance_meters: 12653.9
+      distance_km: 12.654
+      distance_percent: 2.923
+    - slug: wisznia_mala
+      name: Wisznia Mała
+      code: "0220042"
+      distance_meters: 12570.85
+      distance_km: 12.571
+      distance_percent: 2.9038
+    - slug: myslowice
+      name: Mysłowice
+      code: "2470011"
+      distance_meters: 12328.28
+      distance_km: 12.328
+      distance_percent: 2.8478
+    - slug: rydzyna
+      name: Rydzyna
+      code: "3013043"
+      distance_meters: 11803.8
+      distance_km: 11.804
+      distance_percent: 2.7266
+    - slug: olszanka
+      name: Olszanka
+      code: "1601062"
+      distance_meters: 11250.26
+      distance_km: 11.25
+      distance_percent: 2.5987
+    - slug: smigiel
+      name: Śmigiel
+      code: "3011053"
+      distance_meters: 10860.8
+      distance_km: 10.861
+      distance_percent: 2.5088
+    - slug: katowice
+      name: Katowice
+      code: "2469011"
+      distance_meters: 10735.82
+      distance_km: 10.736
+      distance_percent: 2.4799
+    - slug: gogolin
+      name: Gogolin
+      code: "1605013"
+      distance_meters: 10548.89
+      distance_km: 10.549
+      distance_percent: 2.4367
+    - slug: zator
+      name: Zator
+      code: "1213093"
+      distance_meters: 10533.87
+      distance_km: 10.534
+      distance_percent: 2.4333
+    - slug: rawicz
+      name: Rawicz
+      code: "3022053"
+      distance_meters: 10481.86
+      distance_km: 10.482
+      distance_percent: 2.4213
+    - slug: ruda_slaska
+      name: Ruda Śląska
+      code: "2472011"
+      distance_meters: 10225.19
+      distance_km: 10.225
+      distance_percent: 2.362
+    - slug: gliwice
+      name: Gliwice
+      code: "2466011"
+      distance_meters: 10173.91
+      distance_km: 10.174
+      distance_percent: 2.3501
+    - slug: chrzanow
+      name: Chrzanów
+      code: "1203033"
+      distance_meters: 10100.03
+      distance_km: 10.1
+      distance_percent: 2.333
+    - slug: stryszawa
+      name: Stryszawa
+      code: "1215072"
+      distance_meters: 9994.7
+      distance_km: 9.995
+      distance_percent: 2.3087
+    - slug: ujazd
+      name: Ujazd
+      code: "1611063"
+      distance_meters: 9481.26
+      distance_km: 9.481
+      distance_percent: 2.1901
+    - slug: lipno
+      name: Lipno
+      code: "3013022"
+      distance_meters: 9262.73
+      distance_km: 9.263
+      distance_percent: 2.1396
+    - slug: domaniow
+      name: Domaniów
+      code: "0215022"
+      distance_meters: 9047.03
+      distance_km: 9.047
+      distance_percent: 2.0898
+    - slug: bojanowo
+      name: Bojanowo
+      code: "3022013"
+      distance_meters: 8770.68
+      distance_km: 8.771
+      distance_percent: 2.026
+    - slug: proszkow
+      name: Prószków
+      code: "1609103"
+      distance_meters: 8442.63
+      distance_km: 8.443
+      distance_percent: 1.9502
+    - slug: lesnica
+      name: Leśnica
+      code: "1611043"
+      distance_meters: 8413.14
+      distance_km: 8.413
+      distance_percent: 1.9434
+    - slug: mucharz
+      name: Mucharz
+      code: "1218052"
+      distance_meters: 7837.46
+      distance_km: 7.837
+      distance_percent: 1.8104
+    - slug: jaworzno
+      name: Jaworzno
+      code: "2468011"
+      distance_meters: 7584.12
+      distance_km: 7.584
+      distance_percent: 1.7519
+    - slug: wadowice
+      name: Wadowice
+      code: "1218093"
+      distance_meters: 7510.87
+      distance_km: 7.511
+      distance_percent: 1.735
+    - slug: olawa
+      name: Oława
+      code: "0215042"
+      distance_meters: 7090.69
+      distance_km: 7.091
+      distance_percent: 1.6379
+    - slug: sucha_beskidzka
+      name: Sucha Beskidzka
+      code: "1215021"
+      distance_meters: 7002.8
+      distance_km: 7.003
+      distance_percent: 1.6176
+    - slug: krapkowice
+      name: Krapkowice
+      code: "1605023"
+      distance_meters: 6787.97
+      distance_km: 6.788
+      distance_percent: 1.568
+    - slug: wiazow
+      name: Wiązów
+      code: "0217053"
+      distance_meters: 6552.24
+      distance_km: 6.552
+      distance_percent: 1.5135
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+      distance_meters: 6359.78
+      distance_km: 6.36
+      distance_percent: 1.4691
+    - slug: katy_wroclawskie
+      name: Kąty Wrocławskie
+      code: "0223043"
+      distance_meters: 6332.02
+      distance_km: 6.332
+      distance_percent: 1.4627
+    - slug: sosnicowice
+      name: Sośnicowice
+      code: "2405063"
+      distance_meters: 5826.17
+      distance_km: 5.826
+      distance_percent: 1.3458
+    - slug: zembrzyce
+      name: Zembrzyce
+      code: "1215092"
+      distance_meters: 5801.84
+      distance_km: 5.802
+      distance_percent: 1.3402
+    - slug: tomice
+      name: Tomice
+      code: "1218082"
+      distance_meters: 5649.14
+      distance_km: 5.649
+      distance_percent: 1.3049
+    - slug: koscian
+      name: Kościan
+      code: "3011032"
+      distance_meters: 5464.14
+      distance_km: 5.464
+      distance_percent: 1.2622
+    - slug: kobierzyce
+      name: Kobierzyce
+      code: "0223052"
+      distance_meters: 4786.29
+      distance_km: 4.786
+      distance_percent: 1.1056
+    - slug: tulowice
+      name: Tułowice
+      code: "1609123"
+      distance_meters: 4730.81
+      distance_km: 4.731
+      distance_percent: 1.0928
+    - slug: dabrowa
+      name: Dąbrowa
+      code: "1609022"
+      distance_meters: 4628.62
+      distance_km: 4.629
+      distance_percent: 1.0692
+    - slug: zabrze
+      name: Zabrze
+      code: "2478011"
+      distance_meters: 4054.63
+      distance_km: 4.055
+      distance_percent: 0.9366
+    - slug: zdzieszowice
+      name: Zdzieszowice
+      code: "1605053"
+      distance_meters: 3650.4
+      distance_km: 3.65
+      distance_percent: 0.8432
+    - slug: grodkow
+      name: Grodków
+      code: "1601033"
+      distance_meters: 3498.23
+      distance_km: 3.498
+      distance_percent: 0.8081
+    - slug: pilchowice
+      name: Pilchowice
+      code: "2405042"
+      distance_meters: 2309.82
+      distance_km: 2.31
+      distance_percent: 0.5336
+    - slug: komprachcice
+      name: Komprachcice
+      code: "1609042"
+      distance_meters: 1881.55
+      distance_km: 1.882
+      distance_percent: 0.4346
+    - slug: chorzow
+      name: Chorzów
+      code: "2463011"
+      distance_meters: 1420.14
+      distance_km: 1.42
+      distance_percent: 0.328
+    - slug: imielin
+      name: Imielin
+      code: "2414021"
+      distance_meters: 1350.96
+      distance_km: 1.351
+      distance_percent: 0.3121
+    - slug: gieraltowice
+      name: Gierałtowice
+      code: "2405032"
+      distance_meters: 1341.62
+      distance_km: 1.342
+      distance_percent: 0.3099
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+      distance_meters: 953.42
+      distance_km: 0.953
+      distance_percent: 0.2202
+    - slug: leszno
+      name: Leszno
+      code: "3063011"
+      distance_meters: 657.07
+      distance_km: 0.657
+      distance_percent: 0.1518
+    - slug: lewin_brzeski
+      name: Lewin Brzeski
+      code: "1601043"
+      distance_meters: 578.01
+      distance_km: 0.578
+      distance_percent: 0.1335
+    - slug: strzelce_opolskie
+      name: Strzelce Opolskie
+      code: "1611053"
+      distance_meters: 102.71
+      distance_km: 0.103
+      distance_percent: 0.0237
+  counties:
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+      distance_meters: 51536.39
+      distance_km: 51.536
+      distance_percent: 11.9046
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+      distance_meters: 34826.45
+      distance_km: 34.826
+      distance_percent: 8.0447
+    - slug: opolski
+      name: opolski
+      code: "1609"
+      distance_meters: 33191.57
+      distance_km: 33.192
+      distance_percent: 7.6671
+    - slug: gliwicki
+      name: gliwicki
+      code: "2405"
+      distance_meters: 25301.16
+      distance_km: 25.301
+      distance_percent: 5.8444
+    - slug: wroclawski
+      name: wrocławski
+      code: "0223"
+      distance_meters: 23772.21
+      distance_km: 23.772
+      distance_percent: 5.4912
+    - slug: suski
+      name: suski
+      code: "1215"
+      distance_meters: 23752.75
+      distance_km: 23.753
+      distance_percent: 5.4868
+    - slug: chrzanowski
+      name: chrzanowski
+      code: "1203"
+      distance_meters: 22962.21
+      distance_km: 22.962
+      distance_percent: 5.3041
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+      distance_meters: 20997.47
+      distance_km: 20.997
+      distance_percent: 4.8503
+    - slug: krapkowicki
+      name: krapkowicki
+      code: "1605"
+      distance_meters: 20987.25
+      distance_km: 20.987
+      distance_percent: 4.8479
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+      distance_meters: 19252.54
+      distance_km: 19.253
+      distance_percent: 4.4472
+    - slug: strzelecki
+      name: strzelecki
+      code: "1611"
+      distance_meters: 17997.11
+      distance_km: 17.997
+      distance_percent: 4.1572
+    - slug: koscianski
+      name: kościański
+      code: "3011"
+      distance_meters: 16324.94
+      distance_km: 16.325
+      distance_percent: 3.771
+    - slug: olawski
+      name: oławski
+      code: "0215"
+      distance_meters: 16137.72
+      distance_km: 16.138
+      distance_percent: 3.7277
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264"
+      distance_meters: 15585.52
+      distance_km: 15.586
+      distance_percent: 3.6002
+    - slug: brzeski
+      name: brzeski
+      code: "1601"
+      distance_meters: 15326.51
+      distance_km: 15.327
+      distance_percent: 3.5403
+    - slug: myslowice
+      name: Mysłowice
+      code: "2470"
+      distance_meters: 12328.28
+      distance_km: 12.328
+      distance_percent: 2.8478
+    - slug: katowice
+      name: Katowice
+      code: "2469"
+      distance_meters: 10735.82
+      distance_km: 10.736
+      distance_percent: 2.4799
+    - slug: oswiecimski
+      name: oświęcimski
+      code: "1213"
+      distance_meters: 10533.87
+      distance_km: 10.534
+      distance_percent: 2.4333
+    - slug: ruda_slaska
+      name: Ruda Śląska
+      code: "2472"
+      distance_meters: 10225.19
+      distance_km: 10.225
+      distance_percent: 2.362
+    - slug: gliwice
+      name: Gliwice
+      code: "2466"
+      distance_meters: 10173.91
+      distance_km: 10.174
+      distance_percent: 2.3501
+    - slug: jaworzno
+      name: Jaworzno
+      code: "2468"
+      distance_meters: 7584.12
+      distance_km: 7.584
+      distance_percent: 1.7519
+    - slug: strzelinski
+      name: strzeliński
+      code: "0217"
+      distance_meters: 6552.24
+      distance_km: 6.552
+      distance_percent: 1.5135
+    - slug: zabrze
+      name: Zabrze
+      code: "2478"
+      distance_meters: 4054.63
+      distance_km: 4.055
+      distance_percent: 0.9366
+    - slug: chorzow
+      name: Chorzów
+      code: "2463"
+      distance_meters: 1420.14
+      distance_km: 1.42
+      distance_percent: 0.328
+    - slug: bierunsko-ledzinski
+      name: bieruńsko-lędziński
+      code: "2414"
+      distance_meters: 1350.96
+      distance_km: 1.351
+      distance_percent: 0.3121
+    - slug: leszno
+      name: Leszno
+      code: "3063"
+      distance_meters: 657.07
+      distance_km: 0.657
+      distance_percent: 0.1518
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 113584.07
+      distance_km: 113.584
+      distance_percent: 26.2373
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+      distance_meters: 87502.44
+      distance_km: 87.502
+      distance_percent: 20.2126
+    - slug: slaskie
+      name: śląskie
+      code: "24"
+      distance_meters: 83174.19
+      distance_km: 83.174
+      distance_percent: 19.2128
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 78246.3
+      distance_km: 78.246
+      distance_percent: 18.0745
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 70403.93
+      distance_km: 70.404
+      distance_percent: 16.2629
+  meso_regions:
+    - slug: rownina_wroclawska
+      name: Równina Wrocławska
+      code: "318.53"
+      distance_meters: 67382.19
+      distance_km: 67.382
+      distance_percent: 15.5649
+    - slug: wyzyna_katowicka
+      name: Wyżyna Katowicka
+      code: "341.13"
+      distance_meters: 47293.59
+      distance_km: 47.294
+      distance_percent: 10.9246
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+      distance_meters: 35788.58
+      distance_km: 35.789
+      distance_percent: 8.267
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+      distance_meters: 32007.36
+      distance_km: 32.007
+      distance_percent: 7.3935
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+      distance_meters: 30900.56
+      distance_km: 30.901
+      distance_percent: 7.1379
+    - slug: chelm
+      name: Chełm
+      code: "341.11"
+      distance_meters: 30631.53
+      distance_km: 30.632
+      distance_percent: 7.0757
+    - slug: dolina_gornej_wisly
+      name: Dolina Górnej Wisły
+      code: "512.22"
+      distance_meters: 16815.52
+      distance_km: 16.816
+      distance_percent: 3.8843
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+      distance_meters: 16523.99
+      distance_km: 16.524
+      distance_percent: 3.8169
+    - slug: obnizenie_bojszowa
+      name: Obniżenie Bojszowa
+      code: "341.16"
+      distance_meters: 15411.94
+      distance_km: 15.412
+      distance_percent: 3.5601
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+      distance_meters: 14641.05
+      distance_km: 14.641
+      distance_percent: 3.382
+    - slug: pogorze_wielickie
+      name: Pogórze Wielickie
+      code: "513.33"
+      distance_meters: 13944.46
+      distance_km: 13.944
+      distance_percent: 3.2211
+    - slug: pojezierze_krzywinskie
+      name: Pojezierze Krzywińskie
+      code: "315.82"
+      distance_meters: 13283.79
+      distance_km: 13.284
+      distance_percent: 3.0685
+    - slug: pagory_jaworznickie
+      name: Pagóry Jaworznickie
+      code: "341.14"
+      distance_meters: 13058.74
+      distance_km: 13.059
+      distance_percent: 3.0165
+    - slug: rownina_koscianska
+      name: Równina Kościańska
+      code: "315.83"
+      distance_meters: 12253.22
+      distance_km: 12.253
+      distance_percent: 2.8304
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+      distance_meters: 11619.3
+      distance_km: 11.619
+      distance_percent: 2.684
+    - slug: pradolina_wroclawska
+      name: Pradolina Wrocławska
+      code: "318.52"
+      distance_meters: 10750.06
+      distance_km: 10.75
+      distance_percent: 2.4832
+    - slug: row_krzeszowicki
+      name: Rów Krzeszowicki
+      code: "341.33"
+      distance_meters: 9909.34
+      distance_km: 9.909
+      distance_percent: 2.289
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+      distance_meters: 9134.4
+      distance_km: 9.134
+      distance_percent: 2.11
+    - slug: kotlina_raciborska
+      name: Kotlina Raciborska
+      code: "318.59"
+      distance_meters: 8406.18
+      distance_km: 8.406
+      distance_percent: 1.9418
+    - slug: rownina_olesnicka
+      name: Równina Oleśnicka
+      code: "318.56"
+      distance_meters: 8075.99
+      distance_km: 8.076
+      distance_percent: 1.8655
+    - slug: garb_tenczynski
+      name: Garb Tenczyński
+      code: "341.34"
+      distance_meters: 7179.74
+      distance_km: 7.18
+      distance_percent: 1.6585
+    - slug: pasma_pewelsko-krzeczowskie
+      name: Pasma Pewelsko-Krzeczowskie
+      code: "513.57"
+      distance_meters: 5291.21
+      distance_km: 5.291
+      distance_percent: 1.2222
+    - slug: beskid_makowski
+      name: Beskid Makowski
+      code: "513.48"
+      distance_meters: 1513.95
+      distance_km: 1.514
+      distance_percent: 0.3497
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+      distance_meters: 1094.22
+      distance_km: 1.094
+      distance_percent: 0.2528
+  macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+      distance_meters: 134649.4
+      distance_km: 134.649
+      distance_percent: 31.1033
+    - slug: wyzyna_slaska
+      name: Wyżyna Śląska
+      code: "341"
+      distance_meters: 106395.8
+      distance_km: 106.396
+      distance_percent: 24.5768
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 35788.58
+      distance_km: 35.789
+      distance_percent: 8.267
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 33101.58
+      distance_km: 33.102
+      distance_percent: 7.6463
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 33065.5
+      distance_km: 33.066
+      distance_percent: 7.6379
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+      distance_meters: 25537.02
+      distance_km: 25.537
+      distance_percent: 5.8989
+    - slug: wyzyna_krakowsko-czestochowska
+      name: Wyżyna Krakowsko-Częstochowska
+      code: "341"
+      distance_meters: 17089.08
+      distance_km: 17.089
+      distance_percent: 3.9475
+    - slug: kotlina_oswiecimska
+      name: Kotlina Oświęcimska
+      code: "512"
+      distance_meters: 16815.52
+      distance_km: 16.816
+      distance_percent: 3.8843
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 16523.99
+      distance_km: 16.524
+      distance_percent: 3.8169
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"
+      distance_meters: 13944.46
+      distance_km: 13.944
+      distance_percent: 3.2211
+  touched_towns:
+    - slug: babice
+      name: Babice
+      code: "1203022"
+    - slug: bojanowo
+      name: Bojanowo
+      code: "3022013"
+    - slug: chrzanow
+      name: Chrzanów
+      code: "1203033"
+    - slug: dabrowa
+      name: Dąbrowa
+      code: "1609022"
+    - slug: domaniow
+      name: Domaniów
+      code: "0215022"
+    - slug: gieraltowice
+      name: Gierałtowice
+      code: "2405032"
+    - slug: gliwice
+      name: Gliwice
+      code: "2466011"
+    - slug: gogolin
+      name: Gogolin
+      code: "1605013"
+    - slug: grodkow
+      name: Grodków
+      code: "1601033"
+    - slug: jaworzno
+      name: Jaworzno
+      code: "2468011"
+    - slug: katowice
+      name: Katowice
+      code: "2469011"
+    - slug: katy_wroclawskie
+      name: Kąty Wrocławskie
+      code: "0223043"
+    - slug: kobierzyce
+      name: Kobierzyce
+      code: "0223052"
+    - slug: komprachcice
+      name: Komprachcice
+      code: "1609042"
+    - slug: koscian
+      name: Kościan
+      code: "3011032"
+    - slug: krapkowice
+      name: Krapkowice
+      code: "1605023"
+    - slug: lesnica
+      name: Leśnica
+      code: "1611043"
+    - slug: lipno
+      name: Lipno
+      code: "3013022"
+    - slug: mucharz
+      name: Mucharz
+      code: "1218052"
+    - slug: myslowice
+      name: Mysłowice
+      code: "2470011"
+    - slug: niemodlin
+      name: Niemodlin
+      code: "1609073"
+    - slug: olszanka
+      name: Olszanka
+      code: "1601062"
+    - slug: proszkow
+      name: Prószków
+      code: "1609103"
+    - slug: prusice
+      name: Prusice
+      code: "0220023"
+    - slug: rawicz
+      name: Rawicz
+      code: "3022053"
+    - slug: ruda_slaska
+      name: Ruda Śląska
+      code: "2472011"
+    - slug: rudziniec
+      name: Rudziniec
+      code: "2405052"
+    - slug: rydzyna
+      name: Rydzyna
+      code: "3013043"
+    - slug: smigiel
+      name: Śmigiel
+      code: "3011053"
+    - slug: stryszawa
+      name: Stryszawa
+      code: "1215072"
+    - slug: strzelce_opolskie
+      name: Strzelce Opolskie
+      code: "1611053"
+    - slug: sucha_beskidzka
+      name: Sucha Beskidzka
+      code: "1215021"
+    - slug: swieciechowa
+      name: Święciechowa
+      code: "3013052"
+    - slug: tomice
+      name: Tomice
+      code: "1218082"
+    - slug: trzebnica
+      name: Trzebnica
+      code: "0220033"
+    - slug: ujazd
+      name: Ujazd
+      code: "1611063"
+    - slug: wadowice
+      name: Wadowice
+      code: "1218093"
+    - slug: wiazow
+      name: Wiązów
+      code: "0217053"
+    - slug: wisznia_mala
+      name: Wisznia Mała
+      code: "0220042"
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264011"
+    - slug: zabrze
+      name: Zabrze
+      code: "2478011"
+    - slug: zator
+      name: Zator
+      code: "1213093"
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+    - slug: zdzieszowice
+      name: Zdzieszowice
+      code: "1605053"
+    - slug: zembrzyce
+      name: Zembrzyce
+      code: "1215092"
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+    - slug: zorawina
+      name: Żórawina
+      code: "0223092"
+  touched_counties:
+    - slug: brzeski
+      name: brzeski
+      code: "1601"
+    - slug: chrzanowski
+      name: chrzanowski
+      code: "1203"
+    - slug: gliwice
+      name: Gliwice
+      code: "2466"
+    - slug: gliwicki
+      name: gliwicki
+      code: "2405"
+    - slug: jaworzno
+      name: Jaworzno
+      code: "2468"
+    - slug: katowice
+      name: Katowice
+      code: "2469"
+    - slug: koscianski
+      name: kościański
+      code: "3011"
+    - slug: krapkowicki
+      name: krapkowicki
+      code: "1605"
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+    - slug: myslowice
+      name: Mysłowice
+      code: "2470"
+    - slug: olawski
+      name: oławski
+      code: "0215"
+    - slug: opolski
+      name: opolski
+      code: "1609"
+    - slug: oswiecimski
+      name: oświęcimski
+      code: "1213"
+    - slug: rawicki
+      name: rawicki
+      code: "3022"
+    - slug: ruda_slaska
+      name: Ruda Śląska
+      code: "2472"
+    - slug: strzelecki
+      name: strzelecki
+      code: "1611"
+    - slug: strzelinski
+      name: strzeliński
+      code: "0217"
+    - slug: suski
+      name: suski
+      code: "1215"
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+    - slug: wroclaw
+      name: Wrocław
+      code: "0264"
+    - slug: wroclawski
+      name: wrocławski
+      code: "0223"
+    - slug: zabrze
+      name: Zabrze
+      code: "2478"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+    - slug: slaskie
+      name: śląskie
+      code: "24"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: beskid_makowski
+      name: Beskid Makowski
+      code: "513.48"
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+    - slug: chelm
+      name: Chełm
+      code: "341.11"
+    - slug: dolina_gornej_wisly
+      name: Dolina Górnej Wisły
+      code: "512.22"
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+    - slug: garb_tenczynski
+      name: Garb Tenczyński
+      code: "341.34"
+    - slug: kotlina_raciborska
+      name: Kotlina Raciborska
+      code: "318.59"
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+    - slug: obnizenie_bojszowa
+      name: Obniżenie Bojszowa
+      code: "341.16"
+    - slug: pagory_jaworznickie
+      name: Pagóry Jaworznickie
+      code: "341.14"
+    - slug: pasma_pewelsko-krzeczowskie
+      name: Pasma Pewelsko-Krzeczowskie
+      code: "513.57"
+    - slug: pogorze_wielickie
+      name: Pogórze Wielickie
+      code: "513.33"
+    - slug: pojezierze_krzywinskie
+      name: Pojezierze Krzywińskie
+      code: "315.82"
+    - slug: pradolina_wroclawska
+      name: Pradolina Wrocławska
+      code: "318.52"
+    - slug: row_krzeszowicki
+      name: Rów Krzeszowicki
+      code: "341.33"
+    - slug: rownina_koscianska
+      name: Równina Kościańska
+      code: "315.83"
+    - slug: rownina_niemodlinska
+      name: Równina Niemodlińska
+      code: "318.55"
+    - slug: rownina_olesnicka
+      name: Równina Oleśnicka
+      code: "318.56"
+    - slug: rownina_wroclawska
+      name: Równina Wrocławska
+      code: "318.53"
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+    - slug: wyzyna_katowicka
+      name: Wyżyna Katowicka
+      code: "341.13"
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+    - slug: kotlina_oswiecimska
+      name: Kotlina Oświęcimska
+      code: "512"
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+    - slug: wyzyna_krakowsko-czestochowska
+      name: Wyżyna Krakowsko-Częstochowska
+      code: "341"
+    - slug: wyzyna_slaska
+      name: Wyżyna Śląska
+      code: "341"
+- type: car
+  total_distance_meters: 274383.19
+  total_distance_km: 274.383
+  points_count: 470
+  towns:
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 18172.51
+      distance_km: 18.173
+      distance_percent: 6.623
+    - slug: gniewkowo
+      name: Gniewkowo
+      code: "0407033"
+      distance_meters: 16951.43
+      distance_km: 16.951
+      distance_percent: 6.178
+    - slug: kostrzyn
+      name: Kostrzyn
+      code: "3021083"
+      distance_meters: 15802.39
+      distance_km: 15.802
+      distance_percent: 5.7592
+    - slug: torun
+      name: Toruń
+      code: "0463011"
+      distance_meters: 15429.81
+      distance_km: 15.43
+      distance_percent: 5.6235
+    - slug: kowalewo_pomorskie
+      name: Kowalewo Pomorskie
+      code: "0405043"
+      distance_meters: 15324.56
+      distance_km: 15.325
+      distance_percent: 5.5851
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+      distance_meters: 13326.91
+      distance_km: 13.327
+      distance_percent: 4.857
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 13109.72
+      distance_km: 13.11
+      distance_percent: 4.7779
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+      distance_meters: 13025.1
+      distance_km: 13.025
+      distance_percent: 4.747
+    - slug: inowroclaw
+      name: Inowrocław
+      code: "0407042"
+      distance_meters: 12994.56
+      distance_km: 12.995
+      distance_percent: 4.7359
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+      distance_meters: 12788.69
+      distance_km: 12.789
+      distance_percent: 4.6609
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 11972.44
+      distance_km: 11.972
+      distance_percent: 4.3634
+    - slug: gniezno
+      name: Gniezno
+      code: "3003032"
+      distance_meters: 10339.52
+      distance_km: 10.34
+      distance_percent: 3.7683
+    - slug: brodnica
+      name: Brodnica
+      code: "0402032"
+      distance_meters: 10003.99
+      distance_km: 10.004
+      distance_percent: 3.646
+    - slug: kurzetnik
+      name: Kurzętnik
+      code: "2812042"
+      distance_meters: 9627.05
+      distance_km: 9.627
+      distance_percent: 3.5086
+    - slug: lubicz
+      name: Lubicz
+      code: "0415042"
+      distance_meters: 9419.3
+      distance_km: 9.419
+      distance_percent: 3.4329
+    - slug: golub-dobrzyn
+      name: Golub-Dobrzyń
+      code: "0405032"
+      distance_meters: 8217.2
+      distance_km: 8.217
+      distance_percent: 2.9948
+    - slug: wielka_nieszawka
+      name: Wielka Nieszawka
+      code: "0415082"
+      distance_meters: 7536.49
+      distance_km: 7.536
+      distance_percent: 2.7467
+    - slug: brzozie
+      name: Brzozie
+      code: "0402042"
+      distance_meters: 7202.83
+      distance_km: 7.203
+      distance_percent: 2.6251
+    - slug: lubawa
+      name: Lubawa
+      code: "2807052"
+      distance_meters: 7132.57
+      distance_km: 7.133
+      distance_percent: 2.5995
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+      distance_meters: 6966.74
+      distance_km: 6.967
+      distance_percent: 2.5391
+    - slug: kleszczewo
+      name: Kleszczewo
+      code: "3021062"
+      distance_meters: 6936.95
+      distance_km: 6.937
+      distance_percent: 2.5282
+    - slug: debowa_laka
+      name: Dębowa Łąka
+      code: "0417022"
+      distance_meters: 6830.22
+      distance_km: 6.83
+      distance_percent: 2.4893
+    - slug: ilawa
+      name: Iława
+      code: "2807011"
+      distance_meters: 5548.77
+      distance_km: 5.549
+      distance_percent: 2.0223
+    - slug: brodnica
+      name: Brodnica
+      code: "0402011"
+      distance_meters: 5041.51
+      distance_km: 5.042
+      distance_percent: 1.8374
+    - slug: nowe_miasto_lubawskie
+      name: Nowe Miasto Lubawskie
+      code: "2812052"
+      distance_meters: 4446.06
+      distance_km: 4.446
+      distance_percent: 1.6204
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+      distance_meters: 4384.8
+      distance_km: 4.385
+      distance_percent: 1.5981
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 3692.82
+      distance_km: 3.693
+      distance_percent: 1.3459
+    - slug: nowe_miasto_lubawskie
+      name: Nowe Miasto Lubawskie
+      code: "2812011"
+      distance_meters: 3456.58
+      distance_km: 3.457
+      distance_percent: 1.2598
+    - slug: kruszwica
+      name: Kruszwica
+      code: "0407063"
+      distance_meters: 2489.81
+      distance_km: 2.49
+      distance_percent: 0.9074
+    - slug: kornik
+      name: Kórnik
+      code: "3021093"
+      distance_meters: 1760.64
+      distance_km: 1.761
+      distance_percent: 0.6417
+  counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 43120.04
+      distance_km: 43.12
+      distance_percent: 15.7153
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 40165.23
+      distance_km: 40.165
+      distance_percent: 14.6384
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+      distance_meters: 32435.79
+      distance_km: 32.436
+      distance_percent: 11.8213
+    - slug: torunski
+      name: toruński
+      code: "0415"
+      distance_meters: 32385.61
+      distance_km: 32.386
+      distance_percent: 11.8031
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 31282.23
+      distance_km: 31.282
+      distance_percent: 11.4009
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+      distance_meters: 26633.13
+      distance_km: 26.633
+      distance_percent: 9.7065
+    - slug: golubsko-dobrzynski
+      name: golubsko-dobrzyński
+      code: "0405"
+      distance_meters: 23541.76
+      distance_km: 23.542
+      distance_percent: 8.5799
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+      distance_meters: 20459.49
+      distance_km: 20.459
+      distance_percent: 7.4565
+    - slug: nowomiejski
+      name: nowomiejski
+      code: "2812"
+      distance_meters: 17529.69
+      distance_km: 17.53
+      distance_percent: 6.3888
+    - slug: torun
+      name: Toruń
+      code: "0463"
+      distance_meters: 15429.81
+      distance_km: 15.43
+      distance_percent: 5.6235
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 11972.44
+      distance_km: 11.972
+      distance_percent: 4.3634
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+      distance_meters: 6830.22
+      distance_km: 6.83
+      distance_percent: 2.4893
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 153108.74
+      distance_km: 153.109
+      distance_percent: 55.8011
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 83285.27
+      distance_km: 83.285
+      distance_percent: 30.3536
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 37989.18
+      distance_km: 37.989
+      distance_percent: 13.8453
+  meso_regions:
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+      distance_meters: 46333.41
+      distance_km: 46.333
+      distance_percent: 16.8864
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 45108.48
+      distance_km: 45.108
+      distance_percent: 16.44
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 43751.36
+      distance_km: 43.751
+      distance_percent: 15.9454
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 27653.49
+      distance_km: 27.653
+      distance_percent: 10.0784
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+      distance_meters: 25054.62
+      distance_km: 25.055
+      distance_percent: 9.1313
+    - slug: rownina_inowroclawska
+      name: Równina Inowrocławska
+      code: "315.55"
+      distance_meters: 24012.33
+      distance_km: 24.012
+      distance_percent: 8.7514
+    - slug: dolina_drwecy
+      name: Dolina Drwęcy
+      code: "315.13"
+      distance_meters: 20929.54
+      distance_km: 20.93
+      distance_percent: 7.6278
+    - slug: garb_lubawski
+      name: Garb Lubawski
+      code: "315.15"
+      distance_meters: 15431.43
+      distance_km: 15.431
+      distance_percent: 5.624
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+      distance_meters: 13040.64
+      distance_km: 13.041
+      distance_percent: 4.7527
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+      distance_meters: 9536.35
+      distance_km: 9.536
+      distance_percent: 3.4756
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 1950.17
+      distance_km: 1.95
+      distance_percent: 0.7107
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 1581.38
+      distance_km: 1.581
+      distance_percent: 0.5763
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 144057.21
+      distance_km: 144.057
+      distance_percent: 52.5022
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 92230.73
+      distance_km: 92.231
+      distance_percent: 33.6138
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 25054.62
+      distance_km: 25.055
+      distance_percent: 9.1313
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+      distance_meters: 13040.64
+      distance_km: 13.041
+      distance_percent: 4.7527
+  touched_towns:
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+    - slug: brodnica
+      name: Brodnica
+      code: "0402032"
+    - slug: brzozie
+      name: Brzozie
+      code: "0402042"
+    - slug: gniewkowo
+      name: Gniewkowo
+      code: "0407033"
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+    - slug: golub-dobrzyn
+      name: Golub-Dobrzyń
+      code: "0405032"
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+    - slug: inowroclaw
+      name: Inowrocław
+      code: "0407042"
+    - slug: kleszczewo
+      name: Kleszczewo
+      code: "3021062"
+    - slug: kornik
+      name: Kórnik
+      code: "3021093"
+    - slug: kostrzyn
+      name: Kostrzyn
+      code: "3021083"
+    - slug: kowalewo_pomorskie
+      name: Kowalewo Pomorskie
+      code: "0405043"
+    - slug: kruszwica
+      name: Kruszwica
+      code: "0407063"
+    - slug: kurzetnik
+      name: Kurzętnik
+      code: "2812042"
+    - slug: lubawa
+      name: Lubawa
+      code: "2807052"
+    - slug: lubicz
+      name: Lubicz
+      code: "0415042"
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: nowe_miasto_lubawskie
+      name: Nowe Miasto Lubawskie
+      code: "2812052"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+    - slug: torun
+      name: Toruń
+      code: "0463011"
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+    - slug: wielka_nieszawka
+      name: Wielka Nieszawka
+      code: "0415082"
+  touched_counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: golubsko-dobrzynski
+      name: golubsko-dobrzyński
+      code: "0405"
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+    - slug: inowroclawski
+      name: inowrocławski
+      code: "0407"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: nowomiejski
+      name: nowomiejski
+      code: "2812"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: torun
+      name: Toruń
+      code: "0463"
+    - slug: torunski
+      name: toruński
+      code: "0415"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_drwecy
+      name: Dolina Drwęcy
+      code: "315.13"
+    - slug: garb_lubawski
+      name: Garb Lubawski
+      code: "315.15"
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+    - slug: rownina_inowroclawska
+      name: Równina Inowrocławska
+      code: "315.55"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+- type: car
+  total_distance_meters: 194546.17
+  total_distance_km: 194.546
+  points_count: 523
+  towns:
+    - slug: ostroda
+      name: Ostróda
+      code: "2815092"
+      distance_meters: 26489.52
+      distance_km: 26.49
+      distance_percent: 13.6161
+    - slug: gietrzwald
+      name: Gietrzwałd
+      code: "2814052"
+      distance_meters: 22946.2
+      distance_km: 22.946
+      distance_percent: 11.7947
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810032"
+      distance_meters: 22874.83
+      distance_km: 22.875
+      distance_percent: 11.758
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808032"
+      distance_meters: 21084.55
+      distance_km: 21.085
+      distance_percent: 10.8378
+    - slug: barczewo
+      name: Barczewo
+      code: "2814013"
+      distance_meters: 20384.83
+      distance_km: 20.385
+      distance_percent: 10.4781
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+      distance_meters: 19618.54
+      distance_km: 19.619
+      distance_percent: 10.0843
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2814023"
+      distance_meters: 16404.66
+      distance_km: 16.405
+      distance_percent: 8.4323
+    - slug: srokowo
+      name: Srokowo
+      code: "2808062"
+      distance_meters: 15768.09
+      distance_km: 15.768
+      distance_percent: 8.1051
+    - slug: stawiguda
+      name: Stawiguda
+      code: "2814112"
+      distance_meters: 10516.28
+      distance_km: 10.516
+      distance_percent: 5.4055
+    - slug: purda
+      name: Purda
+      code: "2814102"
+      distance_meters: 8272.7
+      distance_km: 8.273
+      distance_percent: 4.2523
+    - slug: sorkwity
+      name: Sorkwity
+      code: "2810052"
+      distance_meters: 7355.95
+      distance_km: 7.356
+      distance_percent: 3.7811
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+      distance_meters: 3961.73
+      distance_km: 3.962
+      distance_percent: 2.0364
+    - slug: ilawa
+      name: Iława
+      code: "2807011"
+      distance_meters: 3241
+      distance_km: 3.241
+      distance_percent: 1.6659
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810011"
+      distance_meters: 2476.89
+      distance_km: 2.477
+      distance_percent: 1.2732
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+      distance_meters: 1951.76
+      distance_km: 1.952
+      distance_percent: 1.0032
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862011"
+      distance_meters: 878.26
+      distance_km: 0.878
+      distance_percent: 0.4514
+  counties:
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+      distance_meters: 79402.93
+      distance_km: 79.403
+      distance_percent: 40.8144
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 36852.64
+      distance_km: 36.853
+      distance_percent: 18.9429
+    - slug: mragowski
+      name: mrągowski
+      code: "2810"
+      distance_meters: 30230.77
+      distance_km: 30.231
+      distance_percent: 15.5391
+    - slug: ostrodzki
+      name: ostródzki
+      code: "2815"
+      distance_meters: 26489.52
+      distance_km: 26.49
+      distance_percent: 13.6161
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+      distance_meters: 19618.54
+      distance_km: 19.619
+      distance_percent: 10.0843
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+      distance_meters: 1951.76
+      distance_km: 1.952
+      distance_percent: 1.0032
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862"
+      distance_meters: 878.26
+      distance_km: 0.878
+      distance_percent: 0.4514
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 194546.17
+      distance_km: 194.546
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 56308.2
+      distance_km: 56.308
+      distance_percent: 28.9434
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+      distance_meters: 54248.3
+      distance_km: 54.248
+      distance_percent: 27.8845
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+      distance_meters: 28837.33
+      distance_km: 28.837
+      distance_percent: 14.8229
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+      distance_meters: 17609.09
+      distance_km: 17.609
+      distance_percent: 9.0514
+    - slug: rownina_olsztynka
+      name: Równina Olsztynka
+      code: "842.88"
+      distance_meters: 16970.09
+      distance_km: 16.97
+      distance_percent: 8.7229
+    - slug: garb_lubawski
+      name: Garb Lubawski
+      code: "315.15"
+      distance_meters: 11286.18
+      distance_km: 11.286
+      distance_percent: 5.8013
+    - slug: dolina_drwecy
+      name: Dolina Drwęcy
+      code: "315.13"
+      distance_meters: 5602.11
+      distance_km: 5.602
+      distance_percent: 2.8796
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+      distance_meters: 3684.86
+      distance_km: 3.685
+      distance_percent: 1.8941
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 156363.92
+      distance_km: 156.364
+      distance_percent: 80.3737
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+      distance_meters: 17609.09
+      distance_km: 17.609
+      distance_percent: 9.0514
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 16888.3
+      distance_km: 16.888
+      distance_percent: 8.6809
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+      distance_meters: 3684.86
+      distance_km: 3.685
+      distance_percent: 1.8941
+  touched_towns:
+    - slug: barczewo
+      name: Barczewo
+      code: "2814013"
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2814023"
+    - slug: gietrzwald
+      name: Gietrzwałd
+      code: "2814052"
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+    - slug: ketrzyn
+      name: Kętrzyn
+      code: "2808011"
+    - slug: mragowo
+      name: Mrągowo
+      code: "2810032"
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862011"
+    - slug: ostroda
+      name: Ostróda
+      code: "2815092"
+    - slug: purda
+      name: Purda
+      code: "2814102"
+    - slug: sorkwity
+      name: Sorkwity
+      code: "2810052"
+    - slug: srokowo
+      name: Srokowo
+      code: "2808062"
+    - slug: stawiguda
+      name: Stawiguda
+      code: "2814112"
+    - slug: wegorzewo
+      name: Węgorzewo
+      code: "2819033"
+  touched_counties:
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+    - slug: mragowski
+      name: mrągowski
+      code: "2810"
+    - slug: olsztyn
+      name: Olsztyn
+      code: "2862"
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+    - slug: ostrodzki
+      name: ostródzki
+      code: "2815"
+    - slug: wegorzewski
+      name: węgorzewski
+      code: "2819"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: dolina_drwecy
+      name: Dolina Drwęcy
+      code: "315.13"
+    - slug: garb_lubawski
+      name: Garb Lubawski
+      code: "315.15"
+    - slug: kraina_wielkich_jezior_mazurskich
+      name: Kraina Wielkich Jezior Mazurskich
+      code: "842.83"
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+    - slug: rownina_olsztynka
+      name: Równina Olsztynka
+      code: "842.88"
+  touched_macro_regions:
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

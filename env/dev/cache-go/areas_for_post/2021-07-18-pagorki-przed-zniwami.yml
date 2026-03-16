@@ -1,0 +1,201 @@
+---
+- type: bicycle
+  total_distance_meters: 62652.74
+  total_distance_km: 62.653
+  points_count: 171
+  towns:
+    - slug: gruta
+      name: Gruta
+      code: "0406022"
+      distance_meters: 16689.99
+      distance_km: 16.69
+      distance_percent: 26.6389
+    - slug: jezewo
+      name: Jeżewo
+      code: "0414042"
+      distance_meters: 12383.93
+      distance_km: 12.384
+      distance_percent: 19.766
+    - slug: dragacz
+      name: Dragacz
+      code: "0414022"
+      distance_meters: 10201.5
+      distance_km: 10.202
+      distance_percent: 16.2826
+    - slug: swiecie_nad_osa
+      name: Świecie nad Osą
+      code: "0406062"
+      distance_meters: 8337.06
+      distance_km: 8.337
+      distance_percent: 13.3068
+    - slug: grudziadz
+      name: Grudziądz
+      code: "0462011"
+      distance_meters: 6664.21
+      distance_km: 6.664
+      distance_percent: 10.6367
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+      distance_meters: 4437.63
+      distance_km: 4.438
+      distance_percent: 7.0829
+    - slug: grudziadz
+      name: Grudziądz
+      code: "0406012"
+      distance_meters: 3931.48
+      distance_km: 3.931
+      distance_percent: 6.275
+    - slug: swiecie
+      name: Świecie
+      code: "0414093"
+      distance_meters: 6.94
+      distance_km: 0.007
+      distance_percent: 0.0111
+  counties:
+    - slug: grudziadzki
+      name: grudziądzki
+      code: "0406"
+      distance_meters: 28958.52
+      distance_km: 28.959
+      distance_percent: 46.2207
+    - slug: swiecki
+      name: świecki
+      code: "0414"
+      distance_meters: 22592.38
+      distance_km: 22.592
+      distance_percent: 36.0597
+    - slug: grudziadz
+      name: Grudziądz
+      code: "0462"
+      distance_meters: 6664.21
+      distance_km: 6.664
+      distance_percent: 10.6367
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+      distance_meters: 4437.63
+      distance_km: 4.438
+      distance_percent: 7.0829
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 62652.74
+      distance_km: 62.653
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+      distance_meters: 26613.84
+      distance_km: 26.614
+      distance_percent: 42.4783
+    - slug: kotlina_grudziadzka
+      name: Kotlina Grudziądzka
+      code: "314.82"
+      distance_meters: 19150.08
+      distance_km: 19.15
+      distance_percent: 30.5654
+    - slug: wysoczyzna_swiecka
+      name: Wysoczyzna Świecka
+      code: "314.73"
+      distance_meters: 6185.13
+      distance_km: 6.185
+      distance_percent: 9.8721
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+      distance_meters: 5930.56
+      distance_km: 5.931
+      distance_percent: 9.4658
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 4773.13
+      distance_km: 4.773
+      distance_percent: 7.6184
+  macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 32544.4
+      distance_km: 32.544
+      distance_percent: 51.9441
+    - slug: dolina_dolnej_wisly
+      name: Dolina Dolnej Wisły
+      code: 314-316
+      distance_meters: 19150.08
+      distance_km: 19.15
+      distance_percent: 30.5654
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 10958.27
+      distance_km: 10.958
+      distance_percent: 17.4905
+  touched_towns:
+    - slug: dragacz
+      name: Dragacz
+      code: "0414022"
+    - slug: grudziadz
+      name: Grudziądz
+      code: "0462011"
+    - slug: gruta
+      name: Gruta
+      code: "0406022"
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+    - slug: jezewo
+      name: Jeżewo
+      code: "0414042"
+    - slug: swiecie
+      name: Świecie
+      code: "0414093"
+    - slug: swiecie_nad_osa
+      name: Świecie nad Osą
+      code: "0406062"
+  touched_counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+    - slug: grudziadz
+      name: Grudziądz
+      code: "0462"
+    - slug: grudziadzki
+      name: grudziądzki
+      code: "0406"
+    - slug: swiecki
+      name: świecki
+      code: "0414"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: kotlina_grudziadzka
+      name: Kotlina Grudziądzka
+      code: "314.82"
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+    - slug: wysoczyzna_swiecka
+      name: Wysoczyzna Świecka
+      code: "314.73"
+  touched_macro_regions:
+    - slug: dolina_dolnej_wisly
+      name: Dolina Dolnej Wisły
+      code: 314-316
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316

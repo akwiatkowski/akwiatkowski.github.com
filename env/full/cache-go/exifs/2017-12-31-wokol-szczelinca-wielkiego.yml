@@ -1,0 +1,546 @@
+---
+- image_filename: IMGP4098raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49144841695894
+  lon: 16.327422590026515
+  altitude: 664.0624133148405
+  focal_length: 10
+  focal_length_35: 15
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T11:49:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP4100raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.490972222222226
+  lon: 16.327875
+  altitude: 665
+  focal_length: 20
+  focal_length_35: 30
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T11:51:00+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4105raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.488375
+  lon: 16.327708333333334
+  altitude: 685
+  focal_length: 10
+  focal_length_35: 15
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T11:56:50+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4159raw2.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.476
+  lon: 16.35077777777778
+  altitude: 744
+  focal_length: 75
+  focal_length_35: 112
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T12:58:53+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4172raw2.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.47625
+  lon: 16.353083333333334
+  altitude: 736
+  focal_length: 200
+  focal_length_35: 300
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 1000
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:01:25+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4174raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.47640277777778
+  lon: 16.353986111111112
+  altitude: 732
+  focal_length: 45
+  focal_length_35: 67
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:02:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4184raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.483333333333334
+  lon: 16.352055555555555
+  altitude: 729
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 800
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:15:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4185raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48375
+  lon: 16.351708333333335
+  altitude: 729
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1000
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:16:19+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4187raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48394444444445
+  lon: 16.3515
+  altitude: 728
+  focal_length: 21
+  focal_length_35: 31
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 1000
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:17:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4188raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.484069444444444
+  lon: 16.351430555555556
+  altitude: 728
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1000
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:17:45+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4193raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.485527777777776
+  lon: 16.351125
+  altitude: 725
+  focal_length: 45
+  focal_length_35: 67
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1250
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:20:03+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4196raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48601388888889
+  lon: 16.350194444444448
+  altitude: 725
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 1250
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:21:28+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4199raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48719444444445
+  lon: 16.34808333333333
+  altitude: 729
+  focal_length: 33
+  focal_length_35: 49
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 1250
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:23:46+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4207raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.48591666666667
+  lon: 16.33286111111111
+  altitude: 751
+  focal_length: 125
+  focal_length_35: 187
+  crop: 1.5
+  aperture: 16
+  exposure: 3
+  exposure_string: 3.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-12-31T13:44:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: manual
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4214raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49801388888889
+  lon: 16.32386111111111
+  altitude: 654
+  focal_length: 39
+  focal_length_35: 58
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:44:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4226raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49823611111111
+  lon: 16.325916666666668
+  altitude: 663
+  focal_length: 53
+  focal_length_35: 79
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:49:57+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4228raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49801388888889
+  lon: 16.326486111111112
+  altitude: 667
+  focal_length: 45
+  focal_length_35: 67
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 500
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:50:52+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4229raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.497569444444444
+  lon: 16.326916666666666
+  altitude: 673
+  focal_length: 45
+  focal_length_35: 67
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:52:04+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4233raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49636111111111
+  lon: 16.327388888888887
+  altitude: 688
+  focal_length: 105
+  focal_length_35: 157
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 1250
+  width: 5070
+  height: 3380
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:56:37+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4237raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49636111111111
+  lon: 16.327333333333332
+  altitude: 688
+  focal_length: 28
+  focal_length_35: 42
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5146
+  height: 3431
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T14:59:37+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4247raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49520833333334
+  lon: 16.327375
+  altitude: 681
+  focal_length: 10
+  focal_length_35: 15
+  crop: 1.5
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-01-01T15:08:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

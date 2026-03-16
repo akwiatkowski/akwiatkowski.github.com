@@ -1,0 +1,69 @@
+---
+- type: bicycle
+  total_distance_meters: 38278.42
+  total_distance_km: 38.278
+  points_count: 164
+  towns:
+    - slug: grodek
+      name: Gródek
+      code: "2002042"
+      distance_meters: 32134.69
+      distance_km: 32.135
+      distance_percent: 83.9499
+    - slug: michalowo
+      name: Michałowo
+      code: "2002073"
+      distance_meters: 6143.73
+      distance_km: 6.144
+      distance_percent: 16.0501
+  counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+      distance_meters: 38278.42
+      distance_km: 38.278
+      distance_percent: 100
+  voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 38278.42
+      distance_km: 38.278
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+      distance_meters: 38278.42
+      distance_km: 38.278
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 38278.42
+      distance_km: 38.278
+      distance_percent: 100
+  touched_towns:
+    - slug: grodek
+      name: Gródek
+      code: "2002042"
+    - slug: michalowo
+      name: Michałowo
+      code: "2002073"
+  touched_counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+  touched_meso_regions:
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+  touched_macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"

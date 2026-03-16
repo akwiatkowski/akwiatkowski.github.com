@@ -1,0 +1,1621 @@
+---
+- image_filename: 2020_05_02__13_21_DSC07796.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T13:21:25+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_02__13_21_DSC07800.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  focal_length: 40
+  focal_length_35: 40
+  crop: 1
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T13:21:55+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_02__13_22_DSC07802.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 6.3
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T13:22:07+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_02__13_30__5028193.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.49093055555556
+  lon: 17.206305555555556
+  altitude: 94
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T13:30:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__13_31__5028196.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.49095833333333
+  lon: 17.20636111111111
+  altitude: 94
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T13:31:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__13_35__5028211.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.49091666666667
+  lon: 17.206069444444445
+  altitude: 95
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T13:35:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__13_37__5028224.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.492583333333336
+  lon: 17.206611111111112
+  altitude: 92
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.2
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-05-02T13:37:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__13_46__5028248.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.49575
+  lon: 17.224208333333333
+  altitude: 95
+  focal_length: 73
+  focal_length_35: 146
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T13:46:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__13_56_DSC07813.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.49579166666667
+  lon: 17.231749999999998
+  altitude: 87
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T13:56:12+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__14_21_DSC07824.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.48520833333333
+  lon: 17.263319444444445
+  altitude: 98
+  focal_length: 40
+  focal_length_35: 40
+  crop: 1
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7145
+  height: 4772
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T14:21:48+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__14_41_DSC07831.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50633333333333
+  lon: 17.212416666666666
+  altitude: 99
+  focal_length: 68
+  focal_length_35: 68
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7251
+  height: 4801
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T14:41:17+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__14_53_DSC07834.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.51863888888889
+  lon: 17.240055555555557
+  altitude: 105
+  focal_length: 50
+  focal_length_35: 50
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 7265
+  height: 4852
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T14:53:07+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__14_56_DSC07845.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.518625
+  lon: 17.240041666666666
+  altitude: 106
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 100
+  width: 7280
+  height: 4862
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T14:56:08+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__14_57_DSC07849.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.518569444444445
+  lon: 17.240194444444445
+  altitude: 105
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T14:57:58+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_02__5028291.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.518625
+  lon: 17.240055555555557
+  altitude: 106
+  focal_length: 135
+  focal_length_35: 270
+  crop: 2
+  aperture: 4
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 5039
+  height: 3672
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:02:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_04__5028302.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.51859722222222
+  lon: 17.24026388888889
+  altitude: 105
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:04:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_04__5028304.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.51861111111111
+  lon: 17.240277777777777
+  altitude: 105
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:04:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_05_DSC07870.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.518569444444445
+  lon: 17.240333333333336
+  altitude: 105
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7012
+  height: 4684
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T15:05:24+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_08__5028319.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.51870833333333
+  lon: 17.240361111111113
+  altitude: 106
+  focal_length: 190
+  focal_length_35: 380
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:08:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_25__5028354.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.52623611111111
+  lon: 17.22411111111111
+  altitude: 100
+  focal_length: 105
+  focal_length_35: 210
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5018
+  height: 3746
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:25:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_26_DSC07888.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.526125
+  lon: 17.224041666666665
+  altitude: 99
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T15:26:59+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_28_DSC07903.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.525777777777776
+  lon: 17.223875
+  altitude: 99
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T15:28:49+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_30_DSC07916.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.525888888888886
+  lon: 17.223930555555555
+  altitude: 98
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T15:30:54+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_46__5028405.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.527791666666666
+  lon: 17.224819444444442
+  altitude: 98
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:46:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_46__5028407.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.527791666666666
+  lon: 17.224791666666665
+  altitude: 98
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:46:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_50__5028430.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.527791666666666
+  lon: 17.224819444444442
+  altitude: 99
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 14
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:50:08+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__15_58__5028453.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.534388888888884
+  lon: 17.196416666666668
+  altitude: 99
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-05-02T15:58:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_23__5028498.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.56209722222222
+  lon: 17.197583333333334
+  altitude: 99
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:23:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_32__5028526.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.58423611111111
+  lon: 17.23161111111111
+  altitude: 90
+  focal_length: 63
+  focal_length_35: 126
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:32:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_32__5028528.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.58466666666667
+  lon: 17.23258333333333
+  altitude: 88
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5041
+  height: 3764
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:32:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_49__5028611.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.51123611111111
+  lon: 17.274416666666667
+  altitude: 106
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4973
+  height: 3574
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:49:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_55__5028618.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.508541666666666
+  lon: 17.27327777777778
+  altitude: 103
+  focal_length: 102
+  focal_length_35: 204
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4949
+  height: 3597
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:55:08+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__16_59__5028644.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50863888888889
+  lon: 17.272458333333333
+  altitude: 103
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T16:59:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_00__5028650.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.508652777777776
+  lon: 17.272444444444442
+  altitude: 103
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 4977
+  height: 3716
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:00:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_01_DSC07942.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50863888888889
+  lon: 17.272458333333333
+  altitude: 103
+  focal_length: 35
+  focal_length_35: 35
+  crop: 1
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7226
+  height: 4827
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:01:30+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_05__5028672.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50873611111111
+  lon: 17.271430555555554
+  altitude: 104
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:05:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_06__5028677.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50879166666667
+  lon: 17.27086111111111
+  altitude: 104
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:06:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_07__5028684.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50890277777778
+  lon: 17.269624999999998
+  altitude: 104
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:07:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_12_DSC07949.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50941666666667
+  lon: 17.264833333333332
+  altitude: 104
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7227
+  height: 4831
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:12:02+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_12_DSC07950.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50944444444445
+  lon: 17.26451388888889
+  altitude: 104
+  focal_length: 61
+  focal_length_35: 61
+  crop: 1
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7061
+  height: 4720
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:12:40+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_23__5028747.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.509791666666665
+  lon: 17.261277777777778
+  altitude: 102
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 4963
+  height: 3677
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:23:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_25_DSC07964.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50972222222222
+  lon: 17.26226388888889
+  altitude: 102
+  focal_length: 40
+  focal_length_35: 40
+  crop: 1
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7225
+  height: 4830
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:25:05+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_26_DSC07968.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50969444444444
+  lon: 17.262694444444445
+  altitude: 101
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7021
+  height: 4693
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:26:05+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_26_DSC07970.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.509680555555555
+  lon: 17.26275
+  altitude: 101
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 4743
+  height: 7107
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:26:16+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_33_DSC07977.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.509166666666665
+  lon: 17.267652777777776
+  altitude: 101
+  focal_length: 39
+  focal_length_35: 39
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7136
+  height: 4770
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:33:03+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_37_DSC07987.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50890277777778
+  lon: 17.270333333333333
+  altitude: 102
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4728
+  height: 7084
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:37:13+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_42__5028840.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.50838888888889
+  lon: 17.274958333333334
+  altitude: 98
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5185
+  height: 3838
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2020-05-02T17:42:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_05_02__17_57_DSC08002.jpg
+  post_slug: 2020-05-02-pomiedzy-promnem-a-kiszkowem
+  lat: 52.46420833333334
+  lon: 17.135402777777777
+  altitude: 95
+  focal_length: 50
+  focal_length_35: 50
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  width: 7113
+  height: 4751
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2020-05-02T17:57:10+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84

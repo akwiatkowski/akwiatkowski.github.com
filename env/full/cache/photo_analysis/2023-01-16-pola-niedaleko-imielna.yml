@@ -1,0 +1,576 @@
+---
+- image_filename: 2023_01_16__15_16_DJI_0311.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: feffff0000000000
+  dhash: e0e0e070b070fce8
+  phash: ddc4a7382823cfd8
+  avg_rgb:
+  - 49
+  - 99
+  - 103
+  top5_rgb:
+  - - 67
+    - 65
+    - 47
+  - - 54
+    - 59
+    - 36
+  - - 103
+    - 85
+    - 58
+  - - 53
+    - 202
+    - 253
+  - - 0
+    - 145
+    - 243
+- image_filename: 2023_01_16__15_16_DJI_0313.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: 7fffff1800000000
+  dhash: f8e4f0f0f0d8c8c0
+  phash: 919494371c1b5be7
+  avg_rgb:
+  - 124
+  - 106
+  - 63
+  top5_rgb:
+  - - 56
+    - 44
+    - 16
+  - - 253
+    - 226
+    - 83
+  - - 108
+    - 65
+    - 27
+  - - 59
+    - 44
+    - 16
+  - - 62
+    - 48
+    - 17
+- image_filename: 2023_01_16__15_17_DJI_0315.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: 7cffff1800000000
+  dhash: f0e0f0f0f03270b8
+  phash: ccc4934d4c0eb7b3
+  avg_rgb:
+  - 93
+  - 107
+  - 80
+  top5_rgb:
+  - - 42
+    - 48
+    - 19
+  - - 61
+    - 55
+    - 27
+  - - 32
+    - 43
+    - 20
+  - - 138
+    - 107
+    - 54
+  - - 46
+    - 53
+    - 28
+- image_filename: 2023_01_16__15_18_DJI_0318.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff7c0000000000
+  dhash: f0f0f0f0f8f0f0f0
+  phash: 81d5e4303f0f5d5a
+  avg_rgb:
+  - 64
+  - 102
+  - 91
+  top5_rgb:
+  - - 78
+    - 69
+    - 45
+  - - 61
+    - 62
+    - 41
+  - - 65
+    - 64
+    - 42
+  - - 51
+    - 58
+    - 39
+  - - 1
+    - 202
+    - 254
+- image_filename: 2023_01_16__15_19_DJI_0321.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff3f0010000000
+  dhash: f0f0f0e160a0a0e0
+  phash: cc81b1cc4e73730f
+  avg_rgb:
+  - 67
+  - 112
+  - 99
+  top5_rgb:
+  - - 35
+    - 50
+    - 41
+  - - 58
+    - 81
+    - 32
+  - - 39
+    - 71
+    - 32
+  - - 65
+    - 66
+    - 41
+  - - 33
+    - 69
+    - 31
+- image_filename: 2023_01_16__15_19_DJI_0322.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: 7fffff0c00000000
+  dhash: fcfcfcf8b05ef0f0
+  phash: 9595852d1c163eee
+  avg_rgb:
+  - 87
+  - 107
+  - 85
+  top5_rgb:
+  - - 40
+    - 59
+    - 22
+  - - 45
+    - 63
+    - 24
+  - - 34
+    - 46
+    - 15
+  - - 33
+    - 51
+    - 18
+  - - 137
+    - 117
+    - 70
+- image_filename: 2023_01_16__15_21_DJI_0325.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: feffff0000000000
+  dhash: 8080f0b07160dcf0
+  phash: d5d5d02e6850cebc
+  avg_rgb:
+  - 79
+  - 119
+  - 106
+  top5_rgb:
+  - - 53
+    - 58
+    - 39
+  - - 60
+    - 82
+    - 25
+  - - 42
+    - 65
+    - 19
+  - - 152
+    - 255
+    - 255
+  - - 51
+    - 58
+    - 33
+- image_filename: 2023_01_16__15_23_DJI_0330.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: fefffe0000000000
+  dhash: 808080e0f1c3e6c6
+  phash: c1d0f57a4b6a6266
+  avg_rgb:
+  - 81
+  - 101
+  - 82
+  top5_rgb:
+  - - 39
+    - 49
+    - 32
+  - - 50
+    - 69
+    - 35
+  - - 46
+    - 54
+    - 22
+  - - 32
+    - 44
+    - 29
+  - - 255
+    - 255
+    - 148
+- image_filename: 2023_01_16__15_23_DJI_0331.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: fffc400000000000
+  dhash: 000081e0b0f4c4b8
+  phash: d4d5d5959d849c23
+  avg_rgb:
+  - 87
+  - 98
+  - 67
+  top5_rgb:
+  - - 28
+    - 54
+    - 15
+  - - 255
+    - 255
+    - 255
+  - - 63
+    - 69
+    - 49
+  - - 97
+    - 92
+    - 50
+  - - 73
+    - 75
+    - 51
+- image_filename: 2023_01_16__15_24_DJI_0333.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff000000000000
+  dhash: 80e0b0e1e0c9dafc
+  phash: d5d5f5c64c306a68
+  avg_rgb:
+  - 79
+  - 104
+  - 71
+  top5_rgb:
+  - - 57
+    - 60
+    - 40
+  - - 58
+    - 66
+    - 18
+  - - 72
+    - 74
+    - 24
+  - - 38
+    - 64
+    - 12
+  - - 40
+    - 54
+    - 19
+- image_filename: 2023_01_16__15_24_DJI_0335.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff303c1c1c180000
+  dhash: a0e0f060f0d43474
+  phash: d4c2f1f1d7b484d0
+  avg_rgb:
+  - 77
+  - 90
+  - 50
+  top5_rgb:
+  - - 48
+    - 58
+    - 48
+  - - 40
+    - 70
+    - 19
+  - - 234
+    - 255
+    - 214
+  - - 62
+    - 86
+    - 34
+  - - 39
+    - 52
+    - 41
+- image_filename: 2023_01_16__15_24_DJI_0336.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff043c3c381c0000
+  dhash: f2f4e8f0f0e8f8f0
+  phash: 8087a5c0cdb7dae5
+  avg_rgb:
+  - 86
+  - 90
+  - 58
+  top5_rgb:
+  - - 55
+    - 60
+    - 26
+  - - 45
+    - 52
+    - 42
+  - - 68
+    - 68
+    - 27
+  - - 38
+    - 51
+    - 44
+  - - 45
+    - 51
+    - 28
+- image_filename: 2023_01_16__15_25_DJI_0337.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff7f001818000000
+  dhash: f0f2b0b0b0f0f9f2
+  phash: 9885a786c9bbca6c
+  avg_rgb:
+  - 82
+  - 93
+  - 67
+  top5_rgb:
+  - - 54
+    - 53
+    - 43
+  - - 52
+    - 58
+    - 22
+  - - 63
+    - 65
+    - 22
+  - - 80
+    - 72
+    - 26
+  - - 36
+    - 46
+    - 36
+- image_filename: 2023_01_16__15_25_DJI_0339.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff00081c38180000
+  dhash: f8f23070f0f286a8
+  phash: 899aa6a1dab599e4
+  avg_rgb:
+  - 91
+  - 97
+  - 66
+  top5_rgb:
+  - - 66
+    - 71
+    - 32
+  - - 53
+    - 59
+    - 29
+  - - 95
+    - 91
+    - 38
+  - - 74
+    - 77
+    - 33
+  - - 139
+    - 255
+    - 255
+- image_filename: 2023_01_16__15_26_DJI_0340.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff38203038101000
+  dhash: 80e0c0e8e0e0e0e0
+  phash: c4f1d4cd93c4f0c3
+  avg_rgb:
+  - 83
+  - 91
+  - 59
+  top5_rgb:
+  - - 46
+    - 54
+    - 40
+  - - 34
+    - 66
+    - 13
+  - - 99
+    - 77
+    - 59
+  - - 223
+    - 255
+    - 232
+  - - 72
+    - 80
+    - 35
+- image_filename: 2023_01_16__15_27_DJI_0344.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: fe183c2c183c4400
+  dhash: e0b0605870e88c84
+  phash: d0c9e4d8d9d2cdc8
+  avg_rgb:
+  - 59
+  - 75
+  - 51
+  top5_rgb:
+  - - 68
+    - 85
+    - 43
+  - - 53
+    - 78
+    - 41
+  - - 61
+    - 76
+    - 59
+  - - 42
+    - 53
+    - 53
+  - - 48
+    - 74
+    - 42
+- image_filename: 2023_01_16__15_27_DJI_0345.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ff3c3c181c100000
+  dhash: e0f0f0f0e0e0f0d8
+  phash: c4c6f1c6d5c8e3a2
+  avg_rgb:
+  - 79
+  - 92
+  - 65
+  top5_rgb:
+  - - 99
+    - 118
+    - 62
+  - - 65
+    - 93
+    - 34
+  - - 74
+    - 67
+    - 51
+  - - 103
+    - 84
+    - 66
+  - - 54
+    - 54
+    - 40
+- image_filename: 2023_01_16__15_27_DJI_0346.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff781c0c000000
+  dhash: f0c0d8f078fce6e2
+  phash: d1d8e4b6992d3263
+  avg_rgb:
+  - 87
+  - 97
+  - 85
+  top5_rgb:
+  - - 76
+    - 72
+    - 53
+  - - 84
+    - 80
+    - 58
+  - - 129
+    - 110
+    - 77
+  - - 105
+    - 96
+    - 70
+  - - 46
+    - 51
+    - 47
+- image_filename: 2023_01_16__15_29_DJI_0349.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: 7fffff0000000000
+  dhash: e0f0f0f0d8d0ccf0
+  phash: 9194a4317f6f5a92
+  avg_rgb:
+  - 63
+  - 106
+  - 89
+  top5_rgb:
+  - - 0
+    - 165
+    - 252
+  - - 1
+    - 147
+    - 240
+  - - 77
+    - 73
+    - 41
+  - - 84
+    - 79
+    - 35
+  - - 69
+    - 65
+    - 40
+- image_filename: 2023_01_16__15_29_DJI_0350_01.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff080000000000
+  dhash: e0f0f0f48091c9d2
+  phash: d1d4d5f2263f2852
+  avg_rgb:
+  - 89
+  - 100
+  - 81
+  top5_rgb:
+  - - 67
+    - 77
+    - 18
+  - - 38
+    - 62
+    - 18
+  - - 74
+    - 61
+    - 27
+  - - 74
+    - 60
+    - 45
+  - - 52
+    - 49
+    - 44
+- image_filename: 2023_01_16__15_29_DJI_0351.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: 7eff381010080c00
+  dhash: e0e0e0e0f0f0f8b8
+  phash: c4c787b46c2a6d6c
+  avg_rgb:
+  - 78
+  - 82
+  - 55
+  top5_rgb:
+  - - 37
+    - 45
+    - 30
+  - - 45
+    - 51
+    - 36
+  - - 32
+    - 41
+    - 25
+  - - 71
+    - 72
+    - 52
+  - - 48
+    - 87
+    - 90
+- image_filename: 2023_01_16__15_46_DJI_0356.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: fffffe0000202020
+  dhash: e0e0e070e1e2e868
+  phash: c7f8d6432c5b44c6
+  avg_rgb:
+  - 101
+  - 111
+  - 112
+  top5_rgb:
+  - - 79
+    - 49
+    - 36
+  - - 158
+    - 151
+    - 149
+  - - 146
+    - 231
+    - 254
+  - - 57
+    - 47
+    - 49
+  - - 27
+    - 38
+    - 42
+- image_filename: 2023_01_16__15_47_DJI_0357_01.jpg
+  post_slug: 2023-01-16-pola-niedaleko-imielna
+  ahash: ffff100000040404
+  dhash: e0f0f0f8e4e4dcfc
+  phash: d6c9d2c42b3b4e4c
+  avg_rgb:
+  - 97
+  - 93
+  - 80
+  top5_rgb:
+  - - 92
+    - 85
+    - 84
+  - - 51
+    - 56
+    - 53
+  - - 48
+    - 51
+    - 46
+  - - 31
+    - 38
+    - 34
+  - - 67
+    - 68
+    - 65

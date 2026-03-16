@@ -1,0 +1,1923 @@
+---
+- image_filename: 2020_08_20__10_03_DSC02294.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.382263888888886
+  lon: 22.117958333333334
+  altitude: 435
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5670
+  height: 3772
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T10:03:09+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__10_09_DSC02313.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.421680555555554
+  lon: 22.12488888888889
+  altitude: 431
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T10:09:54+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__10_44_DSC02345.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42183333333333
+  lon: 22.053694444444446
+  altitude: 513
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T10:44:10+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__10_53__8208260.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42361111111111
+  lon: 22.051819444444444
+  altitude: 561
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T10:53:35+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__10_55__8208264.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42433333333333
+  lon: 22.05026388888889
+  altitude: 579
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T10:55:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__10_57__8208267.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.424680555555554
+  lon: 22.049708333333335
+  altitude: 586
+  focal_length: 66
+  focal_length_35: 132
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T10:57:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_01__8208280.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42558333333333
+  lon: 22.048236111111112
+  altitude: 613
+  focal_length: 75
+  focal_length_35: 150
+  crop: 2
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:01:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_03__8208283.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42583333333333
+  lon: 22.047875
+  altitude: 621
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:03:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_03__8208285.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.425888888888885
+  lon: 22.047777777777778
+  altitude: 622
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:03:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_03__8208288.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42597222222222
+  lon: 22.04763888888889
+  altitude: 625
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:03:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_04__8208291.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42611111111111
+  lon: 22.04740277777778
+  altitude: 631
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:04:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_06__8208296.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42647222222222
+  lon: 22.04713888888889
+  altitude: 640
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:06:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_09__8208303.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42663888888889
+  lon: 22.04690277777778
+  altitude: 644
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4453
+  height: 3255
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:09:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_10__8208310.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42666666666666
+  lon: 22.04690277777778
+  altitude: 645
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:10:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_16__8208326.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42725
+  lon: 22.046819444444445
+  altitude: 659
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:16:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_27__8208339.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42819444444444
+  lon: 22.044305555555557
+  altitude: 715
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:27:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_30__8208352.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.428152777777775
+  lon: 22.043277777777778
+  altitude: 726
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4358
+  height: 3064
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:30:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_32__8208357.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42809722222222
+  lon: 22.043041666666667
+  altitude: 729
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:32:14+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_37__8208379.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42886111111111
+  lon: 22.039583333333336
+  altitude: 750
+  focal_length: 16
+  focal_length_35: 32
+  crop: 2
+  aperture: 4
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:37:37+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_43__8208394.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43018055555555
+  lon: 22.036722222222224
+  altitude: 745
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:43:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_48__8208399.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43154166666667
+  lon: 22.034472222222224
+  altitude: 755
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5094
+  height: 3802
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:48:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_53_DSC02350.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762
+  focal_length: 64
+  focal_length_35: 64
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:53:20+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_53_DSC02352.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762
+  focal_length: 64
+  focal_length_35: 64
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:53:27+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_54__8208403.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43209722222222
+  lon: 22.033055555555556
+  altitude: 762
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T11:54:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_55_DSC02357.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432402777777774
+  lon: 22.03258333333333
+  altitude: 765
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5999
+  height: 3991
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:55:26+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_57_DSC02362.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 765
+  focal_length: 100
+  focal_length_35: 100
+  crop: 1
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5783
+  height: 3847
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:57:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_57_DSC02363.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 765
+  focal_length: 287.6
+  focal_length_35: 287
+  crop: 1
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5029
+  height: 3376
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:57:43+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_58_DSC02366.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43266666666666
+  lon: 22.03245833333333
+  altitude: 764
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 5677
+  height: 3373
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:58:25+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__11_58_DSC02369.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43266666666666
+  lon: 22.03247222222222
+  altitude: 764
+  focal_length: 219
+  focal_length_35: 219
+  crop: 1
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5658
+  height: 3361
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T11:58:44+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_03__8208408.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032375
+  altitude: 766
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 10
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 4728
+  height: 3303
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:03:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_07_DSC02388.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432624999999994
+  lon: 22.032055555555555
+  altitude: 769
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:07:26+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_07_DSC02389.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.03209722222222
+  altitude: 769
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:07:30+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_07_DSC02393.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.032291666666666
+  altitude: 768
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:07:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_07_DSC02396.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.03234722222222
+  altitude: 767
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:07:50+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_08_DSC02414.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43263888888889
+  lon: 22.03245833333333
+  altitude: 768
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 125
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:08:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_10_DSC02438.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.03245833333333
+  altitude: 768
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2020-08-20T12:10:16+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_19__8208488.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43273611111111
+  lon: 22.032416666666666
+  altitude: 768
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 4470
+  height: 3467
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:19:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_21__8208497.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43272222222222
+  lon: 22.032402777777776
+  altitude: 767
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:21:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_22__8208502.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032430555555553
+  altitude: 769
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:22:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_22__8208507.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.03238888888889
+  altitude: 769
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:22:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_22__8208508.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43270833333333
+  lon: 22.032402777777776
+  altitude: 768
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 640
+  width: 4913
+  height: 3629
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:22:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_33__8208543.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432652777777776
+  lon: 22.032375
+  altitude: 770
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 640
+  width: 4378
+  height: 3042
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:33:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_34__8208547.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 770
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:34:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_34__8208548.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43268055555556
+  lon: 22.032430555555553
+  altitude: 770
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:34:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_35__8208553.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.432624999999994
+  lon: 22.032194444444443
+  altitude: 771
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:35:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_40__8208556.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.43255555555555
+  lon: 22.032291666666666
+  altitude: 771
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4721
+  height: 3779
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:40:28+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__12_52__8208569.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.428777777777775
+  lon: 22.039736111111115
+  altitude: 758
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T12:52:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_05__8208576.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42733333333333
+  lon: 22.04676388888889
+  altitude: 667
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:05:05+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_16_DSC02508.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.426430555555555
+  lon: 22.04738888888889
+  altitude: 643
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T13:16:33+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_16_DSC02509.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.426319444444445
+  lon: 22.04723611111111
+  altitude: 642
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2020-08-20T13:16:56+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_24__8208613.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42488888888889
+  lon: 22.049472222222224
+  altitude: 597
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 500
+  width: 5240
+  height: 3816
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:24:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_25__8208617.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42488888888889
+  lon: 22.049472222222224
+  altitude: 597
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 500
+  width: 5240
+  height: 3438
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:25:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_28__8208631.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42477777777778
+  lon: 22.049597222222225
+  altitude: 595
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 500
+  width: 4325
+  height: 3173
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:28:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_30__8208641.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42476388888889
+  lon: 22.049597222222225
+  altitude: 594
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 500
+  width: 4964
+  height: 3678
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:30:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_30__8208649.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.424625
+  lon: 22.049819444444445
+  altitude: 592
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 9
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 500
+  width: 4857
+  height: 3537
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:30:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2020_08_20__13_31__8208653.jpg
+  post_slug: 2020-08-20-wejscie-na-tokarnie
+  lat: 49.42448611111111
+  lon: 22.050069444444446
+  altitude: 589
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2020-08-20T13:31:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84

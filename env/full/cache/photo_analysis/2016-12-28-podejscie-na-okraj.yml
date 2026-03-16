@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP0670raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  ahash: ff3f1f0000000660
+  dhash: fffe77d3617e5cc0
+  phash: 868cd2f74831e87e
+  avg_rgb:
+  - 102
+  - 105
+  - 105
+  top5_rgb:
+  - - 91
+    - 81
+    - 76
+  - - 56
+    - 50
+    - 40
+  - - 49
+    - 54
+    - 68
+  - - 78
+    - 74
+    - 71
+  - - 41
+    - 38
+    - 32
+- image_filename: IMGP0683raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  ahash: 18083838b8983c7e
+  dhash: f0f86060723170d2
+  phash: d93ca119c5ceac17
+  avg_rgb:
+  - 95
+  - 85
+  - 66
+  top5_rgb:
+  - - 119
+    - 92
+    - 54
+  - - 72
+    - 53
+    - 30
+  - - 80
+    - 93
+    - 98
+  - - 46
+    - 37
+    - 22
+  - - 75
+    - 60
+    - 36
+- image_filename: IMGP0695raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  ahash: fefe8e0c001c7800
+  dhash: dedc1c59bcf9e0c4
+  phash: 9295ed4d229a3b65
+  avg_rgb:
+  - 99
+  - 93
+  - 78
+  top5_rgb:
+  - - 73
+    - 67
+    - 59
+  - - 30
+    - 13
+    - 13
+  - - 45
+    - 66
+    - 79
+  - - 109
+    - 136
+    - 139
+  - - 192
+    - 139
+    - 66
+- image_filename: header.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  ahash: ffff3f0680100200
+  dhash: fcfdfeec17707678
+  phash: 948387de72174979
+  avg_rgb:
+  - 94
+  - 108
+  - 112
+  top5_rgb:
+  - - 96
+    - 114
+    - 133
+  - - 49
+    - 41
+    - 32
+  - - 103
+    - 82
+    - 63
+  - - 64
+    - 98
+    - 126
+  - - 132
+    - 208
+    - 236

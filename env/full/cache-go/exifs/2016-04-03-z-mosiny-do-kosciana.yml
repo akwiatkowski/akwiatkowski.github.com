@@ -1,0 +1,287 @@
+---
+- image_filename: IMGP9037raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.209379188712525
+  lon: 16.838373262401216
+  altitude: 71.27
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T13:11:09+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9047raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.13105063890204
+  lon: 16.764428447903157
+  altitude: 77.52
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T14:26:19+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9057raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.09786953405018
+  lon: 16.748902732635127
+  altitude: 75.6
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T15:08:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9073raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.0978620741895
+  lon: 16.74835145467183
+  altitude: 75.6
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T15:13:28+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9087raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.06349057151146
+  lon: 16.71285007144315
+  altitude: 71.76
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T15:55:34+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9088raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.06293501891063
+  lon: 16.71243910690122
+  altitude: 71.76
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 2.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T15:55:43+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9104raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.02332885003362
+  lon: 16.676053516576633
+  altitude: 69.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T16:29:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9118raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.01562453990644
+  lon: 16.664488753326303
+  altitude: 71.27
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T16:42:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9145raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.01563610695898
+  lon: 16.66445078330164
+  altitude: 71.27
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T16:46:26+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9167raw1.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.03648215159779
+  lon: 16.604370642485218
+  altitude: 68.39
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T17:15:29+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-04-03-z-mosiny-do-kosciana
+  lat: 52.01562797651019
+  lon: 16.66452236467236
+  altitude: 71.27
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-03T16:50:07+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

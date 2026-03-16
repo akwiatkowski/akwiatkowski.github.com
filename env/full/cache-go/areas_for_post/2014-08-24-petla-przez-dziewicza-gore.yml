@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 42118.21
+  total_distance_km: 42.118
+  points_count: 256
+  towns:
+    - slug: czerwonak
+      name: Czerwonak
+      code: "3021042"
+      distance_meters: 14889.57
+      distance_km: 14.89
+      distance_percent: 35.3519
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 14039.13
+      distance_km: 14.039
+      distance_percent: 33.3327
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+      distance_meters: 13189.51
+      distance_km: 13.19
+      distance_percent: 31.3155
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 42118.21
+      distance_km: 42.118
+      distance_percent: 100
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 14039.13
+      distance_km: 14.039
+      distance_percent: 33.3327
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 42118.21
+      distance_km: 42.118
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 23773.36
+      distance_km: 23.773
+      distance_percent: 56.4444
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 11255.78
+      distance_km: 11.256
+      distance_percent: 26.7243
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 7089.07
+      distance_km: 7.089
+      distance_percent: 16.8314
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 42118.21
+      distance_km: 42.118
+      distance_percent: 100
+  touched_towns:
+    - slug: czerwonak
+      name: Czerwonak
+      code: "3021042"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+  touched_counties:
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

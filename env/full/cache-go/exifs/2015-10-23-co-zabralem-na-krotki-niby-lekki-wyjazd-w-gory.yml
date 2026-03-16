@@ -1,0 +1,27 @@
+---
+- image_filename: header.jpg
+  post_slug: 2015-10-23-co-zabralem-na-krotki-niby-lekki-wyjazd-w-gory
+  lat: 51.01636447007867
+  lon: 15.777903422701309
+  altitude: 348.62
+  focal_length: 200
+  focal_length_35: 300
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-10-17T10:57:19+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

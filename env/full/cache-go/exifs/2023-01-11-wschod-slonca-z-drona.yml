@@ -1,0 +1,513 @@
+---
+- image_filename: 2023_01_11__08_20_DJI_0244.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.6200018
+  lon: 18.157916566666668
+  altitude: 128.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:20:54+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_21_DJI_0245.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.62000435
+  lon: 18.157920683333334
+  altitude: 127.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.004166666666666667
+  exposure_string: 1/240 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:21:10+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_25_DJI_0253.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.620201816666665
+  lon: 18.159246733333333
+  altitude: 136.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:25:01+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_26_DJI_0256.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.61945785
+  lon: 18.160780016666667
+  altitude: 136.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:26:12+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_28_DJI_0261.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.618129
+  lon: 18.15502505
+  altitude: 139
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8048
+  height: 6031
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:28:15+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_29_DJI_0263.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.61843326666666
+  lon: 18.157780466666665
+  altitude: 138.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 8017
+  height: 5986
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:29:45+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_31_DJI_0265.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.62163063333333
+  lon: 18.161811483333334
+  altitude: 138.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:31:06+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_31_DJI_0268.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.621630833333334
+  lon: 18.16180765
+  altitude: 138.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:31:34+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_32_DJI_0271.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.62053085
+  lon: 18.163888516666667
+  altitude: 137
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:32:30+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_34_DJI_0275.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.61928541666666
+  lon: 18.158648516666666
+  altitude: 151.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:34:29+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_39_DJI_0280.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.6193219
+  lon: 18.153056966666668
+  altitude: 155
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:39:48+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_41_DJI_0284.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.615952916666664
+  lon: 18.147082933333333
+  altitude: 121.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:41:47+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_45_DJI_0292.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.621376016666666
+  lon: 18.15480915
+  altitude: 116.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:45:35+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_46_DJI_0296.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.621124433333335
+  lon: 18.157391716666666
+  altitude: 111.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:46:58+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_47_DJI_0297.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.62112135
+  lon: 18.1573871
+  altitude: 111.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:47:13+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_01_11__08_48_DJI_0302.jpg
+  post_slug: 2023-01-11-wschod-slonca-z-drona
+  lat: 52.62022043333333
+  lon: 18.1570784
+  altitude: 167.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8064
+  height: 5834
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-01-11T08:48:45+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

@@ -1,0 +1,117 @@
+---
+- type: bicycle
+  total_distance_meters: 55129.7
+  total_distance_km: 55.13
+  points_count: 213
+  towns:
+    - slug: postomino
+      name: Postomino
+      code: "3213052"
+      distance_meters: 21530.52
+      distance_km: 21.531
+      distance_percent: 39.0543
+    - slug: darlowo
+      name: Darłowo
+      code: "3213032"
+      distance_meters: 15279.49
+      distance_km: 15.279
+      distance_percent: 27.7155
+    - slug: ustka
+      name: Ustka
+      code: "2212102"
+      distance_meters: 11781.52
+      distance_km: 11.782
+      distance_percent: 21.3706
+    - slug: darlowo
+      name: Darłowo
+      code: "3213011"
+      distance_meters: 4438.9
+      distance_km: 4.439
+      distance_percent: 8.0517
+    - slug: ustka
+      name: Ustka
+      code: "2212011"
+      distance_meters: 2099.26
+      distance_km: 2.099
+      distance_percent: 3.8079
+  counties:
+    - slug: slawienski
+      name: sławieński
+      code: "3213"
+      distance_meters: 41248.92
+      distance_km: 41.249
+      distance_percent: 74.8216
+    - slug: slupski
+      name: słupski
+      code: "2212"
+      distance_meters: 13880.79
+      distance_km: 13.881
+      distance_percent: 25.1784
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 41248.92
+      distance_km: 41.249
+      distance_percent: 74.8216
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 13880.79
+      distance_km: 13.881
+      distance_percent: 25.1784
+  meso_regions:
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+      distance_meters: 37110.98
+      distance_km: 37.111
+      distance_percent: 67.3158
+    - slug: rownina_slupska
+      name: Równina Słupska
+      code: "313.43"
+      distance_meters: 18018.72
+      distance_km: 18.019
+      distance_percent: 32.6842
+  macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 55129.7
+      distance_km: 55.13
+      distance_percent: 100
+  touched_towns:
+    - slug: darlowo
+      name: Darłowo
+      code: "3213011"
+    - slug: postomino
+      name: Postomino
+      code: "3213052"
+    - slug: ustka
+      name: Ustka
+      code: "2212102"
+  touched_counties:
+    - slug: slawienski
+      name: sławieński
+      code: "3213"
+    - slug: slupski
+      name: słupski
+      code: "2212"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: rownina_slupska
+      name: Równina Słupska
+      code: "313.43"
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"

@@ -1,0 +1,2022 @@
+---
+- image_filename: 2021_02_19__18_22__2190271.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.76894233931978
+  lon: 15.728245060949979
+  altitude: 762.3
+  focal_length: 150
+  focal_length_35: 300
+  crop: 2
+  aperture: 5.6
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-19T18:22:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+- image_filename: 2021_02_19__19_02__2190300.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.772958333333335
+  lon: 15.73198611111111
+  altitude: 735
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.4
+  exposure_string: 1/3 s
+  iso: 200
+  width: 5207
+  height: 3887
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:02:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__19_04__2190307.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77229166666667
+  lon: 15.732347222222222
+  altitude: 737
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:04:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__19_06__2190308.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77191666666666
+  lon: 15.732222222222223
+  altitude: 740
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.25
+  exposure_string: 1/4 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:06:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__19_28__2190327.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.76883333333333
+  lon: 15.728486111111112
+  altitude: 769
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.7692307692307693
+  exposure_string: 1/1 s
+  iso: 2000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:28:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__19_45__2190347.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.768625
+  lon: 15.73961111111111
+  altitude: 757
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 3.2
+  exposure_string: 3.2 s
+  iso: 800
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:45:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__19_49__2190351.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77098611111111
+  lon: 15.739472222222222
+  altitude: 733
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 320
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T19:49:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__20_02__2190365.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77376388888889
+  lon: 15.738305555555554
+  altitude: 696
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 3.2
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  width: 5104
+  height: 3811
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T20:02:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__20_24__2190370.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77434722222222
+  lon: 15.73648611111111
+  altitude: 721
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 4.5
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.14-42mm F3.5-5.6 II R
+  camera: E-M1MarkII
+  lens_name: M.14-42mm F3.5-5.6 II R
+  camera_name: E-M1MarkII
+  time: "2021-02-19T20:24:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 42
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-42mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_19__20_33__2190374.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77426388888889
+  lon: 15.731125
+  altitude: 755
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2021-02-19T20:33:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_10_DSC06860.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.747597222222225
+  lon: 15.727666666666666
+  altitude: 1351
+  focal_length: 70
+  focal_length_35: 70
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5904
+  height: 3928
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T10:10:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_11__2200441.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.74758333333333
+  lon: 15.727666666666666
+  altitude: 1351
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:11:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_12_DSC06868.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.747569444444444
+  lon: 15.727611111111111
+  altitude: 1355
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 5940
+  height: 3922
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T10:12:13+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_13__2200451.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.747375
+  lon: 15.72748611111111
+  altitude: 1357
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3647
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:13:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_18_DSC06876.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.74529166666667
+  lon: 15.72625
+  altitude: 1367
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 13
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T10:18:57+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_23_DSC06888.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.74355555555556
+  lon: 15.723472222222222
+  altitude: 1361
+  focal_length: 39
+  focal_length_35: 39
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5306
+  height: 3659
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T10:23:35+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_41__2200462.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73929166666667
+  lon: 15.728861111111112
+  altitude: 1393
+  focal_length: 170
+  focal_length_35: 340
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:41:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_41__2200466.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73927777777778
+  lon: 15.728875
+  altitude: 1393
+  focal_length: 96
+  focal_length_35: 192
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:41:37+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_41__2200470.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73926388888889
+  lon: 15.728944444444444
+  altitude: 1392
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4857
+  height: 3654
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:41:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_44__2200488.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73925
+  lon: 15.729305555555555
+  altitude: 1391
+  focal_length: 134
+  focal_length_35: 268
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:44:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_44__2200489.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73925
+  lon: 15.729305555555555
+  altitude: 1391
+  focal_length: 158
+  focal_length_35: 316
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5108
+  height: 3813
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:44:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_45__2200494.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73925
+  lon: 15.729319444444444
+  altitude: 1391
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 9
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:45:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__10_58__2200527.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73865277777778
+  lon: 15.730666666666666
+  altitude: 1397
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5161
+  height: 3853
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T10:58:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_08__2200549.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736736111111114
+  lon: 15.734305555555554
+  altitude: 1463
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 9
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:08:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_15__2200566.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73631944444445
+  lon: 15.735791666666666
+  altitude: 1521
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 11
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5078
+  height: 3791
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:15:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_17__2200572.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736375
+  lon: 15.735805555555554
+  altitude: 1522
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 4792
+  height: 3632
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:17:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_23__2200581.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736444444444444
+  lon: 15.73711111111111
+  altitude: 1553
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:23:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_25__2200585.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73645833333333
+  lon: 15.737374999999998
+  altitude: 1560
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:25:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_25__2200590.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73643055555556
+  lon: 15.737652777777777
+  altitude: 1565
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:25:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_29__2200595.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736333333333334
+  lon: 15.739222222222221
+  altitude: 1594
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5073
+  height: 3787
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:29:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_31__2200600.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73605555555556
+  lon: 15.740222222222222
+  altitude: 1599
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:31:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_36_DSC06919.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73609722222222
+  lon: 15.740347222222221
+  altitude: 1598
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5982
+  height: 3980
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:36:56+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_36__2200616.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73609722222222
+  lon: 15.74036111111111
+  altitude: 1599
+  focal_length: 34
+  focal_length_35: 68
+  crop: 2
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5075
+  height: 3789
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:36:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_37_DSC06922.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736069444444446
+  lon: 15.740347222222221
+  altitude: 1597
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 10
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5842
+  height: 3887
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:37:11+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_39_DSC06930.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73608333333333
+  lon: 15.740124999999999
+  altitude: 1598
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:39:26+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_40_DSC06944.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736333333333334
+  lon: 15.740277777777777
+  altitude: 1596
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 10
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:40:49+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_40__2200625.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73620833333334
+  lon: 15.740402777777778
+  altitude: 1595
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-20T11:40:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_43_DSC06958.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736444444444444
+  lon: 15.74025
+  altitude: 1599
+  focal_length: 40
+  focal_length_35: 40
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5825
+  height: 3856
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:43:26+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__11_59_DSC06982.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.736000000000004
+  lon: 15.740208333333333
+  altitude: 1602
+  focal_length: 69
+  focal_length_35: 69
+  crop: 1
+  aperture: 10
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 160
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T11:59:26+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_01_DSC06998.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73601388888889
+  lon: 15.740194444444443
+  altitude: 1601
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 3875
+  height: 5825
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:01:56+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_12_DSC07019.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73638888888889
+  lon: 15.736819444444444
+  altitude: 1544
+  focal_length: 32
+  focal_length_35: 32
+  crop: 1
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:12:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_20_DSC07050.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73626388888889
+  lon: 15.734888888888888
+  altitude: 1495
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 10
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:20:16+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_20_DSC07053.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73626388888889
+  lon: 15.734874999999999
+  altitude: 1495
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 10
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5717
+  height: 3736
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:20:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_20_DSC07055.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73626388888889
+  lon: 15.734874999999999
+  altitude: 1495
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 10
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5687
+  height: 3848
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:20:19+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_26_DSC07100.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73670833333333
+  lon: 15.733930555555554
+  altitude: 1453
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-02-20T12:26:42+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_44__2200639.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.739333333333335
+  lon: 15.72888888888889
+  altitude: 1385
+  focal_length: 41
+  focal_length_35: 82
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T12:44:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_46__2200643.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.73979166666667
+  lon: 15.72748611111111
+  altitude: 1393
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T12:46:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__12_54__2200655.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.74218055555556
+  lon: 15.724319444444445
+  altitude: 1356
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T12:54:14+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__15_15__2200730.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77404166666667
+  lon: 15.72563888888889
+  altitude: 831
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 10
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T15:15:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__15_18__2200741.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77452777777778
+  lon: 15.725027777777777
+  altitude: 838
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T15:18:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__15_19__2200743.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.774569444444445
+  lon: 15.72488888888889
+  altitude: 840
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T15:19:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__15_36__2200756.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77723611111111
+  lon: 15.724055555555555
+  altitude: 875
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 9
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4504
+  height: 3856
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T15:36:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__16_08__2200787.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.776513888888886
+  lon: 15.726513888888888
+  altitude: 819
+  focal_length: 34
+  focal_length_35: 68
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5228
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T16:08:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_20__16_13__2200797.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.775055555555554
+  lon: 15.726333333333333
+  altitude: 812
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2021-02-20T16:13:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_21__10_06__2210828.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.771819444444446
+  lon: 15.729055555555556
+  altitude: 811
+  focal_length: 270
+  focal_length_35: 540
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-21T10:06:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_21__10_08__2210837.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.771819444444446
+  lon: 15.729069444444445
+  altitude: 811
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4819
+  height: 3406
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-21T10:08:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 1
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_21__10_09__2210840.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.771819444444446
+  lon: 15.729069444444445
+  altitude: 811
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-21T10:09:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_21__10_33__2210864.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77183333333333
+  lon: 15.729180555555555
+  altitude: 808
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-21T10:33:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84
+- image_filename: 2021_02_21__10_36__2210871.jpg
+  post_slug: 2021-02-20-pandemiczna-sniezka
+  lat: 50.77183333333333
+  lon: 15.729194444444445
+  altitude: 807
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4564
+  height: 3293
+  lens: M.40-150mm F2.8 + MC-20
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-20
+  camera_name: E-M1MarkII
+  time: "2021-02-21T10:36:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 1
+  lens_min_focal: 80
+  lens_max_focal: 300
+  lens_min_fstop: 5.6
+  lens_max_fstop: 5.6
+  lens_spec_str: 80-300mm f/5.6
+  gps_map_datum: WGS-84

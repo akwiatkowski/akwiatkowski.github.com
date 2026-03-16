@@ -1,0 +1,79 @@
+---
+- image_filename: IMGP7295raw1.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  lat: 49.58869317550295
+  lon: 19.99488366767427
+  altitude: 735.07
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-02T11:13:18+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7310raw1.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  lat: 49.591605635409536
+  lon: 19.996989201805686
+  altitude: 661.04
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-02T11:20:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-01-02-noworoczne-opuszczenie-gorcow
+  lat: 49.582809666168416
+  lon: 20.008251462100155
+  altitude: 823.03
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-02T10:55:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

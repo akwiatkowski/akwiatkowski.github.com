@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 6623.05
+  total_distance_km: 6.623
+  points_count: 156
+  towns:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+      distance_meters: 6623.05
+      distance_km: 6.623
+      distance_percent: 100
+  counties:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+      distance_meters: 6623.05
+      distance_km: 6.623
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 6623.05
+      distance_km: 6.623
+      distance_percent: 100
+  meso_regions:
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+      distance_meters: 6623.05
+      distance_km: 6.623
+      distance_percent: 100
+  macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+      distance_meters: 6623.05
+      distance_km: 6.623
+      distance_percent: 100
+  touched_towns:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+  touched_counties:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+  touched_macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"

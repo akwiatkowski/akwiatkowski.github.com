@@ -1,0 +1,204 @@
+---
+- type: bicycle
+  total_distance_meters: 78488.99
+  total_distance_km: 78.489
+  points_count: 516
+  towns:
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+      distance_meters: 17327.03
+      distance_km: 17.327
+      distance_percent: 22.0757
+    - slug: przywidz
+      name: Przywidz
+      code: "2204052"
+      distance_meters: 13067.75
+      distance_km: 13.068
+      distance_percent: 16.6491
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+      distance_meters: 12376.47
+      distance_km: 12.376
+      distance_percent: 15.7684
+    - slug: parchowo
+      name: Parchowo
+      code: "2201072"
+      distance_meters: 10356.82
+      distance_km: 10.357
+      distance_percent: 13.1952
+    - slug: bytow
+      name: Bytów
+      code: "2201023"
+      distance_meters: 5686.34
+      distance_km: 5.686
+      distance_percent: 7.2448
+    - slug: studzienice
+      name: Studzienice
+      code: "2201082"
+      distance_meters: 5589.21
+      distance_km: 5.589
+      distance_percent: 7.121
+    - slug: kartuzy
+      name: Kartuzy
+      code: "2205023"
+      distance_meters: 4327.92
+      distance_km: 4.328
+      distance_percent: 5.514
+    - slug: suleczyno
+      name: Sulęczyno
+      code: "2205072"
+      distance_meters: 4244.94
+      distance_km: 4.245
+      distance_percent: 5.4083
+    - slug: chmielno
+      name: Chmielno
+      code: "2205012"
+      distance_meters: 3121.95
+      distance_km: 3.122
+      distance_percent: 3.9776
+    - slug: kolbudy
+      name: Kolbudy
+      code: "2204032"
+      distance_meters: 2390.57
+      distance_km: 2.391
+      distance_percent: 3.0457
+  counties:
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+      distance_meters: 41398.3
+      distance_km: 41.398
+      distance_percent: 52.7441
+    - slug: bytowski
+      name: bytowski
+      code: "2201"
+      distance_meters: 21632.36
+      distance_km: 21.632
+      distance_percent: 27.561
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+      distance_meters: 15458.32
+      distance_km: 15.458
+      distance_percent: 19.6949
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 78488.99
+      distance_km: 78.489
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 42778.79
+      distance_km: 42.779
+      distance_percent: 54.5029
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 18700.17
+      distance_km: 18.7
+      distance_percent: 23.8252
+    - slug: pojezierze_bytowskie
+      name: Pojezierze Bytowskie
+      code: "314.47"
+      distance_meters: 16616.61
+      distance_km: 16.617
+      distance_percent: 21.1706
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+      distance_meters: 393.43
+      distance_km: 0.393
+      distance_percent: 0.5013
+  macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 42778.79
+      distance_km: 42.779
+      distance_percent: 54.5029
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 19093.6
+      distance_km: 19.094
+      distance_percent: 24.3265
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 16616.61
+      distance_km: 16.617
+      distance_percent: 21.1706
+  touched_towns:
+    - slug: bytow
+      name: Bytów
+      code: "2201023"
+    - slug: chmielno
+      name: Chmielno
+      code: "2205012"
+    - slug: kartuzy
+      name: Kartuzy
+      code: "2205023"
+    - slug: kolbudy
+      name: Kolbudy
+      code: "2204032"
+    - slug: parchowo
+      name: Parchowo
+      code: "2201072"
+    - slug: przywidz
+      name: Przywidz
+      code: "2204052"
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+    - slug: studzienice
+      name: Studzienice
+      code: "2201082"
+    - slug: suleczyno
+      name: Sulęczyno
+      code: "2205072"
+  touched_counties:
+    - slug: bytowski
+      name: bytowski
+      code: "2201"
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: pojezierze_bytowskie
+      name: Pojezierze Bytowskie
+      code: "314.47"
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

@@ -1,0 +1,726 @@
+---
+- image_filename: 2019_02_23__06_29__2230196.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: fee0fffffc000000
+  dhash: 8205f1c014790323
+  phash: d685295ad5c19a7c
+  avg_rgb:
+  - 79
+  - 82
+  - 115
+  top5_rgb:
+  - - 58
+    - 84
+    - 132
+  - - 56
+    - 65
+    - 89
+  - - 93
+    - 88
+    - 129
+  - - 84
+    - 84
+    - 127
+  - - 74
+    - 101
+    - 156
+- image_filename: 2019_02_23__06_32__2230197_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 00007efffefc0000
+  dhash: e0f0f0e0e4e18360
+  phash: c7152b7a9489fa34
+  avg_rgb:
+  - 71
+  - 56
+  - 81
+  top5_rgb:
+  - - 40
+    - 44
+    - 70
+  - - 49
+    - 46
+    - 59
+  - - 96
+    - 71
+    - 101
+  - - 93
+    - 74
+    - 103
+  - - 36
+    - 42
+    - 68
+- image_filename: 2019_02_23__06_33__2230198_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 000000ffffff0000
+  dhash: 61d187e3c0813ef1
+  phash: e01e1ee18f3ee087
+  avg_rgb:
+  - 140
+  - 38
+  - 70
+  top5_rgb:
+  - - 247
+    - 54
+    - 85
+  - - 111
+    - 46
+    - 79
+  - - 98
+    - 47
+    - 78
+  - - 252
+    - 73
+    - 86
+  - - 80
+    - 45
+    - 72
+- image_filename: 2019_02_23__06_34__2230199.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 00000000ffff1f1f
+  dhash: d8b0fff8dcfcfcff
+  phash: 96696d96691a9669
+  avg_rgb:
+  - 113
+  - 54
+  - 78
+  top5_rgb:
+  - - 58
+    - 39
+    - 59
+  - - 133
+    - 64
+    - 95
+  - - 183
+    - 65
+    - 102
+  - - 242
+    - 126
+    - 109
+  - - 44
+    - 31
+    - 47
+- image_filename: 2019_02_23__06_36__2230200.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0000ffffa0a0ba00
+  dhash: f0faf0f2535746b0
+  phash: c708546f518cd773
+  avg_rgb:
+  - 113
+  - 73
+  - 112
+  top5_rgb:
+  - - 71
+    - 59
+    - 99
+  - - 244
+    - 119
+    - 150
+  - - 62
+    - 58
+    - 97
+  - - 209
+    - 91
+    - 144
+  - - 50
+    - 55
+    - 92
+- image_filename: 2019_02_23__06_38__2230201_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0002ffffa0a3b200
+  dhash: 7cfcf8f25f556664
+  phash: 8788546f718cda73
+  avg_rgb:
+  - 112
+  - 69
+  - 99
+  top5_rgb:
+  - - 107
+    - 52
+    - 90
+  - - 82
+    - 54
+    - 87
+  - - 94
+    - 55
+    - 89
+  - - 175
+    - 88
+    - 118
+  - - 127
+    - 66
+    - 105
+- image_filename: 2019_02_23__06_42__2230203.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffff810040cdc5e5
+  dhash: f4cb0b0999990909
+  phash: fa858592557f3a60
+  avg_rgb:
+  - 108
+  - 120
+  - 148
+  top5_rgb:
+  - - 139
+    - 156
+    - 198
+  - - 215
+    - 226
+    - 244
+  - - 113
+    - 129
+    - 172
+  - - 114
+    - 133
+    - 177
+  - - 179
+    - 204
+    - 236
+- image_filename: 2019_02_23__06_42__2230204.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffff810045cdc5ed
+  dhash: f48b0b0999191909
+  phash: fa858592553f3a68
+  avg_rgb:
+  - 71
+  - 80
+  - 99
+  top5_rgb:
+  - - 39
+    - 41
+    - 47
+  - - 57
+    - 67
+    - 87
+  - - 123
+    - 139
+    - 174
+  - - 93
+    - 104
+    - 125
+  - - 89
+    - 101
+    - 123
+- image_filename: 2019_02_23__06_45__2230206_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffff2703c303e700
+  dhash: f8f34d0fb6b70f8c
+  phash: a48ad3ad5c721cf4
+  avg_rgb:
+  - 72
+  - 82
+  - 98
+  top5_rgb:
+  - - 74
+    - 91
+    - 116
+  - - 53
+    - 53
+    - 52
+  - - 59
+    - 61
+    - 59
+  - - 71
+    - 87
+    - 112
+  - - 80
+    - 96
+    - 121
+- image_filename: 2019_02_23__06_50__2230209.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffffff8303030707
+  dhash: fcfced6626267e3f
+  phash: bdc292353de2c81b
+  avg_rgb:
+  - 70
+  - 86
+  - 115
+  top5_rgb:
+  - - 95
+    - 110
+    - 141
+  - - 90
+    - 108
+    - 140
+  - - 68
+    - 89
+    - 125
+  - - 73
+    - 99
+    - 137
+  - - 44
+    - 51
+    - 69
+- image_filename: 2019_02_23__06_58__2230212.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ff8f808ba0a0a3c3
+  dhash: 79382a7342434606
+  phash: ff9aa08385ad4275
+  avg_rgb:
+  - 88
+  - 96
+  - 112
+  top5_rgb:
+  - - 137
+    - 151
+    - 177
+  - - 133
+    - 142
+    - 162
+  - - 51
+    - 55
+    - 63
+  - - 140
+    - 155
+    - 182
+  - - 37
+    - 39
+    - 44
+- image_filename: 2019_02_23__06_59__2230213.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffffff7908200000
+  dhash: f0ecf3d35143d391
+  phash: cb8cb453096de798
+  avg_rgb:
+  - 102
+  - 109
+  - 127
+  top5_rgb:
+  - - 158
+    - 166
+    - 189
+  - - 160
+    - 172
+    - 198
+  - - 66
+    - 69
+    - 81
+  - - 145
+    - 165
+    - 202
+  - - 204
+    - 211
+    - 223
+- image_filename: 2019_02_24__06_28__2241689.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 00003ffff1f1f800
+  dhash: f8fcfced4d41691c
+  phash: 8a151d6a7799156b
+  avg_rgb:
+  - 74
+  - 90
+  - 138
+  top5_rgb:
+  - - 44
+    - 62
+    - 111
+  - - 100
+    - 121
+    - 182
+  - - 50
+    - 68
+    - 119
+  - - 112
+    - 133
+    - 196
+  - - 105
+    - 125
+    - 185
+- image_filename: 2019_02_24__06_29__2241690.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 7fffff818080c1e1
+  dhash: fefc33290a090909
+  phash: fa8481737caa95c5
+  avg_rgb:
+  - 91
+  - 97
+  - 139
+  top5_rgb:
+  - - 93
+    - 108
+    - 160
+  - - 101
+    - 114
+    - 169
+  - - 99
+    - 113
+    - 166
+  - - 82
+    - 99
+    - 145
+  - - 55
+    - 68
+    - 109
+- image_filename: 2019_02_24__06_30__2241691.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffe0c0d0c0d0d0d0
+  dhash: d48494b4b434b4b4
+  phash: fca3839c839c193b
+  avg_rgb:
+  - 89
+  - 87
+  - 115
+  top5_rgb:
+  - - 131
+    - 125
+    - 181
+  - - 143
+    - 147
+    - 215
+  - - 29
+    - 26
+    - 32
+  - - 54
+    - 66
+    - 105
+  - - 44
+    - 48
+    - 76
+- image_filename: 2019_02_24__06_30__2241692_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0c7fff6071fc0000
+  dhash: f8f6edcd4b690f3b
+  phash: ca841d596762dab5
+  avg_rgb:
+  - 95
+  - 109
+  - 147
+  top5_rgb:
+  - - 112
+    - 129
+    - 175
+  - - 92
+    - 110
+    - 150
+  - - 96
+    - 111
+    - 152
+  - - 108
+    - 124
+    - 167
+  - - 153
+    - 161
+    - 206
+- image_filename: 2019_02_24__06_40__2241698_01.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0000ffffff81e000
+  dhash: f8f0d0f64b4b4903
+  phash: eb14546bb5942b69
+  avg_rgb:
+  - 112
+  - 112
+  - 112
+  top5_rgb:
+  - - 166
+    - 166
+    - 166
+  - - 68
+    - 68
+    - 68
+  - - 95
+    - 95
+    - 95
+  - - 81
+    - 81
+    - 81
+  - - 91
+    - 91
+    - 91
+- image_filename: 2019_02_24__06_43__2241700.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffffff8080a0a080
+  dhash: f0f8783a4b4b4643
+  phash: ff90c06738d781ca
+  avg_rgb:
+  - 107
+  - 106
+  - 119
+  top5_rgb:
+  - - 100
+    - 115
+    - 144
+  - - 174
+    - 157
+    - 173
+  - - 40
+    - 37
+    - 34
+  - - 189
+    - 163
+    - 175
+  - - 155
+    - 148
+    - 170
+- image_filename: 2019_02_24__06_50__2241754.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 003fffff80808000
+  dhash: e0e6f80204252525
+  phash: fe81017e79c99236
+  avg_rgb:
+  - 83
+  - 93
+  - 110
+  top5_rgb:
+  - - 75
+    - 91
+    - 116
+  - - 62
+    - 76
+    - 100
+  - - 95
+    - 110
+    - 135
+  - - 179
+    - 161
+    - 155
+  - - 71
+    - 87
+    - 111
+- image_filename: 2019_02_24__06_52__2241756.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffffffc001018080
+  dhash: c9f0f10331153535
+  phash: bac194226976c9fa
+  avg_rgb:
+  - 85
+  - 85
+  - 91
+  top5_rgb:
+  - - 82
+    - 92
+    - 111
+  - - 26
+    - 25
+    - 21
+  - - 23
+    - 22
+    - 17
+  - - 151
+    - 136
+    - 135
+  - - 76
+    - 87
+    - 108
+- image_filename: 2019_02_24__06_52__2241757_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 89001f071f1f1f1f
+  dhash: "3331557575353575"
+  phash: 9c63618cb7b68d89
+  avg_rgb:
+  - 71
+  - 71
+  - 75
+  top5_rgb:
+  - - 130
+    - 140
+    - 164
+  - - 28
+    - 30
+    - 31
+  - - 41
+    - 48
+    - 53
+  - - 117
+    - 130
+    - 155
+  - - 126
+    - 136
+    - 160
+- image_filename: 2019_02_24__06_53__2241758_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 38ffffff82e00000
+  dhash: e16cf11e5e000400
+  phash: d5aa0a557ba8ca17
+  avg_rgb:
+  - 83
+  - 95
+  - 115
+  top5_rgb:
+  - - 117
+    - 135
+    - 167
+  - - 52
+    - 60
+    - 71
+  - - 144
+    - 156
+    - 179
+  - - 80
+    - 96
+    - 121
+  - - 61
+    - 72
+    - 89
+- image_filename: 2019_02_24__06_56__2241761_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 00fcfff7fef89000
+  dhash: 0000485534342521
+  phash: dcb342542f7b918c
+  avg_rgb:
+  - 69
+  - 72
+  - 84
+  top5_rgb:
+  - - 93
+    - 102
+    - 121
+  - - 84
+    - 92
+    - 111
+  - - 54
+    - 58
+    - 71
+  - - 122
+    - 115
+    - 120
+  - - 86
+    - 96
+    - 116
+- image_filename: 2019_02_24__07_33__2241859_01.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 000007ffa7a7e3ff
+  dhash: c495fefb4d4d1798
+  phash: b748596699a1b659
+  avg_rgb:
+  - 109
+  - 115
+  - 125
+  top5_rgb:
+  - - 76
+    - 88
+    - 108
+  - - 66
+    - 76
+    - 95
+  - - 175
+    - 144
+    - 125
+  - - 154
+    - 156
+    - 154
+  - - 71
+    - 83
+    - 102
+- image_filename: 2019_02_24__07_47__2241866.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0e3f3f0706000000
+  dhash: fcf6fc7c9c9be390
+  phash: 94944b6b726eb4b4
+  avg_rgb:
+  - 92
+  - 89
+  - 88
+  top5_rgb:
+  - - 86
+    - 80
+    - 76
+  - - 87
+    - 81
+    - 77
+  - - 113
+    - 106
+    - 102
+  - - 69
+    - 76
+    - 87
+  - - 82
+    - 77
+    - 73
+- image_filename: 2019_02_24__07_49__2241870.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0f3f7f3f06060400
+  dhash: f8fcfcff94f4fca1
+  phash: 96a94976699b9532
+  avg_rgb:
+  - 100
+  - 99
+  - 101
+  top5_rgb:
+  - - 123
+    - 119
+    - 117
+  - - 71
+    - 75
+    - 84
+  - - 143
+    - 138
+    - 136
+  - - 87
+    - 88
+    - 95
+  - - 255
+    - 255
+    - 247
+- image_filename: 2019_02_24__07_50__2241871.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: 0f3fffe221070000
+  dhash: 3fffff4645251694
+  phash: aa99112a5755ae9b
+  avg_rgb:
+  - 86
+  - 86
+  - 90
+  top5_rgb:
+  - - 67
+    - 72
+    - 84
+  - - 72
+    - 76
+    - 87
+  - - 146
+    - 141
+    - 140
+  - - 87
+    - 93
+    - 106
+  - - 255
+    - 255
+    - 253
+- image_filename: 2019_02_24__07_52__2241873_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: fefcbcc183830300
+  dhash: f4fc29338b3b3b2a
+  phash: b8d655a0256dde83
+  avg_rgb:
+  - 98
+  - 99
+  - 104
+  top5_rgb:
+  - - 64
+    - 65
+    - 71
+  - - 43
+    - 38
+    - 35
+  - - 105
+    - 112
+    - 125
+  - - 150
+    - 156
+    - 170
+  - - 141
+    - 140
+    - 145
+- image_filename: 2019_02_24__07_57__2241879_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  ahash: ffff7f990c800818
+  dhash: f8d8f331793b3273
+  phash: 9b8085765a6de593
+  avg_rgb:
+  - 109
+  - 96
+  - 96
+  top5_rgb:
+  - - 134
+    - 121
+    - 124
+  - - 113
+    - 110
+    - 121
+  - - 59
+    - 50
+    - 50
+  - - 208
+    - 184
+    - 173
+  - - 86
+    - 73
+    - 72

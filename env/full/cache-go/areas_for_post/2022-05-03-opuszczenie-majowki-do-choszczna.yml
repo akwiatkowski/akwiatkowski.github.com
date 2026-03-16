@@ -1,0 +1,60 @@
+---
+- type: bicycle
+  total_distance_meters: 12996.31
+  total_distance_km: 12.996
+  points_count: 66
+  towns:
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+      distance_meters: 12996.31
+      distance_km: 12.996
+      distance_percent: 100
+  counties:
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+      distance_meters: 12996.31
+      distance_km: 12.996
+      distance_percent: 100
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 12996.31
+      distance_km: 12.996
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+      distance_meters: 12996.31
+      distance_km: 12.996
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 12996.31
+      distance_km: 12.996
+      distance_percent: 100
+  touched_towns:
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+  touched_counties:
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+  touched_macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

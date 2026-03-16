@@ -1,0 +1,919 @@
+---
+- image_filename: 2020_09_22__15_52__9220435.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.44369444444444
+  lon: 17.172652777777778
+  altitude: 92
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T15:52:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__15_52__9220436.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.44369444444444
+  lon: 17.172652777777778
+  altitude: 92
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5209
+  height: 3889
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T15:52:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_22__9220445.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.479708333333335
+  lon: 17.19452777777778
+  altitude: 103
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:22:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_35__9220450.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.48919444444444
+  lon: 17.197458333333334
+  altitude: 103
+  focal_length: 13
+  focal_length_35: 26
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5118
+  height: 3821
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:35:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_45__9220453.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.505319444444446
+  lon: 17.206152777777778
+  altitude: 95
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:45:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_45__9220455.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.505319444444446
+  lon: 17.206152777777778
+  altitude: 95
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:45:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_45__9220457.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.505319444444446
+  lon: 17.206152777777778
+  altitude: 95
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:45:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__16_46__9220459.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.505319444444446
+  lon: 17.206152777777778
+  altitude: 95
+  focal_length: 50
+  focal_length_35: 100
+  crop: 2
+  aperture: 4
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T16:46:00+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_06__9220462.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.532666666666664
+  lon: 17.26963888888889
+  altitude: 115
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5109
+  height: 3814
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:06:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_14__9220469.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.54095833333333
+  lon: 17.248986111111112
+  altitude: 111
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:14:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_14__9220471.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.54095833333333
+  lon: 17.248986111111112
+  altitude: 111
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5081
+  height: 3793
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:14:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_15__9220472.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.54095833333333
+  lon: 17.248986111111112
+  altitude: 111
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4982
+  height: 3720
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:15:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_26__9220476.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.56176388888888
+  lon: 17.232277777777774
+  altitude: 110
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:26:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_26__9220477.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.56176388888888
+  lon: 17.232277777777774
+  altitude: 110
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:26:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_31__9220481.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.56879166666667
+  lon: 17.234986111111112
+  altitude: 109
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:31:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_31__9220485.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.56879166666667
+  lon: 17.234986111111112
+  altitude: 110
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:31:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_31__9220490.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.56880555555556
+  lon: 17.235
+  altitude: 110
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:31:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_33__9220494.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.57223611111112
+  lon: 17.23626388888889
+  altitude: 108
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:33:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_34__9220497.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.57223611111112
+  lon: 17.23626388888889
+  altitude: 108
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5196
+  height: 3879
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:34:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_34__9220505.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.57223611111112
+  lon: 17.23626388888889
+  altitude: 108
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5059
+  height: 3777
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:34:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_37__9220506.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.57358333333334
+  lon: 17.23679166666667
+  altitude: 104
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:37:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_37__9220510.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.57366666666667
+  lon: 17.236819444444446
+  altitude: 103
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:37:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_47__9220513.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.59359722222222
+  lon: 17.217652777777776
+  altitude: 100
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:47:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_47__9220514.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.59359722222222
+  lon: 17.217652777777776
+  altitude: 100
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4302
+  height: 3265
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:47:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_47__9220516.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.59359722222222
+  lon: 17.217652777777776
+  altitude: 100
+  focal_length: 31
+  focal_length_35: 62
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:47:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__17_47__9220518.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.59359722222222
+  lon: 17.217652777777776
+  altitude: 100
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5023
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T17:47:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_09_22__18_00__9220521.jpg
+  post_slug: 2020-09-22-ostatnie-podrygi-lata
+  lat: 52.621972222222226
+  lon: 17.16927777777778
+  altitude: 109
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 5151
+  height: 3640
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-09-22T18:00:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

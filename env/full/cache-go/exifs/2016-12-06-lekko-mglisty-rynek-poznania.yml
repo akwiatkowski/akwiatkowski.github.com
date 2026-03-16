@@ -1,0 +1,106 @@
+---
+- image_filename: IMGP0239raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  lat: 52.40947222222222
+  lon: 16.936069444444446
+  altitude: 57
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 14
+  exposure: 10
+  exposure_string: 10.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-06T23:37:04+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: manual
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP0251raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  lat: 52.410069444444446
+  lon: 16.933333333333334
+  altitude: 58
+  focal_length: 27
+  focal_length_35: 40
+  crop: 1.5
+  aperture: 14
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 100
+  width: 3656
+  height: 5480
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-06T23:52:15+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: manual
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP0254raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  lat: 52.40983333333333
+  lon: 16.92938888888889
+  altitude: 61
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 14
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-06T23:58:28+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: manual
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  lat: 52.406625
+  lon: 16.93486111111111
+  altitude: 63
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 16
+  exposure: 8
+  exposure_string: 8.0 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-06T23:17:15+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: RawTherapee 4.2.1395
+  exposure_program: manual
+  exposure_bias: -1
+  gps_map_datum: WGS-84

@@ -1,0 +1,192 @@
+---
+- type: bicycle
+  total_distance_meters: 100808.18
+  total_distance_km: 100.808
+  points_count: 470
+  towns:
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+      distance_meters: 31666.93
+      distance_km: 31.667
+      distance_percent: 31.4131
+    - slug: skarszewy
+      name: Skarszewy
+      code: "2213093"
+      distance_meters: 22190.23
+      distance_km: 22.19
+      distance_percent: 22.0123
+    - slug: stara_kiszewa
+      name: Stara Kiszewa
+      code: "2206082"
+      distance_meters: 19566.35
+      distance_km: 19.566
+      distance_percent: 19.4095
+    - slug: trabki_wielkie
+      name: Trąbki Wielkie
+      code: "2204082"
+      distance_meters: 12071.32
+      distance_km: 12.071
+      distance_percent: 11.9745
+    - slug: tczew
+      name: Tczew
+      code: "2214062"
+      distance_meters: 10296.55
+      distance_km: 10.297
+      distance_percent: 10.214
+    - slug: tczew
+      name: Tczew
+      code: "2214011"
+      distance_meters: 4093.86
+      distance_km: 4.094
+      distance_percent: 4.061
+    - slug: pszczolki
+      name: Pszczółki
+      code: "2204062"
+      distance_meters: 922.94
+      distance_km: 0.923
+      distance_percent: 0.9155
+  counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+      distance_meters: 31666.93
+      distance_km: 31.667
+      distance_percent: 31.4131
+    - slug: starogardzki
+      name: starogardzki
+      code: "2213"
+      distance_meters: 22190.23
+      distance_km: 22.19
+      distance_percent: 22.0123
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+      distance_meters: 19566.35
+      distance_km: 19.566
+      distance_percent: 19.4095
+    - slug: tczewski
+      name: tczewski
+      code: "2214"
+      distance_meters: 14390.42
+      distance_km: 14.39
+      distance_percent: 14.275
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+      distance_meters: 12994.25
+      distance_km: 12.994
+      distance_percent: 12.8901
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 100808.18
+      distance_km: 100.808
+      distance_percent: 100
+  meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 41679.77
+      distance_km: 41.68
+      distance_percent: 41.3456
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 38252.24
+      distance_km: 38.252
+      distance_percent: 37.9456
+    - slug: pojezierze_starogardzkie
+      name: Pojezierze Starogardzkie
+      code: "314.52"
+      distance_meters: 20114.59
+      distance_km: 20.115
+      distance_percent: 19.9533
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+      distance_meters: 761.58
+      distance_km: 0.762
+      distance_percent: 0.7555
+  macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 58366.83
+      distance_km: 58.367
+      distance_percent: 57.8989
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 41679.77
+      distance_km: 41.68
+      distance_percent: 41.3456
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+      distance_meters: 761.58
+      distance_km: 0.762
+      distance_percent: 0.7555
+  touched_towns:
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+    - slug: pszczolki
+      name: Pszczółki
+      code: "2204062"
+    - slug: skarszewy
+      name: Skarszewy
+      code: "2213093"
+    - slug: stara_kiszewa
+      name: Stara Kiszewa
+      code: "2206082"
+    - slug: tczew
+      name: Tczew
+      code: "2214011"
+    - slug: trabki_wielkie
+      name: Trąbki Wielkie
+      code: "2204082"
+  touched_counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+    - slug: starogardzki
+      name: starogardzki
+      code: "2213"
+    - slug: tczewski
+      name: tczewski
+      code: "2214"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+    - slug: pojezierze_starogardzkie
+      name: Pojezierze Starogardzkie
+      code: "314.52"
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+  touched_macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316

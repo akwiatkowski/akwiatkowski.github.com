@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 63644.4
+  total_distance_km: 63.644
+  points_count: 334
+  towns:
+    - slug: zlocieniec
+      name: Złocieniec
+      code: "3203063"
+      distance_meters: 17780.02
+      distance_km: 17.78
+      distance_percent: 27.9365
+    - slug: polczyn-zdroj
+      name: Połczyn-Zdrój
+      code: "3216033"
+      distance_meters: 16212.18
+      distance_km: 16.212
+      distance_percent: 25.4731
+    - slug: rabino
+      name: Rąbino
+      code: "3216042"
+      distance_meters: 15634.77
+      distance_km: 15.635
+      distance_percent: 24.5658
+    - slug: bialogard
+      name: Białogard
+      code: "3201022"
+      distance_meters: 14017.42
+      distance_km: 14.017
+      distance_percent: 22.0246
+    - slug: bialogard
+      name: Białogard
+      code: "3201011"
+      distance_meters: 5157.13
+      distance_km: 5.157
+      distance_percent: 8.103
+  counties:
+    - slug: swidwinski
+      name: świdwiński
+      code: "3216"
+      distance_meters: 31846.96
+      distance_km: 31.847
+      distance_percent: 50.0389
+    - slug: drawski
+      name: drawski
+      code: "3203"
+      distance_meters: 17780.02
+      distance_km: 17.78
+      distance_percent: 27.9365
+    - slug: bialogardzki
+      name: białogardzki
+      code: "3201"
+      distance_meters: 14017.42
+      distance_km: 14.017
+      distance_percent: 22.0246
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 63644.4
+      distance_km: 63.644
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_drawskie
+      name: Pojezierze Drawskie
+      code: "314.45"
+      distance_meters: 27244.81
+      distance_km: 27.245
+      distance_percent: 42.8079
+    - slug: wysoczyzna_lobeska
+      name: Wysoczyzna Łobeska
+      code: "314.44"
+      distance_meters: 20869.13
+      distance_km: 20.869
+      distance_percent: 32.7902
+    - slug: rownina_gryficka
+      name: Równina Gryficka
+      code: "313.33"
+      distance_meters: 9917.85
+      distance_km: 9.918
+      distance_percent: 15.5832
+    - slug: rownina_bialogardzka
+      name: Równina Białogardzka
+      code: "313.42"
+      distance_meters: 5612.6
+      distance_km: 5.613
+      distance_percent: 8.8187
+  macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 48113.94
+      distance_km: 48.114
+      distance_percent: 75.5981
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+      distance_meters: 9917.85
+      distance_km: 9.918
+      distance_percent: 15.5832
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 5612.6
+      distance_km: 5.613
+      distance_percent: 8.8187
+  touched_towns:
+    - slug: bialogard
+      name: Białogard
+      code: "3201022"
+    - slug: polczyn-zdroj
+      name: Połczyn-Zdrój
+      code: "3216033"
+    - slug: rabino
+      name: Rąbino
+      code: "3216042"
+    - slug: zlocieniec
+      name: Złocieniec
+      code: "3203063"
+  touched_counties:
+    - slug: bialogardzki
+      name: białogardzki
+      code: "3201"
+    - slug: drawski
+      name: drawski
+      code: "3203"
+    - slug: swidwinski
+      name: świdwiński
+      code: "3216"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: pojezierze_drawskie
+      name: Pojezierze Drawskie
+      code: "314.45"
+    - slug: rownina_bialogardzka
+      name: Równina Białogardzka
+      code: "313.42"
+    - slug: rownina_gryficka
+      name: Równina Gryficka
+      code: "313.33"
+    - slug: wysoczyzna_lobeska
+      name: Wysoczyzna Łobeska
+      code: "314.44"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

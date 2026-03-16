@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 43667.06
+  total_distance_km: 43.667
+  points_count: 301
+  towns:
+    - slug: insko
+      name: Ińsko
+      code: "3214053"
+      distance_meters: 14946.86
+      distance_km: 14.947
+      distance_percent: 34.2291
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+      distance_meters: 9827.11
+      distance_km: 9.827
+      distance_percent: 22.5046
+    - slug: dobrzany
+      name: Dobrzany
+      code: "3214033"
+      distance_meters: 9720.02
+      distance_km: 9.72
+      distance_percent: 22.2594
+    - slug: suchan
+      name: Suchań
+      code: "3214113"
+      distance_meters: 9173.08
+      distance_km: 9.173
+      distance_percent: 21.0069
+  counties:
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+      distance_meters: 33839.96
+      distance_km: 33.84
+      distance_percent: 77.4954
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+      distance_meters: 9827.11
+      distance_km: 9.827
+      distance_percent: 22.5046
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 43667.06
+      distance_km: 43.667
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_inskie
+      name: Pojezierze Ińskie
+      code: "314.43"
+      distance_meters: 32362.39
+      distance_km: 32.362
+      distance_percent: 74.1117
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+      distance_meters: 11304.68
+      distance_km: 11.305
+      distance_percent: 25.8883
+  macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 43667.06
+      distance_km: 43.667
+      distance_percent: 100
+  touched_towns:
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+    - slug: dobrzany
+      name: Dobrzany
+      code: "3214033"
+    - slug: insko
+      name: Ińsko
+      code: "3214053"
+    - slug: suchan
+      name: Suchań
+      code: "3214113"
+  touched_counties:
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+    - slug: pojezierze_inskie
+      name: Pojezierze Ińskie
+      code: "314.43"
+  touched_macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

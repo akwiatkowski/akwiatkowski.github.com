@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 5709.7
+  total_distance_km: 5.71
+  points_count: 59
+  towns:
+    - slug: zakopane
+      name: Zakopane
+      code: "1217011"
+      distance_meters: 5709.7
+      distance_km: 5.71
+      distance_percent: 100
+  counties:
+    - slug: tatrzanski
+      name: tatrzański
+      code: "1217"
+      distance_meters: 5709.7
+      distance_km: 5.71
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 5709.7
+      distance_km: 5.71
+      distance_percent: 100
+  meso_regions:
+    - slug: bruzda_podtatrzanska
+      name: Bruzda Podtatrzańska
+      code: "514.14"
+      distance_meters: 3015.34
+      distance_km: 3.015
+      distance_percent: 52.8108
+    - slug: tatry_reglowe
+      name: Tatry Reglowe
+      code: "514.54"
+      distance_meters: 2694.36
+      distance_km: 2.694
+      distance_percent: 47.1892
+  macro_regions:
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15
+      distance_meters: 3015.34
+      distance_km: 3.015
+      distance_percent: 52.8108
+    - slug: lancuch_tatrzanski
+      name: Łańcuch Tatrzański
+      code: 514-15
+      distance_meters: 2694.36
+      distance_km: 2.694
+      distance_percent: 47.1892
+  touched_towns:
+    - slug: zakopane
+      name: Zakopane
+      code: "1217011"
+  touched_counties:
+    - slug: tatrzanski
+      name: tatrzański
+      code: "1217"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: bruzda_podtatrzanska
+      name: Bruzda Podtatrzańska
+      code: "514.14"
+    - slug: tatry_reglowe
+      name: Tatry Reglowe
+      code: "514.54"
+  touched_macro_regions:
+    - slug: lancuch_tatrzanski
+      name: Łańcuch Tatrzański
+      code: 514-15
+    - slug: obnizenie_orawsko-podhalanskie
+      name: Obniżenie Orawsko-Podhalańskie
+      code: 514-15

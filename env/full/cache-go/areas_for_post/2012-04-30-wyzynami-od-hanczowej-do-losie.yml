@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 20659.99
+  total_distance_km: 20.66
+  points_count: 308
+  towns:
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+      distance_meters: 13889.6
+      distance_km: 13.89
+      distance_percent: 67.2295
+    - slug: ropa
+      name: Ropa
+      code: "1205082"
+      distance_meters: 6770.38
+      distance_km: 6.77
+      distance_percent: 32.7705
+  counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+      distance_meters: 20659.99
+      distance_km: 20.66
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 20659.99
+      distance_km: 20.66
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 20659.99
+      distance_km: 20.66
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 20659.99
+      distance_km: 20.66
+      distance_percent: 100
+  touched_towns:
+    - slug: ropa
+      name: Ropa
+      code: "1205082"
+    - slug: uscie_gorlickie
+      name: Uście Gorlickie
+      code: "1205102"
+  touched_counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

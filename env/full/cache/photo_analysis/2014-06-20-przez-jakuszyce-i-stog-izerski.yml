@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP7380raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  ahash: fffff7c3c0000000
+  dhash: fb9f9f9797356555
+  phash: f8a08f4be9b58472
+  avg_rgb:
+  - 130
+  - 128
+  - 125
+  top5_rgb:
+  - - 72
+    - 78
+    - 11
+  - - 41
+    - 33
+    - 31
+  - - 255
+    - 255
+    - 255
+  - - 50
+    - 52
+    - 41
+  - - 58
+    - 58
+    - 56
+- image_filename: IMGP7383raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  ahash: ffffe1c100000000
+  dhash: fcdf9b951dcfc729
+  phash: e2e197165ee86325
+  avg_rgb:
+  - 97
+  - 102
+  - 102
+  top5_rgb:
+  - - 57
+    - 62
+    - 12
+  - - 86
+    - 76
+    - 56
+  - - 66
+    - 69
+    - 16
+  - - 44
+    - 41
+    - 37
+  - - 104
+    - 79
+    - 96
+- image_filename: header.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  ahash: ffffffc000000000
+  dhash: e6f40810d89881a0
+  phash: d1b78e02497ad5ca
+  avg_rgb:
+  - 140
+  - 154
+  - 145
+  top5_rgb:
+  - - 247
+    - 247
+    - 247
+  - - 84
+    - 94
+    - 20
+  - - 251
+    - 236
+    - 239
+  - - 124
+    - 122
+    - 28
+  - - 245
+    - 245
+    - 245

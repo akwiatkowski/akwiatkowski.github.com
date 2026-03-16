@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 91486.55
+  total_distance_km: 91.487
+  points_count: 383
+  towns:
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 18182.7
+      distance_km: 18.183
+      distance_percent: 19.8747
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+      distance_meters: 16808.88
+      distance_km: 16.809
+      distance_percent: 18.3731
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 16770.35
+      distance_km: 16.77
+      distance_percent: 18.331
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+      distance_meters: 14642.39
+      distance_km: 14.642
+      distance_percent: 16.005
+    - slug: gniezno
+      name: Gniezno
+      code: "3003032"
+      distance_meters: 13479.51
+      distance_km: 13.48
+      distance_percent: 14.7339
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+      distance_meters: 6109.29
+      distance_km: 6.109
+      distance_percent: 6.6778
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 5493.43
+      distance_km: 5.493
+      distance_percent: 6.0046
+  counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 51040.07
+      distance_km: 51.04
+      distance_percent: 55.7897
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 22263.78
+      distance_km: 22.264
+      distance_percent: 24.3356
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 18182.7
+      distance_km: 18.183
+      distance_percent: 19.8747
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 69222.77
+      distance_km: 69.223
+      distance_percent: 75.6644
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 22263.78
+      distance_km: 22.264
+      distance_percent: 24.3356
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 48461.95
+      distance_km: 48.462
+      distance_percent: 52.9717
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 28292.18
+      distance_km: 28.292
+      distance_percent: 30.925
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 14732.42
+      distance_km: 14.732
+      distance_percent: 16.1034
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 91486.55
+      distance_km: 91.487
+      distance_percent: 100
+  touched_towns:
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

@@ -1,0 +1,456 @@
+---
+- type: train
+  total_distance_meters: 343611.6
+  total_distance_km: 343.612
+  points_count: 343
+  towns:
+    - slug: zary
+      name: Żary
+      code: "0811102"
+      distance_meters: 75289.46
+      distance_km: 75.289
+      distance_percent: 21.9112
+    - slug: swidnica
+      name: Świdnica
+      code: "0809072"
+      distance_meters: 32412.42
+      distance_km: 32.412
+      distance_percent: 9.4329
+    - slug: zagan
+      name: Żagań
+      code: "0810021"
+      distance_meters: 25433.67
+      distance_km: 25.434
+      distance_percent: 7.4019
+    - slug: zary
+      name: Żary
+      code: "0811021"
+      distance_meters: 25304.93
+      distance_km: 25.305
+      distance_percent: 7.3644
+    - slug: szprotawa
+      name: Szprotawa
+      code: "0810073"
+      distance_meters: 23174.57
+      distance_km: 23.175
+      distance_percent: 6.7444
+    - slug: nowogrod_bobrzanski
+      name: Nowogród Bobrzański
+      code: "0809053"
+      distance_meters: 22133.59
+      distance_km: 22.134
+      distance_percent: 6.4415
+    - slug: sulechow
+      name: Sulechów
+      code: "0809063"
+      distance_meters: 19227.59
+      distance_km: 19.228
+      distance_percent: 5.5957
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+      distance_meters: 16508.01
+      distance_km: 16.508
+      distance_percent: 4.8043
+    - slug: nowy_tomysl
+      name: Nowy Tomyśl
+      code: "3015043"
+      distance_meters: 15591.53
+      distance_km: 15.592
+      distance_percent: 4.5375
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+      distance_meters: 14281.59
+      distance_km: 14.282
+      distance_percent: 4.1563
+    - slug: zagan
+      name: Żagań
+      code: "0810092"
+      distance_meters: 13261.95
+      distance_km: 13.262
+      distance_percent: 3.8596
+    - slug: zielona_gora
+      name: Zielona Góra
+      code: "0862011"
+      distance_meters: 13079.54
+      distance_km: 13.08
+      distance_percent: 3.8065
+    - slug: babimost
+      name: Babimost
+      code: "0809013"
+      distance_meters: 11980.17
+      distance_km: 11.98
+      distance_percent: 3.4865
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+      distance_meters: 10380.24
+      distance_km: 10.38
+      distance_percent: 3.0209
+    - slug: czerwiensk
+      name: Czerwieńsk
+      code: "0809033"
+      distance_meters: 8682.19
+      distance_km: 8.682
+      distance_percent: 2.5267
+    - slug: niegoslawice
+      name: Niegosławice
+      code: "0810062"
+      distance_meters: 8340.21
+      distance_km: 8.34
+      distance_percent: 2.4272
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 7897.73
+      distance_km: 7.898
+      distance_percent: 2.2984
+    - slug: zbaszynek
+      name: Zbąszynek
+      code: "0808063"
+      distance_meters: 7056
+      distance_km: 7.056
+      distance_percent: 2.0535
+    - slug: malomice
+      name: Małomice
+      code: "0810053"
+      distance_meters: 6893.65
+      distance_km: 6.894
+      distance_percent: 2.0062
+    - slug: buk
+      name: Buk
+      code: "3021033"
+      distance_meters: 6146.92
+      distance_km: 6.147
+      distance_percent: 1.7889
+    - slug: komorniki
+      name: Komorniki
+      code: "3021072"
+      distance_meters: 3749.85
+      distance_km: 3.75
+      distance_percent: 1.0913
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+      distance_meters: 2007.46
+      distance_km: 2.007
+      distance_percent: 0.5842
+    - slug: ilowa
+      name: Iłowa
+      code: "0810043"
+      distance_meters: 83.27
+      distance_km: 0.083
+      distance_percent: 0.0242
+  counties:
+    - slug: zielonogorski
+      name: zielonogórski
+      code: "0809"
+      distance_meters: 94435.97
+      distance_km: 94.436
+      distance_percent: 27.4833
+    - slug: zaganski
+      name: żagański
+      code: "0810"
+      distance_meters: 77187.32
+      distance_km: 77.187
+      distance_percent: 22.4635
+    - slug: zarski
+      name: żarski
+      code: "0811"
+      distance_meters: 75289.46
+      distance_km: 75.289
+      distance_percent: 21.9112
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 46381.12
+      distance_km: 46.381
+      distance_percent: 13.4981
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 30182.2
+      distance_km: 30.182
+      distance_percent: 8.7838
+    - slug: zielona_gora
+      name: Zielona Góra
+      code: "0862"
+      distance_meters: 13079.54
+      distance_km: 13.08
+      distance_percent: 3.8065
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 7897.73
+      distance_km: 7.898
+      distance_percent: 2.2984
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+      distance_meters: 7056
+      distance_km: 7.056
+      distance_percent: 2.0535
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 267048.28
+      distance_km: 267.048
+      distance_percent: 77.7181
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 76563.32
+      distance_km: 76.563
+      distance_percent: 22.2819
+  meso_regions:
+    - slug: wzniesienia_zarskie
+      name: Wzniesienia Żarskie
+      code: "318.41"
+      distance_meters: 60683.55
+      distance_km: 60.684
+      distance_percent: 17.6605
+    - slug: wzgorza_dalkowskie
+      name: Wzgórza Dalkowskie
+      code: "318.42"
+      distance_meters: 49979.83
+      distance_km: 49.98
+      distance_percent: 14.5454
+    - slug: dolina_srodkowego_bobru
+      name: Dolina Środkowego Bobru
+      code: "318.47"
+      distance_meters: 48644.77
+      distance_km: 48.645
+      distance_percent: 14.1569
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 44914.04
+      distance_km: 44.914
+      distance_percent: 13.0712
+    - slug: obnizenie_nowosolskie
+      name: Obniżenie Nowosolskie
+      code: "318.31"
+      distance_meters: 24526.23
+      distance_km: 24.526
+      distance_percent: 7.1378
+    - slug: wal_zielonogorski
+      name: Wał Zielonogórski
+      code: "315.74"
+      distance_meters: 23052.85
+      distance_km: 23.053
+      distance_percent: 6.709
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 22374.51
+      distance_km: 22.375
+      distance_percent: 6.5116
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+      distance_meters: 21350.65
+      distance_km: 21.351
+      distance_percent: 6.2136
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 18567.58
+      distance_km: 18.568
+      distance_percent: 5.4037
+    - slug: wysoczyzna_czerwienska
+      name: Wysoczyzna Czerwieńska
+      code: "315.73"
+      distance_meters: 16847.62
+      distance_km: 16.848
+      distance_percent: 4.9031
+    - slug: dolina_srodkowej_odry
+      name: Dolina Środkowej Odry
+      code: "315.61"
+      distance_meters: 6715.54
+      distance_km: 6.716
+      distance_percent: 1.9544
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 5954.43
+      distance_km: 5.954
+      distance_percent: 1.7329
+  macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 159308.15
+      distance_km: 159.308
+      distance_percent: 46.3629
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 72219.12
+      distance_km: 72.219
+      distance_percent: 21.0177
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 40942.09
+      distance_km: 40.942
+      distance_percent: 11.9152
+    - slug: wzniesienia_zielonogorskie
+      name: Wzniesienia Zielonogórskie
+      code: 314-316
+      distance_meters: 39900.47
+      distance_km: 39.9
+      distance_percent: 11.6121
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 24526.23
+      distance_km: 24.526
+      distance_percent: 7.1378
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 6715.54
+      distance_km: 6.716
+      distance_percent: 1.9544
+  touched_towns:
+    - slug: babimost
+      name: Babimost
+      code: "0809013"
+    - slug: czerwiensk
+      name: Czerwieńsk
+      code: "0809033"
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+    - slug: malomice
+      name: Małomice
+      code: "0810053"
+    - slug: niegoslawice
+      name: Niegosławice
+      code: "0810062"
+    - slug: nowogrod_bobrzanski
+      name: Nowogród Bobrzański
+      code: "0809053"
+    - slug: nowy_tomysl
+      name: Nowy Tomyśl
+      code: "3015043"
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: sulechow
+      name: Sulechów
+      code: "0809063"
+    - slug: swidnica
+      name: Świdnica
+      code: "0809072"
+    - slug: szprotawa
+      name: Szprotawa
+      code: "0810073"
+    - slug: zagan
+      name: Żagań
+      code: "0810021"
+    - slug: zary
+      name: Żary
+      code: "0811102"
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+    - slug: zbaszynek
+      name: Zbąszynek
+      code: "0808063"
+    - slug: zielona_gora
+      name: Zielona Góra
+      code: "0862011"
+  touched_counties:
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+    - slug: zaganski
+      name: żagański
+      code: "0810"
+    - slug: zarski
+      name: żarski
+      code: "0811"
+    - slug: zielona_gora
+      name: Zielona Góra
+      code: "0862"
+    - slug: zielonogorski
+      name: zielonogórski
+      code: "0809"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+    - slug: dolina_srodkowego_bobru
+      name: Dolina Środkowego Bobru
+      code: "318.47"
+    - slug: dolina_srodkowej_odry
+      name: Dolina Środkowej Odry
+      code: "315.61"
+    - slug: obnizenie_nowosolskie
+      name: Obniżenie Nowosolskie
+      code: "318.31"
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+    - slug: wal_zielonogorski
+      name: Wał Zielonogórski
+      code: "315.74"
+    - slug: wysoczyzna_czerwienska
+      name: Wysoczyzna Czerwieńska
+      code: "315.73"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+    - slug: wzgorza_dalkowskie
+      name: Wzgórza Dalkowskie
+      code: "318.42"
+    - slug: wzniesienia_zarskie
+      name: Wzniesienia Żarskie
+      code: "318.41"
+  touched_macro_regions:
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+    - slug: wzniesienia_zielonogorskie
+      name: Wzniesienia Zielonogórskie
+      code: 314-316
