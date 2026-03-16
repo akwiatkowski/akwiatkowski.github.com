@@ -22,7 +22,31 @@ func shellPage(
 	pageJS string,
 	content templ.Component,
 ) Renderable {
+	return shellPageMultiJS(data, rtr, resolver, url, title, bundles, pageAssets,
+		[]string{pageJS}, content)
+}
+
+// shellPageMultiJS creates a shell page with multiple page-specific JS files.
+// The JS files are loaded in order via defer attributes.
+func shellPageMultiJS(
+	data *index.SiteData,
+	rtr *router.Router,
+	resolver *bundle.Resolver,
+	url, title string,
+	bundles []string,
+	pageAssets []string,
+	pageJSFiles []string,
+	content templ.Component,
+) Renderable {
 	cssFiles, jsFiles := resolveAssets(resolver, bundles, pageAssets)
+
+	// Append page-specific JS files to the bundle JS list.
+	// They load after bundle JS but before DOMContentLoaded (all use defer).
+	for _, js := range pageJSFiles {
+		if js != "" {
+			jsFiles = append(jsFiles, bundle.AssetFile{Path: js})
+		}
+	}
 
 	page := layout.PageData{
 		Title:        title,
@@ -31,7 +55,6 @@ func shellPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJS:       pageJS,
 		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
@@ -73,11 +96,12 @@ func TimelinePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Res
 
 // ExifStatsPage creates the EXIF statistics page with Chart.js charts.
 // The JS (exif_stats.js) expects 21+ <canvas> elements and filter controls.
+// focal_heatmap.js provides the canvas-based heatmap for the focal length chart.
 func ExifStatsPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolver) Renderable {
-	return shellPage(data, rtr, resolver,
+	return shellPageMultiJS(data, rtr, resolver,
 		rtr.ExifStatsURL(), "Statystyki EXIF",
 		[]string{"core", "chartjs"}, []string{"exif_stats"},
-		"/js/self/exif_stats.js",
+		[]string{"/js/self/focal_heatmap.js", "/js/self/exif_stats.js"},
 		views.ShellExifStatsContent(),
 	)
 }

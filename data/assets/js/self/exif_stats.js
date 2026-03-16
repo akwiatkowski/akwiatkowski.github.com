@@ -288,6 +288,7 @@ function dateToDecimal(dateStr) {
 function destroyAllCharts() {
     Object.keys(charts).forEach(function(k) { charts[k].destroy(); });
     charts = {};
+    if (window.FocalHeatmap) FocalHeatmap.destroy('wideTeleChart');
 }
 
 function topN(obj, n) {
@@ -635,43 +636,14 @@ function renderFocalChart(stats) {
 }
 
 function renderWideTeleChart() {
-    var bands = {'<24mm': 0, '24-35mm': 0, '35-70mm': 0, '70-200mm': 0, '>200mm': 0};
-    var byYear = {};
-    filteredPhotos.forEach(function(p) {
-        var f = p['exif.focal_35mm'], t = p['exif.time'];
-        if (!f || !t) return;
-        var y = new Date(t).getFullYear();
-        if (!byYear[y]) byYear[y] = {'<24mm':0,'24-35mm':0,'35-70mm':0,'70-200mm':0,'>200mm':0, total:0};
-        byYear[y].total++;
-        if (f < 24) byYear[y]['<24mm']++;
-        else if (f < 35) byYear[y]['24-35mm']++;
-        else if (f < 70) byYear[y]['35-70mm']++;
-        else if (f < 200) byYear[y]['70-200mm']++;
-        else byYear[y]['>200mm']++;
-    });
-
-    var years = Object.keys(byYear).sort();
-    var bandNames = Object.keys(bands);
-    var bandColors = [COLORS.cyan, COLORS.blue, COLORS.green, COLORS.amber, COLORS.red];
-
-    charts.wideTele = new Chart(document.getElementById('wideTeleChart'), {
-        type: 'bar',
-        data: {
-            labels: years,
-            datasets: bandNames.map(function(band, i) {
-                return {
-                    label: band,
-                    data: years.map(function(y){return byYear[y].total > 0 ? Math.round(byYear[y][band]/byYear[y].total*100) : 0;}),
-                    backgroundColor: bandColors[i]
-                };
-            })
-        },
-        options: {
-            responsive: true, maintainAspectRatio: true,
-            plugins: {legend: {position: 'top', labels: {boxWidth: 12, font: {size: 11}}}},
-            scales: {x: {stacked: true}, y: {stacked: true, max: 100, ticks: {callback: function(v){return v+'%';}}}}
-        }
-    });
+    // Delegate to FocalHeatmap service (focal_heatmap.js).
+    // Renders a smooth gradient heatmap: X=months, Y=focal lengths, color=intensity.
+    if (window.FocalHeatmap) {
+        FocalHeatmap.destroy('wideTeleChart');
+        FocalHeatmap.create('wideTeleChart', filteredPhotos, {
+            smoothX: 2, smoothY: 1, normalize: true, height: 300
+        });
+    }
 }
 
 function renderZoomSweetSpots() {
