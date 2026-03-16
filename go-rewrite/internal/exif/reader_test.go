@@ -161,6 +161,64 @@ func TestReadExifNewFields(t *testing.T) {
 	t.Skip("no images readable")
 }
 
+func TestKnownCropFactor(t *testing.T) {
+	tests := []struct {
+		camera   string
+		wantCrop float64
+		wantOK   bool
+	}{
+		// Exact matches from dictionary
+		{"E-M1MarkII", 2.0, true},
+		{"OM-1", 2.0, true},
+		{"ILCE-7M3", 1.0, true},
+		{"PENTAX K-5", 1.5, true},
+		// Prefix-based fallbacks
+		{"E-M5MarkIII", 2.0, true},  // Olympus prefix
+		{"OM-5", 2.0, true},         // OM System prefix
+		{"ILCE-6400", 1.0, true},    // Sony prefix (assumes full frame)
+		{"PENTAX K-3", 1.5, true},   // Pentax prefix
+		// Unknown cameras
+		{"Nikon Z5", 0, false},
+		{"", 0, false},
+	}
+	for _, tt := range tests {
+		crop, ok := knownCropFactor(tt.camera)
+		if ok != tt.wantOK {
+			t.Errorf("knownCropFactor(%q): ok=%v, want %v", tt.camera, ok, tt.wantOK)
+		}
+		if crop != tt.wantCrop {
+			t.Errorf("knownCropFactor(%q): crop=%v, want %v", tt.camera, crop, tt.wantCrop)
+		}
+	}
+}
+
+func TestFocalLength35Fallback(t *testing.T) {
+	// Simulate reading EXIF from an Olympus camera that doesn't write FocalLengthIn35mmFilm.
+	// With FocalLength=12mm and crop=2.0, FocalLength35 should be 24mm.
+	images := findTestImages(t)
+	for _, imgPath := range images {
+		data, err := ReadExif(imgPath)
+		if err != nil {
+			continue
+		}
+		if data.FocalLength != nil && data.Camera != "" {
+			if _, ok := knownCropFactor(data.Camera); ok {
+				// This camera has a known crop factor — FocalLength35 should always be set
+				if data.FocalLength35 == nil {
+					t.Errorf("%s: camera=%s focal_length=%.1f but focal_length_35 is nil",
+						filepath.Base(imgPath), data.Camera, *data.FocalLength)
+				} else {
+					t.Logf("%s: camera=%s focal=%.0fmm focal_35=%.0fmm crop=%.1f",
+						filepath.Base(imgPath), data.Camera,
+						*data.FocalLength, *data.FocalLength35, *data.Crop)
+				}
+				return // one image is enough
+			}
+		}
+	}
+	t.Skip("no test images with known camera crop factor")
+}
+
 func TestCleanEquipmentName(t *testing.T) {
 	tests := []struct {
 		input, want string

@@ -52,7 +52,7 @@ func TestPortfolioPageRender(t *testing.T) {
 	}
 	data := index.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, nil,
+		nil, nil, nil,
 	)
 	rtr := router.New("https://example.com")
 

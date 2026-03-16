@@ -53,7 +53,7 @@ func testSiteDataForPOIs() *index.SiteData {
 	}
 
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, stations)
+	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, stations, nil)
 }
 
 func TestPOIsPageURL(t *testing.T) {

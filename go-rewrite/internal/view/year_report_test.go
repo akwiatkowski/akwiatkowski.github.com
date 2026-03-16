@@ -59,7 +59,7 @@ func testSiteDataForYearReport() *index.SiteData {
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
 
-	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil)
+	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestYearReportPageURL(t *testing.T) {

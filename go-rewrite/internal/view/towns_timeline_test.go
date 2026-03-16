@@ -46,7 +46,7 @@ func testSiteDataForTownsTimeline() *index.SiteData {
 		{Slug: "swarzedz", Name: "Swarzędz", Type: model.AreaTypeTown},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil)
+	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestTownsTimelinePageURL(t *testing.T) {

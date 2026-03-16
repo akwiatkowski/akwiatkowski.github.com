@@ -304,13 +304,13 @@ func TestJSONFormat_Map(t *testing.T) {
 	}
 	assertFieldsExist(t, "map.json posts[0]", posts[0], postFields)
 
-	// Coords structure — Go uses {type, coords: [[lat,lon],...]}
-	// Crystal uses PostRouteObject raw serialization
+	// Coords structure — Go uses {type, route: [[lat,lon],...]}
+	// Crystal uses PostRouteObject with "type" and "route" fields
 	var coords []map[string]json.RawMessage
 	if err := json.Unmarshal(posts[0]["coords"], &coords); err == nil && len(coords) > 0 {
 		assertFieldsExist(t, "map.json posts[0].coords[0]", coords[0], []string{
-			"type",   // String: route type (e.g. "hike", "bicycle")
-			"coords", // Array of [lat, lon] pairs
+			"type",  // String: route type (e.g. "hike", "bicycle")
+			"route", // Array of [lat, lon] pairs
 		})
 	}
 }
@@ -412,31 +412,23 @@ func TestJSONFormat_PhotosMap(t *testing.T) {
 		t.Fatal("photos_map.json: photos array is empty")
 	}
 
-	// Current Go fields (minimal):
+	// Go fields matching Crystal's photos_map format:
 	goFields := []string{
-		"lat",       // Float64
-		"lon",       // Float64
-		"post_slug", // String
-		"filename",  // String
-		"desc",      // String
+		"desc",          // String: photo description
+		"full_url",      // String: full-size image URL
+		"article_url",   // String: article-size JPEG
+		"article_url_avif", // String: article-size AVIF
+		"grid_url",      // String: grid-size JPEG
+		"grid_url_avif", // String: grid-size AVIF
+		"thumbnail_url", // String: thumbnail JPEG
+		"post_slug",     // String: parent post slug
+		"post_url",      // String: parent post URL
+		"points",        // Int: quality score
+		"tags",          // []String: photo tag slugs
+		"exif.lat",      // Float64: GPS latitude
+		"exif.lon",      // Float64: GPS longitude
 	}
 	assertFieldsExist(t, "photos_map.json photos[0] (Go)", photos[0], goFields)
-
-	// Crystal has these additional fields — TODO add to Go:
-	// "full_url"          — String: full-size image URL
-	// "article_url"       — String: article-size JPEG
-	// "article_url_avif"  — String: article-size AVIF
-	// "grid_url"          — String: grid-size JPEG
-	// "grid_url_avif"     — String: grid-size AVIF
-	// "thumbnail_url"     — String: thumbnail JPEG
-	// "time"              — String: timestamp
-	// "post_url"          — String: parent post URL
-	// "points"            — Int: quality score
-	// "tags"              — []String: photo tag slugs
-	// "exif.altitude"     — Float64?
-	// "exif.time"         — String?
-	// "exif.camera_name"  — String?
-	// "exif.lens_name"    — String?
 }
 
 // ---------------------------------------------------------------------------
@@ -803,27 +795,30 @@ func TestJSONFormat_PostGallery(t *testing.T) {
 	html := fetchPage(t, ts.URL+galleryURL)
 	jsonBytes := extractInlineJSON(t, html, "gallery-config")
 
-	// Go format: array of photo objects
-	var photos []map[string]json.RawMessage
-	if err := json.Unmarshal(jsonBytes, &photos); err != nil {
+	// Go format: {galleryName: string, items: [...photos]}
+	var wrapper struct {
+		GalleryName string                       `json:"galleryName"`
+		Items       []map[string]json.RawMessage `json:"items"`
+	}
+	if err := json.Unmarshal(jsonBytes, &wrapper); err != nil {
 		t.Fatalf("failed to parse gallery-config: %v", err)
 	}
+	photos := wrapper.Items
 	if len(photos) == 0 {
 		t.Fatal("gallery-config: photos array is empty")
 	}
 
-	// Go fields:
+	// Go gallery items use dot-notation field names matching Crystal's format:
 	goFields := []string{
-		"jpeg",      // String: article-size JPEG URL
-		"avif",      // String: article-size AVIF URL
-		"grid_jpeg", // String: grid-size JPEG URL
-		"grid_avif", // String: grid-size AVIF URL
-		"caption",   // String: photo description
+		"img.src",           // String: article-size JPEG URL
+		"img.src.avif",      // String: article-size AVIF URL
+		"img.grid_src",      // String: grid-size JPEG URL
+		"img.grid_src.avif", // String: grid-size AVIF URL
+		"img.alt",           // String: photo description
+		"img.title",         // String: photo title
+		"post.url",          // String: parent post URL
 	}
 	assertFieldsExist(t, "gallery-config photos[0] (Go)", photos[0], goFields)
-
-	// Optional Go field: "exif" — String (human-readable EXIF summary)
-	// Crystal has many separate EXIF fields instead (img.camera, img.lens, etc.)
 }
 
 // ---------------------------------------------------------------------------

@@ -55,7 +55,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 
 	return index.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, stations,
+		nil, stations, nil,
 	)
 }
 
@@ -186,9 +186,10 @@ func TestPhotoGridJSON(t *testing.T) {
 }
 
 func TestIdeasJSON(t *testing.T) {
+	data := testSiteDataWithPhotos()
 	rtr := router.New("https://example.com")
 
-	endpoint := IdeasJSON(rtr)
+	endpoint := IdeasJSON(data, rtr)
 	if endpoint.URL() != "/jsons/ideas.json" {
 		t.Errorf("URL() = %q", endpoint.URL())
 	}

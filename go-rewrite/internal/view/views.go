@@ -88,7 +88,7 @@ func GenerateAllViews(
 		PhotosMapJSON(data, r),
 		TrainStationsJSON(data, r),
 		PhotoGridJSON(data, r),
-		IdeasJSON(r),
+		IdeasJSON(data, r),
 	)
 
 	// Generated JS

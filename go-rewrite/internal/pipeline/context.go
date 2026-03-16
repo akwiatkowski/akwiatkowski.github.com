@@ -55,6 +55,11 @@ func (c *Context) RoutesDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "data", "routes")
 }
 
+// IdeasDir returns the path to trip ideas data files.
+func (c *Context) IdeasDir() string {
+	return filepath.Join(c.BasePath, "env", c.Env, "data", "ideas")
+}
+
 // CacheDir returns the path to the Go-specific cache directory.
 func (c *Context) CacheDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "cache-go")

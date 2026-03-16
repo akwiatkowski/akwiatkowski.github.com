@@ -65,7 +65,7 @@ func makeAreas() []*model.Area {
 func buildTestSiteData() *SiteData {
 	return BuildSiteData(
 		makePosts(), makeTags(), nil, makeAreas(),
-		model.SiteConfig{Title: "Test"}, nil, nil,
+		model.SiteConfig{Title: "Test"}, nil, nil, nil,
 	)
 }
 

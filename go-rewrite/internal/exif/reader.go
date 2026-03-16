@@ -33,6 +33,13 @@ func ReadExif(imagePath string) (*model.ExifData, error) {
 	data.Lat, data.Lon = extractGPS(tagMap)
 	data.Altitude = getFirstRational(tagMap, "IFD/GPSInfo", "GPSAltitude")
 
+	// Equipment — read early so camera model is available for crop factor lookup
+	data.Camera = getStringVal(tagMap, "IFD", "Model")
+	data.CameraName = cleanEquipmentName(data.Camera)
+	data.Make = getStringVal(tagMap, "IFD", "Make")
+	data.Lens = getStringVal(tagMap, "IFD/Exif", "LensModel")
+	data.LensName = cleanEquipmentName(data.Lens)
+
 	// Focal length
 	data.FocalLength = getFirstRational(tagMap, "IFD/Exif", "FocalLength")
 	if v := getFirstShort(tagMap, "IFD/Exif", "FocalLengthIn35mmFilm"); v != nil {
@@ -40,11 +47,20 @@ func ReadExif(imagePath string) (*model.ExifData, error) {
 		data.FocalLength35 = &f
 	}
 
-	// Crop factor
+	// Crop factor: compute from FocalLength35/FocalLength if both are available,
+	// otherwise look up the known crop factor for this camera model.
 	if data.FocalLength != nil && data.FocalLength35 != nil && *data.FocalLength > 0 {
 		crop := *data.FocalLength35 / *data.FocalLength
 		crop = math.Round(crop*10) / 10
 		data.Crop = &crop
+	} else if data.FocalLength35 == nil && data.FocalLength != nil && *data.FocalLength > 0 {
+		// FocalLengthIn35mmFilm tag missing — compute from known sensor crop factor.
+		// Many cameras (OM System, newer Olympus) don't write this tag.
+		if crop, ok := knownCropFactor(data.Camera); ok {
+			fl35 := math.Round(*data.FocalLength * crop)
+			data.FocalLength35 = &fl35
+			data.Crop = &crop
+		}
 	}
 
 	// Aperture
@@ -68,13 +84,6 @@ func ReadExif(imagePath string) (*model.ExifData, error) {
 	if data.Height == nil {
 		data.Height = getFirstLong(tagMap, "IFD", "ImageLength")
 	}
-
-	// Equipment
-	data.Camera = getStringVal(tagMap, "IFD", "Model")
-	data.CameraName = cleanEquipmentName(data.Camera)
-	data.Make = getStringVal(tagMap, "IFD", "Make")
-	data.Lens = getStringVal(tagMap, "IFD/Exif", "LensModel")
-	data.LensName = cleanEquipmentName(data.Lens)
 
 	// Time — combine DateTimeOriginal with OffsetTimeOriginal for timezone-aware timestamps.
 	// OffsetTimeOriginal (e.g., "+01:00") is stored separately for golden hour detection.
@@ -440,6 +449,65 @@ func formatExposure(exp float64) string {
 	}
 	reciprocal := 1 / exp
 	return fmt.Sprintf("1/%d s", int(math.Round(reciprocal)))
+}
+
+// knownCropFactor returns the sensor crop factor for a recognized camera model.
+// Used to compute FocalLength35 = FocalLength × CropFactor when the camera
+// doesn't write the FocalLengthIn35mmFilm EXIF tag.
+//
+// Crop factors by sensor size:
+//   - Full frame (36×24mm): 1.0 — Sony A7 series
+//   - APS-C (23.5×15.6mm): 1.5 — Pentax, Sony APS-C, Nikon DX
+//   - Micro Four Thirds (17.3×13mm): 2.0 — Olympus, OM System, Panasonic
+//   - 1/2.3" (6.17×4.55mm): 5.64 — GoPro, DJI Spark
+func knownCropFactor(cameraModel string) (float64, bool) {
+	cameraModel = strings.TrimSpace(cameraModel)
+	if cameraModel == "" {
+		return 0, false
+	}
+
+	// Exact match first — covers models in our camera dictionary
+	if crop, ok := cameraCropFactors[cameraModel]; ok {
+		return crop, true
+	}
+
+	// Prefix-based fallback for camera families
+	upper := strings.ToUpper(cameraModel)
+	switch {
+	case strings.HasPrefix(upper, "E-M") || strings.HasPrefix(upper, "OM-"):
+		return 2.0, true // Olympus / OM System — Micro Four Thirds
+	case strings.HasPrefix(upper, "ILCE-"):
+		return 1.0, true // Sony mirrorless — assume full frame
+	case strings.HasPrefix(upper, "PENTAX"):
+		return 1.5, true // Pentax APS-C
+	}
+
+	return 0, false
+}
+
+// cameraCropFactors maps specific camera models to their sensor crop factor.
+// Only needed for cameras that don't write FocalLengthIn35mmFilm.
+var cameraCropFactors = map[string]float64{
+	// Micro Four Thirds (crop 2.0)
+	"E-M1MarkII":   2.0,
+	"E-M1MarkIII":  2.0,
+	"E-M10MarkII":  2.0,
+	"OM-1":         2.0,
+	// Full frame (crop 1.0)
+	"ILCE-7M3":  1.0,
+	"ILCE-7R":   1.0,
+	"ILCE-7RM3": 1.0,
+	// APS-C (crop 1.5)
+	"PENTAX K-S2":  1.5,
+	"PENTAX K100D": 1.53, // Pentax K100D has a slightly larger APS-C sensor
+	"PENTAX K-5":   1.5,
+	// DJI drones — each has a specific sensor
+	"FC1102":  1.0, // DJI Spark — already reports 35mm equiv in EXIF
+	"FC3582":  1.0, // DJI Mini 3 Pro — already reports 35mm equiv
+	"L2D-20c": 1.0, // DJI Mavic 3 — already reports 35mm equiv
+	"FC4170":  1.0, // DJI Mavic 3 tele — already reports 35mm equiv
+	// GoPro — very small sensor
+	"Hero3-Black Edition": 5.64, // 1/2.3" sensor
 }
 
 // cleanEquipmentName strips manufacturer prefixes and extra whitespace.

@@ -68,7 +68,7 @@ func TestMorePageURL(t *testing.T) {
 func TestMorePageRender(t *testing.T) {
 	data := index.BuildSiteData(nil, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, nil,
+		nil, nil, nil,
 	)
 	rtr := router.New("https://example.com")
 

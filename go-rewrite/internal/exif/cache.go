@@ -3,6 +3,7 @@ package exif
 import (
 	"fmt"
 	"log/slog"
+	"math"
 	"os"
 	"path/filepath"
 	"strings"
@@ -51,15 +52,15 @@ var lensNames = map[string]string{
 	"OLYMPUS M.40-150mm F2.8":                       "Olympus 40-150mm f2.8",
 	"OLYMPUS M.9-18mm F4.0-5.6":                     "Olympus 9-18mm",
 	"OLYMPUS M.60mm F2.8 Macro":                     "Olympus 60mm Macro",
-	"smc PENTAX-DA 16-45mm F4 ED AL":                "Pentax DA 16-45mm f4",
-	"smc PENTAX-DA 15mm F4 ED AL Limited":           "Pentax Limited 15mm f4",
+	"smc PENTAX-DA 16-45mm F4 ED AL":                "Pentax 16-45mm f4",
+	"smc PENTAX-DA 15mm F4 ED AL Limited":           "Pentax 15mm f4",
 	"OLYMPUS M.75-300mm F4.8-6.7 II":                "Olympus 75-300mm",
 	"Sigma 150-500mm F5-6.3 APO DG OS HSM":          "Sigma 150-500mm",
-	"smc PENTAX-FA Macro 50mm F2.8":                 "Pentax FA 50mm Macro",
+	"smc PENTAX-FA Macro 50mm F2.8":                 "Pentax 50mm Macro",
 	"OLYMPUS M.25mm F1.2":                           "Olympus 25mm f1.2",
-	"smc PENTAX-DA 70mm F2.4 Limited":               "Pentax Limited 70mm f2.4",
-	"smc PENTAX-DA 40mm F2.8 Limited":               "Pentax Limited 40mm f2.8",
-	"smc PENTAX-DA 35mm F2.4 AL":                    "Pentax DA 35mm f2.4",
+	"smc PENTAX-DA 70mm F2.4 Limited":               "Pentax 70mm f2.4",
+	"smc PENTAX-DA 40mm F2.8 Limited":               "Pentax 40mm f2.8",
+	"smc PENTAX-DA 35mm F2.4 AL":                    "Pentax 35mm f2.4",
 	"OLYMPUS M.17mm F1.2":                           "Olympus 17mm f1.2",
 	"LEICA DG SUMMILUX 25/F1.4":                     "Lumix 25mm f1.4",
 	"Sigma Lens":                                    "Nieznane",
@@ -71,15 +72,15 @@ var lensNames = map[string]string{
 	"105mm F1.4 DG HSM | Art 018":                   "Sigma 105mm f1.4",
 	"OLYMPUS M.14-42mm F3.5-5.6 EZ":                 "Olympus 14-42mm Kit",
 	"OLYMPUS M.14-42mm F3.5-5.6 II R":               "Olympus 14-42mm Kit",
-	"Sigma 17-50/2.8":                               "Sigma 17-50mm/2.8",
+	"Sigma 17-50/2.8":                               "Sigma 17-50mm f2.8",
 	"Sigma 10-20":                                   "Sigma 10-20mm",
-	"Pentax FA 50mm Macro":                          "Pentax FA 50mm F2.8",
+	"Pentax FA 50mm Macro":                          "Pentax 50mm f2.8",
 	"Ports 55/1.2":                                  "Ports 55mm f1.2",
 	"Sigma 18-200 old":                              "Sigma 18-200mm (old)",
 	"Sigma 18-200 C":                                "Sigma 18-200mm C",
 	"FE 70-200mm F2.8 GM OSS":                       "Sony GM 70-200mm f2.8",
 	"----":                                          "Nieznane",
-	"Pentax SMC-A 135/2.8":                          "Pentax A 135mm f2.8",
+	"Pentax SMC-A 135/2.8":                          "Pentax 135mm f2.8",
 	"M.300mm F4.0 + MC-14":                          "Olympus 300mm f4 + TC 1.4x",
 	"M.300mm F4.0 + MC-20":                          "Olympus 300mm f4 + TC 2.0x",
 	"OLYMPUS M.300mm F4.0":                          "Olympus 300mm f4",
@@ -378,15 +379,26 @@ func cacheEntryFromExif(imageFilename, postSlug string, d *model.ExifData) cache
 }
 
 func (e *cacheEntry) toExifData() *model.ExifData {
-	// Resolve human-readable names from raw EXIF strings.
-	// If the cache already has friendly names, use them; otherwise map from raw values.
-	cameraName := e.CameraName
-	if cameraName == "" {
-		cameraName = resolveCameraName(e.Camera)
+	// Always resolve human-readable names from the dictionary using raw EXIF strings.
+	// The dictionary takes precedence; if not found, fall back to the cleaned name.
+	cameraName := resolveCameraName(e.Camera)
+	if cameraName == e.Camera && e.CameraName != "" {
+		// Not in dictionary — use the cleaned name from the cache
+		cameraName = e.CameraName
 	}
-	lensName := e.LensName
-	if lensName == "" {
-		lensName = resolveLensName(e.Lens)
+	// Resolve lens name: dictionary lookup → cleaned name → focal-length inference.
+	// Pentax cameras don't write LensModel in standard EXIF (only in MakerNotes),
+	// so we infer the lens from (camera, focal_length) when the field is empty.
+	rawLens := e.Lens
+	if rawLens == "" && e.FocalLength != nil && e.Camera != "" {
+		if inferred, ok := InferLensName(e.Camera, *e.FocalLength); ok {
+			rawLens = inferred
+		}
+	}
+	lensName := resolveLensName(rawLens)
+	if lensName == rawLens && e.LensName != "" {
+		// Not in dictionary — use the cleaned name from the cache
+		lensName = e.LensName
 	}
 
 	d := &model.ExifData{
@@ -403,7 +415,7 @@ func (e *cacheEntry) toExifData() *model.ExifData {
 		ISO:            e.ISO,
 		Width:          e.Width,
 		Height:         e.Height,
-		Lens:           e.Lens,
+		Lens:           rawLens,
 		Camera:         e.Camera,
 		LensName:       lensName,
 		CameraName:     cameraName,
@@ -431,6 +443,17 @@ func (e *cacheEntry) toExifData() *model.ExifData {
 			d.Time = &t
 		}
 	}
+
+	// Compute FocalLength35 from FocalLength × CropFactor if the EXIF tag was missing.
+	// This covers cameras that don't write FocalLengthIn35mmFilm (OM System, newer Olympus).
+	if d.FocalLength35 == nil && d.FocalLength != nil && *d.FocalLength > 0 {
+		if crop, ok := knownCropFactor(d.Camera); ok {
+			fl35 := math.Round(*d.FocalLength * crop)
+			d.FocalLength35 = &fl35
+			d.Crop = &crop
+		}
+	}
+
 	return d
 }
 

@@ -91,6 +91,7 @@ func runBuild(ctx *pipeline.Context) {
 		photoTags   []model.PhotoTag
 		routeColors map[string]model.RouteColor
 		stations    []model.TrainStation
+		ideas       []model.Idea
 		areas       []*model.Area
 		posts       []*model.Post
 		polygonDir  string
@@ -126,6 +127,12 @@ func runBuild(ctx *pipeline.Context) {
 		loader.EnrichPostsWithAreaCache(posts, ctx.RouteCoverageDir())
 		loader.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
 		return nil
+	})
+
+	pipe.Add("loadIdeas", nil, func(ctx *pipeline.Context) error {
+		var err error
+		ideas, err = loader.LoadIdeas(ctx.IdeasDir())
+		return err
 	})
 
 	pipe.Add("loadBundles", nil, func(ctx *pipeline.Context) error {
@@ -255,8 +262,8 @@ func runBuild(ctx *pipeline.Context) {
 
 	// --- Build indexes from all loaded data ---
 
-	pipe.Add("buildSiteData", []string{"loadConfigs", "loadAreas", "loadPhotos"}, func(_ *pipeline.Context) error {
-		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations)
+	pipe.Add("buildSiteData", []string{"loadConfigs", "loadAreas", "loadPhotos", "loadIdeas"}, func(_ *pipeline.Context) error {
+		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, ideas)
 		return nil
 	})
 

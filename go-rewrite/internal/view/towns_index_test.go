@@ -41,7 +41,7 @@ func TestTownsIndexPageRender(t *testing.T) {
 	}
 	data := index.BuildSiteData(posts, nil, nil, areas,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
-		nil, nil,
+		nil, nil, nil,
 	)
 	rtr := router.New("https://example.com")
 

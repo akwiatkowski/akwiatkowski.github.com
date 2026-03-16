@@ -13,7 +13,7 @@ import (
 func testSiteDataMinimal() *index.SiteData {
 	return index.BuildSiteData(nil, nil, nil, nil,
 		model.SiteConfig{Title: "Test Site", URL: "https://example.com"},
-		nil, nil,
+		nil, nil, nil,
 	)
 }
 

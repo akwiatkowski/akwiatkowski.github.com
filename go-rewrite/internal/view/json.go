@@ -86,8 +86,8 @@ func E2EJSON(data *index.SiteData, rtr *router.Router) Renderable {
 // MapJSON creates a JSON endpoint for the route map page.
 func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 	type routeSegment struct {
-		Type   string       `json:"type"`
-		Coords [][2]float64 `json:"coords"`
+		Type  string       `json:"type"`
+		Route [][2]float64 `json:"route"`
 	}
 
 	type postEntry struct {
@@ -136,8 +136,8 @@ func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 				}
 				if len(coords) > 0 {
 					pe.Coords = append(pe.Coords, routeSegment{
-						Type:   route.Type,
-						Coords: coords,
+						Type:  route.Type,
+						Route: coords,
 					})
 				}
 			}
@@ -150,34 +150,44 @@ func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // PhotosJSON creates a JSON endpoint with all photo metadata.
+// Camera and lens names are humanized via model.CameraNames/LensNames dictionaries.
+// Includes a tag_names map so the frontend can display Polish tag names.
 func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 	type photoEntry struct {
 		Desc       string   `json:"desc"`
 		FullURL    string   `json:"full_url"`
 		ArticleURL string   `json:"article_url"`
+		Time       string   `json:"time"`
 		PostSlug   string   `json:"post_slug"`
 		PostURL    string   `json:"post_url"`
 		Points     int      `json:"points"`
 		Tags       []string `json:"tags"`
 
 		// EXIF fields (omitted if nil)
-		Lat         *float64 `json:"exif.lat,omitempty"`
-		Lon         *float64 `json:"exif.lon,omitempty"`
-		Altitude    *float64 `json:"exif.altitude,omitempty"`
-		Focal35mm   *float64 `json:"exif.focal_35mm,omitempty"`
-		Aperture    *float64 `json:"exif.aperture,omitempty"`
-		Exposure    *float64 `json:"exif.exposure,omitempty"`
-		ISO         *int     `json:"exif.iso,omitempty"`
-		LensName    string   `json:"exif.lens_name,omitempty"`
-		CameraName  string   `json:"exif.camera_name,omitempty"`
-		ExifTime    string   `json:"exif.time,omitempty"`
+		Lat        *float64 `json:"exif.lat,omitempty"`
+		Lon        *float64 `json:"exif.lon,omitempty"`
+		Altitude   *float64 `json:"exif.altitude,omitempty"`
+		Focal35mm  *float64 `json:"exif.focal_35mm,omitempty"`
+		Aperture   *float64 `json:"exif.aperture,omitempty"`
+		Exposure   *float64 `json:"exif.exposure,omitempty"`
+		ISO        *int     `json:"exif.iso,omitempty"`
+		LensName   string   `json:"exif.lens_name,omitempty"`
+		CameraName string   `json:"exif.camera_name,omitempty"`
+		ExifTime   string   `json:"exif.time,omitempty"`
 	}
 
 	type photosData struct {
-		Photos []photoEntry `json:"photos"`
+		Photos   []photoEntry      `json:"photos"`
+		TagNames map[string]string `json:"tag_names"`
 	}
 
-	result := photosData{}
+	// Build photo tag slug → Polish title map for frontend display
+	tagNames := make(map[string]string, len(data.PhotoTags))
+	for _, pt := range data.PhotoTags {
+		tagNames[pt.Slug] = pt.Title
+	}
+
+	result := photosData{TagNames: tagNames}
 	for _, post := range data.Posts {
 		if !post.IsFinished() {
 			continue
@@ -186,10 +196,16 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 			if len(photo.Desc) < 4 {
 				continue
 			}
+			var timeStr string
+			if photo.Exif != nil && photo.Exif.Time != nil {
+				timeStr = photo.Exif.Time.Format("2006-01-02T15:04:05+00:00")
+			}
+
 			pe := photoEntry{
 				Desc:       photo.Desc,
 				FullURL:    rtr.PostImageURL(post, photo.ImageFilename),
 				ArticleURL: rtr.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
+				Time:       timeStr,
 				PostSlug:   post.Slug,
 				PostURL:    rtr.PostURL(post),
 				Points:     photo.Points,
@@ -205,9 +221,7 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 				pe.ISO = photo.Exif.ISO
 				pe.LensName = photo.Exif.LensName
 				pe.CameraName = photo.Exif.CameraName
-				if photo.Exif.Time != nil {
-					pe.ExifTime = photo.Exif.Time.Format("2006-01-02 15:04:05")
-				}
+				pe.ExifTime = timeStr
 			}
 			result.Photos = append(result.Photos, pe)
 		}
@@ -217,13 +231,28 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // PhotosMapJSON creates a JSON endpoint with GPS-tagged photos for map markers.
+// Field names use dot-notation (e.g. "exif.lat") to match Crystal's format
+// and the photo_map.js frontend expectations.
 func PhotosMapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 	type photoEntry struct {
-		Lat      float64 `json:"lat"`
-		Lon      float64 `json:"lon"`
-		PostSlug string  `json:"post_slug"`
-		Filename string  `json:"filename"`
-		Desc     string  `json:"desc"`
+		Desc         string   `json:"desc"`
+		FullURL      string   `json:"full_url"`
+		ArticleURL   string   `json:"article_url"`
+		ArticleAVIF  string   `json:"article_url_avif"`
+		GridURL      string   `json:"grid_url"`
+		GridAVIF     string   `json:"grid_url_avif"`
+		ThumbnailURL string   `json:"thumbnail_url"`
+		Time         string   `json:"time"`
+		PostSlug     string   `json:"post_slug"`
+		PostURL      string   `json:"post_url"`
+		Points       int      `json:"points"`
+		Tags         []string `json:"tags"`
+		ExifLat      float64  `json:"exif.lat"`
+		ExifLon      float64  `json:"exif.lon"`
+		ExifAltitude *float64 `json:"exif.altitude"`
+		ExifTime     string   `json:"exif.time,omitempty"`
+		ExifCamera   string   `json:"exif.camera_name,omitempty"`
+		ExifLens     string   `json:"exif.lens_name,omitempty"`
 	}
 
 	type photosMapData struct {
@@ -239,13 +268,36 @@ func PhotosMapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 			if !photo.HasGPS() {
 				continue
 			}
-			result.Photos = append(result.Photos, photoEntry{
-				Lat:      *photo.Exif.Lat,
-				Lon:      *photo.Exif.Lon,
-				PostSlug: post.Slug,
-				Filename: photo.ImageFilename,
-				Desc:     photo.Desc,
-			})
+			if len(photo.Desc) < 4 {
+				continue
+			}
+
+			var timeStr string
+			if photo.Exif.Time != nil {
+				timeStr = photo.Exif.Time.Format("2006-01-02T15:04:05")
+			}
+
+			entry := photoEntry{
+				Desc:         photo.Desc,
+				FullURL:      rtr.PostImageURL(post, photo.ImageFilename),
+				ArticleURL:   rtr.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
+				ArticleAVIF:  rtr.ProcessedImageURL(post, photo.ImageFilename, "article", "avif"),
+				GridURL:      rtr.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg"),
+				GridAVIF:     rtr.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif"),
+				ThumbnailURL: rtr.ProcessedImageURL(post, photo.ImageFilename, "thumbnail", "jpg"),
+				Time:         timeStr,
+				PostSlug:     post.Slug,
+				PostURL:      rtr.PostURL(post),
+				Points:       photo.Points,
+				Tags:         photo.TagSlugs,
+				ExifLat:      *photo.Exif.Lat,
+				ExifLon:      *photo.Exif.Lon,
+				ExifAltitude: photo.Exif.Altitude,
+				ExifTime:     timeStr,
+				ExifCamera:   photo.Exif.CameraName,
+				ExifLens:     photo.Exif.LensName,
+			}
+			result.Photos = append(result.Photos, entry)
 		}
 	}
 
@@ -302,17 +354,152 @@ func PhotoGridJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // IdeasJSON creates a JSON endpoint for trip ideas data.
-func IdeasJSON(rtr *router.Router) Renderable {
-	// Ideas data is not yet loaded in the Go pipeline.
-	// Output empty structure for now; will be populated when ideas loading is added.
+// Contains town metadata (for slug→name lookup) and idea entries with
+// train station info, direction bearing, time cost stats, and visited town counts.
+func IdeasJSON(data *index.SiteData, rtr *router.Router) Renderable {
+	type townEntry struct {
+		Slug string  `json:"slug"`
+		Name string  `json:"name"`
+		URL  *string `json:"url"` // nil if the town has no show page
+	}
+
+	type stationInfo struct {
+		Name         string  `json:"name"`
+		Lat          float64 `json:"lat"`
+		Lon          float64 `json:"lon"`
+		TimeDistance float64 `json:"time_distance"`
+	}
+
+	type ideaEntry struct {
+		Slug               string              `json:"slug"`
+		Link               string              `json:"link"`
+		Distance           int                 `json:"distance"`
+		Elevation          *int                `json:"elevation"`
+		DaysMinLegacy      int                 `json:"lindays_mink"`
+		DaysMin            int                 `json:"days_min"`
+		DaysNormal         int                 `json:"days_normal"`
+		Start              stationInfo         `json:"start"`
+		Finish             stationInfo         `json:"finish"`
+		Direction          float64             `json:"direction"`
+		DirectionChar      string              `json:"direction_char"`
+		TimeCostStats      model.TimeCostStats `json:"time_cost_stats_for_new_town"`
+		Surfaces           []string            `json:"surfaces"`
+		Towns              []string            `json:"towns"`
+		PhotoMapURL        string              `json:"photo_map_url"`
+		TownsAlreadyVisit  int                 `json:"towns_already_visited"`
+		TownsNotVisited    int                 `json:"towns_not_visited"`
+	}
+
 	type ideasData struct {
-		Towns []any `json:"towns"`
-		Ideas []any `json:"ideas"`
+		Towns []townEntry `json:"towns"`
+		Ideas []ideaEntry `json:"ideas"`
+	}
+
+	// Build visited town slugs from self-propelled posts (bicycle, hike, walk)
+	visitedSlugs := make(map[string]bool)
+	for _, post := range data.Posts {
+		if !post.IsFinished() || !post.IsSelfPropelled() {
+			continue
+		}
+		for _, slug := range post.TownSlugs {
+			visitedSlugs[slug] = true
+		}
+	}
+
+	// Build station lookup by name
+	stationByName := make(map[string]*model.TrainStation, len(data.Stations))
+	for i := range data.Stations {
+		stationByName[data.Stations[i].Name] = &data.Stations[i]
+	}
+
+	// Towns with rendered show pages (those that have posts)
+	townsWithPages := make(map[string]bool)
+	for _, area := range data.AreasWithPosts[model.AreaTypeTown] {
+		townsWithPages[area.Slug] = true
+	}
+
+	// Build towns array
+	allTowns := data.AreasByType[model.AreaTypeTown]
+	towns := make([]townEntry, 0, len(allTowns))
+	for _, area := range allTowns {
+		entry := townEntry{
+			Slug: area.Slug,
+			Name: area.Name,
+		}
+		if townsWithPages[area.Slug] {
+			url := rtr.AreaShowURL(area)
+			entry.URL = &url
+		}
+		towns = append(towns, entry)
+	}
+
+	// Build ideas array
+	ideas := make([]ideaEntry, 0, len(data.Ideas))
+	for _, idea := range data.Ideas {
+		startStation := stationByName[idea.Start]
+		finishStation := stationByName[idea.Finish]
+		if startStation == nil || finishStation == nil {
+			continue
+		}
+
+		direction := model.DirectionBearing(
+			startStation.Lat, startStation.Lon,
+			finishStation.Lat, finishStation.Lon,
+		)
+
+		totalTrainTime := int(startStation.PoznanTimeDistance() + finishStation.PoznanTimeDistance() + 0.999)
+		timeCostStats := idea.ComputeTimeCostStats(visitedSlugs, totalTrainTime)
+
+		surfaces := idea.Surfaces
+		if surfaces == nil {
+			surfaces = []string{}
+		}
+		ideaTowns := idea.Towns
+		if ideaTowns == nil {
+			ideaTowns = []string{}
+		}
+
+		ideas = append(ideas, ideaEntry{
+			Slug:          idea.Slug,
+			Link:          idea.Link,
+			Distance:      idea.Distance,
+			Elevation:     idea.Elevation,
+			DaysMinLegacy: idea.DaysMin,
+			DaysMin:       idea.DaysMin,
+			DaysNormal:    idea.DaysNorm,
+			Start: stationInfo{
+				Name:         startStation.Name,
+				Lat:          startStation.Lat,
+				Lon:          startStation.Lon,
+				TimeDistance: startStation.PoznanTimeDistance(),
+			},
+			Finish: stationInfo{
+				Name:         finishStation.Name,
+				Lat:          finishStation.Lat,
+				Lon:          finishStation.Lon,
+				TimeDistance: finishStation.PoznanTimeDistance(),
+			},
+			Direction:         direction,
+			DirectionChar:     model.CompassNormalized(direction),
+			TimeCostStats:     timeCostStats,
+			Surfaces:          surfaces,
+			Towns:             ideaTowns,
+			PhotoMapURL:       "/mapa_zdjec/pomysl/" + idea.Slug + ".svg",
+			TownsAlreadyVisit: idea.TownsAlreadyVisited(visitedSlugs),
+			TownsNotVisited:   idea.TownsNotVisited(visitedSlugs),
+		})
+	}
+
+	if len(towns) == 0 {
+		towns = []townEntry{}
+	}
+	if len(ideas) == 0 {
+		ideas = []ideaEntry{}
 	}
 
 	return NewJSONEndpoint(rtr.IdeasJSON(), ideasData{
-		Towns: []any{},
-		Ideas: []any{},
+		Towns: towns,
+		Ideas: ideas,
 	})
 }
 
