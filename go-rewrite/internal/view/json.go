@@ -154,14 +154,15 @@ func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 // Includes a tag_names map so the frontend can display Polish tag names.
 func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 	type photoEntry struct {
-		Desc       string   `json:"desc"`
-		FullURL    string   `json:"full_url"`
-		ArticleURL string   `json:"article_url"`
-		Time       string   `json:"time"`
-		PostSlug   string   `json:"post_slug"`
-		PostURL    string   `json:"post_url"`
-		Points     int      `json:"points"`
-		Tags       []string `json:"tags"`
+		Desc        string   `json:"desc"`
+		FullURL     string   `json:"full_url"`
+		ArticleURL  string   `json:"article_url"`
+		Time        string   `json:"time"`
+		PostSlug    string   `json:"post_slug"`
+		PostURL     string   `json:"post_url"`
+		IsPublished bool     `json:"is_published"`
+		Points      int      `json:"points"`
+		Tags        []string `json:"tags"`
 
 		// EXIF fields (omitted if nil)
 		Lat        *float64 `json:"exif.lat,omitempty"`
@@ -202,14 +203,15 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 			}
 
 			pe := photoEntry{
-				Desc:       photo.Desc,
-				FullURL:    rtr.PostImageURL(post, photo.ImageFilename),
-				ArticleURL: rtr.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
-				Time:       timeStr,
-				PostSlug:   post.Slug,
-				PostURL:    rtr.PostURL(post),
-				Points:     photo.Points,
-				Tags:       photo.TagSlugs,
+				Desc:        photo.Desc,
+				FullURL:     rtr.PostImageURL(post, photo.ImageFilename),
+				ArticleURL:  rtr.ProcessedImageURL(post, photo.ImageFilename, "article", "jpg"),
+				Time:        timeStr,
+				PostSlug:    post.Slug,
+				PostURL:     rtr.PostURL(post),
+				IsPublished: len(photo.TagSlugs) > 0,
+				Points:      photo.Points,
+				Tags:        photo.TagSlugs,
 			}
 			if photo.Exif != nil {
 				pe.Lat = photo.Exif.Lat

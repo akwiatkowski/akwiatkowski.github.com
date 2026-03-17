@@ -522,8 +522,8 @@ function renderEquipmentLifespan() {
             }
         }
     });
-    // Adjust canvas height based on item count
-    document.getElementById('equipmentLifespanChart').parentElement.style.height = Math.max(400, entries.length * 28) + 'px';
+    // Adjust canvas height based on item count, cap at 600px
+    document.getElementById('equipmentLifespanChart').parentElement.style.height = Math.min(600, Math.max(400, entries.length * 28)) + 'px';
 }
 
 function renderCameraTimeline() {
@@ -750,7 +750,7 @@ function renderApertureChart(stats) {
 function renderIsoChart(stats) {
     var isoCounts = {};
     stats.isos.forEach(function(iso) { isoCounts[iso] = (isoCounts[iso]||0)+1; });
-    var sorted = Object.entries(isoCounts).sort(function(a,b){return b[1]-a[1];});
+    var sorted = Object.entries(isoCounts).sort(function(a,b){return parseInt(a[0]) - parseInt(b[0]);});
     charts.iso = new Chart(document.getElementById('isoChart'), {
         type: 'bar',
         data: {
