@@ -637,11 +637,11 @@ function renderFocalChart(stats) {
 
 function renderWideTeleChart() {
     // Delegate to FocalHeatmap service (focal_heatmap.js).
-    // Renders a smooth gradient heatmap: X=months, Y=focal lengths, color=intensity.
+    // Renders a normalized streamgraph: band color = focal length, thickness = share.
     if (window.FocalHeatmap) {
         FocalHeatmap.destroy('wideTeleChart');
         FocalHeatmap.create('wideTeleChart', filteredPhotos, {
-            smoothX: 2, smoothY: 1, normalize: true, height: 300
+            smoothRadius: 3, height: 300
         });
     }
 }
