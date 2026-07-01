@@ -68,7 +68,7 @@ func TestPostArticle_RendersTagLinks(t *testing.T) {
 		},
 	}
 	out := h.Render(t, views.PostArticleContent(data))
-	h.AssertContains(t, out, "Tagi:")
+	h.AssertContains(t, out, `<span class="post-meta-label">Tagi</span>`)
 	h.AssertContains(t, out, "/wpisy-dla/tagu/rowerem.html")
 	h.AssertContains(t, out, "rowerem")
 	h.AssertContains(t, out, "najlepsze")
@@ -87,7 +87,7 @@ func TestPostArticle_RendersAreaLinks(t *testing.T) {
 		},
 	}
 	out := h.Render(t, views.PostArticleContent(data))
-	h.AssertContains(t, out, "Gminy:")
+	h.AssertContains(t, out, `<span class="post-meta-label">Gminy</span>`)
 	h.AssertContains(t, out, "/gmina/pobiedziska.html")
 	h.AssertContains(t, out, "Pobiedziska")
 }
