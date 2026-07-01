@@ -314,16 +314,36 @@ func ensureSlice(s []string) []string {
 	return s
 }
 
-// areaRouteSegment represents one route segment's area assignments from the cache.
-type areaRouteSegment struct {
-	MesoRegions []struct {
-		Slug string `yaml:"slug"`
-	} `yaml:"meso_regions"`
+// areaCoverageRef is one area entry inside a route's coverage record: which
+// area the route crossed and how much of the route ran through it.
+type areaCoverageRef struct {
+	Slug            string  `yaml:"slug"`
+	DistancePercent float64 `yaml:"distance_percent"`
 }
 
-// EnrichPostsWithAreaCache reads Crystal-generated area cache files and merges
-// meso_region slugs into each post's LandSlugs. This gives Go access to the
-// polygon-based area assignments that Crystal computes.
+// areaRouteSegment represents one route's area assignments from the coverage
+// cache (env/<env>/cache-go/areas_for_post/<slug>.yml, one entry per route).
+type areaRouteSegment struct {
+	Towns        []areaCoverageRef `yaml:"towns"`
+	Counties     []areaCoverageRef `yaml:"counties"`
+	Voivodeships []areaCoverageRef `yaml:"voivodeships"`
+	MesoRegions  []areaCoverageRef `yaml:"meso_regions"`
+	MacroRegions []areaCoverageRef `yaml:"macro_regions"`
+}
+
+// areaCoverageThresholdPercent filters out areas a route merely clipped.
+// Mirrors Crystal's AreaDataLoader::THRESHOLD_DEFAULT (1.0%): an area counts
+// as visited only when at least 1% of the route's distance ran through it,
+// otherwise border towns touched for a few meters would get their own pages.
+const areaCoverageThresholdPercent = 1.0
+
+// EnrichPostsWithAreaCache reads the route→area coverage cache and fills each
+// post's SpatialAreaSlugs with every area type the route passed through
+// (towns, counties, voivodeships, meso and macro regions). This is what lets
+// area show/post-list pages exist for areas the author never listed in the
+// frontmatter — exact disambiguated town slugs, counties, macro regions.
+// Meso regions are additionally merged into LandSlugs, which post views render
+// as the "Krainy" links.
 func EnrichPostsWithAreaCache(posts []*model.Post, cacheDir string) {
 	if _, err := os.Stat(cacheDir); err != nil {
 		return // cache dir doesn't exist, skip silently
@@ -343,20 +363,49 @@ func EnrichPostsWithAreaCache(posts []*model.Post, cacheDir string) {
 			continue
 		}
 
-		// Collect unique meso_region slugs
-		seen := make(map[string]bool)
-		for _, s := range post.LandSlugs {
-			seen[s] = true
-		}
+		spatial := make(map[model.AreaType][]string)
 		for _, seg := range segments {
-			for _, mr := range seg.MesoRegions {
-				if mr.Slug != "" && !seen[mr.Slug] {
-					post.LandSlugs = append(post.LandSlugs, mr.Slug)
-					seen[mr.Slug] = true
+			perType := map[model.AreaType][]areaCoverageRef{
+				model.AreaTypeTown:        seg.Towns,
+				model.AreaTypeCounty:      seg.Counties,
+				model.AreaTypeVoivodeship: seg.Voivodeships,
+				model.AreaTypeMesoRegion:  seg.MesoRegions,
+				model.AreaTypeMacroRegion: seg.MacroRegions,
+			}
+			for areaType, refs := range perType {
+				for _, ref := range refs {
+					if ref.Slug == "" || ref.DistancePercent < areaCoverageThresholdPercent {
+						continue
+					}
+					if !containsString(spatial[areaType], ref.Slug) {
+						spatial[areaType] = append(spatial[areaType], ref.Slug)
+					}
 				}
 			}
 		}
+		if len(spatial) > 0 {
+			post.SpatialAreaSlugs = spatial
+		}
+
+		// Keep the historical behavior: meso regions also feed LandSlugs,
+		// which post article views render as "Krainy" links.
+		for _, slug := range spatial[model.AreaTypeMesoRegion] {
+			if !containsString(post.LandSlugs, slug) {
+				post.LandSlugs = append(post.LandSlugs, slug)
+			}
+		}
 	}
+}
+
+// containsString reports whether list already holds value. The slug lists are
+// tiny (a handful of areas per post), so linear scan beats a map allocation.
+func containsString(list []string, value string) bool {
+	for _, item := range list {
+		if item == value {
+			return true
+		}
+	}
+	return false
 }
 
 // SlugFromFilename extracts post slug from a filename like "2021-07-18-pagorki-przed-zniwami.md".

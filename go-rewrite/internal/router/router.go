@@ -116,16 +116,19 @@ func (r *Router) PostURL(post *model.Post) string {
 		post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
-// PostGalleryURL returns the post gallery URL: /<year>/<month>/<name>/galeria.html
+// PostGalleryURL returns the post gallery URL: /galeria/<year>/<month>/<day>-<name>.html
+// This mirrors PostURL under the /galeria/ prefix — the scheme Crystal ships in
+// production (and the one the e2e suite encodes), so existing links stay stable.
 func (r *Router) PostGalleryURL(post *model.Post) string {
-	return fmt.Sprintf("/%d/%02d/%s/galeria.html",
-		post.Date.Year(), post.Date.Month(), post.SlugName())
+	return fmt.Sprintf("/galeria/%d/%02d/%s.html",
+		post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
-// PostGalleryStatsURL returns the gallery stats URL.
+// PostGalleryStatsURL returns the per-post EXIF stats page URL:
+// /galeria/statystyki/<year>/<month>/<day>-<name>.html (Crystal production scheme).
 func (r *Router) PostGalleryStatsURL(post *model.Post) string {
-	return fmt.Sprintf("/%d/%02d/%s/galeria-statystyki.html",
-		post.Date.Year(), post.Date.Month(), post.SlugName())
+	return fmt.Sprintf("/galeria/statystyki/%d/%02d/%s.html",
+		post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
 // PostImageURL returns the full-size image URL.

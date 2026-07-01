@@ -28,8 +28,8 @@ func TestAreaTypeNominativeSlug(t *testing.T) {
 		{AreaTypeTown, "gmina"},
 		{AreaTypeCounty, "powiat"},
 		{AreaTypeVoivodeship, "wojewodztwo"},
-		{AreaTypeMesoRegion, "mezoregion"},
-		{AreaTypeMacroRegion, "makroregion"},
+		{AreaTypeMesoRegion, "region"},
+		{AreaTypeMacroRegion, "obszar"},
 	}
 	for _, tt := range tests {
 		if got := tt.at.NominativeSlug(); got != tt.want {

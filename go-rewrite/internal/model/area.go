@@ -45,9 +45,12 @@ func (t AreaType) NominativeSlug() string {
 	case AreaTypeVoivodeship:
 		return "wojewodztwo"
 	case AreaTypeMesoRegion:
-		return "mezoregion"
+		// Crystal (data/src/models/area_type.cr) uses "region"/"obszar" for the
+		// physico-geographic show pages — these are the production URLs, so the
+		// Go rewrite must match them exactly (e.g. /region/bory_tucholskie.html).
+		return "region"
 	case AreaTypeMacroRegion:
-		return "makroregion"
+		return "obszar"
 	case AreaTypeExternal:
 		return "zagranica"
 	default:

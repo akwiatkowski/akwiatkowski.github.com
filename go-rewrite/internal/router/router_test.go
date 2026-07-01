@@ -20,8 +20,8 @@ func TestAreaShowURL(t *testing.T) {
 		{&model.Area{Slug: "pobiedziska", Type: model.AreaTypeTown}, "/gmina/pobiedziska.html"},
 		{&model.Area{Slug: "poznan", Type: model.AreaTypeCounty}, "/powiat/poznan.html"},
 		{&model.Area{Slug: "wielkopolskie", Type: model.AreaTypeVoivodeship}, "/wojewodztwo/wielkopolskie.html"},
-		{&model.Area{Slug: "pojezierze-gniezninskie", Type: model.AreaTypeMesoRegion}, "/mezoregion/pojezierze-gniezninskie.html"},
-		{&model.Area{Slug: "pojezierze-wielkopolskie", Type: model.AreaTypeMacroRegion}, "/makroregion/pojezierze-wielkopolskie.html"},
+		{&model.Area{Slug: "pojezierze-gniezninskie", Type: model.AreaTypeMesoRegion}, "/region/pojezierze-gniezninskie.html"},
+		{&model.Area{Slug: "pojezierze-wielkopolskie", Type: model.AreaTypeMacroRegion}, "/obszar/pojezierze-wielkopolskie.html"},
 	}
 	for _, tt := range tests {
 		if got := r.AreaShowURL(tt.area); got != tt.want {
@@ -132,7 +132,7 @@ func TestPostGalleryURL(t *testing.T) {
 		Slug: "2021-07-18-pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
-	want := "/2021/07/pagorki/galeria.html"
+	want := "/galeria/2021/07/18-pagorki.html"
 	if got := r.PostGalleryURL(post); got != want {
 		t.Errorf("PostGalleryURL() = %q, want %q", got, want)
 	}
@@ -144,7 +144,7 @@ func TestPostGalleryStatsURL(t *testing.T) {
 		Slug: "2021-07-18-pagorki",
 		Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
 	}
-	want := "/2021/07/pagorki/galeria-statystyki.html"
+	want := "/galeria/statystyki/2021/07/18-pagorki.html"
 	if got := r.PostGalleryStatsURL(post); got != want {
 		t.Errorf("PostGalleryStatsURL() = %q, want %q", got, want)
 	}

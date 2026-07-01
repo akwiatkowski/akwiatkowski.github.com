@@ -99,7 +99,7 @@ func TestPostGalleryPageURL(t *testing.T) {
 	post := data.PostBySlug("2021-07-18-pagorki")
 
 	page := PostGalleryPage(data, post, r, nil)
-	if page.URL() != "/2021/07/pagorki/galeria.html" {
+	if page.URL() != "/galeria/2021/07/18-pagorki.html" {
 		t.Errorf("URL() = %q", page.URL())
 	}
 }

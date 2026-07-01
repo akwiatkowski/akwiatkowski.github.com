@@ -28,6 +28,13 @@ type Post struct {
 	LandSlugs    []string
 	ForeignSlugs []string
 
+	// Areas the route actually passed through, per type, from the spatial
+	// route→area coverage cache (loader.EnrichPostsWithAreaCache). Unlike the
+	// frontmatter slugs above these carry exact disambiguated slugs (e.g.
+	// grudziadz-kujawsko-pomorskie-miejska) and cover counties and macro
+	// regions that authors never list by hand. Nil when no coverage exists.
+	SpatialAreaSlugs map[AreaType][]string
+
 	// Activity
 	CoordsFile  string
 	CoordsType  string

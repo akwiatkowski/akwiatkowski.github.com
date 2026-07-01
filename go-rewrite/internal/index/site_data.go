@@ -162,6 +162,19 @@ func (sd *SiteData) buildAreaIndexes() {
 	// TownSlugs can reference towns or voivodeships; LandSlugs reference meso/macro regions
 	for _, post := range sd.Posts {
 		seen := make(map[string]bool)
+		// Spatial coverage is the most precise source: exact per-type slugs the
+		// route actually crossed (incl. counties and disambiguated towns that
+		// frontmatter never lists). Frontmatter slugs below still count — some
+		// posts have no route, and authors can tag areas beyond the GPS line.
+		for areaType, slugs := range post.SpatialAreaSlugs {
+			for _, slug := range slugs {
+				key := model.AreaMapKey(areaType, slug)
+				if _, exists := sd.areaByKey[key]; exists && !seen[key] {
+					sd.postsByArea[key] = append(sd.postsByArea[key], post)
+					seen[key] = true
+				}
+			}
+		}
 		for _, slug := range post.TownSlugs {
 			for _, at := range model.AllAreaTypes() {
 				key := model.AreaMapKey(at, slug)

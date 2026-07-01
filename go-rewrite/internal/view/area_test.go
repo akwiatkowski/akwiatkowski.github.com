@@ -184,7 +184,7 @@ func TestGenerateAllViews(t *testing.T) {
 	expectedURLs := []string{
 		"/index.html",                      // homepage
 		"/2021/07/18-pagorki.html",         // post article
-		"/2021/07/pagorki/galeria.html",    // post gallery
+		"/galeria/2021/07/18-pagorki.html",    // post gallery
 		"/gmina/pobiedziska.html",          // area show
 		"/wpisy-dla/tagu/rowerem.html",     // tag post list
 		"/jsons/homepage.json",             // homepage JSON
