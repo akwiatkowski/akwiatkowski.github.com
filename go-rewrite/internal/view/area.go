@@ -39,7 +39,7 @@ func AreaShowPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJS:       "/js/self/area_show.js",
+		PageJSFiles:       []string{"/js/self/area_show.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 

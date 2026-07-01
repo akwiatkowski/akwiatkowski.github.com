@@ -38,7 +38,7 @@ func POIsPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJS:       "/js/self/pois.js",
+		PageJSFiles:       []string{"/js/self/pois.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 

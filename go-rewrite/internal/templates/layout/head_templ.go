@@ -359,15 +359,15 @@ func HeadAssets(p PageData) templ.Component {
 				}
 			}
 		}
-		if p.PageJS != "" {
+		for _, pageJS := range p.PageJSFiles {
 			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 30, "<script src=\"")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
 			var templ_7745c5c3_Var18 string
-			templ_7745c5c3_Var18, templ_7745c5c3_Err = templ.JoinStringErrs(p.PageJS)
+			templ_7745c5c3_Var18, templ_7745c5c3_Err = templ.JoinStringErrs(pageJS)
 			if templ_7745c5c3_Err != nil {
-				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/layout/head.templ`, Line: 62, Col: 24}
+				return templ.Error{Err: templ_7745c5c3_Err, FileName: `internal/templates/layout/head.templ`, Line: 62, Col: 22}
 			}
 			_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var18))
 			if templ_7745c5c3_Err != nil {

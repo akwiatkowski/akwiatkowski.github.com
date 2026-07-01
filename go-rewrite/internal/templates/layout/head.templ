@@ -58,7 +58,7 @@ templ HeadAssets(p PageData) {
 			<script src={ js.VersionedPath() }></script>
 		}
 	}
-	if p.PageJS != "" {
-		<script src={ p.PageJS } defer></script>
+	for _, pageJS := range p.PageJSFiles {
+		<script src={ pageJS } defer></script>
 	}
 }

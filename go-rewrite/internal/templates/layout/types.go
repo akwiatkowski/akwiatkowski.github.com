@@ -16,7 +16,11 @@ type PageData struct {
 	// Resolved asset files
 	CSSFiles []bundle.AssetFile
 	JSFiles  []bundle.AssetFile
-	PageJS   string // optional page-specific JS file path
+	// Page-specific JS files, rendered with `defer` so they run after the DOM
+	// is parsed. Bundle JS in JSFiles loads synchronously (libraries like
+	// Preact/Leaflet must exist before inline scripts); page apps that touch
+	// the DOM (e.g. photo_map.js rendering into #root) must defer instead.
+	PageJSFiles []string
 
 	// Extra raw HTML to inject into <head> (e.g. Google Fonts)
 	ExtraHead string

@@ -40,11 +40,13 @@ func shellPageMultiJS(
 ) Renderable {
 	cssFiles, jsFiles := resolveAssets(resolver, bundles, pageAssets)
 
-	// Append page-specific JS files to the bundle JS list.
-	// They load after bundle JS but before DOMContentLoaded (all use defer).
+	// Page JS goes through PageJSFiles (rendered with defer), never JSFiles:
+	// these apps mount into elements like #root that only exist after the DOM
+	// is parsed. Loading them synchronously from <head> was the photo-map bug.
+	pageJS := make([]string, 0, len(pageJSFiles))
 	for _, js := range pageJSFiles {
 		if js != "" {
-			jsFiles = append(jsFiles, bundle.AssetFile{Path: js})
+			pageJS = append(pageJS, js)
 		}
 	}
 
@@ -55,6 +57,7 @@ func shellPageMultiJS(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
+		PageJSFiles:  pageJS,
 		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 

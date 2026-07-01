@@ -21,7 +21,7 @@ func samplePageData() layout.PageData {
 		JSFiles: []bundle.AssetFile{
 			{Path: "/js/app.js", IsCSS: false, Version: "200"},
 		},
-		PageJS: "/js/self/page.js",
+		PageJSFiles: []string{"/js/self/page.js"},
 		NavStats: layout.NavStats{
 			BicycleDistance: 1234,
 			HikeDistance:    567,
@@ -238,7 +238,7 @@ func TestHeadAssets_RendersPageJS(t *testing.T) {
 
 func TestHeadAssets_OmitsPageJSWhenEmpty(t *testing.T) {
 	pd := samplePageData()
-	pd.PageJS = ""
+	pd.PageJSFiles = nil
 	out := htmltest.Render(t, layout.HeadAssets(pd))
 	htmltest.AssertNotContains(t, out, "defer")
 }

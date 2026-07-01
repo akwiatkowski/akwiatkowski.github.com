@@ -44,7 +44,7 @@ func PortfolioPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJS:       "/js/self/portfolio.js",
+		PageJSFiles:       []string{"/js/self/portfolio.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
