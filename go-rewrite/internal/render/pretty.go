@@ -132,7 +132,16 @@ func prettyWalk(w io.Writer, n *html.Node, depth int) {
 			io.WriteString(w, trimmed)
 			io.WriteString(w, "\n")
 		} else {
+			// Inline context: whitespace between inline siblings is significant
+			// (e.g. ", " between links). Keep a single space on each side where
+			// the source had one and a sibling exists to separate from.
+			if n.PrevSibling != nil && len(text) > 0 && isSpaceByte(text[0]) {
+				io.WriteString(w, " ")
+			}
 			io.WriteString(w, trimmed)
+			if n.NextSibling != nil && isSpaceByte(text[len(text)-1]) {
+				io.WriteString(w, " ")
+			}
 		}
 
 	case html.CommentNode:
@@ -181,4 +190,10 @@ func writeIndent(w io.Writer, depth int) {
 	for i := 0; i < depth; i++ {
 		io.WriteString(w, "  ")
 	}
+}
+
+// isSpaceByte reports whether b is an ASCII whitespace character.
+// Used to detect significant leading/trailing whitespace in inline text nodes.
+func isSpaceByte(b byte) bool {
+	return b == ' ' || b == '\t' || b == '\n' || b == '\r'
 }

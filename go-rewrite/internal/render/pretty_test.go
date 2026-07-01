@@ -69,3 +69,21 @@ func TestPrettyPrint_SelfClosingTags(t *testing.T) {
 		t.Errorf("img should be self-closing, got:\n%s", output)
 	}
 }
+
+func TestPrettyPrint_PreservesInlineTextSpacing(t *testing.T) {
+	// Text separators between inline elements (e.g. ", " between links)
+	// must keep their adjacent whitespace - trimming them changes rendering.
+	input := `<!doctype html><html><head><title>T</title></head><body><span class="links"><a href="/a">A</a>, <a href="/b">B</a> and <a href="/c">C</a></span></body></html>`
+	result, err := PrettyPrint([]byte(input))
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	output := string(result)
+	if !strings.Contains(output, `</a>, <a href="/b">`) {
+		t.Errorf("comma separator should keep trailing space, got: %s", output)
+	}
+	if !strings.Contains(output, `</a> and <a href="/c">`) {
+		t.Errorf("word separator should keep surrounding spaces, got: %s", output)
+	}
+}
