@@ -1,8 +1,25 @@
 # Go E2E Test Failures
 
-**Run date**: 2026-03-08
-**Results**: 92 passed, 117 failed, 23 skipped
-**Server**: Go output (`env/dev/public/go/`) on `localhost:5001`
+**Run date**: 2026-07-02
+**Results**: 211 passed, 18 failed, 3 skipped
+**Server**: Go output (`env/dev/public/go/`) served statically (`BASE_URL=http://localhost:<port> npx playwright test`)
+
+Remaining failures (mechanical, head-template work):
+- **Social meta tags (16)** — Go `<head>` lacks og:type, og:locale, twitter:*, og:image:alt and
+  per-view descriptions (`specs/social-meta.spec.js`). `HeadMeta` in
+  `internal/templates/layout/head.templ` is the place to fix.
+- **Portfolio lightbox (1)** — lightbox does not close (`specs/static.spec.js:76`).
+- **Article photo width (1)** — article photo narrower than text column
+  (`specs/picture-elements.spec.js:83`).
+
+Fixed on 2026-07-02 (see git log): deferred page JS (photo map Preact mount), area show/post-list
+parity via spatial route coverage (counties, macro regions, disambiguated towns), meso/macro show
+URL prefixes (`/region/`, `/obszar/`), post gallery URLs (`/galeria/<y>/<m>/<d>-<slug>.html`),
+towns index (`#towns-app` + Crystal JSON contract + inline bootstrap), homepage.json rebuilt to
+the Crystal shape (flat lookup arrays, `photos` with src/src_avif/alt/points), forked
+`go-rewrite/assets/js/self/homepage.js` deleted (canonical JS now shared).
+
+Historical failure list from 2026-03-08 below — most items are fixed; kept for reference.
 
 ---
 

@@ -6,11 +6,14 @@ const { test, expect, expectNoJsErrors } = require('../fixtures/base');
 // Area types with example pages and their JSON field/filter config
 const AREA_TYPES = [
   {
+    // gruta has 2 posts and a stable, non-disambiguated slug in both builds.
+    // (The old fixture slug `grudziadz` only existed as a stale pre-Feb-2026
+    // output file; current builds disambiguate Grudziądz town slugs.)
     name: 'Town',
-    url: '/wpisy-dla/gminy/grudziadz.html',
+    url: '/wpisy-dla/gminy/gruta.html',
     filterBy: 'town',
     jsonField: 'town_slugs',
-    slug: 'grudziadz',
+    slug: 'gruta',
   },
   {
     name: 'Voivodeship',

@@ -1,1363 +1,1770 @@
 {
-  "built_at": "2026-07-01T22:46:37Z",
+  "built_at": "2026-07-01T23:43:39Z",
   "env": "dev",
   "target": "go",
   "files": {
     "/2018/11/05-spacer-na-przedmiescia.html": {
-      "sha256": "07ab5ac334715900bd11e8789dc986b9e809f4fcee55203f9619e25ca81edcb6",
+      "sha256": "13beb01fbb5cea8c0fe457e402ef883fc41a6238c8efafa874e2d5c42f506dc5",
       "size": 23297,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:19:59Z"
     },
     "/2018/11/spacer-na-przedmiescia/galeria.html": {
       "sha256": "9f2f9b2dca7454cb6d50e64eb2781bac9cc94d600e1438366c12ef2008b09f3d",
       "size": 12662,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/2021/07/18-pagorki-przed-zniwami.html": {
-      "sha256": "e464d8c744e20918bb490599be6f4957f6e0b19a16d3fff0bbff69cd6fb18019",
-      "size": 69416,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "dabbbbea36ee29d2472bf2671a09e469558937d2b46feea58e81ead8c4722e6a",
+      "size": 69429,
+      "built_at": "2026-07-01T23:30:13Z"
     },
     "/2021/07/24-w-trakcie-zniw.html": {
-      "sha256": "c06888b98f445b9d7fb69b6310ab8128cbead0f6959a72fff5ee556df4251b02",
-      "size": 58553,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "0db00ceeb374174ac14ef32b65126ff3f8388ee73675f5795fe0fd5b54fecdb3",
+      "size": 57882,
+      "built_at": "2026-07-01T23:27:16Z"
     },
     "/2021/07/pagorki-przed-zniwami/galeria.html": {
       "sha256": "0786f2bb3a08badeecf371487b4706a697f1c01c43b8c69e622f76264dd549e1",
       "size": 42575,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/2021/07/w-trakcie-zniw/galeria.html": {
       "sha256": "65d65dec0e6bbef9d2a5658d54db20ccf4f0b268a05545616571d5919b7ca66c",
       "size": 34153,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/2022/12/18-zdazyc-przed-koncem-zimy.html": {
-      "sha256": "f429e564ac3c363f54e6bd713ccce54cef6f3edd0aadf438f3b09c5bb06660d2",
-      "size": 66641,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "f11a9f6f6362f62a774db19aaba349e543641155a76de7b34428ec9021516cad",
+      "size": 67260,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/2022/12/zdazyc-przed-koncem-zimy/galeria.html": {
       "sha256": "0e9ddd2c9db62a59724f58052262baf81b0abd176000cd1fb5536f72a17aa616",
       "size": 41362,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/debug/burnout.html": {
       "sha256": "e4ad726e97e13c0d968fc966526f28f1c97d8eb37065e3c4db068bc9eee69915",
       "size": 30908,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/debug/tagged_photos.html": {
       "sha256": "ea4918a9f6477e5a8a463c5de49dc5097d2a3433113f400be9fb5c191781f042",
       "size": 4401,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/en/index.html": {
       "sha256": "a933ca01e9371b509eef43ed9f703bcc5aa71864b612370cf571c9b238e5ab90",
       "size": 4081,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/feed.xml": {
       "sha256": "818d148f6f5ca804488a83502b525a477491b1e882511b53e1b66c639709f3cd",
       "size": 2234,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/feed_atom.xml": {
       "sha256": "8a4a9adec7d0a7e727d1ab4eb9bccb9afce2a220473e2f2a6c4ee7bf119b55d4",
       "size": 1867,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria.html": {
       "sha256": "71a08cb35cb6418d841ddb14d9c479e0080d728a378d6bd1e9557fd45c8bc18b",
       "size": 6683,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/2018/11/05-spacer-na-przedmiescia.html": {
+      "sha256": "30523380e434344d79643223bdddd51b8661ff6b008a15e558e9d7563f9a0e8a",
+      "size": 12668,
+      "built_at": "2026-07-01T23:19:59Z"
+    },
+    "/galeria/2021/07/18-pagorki-przed-zniwami.html": {
+      "sha256": "8b8682ee43b0106ba6791d62a33daf1ea33149de22666827269a3bb9aae80cc5",
+      "size": 42581,
+      "built_at": "2026-07-01T23:19:59Z"
+    },
+    "/galeria/2021/07/24-w-trakcie-zniw.html": {
+      "sha256": "95c9a52367a49252966441f020423931ed09b67257d9ed50b06cbec58b8d1fe5",
+      "size": 34159,
+      "built_at": "2026-07-01T23:19:59Z"
+    },
+    "/galeria/2022/12/18-zdazyc-przed-koncem-zimy.html": {
+      "sha256": "666293f3de93c40d13d9f77c2d65600e2917ab28f0abbc8fc29c49bfd0401d9e",
+      "size": 41368,
+      "built_at": "2026-07-01T23:19:59Z"
     },
     "/galeria/aparat/olympus-m1m2.html": {
       "sha256": "d38b4a43d950211ba73f0c86f65e518cd0dd744b851df3ae6974bf927713428d",
       "size": 51993,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/aparat/olympus-m1m3.html": {
       "sha256": "0d4152b73d119222616341d3068a915a8544880375fbd5612f68bd97d79eb5e2",
       "size": 41285,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/aparat/sony-a7-iii.html": {
       "sha256": "6811f0a6cd5e1d2ab7c5a9a007cae06c8b07a3cb89e8f6d80dce05aa247b6bfa",
       "size": 34130,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/czulosc/100-200.html": {
       "sha256": "0312fda87d2dc186c2f32dca425f7983a5ad32b89adf1331ff86257296589b43",
       "size": 32979,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/czulosc/200-400.html": {
       "sha256": "16cfa6e99b72f7d228114c5685e0740a2da689e9dee604889146fa5d6cb63141",
       "size": 50006,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/czulosc/400-800.html": {
       "sha256": "90d1126fe2115f2b368533b086f2997cbc9f38c1e966c332488a6dd06b730d40",
       "size": 11283,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/czulosc/6400-12800.html": {
       "sha256": "88617bb7aa1a5e32ab8ac26e05f340846fa7432d1d087e26125aef3e836511ee",
       "size": 4259,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_125-1_30.html": {
       "sha256": "b3533e3a72ffadce671ce73619a3a7a1174fcf1991596291db6eb100952838aa",
       "size": 19364,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_2000-1_500.html": {
       "sha256": "96f37b40c98a16fe1b1d83fcb002d8b4dfc083e98853d2c2edddc8cf603e4869",
       "size": 17649,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_30-1_8.html": {
       "sha256": "9051a3c6d7acb0767df605af28cd9fad76c226345024498a24f394522b80ddcc",
       "size": 11455,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_500-1_125.html": {
       "sha256": "271875f712d276b6fd3144b0df44d79af092ba5cf56bb0a60a0ec14b3fb48a50",
       "size": 49484,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_8-1.html": {
       "sha256": "0034bae30d9d8e68234a8115ea97303307c088a7b20cb5268e92bf0c270c0c96",
       "size": 7773,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ekspozycja/1_8000-1_2000.html": {
       "sha256": "d02228faed0e7aefcc2df9a7deac9819d4ec1b858cb59b2d3131bcace4b42367",
       "size": 4206,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/bystrzyca_klodzka.html": {
       "sha256": "f20ad9c3e76a724930de6531a7858f3fedc97dbd7e8290ed24035a9f3ffbb08c",
       "size": 12570,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/dragacz.html": {
       "sha256": "3cfeb0e6c3e6c97ee5d71adf981400faf355610e186d69780318daefb71fed6e",
       "size": 42495,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/gminy/grudziadz-kujawsko-pomorskie-miejska.html": {
+      "sha256": "df45a7ca929a55bcb9afe7c3eaad549d6d117d61581b2532a9a04c853d4cfcd2",
+      "size": 42562,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/gminy/grudziadz-kujawsko-pomorskie-wiejska.html": {
+      "sha256": "b3932e64102d3d9e06ff15d174d9a901cd69dbaafc7464d785b80644a82ba8ec",
+      "size": 42562,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/gminy/gruta.html": {
       "sha256": "16befeecd3187cfbf6deca96e9d5ce0b88c83f45a7764c8418a480a8f7b7bac3",
       "size": 73553,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/jablonowo_pomorskie.html": {
       "sha256": "c7074a21cd0e0be943421ef91dd8b597bcaec9a4dc5a4092b33505406f2ec9fa",
       "size": 73626,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/janowice_wielkie.html": {
       "sha256": "9da486ee1b5a1d09c6258e8c50f052fbe6a00b96031bb2d604bfe3f1de72cc01",
       "size": 41306,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/jelenia_gora.html": {
       "sha256": "deffd3c0321338676767debf180e632479a87604a3186872303372e16e09d4f6",
       "size": 41289,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/jezewo.html": {
       "sha256": "d81597108802754ad1dda789984e52075d2635ccff9cf0ff4e0797aa29a63508",
       "size": 42493,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/kowalewo_pomorskie.html": {
       "sha256": "6490bb2d00bb890abc0dc3ce781c221af6e2a98005bbcd7f6026cd5bbafe61e5",
       "size": 34166,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/marciszow.html": {
       "sha256": "277ebb1b5fa1e49f91f653db602b93e9fea408605dbe38194f915fa602a936c9",
       "size": 41274,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/pluznica.html": {
       "sha256": "168e2f4669f74e1ce43bad4b72cda34491f2ebd3e7ba86cb0fe8df513c1a38e0",
       "size": 34122,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/gminy/pobiedziska.html": {
+      "sha256": "c63ed2e238095b7128b40e56d346f2da1b24608ccc744be71b0868439567b263",
+      "size": 3064,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/gminy/radzyn_chelminski.html": {
       "sha256": "fcf6ca20255827e86f9812ecca5919dd4f6ca3a1508102292eb1004cce857c8e",
       "size": 34170,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/gminy/rynsk.html": {
+      "sha256": "1527dd3d7e389089e8b1537e3866cb85d91e783b0874dc042bd829c0ce921ecc",
+      "size": 34104,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/gminy/swarzedz.html": {
+      "sha256": "5ddc0ace98f4c5b38750b6c9d3cb32de5c386ecc09e09a95265d1b9a0bf5a3fa",
+      "size": 3052,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/gminy/swiecie_nad_osa.html": {
       "sha256": "ea459aad395b3c6603c5acc48d9eeb7a5056bc1da45e2df27f74ae4fb1a9b12a",
       "size": 73609,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/gminy/wabrzezno.html": {
       "sha256": "8eeb8fd7142a154f2d0cf5d5df9713c6020484afa7a5d47ffaf2f4508596bb0b",
       "size": 34127,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/obiektyw/olympus-12-100mm-f4.html": {
       "sha256": "c74b1109618ae803b1eb15c5d3500a17f49026520c41d1ebf6aad4ffd3821287",
       "size": 83052,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/obiektyw/olympus-17mm-f1.2.html": {
       "sha256": "caa8b5d08194c953a879ba6cd27c5fe17a3d6cf7a5b0d9df78234e92a10eb94a",
       "size": 9083,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/obiektyw/olympus-40-150mm-f2.8-tc-1.4x.html": {
       "sha256": "4ebee4b91c1eb095d073dbe04e097992b8a8203f59e7400e82bc28169c0e532f",
       "size": 4391,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/obiektyw/tamron-28-75mm-f2.8.html": {
       "sha256": "9f2076bb66d48f0f41e4a1fdac115e0a941988c8d18209e01c476e17e3ac97b5",
       "size": 34180,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/obszaru/dolina_dolnej_wisly.html": {
+      "sha256": "c46972436b2e8521f9b2694a92b384a9b2bd2e38521effd133982044e497969a",
+      "size": 42562,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/obszaru/pojezierze_chelminsko-dobrzynskie.html": {
+      "sha256": "633070c6bee4968c8e39b9ff0c2de98250675d1b394445ff8bf8f74b0c8cfc14",
+      "size": 73706,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/obszaru/pojezierze_poludniowopomorskie.html": {
+      "sha256": "07a2eafea508a46123db4338b38bc77e4cdd2a70c3cbf0d5583e143860495248",
+      "size": 42617,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/obszaru/pojezierze_wielkopolskie.html": {
+      "sha256": "aa414740c7b5173cf185f2ec6083938977c4ea455990f7bd4a214790ac36f234",
+      "size": 3133,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/obszaru/sudety_srodkowe.html": {
+      "sha256": "0fe9e5f111ba5e563c350f2b4f405083c0b185da38cf3fe12e7b4cbbb5cbedd7",
+      "size": 12564,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/obszaru/sudety_zachodnie.html": {
+      "sha256": "16bb4e9df475c01b6ebb2b93f306542a5d8492a31699555acc1e17b04bc22050",
+      "size": 41310,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/ogniskowa/146-175.html": {
       "sha256": "f475931b60e275c89f0b8e955bc972a16318a3520b72d0f1282b221cdaa56781",
       "size": 4295,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/16-19.html": {
       "sha256": "f39b1fc51c48dc3dfa6ddfd93719360eee259388b53b08312097754f900f8dc1",
       "size": 13688,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/19-23.html": {
       "sha256": "b4a9358c7e630819c6e81ca8b313290c300730f11213684e3fb20760d60a78ca",
       "size": 5446,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/23-28.html": {
       "sha256": "0003084bdc5fe938c743583e12699fc6ac02ba15866286a4d6e9e3081f69f51c",
       "size": 7720,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/28-34.html": {
       "sha256": "09b2539c86e504873913bc31676fc0a0620d535ada91d03cbadd12035ba4b956",
       "size": 17961,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/34-41.html": {
       "sha256": "c375d943bbe648f4c675bbdd21a7365fb1810f9a10790ae6940fdf8918a3a01a",
       "size": 6436,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/41-49.html": {
       "sha256": "32e225aa8b52abe1f2cb7e243f31b8fbcc0d4e24040a124ff693106b1c4d596a",
       "size": 8744,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/49-59.html": {
       "sha256": "46a228360af28b083dc33749c00cc965b7a4a804c4e8930006e5a05ae34bc36f",
       "size": 7529,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/59-71.html": {
       "sha256": "5198bd129910608741ebb6d9c0b2ba3b5ebcef396cb5222b684aaa42a6d85bb5",
       "size": 6422,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/71-85.html": {
       "sha256": "ffc7b298bf4435a1c0a37575d079dffa4eef70b8283443d43c73807ffc6af709",
       "size": 17586,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/ogniskowa/85-102.html": {
       "sha256": "eacb835e1039bd251e67b4baffff47c828795a1eb6400b26eafbb93c145ecffa",
       "size": 40662,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/powiatu/brodnicki.html": {
+      "sha256": "86711524133ef0c36bd80c3ddeb12b5389dd34054252ebd16a3ee56048995b3e",
+      "size": 73577,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/golubsko-dobrzynski.html": {
+      "sha256": "a68654a8fd814947a33a944900a29c17cc080abfdb9592d5f5b1245da316e1c3",
+      "size": 34178,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/powiatu/grudziadz.html": {
       "sha256": "8f214849352ec270546db32abf5206847f18f73a683cc8e14318705f3849f492",
       "size": 42512,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/powiatu/grudziadzki.html": {
+      "sha256": "cde40ed99d1916ca3fc54fe747a75d2fa191ed40c6a91c8bb56276c023bed3e6",
+      "size": 73590,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/powiatu/jelenia_gora.html": {
       "sha256": "80c5cd1d655bc8aa91f9e4fb82513c3e8739f98ac1c7467ddc8e96db4913a3b1",
       "size": 41293,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/powiatu/jeleniogorski.html": {
+      "sha256": "dac4cc2a612995d7033a0d757193f0de04e5dd9a26dcb6dfd3af16ff49412f7d",
+      "size": 41298,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/kamiennogorski.html": {
+      "sha256": "d1bdc2563f2ba9ea0a567e0065f29b855785cb3fb7cea4dca484030fb3f09627",
+      "size": 41303,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/klodzki.html": {
+      "sha256": "c45128cbd7c671628f0a183cf6157d6a0609130274bd5c31ab62814b530c1774",
+      "size": 12524,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/poznanski.html": {
+      "sha256": "8ba7ee0e306a84b7c79bcb43b539db92e6af0b0e848a2729fdbaf107d37d42cc",
+      "size": 3061,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/swiecki.html": {
+      "sha256": "4166882e883467f5f52cc43d8b78b8ce136b89c127c7b89ad90073894c183e7d",
+      "size": 42502,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/galeria/powiatu/wabrzeski.html": {
+      "sha256": "3b2e710403204f33a1534c133af5b893b8a59b007e3309a806730fcad708af16",
+      "size": 34128,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/regionu/bory_tucholskie.html": {
       "sha256": "b241111398d6d57b9bad76c95d53153f2f8bf2fc343e33b1eb889627c5d22fc3",
       "size": 42539,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/gory_bystrzyckie.html": {
       "sha256": "40b01ddb4425a379c91c20069e90a68e64c02d594c5c998001558903e315e5a8",
       "size": 12569,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/gory_kaczawskie.html": {
       "sha256": "3fd61797559f76673ff70a0cf1bd4d5339021ce74068bcca9bac5c67c44fd645",
       "size": 41308,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/kotlina_grudziadzka.html": {
       "sha256": "af8160753a3bb490a74f70ab9c4ebf734938c0c651700d3df626b3226cd8956d",
       "size": 42562,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/kotlina_jeleniogorska.html": {
       "sha256": "2ae69467004d860209fbf0db72a5e40478dd66ba30e636d09a14e7d479355963",
       "size": 41338,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/pojezierze_brodnickie.html": {
       "sha256": "cfc2414f9fe9fd2033af464aa62f4674b3d9449457407c736d98e542e721e072",
       "size": 73637,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/pojezierze_chelminskie.html": {
       "sha256": "c83de1adfca8e9e8c28f2ce116cc716957f15852c9a23f098e4f3626860f9c63",
       "size": 73648,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/pojezierze_gnieznienskie.html": {
       "sha256": "eb1e4b8b53471a7b064234ed60364ba7b4082352a81855427998cca59e6f9576",
       "size": 3139,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/row_gornej_nysy.html": {
       "sha256": "34e956001bfb56f1c6f2d98f47c09d2e463aa7c48726ab62e0455733437b5281",
       "size": 12567,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/rownina_wrzesinska.html": {
       "sha256": "bf90d8f0cd67936b6ab64ea16df875e28fa5ca5e2e9bbcc7cc0b96cd14b9dc25",
       "size": 3109,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/rudawy_janowickie.html": {
       "sha256": "229e72c27f656e4dc115a49fa8f35f981af2e81d445098b59b69ad80f4685fbb",
       "size": 41315,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/regionu/wysoczyzna_swiecka.html": {
       "sha256": "21d2fe8f4d0b4bc3bde5a6a4c2813533e590c8cc40e13812c9678927ba7e7626",
       "size": 42557,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/dobre.html": {
       "sha256": "837995374c42abbbd5487cba3c858f948092b86dfece58bbebdd32f50685387e",
       "size": 18201,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/droga.html": {
       "sha256": "7b2db761bc4a6820d246776b9bc938cc34e35ee6df34cf7ee3a7a3a8ed4b38fc",
       "size": 3066,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/dzika_przyroda.html": {
       "sha256": "712fda79c23b25d02e32b67f48c8470b6b9668ab1f3245849488103dc355b07a",
       "size": 4204,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/gory.html": {
       "sha256": "fce14ab8104b71b2094fad5fe47ad352b58069eb0e763909d760a92c2ccf3bfb",
       "size": 6648,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/jesien.html": {
       "sha256": "a6c0c3b9bdd3d516ae590a871008b2a738732e1ffb8a5e2a7f1897af553c749f",
       "size": 3038,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/kolejowe.html": {
       "sha256": "f9c6e5d13f3a871fa3f030b0348205d7dcd0181ed4251646013846ecfa907b94",
       "size": 4279,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/koty.html": {
       "sha256": "bc624106b43dda7e27a67dff823566facf3e1c75a56410c1492084b118d474e0",
       "size": 9961,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/las.html": {
       "sha256": "e3d792bb060290ae9dc8a4cf7b385546cf2b98adc00e8eb12fe2f049fa1878ea",
       "size": 3020,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/lato.html": {
       "sha256": "01a47ad0f90ba1f5d4287a0c2b49038714183176aa9474d1091bb88f53cb6d7b",
       "size": 14360,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/makro.html": {
       "sha256": "bf6c1141e6d5fb49c0380d51d2bdfe36e9b7069d815b7f04809027cca78ddbfd",
       "size": 11217,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/mgly.html": {
       "sha256": "6660fc885fe21663ebb12dfed169a4cf6238cd7ba303c0dca4bfb4a0ae1a2d32",
       "size": 3028,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/miasteczko.html": {
       "sha256": "474bb335948bf5c3c3f06146022550ac3301da84b5449515b54439fa7e59762b",
       "size": 3055,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/miasto.html": {
       "sha256": "6547b0fdae5f0cf27aa7a6b3949549f9cc41230a9ae62813271205a1d9f55c7b",
       "size": 7800,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/najlepsze.html": {
       "sha256": "9ee5472657ab93b6e30c90dbb7ad1d0e9615edd86f07da86d9f7340013902ef8",
       "size": 4259,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/natura.html": {
       "sha256": "803328d4263b2407194b60937049cccae6a757dc79bd42212208c0977f62c188",
       "size": 3035,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/noc.html": {
       "sha256": "747cc476571a92346a6bd34ffd7eec3c77c9ebc6627560e446acaeecc5c2fc8f",
       "size": 7785,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/pogoda.html": {
       "sha256": "9a287da11bd4f9fae8abbe169b68f1e6b68872a7242db6374dc04197e3ce4b80",
       "size": 3089,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/portfolio.html": {
       "sha256": "cb9fcc48ee32c36cdc55a4e1a4d33cac6fc35337745c0b5396cb59da2532ace0",
       "size": 3050,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/pory_roku.html": {
       "sha256": "93bc3db772f87a04be414aebb3d1865331f5af734d454ca5239069d435b45e65",
       "size": 12016,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/przemyslowe.html": {
       "sha256": "b406ffdf4069081eff9d7d1b26683ed1c4423cf98fd0f88dd94681bd51a84a51",
       "size": 3087,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/psy.html": {
       "sha256": "3e3965a4b45b1fddc66e7b662604b187b3196715353483ae338b742f5b58d798",
       "size": 3020,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/ptaki.html": {
       "sha256": "50fe54cf3e9c805af626eabfc9ff85376d88e48696df13c93ecc833b7cfd9573",
       "size": 5319,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/ruiny.html": {
       "sha256": "a5c30a08ca782d9c1f9f647d029ab2db2ff3c4dc941b3f48ed6875befef9a074",
       "size": 4150,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/tablice.html": {
       "sha256": "341813a3a4ac8935d839b0fe78bea53360f3613592032939c73867c6024c2064",
       "size": 3040,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/wies.html": {
       "sha256": "7934034bf3e83b58f066ebfc6369003c696f1ad995fbeecc38ee10be64741572",
       "size": 15566,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/wiosna.html": {
       "sha256": "c51fd3213d511c27796efe566a0c3e60ae4067394d22f0fa28d8a7a5f5cedc13",
       "size": 3035,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/woda.html": {
       "sha256": "2f9f1c85f7f2b1c2548470cab841cb3830e315e984d3669a1c4b5d2de7e4e746",
       "size": 3025,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/wschod_slonca.html": {
       "sha256": "256bae0683e6125353eef1e9de479a3fc3e8a7afce647415d4cd05c01dbe8834",
       "size": 3082,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/z_gory.html": {
       "sha256": "60bf2ed7eeb819c1288ac15668ef7da01aa1ffb6897621dbac4a577976c6554e",
       "size": 3038,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/zima.html": {
       "sha256": "e5da465a781bfafc8e5175feabbc08abe2825512198ebc97f9ec82fde560bf29",
       "size": 12600,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/zwierzaki.html": {
       "sha256": "97e156308d0d14623ff7edcd8cba51001a07716f784df6b3c762925c7f2436c5",
       "size": 3050,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/tag/zwyaczjne.html": {
       "sha256": "598fcd20eb9e49baf79e9d4c57cab86485fce6e47fc765cbc0250ab7589a3f82",
       "size": 3050,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/galeria/wojewodztwa/dolnoslaskie.html": {
       "sha256": "76c3b26e8a4bb53eb4c0485a482ed1b4b2df36f57049015cf8b3651114102d73",
       "size": 50778,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/galeria/wojewodztwa/kujawsko-pomorskie.html": {
+      "sha256": "a7a36199b669132649a150617ce9bab5ef6d4ce19fe4b033fe2c484606621f4a",
+      "size": 73630,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/galeria/wojewodztwa/wielkopolskie.html": {
       "sha256": "b2bd9faa138489eed096834a057854aeb3fcc068310ed6830b46ccba7a88132d",
       "size": 3086,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/gmina/bystrzyca_klodzka.html": {
-      "sha256": "6c4f15b9d7e00821168d45471c1f19c964321503e68fd01d4b670a3ed20701b3",
-      "size": 12515,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "d0274d588e04a220693ea7801d7c6ef5c7bacf3491976ae0bdbef90af48f297a",
+      "size": 12499,
+      "built_at": "2026-07-01T23:40:38Z"
     },
     "/gmina/dragacz.html": {
-      "sha256": "098fda522c14a191367dd8e4af22995336afc0023f5a1444bc9009d18d8fa131",
-      "size": 31019,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "a21adf145c9e2fee43ac0bda87e3d79c338ea174ea75d25d3a052ef73c43fa4b",
+      "size": 30909,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/gmina/grudziadz-kujawsko-pomorskie-miejska.html": {
+      "sha256": "21d40b560272b5570f456136f2cafff581be17264a7f77c24d38cf30dcf27d02",
+      "size": 30316,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/gmina/grudziadz-kujawsko-pomorskie-wiejska.html": {
+      "sha256": "60648358fbcfc2a75e902dcfe15b205fdbfde8a9f7324e868d0bf9200961077b",
+      "size": 30307,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/gruta.html": {
-      "sha256": "1070a1f36ccfc3d0aea3fbf3040c0fa048c71de611da193a7e3ddf45effefbe5",
-      "size": 50967,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "4cba7414b9482c49e004ec056d5d8dd3dd81f9a38a5b1b82ac177b17c0f4601e",
+      "size": 51000,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/jablonowo_pomorskie.html": {
-      "sha256": "03a9a5421a3b453fa74c9b3dd98936d16d8bc0f78ca1e1e5fdd2b6c95a5c6f81",
-      "size": 51080,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "cde3c2b2993d73f60a4e2b8c6ba21f0c9ad6803ab7081c14637e284edece407d",
+      "size": 51018,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/janowice_wielkie.html": {
-      "sha256": "15a19af5d6c88da715f0f7f9bdc54f47db2ed3c20126c96d1644aec12c894b9f",
-      "size": 29084,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "98995c1ddced59b77489ff9707abc4824c18eb05af472d1d17bf6bd1a2b3ee29",
+      "size": 29044,
+      "built_at": "2026-07-01T23:40:38Z"
     },
     "/gmina/jelenia_gora.html": {
-      "sha256": "f9783f560fccd70d2753e6ad66a0d7266830140ca4ee353e8e320289848bdf57",
-      "size": 28458,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "d9d9ab740397fe4f65ded899d6336f313aab9d4205729c6d8317ecbed9b20c5f",
+      "size": 28423,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/jezewo.html": {
-      "sha256": "ae18e81deca48422cce05b225584e55798726e94f062a52690e3749d5f2ae022",
-      "size": 31117,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "183bfb6c02de0338b564e70ef61c3dee3db5c568db1f432d0d3accec5af82c7a",
+      "size": 31163,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/kowalewo_pomorskie.html": {
-      "sha256": "1f74057e37facf3a1bc175c43e8494c4083c6e187d73a3f1c7fe27e6a2c24c19",
-      "size": 26747,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "eb2f63ba842cb038a9e353ef5c7a708ac4a343fad12663a878f5b0d4920b02e0",
+      "size": 26703,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/marciszow.html": {
-      "sha256": "64570369bf33f914eda3ac1a9258e156685113b39dd74e533bfc988f240a44a9",
-      "size": 29102,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "0d7864142e23db60a6061073c8dac2d8959637ee1c353a9a9e0b46a7d6e2d1eb",
+      "size": 29086,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/pluznica.html": {
-      "sha256": "82c59e3aa11399cc21d3b93f6ed34a6dd7ba1fd5837184dea030dbf003fd843f",
-      "size": 26517,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "a0a3e998104c9eb4059d067b9c87e29bfa5c8b957c2e4b2652ed14304ab0378e",
+      "size": 26522,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/gmina/pobiedziska.html": {
+      "sha256": "0c47c0e8c3fc57d3404ec8bdddd0af02edeec6eb460297779cffa6d124a965b4",
+      "size": 8691,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/radzyn_chelminski.html": {
-      "sha256": "c83466ac82384b3f648149e3766c46a7745df5208f5bbd3b2544898741b9eb59",
-      "size": 26607,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "4f7ba15e05654fad697879374e456d773bbba5dab1933c692a528b447b639e5b",
+      "size": 26588,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/gmina/rynsk.html": {
+      "sha256": "695e449d010fc4bbd3b8f9f2f7d7306f46b4db31743236213685a23addbfd7c9",
+      "size": 26626,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/gmina/swarzedz.html": {
+      "sha256": "35fd6e47978913114e3256c332ec424020df112e9427cb85cabd08352155d4a2",
+      "size": 7585,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/gmina/swiecie_nad_osa.html": {
-      "sha256": "3f8f4e55da51c7b495f4fd827cb4a20bba0b9525ef05c8d027d4eed93e3a7497",
-      "size": 50978,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "67d84db1f7b44049aaa9e1c9bfd3a5c1c61b9fabce441e4a537e88683f35918c",
+      "size": 50890,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gmina/wabrzezno.html": {
-      "sha256": "65fa3332e75d36ef8c04e29a092ab33e3fe3c2e9b878a9f503a50838b7333abd",
-      "size": 26198,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "13c837e4658804a11e88d4ab286873dd925c4f66dc81d941ecb26324122abd06",
+      "size": 26120,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/gminy.html": {
-      "sha256": "a3f421077635a1c57c8e52cd203ea35aeddc9fd014dfbbde9b3d5c7d781d1b6a",
-      "size": 7972,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "cb5dc16a9cd51a06967282e08bd09c250916783d5ceda7b65929d29d952eef9a",
+      "size": 9763,
+      "built_at": "2026-07-01T23:33:27Z"
     },
     "/gminy/chronologicznie.html": {
       "sha256": "ad0c79ad4d23dba37271ff9d947afe3b3ecd6021a574abf768355d7b46fbad85",
       "size": 5343,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/gminy/historia.html": {
       "sha256": "9c9425613d11021b7608c00a80bed39ef35a4065862a817c72d8656d5954b460",
       "size": 4498,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/index.html": {
-      "sha256": "f7002325f4d3e2eb4b9328b8b2cee38de56072674d2075eb121f4a76853459d6",
-      "size": 4049,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "244c3fdb26525ac38111a669bb7c12bdd4ac31edeeb7303a2320c3424217887f",
+      "size": 4052,
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/js/self/route_colors.js": {
       "sha256": "f3ba69c55e4f134cc12f112c4743e4879ea8ca5c73f2c6b52fe1dcda98f73848",
       "size": 1041,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/jsons/e2e.json": {
-      "sha256": "b6b07cf6fe6b4ac0bad0f10823733917eaa3275376053d42033760c905ae38bf",
-      "size": 3938,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "7139fdd1f826457aab9ec2745c9df45bed3fa37e8cad8f0970b12c69353f4edb",
+      "size": 4216,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/jsons/homepage.json": {
-      "sha256": "dd2760d5bdea4916e482a0b9ce0d099cdc3e1794c7f534879bfa307c37359747",
-      "size": 397849,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "2e58d3be4b96d894f2d32c18dba447cf34c38e239bf04742e41f4a6ae421fe25",
+      "size": 19157,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/jsons/ideas.json": {
-      "sha256": "71ad5719fe4ae736322ed5f4249c7611de01e54d3a2a31232e5e0b42d3772825",
-      "size": 228116,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "da6d0bafaffd6a9ae24c40adf8dfb69e377d080d77fa8b7dc07f668644356b2f",
+      "size": 228262,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/jsons/map.json": {
       "sha256": "3b57b55a5377be1c948b5891c52c57a4a1dff3f98ffd1f3e5aa5b584dbeac176",
       "size": 39779,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/jsons/photo_grid.json": {
       "sha256": "5eb821643b77a10fca2ab37b0524a476f6e9e5caf8a1d9735c2d7577f0ccea2f",
       "size": 6339,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/jsons/photos.json": {
       "sha256": "b09d861c83fa775d7af1ef9995ab16f39d7dcc9431df07cc43017cd00b9a0904",
       "size": 89040,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/jsons/photos_map.json": {
       "sha256": "34255a0ee9280140211155d745c4b677da40e9ea2cf650bbbf6bc049bce958b0",
       "size": 122528,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/jsons/train_stations.json": {
       "sha256": "839669b56577e29786b567cbcd2d625d6787d6b34675db8471ffacc1ec12aa7b",
       "size": 8328,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/linia_czasu.html": {
-      "sha256": "d91be5219387686ca24802224255e3e542bcfb8ca6b5376ca87dfd61e1dba7c8",
-      "size": 5080,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "1e5fb0c64f876c22238f6dfc2e366eadea8593978cae1351851b41bf2659d58d",
+      "size": 5089,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mapa_tras.html": {
-      "sha256": "5aed7403f02800b0ca5ab44a267422d9377c8d0751736721993ec6afa0da9c69",
-      "size": 3026,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "71dfd6c0124fc3bf4173b9a09f9d67f332ae010ae1a55ad3c1f3d513df3d2f70",
+      "size": 3035,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mapa_zdjec.html": {
-      "sha256": "3613e660776db7b7a6930770676a603d72f9288659f8d2c08c683ae8d8161eb6",
-      "size": 3066,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "6b54bbfc70ccbffa41d8081eb5a5d1f8ffa1978588d14007ae8d20b83d8523a0",
+      "size": 3075,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mapa_zdjec/coarse.svg": {
       "sha256": "ec8f1dbb8e275a0d8ba3cb0f7987be06a088ada58860da306d368a6cbb03c24a",
       "size": 41867,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "04f0e556a42ebba8333368513c7eb4a60c5897671937ce56aaf19bcacfd9b983"
     },
     "/mapa_zdjec/detailed.svg": {
       "sha256": "ee54f9c9c8169168b2df5c6a00009f33619c50985b046a85cf330c50cb3a1ae7",
       "size": 72072,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "b67694c106737548c1f66343e9c58b2b45f38e88fe7133bb1fc181f2d3c08fe9"
     },
     "/mapa_zdjec/dots.svg": {
       "sha256": "2c65c0f84adb6f55db9bef25c94e5d444b4497d83cc7524ae4006dbc9c616133",
       "size": 79810,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "be5222c5baac5b4fb1b9b22a657028f8242f813ef7210157dac4ba8b370ab7e2"
     },
     "/mapa_zdjec/overall.svg": {
       "sha256": "df2a127331c65edd34f7e940419c2bfc54b79770d58914534b08c81c289a1cd9",
       "size": 65144,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "43673316999ebb41eafeb95b8e0429bb254df8ebae8fdfa64684a345e8e08ab0"
     },
     "/mapa_zdjec/small.svg": {
       "sha256": "fe6cf27cb554a472f71efeb14b8e2666612fbbb52fa146becc2a020f81d709dd",
       "size": 43361,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "072b0cda5cb2dc2de8608fa5057fe7abc4f07cab611fd6608f7594533c58136b"
     },
     "/mapa_zdjec/small_detailed.svg": {
       "sha256": "03c08e53d7b93218536732a266fe0378fd43d8f431b21fbd174ff34332a84a41",
       "size": 46967,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "ef5b329777226c34cfc0bb29e7233f129538d2c869af12c1a6ef736d22851415"
     },
     "/mapa_zdjec/tagu/best.svg": {
       "sha256": "f2abdbcb5f7eb6d91455537eeaa5b787e5b14d675721b682efaa436bae2302df",
       "size": 24338,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "874158e31ccae809e5a0b66b34300688de4e2cbc790ec2641856f6819055d833"
     },
     "/mapa_zdjec/tagu/bicycle.svg": {
       "sha256": "52425fba76752b818965f8968a9748a5b9d31de77fae2b542a447fe2f1f28a53",
       "size": 29989,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "85099d627b654fb445b6e2dd0a7b293c725f3a901fd37c77bdc13aa7a527f110"
     },
     "/mapa_zdjec/tagu/hike.svg": {
       "sha256": "0d31b2f4aad80e2918a648644939890621aa10777f71510032077633d9f78575",
       "size": 12652,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "6bc454fc425ca149ef4a26ba7854a899ecf27c3e3ff26990aeda9565b4aef20f"
     },
     "/mapa_zdjec/wojewodztwo/dolnoslaskie_big.svg": {
       "sha256": "6fbfba7aa35ae831d88f7ee1f923702583a85f585f8ddec6eb63a721daa31699",
       "size": 21100,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "716b56f81e43cdb97820ddbb315ef0af5f029c9fe0a24c9db29285bec83da2b1"
     },
     "/mapa_zdjec/wojewodztwo/dolnoslaskie_small.svg": {
       "sha256": "eeb44fd8e7c461b609954b810ff23700839fb5868936ab08a5e4b569ae193da0",
       "size": 14723,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "ec4016c11fa635c4fc4000f1e6b5615c0fcc67d4bb2610bfdfadf7be9488fc16"
+    },
+    "/mapa_zdjec/wojewodztwo/kujawsko-pomorskie_big.svg": {
+      "sha256": "089006d3ac526d475828ceed5babfb5009138f99ba5237ecbdaefd11da47ab11",
+      "size": 43263,
+      "built_at": "2026-07-01T23:15:36Z",
+      "input_hash": "0cbecdc9ff0466f72b02a83f5b0b151a8d1b18c0aa2593768dfa8234a2e61b37"
+    },
+    "/mapa_zdjec/wojewodztwo/kujawsko-pomorskie_small.svg": {
+      "sha256": "75b601f29f099c3270290c3a2ccf992fc35f2ffcecf901ecced07eaaef67e251",
+      "size": 33757,
+      "built_at": "2026-07-01T23:15:36Z",
+      "input_hash": "9afd2c3e4e10a2052066850d4ee3730068a9c17926a1d9efaaa5396e9e67b3ff"
     },
     "/mapa_zdjec/wojewodztwo/wielkopolskie_big.svg": {
       "sha256": "8439ea09ffe095865410e446b96637142073d1859ee389a2a8ce1973cc0fb7a9",
       "size": 70,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "b9bb264fd31c9b2169dcbcc42c9993370f8ab227e2bc6919b6d628d056b393b4"
     },
     "/mapa_zdjec/wojewodztwo/wielkopolskie_small.svg": {
       "sha256": "8439ea09ffe095865410e446b96637142073d1859ee389a2a8ce1973cc0fb7a9",
       "size": 70,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "d3792e383ba1a01cf0db0341ddd6fafdd501ee761962f9d8dfc9589de56aa499"
     },
     "/mapa_zdjec/wpis/2018-11-05-spacer-na-przedmiescia.svg": {
       "sha256": "bc76af1bb9c849f2c595883584fab06e1e1c3a088590c1e116951a4f3b977aec",
       "size": 6052,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "8c42f439a8a2c7cf62d1944eedbadca53ce592b9a205b61e411173220dea9b06"
     },
     "/mapa_zdjec/wpis/2018-11-05-spacer-na-przedmiescia_big.svg": {
       "sha256": "db566554e77ac7682cc3d51bc267e092be6766ae4637a7ba1551c18e0c9e85b6",
       "size": 4932,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "1ead30e21fc0023badeef8e8f0a5380c3bdf32196d89ca191ffa83f355653cb4"
     },
     "/mapa_zdjec/wpis/2021-07-18-pagorki-przed-zniwami.svg": {
       "sha256": "d31df58f9bd2ec4accd50c73f99b2b2771347022daea5f3999192e24a9a816e8",
       "size": 22603,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "95377108d2b8ef71ef0c7fa5ac775bbe2e2f04acce42c8fa102feee5ee8809e0"
     },
     "/mapa_zdjec/wpis/2021-07-18-pagorki-przed-zniwami_big.svg": {
       "sha256": "fa2bc4ac00d38013ca19767c7312a45eefd50cabee3c82dc5b31761dc019107d",
       "size": 18591,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "afff48ee3e91d47c6887f3c1d0bf8472da61a3baf974712a0b647cb8da32ab09"
     },
     "/mapa_zdjec/wpis/2021-07-24-w-trakcie-zniw.svg": {
       "sha256": "322a2516c1318ea9be37bd5bf7c861c240fde3acaa786c45e224db32aa2e79b0",
       "size": 22367,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "c9446244d31251ae8b70b59c6767710ea361cb76e073260b314c246106f8b3bf"
     },
     "/mapa_zdjec/wpis/2021-07-24-w-trakcie-zniw_big.svg": {
       "sha256": "26a9d78922050c68c9bfb1cf9cb38797f906a66b64e081e05a276d3b0986fbbc",
       "size": 20679,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "c5c70dc949658e927d504bef795a9a418fa5f5d1e5421746dc40dd6f68bae6f7"
     },
     "/mapa_zdjec/wpis/2022-12-18-zdazyc-przed-koncem-zimy.svg": {
       "sha256": "55ff6f11ea86242ec3afb5335b849bebda8c54af4906b8ab933476975681f791",
       "size": 14457,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "74c4525e910d2ab2d9c7bcf0256514936746a0f01a9c0a618e45c03f305a26ac"
     },
     "/mapa_zdjec/wpis/2022-12-18-zdazyc-przed-koncem-zimy_big.svg": {
       "sha256": "697e63a351b06e50cf1d73f012674e66f7a82a4575ad01a13bc062af585ca6de",
       "size": 9987,
-      "built_at": "2026-07-01T22:46:37Z",
+      "built_at": "2026-07-01T22:50:19Z",
       "input_hash": "ce890f8266f3f0f2e509cca1bfef6b889d5bf8b7b940f4a669341cb31c6ff9be"
     },
     "/mezoregion/bory_tucholskie.html": {
-      "sha256": "d1eedd56f866c4935fc99ef2b9010deb6512960fe44c7ce9e0cd241e6cdf85fd",
-      "size": 45317,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "a5baf2d92a988668af9ad9ea400a309fa8dd06d37a4322364e69eff0f2e806f7",
+      "size": 45358,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/gory_bystrzyckie.html": {
-      "sha256": "502fe2f8f825978674a484e68db5fd6b99739f0733b51b1edf3424029fe87e52",
+      "sha256": "06454c4ea02c643006e1bcdd7b12aafe91f2ab6fbbfc092415dc5898bad1d307",
       "size": 14423,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/gory_kaczawskie.html": {
-      "sha256": "b7043ddf1a8f8b3f3879af650e54e978232b44781bb16961e2ce01b7ccc05600",
-      "size": 30631,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "d1a1c7c6e1eae6775848f1211d5d462671a594458a7ecd7c441fd1f99db1a8ff",
+      "size": 30642,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/kotlina_grudziadzka.html": {
-      "sha256": "332e7a575ee5d764726ebd0b86407e5a5c2ab8c5d3eaa7c8e1ddcd7ce828ae7b",
-      "size": 32188,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "cc3a8f15de1929ad857e496dc03463dd771e05d00fd29e726a4f23c49b5e3463",
+      "size": 32198,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/kotlina_jeleniogorska.html": {
-      "sha256": "33edfb3bb77f6ca0de000ff75050f6f948ca583e4b99ce99df7b5a05317690ac",
-      "size": 30857,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "0b28d345094427a69af6e58312ffd7d80ac29922a3eeb0ad1dde16bd0feed4d2",
+      "size": 30848,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/pojezierze_brodnickie.html": {
-      "sha256": "fdd398caa4abaa36cac249e9c99fe6a2904f3388c1153ee1fc3bbfaf53ed539a",
-      "size": 55024,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "ab2d0c3639b627f4f3eb5baa5b5ed8b18341a310c61034fa48b84990d6764602",
+      "size": 55033,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/pojezierze_chelminskie.html": {
-      "sha256": "d02097eecf791e0ed5cd36dcecfcac3c6ed942e154912242b89802317b114fc6",
-      "size": 57533,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "f22199897ebfbfb21ab6f298b02ff70b0c79f07c5a062164edf2e6460102c0ec",
+      "size": 57620,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/pojezierze_gnieznienskie.html": {
-      "sha256": "9c17b6576dd34d100a79f4d73e7f696905c3679b67d7072f471c19063cdfd487",
+      "sha256": "7e0a4025485a5c49de40a513b2331ef401c49b3bbda1bcac47f36ad3aef7ba7d",
       "size": 15247,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/row_gornej_nysy.html": {
-      "sha256": "c00b986c989e9c7060941a55fc14e9ddb83b673977fc9e95a56582df05cbfe6f",
+      "sha256": "7e62b33b8969e0569e7c7a0d0f6fb7320e3d497fbfa4820c262ce3fb22aba19b",
       "size": 13657,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/rownina_wrzesinska.html": {
-      "sha256": "242cae4b709dc509ecb0c34757a510eeb0dc85dbf9d95a40ae37d0f8a7b63182",
+      "sha256": "275e9733fbf1c1772f90e38a0ae79e642a8b94fa8ff7038cf78889a9d964b768",
       "size": 15855,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/rudawy_janowickie.html": {
-      "sha256": "b17935fa0409f530573bb3b0c105a13cda7a967e947a795fc9ee971beb444537",
-      "size": 30478,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "150ad19a293f73642d43118bc1f96c206b4a89a6bac1b44ade8f69ec5a3b6075",
+      "size": 30480,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/mezoregion/wysoczyzna_swiecka.html": {
-      "sha256": "dbef3051f221d68d46871d0a36f7ffd5e6c3b43c7689c0f1492373fe3829cbe9",
-      "size": 34850,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "53e9fbbe10434e7ba938156b1199cd1f9f6cc36131581d2c7a86fae2cf15ca31",
+      "size": 34709,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/o-mnie.html": {
       "sha256": "09683a464395afbaed6acfd5fbb5d7b61ac4dd38562247f27d57bbfdd13925b9",
       "size": 10800,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/obszar/dolina_dolnej_wisly.html": {
+      "sha256": "a90db2ee61c3c224a38ff906d7ed961cfeadf5a6e409c539865da10acd236100",
+      "size": 39372,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/obszar/pojezierze_chelminsko-dobrzynskie.html": {
+      "sha256": "ae05b907d42c942f80465fa92724729edf0ff21b96e42a43b328f252d5876819",
+      "size": 67567,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/obszar/pojezierze_poludniowopomorskie.html": {
+      "sha256": "b9d04dde0e10c7ae80b7823d29a50ebb72f5028978e8a40b2e158918edbeca8e",
+      "size": 70951,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/obszar/pojezierze_wielkopolskie.html": {
+      "sha256": "71c735bafcd6eefa0262b0094c5f2cc614eb5a4e23b9d586988d997cab9fa808",
+      "size": 34504,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/obszar/sudety_srodkowe.html": {
+      "sha256": "3e6433636daaf7cc8c800640650152cbdd94c915406f9a56e1e55c0a8b8cf9a0",
+      "size": 22743,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/obszar/sudety_zachodnie.html": {
+      "sha256": "9a87ab817e7a5f55a58cae111b86a60037f69b14e5d765a24304b2f7563ce9dc",
+      "size": 33805,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/pois.html": {
-      "sha256": "bac05e542c159a3b4153c07b266d64b2f32634b5ef45c366ca2845844fe35069",
+      "sha256": "d97db311c2968b6d1f789884ba0cd76667e1c3d4a8a2e0bf86b8ea68b8276cfc",
       "size": 37657,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/pomysly_dla_zdjec.html": {
-      "sha256": "316c1d7b5539d3d403d6d40cf6e4835b9f3a4cb417a3f632de04e46faee976c9",
-      "size": 6056,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "14431c04bdce6813adaf9236c666a877c59bc6bcde79e34affa715760dd4b89a",
+      "size": 6069,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/pomysly_tras.html": {
-      "sha256": "e5b95953f13b8ac99a57c912854413489bb6dc90477bab8f9f975c1e73f62136",
-      "size": 3072,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "7480330c1e32c9cefa5d52a9233d4c788a2cf62e33aa7b704d19cc795769899e",
+      "size": 3081,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/portfolio.html": {
       "sha256": "55d88305d1c6798c811b0d019f3411daa73dcd623f657b65fc49e0afd9e4e568",
       "size": 15022,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
+    },
+    "/powiat/brodnicki.html": {
+      "sha256": "99ed98da147d0699079942eca4d3a4cead08eaa8f984879d765223723b0245c6",
+      "size": 52202,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/golubsko-dobrzynski.html": {
+      "sha256": "79749fa0946b07a9479aa6cbda8d6dac52c3b26af1dee4c8f5f877a8072cf0eb",
+      "size": 27598,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/powiat/grudziadz.html": {
-      "sha256": "62104d313dd83c77ff22276c85193cf5c6e333b9d4ccbd26e2f326a3de2df123",
-      "size": 30831,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "d50dd79f8629c373e79e1c0f586362501269ae4d4a98aea3f476355997a31783",
+      "size": 30762,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/grudziadzki.html": {
+      "sha256": "26a2e7d435a5f868184998a6c3220fe39b2843448a30cf16c0afacfeb340dd91",
+      "size": 51980,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/powiat/jelenia_gora.html": {
-      "sha256": "96e9ac512b216edfbef3c8ee19b921e9b46f518439db6136343fb2776678e611",
-      "size": 29417,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "7a6994b56b94cbc5cb258164ec2a5a5a5db3cb3896a77715bbebd69008160862",
+      "size": 29388,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/jeleniogorski.html": {
+      "sha256": "15c05cf9917d39847857cd3f6c4ed6ce4d834181438a9319e5158c3a90c10838",
+      "size": 30784,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/kamiennogorski.html": {
+      "sha256": "f132c0d2ec17fb31d7b18eacea0d31e429e33b088b4845a0c58e7796bd5f5372",
+      "size": 29820,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/klodzki.html": {
+      "sha256": "fcbc1c0fb2ca096e857c18fafd2fc5f15b6ab3d1b624e753b8fc65a94c004452",
+      "size": 14188,
+      "built_at": "2026-07-01T23:40:38Z"
+    },
+    "/powiat/poznanski.html": {
+      "sha256": "48b317cad2f11ba835791e5bb23cc7d56bef970ed2297bfba8e473f801a46936",
+      "size": 11104,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/swiecki.html": {
+      "sha256": "b84b7f1e70ce82d189fb1ecda8e16f7323619be3df7a0dd35ba6528f09b03685",
+      "size": 32376,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/powiat/wabrzeski.html": {
+      "sha256": "85f423d5075a44960e4c98c1c401713256c89223646fd1718c658dc20cee7bfc",
+      "size": 27407,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/bory_tucholskie.html": {
+      "sha256": "8ecb427133353e125e08542f3ec36634cd0a07f951b288bff0a45dded442bb23",
+      "size": 45264,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/gory_bystrzyckie.html": {
+      "sha256": "e306f15759390c40e81c6e74cbabdf1598340508e4b92b77889525bd0369a73e",
+      "size": 14403,
+      "built_at": "2026-07-01T23:30:13Z"
+    },
+    "/region/gory_kaczawskie.html": {
+      "sha256": "cfc3867a5f751a9bd3cf5fbbc0eeef62ea499a3eb1b30ff9f47b726d2a2abdec",
+      "size": 30614,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/kotlina_grudziadzka.html": {
+      "sha256": "ef7ff0e29cba7afa85a5ba35b059b4c3410955caf100e68792abc86771606714",
+      "size": 32261,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/kotlina_jeleniogorska.html": {
+      "sha256": "e59e323fe7aacb9f7875a861539e8169970bc4db56d3ad68f20fbb5a081f0005",
+      "size": 30809,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/pojezierze_brodnickie.html": {
+      "sha256": "509798351081866b174f2ee19e6702e19f223e729f587278ab31e3d0571b9612",
+      "size": 55069,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/pojezierze_chelminskie.html": {
+      "sha256": "741e02e8ef7d9751561aa9e9d4aafdeb08ec656edf179408007285b596e682d3",
+      "size": 57532,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/pojezierze_gnieznienskie.html": {
+      "sha256": "09e4246d957a7a94dd76298bd52ea35ba7d2c4b7491520369460fae8398d1c42",
+      "size": 15227,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/row_gornej_nysy.html": {
+      "sha256": "f71ab2f09ce7f8bf2ca0b5e8c038a20247f64230fcda2ef755e36b4195b34ad8",
+      "size": 13637,
+      "built_at": "2026-07-01T23:40:38Z"
+    },
+    "/region/rownina_wrzesinska.html": {
+      "sha256": "2aafa7606d7b78bc0d7bbe5aef4a324b2f51e223aef1b190af567a20a0471948",
+      "size": 15835,
+      "built_at": "2026-07-01T23:15:36Z"
+    },
+    "/region/rudawy_janowickie.html": {
+      "sha256": "c3ab89aab1ab6b62a5b4a2afce28dc8f04ffff918846878d0d129f3d75e8f962",
+      "size": 30452,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/region/wysoczyzna_swiecka.html": {
+      "sha256": "21b9222049f4ffa2ec74a7a51b46f4f05460cb4070b7b75d27b22410ec169b25",
+      "size": 34815,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/robots.txt": {
       "sha256": "d1d64ce1ca7090dcf7fa465150b26a00091dac6987ceb15a7a22525650cd9fb9",
       "size": 72,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/rok/2018.html": {
-      "sha256": "f7a26582608a1a7e689e27234c3d0fd63eb115c15596c9ab39c1ef81d4ebf7c8",
+      "sha256": "2690629b8206a1949e8b651d66ed18a54118023d26e82c0c688d3c8117bc3289",
       "size": 12492,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/rok/2021.html": {
-      "sha256": "2955c2988b410579e05c6f8204f0a8fb9c1c5d7b49e9705e6aec3005d8885e6b",
-      "size": 22382,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "94a819f80000a352c768f34ccd3b0e8fafe16e693e11e331f87531024548d3a9",
+      "size": 22384,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/rok/2022.html": {
-      "sha256": "cc52886d073500399c23fce7cd8aa970c1e8a4926773113ee2cb3ee83391cc3b",
+      "sha256": "3bc5da38fe12b0e019be6cdcda241df55b85e1fe09a30f19a6b30c083371d1c1",
       "size": 13571,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/rok/2023.html": {
-      "sha256": "6d33499d21b90dac484021bb4deaf0f9575425a4ff74ee44d43f861f1cad6ba9",
+      "sha256": "a43d40835e5ab2365e6e787e18a386fe1c737affcafd4472c48cad76ebeeda3c",
       "size": 10926,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/sitemap.xml": {
-      "sha256": "f6d8b3c15f72922ab8e06abab3195d11cf1d6b22a4fe69df3708e4b5c5f48ff1",
-      "size": 18366,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "7473953e8cce44f79c49a19ff70cbbd5a10724fe6fbe5556645aa80c75c4712c",
+      "size": 24384,
+      "built_at": "2026-07-01T23:30:13Z"
     },
     "/statystyki_exif.html": {
-      "sha256": "c168b902e7c38bb496b764e96a4b0f2420aad51d5af0c4471ce8824f0bf8d88b",
-      "size": 12123,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "c1c075330666c8f747d6ea8e9f3fb42c9d530dd71aa912690d6f9dbf10cd42f4",
+      "size": 12142,
+      "built_at": "2026-07-01T23:09:23Z"
     },
     "/tag/artykul.html": {
       "sha256": "41e26c69c77b56525ad6af096c49e66f34c08124ff6dfd37c846ef0c8a4a36fb",
       "size": 499,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/autobusem.html": {
       "sha256": "a335c1e6c47036c342c808493e3197eed9b114d6aaf72976feeb01eb83827f95",
       "size": 507,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/bikepacking.html": {
       "sha256": "913a16f43739964bc3553833fea79f44e3f1e746b7fb266665b9c65ab78aa5b8",
       "size": 515,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/do_korekty.html": {
       "sha256": "ff7b512ad7f7cb70c83a984829d5cd85b06b73396e0f14acbb68a98736fcc132",
       "size": 511,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/dodac_zdjecia.html": {
       "sha256": "2a92b3e0485315eed5c88d8ae9d23226fd55d7254d41d2acc8335eefd5b00de3",
       "size": 523,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/dodac_zdjecia_pozniej.html": {
       "sha256": "af55fac0b643309c799e1aa0fd7f299318924f432ec2e1765b38210381cdff66",
       "size": 555,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/domowe.html": {
       "sha256": "80fe15c448f322b15cd8d248eecb90925f727e3e780ccdabe163492d9b3ac6c9",
       "size": 495,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/elektrykiem.html": {
       "sha256": "8f964d7a0a52704db8f5be1629e28530d859d8317f4d92b65417133bd7a93869",
       "size": 515,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/gory.html": {
       "sha256": "da9facbbfabc984e618a76cdead9c9fa8e0fea75bc3efc5faf60eef5edba1c25",
       "size": 487,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/kolejowe.html": {
       "sha256": "c08444b1e79622ca57b53faaa4e144a965c1f49bc1364ce6c5ef01b1f7ce6d3d",
       "size": 503,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/koty.html": {
       "sha256": "a5793988c3de95e0135483fdf9e1411e69684c2a0ffbd14d3e4780284f9b0933",
       "size": 487,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/miasto.html": {
       "sha256": "8a5e86d29c31a2ba29a08e5abfca499281c8445dc54f57fbf8aba7225a0d806b",
       "size": 495,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/najlepsze.html": {
       "sha256": "50adea9bddbfa94486b231b505441e8f1f3e974e3446a4c3019c6244dfac760b",
       "size": 507,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/niedokonczone.html": {
       "sha256": "8811b77a92116d5e1413f8ac609eb50df86be86800b96da9d78e4d3fa7408a0c",
       "size": 523,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/opinia.html": {
       "sha256": "f9faa16a77f6f02dcb56d4f8c743a8b4ba93435a7078a6a5042478d5bcb22199",
       "size": 495,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/pieszo.html": {
       "sha256": "18a7856160f1863586072fc998f7909b1777d5ec2c1a0969c9c6785d26fd5241",
       "size": 495,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/powietrzne.html": {
       "sha256": "01cf86f699bec9b4f73590a55379efe52c0db010bc1016e6aca6afae3b78d2b9",
       "size": 511,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/ptaki.html": {
       "sha256": "e9323643a8dc7f1297fc38b17d123490b704d3f13e6921c9859e343cba22c3f7",
       "size": 491,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/rowerem.html": {
       "sha256": "ece1dc932a03d23838d12799be695678a81a9a11618c6700a3ffc2e2db102743",
       "size": 499,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/sakwy.html": {
       "sha256": "f09325ebfd5abd4110ba8479617a9818b8a15e0537420af9367ec728c88c09bc",
       "size": 491,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/samochodem.html": {
       "sha256": "15d2c23b0e5a082e919045338b60b6e8f8ffa5fed987798153e4ebb438cef972",
       "size": 511,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/spokojne.html": {
       "sha256": "005b637bec736c0d1ced4eb35208e9d226db183b98989d85d6cb297ff30463d0",
       "size": 503,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/strona_glowna.html": {
       "sha256": "92715eedcc21e9701a7d4d28eacbfc085360e0f279d732d5c7e4c4107ee8f746",
       "size": 523,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/warsztaty.html": {
       "sha256": "4188af8a812b7fdc0921c4ee436b97fca65022baf4cdfcba3c6ef753c60917da",
       "size": 507,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/wies.html": {
       "sha256": "6d5af60743d138510e429d01574900be1f0939861a66922a30716c71ad6d5e43",
       "size": 487,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/wybrzeze.html": {
       "sha256": "0d4d48d4601208819f8dff41dfebf6bce7e6cc630bbf41dfe108ec48cd41e22a",
       "size": 503,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/zdjecia.html": {
       "sha256": "518d6c42560460919987650b71792e4c67dd40d95b3f6fd858fa74d82a57cc8b",
       "size": 499,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/tag/zdjecie_roku.html": {
       "sha256": "29a44b938af328fffb1ec105772846ed9a4c0928e29ebf092ff4f8ef828a8796",
       "size": 519,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/wiecej.html": {
       "sha256": "071ab1cb946ea12c98e4663e819557d4c6e983d2f657031c3891ff650daab8f9",
       "size": 8933,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T22:50:19Z"
     },
     "/wojewodztwo/dolnoslaskie.html": {
-      "sha256": "ea40bb47dab629ddf8a0b5ce636a96057acb7e0962e25b641c24775f840894d0",
-      "size": 45364,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "dcd423e80381aff1db6704b5c495807222084d21482595d89ccba420121f87ad",
+      "size": 45348,
+      "built_at": "2026-07-01T23:43:39Z"
+    },
+    "/wojewodztwo/kujawsko-pomorskie.html": {
+      "sha256": "b64343f56f001528cab60e12c2a2ce6aa7d5aede5a68c72cf1eaf0fdf47cbfa7",
+      "size": 58740,
+      "built_at": "2026-07-01T23:43:39Z"
     },
     "/wojewodztwo/wielkopolskie.html": {
-      "sha256": "1fe0beb3078da016a32747171cfd5d7cbe19d474ab355758fc0aa908017ec49b",
-      "size": 17423,
-      "built_at": "2026-07-01T22:46:37Z"
+      "sha256": "f4368d581052b8007eae49cf4a8a5ebdbf2ddbd692d62d5ff502f79349b7199b",
+      "size": 20532,
+      "built_at": "2026-07-01T23:15:36Z"
     },
     "/wpisy-dla/gminy/bystrzyca_klodzka.html": {
-      "sha256": "f9d49e233be4b4e149425e2bb3ef46ddf4e6ec0d83242f6fb31c579199c98471",
+      "sha256": "16ef17729ec023387e037ac203b8f6616e65323b0c00e34818ed549ab818504a",
       "size": 2736,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/dragacz.html": {
-      "sha256": "4c029b14fbedf3bf2fc0d292f966494c948dea264f937a14183247d419f5f2f7",
+      "sha256": "d6ded35b9c39bbf5d8e78a078cca36075e58683c06cb1f8d60730947c1602f21",
       "size": 2684,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/gminy/grudziadz-kujawsko-pomorskie-miejska.html": {
+      "sha256": "0f853eff962404951b899a372dea0a3663ea8d7cf23aaa333f45aa07aa813d17",
+      "size": 2777,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/gminy/grudziadz-kujawsko-pomorskie-wiejska.html": {
+      "sha256": "94e5f83de287beb4929de68b8faf979fcf6a151260106aa4b237934e84ccc7e5",
+      "size": 2777,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/gruta.html": {
-      "sha256": "a34202a07b8d963208762108adc58d8efba11181b892d8aa7249248702d9c7c3",
+      "sha256": "71432db54d728108edf60cd59a86e01b1c46572da9146aa12803397bb45706a5",
       "size": 2674,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/jablonowo_pomorskie.html": {
-      "sha256": "1dd71be7543089f353bbe81da24cb8bcdfd56df44fc0cc8fa0c0b6be900bd0eb",
+      "sha256": "8961be6314de3e11959e71abe5370049c5b2cefeb8e82fdb53613e69b2292460",
       "size": 2746,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/janowice_wielkie.html": {
-      "sha256": "7d505fdac40ec472e3af5b323b19ff2a73de9565bfc289523695fd2d2a806d54",
+      "sha256": "324f9c232b4d60163b4fcd04f94fa32903df44435c2336f2e066e13712663910",
       "size": 2729,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/jelenia_gora.html": {
-      "sha256": "f1a3ed0b994798da78aec7bd7c786734272e383740b4688632260984bedd2937",
+      "sha256": "ccd276c39f8b708f30c59c667409bb7c74bd13d3e5f51cdba780730a9de711ea",
       "size": 2711,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/jezewo.html": {
-      "sha256": "a4e0dede893ba7dd50ea3852acd24b813fcae46adfad66244213af2b43e2c161",
+      "sha256": "97ed8c753f813fad1ce1ef864d482143a811ff796b532f5d6e6dcd2006ab93ee",
       "size": 2681,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/kowalewo_pomorskie.html": {
-      "sha256": "25ec4c93aa8df2064b21398f5b1040b8e206753321b9d4021cd13f9f9f17dfdb",
+      "sha256": "4c03f3cda1877ae53f67c5b7b75a6e593d3d97933fe63507e59edb08bbd67dda",
       "size": 2739,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/marciszow.html": {
-      "sha256": "594e9fc0b00bb28c687383e94f6e6db748c3e59bfd74f0d8afdd1fe2f142139f",
+      "sha256": "14cf37016e8567cd57f3525a1a42f11131663e59d00b5a5201acd9f7bb479461",
       "size": 2696,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/pluznica.html": {
-      "sha256": "161225723bbee7fe0db4db75c8e5a75c4c64b77142caf15d9c53031b36787c10",
+      "sha256": "87f160cdfe4532e02f98848f039d5eb10bdd81a5b5431dc36c88dcbf8de15ff4",
       "size": 2693,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/gminy/pobiedziska.html": {
+      "sha256": "61cb8f39c96d4f9eeb050a2f821eb69e604dd56dd52a17d47c7fbb09ca8e0ef8",
+      "size": 2704,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/radzyn_chelminski.html": {
-      "sha256": "0afd026b4d15bea86ff41e23e14b8bc4615e4270530824e35a96ac85f0f53044",
+      "sha256": "931bf96b8b95d2ede3cd5954eace867eecda2eb905f81deb8727cb657d581be4",
       "size": 2740,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/gminy/rynsk.html": {
+      "sha256": "3fca5723d52a3b5deb74b729191f0ebbe82a2be0be1b66130d7e209ecca88d55",
+      "size": 2676,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/gminy/swarzedz.html": {
+      "sha256": "10c61dff892dda7b4b293bf9c6352e76ef4ebd407fed8bc17a147ac77fb300a4",
+      "size": 2691,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/swiecie_nad_osa.html": {
-      "sha256": "34e41831a1d7b4b40e3d7116e58920756525d90f5b77166a79fedf5f72076197",
+      "sha256": "0a003315d14bc3ad73f1a9b08367cabbc55a605e8d28e44186715bd183ce2d90",
       "size": 2728,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/gminy/wabrzezno.html": {
-      "sha256": "88c0f009825e4e2e01bc8fcde96834a83d144205266987dcf76c4e0cec92ed30",
+      "sha256": "950e897b94abd40268acea4df21eccc5173a213829a77505fde4f5ae5917d7d4",
       "size": 2698,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/dolina_dolnej_wisly.html": {
+      "sha256": "3b7b99a4d41485ee5f1bfc61bbf6fd41df41b21610284d854a1775496f9ab972",
+      "size": 2758,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/pojezierze_chelminsko-dobrzynskie.html": {
+      "sha256": "5e39a6771d5ad82f1fbe55d3c1a2611023dd5899e126f594de47a8bff3cb73b2",
+      "size": 2832,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/pojezierze_poludniowopomorskie.html": {
+      "sha256": "8f1380a4fc7ef23365572f07f3fb42fc2b9816a932885477fc8bdc697404273f",
+      "size": 2813,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/pojezierze_wielkopolskie.html": {
+      "sha256": "ade9c533f45e75c9a17ad91ed5639d2ffa0195927f0e740a2d4967e7db4b0a8b",
+      "size": 2781,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/sudety_srodkowe.html": {
+      "sha256": "653dc3ab58ca4e59d67ce681406ee6f6d4067fe0c6d280dea4dedfacf19ca2f2",
+      "size": 2738,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/obszaru/sudety_zachodnie.html": {
+      "sha256": "d91b8f23449b6f25eb7c08b75a98f246dd427a8ab4bea4ca64112cb2b84d5157",
+      "size": 2741,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/brodnicki.html": {
+      "sha256": "64570c79d7eada980161d73bd1449687a25a439e0209af54deab8282efdf3e66",
+      "size": 2700,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/golubsko-dobrzynski.html": {
+      "sha256": "9c23c869ee122600e660d38741b6de74c28ebb7c3ed1e100284c6f1ebee19975",
+      "size": 2752,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/powiatu/grudziadz.html": {
-      "sha256": "cfad6bd563a6241284be7806d4c7e649b43bc0e86a1a14d2418b0654582aafc0",
+      "sha256": "08d2fc64487fa77097332fc61645270b8f1e5debc9e301173add739cf9394864",
       "size": 2702,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/grudziadzki.html": {
+      "sha256": "3ca395e58d70a772654e5dc755cb6e66f5ed2450edaef6e9386a8903afe1d171",
+      "size": 2712,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/powiatu/jelenia_gora.html": {
-      "sha256": "7093df9c80d564247b4b4b498d0ac6b10297a8ede755b6a519d42f941ad654ca",
+      "sha256": "1b51010a7114fb60a91f0db076a74b713f7b35cdb831b082b32ddb7f67779f34",
       "size": 2717,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/jeleniogorski.html": {
+      "sha256": "3b023379f43e853827cc7e00c6bfa76e573a245ecd81b290da785b4886c4a122",
+      "size": 2722,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/kamiennogorski.html": {
+      "sha256": "af93734bb00ad16c75a37b3db9602da323041b038385abaf7233ae75a52ec7b6",
+      "size": 2727,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/klodzki.html": {
+      "sha256": "65f3101786f2aeed683596856a581796ba80c3eb117e77b1382b88a39641f246",
+      "size": 2692,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/poznanski.html": {
+      "sha256": "54ca6b19c18fd0390888b7feacedc938bf9299b655579e6bd5ca892455ef1b59",
+      "size": 2702,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/swiecki.html": {
+      "sha256": "c27206b97c1b17ee09eef47e1692b6bb44d8d0951b96e618f2df081f3e39ecc4",
+      "size": 2692,
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/powiatu/wabrzeski.html": {
+      "sha256": "13d2da07bc0ffa50764601a43056d2c26b5c32cc7b7d5364ace934d9a2b63138",
+      "size": 2702,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/bory_tucholskie.html": {
-      "sha256": "954882ba9bf85276957ea8dada372025f1703ec356ab48a1d07d684fb48337fd",
+      "sha256": "1253ba431e13b3079417d3781dc5edee0e1d245d7e998931e551fef12d141e70",
       "size": 2735,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/gory_bystrzyckie.html": {
-      "sha256": "617eb3add12656b63694de44813444bdc713623faabd7f89282780fb179288ad",
+      "sha256": "19317ab5f46aede5bebadcc87ad6d0cbe83bf0114e2ef5b0797bc96c0c243eda",
       "size": 2742,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/gory_kaczawskie.html": {
-      "sha256": "bfc852e95d820ba685171efb261277744a78b0468f0309d0b27c33e6d14b63c6",
+      "sha256": "69b8b0fb3e4231ae293829c4ebfa18db050a2d2a0b482e2fc561f4059e164793",
       "size": 2737,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/kotlina_grudziadzka.html": {
-      "sha256": "0026eacafa0e5504c7eb3b1ad9e7b6ec017b95f3009a1ffd2262051ee4c13b65",
+      "sha256": "1a95aacdc9cb5214f945ef98c6dba08096d193e15dea1db1df441b231f85a3ee",
       "size": 2757,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/kotlina_jeleniogorska.html": {
-      "sha256": "86fee392c141b5339e88efd69289805843a5a538581b75ec1dee1e51883fe4b5",
+      "sha256": "986de8285a10b8166ef0e56b77ec7585eb01dad45e51a2d5d0d89128305e5c36",
       "size": 2767,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/pojezierze_brodnickie.html": {
-      "sha256": "1bd7abd5bf53fb74e0333813d1b394a018dd6ed72c0ed01567706fcf0baa954d",
+      "sha256": "4a90d3fc380156382856c030784c21dd545b241d1754bf9691617eb949535b17",
       "size": 2765,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/pojezierze_chelminskie.html": {
-      "sha256": "48579a7085a4619eca97881fae560f07e57cd7fb310852a5d879733720288e94",
+      "sha256": "8323735d72d3264fc8d8a4a2a881182e374bc8c99e71673fb3285e1a9a9da867",
       "size": 2774,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/pojezierze_gnieznienskie.html": {
-      "sha256": "f16dd65d2061c8ef136889224444a7cd3bca7c36aa961e65826bda9afeadf36e",
+      "sha256": "793e4321c17c2491a7c1f97e0dc486fb32c39e42d86b23be029038c9bf0c8c66",
       "size": 2784,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/row_gornej_nysy.html": {
-      "sha256": "f46f106083597a46628825d2776601392d19cd8c3994387c1e66cbba7f92ceda",
+      "sha256": "8ac26270fae80b82f093bfb0fe8b5bc538fd21afda80ac479b93c430a87ef929",
       "size": 2739,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/rownina_wrzesinska.html": {
-      "sha256": "3abcea98adb1ef7f76258737231439cd933d1c757f5a5089fe216952b8ed3640",
+      "sha256": "b8867b4103a12ba8038d918657092445d8ef6a92b305c18f6d03689f51dbbfcc",
       "size": 2754,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/rudawy_janowickie.html": {
-      "sha256": "b3b317818abe831783e7e3fdefe224413877efab5fa978d9a2e247248ee03256",
+      "sha256": "24625aecd861dfb3d9c67a818a61d079ca641ab33c30388950158917852ceb07",
       "size": 2745,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/regionu/wysoczyzna_swiecka.html": {
-      "sha256": "a8fef718308c47455a94e7b54de5232bcce58e1982ca5314675c87f1a478b759",
+      "sha256": "ae4dd0f751d0221c5a6549e9193e60877906020e1136e791207d993b084b3899",
       "size": 2752,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/artykul.html": {
-      "sha256": "effc36d60d00a7af44c0d04e3469dc4ed5101318b66118d1bd4fd3e6ed6a78f4",
+      "sha256": "32384b9e87d00d580577c7c1b97c5bf8c4b31206d0c01bae82e08addabbbaeb8",
       "size": 2677,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/autobusem.html": {
-      "sha256": "48f1d30b6d3e4ccad903eea50c33eb07129f253e3d11bd73aa6ff88c5bfeeab2",
+      "sha256": "7bc751c86b03f5882277f026dde088e19182b4c252883f53b4117b5fe974bfae",
       "size": 2679,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/bikepacking.html": {
-      "sha256": "d5a9f716043a073c82dc7bf1f5df9a6d1abc5fe33fd16eb02e70a21824ccfc07",
+      "sha256": "274e69f1b15ce9bca686ace60ff7ad63c1874678bb130e6a4a2a058c6d00176b",
       "size": 2693,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/do_korekty.html": {
-      "sha256": "a284ff9cabbb13d4642c54b02321fbd7a79ba03a1a518dd6c3a70cc2511dbafb",
+      "sha256": "258213d859fe796edf70e0eaaafe017ea8f0a681a0298d9c9aa63d4b2214b7e3",
       "size": 2689,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/dodac_zdjecia.html": {
-      "sha256": "520be148738155fa578db39e49655be0a2b76d420d58d3a256ce0d4d191cf5b5",
+      "sha256": "09a31614fe687c35f6682556b83006c833e10fe08b4dd36d6ff0881d8d0a96fd",
       "size": 2704,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/dodac_zdjecia_pozniej.html": {
-      "sha256": "512d3566425a089e05c2388b6e2979739a8cc3a7e4c28ac26b87045cac6e2478",
+      "sha256": "1ee7692db114706f495e9b27151c6b99e89e9ea441f27f26e4c7969582523740",
       "size": 2746,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/domowe.html": {
-      "sha256": "169c903fae4edbee64d200e1ba1cd059fbf1c86b4eea9ed67acdbf97cfead661",
+      "sha256": "664c039ec6cebd843c00e6054fe91550b721dfbef83260d038acffafc6a5cd92",
       "size": 2671,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/elektrykiem.html": {
-      "sha256": "890e9d670a1dfbafc84c1a257956a2950ebb34b697fc78ec8bd58271ea0813ec",
+      "sha256": "55ccfa6db5f88970856946fb4f19bdffd3d7e67171dc0ccdd28a4dd0cfe8aebd",
       "size": 2704,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/gory.html": {
-      "sha256": "bcab97223c4a91a38c1bf61cd448e876ff571e8e5e5b64d716560cc223876e12",
+      "sha256": "dbe0a0c827e6cd5d29ca9e4c5a8199df3a64adafb6ffd58b99bb9fa3958e6bfe",
       "size": 2665,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/kolejowe.html": {
-      "sha256": "825f873f7fd6d9e7af55f4b2890bde230fbe705bf60cf340a89b6cc13fea26cf",
+      "sha256": "107eeaea770d5c4fe77d00ca140a9db5ee1cd06046c76ebf0d3fa1794d76cd93",
       "size": 2675,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/koty.html": {
-      "sha256": "274e3bdd25c54fd29cbe02d65e1f50b2fc924f38db2140273d784a21b2803b8b",
+      "sha256": "66925be99f30a776055d54d2eda77c6317a2dc29ddf3c40ec07487c1f14150c6",
       "size": 2657,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/miasto.html": {
-      "sha256": "7e04efbb01198f69a4cec0ffab17d4664adbb1b2c08e42b27376357c1f049f75",
+      "sha256": "d9d08de264d519e89b6e83d2098414c53f261c3749b3a0000748f3d78120fd54",
       "size": 2666,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/najlepsze.html": {
-      "sha256": "d1e850040cc800b63a9c0f84d7f1468f10cb57725ba0bbffea8efb9998f15604",
+      "sha256": "c0239951d19656861d754015931135a5e380e0639b23496a604d6a8ea1154373",
       "size": 2678,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/niedokonczone.html": {
-      "sha256": "b5e4680c7d87dca5b5eee3efd0f429319dc6150f1e012a7f065539b71407058d",
+      "sha256": "f0a3a46d2236d7b4fd2f62427684c40fb841b7431869db65b7464581a65e5d78",
       "size": 2696,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/opinia.html": {
-      "sha256": "8e503eeaf21eeb499e954ae41ae3b1e5f37bd5c5348b776e131da9de321be1b3",
+      "sha256": "d2fa4597737e0d975fb16270c2bed322e9afa40c70de845348a9fb9fb4af346f",
       "size": 2669,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/pieszo.html": {
-      "sha256": "dc269c3c357bff1e4aa581aecf7987cf70db04f3b4efe93ee78e212b23926b50",
+      "sha256": "07f9d358c3b426bfb14ca8cef534f7780bd9e9f7a55b2451166f001b3d61647a",
       "size": 2666,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/powietrzne.html": {
-      "sha256": "dcfcde2775842b4c25d6603160c174d765323b2c38bd507c1376d22ca155314c",
+      "sha256": "92a5241ce185dec0c23a98e6ee34e3e5c9fa021728d8de53ca1599a0a9f6e9be",
       "size": 2683,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/ptaki.html": {
-      "sha256": "b6baf78b1c02b04eb1ebad5e01f08fd44f0301f3bce6b46775611a7da0999b11",
+      "sha256": "963fa6eda16671841cf6946b7e79dafe4e7fc52c88523a2a15ea1f2fb1375c4e",
       "size": 2663,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/rowerem.html": {
-      "sha256": "2bba31ab915dab7309e784fc79afb8f4016583f4712f77c10311b4f25284ff42",
+      "sha256": "4b7f5d92f9d984e9476fbf9bf8a500271f5306d8c7f3645da2ed35c19d4c26ee",
       "size": 2673,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/sakwy.html": {
-      "sha256": "fa9fbadf4d30c08201227015a2ec768766d296dca2b0df5e25fa13a6c8e04b9f",
+      "sha256": "770b91ed75daf40f6a34c8aeb34b3a620f5cdfb5f2ee6eacdeac8eede37cbee4",
       "size": 2674,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/samochodem.html": {
-      "sha256": "6fc076a8876e5acfd74d22e93b44f5f2d24b0e4f83c098a9dfcfe81f474bddeb",
+      "sha256": "3ea1303ab7df69561d674abcd401f810ed44b327d1c7e4a2ab9403a49bde74c0",
       "size": 2681,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/spokojne.html": {
-      "sha256": "aceb984cb1009c6551b1027a3f5f9d9277f61a2b7adbc077097bf265371c2926",
+      "sha256": "a717494b717afa41fb0afb4d297871bd7273fd3f450597797c94deb4e1c87771",
       "size": 2683,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/strona_glowna.html": {
-      "sha256": "90c5430a51db42bc63b8bd372b088f05ed792c6460db50d53a0e4089ac016c94",
+      "sha256": "0d9c98a42abb42ef30580734684f16040ec34c66ed9a61e6bc84fac370c3154b",
       "size": 2698,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/warsztaty.html": {
-      "sha256": "fc529f19bf2d68be86695a6958a9be2460e81a105581930d05d917e09e85b327",
+      "sha256": "cb7b0410049925dddb8b51d9c878215cc2d8084c713c93e40efa67d283516250",
       "size": 2682,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/wies.html": {
-      "sha256": "9d837d1f411b2c979d67484fd9984f020ef68d35ce6a802dc6813e499e111f3b",
+      "sha256": "9c93b6a07d9b99e9d7aa5e60fd93bf62b95857230a351c2920c0ac7d76ea9b74",
       "size": 2667,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/wybrzeze.html": {
-      "sha256": "8c1a1bedcde511297b2342608d72c3570a8fef412d85f3cf62ad88129590c1dd",
+      "sha256": "bff5525a18d44f1a0f3045d94439b73038b9cb3169408c0f263cfe0d8d3c4a7b",
       "size": 2677,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/zdjecia.html": {
-      "sha256": "b35264e2f795087fa0a99745b83800cf80004538893c73644843a69a9ce315eb",
+      "sha256": "b28f26a06c6860eb31b7cc605e9f11a4a53e31881694399a61ff96c66fbeef2f",
       "size": 2673,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/tagu/zdjecie_roku.html": {
-      "sha256": "b4bb0e21235a5220a1bb7c1c889c5ffba9e7e73438b4fa527b525d70d07a56a3",
+      "sha256": "a49be99b7428a4cd4aabec553556abf4d2337b6ca6eeb8142b209ca18f76acfb",
       "size": 2705,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/wojewodztwa/dolnoslaskie.html": {
-      "sha256": "1184a22e75ab4f78481a3346b115a5c3acc0f4caad42b1a6c2c168746f9db5db",
+      "sha256": "68a25999786f65c8a98772000d716d73f1b9cf56e0cb0965b9081fb8a1974748",
       "size": 2732,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
+    },
+    "/wpisy-dla/wojewodztwa/kujawsko-pomorskie.html": {
+      "sha256": "d74188bf04480dafc83f20d74495d1d77d31a6812e22684c5b39e2fd94b64861",
+      "size": 2758,
+      "built_at": "2026-07-01T23:40:20Z"
     },
     "/wpisy-dla/wojewodztwa/wielkopolskie.html": {
-      "sha256": "89db56c5ee0eec3912f2d660a0ccfdbc9ff2a2284d1226e84ac3fc0718535525",
+      "sha256": "b4732fe31df783883181a212013b285e9082f1305f2cd245fee67f847c8573cb",
       "size": 2733,
-      "built_at": "2026-07-01T22:46:37Z"
+      "built_at": "2026-07-01T23:40:20Z"
     }
   }
 }

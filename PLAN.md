@@ -20,9 +20,13 @@
 | 3 | View rendering & template system | Complete |
 | 4 | Post rendering, homepage & tag views | Complete |
 | 5 | Feeds, JSON endpoints, shell pages & static content | Complete |
-| 6 | Complex views (year reports, photo galleries, SVGs, POIs, debug) | Planned |
+| 6 | Complex views (year reports, photo galleries, SVGs, POIs, debug) | Complete |
+| 7 | Cleanup & caching | Complete |
+| 8 | Image processing | Complete |
+| 9 | E2E parity with Crystal output | In progress |
 
-**Current stats:** 175 views rendered in ~45ms (Go), 43 view tests
+**Current stats:** 206+ views rendered in ~110ms dev (Go), E2E vs Go output: 211 passed / 18 failed
+(remaining: social meta tags, portfolio lightbox, article photo width — see `go-rewrite/phases/E2E_FAILURES.md`)
 
 ---
 
