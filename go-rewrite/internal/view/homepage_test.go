@@ -77,10 +77,16 @@ func TestHomepageJSONRender(t *testing.T) {
 	}
 
 	json := buf.String()
+	// Crystal HomePageJsonGenerator shape: flat lookup arrays per area type
+	// (towns/counties/...), no nested "areas" map.
 	checks := []string{
 		`"posts"`,
 		`"tags"`,
-		`"areas"`,
+		`"towns"`,
+		`"counties"`,
+		`"voivodeships"`,
+		`"meso_regions"`,
+		`"macro_regions"`,
 		`"pobiedziska"`,  // town slug in post towns
 		`"Rowerem"`,      // tag name
 		`"/wpisy-dla/tagu/rowerem.html"`, // tag URL

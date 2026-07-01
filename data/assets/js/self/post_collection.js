@@ -47,7 +47,10 @@
         var posts = (data.posts || []).filter(function(p) {
           return p.visible && p.ready;
         });
-        var tags = data.tags;
+        // homepage.json ships tags as an array of {slug, url, name};
+        // index by slug once so renderTags can look tags up per post.
+        var tags = {};
+        (data.tags || []).forEach(function(t) { tags[t.slug] = t; });
 
         // Filter posts by area or tag
         if (FILTER_BY && FILTER_VALUE) {
@@ -181,7 +184,7 @@
   }
 
   // Renders tag links for a post card.
-  // tags is a map {slug: {url, name}} — matches Go HomepageJSON format.
+  // tags is a map {slug: {url, name}} built above from homepage.json's array.
   function renderTags(postTags, tags) {
     return postTags.map(function(tag) {
       var tagObj = tags[tag];

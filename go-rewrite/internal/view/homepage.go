@@ -32,35 +32,42 @@ func HomepagePage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJS:       "/js/self/homepage.js",
+		PageJSFiles:       []string{"/js/self/homepage.js"},
 		NavStats:     stats,
 	}
 
 	return NewHTMLPage(url, page, views.HomepageContent(stats), true)
 }
 
-// HomepageJSON creates a JSON endpoint for homepage JavaScript.
+// HomepageJSON creates the /jsons/homepage.json endpoint consumed by
+// homepage.js (hero + category chips) and post_collection.js (post list
+// filtering). The shape mirrors Crystal's HomePageJsonGenerator exactly:
+// flat {slug, url, name} arrays for tags and each area type, and post
+// entries with per-type *_slugs arrays plus a top-photos `photos` list of
+// {src, src_avif, alt, points}. Both JS consumers and the e2e suite encode
+// this contract — do not rename fields here without updating them.
 func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
-	type topPhoto struct {
-		URL    string `json:"url"`
-		AVIF   string `json:"avif"`
-		Points int    `json:"points"`
+	type photoEntry struct {
+		Src     string `json:"src"`
+		SrcAVIF string `json:"src_avif"`
+		Alt     string `json:"alt"`
+		Points  int    `json:"points"`
 	}
 
 	type postEntry struct {
-		URL        string     `json:"url"`
-		Title      string     `json:"title"`
-		Subtitle   string     `json:"subtitle,omitempty"`
-		Date       string     `json:"date"`
-		Time       string     `json:"time"`
-		DistanceKm int        `json:"distance_km,omitempty"`
-		TimeSpent  int        `json:"time_spent,omitempty"`
-		CardImage  string     `json:"card_image_url,omitempty"`
-		CardAVIF   string     `json:"card_image_url_avif,omitempty"`
-		Tags       []string   `json:"tags"`
-		TopPhotos  []topPhoto `json:"top_photos,omitempty"`
-		Visible    bool       `json:"visible"`
-		Ready      bool       `json:"ready"`
+		URL        string       `json:"url"`
+		Title      string       `json:"title"`
+		Subtitle   string       `json:"subtitle,omitempty"`
+		Date       string       `json:"date"`
+		Time       string       `json:"time"`
+		DistanceKm float64      `json:"distance_km,omitempty"`
+		TimeSpent  float64      `json:"time_spent,omitempty"`
+		CardImage  string       `json:"card_image_url,omitempty"`
+		CardAVIF   string       `json:"card_image_url_avif,omitempty"`
+		Tags       []string     `json:"tags"`
+		Photos     []photoEntry `json:"photos,omitempty"`
+		Visible    bool         `json:"visible"`
+		Ready      bool         `json:"ready"`
 		// Area slugs split by type — post_collection.js filters by these fields.
 		TownSlugs        []string `json:"town_slugs,omitempty"`
 		CountySlugs      []string `json:"county_slugs,omitempty"`
@@ -69,82 +76,81 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		MacroRegionSlugs []string `json:"macro_region_slugs,omitempty"`
 	}
 
-	type tagInfo struct {
-		URL  string `json:"url"`
-		Name string `json:"name"`
-	}
-
-	type areaInfo struct {
+	// areaRef is one lookup-table row; the JS finds entries by slug to render
+	// linked chips/tags, so slug must be part of each element (not a map key).
+	type areaRef struct {
+		Slug string `json:"slug"`
 		URL  string `json:"url"`
 		Name string `json:"name"`
 	}
 
 	type homepageData struct {
-		Posts []postEntry             `json:"posts"`
-		Tags  map[string]tagInfo     `json:"tags"`
-		Areas map[string]map[string]areaInfo `json:"areas"`
+		Posts        []postEntry `json:"posts"`
+		Tags         []areaRef   `json:"tags"`
+		Towns        []areaRef   `json:"towns"`
+		Counties     []areaRef   `json:"counties"`
+		Voivodeships []areaRef   `json:"voivodeships"`
+		MesoRegions  []areaRef   `json:"meso_regions"`
+		MacroRegions []areaRef   `json:"macro_regions"`
 	}
 
-	result := homepageData{
-		Tags:  make(map[string]tagInfo),
-		Areas: make(map[string]map[string]areaInfo),
-	}
+	result := homepageData{}
 
-	// Tags
+	// All tags, in config order (homepage.js finds chips by slug).
 	for _, tag := range data.Tags {
-		result.Tags[tag.Slug] = tagInfo{
+		result.Tags = append(result.Tags, areaRef{
+			Slug: tag.Slug,
 			URL:  r.TagPostListURL(&tag),
 			Name: tag.Name,
-		}
+		})
 	}
 
-	// Area lookup maps
-	for _, areaType := range model.AllAreaTypes() {
-		typeName := areaType.EnglishPlural()
-		result.Areas[typeName] = make(map[string]areaInfo)
-		for _, area := range data.AreasByType[areaType] {
-			result.Areas[typeName][area.Slug] = areaInfo{
-				URL:  r.AreaPostListURL(area),
-				Name: area.Name,
+	// Posts + collection of every area slug the posts reference, per type.
+	// The lookup tables below only list referenced areas (Crystal parity) —
+	// shipping all 2477 towns would bloat the payload for no reader.
+	referenced := make(map[model.AreaType][]string)
+	addReferenced := func(areaType model.AreaType, slugs []string) {
+		for _, slug := range slugs {
+			if !containsSlug(referenced[areaType], slug) {
+				referenced[areaType] = append(referenced[areaType], slug)
 			}
 		}
 	}
 
-	// Posts
 	for _, post := range data.Posts {
 		if !post.IsFinished() {
 			continue
 		}
-		// Resolve area slugs into proper types for JS filtering.
-		// TownSlugs mixes towns/counties/voivodeships; we split them by looking
-		// up each slug in the area index to find its actual type.
-		townSlugs, countySlugs, voivSlugs := classifyTownSlugs(data, post.TownSlugs)
-		mesoSlugs, macroSlugs := classifyLandSlugs(data, post.LandSlugs)
-
 		pe := postEntry{
 			URL:              r.PostURL(post),
 			Title:            post.Title,
 			Subtitle:         post.Subtitle,
 			Date:             post.Date.Format("2006-01-02"),
 			Time:             post.Date.Format(time.RFC3339),
-			DistanceKm:       int(post.Distance),
-			TimeSpent:        int(post.TimeSpent),
+			DistanceKm:       post.Distance,
+			TimeSpent:        post.TimeSpent,
 			Tags:             post.TagSlugs,
 			Visible:          true,
 			Ready:            true,
-			TownSlugs:        townSlugs,
-			CountySlugs:      countySlugs,
-			VoivodeshipSlugs: voivSlugs,
-			MesoRegionSlugs:  mesoSlugs,
-			MacroRegionSlugs: macroSlugs,
+			TownSlugs:        postAreaSlugs(data, post, model.AreaTypeTown),
+			CountySlugs:      postAreaSlugs(data, post, model.AreaTypeCounty),
+			VoivodeshipSlugs: postAreaSlugs(data, post, model.AreaTypeVoivodeship),
+			MesoRegionSlugs:  postAreaSlugs(data, post, model.AreaTypeMesoRegion),
+			MacroRegionSlugs: postAreaSlugs(data, post, model.AreaTypeMacroRegion),
 		}
+		addReferenced(model.AreaTypeTown, pe.TownSlugs)
+		addReferenced(model.AreaTypeCounty, pe.CountySlugs)
+		addReferenced(model.AreaTypeVoivodeship, pe.VoivodeshipSlugs)
+		addReferenced(model.AreaTypeMesoRegion, pe.MesoRegionSlugs)
+		addReferenced(model.AreaTypeMacroRegion, pe.MacroRegionSlugs)
 
 		if post.ImageFilename != "" {
 			pe.CardImage = r.ProcessedImageURL(post, post.ImageFilename, "card", "jpg")
 			pe.CardAVIF = r.ProcessedImageURL(post, post.ImageFilename, "card", "avif")
 		}
 
-		// Top 4 photos by points
+		// Top 4 photos by points — homepage.js picks the hero from these,
+		// weighting by `points`, and uses `src`/`src_avif` directly.
 		if len(post.PublishedPhotos) > 0 {
 			sorted := make([]*model.Photo, len(post.PublishedPhotos))
 			copy(sorted, post.PublishedPhotos)
@@ -155,10 +161,11 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 				if i >= 4 {
 					break
 				}
-				pe.TopPhotos = append(pe.TopPhotos, topPhoto{
-					URL:    r.ProcessedImageURL(post, photo.ImageFilename, "card", "jpg"),
-					AVIF:   r.ProcessedImageURL(post, photo.ImageFilename, "card", "avif"),
-					Points: photo.Points,
+				pe.Photos = append(pe.Photos, photoEntry{
+					Src:     r.ProcessedImageURL(post, photo.ImageFilename, "card", "jpg"),
+					SrcAVIF: r.ProcessedImageURL(post, photo.ImageFilename, "card", "avif"),
+					Alt:     photo.Desc,
+					Points:  photo.Points,
 				})
 			}
 		}
@@ -166,7 +173,74 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 		result.Posts = append(result.Posts, pe)
 	}
 
+	// Area lookup tables for the referenced slugs only.
+	areaTable := func(areaType model.AreaType) []areaRef {
+		refs := make([]areaRef, 0, len(referenced[areaType]))
+		for _, slug := range referenced[areaType] {
+			area := data.FindArea(areaType, slug)
+			if area == nil {
+				continue // slug without a config entry — nothing to link to
+			}
+			refs = append(refs, areaRef{
+				Slug: area.Slug,
+				URL:  r.AreaPostListURL(area),
+				Name: area.Name,
+			})
+		}
+		return refs
+	}
+	result.Towns = areaTable(model.AreaTypeTown)
+	result.Counties = areaTable(model.AreaTypeCounty)
+	result.Voivodeships = areaTable(model.AreaTypeVoivodeship)
+	result.MesoRegions = areaTable(model.AreaTypeMesoRegion)
+	result.MacroRegions = areaTable(model.AreaTypeMacroRegion)
+
 	return NewJSONEndpoint(r.HomepageJSON(), result)
+}
+
+// postAreaSlugs returns the slugs of the given area type a post belongs to:
+// the union of spatial route coverage (precise, per-type) and frontmatter
+// slugs classified by the area index (covers route-less posts and areas the
+// author tagged beyond the GPS line).
+func postAreaSlugs(data *index.SiteData, post *model.Post, areaType model.AreaType) []string {
+	slugs := append([]string(nil), post.SpatialAreaSlugs[areaType]...)
+
+	var fromFrontmatter []string
+	switch areaType {
+	case model.AreaTypeTown, model.AreaTypeCounty, model.AreaTypeVoivodeship:
+		towns, counties, voivodeships := classifyTownSlugs(data, post.TownSlugs)
+		switch areaType {
+		case model.AreaTypeTown:
+			fromFrontmatter = towns
+		case model.AreaTypeCounty:
+			fromFrontmatter = counties
+		default:
+			fromFrontmatter = voivodeships
+		}
+	case model.AreaTypeMesoRegion, model.AreaTypeMacroRegion:
+		meso, macro := classifyLandSlugs(data, post.LandSlugs)
+		if areaType == model.AreaTypeMesoRegion {
+			fromFrontmatter = meso
+		} else {
+			fromFrontmatter = macro
+		}
+	}
+	for _, slug := range fromFrontmatter {
+		if !containsSlug(slugs, slug) {
+			slugs = append(slugs, slug)
+		}
+	}
+	return slugs
+}
+
+// containsSlug reports whether list already holds slug (tiny lists, linear scan).
+func containsSlug(list []string, slug string) bool {
+	for _, item := range list {
+		if item == slug {
+			return true
+		}
+	}
+	return false
 }
 
 // classifyTownSlugs splits post.TownSlugs into separate arrays by area type.
