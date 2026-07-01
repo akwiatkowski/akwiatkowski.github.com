@@ -48364,6 +48364,11 @@
       common_size: 4
       not_common_size: 16
       days_diff: 2546
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 19
+      days_diff: 2888
   quants:
   - lat: 53.8
     lon: 20.4
@@ -71138,6 +71143,11 @@
       common_size: 4
       not_common_size: 17
       days_diff: 1813
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 4
+      common_size: 1
+      not_common_size: 20
+      days_diff: 2155
   quants:
   - lat: 53.0
     lon: 18.6
@@ -80989,6 +80999,11 @@
       common_size: 2
       not_common_size: 2
       days_diff: 1491
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 50
+      common_size: 2
+      not_common_size: 2
+      days_diff: 1832
   quants:
   - lat: 54.0
     lon: 20.4
@@ -82576,6 +82591,11 @@
       common_size: 3
       not_common_size: 9
       days_diff: 1417
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 16
+      common_size: 2
+      not_common_size: 10
+      days_diff: 1759
   quants:
   - lat: 54.0
     lon: 20.800001
@@ -110375,6 +110395,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 0
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 342
   quants:
   - lat: 54.2
     lon: 20.2
@@ -110476,6 +110501,11 @@
       common_size: 1
       not_common_size: 3
       days_diff: 0
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 25
+      common_size: 1
+      not_common_size: 3
+      days_diff: 341
   quants:
   - lat: 53.8
     lon: 20.800001
@@ -113626,3 +113656,42 @@
   quants:
   - lat: 52.4
     lon: 17.2
+2026-06-20-jak-jezdzic-podczas-fal-upalow:
+  related_posts:
+    2018-07-23-parowozem-do-suwalk:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2888
+    2020-07-25-pociagiem-do-skandawy-i-bartoszyc:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 2155
+    2021-06-13-warmia-jest-piekna:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1832
+    2021-08-25-blisko-granicy-z-rosja:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 1759
+    2025-07-12-pod-granice-z-rosja:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 342
+    2025-07-13-i-zaczely-sie-zniwa:
+      common_factor: 33
+      common_size: 1
+      not_common_size: 2
+      days_diff: 341
+  quants:
+  - lat: 54.0
+    lon: 20.6
+  - lat: 54.0
+    lon: 20.800001
+  - lat: 54.2
+    lon: 20.6
