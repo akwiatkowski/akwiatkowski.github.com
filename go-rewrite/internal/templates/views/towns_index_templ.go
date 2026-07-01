@@ -10,6 +10,9 @@ import templruntime "github.com/a-h/templ/runtime"
 
 // TownsIndexContent renders the towns index page.
 // rawScriptHTML must be a complete <script> tag with JSON data.
+// towns_index.js is a library: it only registers window.TownsIndex. The inline
+// bootstrap below (same as Crystal's towns/index template) parses #towns-data
+// and mounts the Preact app into #towns-app once the markup exists.
 func TownsIndexContent(rawScriptHTML string) templ.Component {
 	return templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
 		templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
@@ -35,7 +38,7 @@ func TownsIndexContent(rawScriptHTML string) templ.Component {
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div id=\"root\"></div>")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div id=\"towns-app\"></div><script>\n\t\tTownsIndex.init(JSON.parse(document.getElementById('towns-data').textContent));\n\t</script>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}

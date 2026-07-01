@@ -57,7 +57,7 @@ func TestTownsIndexPageRender(t *testing.T) {
 		"Pobiedziska",
 		"pobiedziska",
 		"wielkopolskie",
-		`id="root"`,
+		`id="towns-app"`,
 	}
 	for _, check := range checks {
 		if !strings.Contains(html, check) {

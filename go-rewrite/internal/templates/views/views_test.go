@@ -800,11 +800,12 @@ func TestTownsIndex_RendersScriptAndRoot(t *testing.T) {
 	out := h.Render(t, views.TownsIndexContent(`<script id="towns-data">{"towns":[]}</script>`))
 	h.AssertContains(t, out, `{"towns":[]}`)
 	doc := h.Parse(t, out)
+	// towns_index.js mounts the Preact app into #towns-app, not #root.
 	root := h.FindAll(doc, func(n *h.Node) bool {
-		return h.IsElement(n, "div") && h.HasAttr(n, "id", "root")
+		return h.IsElement(n, "div") && h.HasAttr(n, "id", "towns-app")
 	})
 	if len(root) == 0 {
-		t.Error("expected #root div")
+		t.Error("expected #towns-app div")
 	}
 }
 
