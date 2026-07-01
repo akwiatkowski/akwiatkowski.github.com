@@ -99,8 +99,7 @@ module PostView
       end
       if links.size > 0
         pd["taggable.content"] = links.join(", ")
-        taggable_content = load_html("post/taggable", pd)
-        data["tags_content"] = taggable_content + "<br/>"
+        data["tags_content"] = load_html("post/taggable", pd)
       else
         data["tags_content"] = ""
       end
@@ -112,7 +111,7 @@ module PostView
         pd["taggable.name"] = "Krainy"
         links = land_entities.map { |entity| "<a href=\"#{entity.view_url}\">#{entity.name}</a>" }
         pd["taggable.content"] = links.join(", ")
-        data["lands_content"] = load_html("post/taggable", pd) + "<br/>"
+        data["lands_content"] = load_html("post/taggable", pd)
       else
         data["lands_content"] = ""
       end
@@ -124,7 +123,7 @@ module PostView
         pd["taggable.name"] = "Miejscowości"
         links = town_entities.map { |entity| "<a href=\"#{entity.view_url}\">#{entity.name}</a>" }
         pd["taggable.content"] = links.join(", ")
-        data["towns_content"] = load_html("post/taggable", pd) + "<br/>"
+        data["towns_content"] = load_html("post/taggable", pd)
       else
         data["towns_content"] = ""
       end
@@ -136,7 +135,7 @@ module PostView
         pd["taggable.name"] = "Województwa"
         links = voivodeship_entities.map { |entity| "<a href=\"#{entity.view_url}\">#{entity.name}</a>" }
         pd["taggable.content"] = links.join(", ")
-        data["voivodeships_content"] = load_html("post/taggable", pd) + "<br/>"
+        data["voivodeships_content"] = load_html("post/taggable", pd)
       else
         data["voivodeships_content"] = ""
       end
@@ -160,7 +159,7 @@ module PostView
         pd = Hash(String, String).new
         pd["taggable.name"] = "Zagranica"
         pd["taggable.content"] = items.join(", ")
-        data["foreign_content"] = load_html("post/taggable", pd) + "<br/>"
+        data["foreign_content"] = load_html("post/taggable", pd)
       else
         data["foreign_content"] = ""
       end
