@@ -1,16 +1,20 @@
 package main
 
 import (
+	"encoding/json"
 	"flag"
 	"fmt"
 	"os"
 	"path/filepath"
 	"runtime"
+	"strings"
 	"time"
 
 	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/draft"
 	"odkrywajac/internal/exif"
 	"odkrywajac/internal/geodata"
+	"odkrywajac/internal/gpx"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/loader"
 	"odkrywajac/internal/model"
@@ -19,12 +23,15 @@ import (
 	"odkrywajac/internal/render"
 	"odkrywajac/internal/router"
 	"odkrywajac/internal/spatial"
+	"odkrywajac/internal/strava"
 	"odkrywajac/internal/view"
+	"odkrywajac/internal/weather"
 )
 
 func main() {
 	buildCmd := flag.NewFlagSet("build", flag.ExitOnError)
 	pipelineCmd := flag.NewFlagSet("pipeline", flag.ExitOnError)
+	gpxDraftCmd := flag.NewFlagSet("gpx-draft", flag.ExitOnError)
 
 	if len(os.Args) < 2 {
 		printUsage()
@@ -46,6 +53,10 @@ func main() {
 			os.Exit(1)
 		}
 		runPipeline(ctx)
+	case "gpx-draft":
+		runGpxDraft(gpxDraftCmd)
+	case "missing-posts":
+		runMissingPosts()
 	default:
 		fmt.Fprintf(os.Stderr, "Unknown command: %s\n", os.Args[1])
 		printUsage()
@@ -71,8 +82,10 @@ func printUsage() {
 	fmt.Fprintln(os.Stderr, "Usage: odkrywajac <command> [flags]")
 	fmt.Fprintln(os.Stderr, "")
 	fmt.Fprintln(os.Stderr, "Commands:")
-	fmt.Fprintln(os.Stderr, "  build      Build the static site")
-	fmt.Fprintln(os.Stderr, "  pipeline   Run data pipeline")
+	fmt.Fprintln(os.Stderr, "  build         Build the static site")
+	fmt.Fprintln(os.Stderr, "  pipeline      Run data pipeline")
+	fmt.Fprintln(os.Stderr, "  gpx-draft     Generate a draft blog post from a GPX file")
+	fmt.Fprintln(os.Stderr, "  missing-posts List Strava activities without blog posts")
 }
 
 func runBuild(ctx *pipeline.Context) {
@@ -363,6 +376,283 @@ func runPipeline(ctx *pipeline.Context) {
 		fmt.Println("Dry run — no changes will be made")
 	}
 	fmt.Println("Pipeline: no nodes registered yet")
+}
+
+func runGpxDraft(fs *flag.FlagSet) {
+	var (
+		gpxFile       = fs.String("gpx", "", "Path to GPX file")
+		activityID    = fs.Int64("id", 0, "Strava activity ID (alternative to -gpx)")
+		postsDir      = fs.String("posts-dir", "", "Target posts directory (default: ../env/full/data/posts/YYYY from GPX date)")
+		title         = fs.String("title", "", "Post title (default: activity name or required with -gpx)")
+		subtitle      = fs.String("subtitle", "", "Post subtitle")
+		author        = fs.String("author", "Aleksander Kwiatkowski", "Post author")
+		category      = fs.String("category", "trip", "Post category")
+		tags          = fs.String("tags", "bicycle,todo", "Comma-separated tags")
+		imageFilename = fs.String("image", "", "Header image filename")
+		weatherFlag   = fs.Bool("weather", true, "Fetch weather data from Open-Meteo")
+		dryRun        = fs.Bool("dry-run", false, "Print draft to stdout without writing")
+	)
+
+	if err := fs.Parse(os.Args[2:]); err != nil {
+		fmt.Fprintf(os.Stderr, "Error parsing gpx-draft flags: %v\n", err)
+		os.Exit(1)
+	}
+
+	var stats *gpx.RideStats
+	var activity *strava.Activity
+
+	switch {
+	case *activityID != 0:
+		// Load from Strava activity ID
+		stravaBase := os.Getenv("LLM_CYCLING_STRAVA")
+		if stravaBase == "" {
+			fmt.Fprintln(os.Stderr, "Error: LLM_CYCLING_STRAVA env var not set")
+			os.Exit(1)
+		}
+
+		activityPath := filepath.Join(stravaBase, "activities", fmt.Sprintf("%d.json", *activityID))
+		data, err := os.ReadFile(activityPath)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "Error reading activity %d: %v\n", *activityID, err)
+			os.Exit(1)
+		}
+
+		activity = &strava.Activity{}
+		if err := json.Unmarshal(data, activity); err != nil {
+			fmt.Fprintf(os.Stderr, "Error parsing activity %d: %v\n", *activityID, err)
+			os.Exit(1)
+		}
+
+		stats = activityToStats(activity)
+		fmt.Printf("Loaded activity %d: %.1f km, %.1f h, +%.0f m elevation\n",
+			activity.ID, stats.DistanceKm, stats.Duration.Hours(), stats.ElevationGain)
+
+		if *title == "" {
+			*title = activity.Name
+		}
+	case *gpxFile != "":
+		// Parse GPX file
+		var err error
+		stats, err = gpx.ParseFile(*gpxFile)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "Error parsing GPX: %v\n", err)
+			os.Exit(1)
+		}
+		fmt.Printf("GPX parsed: %.1f km, %.1f h, +%.0f m elevation\n",
+			stats.DistanceKm, stats.Duration.Hours(), stats.ElevationGain)
+	default:
+		fmt.Fprintln(os.Stderr, "Error: either -gpx or -id flag is required")
+		fmt.Fprintln(os.Stderr, "Usage:")
+		fmt.Fprintln(os.Stderr, "  odkrywajac gpx-draft -gpx <file.gpx> -title \"My Ride\"")
+		fmt.Fprintln(os.Stderr, "  odkrywajac gpx-draft -id <activity-id> [-title \"My Ride\"]")
+		os.Exit(1)
+	}
+
+	if *title == "" {
+		fmt.Fprintln(os.Stderr, "Error: -title flag is required")
+		os.Exit(1)
+	}
+
+	// Determine posts directory. Posts live under env/full/data/posts/<year> —
+	// the repo-root data/ dir holds configs and sources, never posts.
+	targetPostsDir := *postsDir
+	if targetPostsDir == "" {
+		year := stats.StartTime.Year()
+		targetPostsDir = filepath.Join("..", "env", "full", "data", "posts", fmt.Sprintf("%d", year))
+	}
+
+	// Fetch weather if requested
+	var weatherData *weather.Data
+	if *weatherFlag {
+		client := weather.NewClient()
+		var lat, lon float64
+		if activity != nil && len(activity.StartLatLng) == 2 {
+			lat = activity.StartLatLng[0]
+			lon = activity.StartLatLng[1]
+		} else {
+			lat = stats.StartPoint.Lat
+			lon = stats.StartPoint.Lon
+		}
+		w, err := client.Fetch(lat, lon, stats.StartTime)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "Warning: could not fetch weather: %v\n", err)
+		} else {
+			weatherData = w
+			fmt.Printf("Weather: %.1f°C, %d%% clouds, %.1f km/h wind\n",
+				w.Temperature, w.CloudCover, w.WindSpeed)
+		}
+	}
+
+	// Generate draft
+	gen := &draft.Generator{PostsDir: targetPostsDir}
+	opts := draft.Options{
+		Title:         *title,
+		Subtitle:      *subtitle,
+		Author:        *author,
+		Category:      *category,
+		Tags:          strings.Split(*tags, ","),
+		ImageFilename: *imageFilename,
+		Weather:       weatherData,
+		DryRun:        *dryRun,
+	}
+
+	outputPath, err := gen.Generate(stats, opts)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error generating draft: %v\n", err)
+		os.Exit(1)
+	}
+
+	fmt.Printf("Draft written to: %s\n", outputPath)
+}
+
+// activityToStats converts a Strava Activity to gpx.RideStats for draft generation.
+func activityToStats(a *strava.Activity) *gpx.RideStats {
+	return &gpx.RideStats{
+		StartTime:     a.StartDate,
+		EndTime:       a.StartDate.Add(time.Duration(a.MovingTime) * time.Second),
+		Duration:      time.Duration(a.MovingTime) * time.Second,
+		DistanceKm:    a.DistanceKm(),
+		ElevationGain: a.TotalElevationGain,
+		ElevationLoss: 0, // Not available in Strava summary
+		MinElevation:  0,
+		MaxElevation:  0,
+		ActivityType:  stravaTypeToCoordsType(a.Type, a.SportType),
+	}
+}
+
+// stravaTypeToCoordsType maps Strava activity types to blog coords_type values.
+func stravaTypeToCoordsType(activityType, sportType string) string {
+	t := strings.ToLower(activityType)
+	st := strings.ToLower(sportType)
+
+	if t == "ebikeride" || st == "ebikeride" {
+		return "e-bike"
+	}
+	if t == "ride" || st == "gravelride" || st == "mountainbikeride" ||
+		st == "roadride" || st == "cyclocross" {
+		return "bicycle"
+	}
+	if t == "hike" || t == "walk" {
+		return "hike"
+	}
+	return t
+}
+
+func runMissingPosts() {
+	// Get Strava activities directory from env var
+	stravaBase := os.Getenv("LLM_CYCLING_STRAVA")
+	if stravaBase == "" {
+		fmt.Fprintln(os.Stderr, "Error: LLM_CYCLING_STRAVA env var not set")
+		fmt.Fprintln(os.Stderr, "Hint: source your shell config or set it manually:")
+		fmt.Fprintln(os.Stderr, "  export LLM_CYCLING_STRAVA=$HOME/projects/llm/input/cycling/strava")
+		os.Exit(1)
+	}
+
+	activitiesDir := filepath.Join(stravaBase, "activities")
+
+	// Load all Strava activities
+	activities, err := strava.LoadActivities(activitiesDir)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading activities: %v\n", err)
+		os.Exit(1)
+	}
+
+	fmt.Printf("Loaded %d activities from %s\n", len(activities), activitiesDir)
+
+	// Filter by distance
+	var longActivities []*strava.Activity
+	for _, a := range activities {
+		if a.IsLongEnough() {
+			longActivities = append(longActivities, a)
+		}
+	}
+	fmt.Printf("After distance filter (bike>=25km, hike>=2km): %d activities\n", len(longActivities))
+
+	// Drop activities Olek explicitly marked as never getting a post (commutes,
+	// tests, duplicates). The skip-list lives next to the strava dir, outside the
+	// blog repo — maintained by the trip-draft-post skill.
+	ignoredPath := filepath.Join(stravaBase, "..", "ignored_activities.yml")
+	ignoredIDs, err := strava.LoadIgnoredIDs(ignoredPath)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Warning: could not load ignore list: %v\n", err)
+	} else if len(ignoredIDs) > 0 {
+		var kept []*strava.Activity
+		for _, a := range longActivities {
+			if !ignoredIDs[a.ID] {
+				kept = append(kept, a)
+			}
+		}
+		fmt.Printf("After ignore list (%s): %d activities (%d ignored)\n",
+			ignoredPath, len(kept), len(longActivities)-len(kept))
+		longActivities = kept
+	}
+
+	// Build set of activity IDs from posts
+	// Use existing post loader to get all posts and their Strava IDs
+	postsDir := filepath.Join("..", "env", "full", "data", "posts")
+	posts, err := loader.LoadPosts(postsDir, "")
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Warning: could not load posts: %v\n", err)
+		os.Exit(1)
+	}
+
+	postStravaIDs := make(map[int64]bool)
+	for _, post := range posts {
+		for _, s := range post.Strava {
+			if id, ok := strava.ExtractActivityID(s); ok {
+				postStravaIDs[id] = true
+			}
+		}
+	}
+	fmt.Printf("Found %d unique Strava IDs in %d blog posts\n", len(postStravaIDs), len(posts))
+
+	// Find missing activities
+	var missing []*strava.Activity
+	for _, a := range longActivities {
+		if !postStravaIDs[a.ID] {
+			missing = append(missing, a)
+		}
+	}
+
+	if len(missing) == 0 {
+		fmt.Println("\n✓ All activities have blog posts!")
+		return
+	}
+
+	// Sort by date (newest first)
+	for i := 0; i < len(missing)-1; i++ {
+		for j := i + 1; j < len(missing); j++ {
+			if missing[i].StartDate.Before(missing[j].StartDate) {
+				missing[i], missing[j] = missing[j], missing[i]
+			}
+		}
+	}
+
+	fmt.Printf("\n═══ Missing blog posts: %d activities ═══\n\n", len(missing))
+	fmt.Printf("%-12s %-10s %-8s %-10s %-6s %s\n", "Date", "Distance", "Time", "ID", "Type", "Name")
+	fmt.Println(strings.Repeat("─", 90))
+
+	for _, a := range missing {
+		dateStr := a.StartDateLocal.Format("2006-01-02")
+		activityType := a.Type
+		if a.SportType != "" && a.SportType != a.Type {
+			activityType = a.SportType
+		}
+		fmt.Printf("%-12s %-10.1f %-8.1f %-10d %-6s %s\n",
+			dateStr,
+			a.DistanceKm(),
+			a.DurationHours(),
+			a.ID,
+			activityType,
+			a.Name,
+		)
+	}
+
+	fmt.Println()
+	fmt.Println("Generate draft commands:")
+	for _, a := range missing {
+		fmt.Printf("  make gpx-draft ID=%d TITLE=%q\n", a.ID, a.Name)
+	}
 }
 
 // isSpatialFresh checks whether all spatial matching caches are up-to-date,
