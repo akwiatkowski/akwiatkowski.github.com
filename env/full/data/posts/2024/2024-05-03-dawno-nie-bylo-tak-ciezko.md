@@ -20,6 +20,7 @@ map_zooms:              10
 distance:               90
 time_spent:             7
 elevation:              497
+terrain:                5.5 # m/km przewyższeń — pofalowany
 # weather - 19C, measured 28C
 temperature:            28
 

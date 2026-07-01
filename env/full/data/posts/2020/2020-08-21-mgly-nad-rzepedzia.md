@@ -20,6 +20,7 @@ coords_type:            "hike"
 distance:               1
 time_spent:             2
 elevation:              20
+terrain:                20.0 # m/km przewyższeń — pagórkowaty
 temperature:            14
 
 

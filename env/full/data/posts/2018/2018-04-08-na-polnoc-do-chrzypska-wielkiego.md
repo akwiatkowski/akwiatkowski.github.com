@@ -19,6 +19,7 @@ map_zooms:              11
 distance:               65
 time_spent:             7
 elevation:              257
+terrain:                4.0 # m/km przewyższeń — płaski
 
 
 pois:

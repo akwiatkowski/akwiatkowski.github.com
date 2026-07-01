@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               10
 time_spent:             4
 elevation:              255
+terrain:                25.5 # m/km przewyższeń — górzysty
 
 pois:
   - lat: 50.83042

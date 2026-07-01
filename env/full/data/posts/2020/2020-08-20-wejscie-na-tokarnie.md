@@ -21,6 +21,7 @@ map_zooms:              14
 distance:               6
 time_spent:             4
 elevation:              279
+terrain:                46.5 # m/km przewyższeń — górzysty
 temperature:            22 # 18 in strava, but it was hotter imho
 
 

@@ -19,6 +19,7 @@ coords_type:            "hike"
 distance:               20 # 8 + 12
 time_spent:             9 # 3 + 6
 elevation:              137 # 66 + 71
+terrain:                6.8 # m/km przewyższeń — pofalowany
 
 
 pois:

@@ -22,6 +22,7 @@ map_zooms:              13 # TODO: separate into 2 posts
 distance:               15 # 12 + 3
 time_spent:             7 # 5 + 2
 elevation:              212 # 188 + 24
+terrain:                14.1 # m/km przewyższeń — pagórkowaty
 temperature:            -8
 
 

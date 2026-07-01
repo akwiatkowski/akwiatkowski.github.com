@@ -20,6 +20,7 @@ map_zooms:              10
 distance:               108
 time_spent:             11
 elevation:              830
+terrain:                7.7 # m/km przewyższeń — pofalowany
 temperature:            25 # morning 17C, max >30C sun
 
 

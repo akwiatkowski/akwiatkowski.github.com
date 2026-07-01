@@ -19,6 +19,7 @@ coords_type:            "bicycle"
 distance:               13
 time_spent:             1
 elevation:              65
+terrain:                5.0 # m/km przewyższeń — pofalowany
 temperature:            29
 
 

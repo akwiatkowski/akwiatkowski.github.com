@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               12
 time_spent:             2
 elevation:              210
+terrain:                17.5 # m/km przewyższeń — pagórkowaty
 
 pois:
 

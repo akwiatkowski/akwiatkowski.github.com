@@ -20,6 +20,7 @@ map_zooms:              11
 distance:               98 # 75 + 23
 time_spent:             10 # 7 + 3
 elevation:              678 # 517 + 161
+terrain:                6.9 # m/km przewyższeń — pofalowany
 temperature:
 
 

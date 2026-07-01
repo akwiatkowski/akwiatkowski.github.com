@@ -20,6 +20,7 @@ map_zooms:              13
 distance:               13 # todo add evening
 time_spent:             6
 elevation:              153
+terrain:                11.8 # m/km przewyższeń — pofalowany
 temperature:            6
 
 
