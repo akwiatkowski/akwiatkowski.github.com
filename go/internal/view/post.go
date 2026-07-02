@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"sort"
 
-	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/markdown"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/templates/components"
 	"odkrywajac/internal/templates/layout"
 	"odkrywajac/internal/templates/views"

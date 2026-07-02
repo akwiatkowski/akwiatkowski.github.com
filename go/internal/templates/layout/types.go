@@ -1,7 +1,7 @@
 // Package layout provides the page shell templ components (head, nav, footer).
 package layout
 
-import "odkrywajac/internal/bundle"
+import "odkrywajac/internal/service/bundle"
 
 // PageData holds all data needed to render the page shell.
 type PageData struct {

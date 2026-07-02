@@ -8,7 +8,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 func TestTownsIndexPageURL(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
-	svgpkg "odkrywajac/internal/svg"
+	"odkrywajac/internal/service/router"
+	svgpkg "odkrywajac/internal/service/svg"
 )
 
 // --- Map Configurations ---

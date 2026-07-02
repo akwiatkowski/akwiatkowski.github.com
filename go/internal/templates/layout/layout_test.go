@@ -3,7 +3,7 @@ package layout_test
 import (
 	"testing"
 
-	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/templates/htmltest"
 	"odkrywajac/internal/templates/layout"
 )

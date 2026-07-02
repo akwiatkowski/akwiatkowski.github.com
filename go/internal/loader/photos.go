@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"odkrywajac/internal/exif"
+	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/model"
 )
 

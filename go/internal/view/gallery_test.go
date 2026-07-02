@@ -6,7 +6,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 func testSiteDataForGallery() *index.SiteData {

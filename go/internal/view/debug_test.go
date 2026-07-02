@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 func TestTagStatsPageURL(t *testing.T) {

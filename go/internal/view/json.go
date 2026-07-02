@@ -7,7 +7,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 // E2EJSON creates a JSON endpoint with all post data for E2E tests.

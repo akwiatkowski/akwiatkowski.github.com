@@ -8,7 +8,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	svgpkg "odkrywajac/internal/svg"
+	svgpkg "odkrywajac/internal/service/svg"
 )
 
 func testSiteDataForPhotoMaps() *index.SiteData {

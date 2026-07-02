@@ -9,7 +9,7 @@ import (
 
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 // maxFeedPosts is the number of posts to include in RSS/Atom feeds.

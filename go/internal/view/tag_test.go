@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 func TestTagPostListPageURL(t *testing.T) {

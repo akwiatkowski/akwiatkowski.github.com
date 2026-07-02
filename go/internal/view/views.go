@@ -1,10 +1,10 @@
 package view
 
 import (
-	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/router"
+	"odkrywajac/internal/service/router"
 )
 
 // GenerateAllViews collects all Renderables from the site data.
