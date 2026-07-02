@@ -1,4 +1,4 @@
-require "../../../crystal/src/tremolite/tremolite"
+require "../../../crystal/src/framework/tremolite"
 require "../../../crystal/src/blog"
 
 t = Tremolite::Blog.for_env("full", "local")

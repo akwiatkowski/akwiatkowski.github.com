@@ -1,4 +1,4 @@
-require "../crystal/src/tremolite/tremolite"
+require "../crystal/src/framework/tremolite"
 require "../crystal/src/blog"
 require "../crystal/src/commands/pipeline/gpx_to_route"
 
