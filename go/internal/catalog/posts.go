@@ -181,6 +181,16 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 	doc := md.Parser().Parse(reader, goldmarkParser.WithContext(goldmarkParser.NewContext()))
 	extracted := content.Extract(doc)
 
+	// Header image: default to header.jpg and normalize the .jpg suffix,
+	// matching Crystal (content/post/initializers.cr) — ~240 older posts have
+	// no image_filename in front matter but do ship a header.jpg.
+	imageFilename := meta.ImageFilename
+	if imageFilename == "" {
+		imageFilename = "header.jpg"
+	} else {
+		imageFilename = strings.ReplaceAll(imageFilename, ".jpg", "") + ".jpg"
+	}
+
 	// Build post
 	post := &model.Post{
 		Slug:          slug,
@@ -191,7 +201,7 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 		Category:      meta.Categories,
 		Date:          meta.Date,
 		Keywords:      ensureSlice(meta.Keywords),
-		ImageFilename: meta.ImageFilename,
+		ImageFilename: imageFilename,
 		ImagePosition: meta.ImagePosition,
 		TagSlugs:      ensureSlice(meta.Tags),
 		TownSlugs:     ensureSlice(meta.Towns),

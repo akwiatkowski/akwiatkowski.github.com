@@ -9,7 +9,6 @@ import (
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
-	"odkrywajac/internal/view/template/components"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
 )
@@ -130,8 +129,9 @@ func PostArticlePage(
 		}
 	}
 
-	// Related posts
-	articleData.RelatedPosts = buildRelatedPosts(data, post, r, 3)
+	// Related posts (up to 8, matching Crystal's MAX_RELATED_POSTS — fills the
+	// 4-column .related-posts-grid with up to two rows)
+	articleData.RelatedPosts = buildRelatedPosts(data, post, r, 8)
 
 	// Resolve assets
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
@@ -315,8 +315,10 @@ func temperatureStr(temp int) string {
 	return fmt.Sprintf("%s %d °C", emoji, temp)
 }
 
-// buildRelatedPosts finds related posts by shared areas/tags.
-func buildRelatedPosts(data *catalog.SiteData, post *model.Post, r *router.Router, limit int) []components.PostCardData {
+// buildRelatedPosts finds related posts by shared areas/tags and returns them
+// as cards for the "Powiązane wpisy" grid (views.RelatedPostData markup shared
+// with Crystal's related_post.html partial).
+func buildRelatedPosts(data *catalog.SiteData, post *model.Post, r *router.Router, limit int) []views.RelatedPostData {
 	// Score posts by shared attributes
 	scores := make(map[string]int)
 
@@ -355,30 +357,34 @@ func buildRelatedPosts(data *catalog.SiteData, post *model.Post, r *router.Route
 	for slug, score := range scores {
 		scored = append(scored, scoredPost{slug, score})
 	}
+	// Tie-break by slug: map iteration order is random, so without this the
+	// related list would change on every rebuild.
 	sort.Slice(scored, func(i, j int) bool {
-		return scored[i].score > scored[j].score
+		if scored[i].score != scored[j].score {
+			return scored[i].score > scored[j].score
+		}
+		return scored[i].slug > scored[j].slug
 	})
 
-	// Take top N
-	var cards []components.PostCardData
-	for i, sp := range scored {
-		if i >= limit {
+	// Take top N finished posts (skipped posts don't count against the limit,
+	// matching Crystal which filters before truncating)
+	var cards []views.RelatedPostData
+	for _, sp := range scored {
+		if len(cards) >= limit {
 			break
 		}
 		p := data.PostBySlug(sp.slug)
 		if p == nil || !p.IsFinished() {
 			continue
 		}
-		card := components.PostCardData{
+		card := views.RelatedPostData{
 			URL:   r.PostURL(p),
 			Title: p.Title,
+			Date:  p.Date.Format("2006-01-02"),
 		}
 		if p.ImageFilename != "" {
-			card.Photo = &components.PhotoCardData{
-				JPEGSrc: r.ProcessedImageURL(p, p.ImageFilename, "grid", "jpg"),
-				AVIFSrc: r.ProcessedImageURL(p, p.ImageFilename, "grid", "avif"),
-				Alt:     p.Title,
-			}
+			card.GridJPEGURL = r.ProcessedImageURL(p, p.ImageFilename, "grid", "jpg")
+			card.GridAVIFURL = r.ProcessedImageURL(p, p.ImageFilename, "grid", "avif")
 		}
 		cards = append(cards, card)
 	}

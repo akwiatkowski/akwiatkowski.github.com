@@ -2,7 +2,6 @@ package views
 
 import (
 	"fmt"
-	"odkrywajac/internal/view/template/components"
 )
 
 // PostArticleData holds all data needed to render a post article page.
@@ -27,7 +26,7 @@ type PostArticleData struct {
 	NextPost *PostPagerData
 
 	// Related posts
-	RelatedPosts []components.PostCardData
+	RelatedPosts []RelatedPostData
 
 	// Route stats
 	ActivityBadge string // e.g. "🥾 pieszo", "🚲 rowerem"
@@ -74,6 +73,16 @@ type PostPagerData struct {
 	Title            string
 	ThumbnailJPEGURL string // 150×112 JPEG
 	ThumbnailAVIFURL string // 150×112 AVIF
+}
+
+// RelatedPostData holds data for one card in the "Powiązane wpisy" grid.
+// Mirrors Crystal's data/layout/post/related_post.html placeholders.
+type RelatedPostData struct {
+	URL         string
+	Title       string
+	Date        string // formatted post date, e.g. "2021-08-27"
+	GridJPEGURL string // 560×420 JPEG
+	GridAVIFURL string // 560×420 AVIF
 }
 
 // heroStyle returns the CSS for the hero header background.
@@ -176,11 +185,9 @@ templ PostArticleContent(data PostArticleData) {
 		if len(data.RelatedPosts) > 0 {
 			<section class="related-posts">
 				<h2 class="post-section-label">Powiązane wpisy</h2>
-				<div class="row">
+				<div class="related-posts-grid">
 					for _, rp := range data.RelatedPosts {
-						<div class="col-md-4 col-6">
-							@components.PostCard(rp)
-						</div>
+						@RelatedPostCard(rp)
 					}
 				</div>
 			</section>
@@ -211,6 +218,24 @@ templ PostPagerLink(pager PostPagerData, cssClass string, label string) {
 		if cssClass == "post-pager-next" && pager.ThumbnailJPEGURL != "" {
 			@PostPagerPicture(pager)
 		}
+	</a>
+}
+
+// RelatedPostCard renders one card in the related-posts grid. Markup mirrors
+// Crystal's data/layout/post/related_post.html so both engines share the
+// .related-post-card styles in new.css.
+templ RelatedPostCard(related RelatedPostData) {
+	<a href={ templ.SafeURL(related.URL) } class="related-post-card">
+		if related.GridJPEGURL != "" {
+			<picture>
+				if related.GridAVIFURL != "" {
+					<source type="image/avif" srcset={ related.GridAVIFURL }/>
+				}
+				<img src={ related.GridJPEGURL } alt="" loading="lazy"/>
+			</picture>
+		}
+		<span class="related-post-date">{ related.Date }</span>
+		<span class="related-post-title">{ related.Title }</span>
 	</a>
 }
 

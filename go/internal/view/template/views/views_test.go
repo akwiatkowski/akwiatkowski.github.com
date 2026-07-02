@@ -173,13 +173,17 @@ func TestPostArticle_RendersPrevNextPager(t *testing.T) {
 func TestPostArticle_RendersRelatedPosts(t *testing.T) {
 	data := views.PostArticleData{
 		Title: "Related",
-		RelatedPosts: []components.PostCardData{
-			{URL: "/related1.html", Title: "Related 1"},
-			{URL: "/related2.html", Title: "Related 2"},
+		RelatedPosts: []views.RelatedPostData{
+			{URL: "/related1.html", Title: "Related 1", Date: "2021-08-27", GridJPEGURL: "/img/r1_grid.jpg", GridAVIFURL: "/img/r1_grid.avif"},
+			{URL: "/related2.html", Title: "Related 2", Date: "2021-08-29"},
 		},
 	}
 	out := h.Render(t, views.PostArticleContent(data))
 	h.AssertContains(t, out, "Powiązane wpisy")
+	h.AssertContains(t, out, `class="related-posts-grid"`)
+	h.AssertContains(t, out, `class="related-post-card"`)
+	h.AssertContains(t, out, `<span class="related-post-date">2021-08-27</span>`)
+	h.AssertContains(t, out, `<source type="image/avif" srcset="/img/r1_grid.avif">`)
 	h.AssertContains(t, out, "Related 1")
 	h.AssertContains(t, out, "Related 2")
 }
