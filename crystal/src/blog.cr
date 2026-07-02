@@ -5,7 +5,7 @@ require "./content/post"
 require "./renderer"
 require "./content/post_function_parser"
 require "./content/post_collection"
-require "./validator"
+require "./render/validator"
 require "./mod_watcher"
 # PHASE6_REMOVED: require "./service/town_photo_cache" - replaced by AreaPhotoSelector
 require "./service/post_coord_quant_cache"
@@ -22,7 +22,7 @@ require "./service/color_similarity_service"
 require "./context/render_context"
 require "./context/build_context"
 require "./content/post_renderer"
-require "./view_registry/all"
+require "./render/all"
 
 class Tremolite::Blog
   include Profiled
