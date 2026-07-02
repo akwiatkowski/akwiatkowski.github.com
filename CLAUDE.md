@@ -390,15 +390,32 @@ Area types use nominative (show) vs genitive (post-list/gallery) forms:
 
 ### Building the Project
 
+The build is parametrized over three orthogonal axes (see
+`~/projects/claude/plans/odkrywajacpolske.md`):
+
+- `ENV` = `dev` | `full` — how much input content
+- `TARGET` = `local` | `release` — draft visibility (release hides not-ready posts)
+- `ENGINE` = `go` | `crystal` — which renderer
+
+Output is engine-agnostic: `env/<ENV>/public/<TARGET>` (both engines write there).
+
 ```bash
-make dev-render-local           # Compile and run project (dev environment)
+make render                                    # go + dev + local (defaults)
+make render ENGINE=crystal                     # Crystal instead of Go
+make render ENV=full TARGET=release ENGINE=go  # full release build
+make render-full-release-go                    # same, via generated alias
+make serve ENV=dev TARGET=local                # serve the output (engine-agnostic)
+make purge                                     # delete generated html/xml/json/svg
+                                               # (keeps images + tiles)
 ```
 
 ### Running Tests
 
 ```bash
-crystal spec                    # Run all tests
-crystal spec spec/views/        # Run view tests only
+make test                       # unit tests for the default engine (go)
+make test ENGINE=crystal        # Crystal specs (crystal spec)
+make lint                       # golangci-lint (Go engine)
+mise exec -- crystal spec       # Crystal specs directly
 ```
 
 ### Running E2E Tests (Playwright)
@@ -422,8 +439,8 @@ npx playwright test --headed    # See browser while testing
 ```
 
 **Prerequisites:**
-- Dev server must be running on `localhost:5001`
-- Run `make dev-render-local` first to build the site
+- Dev server must be running on `localhost:5001` (`make serve`)
+- Run `make render` first to build the site (add `ENGINE=crystal` to test Crystal output)
 
 ### Running Commands
 

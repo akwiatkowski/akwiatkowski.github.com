@@ -1,119 +1,66 @@
-PORT := 5001
+# ==========================================================================
+# odkrywajacpolske — unified build over three orthogonal axes
+#
+#   ENV    = dev | full      how much input content (subset vs all posts)
+#   TARGET = local | release draft visibility (release hides not-ready posts)
+#   ENGINE = go | crystal     which renderer (output is engine-agnostic)
+#
+# Output tree (shared by both engines):  env/<ENV>/public/<TARGET>
+# Caches are per-engine: env/<ENV>/cache (crystal) vs cache-go (go).
+# Serve is engine-agnostic — it just serves the output tree.
+#
+# Everyday use:   make render          make serve
+# Full release:   make render ENV=full TARGET=release ENGINE=go
+# Full grammar:   make <target> ENV=.. TARGET=.. ENGINE=..
+# Plan: ~/projects/claude/plans/odkrywajacpolske.md
+# ==========================================================================
 
-PUBLIC_PATH_PART := public
-DEV_BASE_PATH := env/dev
-FULL_BASE_PATH := env/full
-DEV_SRC_PATH := $(DEV_BASE_PATH)/src
-FULL_SRC_PATH := $(FULL_BASE_PATH)/src
+ENV    ?= dev
+TARGET ?= local
+ENGINE ?= go
+PORT   ?= 5001
 
-PYTHON_SERVER := python3 -m http.server $(PORT)
-CRYSTAL_COMMAND := crystal
+PUBLIC := env/$(ENV)/public/$(TARGET)
 
-RENDER_RELEASE_TARGET_COMMAND_PATH := render_release.cr
-RENDER_LOCAL_TARGET_COMMAND_PATH := render_local.cr
-RUN_LOCAL_TARGET_COMMAND_PATH := run_local.cr
+.DEFAULT_GOAL := help
 
-EXEC_BLOG_LOCAL := blog_local
+# --------------------------------------------------------------------------
+# Render  (ENV x TARGET x ENGINE) — both engines write $(PUBLIC)
+# --------------------------------------------------------------------------
+.PHONY: render render-go render-crystal
+render: render-$(ENGINE)  ## Render with $(ENGINE) into env/$(ENV)/public/$(TARGET)
 
-COMPILE_LOCAL_RELEASE_FLAG := --release
+render-go:
+	$(MAKE) -C go-rewrite build
+	go-rewrite/bin/odkrywajac build --base . --env $(ENV) --target $(TARGET)
 
-.PHONY: dev_serve_local dev_serve_release dev_render_release dev_render_local \
-        serve_local serve_release render_release render_local \
-        compile_local run_compiled_local run_compiled_local_check watch_coffee watch_local_mac \
-        dev-purge-html-local dev-purge-html-release purge-html-local purge-html-release \
-        dev-purge-empty-local dev-purge-empty-release purge-empty-local purge-empty-release \
-        test-e2e test-e2e-headed test-e2e-smoke transpile-jsx setup-photo-analysis \
-        go-init go-test go-build
+render-crystal:
+	mise exec -- crystal env/$(ENV)/src/render_$(TARGET).cr
+	@echo crystal > $(PUBLIC)/.engine   # so the next Go render forces a full rebuild
 
-# Assets
-watch_coffee:
-	coffee -bcw data/assets/js/*.coffee
+# --------------------------------------------------------------------------
+# Serve  (engine-agnostic — serves whatever last rendered into $(PUBLIC))
+# --------------------------------------------------------------------------
+.PHONY: serve
+serve:  ## Serve env/$(ENV)/public/$(TARGET) on $(PORT)
+	cd $(PUBLIC) && python3 -m http.server $(PORT)
 
-# Transpile all JSX files to JS (Preact-compatible)
-transpile-jsx:
-	@for f in data/assets/js/src/*.jsx; do \
-		out="data/assets/js/self/$$(basename "$${f}" .jsx).js"; \
-		echo "$$f -> $$out"; \
-		npx esbuild "$$f" --bundle=false --outfile="$$out" --jsx-factory=React.createElement --jsx-fragment=React.Fragment; \
-	done
+# --------------------------------------------------------------------------
+# Test / lint
+# --------------------------------------------------------------------------
+.PHONY: test test-go test-crystal lint test-e2e test-e2e-headed test-e2e-smoke
+test: test-$(ENGINE)  ## Unit tests for $(ENGINE)
 
-# Dev serve targets (dynamic pattern)
-dev-serve-%:
-	cd $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/$* && $(PYTHON_SERVER)
+test-go:
+	$(MAKE) -C go-rewrite test
 
-dev-render-release:
-	$(CRYSTAL_COMMAND) $(DEV_SRC_PATH)/$(RENDER_RELEASE_TARGET_COMMAND_PATH)
+test-crystal:
+	mise exec -- crystal spec
 
-dev-render-local:
-	$(CRYSTAL_COMMAND) $(DEV_SRC_PATH)/$(RENDER_LOCAL_TARGET_COMMAND_PATH)
+lint:  ## Lint the Go engine
+	$(MAKE) -C go-rewrite lint
 
-# Full env serve targets (dynamic pattern)
-serve-%:
-	cd $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/$* && $(PYTHON_SERVER)
-
-render-release:
-	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_RELEASE_TARGET_COMMAND_PATH)
-
-render-local:
-	$(CRYSTAL_COMMAND) $(FULL_SRC_PATH)/$(RENDER_LOCAL_TARGET_COMMAND_PATH)
-
-# Compile local executable
-compile_local:
-	$(CRYSTAL_COMMAND) build $(FULL_SRC_PATH)/$(RUN_LOCAL_TARGET_COMMAND_PATH) -o $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL) $(COMPILE_LOCAL_RELEASE_FLAG)
-
-# Run compiled executable (assumes it's present)
-run_compiled_local:
-	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL)
-
-# Run compiled executable with check, compile if missing
-run_compiled_local_check:
-	if [ ! -f $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL) ]; then \
-		$(MAKE) compile_local; \
-	fi; \
-	CRYSTAL_LOG_LEVEL=DEBUG CRYSTAL_LOG_SOURCES="*" $(FULL_BASE_PATH)/$(EXEC_BLOG_LOCAL)
-
-# File watcher for macOS to compile and run with check
-watch_local_mac:
-	watchman-make -p '**/*.cr' '**/*.h' 'Makefile*' -t compile_local -p '**/*.md' 'tests/**/*.c' -t run_compiled_local_check
-
-# Purge generated files (HTML, XML, JSON, SVG) from output directories
-# Useful for validating that registry covers all views
-dev-purge-html-local:
-	@echo "Purging generated files from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
-	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
-
-dev-purge-html-release:
-	@echo "Purging generated files from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
-	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
-
-purge-html-local:
-	@echo "Purging generated files from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
-	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
-
-purge-html-release:
-	@echo "Purging generated files from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
-	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type f \( -name "*.html" -o -name "*.xml" -o -name "*.json" -o -name "*.svg" \) -delete -print | wc -l | xargs -I {} echo "Deleted {} files"
-
-# Purge empty directories from output directories
-# Run after purge-html-* to clean up leftover empty directories
-dev-purge-empty-local:
-	@echo "Purging empty directories from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
-	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
-
-dev-purge-empty-release:
-	@echo "Purging empty directories from $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
-	find $(DEV_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
-
-purge-empty-local:
-	@echo "Purging empty directories from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local..."
-	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/local -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
-
-purge-empty-release:
-	@echo "Purging empty directories from $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release..."
-	find $(FULL_BASE_PATH)/$(PUBLIC_PATH_PART)/release -type d -empty -delete -print 2>/dev/null | wc -l | xargs -I {} echo "Deleted {} directories"
-
-# E2E Tests (requires: cd tests/e2e && npm install && npx playwright install chromium)
-test-e2e:
+test-e2e:  ## Playwright e2e (needs a server on the test port)
 	cd tests/e2e && npx playwright test
 
 test-e2e-headed:
@@ -122,16 +69,69 @@ test-e2e-headed:
 test-e2e-smoke:
 	cd tests/e2e && npx playwright test specs/smoke.spec.js
 
-# Go rewrite targets
-go-init:
-	cd go-rewrite && mise exec -- go mod tidy
+# --------------------------------------------------------------------------
+# Assets
+# --------------------------------------------------------------------------
+.PHONY: transpile-jsx setup-photo-analysis
+transpile-jsx:  ## Transpile data/assets/js/src/*.jsx -> self/*.js (Preact)
+	@for f in data/assets/js/src/*.jsx; do \
+		out="data/assets/js/self/$$(basename "$${f}" .jsx).js"; \
+		echo "$$f -> $$out"; \
+		npx esbuild "$$f" --bundle=false --outfile="$$out" --jsx-factory=React.createElement --jsx-fragment=React.Fragment; \
+	done
 
-go-test:
-	cd go-rewrite && mise exec -- go test ./...
-
-go-build:
-	cd go-rewrite && mise exec -- go build -o bin/odkrywajac ./cmd/odkrywajac
-
-# Photo analysis setup (Python + imagehash)
-setup-photo-analysis:
+setup-photo-analysis:  ## Install Python deps for photo analysis
 	pip3 install -q -r requirements.txt
+
+# --------------------------------------------------------------------------
+# Purge  (surgical: generated markup/data ONLY)
+#
+# Removes generated html/xml/json/svg from $(PUBLIC). NEVER removes images
+# (jpg/png/avif — including processed ones) or tiles. Those are expensive or
+# precious and are excluded both by extension and by path. See the plan's
+# danger rules — output dirs are never `rm -rf`'d.
+# --------------------------------------------------------------------------
+.PHONY: purge purge-empty
+purge:  ## Delete generated html/xml/json/svg from $(PUBLIC) (keeps images/tiles)
+	@echo "Purging generated files from $(PUBLIC) (images & tiles preserved)..."
+	@find $(PUBLIC) -type f \
+		\( -name '*.html' -o -name '*.xml' -o -name '*.json' -o -name '*.svg' \) \
+		-not -path '*/tiles/*' -not -path '*/images/*' \
+		-delete -print | wc -l | xargs echo "Deleted files:"
+
+purge-empty:  ## Remove empty directories left under $(PUBLIC) after a purge
+	@find $(PUBLIC) -type d -empty -not -path '*/tiles/*' -not -path '*/images/*' \
+		-delete -print 2>/dev/null | wc -l | xargs echo "Deleted empty dirs:"
+
+# --------------------------------------------------------------------------
+# Generated explicit aliases (discoverability / tab-completion)
+#   render-<env>-<target>-<engine>   e.g. make render-full-release-go
+#   serve-<env>-<target>            e.g. make serve-dev-local
+# --------------------------------------------------------------------------
+define RENDER_ALIAS
+.PHONY: render-$(1)-$(2)-$(3)
+render-$(1)-$(2)-$(3):
+	$$(MAKE) render ENV=$(1) TARGET=$(2) ENGINE=$(3)
+endef
+$(foreach e,dev full,$(foreach t,local release,$(foreach g,go crystal,\
+	$(eval $(call RENDER_ALIAS,$(e),$(t),$(g))))))
+
+define SERVE_ALIAS
+.PHONY: serve-$(1)-$(2)
+serve-$(1)-$(2):
+	$$(MAKE) serve ENV=$(1) TARGET=$(2)
+endef
+$(foreach e,dev full,$(foreach t,local release,\
+	$(eval $(call SERVE_ALIAS,$(e),$(t)))))
+
+# --------------------------------------------------------------------------
+# Help
+# --------------------------------------------------------------------------
+.PHONY: help
+help:  ## Show this help
+	@echo "odkrywajacpolske — ENV=$(ENV) TARGET=$(TARGET) ENGINE=$(ENGINE)  (override on the CLI)"
+	@echo ""
+	@grep -hE '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
+		| awk 'BEGIN{FS=":.*?## "}{printf "  \033[36m%-20s\033[0m %s\n", $$1, $$2}'
+	@echo ""
+	@echo "Generated aliases: render-<env>-<target>-<engine>, serve-<env>-<target>"
