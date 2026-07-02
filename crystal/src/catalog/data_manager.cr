@@ -1,15 +1,15 @@
-require "./model/all"
+require "../model/all"
 
-require "./service/nav_stats_cache"
-require "./service/exif_processor"
-require "./service/preloaded_post_referenced_links"
-require "./service/photo_coord_quant_cache"
-require "./service/area_data_loader"
-require "./service/area_photo_selector"
-require "./service/photo_analysis_cache"
+require "../service/nav_stats_cache"
+require "../service/exif_processor"
+require "../service/preloaded_post_referenced_links"
+require "../service/photo_coord_quant_cache"
+require "../service/area_data_loader"
+require "../service/area_photo_selector"
+require "../service/photo_analysis_cache"
 
-require "./data_manager/exif_db"
-require "./data_manager/photo_map_dictionary"
+require "./exif_db"
+require "./photo_map_dictionary"
 
 class Tremolite::DataManager
   include Profiled

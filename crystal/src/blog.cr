@@ -1,6 +1,6 @@
 require "./service/profiled"
 require "./service/image"
-require "./data_manager"
+require "./catalog/data_manager"
 require "./post"
 require "./renderer"
 require "./post_function_parser"
