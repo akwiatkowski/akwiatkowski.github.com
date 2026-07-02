@@ -5,13 +5,13 @@ import (
 	"io"
 	"sort"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
 // E2EJSON creates a JSON endpoint with all post data for E2E tests.
-func E2EJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func E2EJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type postEntry struct {
 		URL           string   `json:"url"`
 		Ready         bool     `json:"ready"`
@@ -84,7 +84,7 @@ func E2EJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // MapJSON creates a JSON endpoint for the route map page.
-func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func MapJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type routeSegment struct {
 		Type  string       `json:"type"`
 		Route [][2]float64 `json:"route"`
@@ -152,7 +152,7 @@ func MapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 // PhotosJSON creates a JSON endpoint with all photo metadata.
 // Camera and lens names are humanized via model.CameraNames/LensNames dictionaries.
 // Includes a tag_names map so the frontend can display Polish tag names.
-func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func PhotosJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type photoEntry struct {
 		Desc        string   `json:"desc"`
 		FullURL     string   `json:"full_url"`
@@ -235,7 +235,7 @@ func PhotosJSON(data *index.SiteData, rtr *router.Router) Renderable {
 // PhotosMapJSON creates a JSON endpoint with GPS-tagged photos for map markers.
 // Field names use dot-notation (e.g. "exif.lat") to match Crystal's format
 // and the photo_map.js frontend expectations.
-func PhotosMapJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func PhotosMapJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type photoEntry struct {
 		Desc         string   `json:"desc"`
 		FullURL      string   `json:"full_url"`
@@ -307,7 +307,7 @@ func PhotosMapJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // TrainStationsJSON creates a JSON endpoint for train station data.
-func TrainStationsJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func TrainStationsJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type stationEntry struct {
 		Name         string  `json:"name"`
 		Lat          float64 `json:"lat"`
@@ -334,7 +334,7 @@ func TrainStationsJSON(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // PhotoGridJSON creates a JSON endpoint with photo GPS coordinates for the grid map.
-func PhotoGridJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func PhotoGridJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type gridData struct {
 		Coords [][2]float64 `json:"coords"`
 	}
@@ -358,7 +358,7 @@ func PhotoGridJSON(data *index.SiteData, rtr *router.Router) Renderable {
 // IdeasJSON creates a JSON endpoint for trip ideas data.
 // Contains town metadata (for slug→name lookup) and idea entries with
 // train station info, direction bearing, time cost stats, and visited town counts.
-func IdeasJSON(data *index.SiteData, rtr *router.Router) Renderable {
+func IdeasJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type townEntry struct {
 		Slug string  `json:"slug"`
 		Name string  `json:"name"`
@@ -520,7 +520,7 @@ func hasRouteData(post *model.Post) bool {
 // RouteColorsJS generates /js/self/route_colors.js from the route colors config.
 // This file defines window.ROUTE_STYLES, window.ROUTE_TAG_PRIORITY, and
 // window.getRouteStyle() used by area_show.js and other map pages.
-func RouteColorsJS(data *index.SiteData) Renderable {
+func RouteColorsJS(data *catalog.SiteData) Renderable {
 	return NewRawEndpoint("/js/self/route_colors.js", false, func(w io.Writer) error {
 		// Collect and sort route types for deterministic output
 		types := make([]string, 0, len(data.RouteColors))

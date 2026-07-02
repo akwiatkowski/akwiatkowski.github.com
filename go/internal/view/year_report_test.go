@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataForYearReport() *index.SiteData {
+func testSiteDataForYearReport() *catalog.SiteData {
 	fin1 := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	fin2 := time.Date(2021, 8, 2, 0, 0, 0, 0, time.UTC)
 	fin3 := time.Date(2022, 5, 10, 0, 0, 0, 0, time.UTC)
@@ -59,7 +59,7 @@ func testSiteDataForYearReport() *index.SiteData {
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
 
-	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestYearReportPageURL(t *testing.T) {

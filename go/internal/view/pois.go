@@ -6,7 +6,7 @@ import (
 	"sort"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/spatial"
@@ -22,7 +22,7 @@ const (
 
 // POIsPage creates a Renderable for the POIs page.
 func POIsPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -49,7 +49,7 @@ func POIsPage(
 	return NewHTMLPage(url, page, views.POIsContent(rawScript), true)
 }
 
-func buildPOIs(data *index.SiteData, r *router.Router) []views.POIEntry {
+func buildPOIs(data *catalog.SiteData, r *router.Router) []views.POIEntry {
 	var result []views.POIEntry
 
 	// Manual POIs from train stations
@@ -80,7 +80,7 @@ func buildPOIs(data *index.SiteData, r *router.Router) []views.POIEntry {
 	return result
 }
 
-func buildAutoPOIs(data *index.SiteData, r *router.Router, manualPOIs []views.POIEntry) []views.POIEntry {
+func buildAutoPOIs(data *catalog.SiteData, r *router.Router, manualPOIs []views.POIEntry) []views.POIEntry {
 	// Collect all geotagged photos with points
 	type scoredPhoto struct {
 		photo *model.Photo
@@ -153,7 +153,7 @@ func buildAutoPOIs(data *index.SiteData, r *router.Router, manualPOIs []views.PO
 	return autoPOIs
 }
 
-func findClosestPhoto(lat, lon float64, data *index.SiteData) (*model.Photo, *model.Post) {
+func findClosestPhoto(lat, lon float64, data *catalog.SiteData) (*model.Photo, *model.Post) {
 	var bestPhoto *model.Photo
 	var bestPost *model.Post
 	bestDist := math.MaxFloat64

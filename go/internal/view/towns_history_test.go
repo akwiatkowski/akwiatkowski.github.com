@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataForTownsHistory() *index.SiteData {
+func testSiteDataForTownsHistory() *catalog.SiteData {
 	fin1 := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	fin2 := time.Date(2021, 9, 2, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
@@ -38,7 +38,7 @@ func testSiteDataForTownsHistory() *index.SiteData {
 		{Slug: "wielkopolskie", Name: "Wielkopolskie", Type: model.AreaTypeVoivodeship},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestTownsHistoryPageURL(t *testing.T) {

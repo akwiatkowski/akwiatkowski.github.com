@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataWithPhotos() *index.SiteData {
+func testSiteDataWithPhotos() *catalog.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	lat, lon := 52.4, 16.9
 	posts := []*model.Post{
@@ -53,7 +53,7 @@ func testSiteDataWithPhotos() *index.SiteData {
 		{Name: "Pobiedziska", Lat: 52.47, Lon: 17.28, TimeDistance: map[string]float64{"Poznań": 0.5}},
 	}
 
-	return index.BuildSiteData(posts, nil, nil, nil,
+	return catalog.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
 		nil, stations, nil,
 	)

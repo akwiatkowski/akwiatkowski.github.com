@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
@@ -39,7 +39,7 @@ func TestTownsIndexPageRender(t *testing.T) {
 		{Slug: "pobiedziska", Name: "Pobiedziska", Type: model.AreaTypeTown, VoivodeshipSlug: "wielkopolskie"},
 		{Slug: "wielkopolskie", Name: "Wielkopolskie", Type: model.AreaTypeVoivodeship},
 	}
-	data := index.BuildSiteData(posts, nil, nil, areas,
+	data := catalog.BuildSiteData(posts, nil, nil, areas,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
 		nil, nil, nil,
 	)

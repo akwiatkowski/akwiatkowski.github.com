@@ -5,7 +5,7 @@ import (
 	"sort"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/content"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
@@ -22,7 +22,7 @@ var polishWeekdays = [...]string{
 
 // PostArticlePage creates a Renderable for a post article page.
 func PostArticlePage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	post *model.Post,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -161,7 +161,7 @@ func PostArticlePage(
 // PostGalleryPage creates a Renderable for a post gallery page.
 // Uses the dynamic JS gallery with lightbox.
 func PostGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	post *model.Post,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -172,7 +172,7 @@ func PostGalleryPage(
 }
 
 // buildTagLinks creates tag links for a post.
-func buildTagLinks(data *index.SiteData, post *model.Post, r *router.Router) []views.PostTagLink {
+func buildTagLinks(data *catalog.SiteData, post *model.Post, r *router.Router) []views.PostTagLink {
 	var links []views.PostTagLink
 	for _, tagSlug := range post.TagSlugs {
 		tag := data.TagBySlug[tagSlug]
@@ -188,7 +188,7 @@ func buildTagLinks(data *index.SiteData, post *model.Post, r *router.Router) []v
 }
 
 // buildAreaLinks creates grouped area links for a post.
-func buildAreaLinks(data *index.SiteData, post *model.Post, r *router.Router) []views.PostAreaGroup {
+func buildAreaLinks(data *catalog.SiteData, post *model.Post, r *router.Router) []views.PostAreaGroup {
 	type areaRef struct {
 		areaType model.AreaType
 		slug     string
@@ -316,7 +316,7 @@ func temperatureStr(temp int) string {
 }
 
 // buildRelatedPosts finds related posts by shared areas/tags.
-func buildRelatedPosts(data *index.SiteData, post *model.Post, r *router.Router, limit int) []components.PostCardData {
+func buildRelatedPosts(data *catalog.SiteData, post *model.Post, r *router.Router, limit int) []components.PostCardData {
 	// Score posts by shared attributes
 	scores := make(map[string]int)
 

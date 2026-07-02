@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
@@ -16,7 +16,7 @@ import (
 const maxFeedPosts = 20
 
 // RSSFeed creates a Renderable for the RSS 2.0 feed.
-func RSSFeed(data *index.SiteData, rtr *router.Router) Renderable {
+func RSSFeed(data *catalog.SiteData, rtr *router.Router) Renderable {
 	return NewRawEndpoint(rtr.RSSURL(), false, func(w io.Writer) error {
 		posts := recentFinishedPosts(data.Posts, maxFeedPosts)
 
@@ -83,7 +83,7 @@ func RSSFeed(data *index.SiteData, rtr *router.Router) Renderable {
 }
 
 // AtomFeed creates a Renderable for the Atom 1.0 feed.
-func AtomFeed(data *index.SiteData, rtr *router.Router) Renderable {
+func AtomFeed(data *catalog.SiteData, rtr *router.Router) Renderable {
 	return NewRawEndpoint(rtr.AtomURL(), false, func(w io.Writer) error {
 		posts := recentFinishedPosts(data.Posts, maxFeedPosts)
 

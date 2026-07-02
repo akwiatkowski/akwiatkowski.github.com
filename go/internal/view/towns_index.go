@@ -5,7 +5,7 @@ import (
 	"sort"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -15,7 +15,7 @@ import (
 // TownsIndexPage creates a Renderable for the towns index page.
 // It embeds JSON with town data for the Preact client-side app.
 func TownsIndexPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	rtr *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -46,7 +46,7 @@ func TownsIndexPage(
 // Field names mirror Crystal's TownsIndexView#generate_towns_json exactly —
 // the Preact app reads show_url / voivodeship / photo_url_avif / first_year /
 // last_year, so renaming any of them silently breaks the page.
-func buildTownsJSON(data *index.SiteData, rtr *router.Router) string {
+func buildTownsJSON(data *catalog.SiteData, rtr *router.Router) string {
 	type townEntry struct {
 		Name        string `json:"name"`
 		Slug        string `json:"slug"`

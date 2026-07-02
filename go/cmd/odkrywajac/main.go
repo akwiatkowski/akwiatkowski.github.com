@@ -10,19 +10,18 @@ import (
 	"strings"
 	"time"
 
-	"odkrywajac/internal/bundle"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/draft"
-	"odkrywajac/internal/exif"
+	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/geodata"
 	"odkrywajac/internal/gpx"
-	"odkrywajac/internal/index"
-	"odkrywajac/internal/loader"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/pipeline"
 	"odkrywajac/internal/pipeline/nodes"
 	"odkrywajac/internal/render"
-	"odkrywajac/internal/router"
-	"odkrywajac/internal/spatial"
+	"odkrywajac/internal/service/router"
+	"odkrywajac/internal/service/spatial"
 	"odkrywajac/internal/strava"
 	"odkrywajac/internal/view"
 	"odkrywajac/internal/weather"
@@ -115,7 +114,7 @@ func runBuild(ctx *pipeline.Context) {
 		areas       []*model.Area
 		posts       []*model.Post
 		polygonDir  string
-		siteData    *index.SiteData
+		siteData    *catalog.SiteData
 		siteRouter  *router.Router
 		resolver    *bundle.Resolver
 		views       []view.Renderable
@@ -128,7 +127,7 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("loadConfigs", nil, func(ctx *pipeline.Context) error {
 		var err error
-		cfg, tags, photoTags, routeColors, stations, err = loader.LoadAllConfigs(ctx.ConfigDir())
+		cfg, tags, photoTags, routeColors, stations, err = catalog.LoadAllConfigs(ctx.ConfigDir())
 		return err
 	})
 
@@ -139,19 +138,19 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("loadPosts", nil, func(ctx *pipeline.Context) error {
 		var err error
-		posts, err = loader.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
+		posts, err = catalog.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
 		if err != nil {
 			return err
 		}
 		// Try Go-generated cache first, fall back to Crystal cache
-		loader.EnrichPostsWithAreaCache(posts, ctx.RouteCoverageDir())
-		loader.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
+		catalog.EnrichPostsWithAreaCache(posts, ctx.RouteCoverageDir())
+		catalog.EnrichPostsWithAreaCache(posts, ctx.AreaCacheDir())
 		return nil
 	})
 
 	pipe.Add("loadIdeas", nil, func(ctx *pipeline.Context) error {
 		var err error
-		ideas, err = loader.LoadIdeas(ctx.IdeasDir())
+		ideas, err = catalog.LoadIdeas(ctx.IdeasDir())
 		return err
 	})
 
@@ -168,7 +167,7 @@ func runBuild(ctx *pipeline.Context) {
 	pipe.Add("loadAreas", []string{"generateAreaConfigs"}, func(ctx *pipeline.Context) error {
 		areasDir := filepath.Join(ctx.GlobalCacheDir(), "areas")
 		var err error
-		areas, err = loader.LoadAreas(areasDir)
+		areas, err = catalog.LoadAreas(areasDir)
 		return err
 	})
 
@@ -176,8 +175,8 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("loadPhotos", []string{"loadPosts", "loadConfigs"}, func(ctx *pipeline.Context) error {
 		exifCache := exif.NewCache(ctx.ExifCacheDir())
-		loader.PopulatePublishedPhotos(posts, exifCache, photoTags, ctx.ImagesDir())
-		loader.PopulateAllPhotos(posts, ctx.ImagesDir(), exifCache)
+		catalog.PopulatePublishedPhotos(posts, exifCache, photoTags, ctx.ImagesDir())
+		catalog.PopulateAllPhotos(posts, ctx.ImagesDir(), exifCache)
 		return nil
 	})
 
@@ -256,7 +255,7 @@ func runBuild(ctx *pipeline.Context) {
 		}
 
 		// Re-enrich posts with freshly generated route coverage
-		loader.EnrichPostsWithAreaCache(posts, routeCoverageDir)
+		catalog.EnrichPostsWithAreaCache(posts, routeCoverageDir)
 
 		return nil
 	})
@@ -284,7 +283,7 @@ func runBuild(ctx *pipeline.Context) {
 	// --- Build indexes from all loaded data ---
 
 	pipe.Add("buildSiteData", []string{"loadConfigs", "loadAreas", "loadPhotos", "loadIdeas"}, func(_ *pipeline.Context) error {
-		siteData = index.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, ideas)
+		siteData = catalog.BuildSiteData(posts, tags, photoTags, areas, cfg, routeColors, stations, ideas)
 		return nil
 	})
 
@@ -635,7 +634,7 @@ func runMissingPosts() {
 	// Build set of activity IDs from posts
 	// Use existing post loader to get all posts and their Strava IDs
 	postsDir := filepath.Join("..", "env", "full", "data", "posts")
-	posts, err := loader.LoadPosts(postsDir, "")
+	posts, err := catalog.LoadPosts(postsDir, "")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Warning: could not load posts: %v\n", err)
 		os.Exit(1)

@@ -6,13 +6,13 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/views"
 )
 
-func testSiteDataForBurnout() *index.SiteData {
+func testSiteDataForBurnout() *catalog.SiteData {
 	fin1 := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	fin2 := time.Date(2022, 7, 15, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
@@ -36,7 +36,7 @@ func testSiteDataForBurnout() *index.SiteData {
 		},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
 }
 
 func TestBurnoutPageURL(t *testing.T) {

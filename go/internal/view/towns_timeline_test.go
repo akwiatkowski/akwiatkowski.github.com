@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataForTownsTimeline() *index.SiteData {
+func testSiteDataForTownsTimeline() *catalog.SiteData {
 	fin1 := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	fin2 := time.Date(2021, 8, 2, 0, 0, 0, 0, time.UTC)
 	fin3 := time.Date(2021, 9, 10, 0, 0, 0, 0, time.UTC)
@@ -46,7 +46,7 @@ func testSiteDataForTownsTimeline() *index.SiteData {
 		{Slug: "swarzedz", Name: "Swarzędz", Type: model.AreaTypeTown},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestTownsTimelinePageURL(t *testing.T) {

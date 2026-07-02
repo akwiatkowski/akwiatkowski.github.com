@@ -7,13 +7,13 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 )
 
-func testSiteDataForFeeds() *index.SiteData {
+func testSiteDataForFeeds() *catalog.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
@@ -34,7 +34,7 @@ func testSiteDataForFeeds() *index.SiteData {
 		Desc:   "Blog podróżniczy",
 	}
 
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
 }
 
 func TestRSSFeed(t *testing.T) {

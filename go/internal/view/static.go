@@ -9,14 +9,14 @@ import (
 	"github.com/yuin/goldmark/renderer/html"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
 )
 
 // AboutPage creates a Renderable for the "O mnie" page.
-func AboutPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolver, pagesDir string) Renderable {
+func AboutPage(data *catalog.SiteData, rtr *router.Router, resolver *bundle.Resolver, pagesDir string) Renderable {
 	url := rtr.AboutURL()
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
 
@@ -37,7 +37,7 @@ func AboutPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolv
 }
 
 // EnglishPage creates a Renderable for the English about page.
-func EnglishPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolver, pagesDir string) Renderable {
+func EnglishPage(data *catalog.SiteData, rtr *router.Router, resolver *bundle.Resolver, pagesDir string) Renderable {
 	url := rtr.EnglishURL()
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
 
@@ -58,7 +58,7 @@ func EnglishPage(data *index.SiteData, rtr *router.Router, resolver *bundle.Reso
 }
 
 // MorePage creates a Renderable for the "Więcej" page.
-func MorePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolver) Renderable {
+func MorePage(data *catalog.SiteData, rtr *router.Router, resolver *bundle.Resolver) Renderable {
 	url := rtr.MoreURL()
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core"}, nil)
 

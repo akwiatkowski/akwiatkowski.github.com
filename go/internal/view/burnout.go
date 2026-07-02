@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -13,7 +13,7 @@ import (
 
 // BurnoutPage creates a Renderable for the burnout stats page.
 func BurnoutPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -37,7 +37,7 @@ func BurnoutPage(
 	return NewHTMLPage(url, page, views.BurnoutContent(bd), false)
 }
 
-func computeBurnout(data *index.SiteData) views.BurnoutData {
+func computeBurnout(data *catalog.SiteData) views.BurnoutData {
 	type monthKey struct {
 		year  int
 		month int

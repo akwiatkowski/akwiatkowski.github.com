@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -161,7 +161,7 @@ func photosInExposureRange(photos []*model.Photo, from, to float64) []*model.Pho
 
 // --- All Photos Collection ---
 
-func allPublishedPhotos(data *index.SiteData) []*model.Photo {
+func allPublishedPhotos(data *catalog.SiteData) []*model.Photo {
 	var photos []*model.Photo
 	for _, post := range data.Posts {
 		if !post.IsFinished() {
@@ -181,7 +181,7 @@ func allPublishedPhotos(data *index.SiteData) []*model.Photo {
 // add_to_sitemap? == true), but post galleries are not (Crystal's post gallery
 // returns false) since the post article already represents that content.
 func galleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	url, title string,
@@ -208,7 +208,7 @@ func galleryPage(
 
 // TagPhotoGalleryPage creates gallery for a photo tag (fill algorithm).
 func TagPhotoGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	tag *model.Tag,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -223,7 +223,7 @@ func TagPhotoGalleryPage(
 
 // LensGalleryPage creates gallery for a specific lens.
 func LensGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	lens string,
@@ -237,7 +237,7 @@ func LensGalleryPage(
 
 // CameraGalleryPage creates gallery for a specific camera.
 func CameraGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	camera string,
@@ -251,7 +251,7 @@ func CameraGalleryPage(
 
 // FocalLengthGalleryPage creates gallery for a focal length range.
 func FocalLengthGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	from, to float64,
@@ -266,7 +266,7 @@ func FocalLengthGalleryPage(
 
 // ISOGalleryPage creates gallery for an ISO range.
 func ISOGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	from, to int,
@@ -281,7 +281,7 @@ func ISOGalleryPage(
 
 // ExposureGalleryPage creates gallery for an exposure time range.
 func ExposureGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	from, to float64,
@@ -309,7 +309,7 @@ func exposureLabel(v float64) string {
 
 // GalleryIndexPage creates the main gallery index page.
 func GalleryIndexPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -330,7 +330,7 @@ func GalleryIndexPage(
 	return NewHTMLPage(url, page, views.GalleryIndexContent(links), true)
 }
 
-func buildGalleryIndexLinks(data *index.SiteData, r *router.Router) []views.GalleryIndexLink {
+func buildGalleryIndexLinks(data *catalog.SiteData, r *router.Router) []views.GalleryIndexLink {
 	var links []views.GalleryIndexLink
 
 	// Photo tag galleries
@@ -367,7 +367,7 @@ func buildGalleryIndexLinks(data *index.SiteData, r *router.Router) []views.Gall
 
 // --- Unique EXIF values ---
 
-func collectUniqueLenses(data *index.SiteData) []string {
+func collectUniqueLenses(data *catalog.SiteData) []string {
 	seen := make(map[string]bool)
 	var result []string
 	for _, post := range data.Posts {
@@ -385,7 +385,7 @@ func collectUniqueLenses(data *index.SiteData) []string {
 	return result
 }
 
-func collectUniqueCameras(data *index.SiteData) []string {
+func collectUniqueCameras(data *catalog.SiteData) []string {
 	seen := make(map[string]bool)
 	var result []string
 	for _, post := range data.Posts {
@@ -454,7 +454,7 @@ func ExposureRanges() []ExposureRange {
 // buildGalleryConfigHTML generates the full HTML block for a dynamic gallery:
 // a <script id="gallery-config"> with Crystal-compatible JSON, a <div id="root">,
 // and the two JS script tags (photo_lightbox.js and gallery_dynamic.js).
-func buildGalleryConfigHTML(title string, photos []*model.Photo, data *index.SiteData, r *router.Router) string {
+func buildGalleryConfigHTML(title string, photos []*model.Photo, data *catalog.SiteData, r *router.Router) string {
 	type galleryConfig struct {
 		GalleryName string              `json:"galleryName"`
 		Items       []map[string]string `json:"items"`

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -15,7 +15,7 @@ import (
 
 // TownsTimelinePage creates a Renderable for the towns timeline page.
 func TownsTimelinePage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -38,7 +38,7 @@ func TownsTimelinePage(
 	return NewHTMLPage(url, page, views.TownsTimelineContent(td), false)
 }
 
-func computeTownsTimeline(data *index.SiteData, r *router.Router) views.TownsTimelineData {
+func computeTownsTimeline(data *catalog.SiteData, r *router.Router) views.TownsTimelineData {
 	sorted := make([]*model.Post, 0, len(data.Posts))
 	for _, p := range data.Posts {
 		if p.IsFinished() {

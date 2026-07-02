@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteData() *index.SiteData {
+func testSiteData() *catalog.SiteData {
 	posts := []*model.Post{
 		{
 			Slug:      "2021-07-18-pagorki",
@@ -32,7 +32,7 @@ func testSiteData() *index.SiteData {
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
 
-	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestAreaShowPageURL(t *testing.T) {

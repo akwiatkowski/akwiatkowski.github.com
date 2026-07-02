@@ -3,7 +3,7 @@ package view
 import (
 	"fmt"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	svgpkg "odkrywajac/internal/service/svg"
@@ -29,7 +29,7 @@ var globalMapVariants = []mapVariant{
 
 // --- Photo Map Data Builder ---
 
-func collectPhotoMapData(data *index.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
+func collectPhotoMapData(data *catalog.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
 	var photos []*model.Photo
 	var routes []svgpkg.RouteData
 	postBySlug := make(map[string]*model.Post)
@@ -57,7 +57,7 @@ func collectPhotoMapData(data *index.SiteData) ([]*model.Photo, []svgpkg.RouteDa
 	return photos, routes, postBySlug
 }
 
-func collectFilteredMapData(posts []*model.Post, _ *index.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
+func collectFilteredMapData(posts []*model.Post, _ *catalog.SiteData) ([]*model.Photo, []svgpkg.RouteData, map[string]*model.Post) {
 	var photos []*model.Photo
 	var routes []svgpkg.RouteData
 	postBySlug := make(map[string]*model.Post)
@@ -88,7 +88,7 @@ func collectFilteredMapData(posts []*model.Post, _ *index.SiteData) ([]*model.Ph
 // --- Global SVG Maps ---
 
 // GlobalMapSVGs creates Renderables for all global photo map variants.
-func GlobalMapSVGs(data *index.SiteData) []Renderable {
+func GlobalMapSVGs(data *catalog.SiteData) []Renderable {
 	photos, routes, postBySlug := collectPhotoMapData(data)
 	var result []Renderable
 
@@ -114,7 +114,7 @@ func GlobalMapSVGs(data *index.SiteData) []Renderable {
 // --- Voivodeship SVG Maps ---
 
 // VoivodeshipMapSVGs creates big and small SVG maps for each voivodeship.
-func VoivodeshipMapSVGs(data *index.SiteData) []Renderable {
+func VoivodeshipMapSVGs(data *catalog.SiteData) []Renderable {
 	var result []Renderable
 
 	voivodeships := data.AreasByType[model.AreaTypeVoivodeship]
@@ -160,7 +160,7 @@ func VoivodeshipMapSVGs(data *index.SiteData) []Renderable {
 // --- Post SVG Maps ---
 
 // PostMapSVGs creates photo maps for posts with routes.
-func PostMapSVGs(data *index.SiteData, r *router.Router) []Renderable {
+func PostMapSVGs(data *catalog.SiteData, r *router.Router) []Renderable {
 	var result []Renderable
 
 	for _, post := range data.Posts {
@@ -204,7 +204,7 @@ func PostMapSVGs(data *index.SiteData, r *router.Router) []Renderable {
 // --- Tag SVG Maps ---
 
 // TagMapSVGs creates SVG maps for tagged photos.
-func TagMapSVGs(data *index.SiteData) []Renderable {
+func TagMapSVGs(data *catalog.SiteData) []Renderable {
 	var result []Renderable
 
 	tagSlugs := []string{"bicycle", "hike", "walk", "train", "good", "best", "landscape", "rural", "urban"}

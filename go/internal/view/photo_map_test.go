@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	svgpkg "odkrywajac/internal/service/svg"
 )
 
-func testSiteDataForPhotoMaps() *index.SiteData {
+func testSiteDataForPhotoMaps() *catalog.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	photoTime := time.Date(2021, 7, 18, 10, 0, 0, 0, time.UTC)
 	lat, lon := 52.4, 16.9
@@ -51,7 +51,7 @@ func testSiteDataForPhotoMaps() *index.SiteData {
 			BBox: &model.BBox{South: 51.0, North: 53.0, West: 15.5, East: 18.5}},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestGlobalMapSVGs(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -17,7 +17,7 @@ import (
 
 // YearReportPage creates a Renderable for a year report page.
 func YearReportPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	year int,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -46,7 +46,7 @@ func YearReportPage(
 	return NewHTMLPage(url, page, views.YearReportContent(rd), true)
 }
 
-func computeYearReport(data *index.SiteData, year int, r *router.Router) views.YearReportData {
+func computeYearReport(data *catalog.SiteData, year int, r *router.Router) views.YearReportData {
 	posts := data.PostsByYear[year]
 
 	var allYears []int
@@ -251,7 +251,7 @@ func setPhotoOfYear(rd *views.YearReportData, post *model.Post, r *router.Router
 	}
 }
 
-func computeRecords(rd *views.YearReportData, data *index.SiteData, year int) {
+func computeRecords(rd *views.YearReportData, data *catalog.SiteData, year int) {
 	var allTimeLongest float64
 	for _, p := range data.Posts {
 		if p.IsSelfPropelled() && p.Distance > allTimeLongest {

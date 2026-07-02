@@ -2,7 +2,7 @@ package view
 
 import (
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
@@ -10,7 +10,7 @@ import (
 // GenerateAllViews collects all Renderables from the site data.
 // All views are independent since SiteData is frozen/immutable.
 func GenerateAllViews(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	polygonDir string,

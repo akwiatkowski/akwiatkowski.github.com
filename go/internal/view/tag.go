@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -13,7 +13,7 @@ import (
 
 // TagPostListPage creates a Renderable for a tag post list page.
 func TagPostListPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	tag *model.Tag,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -42,7 +42,7 @@ func TagPostListPage(
 // TagGalleryPage creates a Renderable for a tag gallery page.
 // Uses the dynamic JS gallery with lightbox.
 func TagGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	tag *model.Tag,
 	r *router.Router,
 	resolver *bundle.Resolver,

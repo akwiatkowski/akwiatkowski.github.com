@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataForPOIs() *index.SiteData {
+func testSiteDataForPOIs() *catalog.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	lat1, lon1 := 52.4, 16.9
 	lat2, lon2 := 50.0, 19.9 // ~300km away
@@ -53,7 +53,7 @@ func testSiteDataForPOIs() *index.SiteData {
 	}
 
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, nil, nil, cfg, nil, stations, nil)
+	return catalog.BuildSiteData(posts, nil, nil, nil, cfg, nil, stations, nil)
 }
 
 func TestPOIsPageURL(t *testing.T) {

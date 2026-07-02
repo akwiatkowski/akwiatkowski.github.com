@@ -5,13 +5,13 @@ import (
 	"strings"
 	"testing"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataMinimal() *index.SiteData {
-	return index.BuildSiteData(nil, nil, nil, nil,
+func testSiteDataMinimal() *catalog.SiteData {
+	return catalog.BuildSiteData(nil, nil, nil, nil,
 		model.SiteConfig{Title: "Test Site", URL: "https://example.com"},
 		nil, nil, nil,
 	)

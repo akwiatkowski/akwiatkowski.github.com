@@ -4,12 +4,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataForGallery() *index.SiteData {
+func testSiteDataForGallery() *catalog.SiteData {
 	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	exifTime := time.Date(2021, 7, 18, 10, 0, 0, 0, time.UTC)
 	fl := 50.0
@@ -68,7 +68,7 @@ func testSiteDataForGallery() *index.SiteData {
 		{Slug: "best", SlugPl: "najlepsze", Title: "Najlepsze"},
 	}
 	cfg := model.SiteConfig{Title: "Test"}
-	return index.BuildSiteData(posts, nil, photoTags, nil, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, nil, photoTags, nil, cfg, nil, nil, nil)
 }
 
 func TestGalleryFillAlgorithm(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
@@ -50,7 +50,7 @@ func TestPortfolioPageRender(t *testing.T) {
 			},
 		},
 	}
-	data := index.BuildSiteData(posts, nil, nil, nil,
+	data := catalog.BuildSiteData(posts, nil, nil, nil,
 		model.SiteConfig{Title: "Test", URL: "https://example.com"},
 		nil, nil, nil,
 	)

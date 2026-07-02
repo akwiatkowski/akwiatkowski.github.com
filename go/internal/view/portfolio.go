@@ -6,7 +6,7 @@ import (
 	"sort"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -24,7 +24,7 @@ const maxPortfolioPhotos = 70
 // 2. "best" tagged photos
 // 3. "good" tagged photos (if needed to fill up to 70)
 func PortfolioPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	rtr *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -64,7 +64,7 @@ func PortfolioPage(
 
 // selectPortfolioPhotos picks photos using 3-tier selection: portfolio > best > good,
 // sorted by points descending, limited to maxPortfolioPhotos.
-func selectPortfolioPhotos(data *index.SiteData) []*model.Photo {
+func selectPortfolioPhotos(data *catalog.SiteData) []*model.Photo {
 	seen := make(map[string]bool)
 	var result []*model.Photo
 
@@ -110,7 +110,7 @@ func selectPortfolioPhotos(data *index.SiteData) []*model.Photo {
 
 // buildPortfolioJSON generates the JSON data inlined in the portfolio page.
 // Matches Crystal's PortfolioView data contract for portfolio.js.
-func buildPortfolioJSON(data *index.SiteData, r *router.Router, photos []*model.Photo) string {
+func buildPortfolioJSON(data *catalog.SiteData, r *router.Router, photos []*model.Photo) string {
 	type heroPhoto struct {
 		Src     string `json:"src"`
 		SrcAVIF string `json:"src_avif"`

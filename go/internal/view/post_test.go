@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 )
 
-func testSiteDataWithPosts() *index.SiteData {
+func testSiteDataWithPosts() *catalog.SiteData {
 	fin1 := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
 	fin2 := time.Date(2021, 8, 2, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
@@ -45,7 +45,7 @@ func testSiteDataWithPosts() *index.SiteData {
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
 
-	return index.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
+	return catalog.BuildSiteData(posts, tags, nil, areas, cfg, nil, nil, nil)
 }
 
 func TestPostArticlePageURL(t *testing.T) {
@@ -116,7 +116,7 @@ func TestPostArticleReleaseHidesDrafts(t *testing.T) {
 		Content:    "Ready body text.",
 	}
 	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
-	data := index.BuildSiteData([]*model.Post{draft, ready}, nil, nil, nil, cfg, nil, nil, nil)
+	data := catalog.BuildSiteData([]*model.Post{draft, ready}, nil, nil, nil, cfg, nil, nil, nil)
 	r := router.New("https://odkrywajacpolske.pl")
 
 	render := func(post *model.Post, release bool) (string, bool) {

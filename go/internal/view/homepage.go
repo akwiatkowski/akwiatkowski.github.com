@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -18,7 +18,7 @@ import (
 // {{hike_km}} placeholders in the configured site.desc with live nav stats,
 // mirroring Crystal's Renderer#site_desc. Used for the meta/OpenGraph
 // description on pages that lack a more specific one (homepage).
-func interpolateSiteDesc(desc string, ns index.NavStats) string {
+func interpolateSiteDesc(desc string, ns catalog.NavStats) string {
 	replacements := map[string]int{
 		"{{total_km}}":    ns.SelfDistance,
 		"{{total_hours}}": ns.SelfTime,
@@ -33,7 +33,7 @@ func interpolateSiteDesc(desc string, ns index.NavStats) string {
 
 // HomepagePage creates a Renderable for the homepage.
 func HomepagePage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -66,7 +66,7 @@ func HomepagePage(
 // entries with per-type *_slugs arrays plus a top-photos `photos` list of
 // {src, src_avif, alt, points}. Both JS consumers and the e2e suite encode
 // this contract — do not rename fields here without updating them.
-func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
+func HomepageJSON(data *catalog.SiteData, r *router.Router) Renderable {
 	type photoEntry struct {
 		Src     string `json:"src"`
 		SrcAVIF string `json:"src_avif"`
@@ -222,7 +222,7 @@ func HomepageJSON(data *index.SiteData, r *router.Router) Renderable {
 // the union of spatial route coverage (precise, per-type) and frontmatter
 // slugs classified by the area index (covers route-less posts and areas the
 // author tagged beyond the GPS line).
-func postAreaSlugs(data *index.SiteData, post *model.Post, areaType model.AreaType) []string {
+func postAreaSlugs(data *catalog.SiteData, post *model.Post, areaType model.AreaType) []string {
 	slugs := append([]string(nil), post.SpatialAreaSlugs[areaType]...)
 
 	var fromFrontmatter []string
@@ -266,7 +266,7 @@ func containsSlug(list []string, slug string) bool {
 // classifyTownSlugs splits post.TownSlugs into separate arrays by area type.
 // A slug like "dolnoslaskie" may match as both a town and voivodeship;
 // we assign it to the most specific type found in the area index.
-func classifyTownSlugs(data *index.SiteData, slugs []string) (towns, counties, voivodeships []string) {
+func classifyTownSlugs(data *catalog.SiteData, slugs []string) (towns, counties, voivodeships []string) {
 	for _, slug := range slugs {
 		switch {
 		case data.FindArea(model.AreaTypeTown, slug) != nil:
@@ -284,7 +284,7 @@ func classifyTownSlugs(data *index.SiteData, slugs []string) (towns, counties, v
 }
 
 // classifyLandSlugs splits post.LandSlugs into meso and macro region arrays.
-func classifyLandSlugs(data *index.SiteData, slugs []string) (meso, macro []string) {
+func classifyLandSlugs(data *catalog.SiteData, slugs []string) (meso, macro []string) {
 	for _, slug := range slugs {
 		switch {
 		case data.FindArea(model.AreaTypeMesoRegion, slug) != nil:

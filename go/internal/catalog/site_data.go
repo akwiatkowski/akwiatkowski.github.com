@@ -1,5 +1,8 @@
-// Package index builds lookup indexes and aggregated statistics from loaded data.
-package index
+// Package catalog loads site inputs (posts, photos, areas, config) and builds
+// the lookup indexes and aggregated statistics used across the renderer.
+// (Former internal/loader + internal/index, merged during the Crystal↔Go
+// convergence to mirror Crystal's data_manager.)
+package catalog
 
 import (
 	"odkrywajac/internal/model"

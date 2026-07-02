@@ -2,7 +2,7 @@ package view
 
 import (
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -10,7 +10,7 @@ import (
 
 // TagStatsPage creates a Renderable for the debug tag stats page.
 func TagStatsPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 ) Renderable {
@@ -33,7 +33,7 @@ func TagStatsPage(
 	return NewHTMLPage(url, page, views.DebugTagStatsContent(rows), false)
 }
 
-func buildTagStats(data *index.SiteData, r *router.Router) []views.DebugTagStatsRow {
+func buildTagStats(data *catalog.SiteData, r *router.Router) []views.DebugTagStatsRow {
 	var rows []views.DebugTagStatsRow
 
 	for _, post := range data.Posts {

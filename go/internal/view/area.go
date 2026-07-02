@@ -8,7 +8,7 @@ import (
 	"sort"
 
 	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/index"
+	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
@@ -17,7 +17,7 @@ import (
 
 // AreaShowPage creates a Renderable for an area show page.
 func AreaShowPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	area *model.Area,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -55,7 +55,7 @@ func AreaShowPage(
 
 // AreaPostListPage creates a Renderable for an area post list page.
 func AreaPostListPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	area *model.Area,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -84,7 +84,7 @@ func AreaPostListPage(
 // AreaGalleryPage creates a Renderable for an area gallery page.
 // Uses the dynamic JS gallery with lightbox (same as post and tag galleries).
 func AreaGalleryPage(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	area *model.Area,
 	r *router.Router,
 	resolver *bundle.Resolver,
@@ -110,7 +110,7 @@ type areaShowMeta struct {
 // photos, related areas, bbox (lowercase), voivodeship info, etc.
 // It also returns an areaShowMeta summary for the page's meta tags.
 func buildAreaShowJSON(
-	data *index.SiteData,
+	data *catalog.SiteData,
 	area *model.Area,
 	r *router.Router,
 	polygonDir string,
@@ -307,7 +307,7 @@ type areaRelatedEntry struct {
 
 // buildRelatedAreas finds areas that share posts with the given area.
 // Scores by shared post count, returns top results.
-func buildRelatedAreas(data *index.SiteData, area *model.Area, r *router.Router) []areaRelatedEntry {
+func buildRelatedAreas(data *catalog.SiteData, area *model.Area, r *router.Router) []areaRelatedEntry {
 	posts := data.PostsForArea(area.Type, area.Slug)
 	scores := make(map[string]int)
 
@@ -409,8 +409,8 @@ func splitAssets(assets []bundle.AssetFile) (css, js []bundle.AssetFile) {
 	return
 }
 
-// navStatsFromIndex converts index.NavStats to layout.NavStats with nav links.
-func navStatsFromIndex(ns index.NavStats, r *router.Router, tagBySlug map[string]*model.Tag) layout.NavStats {
+// navStatsFromIndex converts catalog.NavStats to layout.NavStats with nav links.
+func navStatsFromIndex(ns catalog.NavStats, r *router.Router, tagBySlug map[string]*model.Tag) layout.NavStats {
 	tagURL := func(slug string) string {
 		if tag, ok := tagBySlug[slug]; ok {
 			return r.TagPostListURL(tag)
