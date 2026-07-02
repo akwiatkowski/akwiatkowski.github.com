@@ -1,10 +1,10 @@
 require "./service/profiled"
 require "./service/image"
 require "./catalog/data_manager"
-require "./post"
+require "./content/post"
 require "./renderer"
-require "./post_function_parser"
-require "./post_collection"
+require "./content/post_function_parser"
+require "./content/post_collection"
 require "./validator"
 require "./mod_watcher"
 # PHASE6_REMOVED: require "./service/town_photo_cache" - replaced by AreaPhotoSelector
@@ -21,7 +21,7 @@ require "./service/photo_similarity_service"
 require "./service/color_similarity_service"
 require "./context/render_context"
 require "./context/build_context"
-require "./post_renderer"
+require "./content/post_renderer"
 require "./view_registry/all"
 
 class Tremolite::Blog
