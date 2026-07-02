@@ -1,4 +1,4 @@
-require "../services/exif_stat/exif_stat_helper"
+require "../service/exif_stat/exif_stat_helper"
 
 class PostGalleryStatsView < BaseView
   Log = ::Log.for(self)

@@ -1,7 +1,7 @@
 require "../crystal/src/tremolite/tremolite"
 require "../crystal/src/blog"
 
-require "../crystal/src/services/map/base"
+require "../crystal/src/service/map/base"
 
 class Commands::GeneratePhotoMap
   def initialize(@env = "full")

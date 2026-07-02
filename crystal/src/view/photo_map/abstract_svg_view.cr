@@ -1,4 +1,4 @@
-require "../../services/map/base"
+require "../../service/map/base"
 
 class PhotoMap::AbstractSvgView < Tremolite::Views::AbstractView
   Log = ::Log.for(self)

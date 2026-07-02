@@ -1,4 +1,4 @@
-require "../../services/map/base"
+require "../../service/map/base"
 
 class PhotoMap::PostBigMapSvgView < PhotoMap::AbstractSvgView
   Log = ::Log.for(self)

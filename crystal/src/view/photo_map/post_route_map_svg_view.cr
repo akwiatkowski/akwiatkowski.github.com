@@ -1,4 +1,4 @@
-require "../../services/map/base"
+require "../../service/map/base"
 
 # small route like from strava
 class PhotoMap::PostRouteMapSvgView < PhotoMap::AbstractSvgView

@@ -1,4 +1,4 @@
-require "../../services/map/base"
+require "../../service/map/base"
 
 # Consolidated view for area maps (voivodeships, filtered posts, tagged photos)
 # Replaces: MultiplePostsGridAndRoutesMapSvgView, MultiplePhotoEntitiesGridMapSvgView

@@ -1,7 +1,7 @@
 require "../spec_helper"
 require "file_utils"
 require "log"
-require "../../crystal/src/services/area_matcher/all"
+require "../../crystal/src/service/area_matcher/all"
 require "../../crystal/src/commands/pipeline/assign_photos_to_areas"
 
 # Test manifest and cache I/O without loading GEOS

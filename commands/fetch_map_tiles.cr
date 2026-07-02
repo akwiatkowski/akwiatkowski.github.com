@@ -1,4 +1,4 @@
-require "../crystal/src/services/map/downloader"
+require "../crystal/src/service/map/downloader"
 require "../crystal/src/commands/tools/fetch_map_tiles"
 
 zooms = [15]

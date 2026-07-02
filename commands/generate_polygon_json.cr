@@ -2,7 +2,7 @@ require "json"
 require "yaml"
 require "file_utils"
 require "log"
-require "../crystal/src/services/area_matcher/all"
+require "../crystal/src/service/area_matcher/all"
 require "../crystal/src/commands/pipeline/generate_polygon_json"
 
 tolerance = 0.001

@@ -1,5 +1,5 @@
 require "./area_type"
-require "../services/area_matcher/bbox"
+require "../service/area_matcher/bbox"
 
 # Unified entity for all geographic area types (towns, counties, voivodeships, regions)
 # Loaded from data/config/areas/*.yml (generated from data/external/)

@@ -1,5 +1,5 @@
 require "../wide_page_view"
-require "../../services/burnout_stat"
+require "../../service/burnout_stat"
 
 module DynamicView
   class BurnoutStatView < WidePageView

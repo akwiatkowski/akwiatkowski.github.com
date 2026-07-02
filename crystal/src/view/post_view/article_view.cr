@@ -1,4 +1,4 @@
-require "../../services/day_of_week"
+require "../../service/day_of_week"
 
 module PostView
   class ArticleView < BaseView

@@ -1,7 +1,7 @@
 require "../model/area_type"
 require "../model/area_entity"
 require "../model/area_association"
-require "../services/area_data_loader"
+require "../service/area_data_loader"
 
 # Area-related extensions for Post class
 # Provides memoized access to AreaEntity objects and calculated area associations

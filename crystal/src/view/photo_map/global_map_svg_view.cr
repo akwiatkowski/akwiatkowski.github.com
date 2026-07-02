@@ -1,4 +1,4 @@
-require "../../services/map/base"
+require "../../service/map/base"
 
 # Consolidated view for all global maps (grid, dots, grid+routes, animated)
 # Replaces: GlobalGridMapSvgView, GlobalDotsMapSvgView,
