@@ -26,14 +26,21 @@ func AreaShowPage(
 	url := r.AreaShowURL(area)
 
 	// Build the JSON data blob as a raw <script> tag
-	jsonData := buildAreaShowJSON(data, area, r, polygonDir)
+	jsonData, meta := buildAreaShowJSON(data, area, r, polygonDir)
 	rawScript := `<script id="area-data" type="application/json">` + jsonData + `</script>`
 
 	// Resolve assets
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "leaflet", "react-runtime"}, []string{"area-show"})
 
+	// Meta description mirrors Crystal's AreaShowView#page_desc:
+	// "<name> — <polish type>. <N> wypraw, <M> zdjęć."
+	desc := fmt.Sprintf("%s — %s. %d wypraw, %d zdjęć.",
+		area.Name, area.Type.PolishName(), meta.PostCount, meta.PhotoCount)
+
 	page := layout.PageData{
 		Title:        area.Name,
+		Desc:         desc,
+		ImageURL:     meta.BestPhotoURL,
 		URL:          url,
 		CanonicalURL: r.CanonicalURL(url),
 		SiteName:     data.Config.Title,
@@ -89,15 +96,25 @@ func AreaGalleryPage(
 	return galleryPage(data, r, resolver, url, title, photos)
 }
 
+// areaShowMeta carries page-level summary data derived while building the
+// area show JSON, so the caller can populate the meta description and
+// og:image without re-walking the posts/photos.
+type areaShowMeta struct {
+	PostCount    int
+	PhotoCount   int
+	BestPhotoURL string
+}
+
 // buildAreaShowJSON creates the JSON blob inlined in area show pages.
 // Matches Crystal's area_show.jsx data contract: posts with tags/coords,
 // photos, related areas, bbox (lowercase), voivodeship info, etc.
+// It also returns an areaShowMeta summary for the page's meta tags.
 func buildAreaShowJSON(
 	data *index.SiteData,
 	area *model.Area,
 	r *router.Router,
 	polygonDir string,
-) string {
+) (string, areaShowMeta) {
 	posts := data.PostsForArea(area.Type, area.Slug)
 
 	// --- Post entries with full data for JS rendering ---
@@ -269,7 +286,13 @@ func buildAreaShowJSON(
 	}
 
 	jsonBytes, _ := json.Marshal(aj)
-	return string(jsonBytes)
+
+	meta := areaShowMeta{
+		PostCount:    len(posts),
+		PhotoCount:   len(aj.Photos),
+		BestPhotoURL: aj.BestPhotoURL,
+	}
+	return string(jsonBytes), meta
 }
 
 // areaRelatedEntry is a JSON-serializable related area entry for the area show page.

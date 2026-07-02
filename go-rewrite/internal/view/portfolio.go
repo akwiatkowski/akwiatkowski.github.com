@@ -36,9 +36,20 @@ func PortfolioPage(
 
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "react-runtime"}, []string{"portfolio", "photo-lightbox"})
 
+	// og:image uses the hero photo (highest-ranked portfolio photo), so social
+	// shares of /portfolio.html preview the same image the page opens with.
+	var heroImageURL string
+	if len(photos) > 0 {
+		hero := photos[0]
+		if heroPost := data.PostBySlug(hero.PostSlug); heroPost != nil {
+			heroImageURL = rtr.ProcessedImageURL(heroPost, hero.ImageFilename, "article", "jpg")
+		}
+	}
+
 	page := layout.PageData{
 		Title:        "Portfolio",
 		Desc:         "Portfolio fotograficzne. Rowerem i pieszo przez Polskę.",
+		ImageURL:     heroImageURL,
 		URL:          url,
 		CanonicalURL: rtr.CanonicalURL(url),
 		SiteName:     data.Config.Title,

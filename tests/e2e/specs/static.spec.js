@@ -83,9 +83,14 @@ test.describe('Static pages', () => {
       await expect(page.locator('.photo-lightbox')).toBeVisible();
       await expect(page.locator('.photo-lightbox-counter')).toContainText('1 /');
 
-      // Close with Escape
-      await page.keyboard.press('Escape');
-      await expect(page.locator('.photo-lightbox')).not.toBeVisible();
+      // Close with Escape. The keydown listener is registered in a React
+      // useEffect that runs after paint, so under parallel CPU load the first
+      // keypress can land before the listener attaches. Retry the press until
+      // the lightbox actually closes rather than asserting on a single keypress.
+      await expect(async () => {
+        await page.keyboard.press('Escape');
+        await expect(page.locator('.photo-lightbox')).not.toBeVisible({ timeout: 500 });
+      }).toPass({ timeout: 5000 });
     });
 
   });

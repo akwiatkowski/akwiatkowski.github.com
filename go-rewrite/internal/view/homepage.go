@@ -2,6 +2,8 @@ package view
 
 import (
 	"sort"
+	"strconv"
+	"strings"
 	"time"
 
 	"odkrywajac/internal/bundle"
@@ -11,6 +13,23 @@ import (
 	"odkrywajac/internal/templates/layout"
 	"odkrywajac/internal/templates/views"
 )
+
+// interpolateSiteDesc fills the {{total_km}}/{{total_hours}}/{{bicycle_km}}/
+// {{hike_km}} placeholders in the configured site.desc with live nav stats,
+// mirroring Crystal's Renderer#site_desc. Used for the meta/OpenGraph
+// description on pages that lack a more specific one (homepage).
+func interpolateSiteDesc(desc string, ns index.NavStats) string {
+	replacements := map[string]int{
+		"{{total_km}}":    ns.SelfDistance,
+		"{{total_hours}}": ns.SelfTime,
+		"{{bicycle_km}}":  ns.BicycleDistance,
+		"{{hike_km}}":     ns.HikeDistance,
+	}
+	for placeholder, value := range replacements {
+		desc = strings.ReplaceAll(desc, placeholder, strconv.Itoa(value))
+	}
+	return desc
+}
 
 // HomepagePage creates a Renderable for the homepage.
 func HomepagePage(
@@ -27,6 +46,7 @@ func HomepagePage(
 
 	page := layout.PageData{
 		Title:        "Odkrywając Polskę",
+		Desc:         interpolateSiteDesc(data.Config.Desc, data.NavStats),
 		URL:          url,
 		CanonicalURL: r.CanonicalURL("/"),
 		SiteName:     data.Config.Title,

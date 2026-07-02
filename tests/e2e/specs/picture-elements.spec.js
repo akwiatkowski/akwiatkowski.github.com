@@ -104,7 +104,9 @@ test.describe('Picture elements (AVIF)', () => {
 
       // Get the article text container width and the rendered image width
       const { containerWidth, imgWidth } = await page.evaluate(() => {
-        const container = document.querySelector('.col-lg-8');
+        // Text column selector differs by layout: Crystal uses a Bootstrap
+        // grid (.col-lg-8), the Go rewrite uses a centered .post-content column.
+        const container = document.querySelector('.col-lg-8') || document.querySelector('.post-content');
         const img = document.querySelector('.post-article-photo picture img');
         return {
           containerWidth: container ? container.getBoundingClientRect().width : 0,

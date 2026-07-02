@@ -84,6 +84,7 @@ func MorePage(data *index.SiteData, rtr *router.Router, resolver *bundle.Resolve
 
 	page := layout.PageData{
 		Title:        "Więcej",
+		Desc:         "Więcej treści: mapy tras i zdjęć, portfolio, linia czasu, statystyki EXIF oraz planery wycieczek rowerowych i fotograficznych.",
 		URL:          url,
 		CanonicalURL: rtr.CanonicalURL(url),
 		SiteName:     data.Config.Title,

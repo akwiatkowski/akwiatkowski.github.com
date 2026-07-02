@@ -1,16 +1,22 @@
 # Go E2E Test Failures
 
 **Run date**: 2026-07-02
-**Results**: 211 passed, 18 failed, 3 skipped
+**Results**: 229 passed, 0 failed, 3 skipped ✅ (was 211/18/3)
 **Server**: Go output (`env/dev/public/go/`) served statically (`BASE_URL=http://localhost:<port> npx playwright test`)
 
-Remaining failures (mechanical, head-template work):
-- **Social meta tags (16)** — Go `<head>` lacks og:type, og:locale, twitter:*, og:image:alt and
-  per-view descriptions (`specs/social-meta.spec.js`). `HeadMeta` in
-  `internal/templates/layout/head.templ` is the place to fix.
-- **Portfolio lightbox (1)** — lightbox does not close (`specs/static.spec.js:76`).
-- **Article photo width (1)** — article photo narrower than text column
-  (`specs/picture-elements.spec.js:83`).
+All previously-failing tests now pass. Fixes applied 2026-07-02:
+- **Social meta tags (16)** — `HeadOG` in `internal/templates/layout/head.templ` now emits
+  `og:locale=pl_PL`, `twitter:title`, `twitter:description`, and `og:image:alt`. Per-view
+  descriptions added: homepage interpolates `site.desc` placeholders via `interpolateSiteDesc`
+  (nav stats), the More page got a static description, area show mirrors Crystal's
+  `"<name> — <polish type>. N wypraw, M zdjęć."` (new `AreaType.PolishName()`), and both
+  portfolio + area show now set `ImageURL` (hero/best photo) so `og:image`/`og:image:alt` render.
+- **Portfolio lightbox (1)** — passed after a fresh render; the Escape assertion in
+  `specs/static.spec.js:76` was hardened against the React `useEffect` keydown-registration race
+  (retry the press via `toPass`) to stop it flaking under parallel load.
+- **Article photo width (1)** — the Go post layout uses `.post-content` (centered column), not
+  Crystal's Bootstrap `.col-lg-8`. `specs/picture-elements.spec.js:83` now falls back to
+  `.post-content` so the "image fills ≥90% of text column" check is layout-agnostic.
 
 Fixed on 2026-07-02 (see git log): deferred page JS (photo map Preact mount), area show/post-list
 parity via spatial route coverage (counties, macro regions, disambiguated towns), meso/macro show

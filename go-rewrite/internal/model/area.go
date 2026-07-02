@@ -58,6 +58,28 @@ func (t AreaType) NominativeSlug() string {
 	}
 }
 
+// PolishName returns the Polish nominative singular name for display
+// (e.g. "gmina", "powiat", "województwo"). Used in meta descriptions and
+// headings. Mirrors Crystal's AreaType#polish_nominative.
+func (t AreaType) PolishName() string {
+	switch t {
+	case AreaTypeTown:
+		return "gmina"
+	case AreaTypeCounty:
+		return "powiat"
+	case AreaTypeVoivodeship:
+		return "województwo"
+	case AreaTypeMesoRegion:
+		return "region"
+	case AreaTypeMacroRegion:
+		return "obszar"
+	case AreaTypeExternal:
+		return "zagranica"
+	default:
+		return "unknown"
+	}
+}
+
 // GenitiveSlug returns the Polish genitive case used in post-list/gallery URLs.
 // Example: /wpisy-dla/gminy/slug.html
 func (t AreaType) GenitiveSlug() string {

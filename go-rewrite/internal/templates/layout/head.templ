@@ -25,14 +25,18 @@ templ Head(p PageData) {
 
 templ HeadOG(p PageData) {
 	<meta property="og:type" content="website"/>
+	<meta property="og:locale" content="pl_PL"/>
 	if p.Title != "" {
 		<meta property="og:title" content={ p.Title }/>
+		<meta name="twitter:title" content={ p.Title }/>
 	}
 	if p.Desc != "" {
 		<meta property="og:description" content={ p.Desc }/>
+		<meta name="twitter:description" content={ p.Desc }/>
 	}
 	if p.ImageURL != "" {
 		<meta property="og:image" content={ p.ImageURL }/>
+		<meta property="og:image:alt" content={ p.Title }/>
 	}
 	if p.CanonicalURL != "" {
 		<meta property="og:url" content={ p.CanonicalURL }/>
