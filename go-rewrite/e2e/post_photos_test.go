@@ -69,7 +69,7 @@ func TestPostArticlePhotoHasCaption(t *testing.T) {
 func TestPostGalleryJSONHasPhotos(t *testing.T) {
 	ts := setupServer(t)
 
-	resp, err := http.Get(ts.URL + "/2022/12/zdazyc-przed-koncem-zimy/galeria.html")
+	resp, err := http.Get(ts.URL + "/galeria/2022/12/18-zdazyc-przed-koncem-zimy.html")
 	if err != nil {
 		t.Fatalf("GET failed: %v", err)
 	}

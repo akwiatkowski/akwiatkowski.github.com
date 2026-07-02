@@ -50,6 +50,13 @@ func TestHomepageJSONLoads(t *testing.T) {
 		t.Errorf("status = %d, want 200", resp.StatusCode)
 	}
 
+	// homepage.json uses Crystal's flat-array shape: tags and each area type are
+	// arrays of {slug, url, name}; there is no nested "areas" map.
+	type lookupEntry struct {
+		Slug string `json:"slug"`
+		URL  string `json:"url"`
+		Name string `json:"name"`
+	}
 	var data struct {
 		Posts []struct {
 			URL        string   `json:"url"`
@@ -59,8 +66,9 @@ func TestHomepageJSONLoads(t *testing.T) {
 			DistanceKm int      `json:"distance_km"`
 			Tags       []string `json:"tags"`
 		} `json:"posts"`
-		Tags  map[string]struct{ URL, Name string } `json:"tags"`
-		Areas map[string]map[string]struct{ URL, Name string } `json:"areas"`
+		Tags        []lookupEntry `json:"tags"`
+		Towns       []lookupEntry `json:"towns"`
+		Voivodeships []lookupEntry `json:"voivodeships"`
 	}
 
 	if err := json.NewDecoder(resp.Body).Decode(&data); err != nil {
@@ -71,10 +79,10 @@ func TestHomepageJSONLoads(t *testing.T) {
 		t.Error("posts array is empty")
 	}
 	if len(data.Tags) == 0 {
-		t.Error("tags map is empty")
+		t.Error("tags array is empty")
 	}
-	if len(data.Areas) == 0 {
-		t.Error("areas map is empty")
+	if len(data.Towns) == 0 {
+		t.Error("towns array is empty")
 	}
 
 	// Verify first post has required fields

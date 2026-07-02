@@ -1,6 +1,7 @@
 class Commands::Tools::FetchMapTiles
-  # Tiles are stored in full env and symlinked from other envs
-  TILES_PATH = "env/full/public/local/tiles"
+  # Tiles live in shared input storage (~/projects/llm/input/tiles) and are
+  # symlinked into every env/*/public/*/tiles dir. See Map::Downloader::PUBLIC_PATH.
+  TILES_PATH = File.join(Dir.home, "projects", "llm", "input", "tiles")
 
   def initialize(
     @zooms : Array(Int32) = [15],

@@ -28,9 +28,11 @@ func projectRoot() string {
 	return filepath.Dir(filepath.Dir(filepath.Dir(file)))
 }
 
-// outputDir returns the Go output directory for the given env.
+// outputDir returns the Go output directory for the given env. Output is
+// engine-agnostic now (env/<env>/public/<target>); the e2e suite checks the
+// local target where Go writes by default.
 func outputDir(env string) string {
-	return filepath.Join(projectRoot(), "env", env, "public", "go")
+	return filepath.Join(projectRoot(), "env", env, "public", "local")
 }
 
 // setupServer starts an HTTP file server on a random port serving the Go output.

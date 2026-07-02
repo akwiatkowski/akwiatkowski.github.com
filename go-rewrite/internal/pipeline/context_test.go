@@ -7,7 +7,7 @@ import (
 func TestContextPathHelpers(t *testing.T) {
 	ctx := &Context{
 		Env:      "dev",
-		Target:   "go",
+		Target:   "local",
 		BasePath: "/project",
 	}
 
@@ -20,7 +20,9 @@ func TestContextPathHelpers(t *testing.T) {
 		{"ImagesDir", ctx.ImagesDir(), "/project/env/dev/data/images"},
 		{"RoutesDir", ctx.RoutesDir(), "/project/env/dev/data/routes"},
 		{"CacheDir", ctx.CacheDir(), "/project/env/dev/cache-go"},
-		{"OutputDir", ctx.OutputDir(), "/project/env/dev/public/go"},
+		{"OutputDir", ctx.OutputDir(), "/project/env/dev/public/local"},
+		{"ManifestPath", ctx.ManifestPath(), "/project/env/dev/cache-go/manifest/local.json"},
+		{"EngineMarkerPath", ctx.EngineMarkerPath(), "/project/env/dev/public/local/.engine"},
 		{"ConfigDir", ctx.ConfigDir(), "/project/data/config"},
 		{"ExternalDir", ctx.ExternalDir(), "/project/data/external"},
 		{"GlobalCacheDir", ctx.GlobalCacheDir(), "/project/data/cache-go"},
@@ -38,15 +40,30 @@ func TestContextPathHelpers(t *testing.T) {
 func TestContextPathHelpersFullEnv(t *testing.T) {
 	ctx := &Context{
 		Env:      "full",
-		Target:   "go",
+		Target:   "release",
 		BasePath: "/project",
 	}
 
 	if got := ctx.PostsDir(); got != "/project/env/full/data/posts" {
 		t.Errorf("PostsDir() = %q, want /project/env/full/data/posts", got)
 	}
-	if got := ctx.OutputDir(); got != "/project/env/full/public/go" {
-		t.Errorf("OutputDir() = %q, want /project/env/full/public/go", got)
+	if got := ctx.OutputDir(); got != "/project/env/full/public/release" {
+		t.Errorf("OutputDir() = %q, want /project/env/full/public/release", got)
+	}
+	if !ctx.IsRelease() {
+		t.Error("IsRelease() should be true for release target")
+	}
+	if ctx.ManifestPath() != "/project/env/full/cache-go/manifest/release.json" {
+		t.Errorf("ManifestPath() = %q", ctx.ManifestPath())
+	}
+}
+
+func TestContextIsRelease(t *testing.T) {
+	if (&Context{Target: "local"}).IsRelease() {
+		t.Error("local should not be release")
+	}
+	if !(&Context{Target: "release"}).IsRelease() {
+		t.Error("release should be release")
 	}
 }
 

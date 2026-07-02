@@ -5,7 +5,10 @@ require "./tiles_layer"
 
 class Map::Downloader
   DEFAULT_ZOOM = 10
-  PUBLIC_PATH  = "env/full/public/local/tiles"
+  # UMP tiles are stored outside the repo in shared input storage and
+  # symlinked into every env/*/public/*/tiles dir. Downloader writes the
+  # canonical copy directly here (structure: <root>/ump/<zoom>/<x>/<y>.png).
+  PUBLIC_PATH = File.join(Dir.home, "projects", "llm", "input", "tiles")
   # download addition border tile
   BORDER_TILE = 2
 

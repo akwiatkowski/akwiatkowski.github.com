@@ -188,14 +188,11 @@ func TestJSONFormat_Homepage(t *testing.T) {
 	var data map[string]json.RawMessage
 	fetchJSON(t, ts.URL+"/jsons/homepage.json", &data)
 
-	// Top-level keys (Go uses "tags" map and "areas" nested map)
-	assertFieldsExist(t, "homepage.json", data, []string{"posts", "tags", "areas"})
-
-	// Crystal has these as separate top-level keys:
-	// assertFieldsExist(t, "homepage.json", data, []string{
-	//   "posts", "tags", "towns", "counties", "voivodeships",
-	//   "meso_regions", "macro_regions",
-	// })
+	// Top-level keys — Crystal shape: flat arrays for tags and each area type.
+	assertFieldsExist(t, "homepage.json", data, []string{
+		"posts", "tags", "towns", "counties", "voivodeships",
+		"meso_regions", "macro_regions",
+	})
 
 	// Posts array
 	var posts []map[string]json.RawMessage
@@ -220,47 +217,29 @@ func TestJSONFormat_Homepage(t *testing.T) {
 	}
 	assertFieldsExist(t, "homepage.json posts[0]", posts[0], postFields)
 
-	// Top photos in posts — Go: "top_photos", Crystal: "photos"
-	// Go fields: url, avif, points
-	// Crystal fields: src, src_avif, alt, points
-	//
-	// TODO: Rename Go "top_photos" → "photos" and fields to match Crystal:
-	//   url → src, avif → src_avif, add "alt" field
-	if _, ok := posts[0]["top_photos"]; ok {
-		var topPhotos []map[string]json.RawMessage
-		if err := json.Unmarshal(posts[0]["top_photos"], &topPhotos); err == nil && len(topPhotos) > 0 {
-			assertFieldsExist(t, "homepage.json posts[0].top_photos[0]", topPhotos[0], []string{
-				"url",    // Crystal: "src"
-				"avif",   // Crystal: "src_avif"
-				"points", // Int: same in both
-				// Crystal also has: "alt" (String: photo description)
+	// Top photos in posts — "photos" array with Crystal fields.
+	if _, ok := posts[0]["photos"]; ok {
+		var photos []map[string]json.RawMessage
+		if err := json.Unmarshal(posts[0]["photos"], &photos); err == nil && len(photos) > 0 {
+			assertFieldsExist(t, "homepage.json posts[0].photos[0]", photos[0], []string{
+				"src",      // String: card JPEG
+				"src_avif", // String: card AVIF
+				"alt",      // String: photo description
+				"points",   // Int
 			})
 		}
 	}
 
-	// Area slug arrays in posts
-	// Go and Crystal both include these when present:
-	slugArrayFields := []string{
-		// "town_slugs", "county_slugs", "voivodeship_slugs",
-		// "meso_region_slugs", "macro_region_slugs",
-		// Go uses omitempty — fields only present when non-empty.
-		// Crystal always includes them (empty arrays).
-	}
-	_ = slugArrayFields
-
-	// Tags — Go: map[slug]→{url, name}, Crystal: array [{slug, url, name}]
-	// TODO: Convert Go to Crystal format (array of objects)
-	var tagsMap map[string]map[string]json.RawMessage
-	if err := json.Unmarshal(data["tags"], &tagsMap); err != nil {
-		t.Logf("homepage.json: tags is not a map (may be array format)")
-	} else if len(tagsMap) > 0 {
-		for slug, tagObj := range tagsMap {
-			assertFieldsExist(t, "homepage.json tags["+slug+"]", tagObj, []string{
-				"url",  // String: tag post list URL
-				"name", // String: Polish display name
-			})
-			break // check first entry only
-		}
+	// Tags — Crystal shape: array of {slug, url, name}.
+	var tags []map[string]json.RawMessage
+	if err := json.Unmarshal(data["tags"], &tags); err != nil {
+		t.Fatalf("homepage.json: tags is not an array: %v", err)
+	} else if len(tags) > 0 {
+		assertFieldsExist(t, "homepage.json tags[0]", tags[0], []string{
+			"slug", // String: English slug
+			"url",  // String: tag post list URL
+			"name", // String: Polish display name
+		})
 	}
 }
 
@@ -772,19 +751,10 @@ func TestJSONFormat_PostGallery(t *testing.T) {
 	var galleryURL string
 	for _, post := range e2eData.Posts {
 		if post.Ready && post.PhotosCount > 0 {
-			// Convert post URL to gallery URL
-			// Post URL: /<year>/<month>/<day>-<slug_name>.html
-			// Gallery URL: /<year>/<month>/<slug_name>/galeria.html
-			// Strip ".html", extract slug_name (after DD- prefix in last segment)
-			base := strings.TrimSuffix(post.URL, ".html")
-			lastSlash := strings.LastIndex(base, "/")
-			dir := base[:lastSlash]
-			segment := base[lastSlash+1:] // e.g. "18-zdazyc-przed-koncem-zimy"
-			// Strip the "DD-" prefix (first 3 chars)
-			if len(segment) > 3 {
-				segment = segment[3:]
-			}
-			galleryURL = dir + "/" + segment + "/galeria.html"
+			// Gallery URL is the post URL prefixed with /galeria (matches Crystal):
+			// post    /<year>/<month>/<day>-<slug>.html
+			// gallery /galeria/<year>/<month>/<day>-<slug>.html
+			galleryURL = "/galeria" + post.URL
 			break
 		}
 	}
@@ -862,21 +832,19 @@ func TestJSONFormat_TownsIndex(t *testing.T) {
 		t.Fatal("towns-data: towns array is empty")
 	}
 
-	// Current Go fields:
+	// Current Go fields (now matching Crystal's towns-data contract):
 	goTownFields := []string{
-		"slug",       // String
-		"name",       // String
-		"post_count", // Int
-		"url",        // String — Crystal: "show_url"
+		"slug",        // String
+		"name",        // String
+		"post_count",  // Int
+		"show_url",    // String (matches Crystal)
+		"voivodeship", // String (matches Crystal)
+		"first_year",  // Int
+		"last_year",   // Int
 	}
 	assertFieldsExist(t, "towns-data towns[0] (Go)", towns[0], goTownFields)
 
-	// Optional Go fields:
-	// "voivodeship_slug" — String (Crystal: "voivodeship")
-	// "photo_url"        — String
-	// "photo_avif"       — String (Crystal: "photo_url_avif")
-
-	// Crystal also has: "first_year", "last_year" — TODO add to Go
+	// Optional Go fields: "photo_url", "photo_url_avif"
 
 	// Voivodeships
 	var voivs []map[string]json.RawMessage
