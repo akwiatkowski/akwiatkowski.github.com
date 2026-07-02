@@ -106,14 +106,11 @@ func (c *Context) PagesDir() string {
 	return filepath.Join(c.BasePath, "data", "pages")
 }
 
-// AssetsDir returns the path to static asset source files.
+// AssetsDir returns the path to static asset source files. This is the single
+// shared source for both engines (the former go-rewrite/assets overlay was
+// merged in).
 func (c *Context) AssetsDir() string {
 	return filepath.Join(c.BasePath, "data", "assets")
-}
-
-// GoAssetsDir returns the path to Go-specific asset overrides.
-func (c *Context) GoAssetsDir() string {
-	return filepath.Join(c.BasePath, "go-rewrite", "assets")
 }
 
 // AreaCacheDir returns the path to the Crystal-generated area cache.

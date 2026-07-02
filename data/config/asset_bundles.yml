@@ -72,6 +72,12 @@ bundles:
     js:
       - /js/self/timeline.js
 
+  # Chart.js + matrix plugin — used by the Go EXIF stats page
+  chartjs:
+    js:
+      - /js/libs/chart.umd.js
+      - /js/libs/chartjs-chart-matrix.min.js
+
 # Composite bundles (convenience aliases)
 composites:
   core:
@@ -130,3 +136,13 @@ page-assets:
   pois:
     css:
       - /css/self/pois.css
+  fonts:
+    css:
+      - /css/self/fonts.css
+  area-show:
+    css:
+      - /css/self/area_show.css
+  homepage:
+    css:
+      - /css/self/fonts.css
+      - /css/self/homepage.css

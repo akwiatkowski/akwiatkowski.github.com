@@ -156,7 +156,8 @@ func runBuild(ctx *pipeline.Context) {
 	})
 
 	pipe.Add("loadBundles", nil, func(ctx *pipeline.Context) error {
-		bundlePath := filepath.Join(ctx.BasePath, "go-rewrite", "config", "asset_bundles.yml")
+		// Single source of truth shared with Crystal (was a go-rewrite/config fork).
+		bundlePath := filepath.Join(ctx.ConfigDir(), "asset_bundles.yml")
 		var err error
 		resolver, err = bundle.NewResolver(bundlePath)
 		return err

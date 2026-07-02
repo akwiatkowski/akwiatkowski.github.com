@@ -34,25 +34,11 @@ type CopyAssetsResult struct {
 func (n *CopyAssetsNode) Run(ctx *pipeline.Context) error {
 	dstDir := ctx.OutputDir()
 
-	var copied, skipped int
-
-	// Copy shared assets from data/assets/
-	c, s, err := copyAssetsDir(ctx.AssetsDir(), dstDir)
+	// Copy assets from the single shared source (data/assets/). The former
+	// go-rewrite/assets overlay was merged into data/assets — one source now.
+	copied, skipped, err := copyAssetsDir(ctx.AssetsDir(), dstDir)
 	if err != nil {
 		return fmt.Errorf("copy assets: %w", err)
-	}
-	copied += c
-	skipped += s
-
-	// Overlay Go-specific assets (overrides shared files)
-	goAssetsDir := ctx.GoAssetsDir()
-	if info, err := os.Stat(goAssetsDir); err == nil && info.IsDir() {
-		c, s, err := copyAssetsDir(goAssetsDir, dstDir)
-		if err != nil {
-			return fmt.Errorf("copy go assets: %w", err)
-		}
-		copied += c
-		skipped += s
 	}
 
 	if ctx.Verbose {
