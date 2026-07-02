@@ -22,33 +22,45 @@ Load this file at the start of a session for project continuity.
 
 ## Code Structure
 
+The Crystal engine lives in `crystal/src/`, the Go engine in `go/`, and `data/`
+holds shared inputs. The two engines mirror each other's internal layout on a
+shared vocabulary — see **`STRUCTURE.md`** (repo root) for the top-level map,
+the build grammar, and the concept→engine mapping table. This section documents
+the Crystal engine internals.
+
 ### Core Files
 
 ```
-data/src/
+crystal/src/
 ├── blog.cr              # Main Blog class, render orchestration
-├── post_renderer.cr     # Per-post rendering (articles, galleries)
-├── render_context.cr    # Read-only context for views
-├── build_context.cr     # BuildContext < RenderContext (pipeline writes)
 ├── renderer.cr          # Thin wrapper, asset handling
-├── data_manager.cr      # Entity loading, caches
-└── validator.cr         # Output validation
+├── mod_watcher.cr       # File-change watcher
+├── context/             # render_context.cr (read-only), build_context.cr (writes)
+├── catalog/             # data_manager.cr (entity loading, caches) + exif_db, dictionary
+├── content/             # post.cr + post/, post_collection, post_renderer, post_function_parser
+├── model/               # domain entities (area, photo, tag, poi, coord_range, …)
+├── service/             # cross-cutting services (see below)
+├── render/              # view registry + coordinator + validator (see below)
+├── view/                # view classes (see below)
+├── framework/           # vendored Tremolite engine (Tremolite:: namespace)
+└── commands/            # CLI command library (pipeline/, tools/)
 ```
 
-### View Registry (Single Source of Truth for Rendering)
+### Render (Registry — Single Source of Truth for Rendering)
 
 ```
-data/src/view_registry/
+crystal/src/render/
 ├── base.cr              # ViewRegistry class, PRIORITY_GROUPS, Priority module
 ├── coordinator.cr       # RenderCoordinator - executes entries
 ├── setup.cr             # Registration orchestration
 ├── all.cr               # Requires everything
+├── validator.cr         # Output validation
 ├── tasks/               # Data preparation (priority 1-9)
 │   ├── setup_tasks.cr   #   Priority 1-2: dev render, copy assets
 │   ├── exif_tasks.cr    #   Priority 3-4: EXIF initialization
 │   └── cache_tasks.cr   #   Priority 5-9: cache refresh
-└── views/               # Output rendering (priority 10+)
-    ├── entity_views.cr  #   Priority 11: tags only (areas handled by area_views.cr)
+└── views/               # Registration files (priority 10+) — NOT the view classes
+    ├── entity_views.cr  #   Priority 11: tags (areas handled by area_views.cr)
     ├── area_views.cr    #   Priority 14-16: area pages (show, post list, gallery)
     ├── home_views.cr    #   Priority 20-29: home, map, POIs
     ├── photo_views.cr   #   Priority 30-39: galleries, photo maps
@@ -59,13 +71,15 @@ data/src/view_registry/
     └── debug_views.cr   #   Priority 100+: diagnostic pages
 ```
 
+Note the two distinct "views": `render/views/` holds *registration* files (what
+to render, at what priority); `view/` holds the view *classes* (how to render).
+
 ### View Classes
 
 ```
-data/src/views/
+crystal/src/view/
 ├── base_view.cr         # BaseView - all views inherit from this (includes AssetAware)
-├── concerns/
-│   └── asset_aware.cr   # Asset bundle declaration module
+├── concerns/asset_aware.cr  # Asset bundle declaration module
 ├── page_view.cr         # PageView - HTML page wrapper
 ├── area_show_view.cr    # Area detail page (uses template)
 ├── post_list_view/      # Entity collection pages (towns, tags, etc.)
@@ -81,18 +95,15 @@ data/src/views/
 ### Services
 
 ```
-data/src/services/
+crystal/src/service/
 ├── router.cr                 # Centralized URL generation with alias support
 ├── asset_bundle_loader.cr    # Load/resolve asset bundles from YAML config
-├── html_processor.cr         # HTML comment removal, validation
-├── html_validators/          # HTML validation rules
-│   ├── all.cr
-│   ├── base.cr
-│   ├── title_validators.cr
-│   ├── duplicate_id_validator.cr
-│   ├── placeholder_validator.cr
-│   ├── accessibility_validators.cr
-│   └── link_validators.cr
+├── image.cr                  # ImageResizer (was top-level image_resizer.cr)
+├── html_processor.cr         # HTML comment removal
+├── html_validators/          # HTML validation rules (title, duplicate_id, links, …)
+├── area_matcher/             # GEOS spatial route→area matching
+├── map/                      # SVG map rendering
+├── exif_stat/                # EXIF statistics
 ├── area_data_loader.cr       # Load area entities from config
 ├── area_photo_selector.cr    # Select photos for areas
 ├── nav_stats_cache.cr        # Navigation statistics
@@ -100,14 +111,12 @@ data/src/services/
 └── ...
 ```
 
-### Layout Templates
+### Layout Templates (shared input, Crystal-rendered)
 
 ```
 data/layout/
-├── area/
-│   └── show.html        # Area show page template (React/Leaflet, uses placeholders)
-├── planner/
-│   └── planner.html     # Photo planner template (Leaflet grid map)
+├── area/show.html       # Area show page template (React/Leaflet, uses placeholders)
+├── planner/planner.html # Photo planner template (Leaflet grid map)
 ├── page.html            # Standard page wrapper
 └── ...
 ```
@@ -115,20 +124,16 @@ data/layout/
 ### Test Support
 
 ```
-spec/
+spec/                    # at repo root; run `crystal spec` from root
 ├── spec_helper.cr
-├── support/
-│   ├── all.cr
-│   ├── mock_render_context.cr
-│   ├── mock_post.cr
-│   └── mock_html_buffer.cr
+├── support/{all,mock_render_context,mock_post,mock_html_buffer}.cr
 └── views/               # View tests
 ```
 
 ### Commands
 
 ```
-data/src/commands/                # Shared command library
+crystal/src/commands/             # Command library
 ├── base.cr                       # Commands module, ENVS, init_blog helper
 ├── all.cr                        # Require aggregator
 ├── pipeline/                     # Data pipeline commands
@@ -142,7 +147,7 @@ data/src/commands/                # Shared command library
     ├── test_region_matching.cr
     └── spellcheck.cr             # Polish spellcheck via LanguageTool
 
-commands/                         # Thin entry-point wrappers
+commands/                         # Thin entry-point wrappers (repo root)
 ├── run_all.cr                    # Unified pipeline runner (shared AreaMatcher)
 ├── generate_areas_for_posts.cr
 ├── generate_polygon_json.cr
@@ -203,7 +208,7 @@ Defined in `ViewRegistry::PRIORITY_GROUPS` (base.cr):
 
 ## Image Sizes
 
-Defined in `data/src/image_resizer.cr`:
+Defined in `crystal/src/service/image.cr`:
 
 | Name | Dimensions | Quality | Used for |
 |------|------------|---------|----------|
@@ -214,7 +219,7 @@ Defined in `data/src/image_resizer.cr`:
 
 ## Router Service
 
-Centralized URL generation with alias support (`data/src/services/router.cr`).
+Centralized URL generation with alias support (`crystal/src/service/router.cr`).
 
 ### Usage
 
@@ -366,7 +371,7 @@ Area types use nominative (show) vs genitive (post-list/gallery) forms:
      ctx.write_output(MyView.new(context: ctx, ...))
    end
    ```
-3. Create view class in `data/src/views/`
+3. Create view class in `crystal/src/view/`
 4. Add test in `spec/views/`
 5. Regenerate VIEWS.md (see below)
 
@@ -383,7 +388,7 @@ Area types use nominative (show) vs genitive (post-list/gallery) forms:
 
 ### Regenerating VIEWS.md
 
-1. Extract entries: `grep -h "r\.task\|r\.register" data/src/view_registry/**/*.cr`
+1. Extract entries: `grep -h "r\.task\|r\.register" crystal/src/render/**/*.cr`
 2. Count by type and dependency
 3. Generate sections: Summary, What runs when, Entries by Category, Dependency Matrix, Priority Guide
 4. Verify structure matches PRIORITY_GROUPS in base.cr
@@ -444,7 +449,7 @@ npx playwright test --headed    # See browser while testing
 
 ### Running Commands
 
-Commands are thin wrappers in `commands/` that delegate to `data/src/commands/`:
+Commands are thin wrappers in `commands/` that delegate to `crystal/src/commands/`:
 
 ```bash
 # Run full pipeline (shared AreaMatcher, ~90MB loaded once)
@@ -485,19 +490,19 @@ When making changes, verify:
 
 ```bash
 # List all registered entries
-grep -h "r\.task\|r\.register" data/src/view_registry/**/*.cr
+grep -h "r\.task\|r\.register" crystal/src/render/**/*.cr
 
 # Count entries by file
-grep -c "r\.task\|r\.register" data/src/view_registry/**/*.cr
+grep -c "r\.task\|r\.register" crystal/src/render/**/*.cr
 
 # Check priority distribution
-grep -oh "priority: [0-9]*" data/src/view_registry/**/*.cr | sort -t: -k2 -n | uniq -c
+grep -oh "priority: [0-9]*" crystal/src/render/**/*.cr | sort -t: -k2 -n | uniq -c
 
 # Verify PRIORITY_GROUPS
-grep -A 15 "PRIORITY_GROUPS = \[" data/src/view_registry/base.cr
+grep -A 15 "PRIORITY_GROUPS = \[" crystal/src/render/base.cr
 
 # Check for entry name duplicates
-grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | uniq -d
+grep -oh '"[^"]*"' crystal/src/render/**/*.cr | grep -E "^\"[A-Z]" | sort | uniq -d
 ```
 
 ## Go Rewrite Coding Conventions
@@ -552,9 +557,9 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 
 - **Do NOT move to the next phase** unless the current phase is fully planned and approved
 - Only advance to a later phase if the user explicitly says to move on
-- Phase plans live in `go-rewrite/phases/PHASE_NN_*.md`
+- Phase plans live in `go/phases/PHASE_NN_*.md`
 - Phase plans contain requirements and design ideas, not Go code
-- Data format reference: `go-rewrite/DATA_SOURCES.md`
+- Data format reference: `go/DATA_SOURCES.md`
 
 ## Self-Maintenance
 
@@ -672,7 +677,10 @@ grep -oh '"[^"]*"' data/src/view_registry/**/*.cr | grep -E "^\"[A-Z]" | sort | 
 - 2026-02-14: Responsive srcset - 560w grid + 1000w article with viewport-aware sizes
 - 2026-02-14: CSS fixes - article photos width: 100%, box-sizing: border-box on html, Strava iframe max-width
 - 2026-02-14: E2E picture-elements.spec.js - AVIF selection, responsive image resolution, viewport rendering
+- 2026-07-02: Crystal↔Go convergence. Engines relocated to `crystal/` and `go/` (sibling dirs); `data/` is now pure shared inputs. Unified `makefile` over ENV×TARGET×ENGINE; engine-agnostic output `env/<env>/public/<target>`. Single-source config + assets (go-rewrite forks dropped). UMP tiles moved to `~/projects/llm/input/tiles/ump` (symlinked). See `STRUCTURE.md`.
+- 2026-07-02: Crystal internal regroup onto shared vocabulary — `data_manager`→`catalog/`, `post*`→`content/`, render/build context→`context/`, `models`→`model/`, `services`→`service/` (+`image.cr`), `view_registry`+`validator`→`render/`, `views`→`view/`, `tremolite`→`framework/`.
+- 2026-07-02: Fixed full-env render crash (`related_posts_by_quants` now skips stale coord-quant slugs).
 
 ---
 
-*Current stats: 7 tasks + 42 views = 49 registry entries, 602 tests, 228 e2e tests (16 spec files)*
+*Current stats: 7 tasks + 42 views = 49 registry entries, 623 tests, 232 e2e tests. Crystal engine in `crystal/src/`, Go engine in `go/`; see STRUCTURE.md.*
