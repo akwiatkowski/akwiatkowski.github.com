@@ -1,9 +1,13 @@
 // Post collection dynamic loader
-// Fetches posts from posts_list.json (minimal payload) and renders them with lazy loading
+// Fetches posts from homepage.json (minimal payload), filters by tag/area,
+// and renders an editorial masthead + a lazy-loaded card grid.
 (function() {
   'use strict';
 
-  // Read configuration from page (called after DOM is ready)
+  // --- Configuration -------------------------------------------------------
+
+  // Read the render config the page shell embeds as JSON (filter dimension +
+  // value, e.g. {filterBy:"tag", filterValue:"bicycle"}).
   function getConfig() {
     var configEl = document.getElementById('post-collection-config');
     if (configEl) {
@@ -16,22 +20,42 @@
     return { filterBy: '', filterValue: '' };
   }
 
-  // Config is read when loadPosts is called (after DOM is ready)
   var FILTER_BY = '';
   var FILTER_VALUE = '';
 
-  // State management
+  // Maps the filter dimension to the post field holding its slug list, plus
+  // the Polish eyebrow label shown above the page title.
+  var FILTER_FIELD_MAP = {
+    tag: 'tags',
+    town: 'town_slugs',
+    county: 'county_slugs',
+    voivodeship: 'voivodeship_slugs',
+    meso_region: 'meso_region_slugs',
+    macro_region: 'macro_region_slugs'
+  };
+
+  var EYEBROW_MAP = {
+    tag: 'Wpisy z tagiem',
+    town: 'Wpisy z gminy',
+    county: 'Wpisy z powiatu',
+    voivodeship: 'Wpisy z województwa',
+    meso_region: 'Wpisy z mezoregionu',
+    macro_region: 'Wpisy z makroregionu'
+  };
+
+  // --- State ---------------------------------------------------------------
+
   var postsData = [];
   var renderedCount = 0;
   var PAGE_SIZE = 12;
   var observer = null;
 
-  // Fetch and display posts
+  // --- Load ----------------------------------------------------------------
+
   function loadPosts() {
     var container = document.getElementById('posts-container');
     if (!container) return;
 
-    // Read config now that DOM is ready
     var CONFIG = getConfig();
     FILTER_BY = CONFIG.filterBy || '';
     FILTER_VALUE = CONFIG.filterValue || '';
@@ -47,22 +71,15 @@
         var posts = (data.posts || []).filter(function(p) {
           return p.visible && p.ready;
         });
-        // homepage.json ships tags as an array of {slug, url, name};
-        // index by slug once so renderTags can look tags up per post.
+
+        // homepage.json ships tags as an array of {slug, url, name}; index by
+        // slug so renderTags can resolve each post's tags to links.
         var tags = {};
         (data.tags || []).forEach(function(t) { tags[t.slug] = t; });
 
-        // Filter posts by area or tag
+        // Filter by the configured dimension (tag / area).
         if (FILTER_BY && FILTER_VALUE) {
-          var filterFieldMap = {
-            'tag': 'tags',
-            'town': 'town_slugs',
-            'county': 'county_slugs',
-            'voivodeship': 'voivodeship_slugs',
-            'meso_region': 'meso_region_slugs',
-            'macro_region': 'macro_region_slugs'
-          };
-          var field = filterFieldMap[FILTER_BY];
+          var field = FILTER_FIELD_MAP[FILTER_BY];
           if (field) {
             posts = posts.filter(function(p) {
               return (p[field] || []).indexOf(FILTER_VALUE) !== -1;
@@ -70,14 +87,20 @@
           }
         }
 
-        // Sort by date (descending, newest first)
+        // Newest first.
         posts.sort(function(a, b) {
           return new Date(b.time) - new Date(a.time);
         });
 
         postsData = posts;
         container.innerHTML = '';
-        setupLazyRender(postsData, tags);
+        renderHeader(container, posts);
+
+        if (posts.length === 0) {
+          renderEmpty(container);
+          return;
+        }
+        setupLazyRender(container, posts, tags);
       })
       .catch(function(error) {
         console.error('Error loading posts:', error);
@@ -85,10 +108,85 @@
       });
   }
 
-  function setupLazyRender(postsArr, tags) {
-    var container = document.getElementById('posts-container');
+  // --- Header --------------------------------------------------------------
+
+  // Derives the display name from the document title, which the server
+  // already localises (e.g. "Wpisy: Rowerem - OdkrywajacPolske.pl").
+  function collectionTitle() {
+    var raw = (document.title || '').split(' - ')[0].trim();
+    return raw.replace(/^Wpisy:\s*/i, '').trim() || 'Wpisy';
+  }
+
+  // Polish pluralization for a count noun (nominative / few / many forms).
+  function plPlural(n, one, few, many) {
+    var mod10 = n % 10;
+    var mod100 = n % 100;
+    if (n === 1) return one;
+    if (mod10 >= 2 && mod10 <= 4 && (mod100 < 12 || mod100 > 14)) return few;
+    return many;
+  }
+
+  // Groups digits with a thin space, matching Polish number formatting
+  // (e.g. 1240 -> "1 240").
+  function formatNumber(n) {
+    return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+  }
+
+  function renderHeader(container, posts) {
+    var count = posts.length;
+
+    // Aggregate distance (km) and photo count across the filtered set.
+    var totalDistance = 0;
+    var totalPhotos = 0;
+    posts.forEach(function(p) {
+      if (p.distance_km > 0) totalDistance += p.distance_km;
+      if (p.photos && p.photos.length) totalPhotos += p.photos.length;
+      else if (p.photos_count > 0) totalPhotos += p.photos_count;
+    });
+
+    var metaParts = [];
+    metaParts.push(
+      '<span><strong>' + count + '</strong> ' +
+      plPlural(count, 'wpis', 'wpisy', 'wpisów') + '</span>'
+    );
+    if (totalDistance > 0) {
+      metaParts.push(
+        '<span><strong>' + formatNumber(totalDistance) + '</strong> km</span>'
+      );
+    }
+    if (totalPhotos > 0) {
+      metaParts.push(
+        '<span><strong>' + formatNumber(totalPhotos) + '</strong> ' +
+        plPlural(totalPhotos, 'zdjęcie', 'zdjęcia', 'zdjęć') + '</span>'
+      );
+    }
+
+    var eyebrow = EYEBROW_MAP[FILTER_BY] || 'Wpisy';
+
+    var header = document.createElement('header');
+    header.className = 'pc-header';
+    header.innerHTML =
+      '<p class="pc-header__eyebrow">' + escapeHtml(eyebrow) + '</p>' +
+      '<h1 class="pc-header__title">' + escapeHtml(collectionTitle()) + '</h1>' +
+      '<div class="pc-header__rule"></div>' +
+      '<div class="pc-header__meta">' + metaParts.join('') + '</div>';
+    container.appendChild(header);
+  }
+
+  function renderEmpty(container) {
+    var empty = document.createElement('div');
+    empty.className = 'pc-empty';
+    empty.innerHTML =
+      '<p class="pc-empty__title">Brak wpisów</p>' +
+      '<p>Nie ma jeszcze wpisów w tej kategorii.</p>';
+    container.appendChild(empty);
+  }
+
+  // --- Grid + lazy render --------------------------------------------------
+
+  function setupLazyRender(container, postsArr, tags) {
     var grid = document.createElement('div');
-    grid.className = 'posts-grid';
+    grid.className = 'pc-grid';
     container.appendChild(grid);
 
     renderedCount = 0;
@@ -100,6 +198,7 @@
     var sentinel = document.createElement('div');
     sentinel.id = 'scroll-sentinel';
     sentinel.style.height = '1px';
+    sentinel.style.gridColumn = '1 / -1';
     grid.appendChild(sentinel);
 
     if (observer) observer.disconnect();
@@ -120,77 +219,101 @@
     var sentinel = document.getElementById('scroll-sentinel');
 
     for (var i = renderedCount; i < nextIdx; i++) {
-      var card = createPostCard(postsArr[i], tags, i);
+      var card = createPostCard(postsArr[i], tags);
       grid.insertBefore(card, sentinel);
     }
     renderedCount = nextIdx;
   }
 
-  function createPostCard(post, tags, index) {
+  // --- Card ----------------------------------------------------------------
+
+  function createPostCard(post, tags) {
     var card = document.createElement('article');
-    card.className = 'post-card';
+    card.className = 'pc-card';
 
     var statsHtml = renderStats(post);
     var tagsHtml = renderTags(post.tags || [], tags);
     var subtitleHtml = post.subtitle
-      ? '<p class="post-subtitle">' + escapeHtml(post.subtitle) + '</p>'
+      ? '<p class="pc-card__subtitle">' + escapeHtml(post.subtitle) + '</p>'
+      : '';
+    var footerHtml = (statsHtml || tagsHtml)
+      ? '<div class="pc-card__footer">' + statsHtml +
+        '<div class="post-tags">' + tagsHtml + '</div></div>'
       : '';
 
     card.innerHTML =
-      '<div class="post-image-container" data-post-index="' + index + '">' +
-        '<img src="' + post.card_image_url + '" alt="' + escapeHtml(post.title) + '" class="post-image" loading="lazy">' +
-      '</div>' +
-      '<div class="post-overlay">' +
-        '<h2 class="post-title">' +
-          '<a href="' + post.url + '">' + escapeHtml(post.title) + '</a>' +
-        '</h2>' +
+      '<div class="pc-card__media">' + pictureHtml(post) + '</div>' +
+      '<div class="pc-card__scrim"></div>' +
+      '<a class="pc-card__hitbox" href="' + post.url + '" ' +
+        'aria-label="' + escapeHtml(post.title) + '"></a>' +
+      '<div class="pc-card__date">' + escapeHtml(formatDate(post.date)) + '</div>' +
+      '<div class="pc-card__body">' +
+        '<h2 class="pc-card__title">' + escapeHtml(post.title) + '</h2>' +
         subtitleHtml +
-      '</div>' +
-      '<div class="post-overlay-bottom">' +
-        statsHtml +
-        '<div class="post-tags">' + tagsHtml + '</div>' +
-      '</div>' +
-      '<div class="post-overlay-top-corner">' +
-        '<div class="post-date">' + escapeHtml(post.date) + '</div>' +
+        footerHtml +
       '</div>';
 
     return card;
   }
 
+  // Builds a <picture> that prefers AVIF and falls back to the JPEG card image.
+  function pictureHtml(post) {
+    var avif = post.card_image_url_avif
+      ? '<source type="image/avif" srcset="' + post.card_image_url_avif + '">'
+      : '';
+    return '<picture>' + avif +
+      '<img src="' + post.card_image_url + '" ' +
+      'alt="' + escapeHtml(post.title) + '" loading="lazy" decoding="async">' +
+      '</picture>';
+  }
+
+  // Formats an ISO date (YYYY-MM-DD) as a Polish long date, e.g. "18 lipca 2021".
+  var PL_MONTHS = ['stycznia', 'lutego', 'marca', 'kwietnia', 'maja', 'czerwca',
+    'lipca', 'sierpnia', 'września', 'października', 'listopada', 'grudnia'];
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    var parts = dateStr.split('-');
+    if (parts.length !== 3) return dateStr;
+    var day = parseInt(parts[2], 10);
+    var monthIdx = parseInt(parts[1], 10) - 1;
+    if (isNaN(day) || monthIdx < 0 || monthIdx > 11) return dateStr;
+    return day + ' ' + PL_MONTHS[monthIdx] + ' ' + parts[0];
+  }
+
   function renderStats(post) {
     var stats = [];
 
-    if (post.distance && post.distance > 0) {
-      stats.push(
-        '<div class="stat-item">' +
-          '<span class="icon-distance"></span>' +
-          '<span>' + post.distance + ' km</span>' +
-        '</div>'
-      );
+    // distance_km is the canonical field in homepage.json.
+    if (post.distance_km && post.distance_km > 0) {
+      stats.push(statChip('📍', Math.round(post.distance_km) + ' km'));
     }
-
     if (post.time_spent && post.time_spent > 0) {
-      stats.push(
-        '<div class="stat-item">' +
-          '<span class="icon-time"></span>' +
-          '<span>' + post.time_spent + 'h</span>' +
-        '</div>'
-      );
+      stats.push(statChip('⏱️', post.time_spent + ' h'));
     }
 
-    return stats.length > 0
-      ? '<div class="post-stats">' + stats.join('') + '</div>'
-      : '';
+    return stats.join('');
   }
 
-  // Renders tag links for a post card.
-  // tags is a map {slug: {url, name}} built above from homepage.json's array.
+  function statChip(icon, text) {
+    return '<span class="pc-stat">' +
+      '<span class="pc-stat__icon">' + icon + '</span>' +
+      '<span>' + escapeHtml(text) + '</span>' +
+    '</span>';
+  }
+
+  // Tags that are internal flags rather than reader-facing categories.
+  var HIDDEN_TAGS = { main: true };
+
+  // Renders tag links for a card. `tags` maps slug -> {url, name}.
   function renderTags(postTags, tags) {
     return postTags.map(function(tag) {
+      if (HIDDEN_TAGS[tag]) return '';
       var tagObj = tags[tag];
       if (tagObj) {
         var tagClass = 'tag tag-' + tag.toLowerCase();
-        return '<a href="' + tagObj.url + '" class="' + tagClass + '">' + escapeHtml(tagObj.name) + '</a>';
+        return '<a href="' + tagObj.url + '" class="' + tagClass + '">' +
+          escapeHtml(tagObj.name) + '</a>';
       }
       return '';
     }).join('');
@@ -202,7 +325,8 @@
     return div.innerHTML;
   }
 
-  // Initialize when DOM is ready
+  // --- Init ----------------------------------------------------------------
+
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', loadPosts);
   } else {

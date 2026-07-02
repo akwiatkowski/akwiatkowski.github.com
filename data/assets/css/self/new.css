@@ -272,7 +272,7 @@ body {
   font-family: var(--font-family-base);
   line-height: var(--line-height-normal);
   color: var(--color-text);
-  background-color: var(--color-background);
+  background-color: transparent; /* inherit body (#fafaf9), matching the homepage */
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 
@@ -324,89 +324,308 @@ body {
   color: var(--color-error);
 }
 
-.posts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(480px, 1fr));
-  gap: var(--space-32);
-  margin-top: var(--space-32);
+/* ==========================================================================
+   Post collection — editorial redesign (2026-07-02)
+   Rendered client-side by post_collection.js. All classes namespaced `.pc-*`
+   to stay isolated from legacy `.post-*` rules. Reuses `.tag`/`.post-tags`.
+   ========================================================================== */
+
+/* --- Masthead header (tag / area name, count, aggregate stats) ----------- */
+.pc-header {
+  max-width: 780px;
+  margin: 0 auto var(--space-32);
+  padding: var(--space-16) var(--space-16) var(--space-24);
+  text-align: center;
 }
 
-@media (max-width: 768px) {
-  .posts-grid {
-    grid-template-columns: 1fr;
-  }
+.pc-header__eyebrow {
+  font-family: var(--font-family-base);
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+  margin: 0 0 var(--space-12);
 }
 
-@media (min-width: 769px) and (max-width: 1200px) {
-  .posts-grid {
-    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
-  }
+.pc-header__title {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  /* Fluid display size — large on desktop, comfortable on phones. */
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  line-height: 1.04;
+  letter-spacing: -0.015em;
+  color: var(--color-text);
+  margin: 0;
 }
 
-.post-card {
-  background-color: #1a1a1a;
-  border-radius: var(--radius-lg);
-  border: 2px solid transparent;
-  overflow: hidden;
-  transition: border-color var(--duration-normal) var(--ease-standard);
-  transition: box-shadow 0.3s ease;
-  position: relative;
-  aspect-ratio: 16 / 9;
-  display: flex;
-  align-items: center;
+.pc-header__rule {
+  width: 56px;
+  height: 2px;
+  margin: var(--space-20) auto var(--space-16);
+  background: var(--color-primary);
+  border-radius: var(--radius-full);
+  opacity: 0.85;
+}
+
+.pc-header__meta {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
   justify-content: center;
+  gap: var(--space-6) var(--space-16);
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
 }
 
-.post-card:hover {
-  border-color: #08a6d1;
-  box-shadow: 0 0 10px 5px rgba(0, 150, 255, 0.7);
+.pc-header__meta > span {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35em;
 }
 
-.post-card:hover .post-image {
-  transform: scale(1.05);
+/* Dot separator between aggregate stats. */
+.pc-header__meta > span + span::before {
+  content: "";
+  align-self: center;
+  width: 3px;
+  height: 3px;
+  margin-right: calc(var(--space-16) - var(--space-6));
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.4;
 }
 
-.post-card:hover .post-overlay-bottom {
-  opacity: 1;
+.pc-header__meta strong {
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text);
+  font-variant-numeric: tabular-nums;
 }
 
-.post-card:hover .post-overlay-top-corner {
-  opacity: 1;
+/* --- Grid ---------------------------------------------------------------- */
+.pc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: var(--space-24);
+  margin-top: var(--space-24);
 }
 
-.post-image-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+@media (max-width: 560px) {
+  .pc-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-16);
+  }
+}
+
+/* --- Card ---------------------------------------------------------------- */
+.pc-card {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius-lg);
   overflow: hidden;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-md);
+  isolation: isolate;
+  transform: translateZ(0);
+  transition: transform 0.45s var(--ease-standard),
+    box-shadow 0.45s var(--ease-standard);
 }
 
+.pc-card:hover,
+.pc-card:focus-within {
+  transform: translateY(-6px);
+  box-shadow: 0 22px 48px rgba(0, 0, 0, 0.22);
+}
 
-.post-image {
+.pc-card__media {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: var(--color-secondary);
+}
+
+.pc-card__media img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform var(--duration-normal) var(--ease-standard);
+  display: block;
+  transition: transform 0.8s var(--ease-standard);
+  will-change: transform;
 }
 
-.post-overlay {
+.pc-card:hover .pc-card__media img,
+.pc-card:focus-within .pc-card__media img {
+  transform: scale(1.06);
+}
+
+/* Bottom scrim keeps the caption legible over any photo — always on, so
+   the card reads on touch devices without a hover state. */
+.pc-card__scrim {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to bottom, var(--color-overlay-gradient-top) 0%, var(--color-overlay-gradient-bottom) 100%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: var(--space-24);
-  text-align: center;
+  inset: 0;
   z-index: 1;
+  background: linear-gradient(
+      to top,
+      rgba(18, 20, 22, 0.9) 0%,
+      rgba(18, 20, 22, 0.62) 26%,
+      rgba(18, 20, 22, 0.08) 52%,
+      rgba(18, 20, 22, 0) 68%
+    ),
+    linear-gradient(
+      to bottom,
+      rgba(18, 20, 22, 0.45) 0%,
+      rgba(18, 20, 22, 0) 30%
+    );
+  pointer-events: none;
 }
 
+/* Transparent full-card link (stretched-link pattern). Tags sit above it. */
+.pc-card__hitbox {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  border-radius: inherit;
+}
+
+.pc-card__hitbox:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: -3px;
+}
+
+/* Date kicker, top-left */
+.pc-card__date {
+  position: absolute;
+  top: var(--space-16);
+  left: var(--space-16);
+  z-index: 3;
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.92);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+
+.pc-card__body {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  padding: var(--space-20);
+  pointer-events: none;
+}
+
+.pc-card__title {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--font-size-3xl);
+  line-height: 1.14;
+  color: #ffffff;
+  margin: 0;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+}
+
+.pc-card__subtitle {
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-normal);
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.85);
+  margin: var(--space-6) 0 0;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+  /* Clamp to two lines to keep card heights honest. */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pc-card__footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-6);
+  margin-top: var(--space-12);
+}
+
+.pc-stat {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-2) var(--space-8);
+  border-radius: var(--radius-full);
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.16);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  font-variant-numeric: tabular-nums;
+}
+
+.pc-stat__icon {
+  font-size: 0.9em;
+  line-height: 1;
+}
+
+/* Tags reuse global `.tag`; enable clicks above the hitbox and push them to
+   the far side of the footer row. */
+.pc-card__footer .post-tags {
+  pointer-events: auto;
+  margin-left: auto;
+  justify-content: flex-end;
+}
+
+/* --- Loading / empty / error states ------------------------------------- */
+.loading-state,
+.error-state,
+.pc-empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: var(--space-32);
+  font-family: var(--font-family-base);
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+}
+
+.loading-state::after {
+  content: "…";
+  display: inline-block;
+  animation: pc-ellipsis 1.4s steps(4, end) infinite;
+  width: 0;
+  overflow: hidden;
+  vertical-align: bottom;
+}
+
+.pc-empty {
+  padding: var(--space-32) var(--space-16);
+}
+
+.pc-empty__title {
+  font-family: var(--font-serif);
+  font-size: var(--font-size-2xl);
+  color: var(--color-text);
+  margin: 0 0 var(--space-8);
+}
+
+@keyframes pc-ellipsis {
+  from { width: 0; }
+  to { width: 1.2em; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pc-card,
+  .pc-card__media img {
+    transition: none;
+  }
+}
+
+/* Legacy `.post-title` / `.post-subtitle` kept for data/layout/post/preview.html */
 .post-title {
   font-size: var(--font-size-2xl);
   font-weight: var(--font-weight-bold);
@@ -432,52 +651,6 @@ body {
   color: rgba(255, 255, 255, 0.9);
   margin: 0;
   text-shadow: 0 1px 2px rgba(0,0,0,0.5);
-}
-
-.post-overlay-bottom {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%);
-  padding: var(--space-32) var(--space-16) var(--space-16) var(--space-16);
-  z-index: 2;
-  opacity: 0;
-  transition: opacity var(--duration-normal) var(--ease-standard);
-}
-
-.post-overlay-top-corner {
-  color: var(--color-white);
-  font-size: var(--font-size-xs);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: var(--space-4) var(--space-4) var(--space-4) var(--space-4);
-  z-index: 2;
-  opacity: 0;
-  transition: opacity var(--duration-normal) var(--ease-standard);
-}
-
-
-.post-stats {
-  display: flex;
-  gap: var(--space-12);
-  margin-bottom: var(--space-10);
-  font-size: var(--font-size-sm);
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.stat-item {
-  display: flex;
-  align-items: center;
-  gap: var(--space-4);
-  padding: var(--space-4) var(--space-8);
-  background-color: rgba(255, 255, 255, 0.15);
-  border-radius: var(--radius-sm);
-  color: var(--color-white);
-  font-weight: var(--font-weight-medium);
 }
 
 .post-tags {
