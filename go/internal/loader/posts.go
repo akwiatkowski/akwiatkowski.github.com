@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"odkrywajac/internal/markdown"
+	"odkrywajac/internal/content"
 	"odkrywajac/internal/model"
 
 	"github.com/yuin/goldmark"
@@ -175,11 +175,11 @@ func loadPost(path, routesDir string) (*model.Post, error) {
 
 	// Parse markdown body with goldmark to extract photos and cross-refs
 	md := goldmark.New(
-		goldmark.WithExtensions(&markdown.Extension{}),
+		goldmark.WithExtensions(&content.Extension{}),
 	)
 	reader := text.NewReader([]byte(body))
 	doc := md.Parser().Parse(reader, goldmarkParser.WithContext(goldmarkParser.NewContext()))
-	extracted := markdown.Extract(doc)
+	extracted := content.Extract(doc)
 
 	// Build post
 	post := &model.Post{

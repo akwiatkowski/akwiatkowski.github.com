@@ -1,6 +1,6 @@
 // Package markdown provides a goldmark extension for parsing custom blog directives:
 // {% photo %}, {% photo_header %}, {% post_url %}, {% geo %}, {% pro_tip %}, {% current_year %}, {% todo %}.
-package markdown
+package content
 
 import (
 	"strconv"

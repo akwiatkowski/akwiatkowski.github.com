@@ -6,7 +6,7 @@ import (
 
 	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/index"
-	"odkrywajac/internal/markdown"
+	"odkrywajac/internal/content"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/components"
@@ -40,14 +40,14 @@ func PostArticlePage(
 	if hideBody {
 		renderedHTML = ""
 	} else {
-		renderCtx := &markdown.RenderContext{
+		renderCtx := &content.RenderContext{
 			Post:       post,
 			PostLookup: data,
 			URLBuilder: r,
 			TagLookup:  data,
 		}
 		var err error
-		renderedHTML, err = markdown.RenderPost(post.Content, renderCtx)
+		renderedHTML, err = content.RenderPost(post.Content, renderCtx)
 		if err != nil {
 			renderedHTML = fmt.Sprintf("<p>Error rendering markdown: %s</p>", err)
 		}

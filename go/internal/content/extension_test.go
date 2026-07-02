@@ -1,4 +1,4 @@
-package markdown
+package content
 
 import (
 	"testing"
