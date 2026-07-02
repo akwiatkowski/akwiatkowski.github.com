@@ -1,7 +1,7 @@
-require "../data/src/tremolite/tremolite"
-require "../data/src/blog"
+require "../crystal/src/tremolite/tremolite"
+require "../crystal/src/blog"
 
-require "../data/src/services/map/base"
+require "../crystal/src/services/map/base"
 
 class Commands::GeneratePhotoMap
   def initialize(@env = "full")

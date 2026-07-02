@@ -1,5 +1,5 @@
-require "../../../data/src/tremolite/src/tremolite/tremolite"
-require "../../../data/src/blog"
+require "../../../crystal/src/tremolite/src/tremolite/tremolite"
+require "../../../crystal/src/blog"
 
 blog = Tremolite::Blog.for_env("full", "local")
 

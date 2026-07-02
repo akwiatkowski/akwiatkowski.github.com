@@ -1,8 +1,8 @@
 require "../spec_helper"
 require "file_utils"
 require "log"
-require "../../data/src/services/area_matcher/all"
-require "../../data/src/commands/pipeline/assign_photos_to_areas"
+require "../../crystal/src/services/area_matcher/all"
+require "../../crystal/src/commands/pipeline/assign_photos_to_areas"
 
 # Test manifest and cache I/O without loading GEOS
 describe Commands::Pipeline::AssignPhotosToAreas do

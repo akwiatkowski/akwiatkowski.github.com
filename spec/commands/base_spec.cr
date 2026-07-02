@@ -1,5 +1,5 @@
 require "../spec_helper"
-require "../../data/src/commands/base"
+require "../../crystal/src/commands/base"
 
 describe Commands do
   describe "ENVS" do

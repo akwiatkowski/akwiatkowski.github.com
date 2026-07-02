@@ -47668,6 +47668,11 @@
       common_size: 1
       not_common_size: 4
       days_diff: 1504
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2931
   quants:
   - lat: 53.4
     lon: 19.2
@@ -48359,11 +48364,11 @@
       common_size: 2
       not_common_size: 18
       days_diff: 2546
-    2025-07-13-i-zaczely-sie-zniwa:
-      common_factor: 20
-      common_size: 4
-      not_common_size: 16
-      days_diff: 2546
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 10
+      common_size: 2
+      not_common_size: 18
+      days_diff: 2887
     2026-06-20-jak-jezdzic-podczas-fal-upalow:
       common_factor: 5
       common_size: 1
@@ -71138,11 +71143,11 @@
       common_size: 3
       not_common_size: 18
       days_diff: 1813
-    2025-07-13-i-zaczely-sie-zniwa:
-      common_factor: 19
-      common_size: 4
-      not_common_size: 17
-      days_diff: 1813
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 4
+      common_size: 1
+      not_common_size: 20
+      days_diff: 2154
     2026-06-20-jak-jezdzic-podczas-fal-upalow:
       common_factor: 4
       common_size: 1
@@ -71213,6 +71218,11 @@
       common_size: 2
       not_common_size: 16
       days_diff: 399
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 5
+      common_size: 1
+      not_common_size: 17
+      days_diff: 2153
   quants:
   - lat: 53.600002
     lon: 20.6
@@ -71366,6 +71376,11 @@
       common_size: 3
       not_common_size: 9
       days_diff: 398
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 16
+      common_size: 2
+      not_common_size: 10
+      days_diff: 2152
   quants:
   - lat: 53.2
     lon: 19.800001
@@ -80952,6 +80967,11 @@
       common_size: 1
       not_common_size: 6
       days_diff: 0
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 1832
   quants:
   - lat: 54.0
     lon: 19.6
@@ -80994,11 +81014,11 @@
       common_size: 2
       not_common_size: 2
       days_diff: 73
-    2025-07-13-i-zaczely-sie-zniwa:
+    2026-06-19-aby-jechac-ile-sie-da:
       common_factor: 50
       common_size: 2
       not_common_size: 2
-      days_diff: 1491
+      days_diff: 1831
     2026-06-20-jak-jezdzic-podczas-fal-upalow:
       common_factor: 50
       common_size: 2
@@ -82472,11 +82492,6 @@
       common_size: 2
       not_common_size: 3
       days_diff: 1419
-    2025-07-13-i-zaczely-sie-zniwa:
-      common_factor: 40
-      common_size: 2
-      not_common_size: 3
-      days_diff: 1420
   quants:
   - lat: 54.0
     lon: 21.0
@@ -82525,11 +82540,6 @@
       common_size: 2
       not_common_size: 2
       days_diff: 1418
-    2025-07-13-i-zaczely-sie-zniwa:
-      common_factor: 25
-      common_size: 1
-      not_common_size: 3
-      days_diff: 1419
   quants:
   - lat: 54.0
     lon: 21.4
@@ -82586,11 +82596,16 @@
       common_size: 3
       not_common_size: 9
       days_diff: 1417
-    2025-07-13-i-zaczely-sie-zniwa:
-      common_factor: 25
-      common_size: 3
-      not_common_size: 9
-      days_diff: 1417
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 1758
+    2026-06-19-spacer-bo-lidzbarku-warminskim:
+      common_factor: 8
+      common_size: 1
+      not_common_size: 11
+      days_diff: 1759
     2026-06-20-jak-jezdzic-podczas-fal-upalow:
       common_factor: 16
       common_size: 2
@@ -83140,6 +83155,11 @@
       common_size: 2
       not_common_size: 96
       days_diff: 1483
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 2
+      common_size: 2
+      not_common_size: 96
+      days_diff: 1754
   quants:
   - lat: 49.600002
     lon: 19.6
@@ -110395,6 +110415,16 @@
       common_size: 1
       not_common_size: 6
       days_diff: 0
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 341
+    2026-06-19-spacer-bo-lidzbarku-warminskim:
+      common_factor: 14
+      common_size: 1
+      not_common_size: 6
+      days_diff: 342
     2026-06-20-jak-jezdzic-podczas-fal-upalow:
       common_factor: 14
       common_size: 1
@@ -110443,11 +110473,6 @@
       not_common_size: 0
       days_diff: 1417
     2025-07-12-pod-granice-z-rosja:
-      common_factor: 33
-      common_size: 1
-      not_common_size: 2
-      days_diff: 0
-    2025-07-13-i-zaczely-sie-zniwa:
       common_factor: 33
       common_size: 1
       not_common_size: 2
@@ -113008,15 +113033,6 @@
   - lat: 52.600002
     lon: 17.2
 2026-01-09-niemrawy-zachod-w-starej-gorce:
-  related_posts: {}
-  quants: []
-2026-01-10-zachod-w-starej-gorce:
-  related_posts: {}
-  quants: []
-2026-01-12-pagorki-turostowa:
-  related_posts: {}
-  quants: []
-2026-01-09-niemrawy-zachod-w-starej-gorce:
   related_posts:
     2013-08-24-przez-puszcze-zielonke-do-biskupic:
       common_factor: 100
@@ -113656,6 +113672,9 @@
   quants:
   - lat: 52.4
     lon: 17.2
+2026-01-12-pagorki-turostowa:
+  related_posts: {}
+  quants: []
 2026-06-20-jak-jezdzic-podczas-fal-upalow:
   related_posts:
     2018-07-23-parowozem-do-suwalk:
@@ -113683,15 +113702,118 @@
       common_size: 1
       not_common_size: 2
       days_diff: 342
-    2025-07-13-i-zaczely-sie-zniwa:
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 66
+      common_size: 2
+      not_common_size: 1
+      days_diff: 0
+    2026-06-19-spacer-bo-lidzbarku-warminskim:
       common_factor: 33
       common_size: 1
       not_common_size: 2
-      days_diff: 341
+      days_diff: 0
   quants:
   - lat: 54.0
     lon: 20.6
   - lat: 54.0
     lon: 20.800001
+  - lat: 54.2
+    lon: 20.6
+2026-06-19-aby-jechac-ile-sie-da:
+  related_posts:
+    2018-06-09-zachodnie-mazury-nie-sa-takie-plaskie:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2931
+    2018-07-23-parowozem-do-suwalk:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2887
+    2020-07-25-pociagiem-do-skandawy-i-bartoszyc:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2154
+    2020-07-26-polnocno-wschodni-kraniec-kolejowy:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 2153
+    2020-07-27-pociagiem-do-lidzbarku:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 2152
+    2021-06-12-mokra-warmia:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1832
+    2021-06-13-warmia-jest-piekna:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1831
+    2021-08-25-blisko-granicy-z-rosja:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 1758
+    2021-08-29-petla-po-polsce:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 1754
+    2025-07-12-pod-granice-z-rosja:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 341
+    2026-06-19-spacer-bo-lidzbarku-warminskim:
+      common_factor: 20
+      common_size: 1
+      not_common_size: 4
+      days_diff: 0
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 40
+      common_size: 2
+      not_common_size: 3
+      days_diff: 0
+  quants:
+  - lat: 53.8
+    lon: 20.4
+  - lat: 53.8
+    lon: 20.6
+  - lat: 54.0
+    lon: 20.4
+  - lat: 54.0
+    lon: 20.6
+  - lat: 54.2
+    lon: 20.6
+2026-06-19-spacer-bo-lidzbarku-warminskim:
+  related_posts:
+    2021-08-25-blisko-granicy-z-rosja:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 1759
+    2025-07-12-pod-granice-z-rosja:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 342
+    2026-06-19-aby-jechac-ile-sie-da:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 0
+    2026-06-20-jak-jezdzic-podczas-fal-upalow:
+      common_factor: 100
+      common_size: 1
+      not_common_size: 0
+      days_diff: 0
+  quants:
   - lat: 54.2
     lon: 20.6

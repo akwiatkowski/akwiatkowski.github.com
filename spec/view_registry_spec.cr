@@ -6,7 +6,7 @@
 # the coordinator can query/execute them.
 #
 require "./spec_helper"
-require "../data/src/view_registry/all"
+require "../crystal/src/view_registry/all"
 
 describe ViewRegistry do
   describe "#task" do

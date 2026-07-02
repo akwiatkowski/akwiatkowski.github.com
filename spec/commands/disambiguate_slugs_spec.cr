@@ -1,5 +1,5 @@
 require "../spec_helper"
-require "../../data/src/services/area_matcher/area"
+require "../../crystal/src/services/area_matcher/area"
 
 TERC_TYPE_LABELS = {
   '1' => "miejska",

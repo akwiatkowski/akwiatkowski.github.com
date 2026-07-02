@@ -1,6 +1,6 @@
-require "../data/src/tremolite/tremolite"
-require "../data/src/blog"
-require "../data/src/commands/pipeline/gpx_to_route"
+require "../crystal/src/tremolite/tremolite"
+require "../crystal/src/blog"
+require "../crystal/src/commands/pipeline/gpx_to_route"
 
 # Usage: crystal run commands/gpx_to_route.cr -- <input.gpx> <output-slug> [env]
 # Produces env/<env>/data/routes/<output-slug>.json (compacted + private-stripped).

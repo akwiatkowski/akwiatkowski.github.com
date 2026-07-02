@@ -1,5 +1,5 @@
-require "../data/src/services/map/downloader"
-require "../data/src/commands/tools/fetch_map_tiles"
+require "../crystal/src/services/map/downloader"
+require "../crystal/src/commands/tools/fetch_map_tiles"
 
 zooms = [15]
 overwrite = ARGV.includes?("--overwrite") || ARGV.includes?("-f")

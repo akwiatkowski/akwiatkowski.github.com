@@ -1,7 +1,7 @@
 require "spec"
 
-require "../data/src/tremolite/tremolite"
-require "../data/src/blog"
+require "../crystal/src/tremolite/tremolite"
+require "../crystal/src/blog"
 
 # Test support files
 require "./support/all"

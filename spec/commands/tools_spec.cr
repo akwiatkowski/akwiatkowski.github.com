@@ -1,6 +1,6 @@
 require "../spec_helper"
-require "../../data/src/commands/tools/list_missing_routes"
-require "../../data/src/commands/tools/fetch_map_tiles"
+require "../../crystal/src/commands/tools/list_missing_routes"
+require "../../crystal/src/commands/tools/fetch_map_tiles"
 
 describe Commands::Tools::ListMissingRoutes do
   it "can be instantiated with default env" do

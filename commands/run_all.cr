@@ -2,10 +2,10 @@ require "json"
 require "yaml"
 require "file_utils"
 require "log"
-require "../data/src/tremolite/tremolite"
-require "../data/src/blog"
-require "../data/src/services/area_matcher/all"
-require "../data/src/commands/pipeline/all"
+require "../crystal/src/tremolite/tremolite"
+require "../crystal/src/blog"
+require "../crystal/src/services/area_matcher/all"
+require "../crystal/src/commands/pipeline/all"
 
 # Run all pipeline commands in order with a shared AreaMatcher::Matcher.
 # This avoids loading ~90MB polygon data 3 times.

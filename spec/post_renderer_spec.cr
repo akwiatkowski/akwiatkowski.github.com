@@ -1,5 +1,5 @@
 require "./spec_helper"
-require "../data/src/commands/base"
+require "../crystal/src/commands/base"
 
 describe PostRenderer do
   # Use a shared blog instance for all tests (expensive to create)

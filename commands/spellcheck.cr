@@ -1,5 +1,5 @@
 require "log"
-require "../data/src/commands/tools/spellcheck"
+require "../crystal/src/commands/tools/spellcheck"
 
 Log.setup_from_env
 

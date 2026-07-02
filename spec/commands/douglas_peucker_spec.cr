@@ -3,8 +3,8 @@ require "json"
 require "yaml"
 require "file_utils"
 require "log"
-require "../../data/src/services/area_matcher/all"
-require "../../data/src/commands/pipeline/generate_polygon_json"
+require "../../crystal/src/services/area_matcher/all"
+require "../../crystal/src/commands/pipeline/generate_polygon_json"
 
 describe DouglasPeucker do
   describe ".simplify" do
