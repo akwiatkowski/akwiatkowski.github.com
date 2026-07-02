@@ -1,5 +1,5 @@
-require "./models/poi_entity"
-require "./models/photo_entity"
+require "./model/poi_entity"
+require "./model/photo_entity"
 
 require "./post/helpers"
 require "./post/accessors"

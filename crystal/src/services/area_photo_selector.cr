@@ -1,5 +1,5 @@
-require "../models/area_entity"
-require "../models/photo_entity"
+require "../model/area_entity"
+require "../model/photo_entity"
 
 # Selects the best photo for an area based on bbox intersection and PhotoTags scoring
 # Falls back to closest photo if none found within bbox

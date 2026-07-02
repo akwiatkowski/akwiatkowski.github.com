@@ -1,7 +1,7 @@
 require "yaml"
 
-require "../../models/photo_entity"
-require "../../models/coord_range"
+require "../../model/photo_entity"
+require "../../model/coord_range"
 
 require "./main"
 

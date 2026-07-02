@@ -1,4 +1,4 @@
-require "./models/all"
+require "./model/all"
 
 require "./services/nav_stats_cache"
 require "./services/exif_processor"

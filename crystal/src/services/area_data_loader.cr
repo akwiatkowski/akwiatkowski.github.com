@@ -1,7 +1,7 @@
 require "yaml"
-require "../models/area_type"
-require "../models/area_entity"
-require "../models/area_association"
+require "../model/area_type"
+require "../model/area_entity"
+require "../model/area_association"
 
 # Loads area data from:
 # 1. data/config/areas/*.yml - area entity definitions (generated from data/external/)

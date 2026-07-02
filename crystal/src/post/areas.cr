@@ -1,6 +1,6 @@
-require "../models/area_type"
-require "../models/area_entity"
-require "../models/area_association"
+require "../model/area_type"
+require "../model/area_entity"
+require "../model/area_association"
 require "../services/area_data_loader"
 
 # Area-related extensions for Post class

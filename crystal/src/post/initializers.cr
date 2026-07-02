@@ -1,4 +1,4 @@
-require "./../models/post_route_object"
+require "./../model/post_route_object"
 
 class Tremolite::Post
   @coords_file : String?
