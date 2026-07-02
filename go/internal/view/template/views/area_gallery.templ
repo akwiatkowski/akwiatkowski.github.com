@@ -1,0 +1,9 @@
+package views
+
+import "odkrywajac/internal/view/template/components"
+
+templ AreaGalleryContent(photos []components.PhotoCardData) {
+	<div class="gallery-container">
+		@components.PhotoGrid(photos, 3)
+	</div>
+}

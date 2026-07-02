@@ -9,7 +9,7 @@ import (
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
-	"odkrywajac/internal/templates/views"
+	"odkrywajac/internal/view/template/views"
 )
 
 func testSiteDataForBurnout() *index.SiteData {

@@ -9,8 +9,8 @@ import (
 
 	"github.com/a-h/templ"
 
-	"odkrywajac/internal/templates/components"
-	"odkrywajac/internal/templates/layout"
+	"odkrywajac/internal/view/template/components"
+	"odkrywajac/internal/view/template/layout"
 )
 
 // Renderable is implemented by everything that produces output.

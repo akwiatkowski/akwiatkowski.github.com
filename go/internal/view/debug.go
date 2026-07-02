@@ -4,8 +4,8 @@ import (
 	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/index"
 	"odkrywajac/internal/service/router"
-	"odkrywajac/internal/templates/layout"
-	"odkrywajac/internal/templates/views"
+	"odkrywajac/internal/view/template/layout"
+	"odkrywajac/internal/view/template/views"
 )
 
 // TagStatsPage creates a Renderable for the debug tag stats page.

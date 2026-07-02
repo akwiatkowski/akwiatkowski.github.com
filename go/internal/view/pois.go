@@ -10,8 +10,8 @@ import (
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/spatial"
-	"odkrywajac/internal/templates/layout"
-	"odkrywajac/internal/templates/views"
+	"odkrywajac/internal/view/template/layout"
+	"odkrywajac/internal/view/template/views"
 )
 
 const (

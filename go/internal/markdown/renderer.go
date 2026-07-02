@@ -15,7 +15,7 @@ import (
 	"github.com/yuin/goldmark/util"
 
 	"odkrywajac/internal/model"
-	"odkrywajac/internal/templates/components"
+	"odkrywajac/internal/view/template/components"
 )
 
 // PostLookup provides post resolution for {% post_url %} directives.
