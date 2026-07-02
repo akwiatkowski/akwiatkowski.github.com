@@ -35,7 +35,7 @@ func (n *CopyAssetsNode) Run(ctx *pipeline.Context) error {
 	dstDir := ctx.OutputDir()
 
 	// Copy assets from the single shared source (data/assets/). The former
-	// go-rewrite/assets overlay was merged into data/assets — one source now.
+	// data/assets overlay was merged into data/assets — one source now.
 	copied, skipped, err := copyAssetsDir(ctx.AssetsDir(), dstDir)
 	if err != nil {
 		return fmt.Errorf("copy assets: %w", err)

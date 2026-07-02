@@ -107,7 +107,7 @@ func (c *Context) PagesDir() string {
 }
 
 // AssetsDir returns the path to static asset source files. This is the single
-// shared source for both engines (the former go-rewrite/assets overlay was
+// shared source for both engines (the former data/assets overlay was
 // merged in).
 func (c *Context) AssetsDir() string {
 	return filepath.Join(c.BasePath, "data", "assets")

@@ -11,7 +11,7 @@ import (
 func testConfigPath(t *testing.T) string {
 	t.Helper()
 	// Find the project config
-	// Walk up to find go-rewrite/config/asset_bundles.yml
+	// Walk up to find data/config/asset_bundles.yml
 	dir, err := os.Getwd()
 	if err != nil {
 		t.Fatal(err)

@@ -31,8 +31,8 @@ PUBLIC := env/$(ENV)/public/$(TARGET)
 render: render-$(ENGINE)  ## Render with $(ENGINE) into env/$(ENV)/public/$(TARGET)
 
 render-go:
-	$(MAKE) -C go-rewrite build
-	go-rewrite/bin/odkrywajac build --base . --env $(ENV) --target $(TARGET)
+	$(MAKE) -C go build
+	go/bin/odkrywajac build --base . --env $(ENV) --target $(TARGET)
 
 render-crystal:
 	mise exec -- crystal env/$(ENV)/src/render_$(TARGET).cr
@@ -52,13 +52,13 @@ serve:  ## Serve env/$(ENV)/public/$(TARGET) on $(PORT)
 test: test-$(ENGINE)  ## Unit tests for $(ENGINE)
 
 test-go:
-	$(MAKE) -C go-rewrite test
+	$(MAKE) -C go test
 
 test-crystal:
 	mise exec -- crystal spec
 
 lint:  ## Lint the Go engine
-	$(MAKE) -C go-rewrite lint
+	$(MAKE) -C go lint
 
 test-e2e:  ## Playwright e2e (needs a server on the test port)
 	cd tests/e2e && npx playwright test

@@ -10,7 +10,7 @@ import (
 // Tests use actual project config files for integration testing.
 func configDir(t *testing.T) string {
 	t.Helper()
-	// Walk up from go-rewrite/internal/loader/ to project root
+	// Walk up from go/internal/loader/ to project root
 	dir, err := os.Getwd()
 	if err != nil {
 		t.Fatal(err)

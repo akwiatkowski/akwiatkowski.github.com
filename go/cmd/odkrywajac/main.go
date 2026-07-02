@@ -156,7 +156,7 @@ func runBuild(ctx *pipeline.Context) {
 	})
 
 	pipe.Add("loadBundles", nil, func(ctx *pipeline.Context) error {
-		// Single source of truth shared with Crystal (was a go-rewrite/config fork).
+		// Single source of truth shared with Crystal (was a data/config fork).
 		bundlePath := filepath.Join(ctx.ConfigDir(), "asset_bundles.yml")
 		var err error
 		resolver, err = bundle.NewResolver(bundlePath)

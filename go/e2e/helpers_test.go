@@ -21,10 +21,10 @@ type testServer struct {
 	browser *rod.Browser
 }
 
-// projectRoot returns the absolute path to the project root (go-rewrite/..).
+// projectRoot returns the absolute path to the project root (go/..).
 func projectRoot() string {
 	_, file, _, _ := runtime.Caller(0)
-	// file is go-rewrite/e2e/helpers_test.go → go up 2 levels
+	// file is go/e2e/helpers_test.go → go up 2 levels
 	return filepath.Dir(filepath.Dir(filepath.Dir(file)))
 }
 
