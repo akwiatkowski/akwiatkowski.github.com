@@ -7,7 +7,7 @@ type YearReportData struct {
 	Year          int
 	AllYears      []int
 	PostCount     int
-	TotalDistance  int
+	TotalDistance int
 	TotalTime     int
 	BicycleCount  int
 	HikeCount     int
@@ -31,7 +31,7 @@ type YearReportData struct {
 	IsPostRecordYear bool
 
 	PrevYearDistance int
-	PrevYearTime    int
+	PrevYearTime     int
 
 	PhotoOfYearURL     string
 	PhotoOfYearAVIF    string
@@ -58,12 +58,12 @@ type YearPostEntry struct {
 
 // MonthStats holds aggregated stats for one month in a year report.
 type MonthStats struct {
-	Month          int
-	Distance       float64
+	Month           int
+	Distance        float64
 	BicycleDistance float64
 	HikeDistance    float64
-	TimeSpent      float64
-	PostCount      int
+	TimeSpent       float64
+	PostCount       int
 }
 
 // TagCount holds a tag name and its post count.
@@ -106,9 +106,9 @@ type BurnoutMonth struct {
 
 // BurnoutData holds all data for the burnout stats page.
 type BurnoutData struct {
-	Months     []BurnoutMonth
+	Months      []BurnoutMonth
 	MaxDistance int
-	MaxTime    int
+	MaxTime     int
 }
 
 // TownsHistoryGroup holds towns for one voivodeship.
@@ -164,15 +164,15 @@ type GalleryIndexLink struct {
 
 // POIEntry holds a single POI for the POIs page JSON.
 type POIEntry struct {
-	Name     string  `json:"name"`
-	Lat      float64 `json:"lat"`
-	Lon      float64 `json:"lon"`
-	Type     string  `json:"type"`
-	PhotoURL string  `json:"photo_url,omitempty"`
-	PhotoAVIF string `json:"photo_url_avif,omitempty"`
-	PostTitle string `json:"post_title,omitempty"`
-	PostURL   string `json:"post_url,omitempty"`
-	PhotoDesc string `json:"photo_desc,omitempty"`
+	Name      string  `json:"name"`
+	Lat       float64 `json:"lat"`
+	Lon       float64 `json:"lon"`
+	Type      string  `json:"type"`
+	PhotoURL  string  `json:"photo_url,omitempty"`
+	PhotoAVIF string  `json:"photo_url_avif,omitempty"`
+	PostTitle string  `json:"post_title,omitempty"`
+	PostURL   string  `json:"post_url,omitempty"`
+	PhotoDesc string  `json:"photo_desc,omitempty"`
 }
 
 // DebugTagStatsRow holds one row in the tag stats debug page.

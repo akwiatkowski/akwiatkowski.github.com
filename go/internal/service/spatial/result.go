@@ -28,11 +28,11 @@ type SegmentResult struct {
 
 // AreaDistance records how much of a route passes through an area.
 type AreaDistance struct {
-	Slug           string
-	Name           string
-	Code           string
-	DistanceM      float64 // meters
-	DistanceKm     float64 // kilometers (rounded to 3 decimal places)
+	Slug            string
+	Name            string
+	Code            string
+	DistanceM       float64 // meters
+	DistanceKm      float64 // kilometers (rounded to 3 decimal places)
 	DistancePercent float64 // percentage of segment total
 }
 

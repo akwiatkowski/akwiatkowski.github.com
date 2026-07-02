@@ -101,12 +101,12 @@ func TestFormatLensSpec(t *testing.T) {
 		want                                           string
 	}{
 		{12, 100, 4.0, 4.0, "12-100mm f/4.0"},       // constant aperture zoom
-		{28, 75, 2.8, 2.8, "28-75mm f/2.8"},          // constant aperture zoom
-		{50, 50, 1.8, 1.8, "50mm f/1.8"},             // prime lens
-		{18, 55, 3.5, 5.6, "18-55mm f/3.5-5.6"},      // variable aperture zoom
-		{100, 400, 4.5, 6.3, "100-400mm f/4.5-6.3"},   // variable aperture tele
-		{50, 0, 1.4, 0, "50mm f/1.4"},                 // prime, max focal = 0
-		{0, 0, 0, 0, ""},                              // no data
+		{28, 75, 2.8, 2.8, "28-75mm f/2.8"},         // constant aperture zoom
+		{50, 50, 1.8, 1.8, "50mm f/1.8"},            // prime lens
+		{18, 55, 3.5, 5.6, "18-55mm f/3.5-5.6"},     // variable aperture zoom
+		{100, 400, 4.5, 6.3, "100-400mm f/4.5-6.3"}, // variable aperture tele
+		{50, 0, 1.4, 0, "50mm f/1.4"},               // prime, max focal = 0
+		{0, 0, 0, 0, ""},                            // no data
 	}
 	for _, tt := range tests {
 		got := formatLensSpec(tt.minFocal, tt.maxFocal, tt.minFStopWide, tt.minFStopTele)
@@ -173,10 +173,10 @@ func TestKnownCropFactor(t *testing.T) {
 		{"ILCE-7M3", 1.0, true},
 		{"PENTAX K-5", 1.5, true},
 		// Prefix-based fallbacks
-		{"E-M5MarkIII", 2.0, true},  // Olympus prefix
-		{"OM-5", 2.0, true},         // OM System prefix
-		{"ILCE-6400", 1.0, true},    // Sony prefix (assumes full frame)
-		{"PENTAX K-3", 1.5, true},   // Pentax prefix
+		{"E-M5MarkIII", 2.0, true}, // Olympus prefix
+		{"OM-5", 2.0, true},        // OM System prefix
+		{"ILCE-6400", 1.0, true},   // Sony prefix (assumes full frame)
+		{"PENTAX K-3", 1.5, true},  // Pentax prefix
 		// Unknown cameras
 		{"Nikon Z5", 0, false},
 		{"", 0, false},

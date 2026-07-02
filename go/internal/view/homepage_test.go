@@ -87,11 +87,11 @@ func TestHomepageJSONRender(t *testing.T) {
 		`"voivodeships"`,
 		`"meso_regions"`,
 		`"macro_regions"`,
-		`"pobiedziska"`,  // town slug in post towns
-		`"Rowerem"`,      // tag name
+		`"pobiedziska"`,                  // town slug in post towns
+		`"Rowerem"`,                      // tag name
 		`"/wpisy-dla/tagu/rowerem.html"`, // tag URL
-		`"distance_km"`,  // renamed from distance
-		`"time"`,         // RFC3339 timestamp
+		`"distance_km"`,                  // renamed from distance
+		`"time"`,                         // RFC3339 timestamp
 	}
 
 	for _, check := range checks {

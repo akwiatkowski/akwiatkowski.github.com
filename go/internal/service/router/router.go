@@ -153,23 +153,23 @@ func (r *Router) ProcessedImageURL(post *model.Post, filename, size, format stri
 // Static Page URLs
 // ============================================
 
-func (r *Router) HomeURL() string           { return "/" }
-func (r *Router) MapURL() string            { return "/mapa_tras.html" }
-func (r *Router) PhotoMapURL() string       { return "/mapa_zdjec.html" }
-func (r *Router) AboutURL() string          { return "/o-mnie.html" }
-func (r *Router) EnglishURL() string        { return "/en/index.html" }
-func (r *Router) MoreURL() string           { return "/wiecej.html" }
-func (r *Router) GalleryURL() string        { return "/galeria.html" }
-func (r *Router) PortfolioURL() string      { return "/portfolio.html" }
-func (r *Router) BurnoutURL() string        { return "/debug/burnout.html" }
-func (r *Router) TownsHistoryURL() string   { return "/gminy/historia.html" }
-func (r *Router) TownsTimelineURL() string  { return "/gminy/chronologicznie.html" }
-func (r *Router) GalleryIndexURL() string   { return "/galeria.html" }
-func (r *Router) POIsURL() string           { return "/pois.html" }
-func (r *Router) TimelineURL() string       { return "/linia_czasu.html" }
-func (r *Router) ExifStatsURL() string      { return "/statystyki_exif.html" }
-func (r *Router) PhotoPlannerURL() string   { return "/pomysly_dla_zdjec.html" }
-func (r *Router) TripIdeasURL() string      { return "/pomysly_tras.html" }
+func (r *Router) HomeURL() string          { return "/" }
+func (r *Router) MapURL() string           { return "/mapa_tras.html" }
+func (r *Router) PhotoMapURL() string      { return "/mapa_zdjec.html" }
+func (r *Router) AboutURL() string         { return "/o-mnie.html" }
+func (r *Router) EnglishURL() string       { return "/en/index.html" }
+func (r *Router) MoreURL() string          { return "/wiecej.html" }
+func (r *Router) GalleryURL() string       { return "/galeria.html" }
+func (r *Router) PortfolioURL() string     { return "/portfolio.html" }
+func (r *Router) BurnoutURL() string       { return "/debug/burnout.html" }
+func (r *Router) TownsHistoryURL() string  { return "/gminy/historia.html" }
+func (r *Router) TownsTimelineURL() string { return "/gminy/chronologicznie.html" }
+func (r *Router) GalleryIndexURL() string  { return "/galeria.html" }
+func (r *Router) POIsURL() string          { return "/pois.html" }
+func (r *Router) TimelineURL() string      { return "/linia_czasu.html" }
+func (r *Router) ExifStatsURL() string     { return "/statystyki_exif.html" }
+func (r *Router) PhotoPlannerURL() string  { return "/pomysly_dla_zdjec.html" }
+func (r *Router) TripIdeasURL() string     { return "/pomysly_tras.html" }
 
 // YearReportURL returns the year report URL: /rok/<year>.html
 func (r *Router) YearReportURL(year int) string {
@@ -203,12 +203,12 @@ func (r *Router) PhotosJSON() string        { return "/jsons/photos.json" }
 // Index Page URLs
 // ============================================
 
-func (r *Router) TagsIndexURL() string          { return "/tagi.html" }
-func (r *Router) TownsIndexURL() string         { return "/gminy.html" }
-func (r *Router) VoivodeshipsIndexURL() string  { return "/wojewodztwa.html" }
-func (r *Router) LandsIndexURL() string         { return "/krainy.html" }
-func (r *Router) MesoRegionsIndexURL() string   { return "/regiony.html" }
-func (r *Router) MacroRegionsIndexURL() string  { return "/obszary.html" }
+func (r *Router) TagsIndexURL() string         { return "/tagi.html" }
+func (r *Router) TownsIndexURL() string        { return "/gminy.html" }
+func (r *Router) VoivodeshipsIndexURL() string { return "/wojewodztwa.html" }
+func (r *Router) LandsIndexURL() string        { return "/krainy.html" }
+func (r *Router) MesoRegionsIndexURL() string  { return "/regiony.html" }
+func (r *Router) MacroRegionsIndexURL() string { return "/obszary.html" }
 
 // ============================================
 // Canonical URL (full URL with base)

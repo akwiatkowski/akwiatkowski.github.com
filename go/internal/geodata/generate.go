@@ -69,15 +69,15 @@ type areaCacheEntry struct {
 // areaCacheSegment represents one route segment from areas_for_post/*.yml.
 // It contains area lists (primary and touched) for each area type.
 type areaCacheSegment struct {
-	Towns              []areaCacheEntry `yaml:"towns"`
-	Counties           []areaCacheEntry `yaml:"counties"`
-	Voivodeships       []areaCacheEntry `yaml:"voivodeships"`
-	MesoRegions        []areaCacheEntry `yaml:"meso_regions"`
-	MacroRegions       []areaCacheEntry `yaml:"macro_regions"`
-	TouchedTowns       []areaCacheEntry `yaml:"touched_towns"`
-	TouchedCounties    []areaCacheEntry `yaml:"touched_counties"`
+	Towns               []areaCacheEntry `yaml:"towns"`
+	Counties            []areaCacheEntry `yaml:"counties"`
+	Voivodeships        []areaCacheEntry `yaml:"voivodeships"`
+	MesoRegions         []areaCacheEntry `yaml:"meso_regions"`
+	MacroRegions        []areaCacheEntry `yaml:"macro_regions"`
+	TouchedTowns        []areaCacheEntry `yaml:"touched_towns"`
+	TouchedCounties     []areaCacheEntry `yaml:"touched_counties"`
 	TouchedVoivodeships []areaCacheEntry `yaml:"touched_voivodeships"`
-	TouchedMesoRegions []areaCacheEntry `yaml:"touched_meso_regions"`
+	TouchedMesoRegions  []areaCacheEntry `yaml:"touched_meso_regions"`
 	TouchedMacroRegions []areaCacheEntry `yaml:"touched_macro_regions"`
 }
 
@@ -322,7 +322,7 @@ type geoJSONProperties struct {
 
 // geoJSONGeometry is a GeoJSON Polygon geometry.
 type geoJSONGeometry struct {
-	Type        string        `json:"type"`
+	Type        string         `json:"type"`
 	Coordinates [][][2]float64 `json:"coordinates"`
 }
 

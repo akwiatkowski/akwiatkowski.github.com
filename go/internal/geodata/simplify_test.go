@@ -102,8 +102,8 @@ func TestSimplify_SquarePreserved(t *testing.T) {
 func TestPerpendicularDistance(t *testing.T) {
 	// Point directly above the midpoint of a horizontal line
 	dist := perpendicularDistance(
-		[]float64{5, 3}, // point
-		[]float64{0, 0}, // line start
+		[]float64{5, 3},  // point
+		[]float64{0, 0},  // line start
 		[]float64{10, 0}, // line end
 	)
 	if math.Abs(dist-3.0) > 1e-10 {

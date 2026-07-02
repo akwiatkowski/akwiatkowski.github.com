@@ -14,12 +14,12 @@ import (
 func testSiteData() *catalog.SiteData {
 	posts := []*model.Post{
 		{
-			Slug:      "2021-07-18-pagorki",
-			Title:     "Pagórki przed żniwami",
-			Date:      time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
-			TagSlugs:  []string{"bicycle"},
-			TownSlugs: []string{"pobiedziska"},
-			Distance:  42.0,
+			Slug:       "2021-07-18-pagorki",
+			Title:      "Pagórki przed żniwami",
+			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
+			TagSlugs:   []string{"bicycle"},
+			TownSlugs:  []string{"pobiedziska"},
+			Distance:   42.0,
 			FinishedAt: func() *time.Time { t := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC); return &t }(),
 		},
 	}
@@ -184,7 +184,7 @@ func TestGenerateAllViews(t *testing.T) {
 	expectedURLs := []string{
 		"/index.html",                      // homepage
 		"/2021/07/18-pagorki.html",         // post article
-		"/galeria/2021/07/18-pagorki.html",    // post gallery
+		"/galeria/2021/07/18-pagorki.html", // post gallery
 		"/gmina/pobiedziska.html",          // area show
 		"/wpisy-dla/tagu/rowerem.html",     // tag post list
 		"/jsons/homepage.json",             // homepage JSON

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sort"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -55,7 +55,7 @@ func PortfolioPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJSFiles:       []string{"/js/self/portfolio.js"},
+		PageJSFiles:  []string{"/js/self/portfolio.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, rtr, data.TagBySlug),
 	}
 
@@ -138,18 +138,18 @@ func buildPortfolioJSON(data *catalog.SiteData, r *router.Router, photos []*mode
 	}
 
 	type photoEntry struct {
-		Src        string   `json:"src"`
-		SrcAVIF    string   `json:"src_avif"`
-		GridSrc    string   `json:"grid_src"`
-		GridAVIF   string   `json:"grid_src_avif"`
-		FullSrc    string   `json:"full_src"`
-		FullAVIF   string   `json:"full_src_avif"`
-		Alt        string   `json:"alt"`
-		PostURL    string   `json:"post_url"`
-		PostTitle  string   `json:"post_title"`
-		Points     int      `json:"points"`
-		Tags       []string `json:"tags"`
-		Exif       exifData `json:"exif"`
+		Src       string   `json:"src"`
+		SrcAVIF   string   `json:"src_avif"`
+		GridSrc   string   `json:"grid_src"`
+		GridAVIF  string   `json:"grid_src_avif"`
+		FullSrc   string   `json:"full_src"`
+		FullAVIF  string   `json:"full_src_avif"`
+		Alt       string   `json:"alt"`
+		PostURL   string   `json:"post_url"`
+		PostTitle string   `json:"post_title"`
+		Points    int      `json:"points"`
+		Tags      []string `json:"tags"`
+		Exif      exifData `json:"exif"`
 	}
 
 	type portfolioJSON struct {

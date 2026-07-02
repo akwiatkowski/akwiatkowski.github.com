@@ -23,7 +23,7 @@ func triangleAreas() map[string][]ExternalArea {
 				},
 			},
 		},
-		"counties":     {},
+		"counties":      {},
 		"voivodeships":  {},
 		"meso_regions":  {},
 		"macro_regions": {},

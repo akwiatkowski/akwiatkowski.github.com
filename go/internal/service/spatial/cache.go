@@ -13,29 +13,29 @@ import (
 // cacheSegment is the YAML structure for one route segment in areas_for_post/*.yml.
 // It matches the Crystal-generated format for backward compatibility.
 type cacheSegment struct {
-	Type           string             `yaml:"type"`
-	TotalDistanceM float64           `yaml:"total_distance_meters"`
-	TotalDistanceKm float64          `yaml:"total_distance_km"`
-	PointsCount    float64           `yaml:"points_count"` // Crystal writes as float
-	Towns          []cacheAreaDist   `yaml:"towns,omitempty"`
-	Counties       []cacheAreaDist   `yaml:"counties,omitempty"`
-	Voivodeships   []cacheAreaDist   `yaml:"voivodeships,omitempty"`
-	MesoRegions    []cacheAreaDist   `yaml:"meso_regions,omitempty"`
-	MacroRegions   []cacheAreaDist   `yaml:"macro_regions,omitempty"`
-	TouchedTowns       []cacheAreaRef `yaml:"touched_towns,omitempty"`
-	TouchedCounties    []cacheAreaRef `yaml:"touched_counties,omitempty"`
-	TouchedVoivodeships []cacheAreaRef `yaml:"touched_voivodeships,omitempty"`
-	TouchedMesoRegions []cacheAreaRef `yaml:"touched_meso_regions,omitempty"`
-	TouchedMacroRegions []cacheAreaRef `yaml:"touched_macro_regions,omitempty"`
+	Type                string          `yaml:"type"`
+	TotalDistanceM      float64         `yaml:"total_distance_meters"`
+	TotalDistanceKm     float64         `yaml:"total_distance_km"`
+	PointsCount         float64         `yaml:"points_count"` // Crystal writes as float
+	Towns               []cacheAreaDist `yaml:"towns,omitempty"`
+	Counties            []cacheAreaDist `yaml:"counties,omitempty"`
+	Voivodeships        []cacheAreaDist `yaml:"voivodeships,omitempty"`
+	MesoRegions         []cacheAreaDist `yaml:"meso_regions,omitempty"`
+	MacroRegions        []cacheAreaDist `yaml:"macro_regions,omitempty"`
+	TouchedTowns        []cacheAreaRef  `yaml:"touched_towns,omitempty"`
+	TouchedCounties     []cacheAreaRef  `yaml:"touched_counties,omitempty"`
+	TouchedVoivodeships []cacheAreaRef  `yaml:"touched_voivodeships,omitempty"`
+	TouchedMesoRegions  []cacheAreaRef  `yaml:"touched_meso_regions,omitempty"`
+	TouchedMacroRegions []cacheAreaRef  `yaml:"touched_macro_regions,omitempty"`
 }
 
 // cacheAreaDist is the YAML structure for an area with distance info.
 type cacheAreaDist struct {
-	Slug           string  `yaml:"slug"`
-	Name           string  `yaml:"name"`
-	Code           string  `yaml:"code"`
-	DistanceM      float64 `yaml:"distance_meters"`
-	DistanceKm     float64 `yaml:"distance_km"`
+	Slug            string  `yaml:"slug"`
+	Name            string  `yaml:"name"`
+	Code            string  `yaml:"code"`
+	DistanceM       float64 `yaml:"distance_meters"`
+	DistanceKm      float64 `yaml:"distance_km"`
 	DistancePercent float64 `yaml:"distance_percent"`
 }
 
@@ -56,19 +56,19 @@ func WriteRouteCoverage(cacheDir, postSlug string, result *RouteResult) error {
 	segments := make([]cacheSegment, 0, len(result.Segments))
 	for _, seg := range result.Segments {
 		cs := cacheSegment{
-			Type:            seg.Type,
-			TotalDistanceM:  roundM(seg.TotalDistanceM),
-			TotalDistanceKm: roundKm(seg.TotalDistanceM),
-			PointsCount:     float64(seg.PointsCount),
-			Towns:           toAreaDists(seg.Towns),
-			Counties:        toAreaDists(seg.Counties),
-			Voivodeships:    toAreaDists(seg.Voivodeships),
-			MesoRegions:     toAreaDists(seg.MesoRegions),
-			MacroRegions:    toAreaDists(seg.MacroRegions),
-			TouchedTowns:       toAreaRefs(seg.TouchedTowns),
-			TouchedCounties:    toAreaRefs(seg.TouchedCounties),
+			Type:                seg.Type,
+			TotalDistanceM:      roundM(seg.TotalDistanceM),
+			TotalDistanceKm:     roundKm(seg.TotalDistanceM),
+			PointsCount:         float64(seg.PointsCount),
+			Towns:               toAreaDists(seg.Towns),
+			Counties:            toAreaDists(seg.Counties),
+			Voivodeships:        toAreaDists(seg.Voivodeships),
+			MesoRegions:         toAreaDists(seg.MesoRegions),
+			MacroRegions:        toAreaDists(seg.MacroRegions),
+			TouchedTowns:        toAreaRefs(seg.TouchedTowns),
+			TouchedCounties:     toAreaRefs(seg.TouchedCounties),
 			TouchedVoivodeships: toAreaRefs(seg.TouchedVoivodeships),
-			TouchedMesoRegions: toAreaRefs(seg.TouchedMesoRegions),
+			TouchedMesoRegions:  toAreaRefs(seg.TouchedMesoRegions),
 			TouchedMacroRegions: toAreaRefs(seg.TouchedMacroRegions),
 		}
 		segments = append(segments, cs)

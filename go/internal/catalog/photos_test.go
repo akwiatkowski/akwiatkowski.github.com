@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/exif"
 
 	"gopkg.in/yaml.v3"
 )

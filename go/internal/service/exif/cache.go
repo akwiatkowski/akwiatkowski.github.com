@@ -39,9 +39,9 @@ var cameraNames = map[string]string{
 // lensNames maps raw EXIF lens model strings to human-readable names.
 // Matches Crystal's ExifEntity::LENS_NAMES.
 var lensNames = map[string]string{
-	"FE 85mm F1.8":                                  "Sony 85mm f1.8",
-	"E 28-75mm F2.8-2.8":                            "Tamron 28-75mm f2.8",
-	"E 70-180mm F2.8 A056":                          "Tamron 70-180mm f2.8",
+	"FE 85mm F1.8":         "Sony 85mm f1.8",
+	"E 28-75mm F2.8-2.8":   "Tamron 28-75mm f2.8",
+	"E 70-180mm F2.8 A056": "Tamron 70-180mm f2.8",
 	"100-400mm F5-6.3 DG DN OS | Contemporary 020":  "Sigma 100-400mm f5-6.3",
 	"LUMIX G VARIO 14-140/F3.5-5.6":                 "Lumix 14-140mm",
 	"OLYMPUS M.12-100mm F4.0":                       "Olympus 12-100mm f4",
@@ -292,33 +292,33 @@ func ListImagePaths(dir string) []string {
 
 // cacheEntry is the YAML-serializable form of EXIF data with image metadata.
 type cacheEntry struct {
-	ImageFilename  string   `yaml:"image_filename"`
-	PostSlug       string   `yaml:"post_slug"`
-	Lat            *float64 `yaml:"lat,omitempty"`
-	Lon            *float64 `yaml:"lon,omitempty"`
-	Altitude       *float64 `yaml:"altitude,omitempty"`
-	FocalLength    *float64 `yaml:"focal_length,omitempty"`
-	FocalLength35  *float64 `yaml:"focal_length_35,omitempty"`
-	Crop           *float64 `yaml:"crop,omitempty"`
-	Aperture       *float64 `yaml:"aperture,omitempty"`
+	ImageFilename   string   `yaml:"image_filename"`
+	PostSlug        string   `yaml:"post_slug"`
+	Lat             *float64 `yaml:"lat,omitempty"`
+	Lon             *float64 `yaml:"lon,omitempty"`
+	Altitude        *float64 `yaml:"altitude,omitempty"`
+	FocalLength     *float64 `yaml:"focal_length,omitempty"`
+	FocalLength35   *float64 `yaml:"focal_length_35,omitempty"`
+	Crop            *float64 `yaml:"crop,omitempty"`
+	Aperture        *float64 `yaml:"aperture,omitempty"`
 	FocusDistance   *float64 `yaml:"focus_distance,omitempty"`
-	Exposure       *float64 `yaml:"exposure,omitempty"`
-	ExposureString string   `yaml:"exposure_string,omitempty"`
-	ISO            *int     `yaml:"iso,omitempty"`
-	Width          *int     `yaml:"width,omitempty"`
-	Height         *int     `yaml:"height,omitempty"`
-	Lens           string   `yaml:"lens,omitempty"`
-	Camera         string   `yaml:"camera,omitempty"`
-	LensName       string   `yaml:"lens_name,omitempty"`
-	CameraName     string   `yaml:"camera_name,omitempty"`
-	Time           string   `yaml:"time,omitempty"` // RFC3339
-	Make           string   `yaml:"make,omitempty"`
-	WhiteBalance   string   `yaml:"white_balance,omitempty"`
-	MeteringMode   string   `yaml:"metering_mode,omitempty"`
-	Flash          string   `yaml:"flash,omitempty"`
-	Orientation    int      `yaml:"orientation,omitempty"`
-	ColorSpace     string   `yaml:"color_space,omitempty"`
-	Software       string   `yaml:"software,omitempty"`
+	Exposure        *float64 `yaml:"exposure,omitempty"`
+	ExposureString  string   `yaml:"exposure_string,omitempty"`
+	ISO             *int     `yaml:"iso,omitempty"`
+	Width           *int     `yaml:"width,omitempty"`
+	Height          *int     `yaml:"height,omitempty"`
+	Lens            string   `yaml:"lens,omitempty"`
+	Camera          string   `yaml:"camera,omitempty"`
+	LensName        string   `yaml:"lens_name,omitempty"`
+	CameraName      string   `yaml:"camera_name,omitempty"`
+	Time            string   `yaml:"time,omitempty"` // RFC3339
+	Make            string   `yaml:"make,omitempty"`
+	WhiteBalance    string   `yaml:"white_balance,omitempty"`
+	MeteringMode    string   `yaml:"metering_mode,omitempty"`
+	Flash           string   `yaml:"flash,omitempty"`
+	Orientation     int      `yaml:"orientation,omitempty"`
+	ColorSpace      string   `yaml:"color_space,omitempty"`
+	Software        string   `yaml:"software,omitempty"`
 	GPSSpeed        *float64 `yaml:"gps_speed,omitempty"`
 	GPSBearing      *float64 `yaml:"gps_bearing,omitempty"`
 	TimezoneOffset  string   `yaml:"timezone_offset,omitempty"`
@@ -334,32 +334,32 @@ type cacheEntry struct {
 
 func cacheEntryFromExif(imageFilename, postSlug string, d *model.ExifData) cacheEntry {
 	e := cacheEntry{
-		ImageFilename:  imageFilename,
-		PostSlug:       postSlug,
-		Lat:            d.Lat,
-		Lon:            d.Lon,
-		Altitude:       d.Altitude,
-		FocalLength:    d.FocalLength,
-		FocalLength35:  d.FocalLength35,
-		Crop:           d.Crop,
-		Aperture:       d.Aperture,
+		ImageFilename:   imageFilename,
+		PostSlug:        postSlug,
+		Lat:             d.Lat,
+		Lon:             d.Lon,
+		Altitude:        d.Altitude,
+		FocalLength:     d.FocalLength,
+		FocalLength35:   d.FocalLength35,
+		Crop:            d.Crop,
+		Aperture:        d.Aperture,
 		FocusDistance:   d.FocusDistance,
-		Exposure:       d.Exposure,
-		ExposureString: d.ExposureString,
-		ISO:            d.ISO,
-		Width:          d.Width,
-		Height:         d.Height,
-		Lens:           d.Lens,
-		Camera:         d.Camera,
-		LensName:       d.LensName,
-		CameraName:     d.CameraName,
-		Make:           d.Make,
-		WhiteBalance:   d.WhiteBalance,
-		MeteringMode:   d.MeteringMode,
-		Flash:          d.Flash,
-		Orientation:    d.Orientation,
-		ColorSpace:     d.ColorSpace,
-		Software:       d.Software,
+		Exposure:        d.Exposure,
+		ExposureString:  d.ExposureString,
+		ISO:             d.ISO,
+		Width:           d.Width,
+		Height:          d.Height,
+		Lens:            d.Lens,
+		Camera:          d.Camera,
+		LensName:        d.LensName,
+		CameraName:      d.CameraName,
+		Make:            d.Make,
+		WhiteBalance:    d.WhiteBalance,
+		MeteringMode:    d.MeteringMode,
+		Flash:           d.Flash,
+		Orientation:     d.Orientation,
+		ColorSpace:      d.ColorSpace,
+		Software:        d.Software,
 		GPSSpeed:        d.GPSSpeed,
 		GPSBearing:      d.GPSBearing,
 		TimezoneOffset:  d.TimezoneOffset,
@@ -402,30 +402,30 @@ func (e *cacheEntry) toExifData() *model.ExifData {
 	}
 
 	d := &model.ExifData{
-		Lat:            e.Lat,
-		Lon:            e.Lon,
-		Altitude:       e.Altitude,
-		FocalLength:    e.FocalLength,
-		FocalLength35:  e.FocalLength35,
-		Crop:           e.Crop,
-		Aperture:       e.Aperture,
+		Lat:             e.Lat,
+		Lon:             e.Lon,
+		Altitude:        e.Altitude,
+		FocalLength:     e.FocalLength,
+		FocalLength35:   e.FocalLength35,
+		Crop:            e.Crop,
+		Aperture:        e.Aperture,
 		FocusDistance:   e.FocusDistance,
-		Exposure:       e.Exposure,
-		ExposureString: e.ExposureString,
-		ISO:            e.ISO,
-		Width:          e.Width,
-		Height:         e.Height,
-		Lens:           rawLens,
-		Camera:         e.Camera,
-		LensName:       lensName,
-		CameraName:     cameraName,
-		Make:           e.Make,
-		WhiteBalance:   e.WhiteBalance,
-		MeteringMode:   e.MeteringMode,
-		Flash:          e.Flash,
-		Orientation:    e.Orientation,
-		ColorSpace:     e.ColorSpace,
-		Software:       e.Software,
+		Exposure:        e.Exposure,
+		ExposureString:  e.ExposureString,
+		ISO:             e.ISO,
+		Width:           e.Width,
+		Height:          e.Height,
+		Lens:            rawLens,
+		Camera:          e.Camera,
+		LensName:        lensName,
+		CameraName:      cameraName,
+		Make:            e.Make,
+		WhiteBalance:    e.WhiteBalance,
+		MeteringMode:    e.MeteringMode,
+		Flash:           e.Flash,
+		Orientation:     e.Orientation,
+		ColorSpace:      e.ColorSpace,
+		Software:        e.Software,
 		GPSSpeed:        e.GPSSpeed,
 		GPSBearing:      e.GPSBearing,
 		TimezoneOffset:  e.TimezoneOffset,

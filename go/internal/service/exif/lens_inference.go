@@ -77,10 +77,10 @@ var lensInferenceRules = map[string][]lensRule{
 		{minFocal: 70, lens: "smc PENTAX-DA 70mm F2.4 Limited"},
 		{minFocal: 135, lens: "Pentax SMC-A 135/2.8"},
 		// Zooms — order matters for overlapping ranges
-		{minFocal: 10, maxFocal: 14, lens: "Sigma 10-20"},          // 10-14mm: only Sigma 10-20
-		{minFocal: 17, maxFocal: 45, lens: "Sigma 17-50/2.8"},      // 17-50mm: prefer Sigma 17-50 (most used)
+		{minFocal: 10, maxFocal: 14, lens: "Sigma 10-20"},     // 10-14mm: only Sigma 10-20
+		{minFocal: 17, maxFocal: 45, lens: "Sigma 17-50/2.8"}, // 17-50mm: prefer Sigma 17-50 (most used)
 		{minFocal: 150, maxFocal: 500, lens: "Sigma 150-500mm F5-6.3 APO DG OS HSM"},
-		{minFocal: 55, maxFocal: 149, lens: "Sigma 18-200 C"},      // 55-149mm: Sigma 18-200 range
+		{minFocal: 55, maxFocal: 149, lens: "Sigma 18-200 C"}, // 55-149mm: Sigma 18-200 range
 	},
 
 	// Pentax K100D: first camera, limited kit

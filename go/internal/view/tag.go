@@ -3,9 +3,9 @@ package view
 import (
 	"fmt"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"

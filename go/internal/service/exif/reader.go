@@ -489,10 +489,10 @@ func knownCropFactor(cameraModel string) (float64, bool) {
 // Only needed for cameras that don't write FocalLengthIn35mmFilm.
 var cameraCropFactors = map[string]float64{
 	// Micro Four Thirds (crop 2.0)
-	"E-M1MarkII":   2.0,
-	"E-M1MarkIII":  2.0,
-	"E-M10MarkII":  2.0,
-	"OM-1":         2.0,
+	"E-M1MarkII":  2.0,
+	"E-M1MarkIII": 2.0,
+	"E-M10MarkII": 2.0,
+	"OM-1":        2.0,
 	// Full frame (crop 1.0)
 	"ILCE-7M3":  1.0,
 	"ILCE-7R":   1.0,

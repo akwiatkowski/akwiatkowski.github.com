@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -52,7 +52,7 @@ func HomepagePage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJSFiles:       []string{"/js/self/homepage.js"},
+		PageJSFiles:  []string{"/js/self/homepage.js"},
 		NavStats:     stats,
 	}
 

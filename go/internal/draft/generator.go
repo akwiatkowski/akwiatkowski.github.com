@@ -19,14 +19,14 @@ type Generator struct {
 
 // Options configures draft generation.
 type Options struct {
-	Title        string
-	Subtitle     string
-	Author       string
-	Category     string
-	Tags         []string
+	Title         string
+	Subtitle      string
+	Author        string
+	Category      string
+	Tags          []string
 	ImageFilename string
-	Weather      *weather.Data
-	DryRun       bool
+	Weather       *weather.Data
+	DryRun        bool
 }
 
 // Generate creates a markdown draft file from GPX statistics.

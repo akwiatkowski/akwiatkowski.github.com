@@ -30,8 +30,8 @@ func testSiteDataForGallery() *catalog.SiteData {
 					TagSlugs:      []string{"good", "landscape"},
 					Points:        5,
 					Exif: &model.ExifData{
-						LensName:   "Olympus 12-100mm",
-						CameraName: "E-M1 Mark II",
+						LensName:    "Olympus 12-100mm",
+						CameraName:  "E-M1 Mark II",
 						FocalLength: &fl,
 						ISO:         &iso,
 						Exposure:    &exp,
@@ -46,8 +46,8 @@ func testSiteDataForGallery() *catalog.SiteData {
 					Points:        10,
 					IsHeader:      true,
 					Exif: &model.ExifData{
-						LensName:   "Olympus 12-100mm",
-						CameraName: "E-M1 Mark II",
+						LensName:    "Olympus 12-100mm",
+						CameraName:  "E-M1 Mark II",
 						FocalLength: &fl,
 						ISO:         &iso,
 						Exposure:    &exp,
@@ -168,8 +168,8 @@ func TestPhotosInExposureRange(t *testing.T) {
 func TestSanitizeSlug(t *testing.T) {
 	cases := map[string]string{
 		"Olympus 12-100mm f/4.0": "olympus-12-100mm-f-4.0",
-		"E-M1 Mark II":          "e-m1-mark-ii",
-		"Canon EF 50mm":         "canon-ef-50mm",
+		"E-M1 Mark II":           "e-m1-mark-ii",
+		"Canon EF 50mm":          "canon-ef-50mm",
 	}
 	for input, want := range cases {
 		got := sanitizeSlug(input)

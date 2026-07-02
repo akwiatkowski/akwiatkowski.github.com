@@ -96,9 +96,10 @@ func assertFieldsExist(t *testing.T, context string, obj map[string]json.RawMess
 // /jsons/e2e.json
 // ---------------------------------------------------------------------------
 // Crystal reference (E2eJsonGenerator):
-//   posts[]  → url, ready, photos_count, has_route, tags, voivodeships
-//   tags[]   → url, slug
-//   voivodeships[] → slug, show_url, gallery_url
+//
+//	posts[]  → url, ready, photos_count, has_route, tags, voivodeships
+//	tags[]   → url, slug
+//	voivodeships[] → slug, show_url, gallery_url
 //
 // Go differences: NONE KNOWN — fields match Crystal.
 func TestJSONFormat_E2E(t *testing.T) {
@@ -163,13 +164,14 @@ func TestJSONFormat_E2E(t *testing.T) {
 // /jsons/homepage.json
 // ---------------------------------------------------------------------------
 // Crystal reference (HomePageJsonGenerator):
-//   posts[] → url, title, subtitle, visible, ready, date, time, distance_km,
-//             time_spent, card_image_url, card_image_url_avif, tags,
-//             photos[]{src, src_avif, alt, points},
-//             town_slugs, county_slugs, voivodeship_slugs,
-//             meso_region_slugs, macro_region_slugs
-//   tags[]  → slug, url, name         (Array of objects)
-//   towns/counties/voivodeships/meso_regions/macro_regions → slug, url, name
+//
+//	posts[] → url, title, subtitle, visible, ready, date, time, distance_km,
+//	          time_spent, card_image_url, card_image_url_avif, tags,
+//	          photos[]{src, src_avif, alt, points},
+//	          town_slugs, county_slugs, voivodeship_slugs,
+//	          meso_region_slugs, macro_region_slugs
+//	tags[]  → slug, url, name         (Array of objects)
+//	towns/counties/voivodeships/meso_regions/macro_regions → slug, url, name
 //
 // Go differences:
 //   - "tags" is a MAP {slug → {url, name}}, Crystal uses an ARRAY [{slug, url, name}]
@@ -181,7 +183,8 @@ func TestJSONFormat_E2E(t *testing.T) {
 //   - Go omits subtitle when empty (omitempty); Crystal always includes it
 //
 // TODO: Align Go format to match Crystal (array-based tags, separate area keys,
-//       "photos" field name with src/src_avif/alt fields).
+//
+//	"photos" field name with src/src_avif/alt fields).
 func TestJSONFormat_Homepage(t *testing.T) {
 	ts := setupServer(t)
 
@@ -204,16 +207,16 @@ func TestJSONFormat_Homepage(t *testing.T) {
 	}
 
 	postFields := []string{
-		"url",                // String
-		"title",              // String
+		"url",   // String
+		"title", // String
 		// "subtitle",        // String — Go uses omitempty, Crystal always includes
-		"date",               // String: "2021-07-18"
-		"time",               // String: ISO datetime
-		"card_image_url",     // String
+		"date",                // String: "2021-07-18"
+		"time",                // String: ISO datetime
+		"card_image_url",      // String
 		"card_image_url_avif", // String
-		"tags",               // []String: English tag slugs
-		"visible",            // Bool
-		"ready",              // Bool
+		"tags",                // []String: English tag slugs
+		"visible",             // Bool
+		"ready",               // Bool
 	}
 	assertFieldsExist(t, "homepage.json posts[0]", posts[0], postFields)
 
@@ -247,8 +250,9 @@ func TestJSONFormat_Homepage(t *testing.T) {
 // /jsons/map.json
 // ---------------------------------------------------------------------------
 // Crystal reference (MapJsonGenerator):
-//   posts[] → url, slug, title, date, distance, time_spent,
-//             card_image_url, card_image_url_avif, coords
+//
+//	posts[] → url, slug, title, date, distance, time_spent,
+//	          card_image_url, card_image_url_avif, coords
 //
 // Go differences:
 //   - Go coords structure: [{type, coords: [[lat,lon],...]}]
@@ -298,11 +302,12 @@ func TestJSONFormat_Map(t *testing.T) {
 // /jsons/photos.json
 // ---------------------------------------------------------------------------
 // Crystal reference (PhotosJsonGenerator):
-//   photos[] → desc, full_url, article_url, time, post_slug, post_url,
-//              is_published, points, tags,
-//              exif.lat, exif.lon, exif.altitude, exif.focal_35mm,
-//              exif.aperture, exif.exposure, exif.iso,
-//              exif.lens_name, exif.camera_name, exif.time
+//
+//	photos[] → desc, full_url, article_url, time, post_slug, post_url,
+//	           is_published, points, tags,
+//	           exif.lat, exif.lon, exif.altitude, exif.focal_35mm,
+//	           exif.aperture, exif.exposure, exif.iso,
+//	           exif.lens_name, exif.camera_name, exif.time
 //
 // Go differences:
 //   - Go omits "time" field (Crystal includes it)
@@ -363,10 +368,11 @@ func TestJSONFormat_Photos(t *testing.T) {
 // /jsons/photos_map.json
 // ---------------------------------------------------------------------------
 // Crystal reference (PhotosMapJsonGenerator):
-//   photos[] → desc, full_url, article_url, article_url_avif, grid_url,
-//              grid_url_avif, thumbnail_url, time, post_slug, post_url,
-//              points, tags, exif.lat, exif.lon, exif.altitude,
-//              exif.time, exif.camera_name, exif.lens_name
+//
+//	photos[] → desc, full_url, article_url, article_url_avif, grid_url,
+//	           grid_url_avif, thumbnail_url, time, post_slug, post_url,
+//	           points, tags, exif.lat, exif.lon, exif.altitude,
+//	           exif.time, exif.camera_name, exif.lens_name
 //
 // Go differences:
 //   - Go only has: lat, lon, post_slug, filename, desc
@@ -393,19 +399,19 @@ func TestJSONFormat_PhotosMap(t *testing.T) {
 
 	// Go fields matching Crystal's photos_map format:
 	goFields := []string{
-		"desc",          // String: photo description
-		"full_url",      // String: full-size image URL
-		"article_url",   // String: article-size JPEG
+		"desc",             // String: photo description
+		"full_url",         // String: full-size image URL
+		"article_url",      // String: article-size JPEG
 		"article_url_avif", // String: article-size AVIF
-		"grid_url",      // String: grid-size JPEG
-		"grid_url_avif", // String: grid-size AVIF
-		"thumbnail_url", // String: thumbnail JPEG
-		"post_slug",     // String: parent post slug
-		"post_url",      // String: parent post URL
-		"points",        // Int: quality score
-		"tags",          // []String: photo tag slugs
-		"exif.lat",      // Float64: GPS latitude
-		"exif.lon",      // Float64: GPS longitude
+		"grid_url",         // String: grid-size JPEG
+		"grid_url_avif",    // String: grid-size AVIF
+		"thumbnail_url",    // String: thumbnail JPEG
+		"post_slug",        // String: parent post slug
+		"post_url",         // String: parent post URL
+		"points",           // Int: quality score
+		"tags",             // []String: photo tag slugs
+		"exif.lat",         // Float64: GPS latitude
+		"exif.lon",         // Float64: GPS longitude
 	}
 	assertFieldsExist(t, "photos_map.json photos[0] (Go)", photos[0], goFields)
 }
@@ -414,7 +420,8 @@ func TestJSONFormat_PhotosMap(t *testing.T) {
 // /jsons/photo_grid.json
 // ---------------------------------------------------------------------------
 // Crystal reference (PhotoGridJsonGenerator):
-//   coords: [[lat, lon], ...]
+//
+//	coords: [[lat, lon], ...]
 //
 // Go differences: NONE KNOWN — format matches Crystal.
 func TestJSONFormat_PhotoGrid(t *testing.T) {
@@ -442,7 +449,8 @@ func TestJSONFormat_PhotoGrid(t *testing.T) {
 // /jsons/train_stations.json
 // ---------------------------------------------------------------------------
 // Crystal reference (TrainStationsJsonGenerator):
-//   train_stations[] → name, lat, lon, time_distance
+//
+//	train_stations[] → name, lat, lon, time_distance
 //
 // Go differences: NONE KNOWN — format matches Crystal.
 func TestJSONFormat_TrainStations(t *testing.T) {
@@ -474,11 +482,12 @@ func TestJSONFormat_TrainStations(t *testing.T) {
 // /jsons/ideas.json
 // ---------------------------------------------------------------------------
 // Crystal reference (IdeasJsonGenerator):
-//   towns[] → slug, name, url (null if no page)
-//   ideas[] → slug, link, distance, elevation, days_min, days_normal,
-//             start, finish, direction, direction_char,
-//             time_cost_stats_for_new_town, surfaces, towns,
-//             photo_map_url, towns_already_visited, towns_not_visited
+//
+//	towns[] → slug, name, url (null if no page)
+//	ideas[] → slug, link, distance, elevation, days_min, days_normal,
+//	          start, finish, direction, direction_char,
+//	          time_cost_stats_for_new_town, surfaces, towns,
+//	          photo_map_url, towns_already_visited, towns_not_visited
 //
 // Go differences:
 //   - Go outputs empty arrays for both (ideas data not loaded in Go pipeline)
@@ -535,17 +544,18 @@ func TestJSONFormat_Ideas(t *testing.T) {
 // Area Show Page — <script id="area-data">
 // ---------------------------------------------------------------------------
 // Crystal reference (AreaShowView#generate_unified_json):
-//   slug, name, areaType, areaTypeLabel, parentName, parentUrl,
-//   voivodeshipName, voivodeshipUrl, postListUrl, galleryUrl,
-//   bestPhotoUrl, bestPhotoUrlAvif, bbox{south,north,west,east},
-//   polygon (raw GeoJSON), posts[], photos[], related_areas[]
 //
-//   posts[]  → url, slug, title, date, distance, time_spent,
-//              card_image_url, card_image_url_avif, tags, coords
-//   photos[] → desc, article_url, article_url_avif, grid_url, grid_url_avif,
-//              time, post_url, points
-//   related_areas[] → name, slug, area_type, show_url,
-//                     best_photo_url, best_photo_url_avif
+//	slug, name, areaType, areaTypeLabel, parentName, parentUrl,
+//	voivodeshipName, voivodeshipUrl, postListUrl, galleryUrl,
+//	bestPhotoUrl, bestPhotoUrlAvif, bbox{south,north,west,east},
+//	polygon (raw GeoJSON), posts[], photos[], related_areas[]
+//
+//	posts[]  → url, slug, title, date, distance, time_spent,
+//	           card_image_url, card_image_url_avif, tags, coords
+//	photos[] → desc, article_url, article_url_avif, grid_url, grid_url_avif,
+//	           time, post_url, points
+//	related_areas[] → name, slug, area_type, show_url,
+//	                  best_photo_url, best_photo_url_avif
 //
 // Go differences:
 //   - Go "coords" per post: [{route: [[lat,lon],...]}]
@@ -719,13 +729,14 @@ func TestJSONFormat_TagPostListConfig(t *testing.T) {
 // Post Gallery Page — <script id="gallery-config">
 // ---------------------------------------------------------------------------
 // Crystal reference (GalleryView::AbstractView):
-//   Array of photo hashes with dot-notation string keys:
-//   "post.url", "img.src", "img.src.avif", "img.grid_src", "img.grid_src.avif",
-//   "img.alt", "img.title", "img.url", "img.url.avif", "post.title",
-//   "img.lat", "img.lon", "img.altitude", "img.time", "img.time_display",
-//   "img.exif_string", "img.camera", "img.lens", "img.focal", "img.aperture",
-//   "img.exposure", "img.iso", "klass", "img.full_image_sanitized"
-//   NOTE: All values are strings in Crystal.
+//
+//	Array of photo hashes with dot-notation string keys:
+//	"post.url", "img.src", "img.src.avif", "img.grid_src", "img.grid_src.avif",
+//	"img.alt", "img.title", "img.url", "img.url.avif", "post.title",
+//	"img.lat", "img.lon", "img.altitude", "img.time", "img.time_display",
+//	"img.exif_string", "img.camera", "img.lens", "img.focal", "img.aperture",
+//	"img.exposure", "img.iso", "klass", "img.full_image_sanitized"
+//	NOTE: All values are strings in Crystal.
 //
 // Go differences:
 //   - Go uses a flat struct with short key names: jpeg, avif, grid_jpeg, grid_avif,
@@ -734,7 +745,8 @@ func TestJSONFormat_TagPostListConfig(t *testing.T) {
 //   - Go embeds as "gallery-config"; Crystal uses a different template mechanism
 //
 // TODO: Decide whether to align Go gallery JSON with Crystal's dot-notation
-//       format, or keep Go's simpler format and adjust JS.
+//
+//	format, or keep Go's simpler format and adjust JS.
 func TestJSONFormat_PostGallery(t *testing.T) {
 	ts := setupServer(t)
 
@@ -795,9 +807,10 @@ func TestJSONFormat_PostGallery(t *testing.T) {
 // Towns Index Page — <script id="towns-data">
 // ---------------------------------------------------------------------------
 // Crystal reference (ModelView::TownsIndexView#generate_towns_json):
-//   voivodeships[] → name, slug, show_url
-//   towns[]        → name, slug, voivodeship, show_url, post_count,
-//                    photo_url, photo_url_avif, first_year, last_year
+//
+//	voivodeships[] → name, slug, show_url
+//	towns[]        → name, slug, voivodeship, show_url, post_count,
+//	                 photo_url, photo_url_avif, first_year, last_year
 //
 // Go differences:
 //   - Go town field names differ:
@@ -809,7 +822,8 @@ func TestJSONFormat_PostGallery(t *testing.T) {
 //   - Go towns missing "first_year" and "last_year" fields
 //
 // TODO: Add show_url to voivodeships, add first_year/last_year to towns,
-//       align field names with Crystal.
+//
+//	align field names with Crystal.
 func TestJSONFormat_TownsIndex(t *testing.T) {
 	ts := setupServer(t)
 
@@ -867,14 +881,15 @@ func TestJSONFormat_TownsIndex(t *testing.T) {
 // POIs Page — <script id="pois-data">
 // ---------------------------------------------------------------------------
 // Crystal reference (PoisView#generate_pois_json):
-//   pois[] → name, lat, lon, type,
-//     if "visited": post_title, post_url, post_date, post_distance,
-//                   post_time_spent, photo_url, photo_url_avif, photo_desc
-//     if "todo": station_name, station_lat, station_lon, station_time,
-//                station_distance_km, idea_start, idea_finish,
-//                idea_distance, idea_days
-//     if "auto": photo_url, photo_url_avif, photo_desc, post_title,
-//                post_url, post_date, points
+//
+//	pois[] → name, lat, lon, type,
+//	  if "visited": post_title, post_url, post_date, post_distance,
+//	                post_time_spent, photo_url, photo_url_avif, photo_desc
+//	  if "todo": station_name, station_lat, station_lon, station_time,
+//	             station_distance_km, idea_start, idea_finish,
+//	             idea_distance, idea_days
+//	  if "auto": photo_url, photo_url_avif, photo_desc, post_title,
+//	             post_url, post_date, points
 //
 // Go differences:
 //   - Go POI has a simpler struct: name, lat, lon, type,
@@ -932,7 +947,8 @@ func TestJSONFormat_POIs(t *testing.T) {
 // /js/self/route_colors.js
 // ---------------------------------------------------------------------------
 // Crystal reference: generated in RouteColorsSetupTask
-//   Defines: window.ROUTE_STYLES, window.ROUTE_TAG_PRIORITY, window.getRouteStyle()
+//
+//	Defines: window.ROUTE_STYLES, window.ROUTE_TAG_PRIORITY, window.getRouteStyle()
 //
 // Go differences: NONE KNOWN — format matches Crystal.
 func TestJSONFormat_RouteColorsJS(t *testing.T) {
@@ -988,15 +1004,17 @@ func TestJSONFormat_RouteColorsJS(t *testing.T) {
 // Portfolio Page — Crystal has <script id="portfolio-data">
 // ---------------------------------------------------------------------------
 // Crystal reference (PortfolioView#generate_json):
-//   hero_photo → src, src_avif, full_src, alt
-//   stats      → bicycle_distance_km, hike_distance_km, total_hours,
-//                post_count, photo_count, years_active, towns_visited
-//   photos[]   → src, src_avif, grid_src, grid_src_avif, full_src,
-//                full_src_avif, alt, post_url, post_title, points, tags,
-//                exif{camera, lens, focal, aperture, exposure, iso}
+//
+//	hero_photo → src, src_avif, full_src, alt
+//	stats      → bicycle_distance_km, hike_distance_km, total_hours,
+//	             post_count, photo_count, years_active, towns_visited
+//	photos[]   → src, src_avif, grid_src, grid_src_avif, full_src,
+//	             full_src_avif, alt, post_url, post_title, points, tags,
+//	             exif{camera, lens, focal, aperture, exposure, iso}
 //
 // Go status: Portfolio page exists but uses server-side rendering only
-//   (no inline JSON). Photos are rendered as static HTML photo cards.
+//
+//	(no inline JSON). Photos are rendered as static HTML photo cards.
 //
 // TODO: If Crystal's portfolio JS requires this JSON, add it to Go.
 func TestJSONFormat_Portfolio(t *testing.T) {
@@ -1024,8 +1042,9 @@ func TestJSONFormat_Portfolio(t *testing.T) {
 // Year Report Page — Crystal has <script id="ys-route-data">
 // ---------------------------------------------------------------------------
 // Crystal reference (DynamicView::YearStatReportView):
-//   bbox   → {south, north, west, east}
-//   routes → [{title, tags, coords: [[lat,lon],...]}]
+//
+//	bbox   → {south, north, west, east}
+//	routes → [{title, tags, coords: [[lat,lon],...]}]
 //
 // Go differences:
 //   - Go uses a different route format:

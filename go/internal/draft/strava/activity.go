@@ -15,9 +15,9 @@ import (
 type Activity struct {
 	ID                 int64     `json:"id"`
 	Name               string    `json:"name"`
-	Type               string    `json:"type"`       // Ride, Hike, Walk, etc.
-	SportType          string    `json:"sport_type"` // GravelRide, MountainBikeRide, etc.
-	Distance           float64   `json:"distance"`   // meters
+	Type               string    `json:"type"`        // Ride, Hike, Walk, etc.
+	SportType          string    `json:"sport_type"`  // GravelRide, MountainBikeRide, etc.
+	Distance           float64   `json:"distance"`    // meters
 	MovingTime         int       `json:"moving_time"` // seconds
 	TotalElevationGain float64   `json:"total_elevation_gain"`
 	StartDate          time.Time `json:"start_date"`

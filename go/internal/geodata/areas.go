@@ -201,8 +201,8 @@ func computeBBox(coords [][]float64) *bboxOut {
 // tercTypeLabels maps the last digit of a TERC code to a Polish gmina type label.
 // Used during slug disambiguation for towns with the same name in the same voivodeship.
 var tercTypeLabels = map[byte]string{
-	'1': "miejska",        // urban municipality
-	'2': "wiejska",        // rural municipality
+	'1': "miejska",         // urban municipality
+	'2': "wiejska",         // rural municipality
 	'3': "miejsko-wiejska", // urban-rural municipality
 }
 

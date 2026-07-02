@@ -15,10 +15,10 @@ type AreaWithGeom struct {
 	Slug  string
 	Name  string
 	Code  string
-	BBoxS float64 // south (min lat)
-	BBoxN float64 // north (max lat)
-	BBoxW float64 // west (min lon)
-	BBoxE float64 // east (max lon)
+	BBoxS float64        // south (min lat)
+	BBoxN float64        // north (max lat)
+	BBoxW float64        // west (min lon)
+	BBoxE float64        // east (max lon)
 	geom  *geos.Geom     // GEOS polygon in lon,lat order
 	prep  *geos.PrepGeom // prepared geometry for fast repeated tests
 }

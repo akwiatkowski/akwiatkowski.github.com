@@ -5,9 +5,9 @@ import (
 	"math"
 	"sort"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/spatial"
 	"odkrywajac/internal/view/template/layout"
@@ -38,7 +38,7 @@ func POIsPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJSFiles:       []string{"/js/self/pois.js"},
+		PageJSFiles:  []string{"/js/self/pois.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 

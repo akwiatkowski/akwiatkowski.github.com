@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"sort"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -46,7 +46,7 @@ func AreaShowPage(
 		SiteName:     data.Config.Title,
 		CSSFiles:     cssFiles,
 		JSFiles:      jsFiles,
-		PageJSFiles:       []string{"/js/self/area_show.js"},
+		PageJSFiles:  []string{"/js/self/area_show.js"},
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
@@ -122,28 +122,28 @@ func buildAreaShowJSON(
 		Route [][]float64 `json:"route"`
 	}
 	type postEntry struct {
-		URL             string         `json:"url"`
-		Slug            string         `json:"slug"`
-		Title           string         `json:"title"`
-		Date            string         `json:"date"`
-		Distance        float64        `json:"distance,omitempty"`
-		TimeSpent       float64        `json:"time_spent,omitempty"`
-		CardImageURL    string         `json:"card_image_url,omitempty"`
-		CardImageAVIF   string         `json:"card_image_url_avif,omitempty"`
-		Tags            []string       `json:"tags"`
-		Coords          []coordSegment `json:"coords,omitempty"`
+		URL           string         `json:"url"`
+		Slug          string         `json:"slug"`
+		Title         string         `json:"title"`
+		Date          string         `json:"date"`
+		Distance      float64        `json:"distance,omitempty"`
+		TimeSpent     float64        `json:"time_spent,omitempty"`
+		CardImageURL  string         `json:"card_image_url,omitempty"`
+		CardImageAVIF string         `json:"card_image_url_avif,omitempty"`
+		Tags          []string       `json:"tags"`
+		Coords        []coordSegment `json:"coords,omitempty"`
 	}
 
 	// --- Photo entries for the photos grid ---
 	type photoEntry struct {
-		Desc           string `json:"desc"`
-		ArticleURL     string `json:"article_url"`
-		ArticleAVIF    string `json:"article_url_avif"`
-		GridURL        string `json:"grid_url"`
-		GridAVIF       string `json:"grid_url_avif"`
-		Time           string `json:"time,omitempty"`
-		PostURL        string `json:"post_url"`
-		Points         int    `json:"points"`
+		Desc        string `json:"desc"`
+		ArticleURL  string `json:"article_url"`
+		ArticleAVIF string `json:"article_url_avif"`
+		GridURL     string `json:"grid_url"`
+		GridAVIF    string `json:"grid_url_avif"`
+		Time        string `json:"time,omitempty"`
+		PostURL     string `json:"post_url"`
+		Points      int    `json:"points"`
 	}
 
 	// --- BBox with lowercase JSON keys (matching JS expectations) ---
@@ -155,23 +155,23 @@ func buildAreaShowJSON(
 	}
 
 	type areaJSON struct {
-		Slug             string            `json:"slug"`
-		Name             string            `json:"name"`
-		AreaType         string            `json:"areaType"`
-		AreaTypeLabel    string            `json:"areaTypeLabel"`
-		ParentName       string            `json:"parentName,omitempty"`
-		ParentURL        string            `json:"parentUrl,omitempty"`
-		VoivodeshipName  string            `json:"voivodeshipName,omitempty"`
-		VoivodeshipURL   string            `json:"voivodeshipUrl,omitempty"`
-		PostListURL      string            `json:"postListUrl"`
-		GalleryURL       string            `json:"galleryUrl"`
-		BestPhotoURL     string            `json:"bestPhotoUrl,omitempty"`
-		BestPhotoAVIF    string            `json:"bestPhotoUrlAvif,omitempty"`
-		BBox             *bboxJSON         `json:"bbox,omitempty"`
-		Polygon          json.RawMessage   `json:"polygon,omitempty"`
-		Posts            []postEntry        `json:"posts"`
-		Photos           []photoEntry       `json:"photos"`
-		RelatedAreas     []areaRelatedEntry `json:"related_areas"`
+		Slug            string             `json:"slug"`
+		Name            string             `json:"name"`
+		AreaType        string             `json:"areaType"`
+		AreaTypeLabel   string             `json:"areaTypeLabel"`
+		ParentName      string             `json:"parentName,omitempty"`
+		ParentURL       string             `json:"parentUrl,omitempty"`
+		VoivodeshipName string             `json:"voivodeshipName,omitempty"`
+		VoivodeshipURL  string             `json:"voivodeshipUrl,omitempty"`
+		PostListURL     string             `json:"postListUrl"`
+		GalleryURL      string             `json:"galleryUrl"`
+		BestPhotoURL    string             `json:"bestPhotoUrl,omitempty"`
+		BestPhotoAVIF   string             `json:"bestPhotoUrlAvif,omitempty"`
+		BBox            *bboxJSON          `json:"bbox,omitempty"`
+		Polygon         json.RawMessage    `json:"polygon,omitempty"`
+		Posts           []postEntry        `json:"posts"`
+		Photos          []photoEntry       `json:"photos"`
+		RelatedAreas    []areaRelatedEntry `json:"related_areas"`
 	}
 
 	aj := areaJSON{
@@ -384,7 +384,6 @@ func buildRelatedAreas(data *catalog.SiteData, area *model.Area, r *router.Route
 	return result
 }
 
-
 // resolveAssets resolves bundles and page assets, handling nil resolver gracefully.
 func resolveAssets(resolver *bundle.Resolver, bundles []string, pageAssets []string) (css, js []bundle.AssetFile) {
 	if resolver == nil {
@@ -419,13 +418,13 @@ func navStatsFromIndex(ns catalog.NavStats, r *router.Router, tagBySlug map[stri
 	}
 	return layout.NavStats{
 		BicycleDistance: ns.BicycleDistance,
-		BicycleTime:    ns.BicycleTime,
-		BicycleCount:   ns.BicycleCount,
+		BicycleTime:     ns.BicycleTime,
+		BicycleCount:    ns.BicycleCount,
 		HikeDistance:    ns.HikeDistance,
-		HikeTime:       ns.HikeTime,
-		HikeCount:      ns.HikeCount,
+		HikeTime:        ns.HikeTime,
+		HikeCount:       ns.HikeCount,
 		SelfDistance:    ns.SelfDistance,
-		SelfTime:       ns.SelfTime,
+		SelfTime:        ns.SelfTime,
 		Links: layout.NavLinks{
 			RoweremURL:   tagURL("bicycle"),
 			PieszoURL:    tagURL("hike"),

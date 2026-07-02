@@ -17,14 +17,14 @@ func testSiteDataForYearReport() *catalog.SiteData {
 	fin3 := time.Date(2022, 5, 10, 0, 0, 0, 0, time.UTC)
 	posts := []*model.Post{
 		{
-			Slug:       "2021-07-18-pagorki",
-			Title:      "Pagórki przed żniwami",
-			Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
-			FinishedAt: &fin1,
-			TagSlugs:   []string{"bicycle"},
-			TownSlugs:  []string{"pobiedziska"},
-			Distance:   42.0,
-			TimeSpent:  3.0,
+			Slug:          "2021-07-18-pagorki",
+			Title:         "Pagórki przed żniwami",
+			Date:          time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
+			FinishedAt:    &fin1,
+			TagSlugs:      []string{"bicycle"},
+			TownSlugs:     []string{"pobiedziska"},
+			Distance:      42.0,
+			TimeSpent:     3.0,
 			ImageFilename: "header.jpg",
 		},
 		{
@@ -88,11 +88,11 @@ func TestYearReportPageRender(t *testing.T) {
 	html := buf.String()
 	checks := []string{
 		"Rok 2021",
-		"72 km",       // total distance (42+30)
+		"72 km", // total distance (42+30)
 		"wpisów",
 		"rowerem",
-		"Rowerem",    // tag breakdown
-		"rok/2022",   // year navigation
+		"Rowerem",  // tag breakdown
+		"rok/2022", // year navigation
 	}
 
 	for _, check := range checks {

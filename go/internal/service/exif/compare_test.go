@@ -24,7 +24,7 @@ type crystalEntry struct {
 	Aperture      *float64 `yaml:"aperture"`
 	Exposure      *float64 `yaml:"exposure"`
 	ExposureStr   string   `yaml:"exposure_string"`
-	FocusDistance  *float64 `yaml:"focus_distance"`
+	FocusDistance *float64 `yaml:"focus_distance"`
 	ISO           *int     `yaml:"iso"`
 	Width         *int     `yaml:"width"`
 	Height        *int     `yaml:"height"`
@@ -56,19 +56,19 @@ func TestCompareWithCrystalCache(t *testing.T) {
 	}
 
 	var stats struct {
-		totalImages     int
-		withExif        int // Crystal cache has EXIF data for this image
-		goReadOK        int // Go successfully read EXIF
-		goReadFail      int // Go failed to read EXIF
-		latMatch        int
-		lonMatch        int
-		cameraMatch     int
-		lensMatch       int
-		isoMatch        int
-		widthMatch      int
-		focalMatch      int
-		apertureMatch   int
-		mismatches      int
+		totalImages   int
+		withExif      int // Crystal cache has EXIF data for this image
+		goReadOK      int // Go successfully read EXIF
+		goReadFail    int // Go failed to read EXIF
+		latMatch      int
+		lonMatch      int
+		cameraMatch   int
+		lensMatch     int
+		isoMatch      int
+		widthMatch    int
+		focalMatch    int
+		apertureMatch int
+		mismatches    int
 	}
 
 	for _, cacheFile := range cacheFiles {

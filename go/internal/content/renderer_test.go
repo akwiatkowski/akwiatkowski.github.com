@@ -91,17 +91,17 @@ More text`, post, &mockPostLookup{})
 
 	checks := []string{
 		`<figure class="figure post-article-photo">`,
-		`/images/2021-07-18-test-post/photo1.jpg`,            // full-size link
-		`2021-07-18-test-post_photo1.jpg_article.jpg`,         // article JPEG
-		`2021-07-18-test-post_photo1.jpg_article.avif`,        // article AVIF
-		`2021-07-18-test-post_photo1.jpg_grid.jpg 560w`,       // grid srcset
-		`A beautiful view`,                          // caption
-		`50mm`,                                      // EXIF focal length
-		`f4`,                                        // EXIF aperture (no slash, matching Crystal)
-		`ISO400`,                                    // EXIF ISO
-		`data-is-gallery="true"`,                    // gallery flag
-		`data-lat="52.450000"`,                      // GPS lat
-		`/galeria/tag/good.html`,                    // photo tag gallery link
+		`/images/2021-07-18-test-post/photo1.jpg`,       // full-size link
+		`2021-07-18-test-post_photo1.jpg_article.jpg`,   // article JPEG
+		`2021-07-18-test-post_photo1.jpg_article.avif`,  // article AVIF
+		`2021-07-18-test-post_photo1.jpg_grid.jpg 560w`, // grid srcset
+		`A beautiful view`,                              // caption
+		`50mm`,                                          // EXIF focal length
+		`f4`,                                            // EXIF aperture (no slash, matching Crystal)
+		`ISO400`,                                        // EXIF ISO
+		`data-is-gallery="true"`,                        // gallery flag
+		`data-lat="52.450000"`,                          // GPS lat
+		`/galeria/tag/good.html`,                        // photo tag gallery link
 	}
 
 	for _, check := range checks {

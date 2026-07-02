@@ -6,9 +6,9 @@ import (
 
 func TestActivityIsBike(t *testing.T) {
 	tests := []struct {
-		typ      string
+		typ       string
 		sportType string
-		want     bool
+		want      bool
 	}{
 		{"Ride", "", true},
 		{"EBikeRide", "", true},
@@ -55,14 +55,14 @@ func TestActivityIsLongEnough(t *testing.T) {
 		distance float64
 		want     bool
 	}{
-		{"Ride", 25000, true},     // 25km bike = exactly threshold
-		{"Ride", 24000, false},    // 24km bike = below
-		{"Ride", 30000, true},     // 30km bike = above
+		{"Ride", 25000, true},  // 25km bike = exactly threshold
+		{"Ride", 24000, false}, // 24km bike = below
+		{"Ride", 30000, true},  // 30km bike = above
 		{"EBikeRide", 25000, true},
-		{"Hike", 2000, true},      // 2km hike = exactly threshold
-		{"Hike", 1500, false},     // 1.5km hike = below
-		{"Walk", 3000, true},      // 3km walk = above
-		{"Kayaking", 1000, true},  // Other types always pass
+		{"Hike", 2000, true},     // 2km hike = exactly threshold
+		{"Hike", 1500, false},    // 1.5km hike = below
+		{"Walk", 3000, true},     // 3km walk = above
+		{"Kayaking", 1000, true}, // Other types always pass
 	}
 
 	for _, tt := range tests {

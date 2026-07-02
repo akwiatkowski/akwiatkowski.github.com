@@ -94,10 +94,10 @@ func TestPostArticle_RendersAreaLinks(t *testing.T) {
 
 func TestPostArticle_RendersRouteStats(t *testing.T) {
 	data := views.PostArticleData{
-		Title:         "Stats",
-		ActivityBadge: "🚲 rowerem",
-		DistanceStr:   "45 km",
-		TimeStr:       "6 h",
+		Title:          "Stats",
+		ActivityBadge:  "🚲 rowerem",
+		DistanceStr:    "45 km",
+		TimeStr:        "6 h",
 		TemperatureStr: "🌡 22 °C",
 	}
 	out := h.Render(t, views.PostArticleContent(data))
@@ -291,7 +291,7 @@ func TestBurnout_RendersMonthRow(t *testing.T) {
 			},
 		},
 		MaxDistance: 200,
-		MaxTime:    30,
+		MaxTime:     30,
 	}
 	out := h.Render(t, views.BurnoutContent(bd))
 	h.AssertContains(t, out, "2023-06")
@@ -430,7 +430,7 @@ func TestYearReport_RendersSummaryCards(t *testing.T) {
 	rd := views.YearReportData{
 		Year:          2023,
 		PostCount:     15,
-		TotalDistance:  800,
+		TotalDistance: 800,
 		TotalTime:     120,
 		BicycleCount:  10,
 		HikeCount:     5,
@@ -593,8 +593,8 @@ func TestYearReport_OmitsRouteMapWhenNoRoutes(t *testing.T) {
 func TestYearReport_YearOverYearComparison(t *testing.T) {
 	rd := views.YearReportData{
 		Year:             2023,
-		TotalDistance:     900,
-		PrevYearDistance:  800,
+		TotalDistance:    900,
+		PrevYearDistance: 800,
 		PrevYearTime:     100,
 	}
 	out := h.Render(t, views.YearReportContent(rd))

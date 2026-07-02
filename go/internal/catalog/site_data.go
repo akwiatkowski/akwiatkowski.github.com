@@ -20,15 +20,15 @@ type SiteData struct {
 	Ideas       []model.Idea
 
 	// Lookup indexes (internal maps, use methods for access)
-	postsByTagSlug  map[string][]*model.Post        // tag slug → posts
-	PostsByYear     map[int][]*model.Post            // year → posts
-	postsByArea     map[string][]*model.Post         // AreaMapKey → posts
-	postBySlug      map[string]*model.Post           // post slug → post
-	areaByKey       map[string]*model.Area           // AreaMapKey → area
-	AreasByType     map[model.AreaType][]*model.Area
-	AreasWithPosts  map[model.AreaType][]*model.Area // areas that have at least one post
-	TagBySlug        map[string]*model.Tag
-	photoTagBySlug   map[string]*model.PhotoTag
+	postsByTagSlug map[string][]*model.Post // tag slug → posts
+	PostsByYear    map[int][]*model.Post    // year → posts
+	postsByArea    map[string][]*model.Post // AreaMapKey → posts
+	postBySlug     map[string]*model.Post   // post slug → post
+	areaByKey      map[string]*model.Area   // AreaMapKey → area
+	AreasByType    map[model.AreaType][]*model.Area
+	AreasWithPosts map[model.AreaType][]*model.Area // areas that have at least one post
+	TagBySlug      map[string]*model.Tag
+	photoTagBySlug map[string]*model.PhotoTag
 
 	NavStats NavStats
 }
@@ -36,14 +36,14 @@ type SiteData struct {
 // NavStats holds aggregated navigation statistics.
 type NavStats struct {
 	BicycleDistance int
-	BicycleTime    int
-	BicycleCount   int
+	BicycleTime     int
+	BicycleCount    int
 	HikeDistance    int
-	HikeTime       int
-	HikeCount      int
+	HikeTime        int
+	HikeCount       int
 	// Self = bicycle + hike
 	SelfDistance int
-	SelfTime    int
+	SelfTime     int
 }
 
 // PostBySlug looks up a post by its slug.

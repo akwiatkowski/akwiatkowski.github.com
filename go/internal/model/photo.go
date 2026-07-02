@@ -82,7 +82,7 @@ type ExifData struct {
 	FocalLength35 *float64 `yaml:"focal_length_35,omitempty"`
 	Crop          *float64 `yaml:"crop,omitempty"`
 	Aperture      *float64 `yaml:"aperture,omitempty"`
-	FocusDistance  *float64 `yaml:"focus_distance,omitempty"`
+	FocusDistance *float64 `yaml:"focus_distance,omitempty"`
 
 	// Exposure
 	Exposure       *float64 `yaml:"exposure,omitempty"`
@@ -125,11 +125,11 @@ type ExifData struct {
 
 	// Lens specification from EXIF LensSpecification tag (4 rationals).
 	// Useful as fallback when LensModel is missing (e.g., Pentax).
-	LensMinFocal    *float64 `yaml:"lens_min_focal,omitempty"`    // minimum focal length (mm)
-	LensMaxFocal    *float64 `yaml:"lens_max_focal,omitempty"`    // maximum focal length (mm)
-	LensMinFStop    *float64 `yaml:"lens_min_fstop,omitempty"`    // widest aperture at min focal
-	LensMaxFStop    *float64 `yaml:"lens_max_fstop,omitempty"`    // widest aperture at max focal
-	LensSpecStr     string   `yaml:"lens_spec_str,omitempty"`     // formatted: "12-100mm f/4.0" or "50mm f/1.8"
+	LensMinFocal *float64 `yaml:"lens_min_focal,omitempty"` // minimum focal length (mm)
+	LensMaxFocal *float64 `yaml:"lens_max_focal,omitempty"` // maximum focal length (mm)
+	LensMinFStop *float64 `yaml:"lens_min_fstop,omitempty"` // widest aperture at min focal
+	LensMaxFStop *float64 `yaml:"lens_max_fstop,omitempty"` // widest aperture at max focal
+	LensSpecStr  string   `yaml:"lens_spec_str,omitempty"`  // formatted: "12-100mm f/4.0" or "50mm f/1.8"
 
 	// GPS coordinate reference system (e.g., "WGS-84").
 	GPSMapDatum string `yaml:"gps_map_datum,omitempty"`

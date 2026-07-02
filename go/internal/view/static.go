@@ -8,8 +8,8 @@ import (
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/renderer/html"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"

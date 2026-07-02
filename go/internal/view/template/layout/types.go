@@ -40,14 +40,14 @@ type NavLinks struct {
 // NavStats holds pre-computed navigation statistics for the nav bar.
 type NavStats struct {
 	BicycleDistance int
-	BicycleTime    int
-	BicycleCount   int
+	BicycleTime     int
+	BicycleCount    int
 	HikeDistance    int
-	HikeTime       int
-	HikeCount      int
+	HikeTime        int
+	HikeCount       int
 	SelfDistance    int
-	SelfTime       int
-	Links          NavLinks
+	SelfTime        int
+	Links           NavLinks
 }
 
 // FullTitle returns the page title with site name suffix.

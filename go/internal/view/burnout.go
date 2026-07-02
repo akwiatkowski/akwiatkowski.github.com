@@ -4,8 +4,8 @@ import (
 	"sort"
 	"time"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -150,9 +150,9 @@ func computeBurnout(data *catalog.SiteData) views.BurnoutData {
 	})
 
 	return views.BurnoutData{
-		Months:     months,
+		Months:      months,
 		MaxDistance: maxDist,
-		MaxTime:    maxTime,
+		MaxTime:     maxTime,
 	}
 }
 

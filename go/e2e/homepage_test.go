@@ -66,8 +66,8 @@ func TestHomepageJSONLoads(t *testing.T) {
 			DistanceKm int      `json:"distance_km"`
 			Tags       []string `json:"tags"`
 		} `json:"posts"`
-		Tags        []lookupEntry `json:"tags"`
-		Towns       []lookupEntry `json:"towns"`
+		Tags         []lookupEntry `json:"tags"`
+		Towns        []lookupEntry `json:"towns"`
 		Voivodeships []lookupEntry `json:"voivodeships"`
 	}
 

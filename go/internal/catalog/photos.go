@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/exif"
 )
 
 // PopulatePublishedPhotos builds Photo objects for each post from its parsed

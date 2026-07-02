@@ -23,27 +23,27 @@ import (
 
 // postFrontMatter is the raw YAML front matter structure.
 type postFrontMatter struct {
-	Layout        string    `yaml:"layout"`
-	Title         string    `yaml:"title"`
-	Subtitle      string    `yaml:"subtitle"`
-	Desc          string    `yaml:"desc"`
-	Keywords      []string  `yaml:"keywords"`
-	Date          time.Time `yaml:"date"`
-	FinishedAt    *yamlTime `yaml:"finished_at"`
-	Author        string    `yaml:"author"`
-	Categories    string    `yaml:"categories"`
-	ImageFilename string    `yaml:"image_filename"`
-	ImagePosition string    `yaml:"image_position"`
-	Tags          []string  `yaml:"tags"`
-	Towns         []string  `yaml:"towns"`
-	Lands         []string  `yaml:"lands"`
-	Foreign       []string  `yaml:"foreign"`
-	CoordsFile    string    `yaml:"coords_file"`
-	CoordsType    string    `yaml:"coords_type"`
-	Distance      float64   `yaml:"distance"`
-	TimeSpent     float64   `yaml:"time_spent"`
-	Elevation     int       `yaml:"elevation"`
-	Temperature   *int      `yaml:"temperature"`
+	Layout        string     `yaml:"layout"`
+	Title         string     `yaml:"title"`
+	Subtitle      string     `yaml:"subtitle"`
+	Desc          string     `yaml:"desc"`
+	Keywords      []string   `yaml:"keywords"`
+	Date          time.Time  `yaml:"date"`
+	FinishedAt    *yamlTime  `yaml:"finished_at"`
+	Author        string     `yaml:"author"`
+	Categories    string     `yaml:"categories"`
+	ImageFilename string     `yaml:"image_filename"`
+	ImagePosition string     `yaml:"image_position"`
+	Tags          []string   `yaml:"tags"`
+	Towns         []string   `yaml:"towns"`
+	Lands         []string   `yaml:"lands"`
+	Foreign       []string   `yaml:"foreign"`
+	CoordsFile    string     `yaml:"coords_file"`
+	CoordsType    string     `yaml:"coords_type"`
+	Distance      float64    `yaml:"distance"`
+	TimeSpent     float64    `yaml:"time_spent"`
+	Elevation     int        `yaml:"elevation"`
+	Temperature   *int       `yaml:"temperature"`
 	Strava        yamlStrava `yaml:"strava"`
 }
 

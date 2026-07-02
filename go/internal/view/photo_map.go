@@ -186,14 +186,14 @@ func PostMapSVGs(data *catalog.SiteData, r *router.Router) []Renderable {
 
 		// Small post map (dots + routes)
 		result = append(result, svgpkg.NewSvgMapView(svgpkg.SvgMapParams{
-			URL:        fmt.Sprintf("/mapa_zdjec/wpis/%s.svg", post.Slug),
-			Zoom:       10,
-			Width:      1000,
-			DrawRoutes: true,
-			DrawDots:   true,
-			Photos:     photos,
-			Routes:     routes,
-			PostBySlug: postBySlug,
+			URL:         fmt.Sprintf("/mapa_zdjec/wpis/%s.svg", post.Slug),
+			Zoom:        10,
+			Width:       1000,
+			DrawRoutes:  true,
+			DrawDots:    true,
+			Photos:      photos,
+			Routes:      routes,
+			PostBySlug:  postBySlug,
 			RouteColors: data.RouteColors,
 		}))
 	}

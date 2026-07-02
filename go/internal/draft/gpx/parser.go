@@ -45,8 +45,8 @@ type metadata struct {
 }
 
 type trackXML struct {
-	Name    string      `xml:"name"`
-	Type    string      `xml:"type"`
+	Name     string       `xml:"name"`
+	Type     string       `xml:"type"`
 	Segments []segmentXML `xml:"trkseg"`
 }
 
@@ -55,10 +55,10 @@ type segmentXML struct {
 }
 
 type trackPointXML struct {
-	Lat   string  `xml:"lat,attr"`
-	Lon   string  `xml:"lon,attr"`
-	Ele   float64 `xml:"ele"`
-	Time  string  `xml:"time"`
+	Lat  string  `xml:"lat,attr"`
+	Lon  string  `xml:"lon,attr"`
+	Ele  float64 `xml:"ele"`
+	Time string  `xml:"time"`
 }
 
 // ParseFile reads a GPX file and returns the parsed track points.

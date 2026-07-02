@@ -111,7 +111,7 @@ func TestSitemap(t *testing.T) {
 	views := []Renderable{
 		NewHTMLPage("/page1.html", layout.PageData{}, nil, true),
 		NewHTMLPage("/page2.html", layout.PageData{}, nil, true),
-		NewJSONEndpoint("/jsons/data.json", nil),   // not in sitemap
+		NewJSONEndpoint("/jsons/data.json", nil),       // not in sitemap
 		NewRedirectPage("/old.html", "/new.html", 302), // not in sitemap
 	}
 

@@ -7,16 +7,16 @@ import (
 // Post represents a blog post with its metadata and content.
 type Post struct {
 	// Identity
-	Slug     string
-	Title    string
-	Subtitle string
-	Desc     string
-	Author   string
-	Category string
-	URL      string // /YYYY/MM/DD-slug.html
-	Date     time.Time
+	Slug       string
+	Title      string
+	Subtitle   string
+	Desc       string
+	Author     string
+	Category   string
+	URL        string // /YYYY/MM/DD-slug.html
+	Date       time.Time
 	FinishedAt *time.Time
-	Keywords []string
+	Keywords   []string
 
 	// Header image
 	ImageFilename string

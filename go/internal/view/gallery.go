@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/catalog"
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/view/template/layout"
 	"odkrywajac/internal/view/template/views"
@@ -475,10 +475,10 @@ func buildGalleryConfigHTML(title string, photos []*model.Photo, data *catalog.S
 			"img.url":                  r.PostImageURL(post, photo.ImageFilename),
 			"img.url.avif":             "",
 			"img.alt":                  photo.Desc,
-			"img.title":               photo.Desc,
+			"img.title":                photo.Desc,
 			"img.full_image_sanitized": sanitizeImageID(photo.ImageFilename),
-			"post.url":                r.PostURL(post),
-			"post.title":              post.Title,
+			"post.url":                 r.PostURL(post),
+			"post.title":               post.Title,
 		}
 
 		if photo.Exif != nil {

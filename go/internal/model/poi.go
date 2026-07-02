@@ -15,4 +15,3 @@ func (s *TrainStation) PoznanTimeDistance() float64 {
 	}
 	return 0
 }
-

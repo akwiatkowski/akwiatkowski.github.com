@@ -78,10 +78,10 @@ func TestPostArticlePageRender(t *testing.T) {
 		"<!doctype html>",
 		"<title>Pagórki przed żniwami - Odkrywając Polskę</title>",
 		"<strong>bold</strong>",        // rendered markdown
-		"Rowerem",                       // tag link
+		"Rowerem",                      // tag link
 		"/wpisy-dla/tagu/rowerem.html", // tag URL
-		"Pobiedziska",                   // area link
-		"Second Post",                   // pager (next post)
+		"Pobiedziska",                  // area link
+		"Second Post",                  // pager (next post)
 		"site-nav",
 		"site-footer",
 	}

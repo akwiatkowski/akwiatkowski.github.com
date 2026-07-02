@@ -78,5 +78,5 @@ tests/e2e/playwright-report/
 # scratch and build artifacts
 /tmp/
 /test-results/
-/go-rewrite/bin/
-/go-rewrite/odkrywajac
+/go/bin/
+/go/odkrywajac

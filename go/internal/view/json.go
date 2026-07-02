@@ -13,12 +13,12 @@ import (
 // E2EJSON creates a JSON endpoint with all post data for E2E tests.
 func E2EJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type postEntry struct {
-		URL           string   `json:"url"`
-		Ready         bool     `json:"ready"`
-		PhotosCount   int      `json:"photos_count"`
-		HasRoute      bool     `json:"has_route"`
-		Tags          []string `json:"tags"`
-		Voivodeships  []string `json:"voivodeships"`
+		URL          string   `json:"url"`
+		Ready        bool     `json:"ready"`
+		PhotosCount  int      `json:"photos_count"`
+		HasRoute     bool     `json:"has_route"`
+		Tags         []string `json:"tags"`
+		Voivodeships []string `json:"voivodeships"`
 	}
 
 	type tagEntry struct {
@@ -373,23 +373,23 @@ func IdeasJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	}
 
 	type ideaEntry struct {
-		Slug               string              `json:"slug"`
-		Link               string              `json:"link"`
-		Distance           int                 `json:"distance"`
-		Elevation          *int                `json:"elevation"`
-		DaysMinLegacy      int                 `json:"lindays_mink"`
-		DaysMin            int                 `json:"days_min"`
-		DaysNormal         int                 `json:"days_normal"`
-		Start              stationInfo         `json:"start"`
-		Finish             stationInfo         `json:"finish"`
-		Direction          float64             `json:"direction"`
-		DirectionChar      string              `json:"direction_char"`
-		TimeCostStats      model.TimeCostStats `json:"time_cost_stats_for_new_town"`
-		Surfaces           []string            `json:"surfaces"`
-		Towns              []string            `json:"towns"`
-		PhotoMapURL        string              `json:"photo_map_url"`
-		TownsAlreadyVisit  int                 `json:"towns_already_visited"`
-		TownsNotVisited    int                 `json:"towns_not_visited"`
+		Slug              string              `json:"slug"`
+		Link              string              `json:"link"`
+		Distance          int                 `json:"distance"`
+		Elevation         *int                `json:"elevation"`
+		DaysMinLegacy     int                 `json:"lindays_mink"`
+		DaysMin           int                 `json:"days_min"`
+		DaysNormal        int                 `json:"days_normal"`
+		Start             stationInfo         `json:"start"`
+		Finish            stationInfo         `json:"finish"`
+		Direction         float64             `json:"direction"`
+		DirectionChar     string              `json:"direction_char"`
+		TimeCostStats     model.TimeCostStats `json:"time_cost_stats_for_new_town"`
+		Surfaces          []string            `json:"surfaces"`
+		Towns             []string            `json:"towns"`
+		PhotoMapURL       string              `json:"photo_map_url"`
+		TownsAlreadyVisit int                 `json:"towns_already_visited"`
+		TownsNotVisited   int                 `json:"towns_not_visited"`
 	}
 
 	type ideasData struct {
