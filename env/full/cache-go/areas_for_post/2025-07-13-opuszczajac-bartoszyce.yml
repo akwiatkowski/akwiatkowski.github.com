@@ -1,0 +1,93 @@
+---
+- type: bicycle
+  total_distance_meters: 35671.66
+  total_distance_km: 35.672
+  points_count: 217
+  towns:
+    - slug: korsze
+      name: Korsze
+      code: "2808043"
+      distance_meters: 14133.1
+      distance_km: 14.133
+      distance_percent: 39.62
+    - slug: sepopol
+      name: Sępopol
+      code: "2801063"
+      distance_meters: 13888.21
+      distance_km: 13.888
+      distance_percent: 38.9335
+    - slug: bartoszyce
+      name: Bartoszyce
+      code: "2801032"
+      distance_meters: 7650.35
+      distance_km: 7.65
+      distance_percent: 21.4466
+    - slug: bartoszyce
+      name: Bartoszyce
+      code: "2801011"
+      distance_meters: 1509.19
+      distance_km: 1.509
+      distance_percent: 4.2308
+  counties:
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+      distance_meters: 21538.56
+      distance_km: 21.539
+      distance_percent: 60.38
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 14133.1
+      distance_km: 14.133
+      distance_percent: 39.62
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 35671.66
+      distance_km: 35.672
+      distance_percent: 100
+  meso_regions:
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+      distance_meters: 35671.66
+      distance_km: 35.672
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+      distance_meters: 35671.66
+      distance_km: 35.672
+      distance_percent: 100
+  touched_towns:
+    - slug: bartoszyce
+      name: Bartoszyce
+      code: "2801011"
+    - slug: korsze
+      name: Korsze
+      code: "2808043"
+    - slug: sepopol
+      name: Sępopol
+      code: "2801063"
+  touched_counties:
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+  touched_macro_regions:
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"

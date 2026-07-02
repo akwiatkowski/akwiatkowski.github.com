@@ -1,0 +1,24 @@
+package components
+
+import "fmt"
+
+templ RedirectPage(target string, status int) {
+	<!DOCTYPE html>
+	<html lang="pl">
+		<head>
+			<meta charset="utf-8"/>
+			<title>{ fmt.Sprintf("Redirect (%d)", status) }</title>
+			<meta http-equiv="refresh" content={ fmt.Sprintf("0; url=%s", target) }/>
+		</head>
+		<body>
+			<p>
+				Przekierowanie do <a href={ templ.SafeURL(target) }>{ target }</a>
+			</p>
+			@RedirectScript(target)
+		</body>
+	</html>
+}
+
+script RedirectScript(target string) {
+	window.location.replace(target);
+}

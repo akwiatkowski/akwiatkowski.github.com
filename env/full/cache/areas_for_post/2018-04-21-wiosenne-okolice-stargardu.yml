@@ -4,7 +4,7 @@
   total_distance_km: 75.489
   points_count: 286.0
   towns:
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-wiejska
     name: Stargard
     code: "3214102"
     distance_meters: 16654.37
@@ -28,7 +28,7 @@
     distance_meters: 12858.53
     distance_km: 12.859
     distance_percent: 17.0336
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-miejska
     name: Stargard
     code: "3214011"
     distance_meters: 4514.83
@@ -132,9 +132,12 @@
     distance_km: 75.489
     distance_percent: 100.0
   touched_towns:
-  - slug: stargard
+  - slug: stargard-zachodniopomorskie-miejska
     name: Stargard
     code: "3214011"
+  - slug: stargard-zachodniopomorskie-wiejska
+    name: Stargard
+    code: "3214102"
   - slug: marianowo
     name: Marianowo
     code: "3214082"

@@ -40,7 +40,7 @@
     distance_meters: 9159.84
     distance_km: 9.16
     distance_percent: 10.3654
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
     distance_meters: 1763.12
@@ -140,7 +140,7 @@
     distance_meters: 30377.34
     distance_km: 30.377
     distance_percent: 34.3753
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 6845.8
@@ -152,7 +152,7 @@
     distance_meters: 6212.72
     distance_km: 6.213
     distance_percent: 7.0304
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 3645.29
@@ -186,7 +186,7 @@
     distance_km: 88.37
     distance_percent: 100.0
   touched_towns:
-  - slug: leszno
+  - slug: leszno-wielkopolskie
     name: Leszno
     code: "3063011"
   - slug: swieciechowa
@@ -256,13 +256,13 @@
   - slug: pojezierze_leszczynskie
     name: Pojezierze Leszczyńskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:

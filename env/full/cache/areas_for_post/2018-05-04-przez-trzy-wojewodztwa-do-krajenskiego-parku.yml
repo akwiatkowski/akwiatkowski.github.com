@@ -84,7 +84,7 @@
     distance_km: 2.199
     distance_percent: 2.7546
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 59911.33
@@ -200,7 +200,7 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie

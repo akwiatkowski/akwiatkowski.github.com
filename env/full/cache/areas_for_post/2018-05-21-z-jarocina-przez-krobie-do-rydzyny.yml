@@ -40,7 +40,7 @@
     distance_meters: 7068.53
     distance_km: 7.069
     distance_percent: 9.4791
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
     distance_meters: 6171.63
@@ -126,7 +126,7 @@
     distance_km: 74.57
     distance_percent: 100.0
   touched_towns:
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
   - slug: jaraczewo

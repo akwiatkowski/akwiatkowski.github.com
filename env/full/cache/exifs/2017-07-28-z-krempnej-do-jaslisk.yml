@@ -129,6 +129,9 @@
   time: 2017-07-28 10:05:22.000000000+02:00
 - image_filename: IMGP9624raw1.jpg
   post_slug: 2017-07-28-z-krempnej-do-jaslisk
+  lat: 49.46392222222222
+  lon: 21.69606111111111
+  altitude: 392.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -140,6 +143,9 @@
   time: 2017-07-28 12:42:34.000000000+02:00
 - image_filename: IMGP9625raw1.jpg
   post_slug: 2017-07-28-z-krempnej-do-jaslisk
+  lat: 49.4639
+  lon: 21.696025
+  altitude: 392.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -151,6 +157,9 @@
   time: 2017-07-28 12:46:52.000000000+02:00
 - image_filename: IMGP9628raw1.jpg
   post_slug: 2017-07-28-z-krempnej-do-jaslisk
+  lat: 49.45843055555556
+  lon: 21.700477777777778
+  altitude: 395.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

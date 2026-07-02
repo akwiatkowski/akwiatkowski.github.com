@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP7380raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  lat: 50.85468270214944
+  lon: 15.360746567505721
+  altitude: 837.2661596958175
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-06-20T12:26:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP7383raw1.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  lat: 50.892434092205114
+  lon: 15.306069999899238
+  altitude: 1088.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-06-20T13:36:43+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2014-06-20-przez-jakuszyce-i-stog-izerski
+  lat: 50.89271522131888
+  lon: 15.306637119494264
+  altitude: 1079.7
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-06-20T13:37:38+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

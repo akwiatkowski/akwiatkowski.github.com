@@ -1,0 +1,326 @@
+---
+- image_filename: IMGP6602raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.79996248150496
+  lon: 19.190462278201473
+  altitude: 330.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T08:26:44+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6624raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.80739337395278
+  lon: 19.201840208802366
+  altitude: 327.95
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T08:47:06+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6625raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.80724970811442
+  lon: 19.201952023406655
+  altitude: 327.95
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T08:47:37+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6648raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.79814109387672
+  lon: 19.20237656681538
+  altitude: 356.79
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T09:11:19+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6691raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.78725249881009
+  lon: 19.22404672021419
+  altitude: 744.2
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T10:39:42+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: IMGP6695raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.787139175499924
+  lon: 19.224077649403736
+  altitude: 746.12
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T10:41:42+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6707raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.78729072031148
+  lon: 19.224148476503906
+  altitude: 745.16
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T10:48:00+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6717raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.78738644160834
+  lon: 19.224193403543143
+  altitude: 745.64
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T11:06:44+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6727raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.78711847222222
+  lon: 19.2249128221789
+  altitude: 757.18
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T11:19:06+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6779raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.791413946162656
+  lon: 19.248338146089864
+  altitude: 815.34
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 10
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T12:16:34+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6816raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.77917712177122
+  lon: 19.29296432062561
+  altitude: 823.99
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T13:56:55+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6832raw1.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.77319017980636
+  lon: 19.344857772809142
+  altitude: 725.93
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T16:03:55+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: header.jpg
+  post_slug: 2014-06-01-centralna-czesc-beskidu-malego
+  lat: 49.8005639668973
+  lon: 19.191301558203484
+  altitude: 335.16
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 10
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-05-31T08:28:26+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0

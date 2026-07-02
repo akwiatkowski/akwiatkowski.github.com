@@ -1,0 +1,185 @@
+package view
+
+import (
+	"encoding/json"
+	"math"
+	"sort"
+
+	"odkrywajac/internal/catalog"
+	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/bundle"
+	"odkrywajac/internal/service/router"
+	"odkrywajac/internal/service/spatial"
+	"odkrywajac/internal/view/template/layout"
+	"odkrywajac/internal/view/template/views"
+)
+
+const (
+	autoPoiClusterRadiusM = 500.0
+	autoPoiDedupDistanceM = 20000.0
+	autoPoiMaxCount       = 20
+)
+
+// POIsPage creates a Renderable for the POIs page.
+func POIsPage(
+	data *catalog.SiteData,
+	r *router.Router,
+	resolver *bundle.Resolver,
+) Renderable {
+	url := r.POIsURL()
+
+	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "leaflet", "react-runtime"}, []string{"pois"})
+
+	page := layout.PageData{
+		Title:        "Ciekawe miejsca",
+		Desc:         "Punkty zainteresowania odwiedzone i planowane",
+		URL:          url,
+		CanonicalURL: r.CanonicalURL(url),
+		SiteName:     data.Config.Title,
+		CSSFiles:     cssFiles,
+		JSFiles:      jsFiles,
+		PageJSFiles:  []string{"/js/self/pois.js"},
+		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
+	}
+
+	pois := buildPOIs(data, r)
+	poisJSON, _ := json.Marshal(map[string]interface{}{"pois": pois})
+	rawScript := `<script id="pois-data" type="application/json">` + string(poisJSON) + `</script>`
+
+	return NewHTMLPage(url, page, views.POIsContent(rawScript), true)
+}
+
+func buildPOIs(data *catalog.SiteData, r *router.Router) []views.POIEntry {
+	var result []views.POIEntry
+
+	// Manual POIs from train stations
+	for _, station := range data.Stations {
+		entry := views.POIEntry{
+			Name: station.Name,
+			Lat:  station.Lat,
+			Lon:  station.Lon,
+			Type: "visited",
+		}
+
+		// Find closest geotagged photo
+		if photo, post := findClosestPhoto(station.Lat, station.Lon, data); photo != nil {
+			entry.PhotoURL = r.ProcessedImageURL(post, photo.ImageFilename, "grid", "jpg")
+			entry.PhotoAVIF = r.ProcessedImageURL(post, photo.ImageFilename, "grid", "avif")
+			entry.PhotoDesc = photo.Desc
+			entry.PostTitle = post.Title
+			entry.PostURL = r.PostURL(post)
+		}
+
+		result = append(result, entry)
+	}
+
+	// Auto-POIs from best geotagged photos
+	autoPOIs := buildAutoPOIs(data, r, result)
+	result = append(result, autoPOIs...)
+
+	return result
+}
+
+func buildAutoPOIs(data *catalog.SiteData, r *router.Router, manualPOIs []views.POIEntry) []views.POIEntry {
+	// Collect all geotagged photos with points
+	type scoredPhoto struct {
+		photo *model.Photo
+		post  *model.Post
+	}
+	var candidates []scoredPhoto
+	for _, post := range data.Posts {
+		if !post.IsFinished() {
+			continue
+		}
+		for _, photo := range post.PublishedPhotos {
+			if photo.HasGPS() && photo.Points > 0 {
+				candidates = append(candidates, scoredPhoto{photo, post})
+			}
+		}
+	}
+
+	sort.Slice(candidates, func(i, j int) bool {
+		return candidates[i].photo.Points > candidates[j].photo.Points
+	})
+
+	var autoPOIs []views.POIEntry
+	var selectedCoords [][2]float64
+
+	for _, c := range candidates {
+		if len(autoPOIs) >= autoPoiMaxCount {
+			break
+		}
+
+		lat := *c.photo.Exif.Lat
+		lon := *c.photo.Exif.Lon
+
+		// Skip if within dedup distance of manual POI
+		tooClose := false
+		for _, mp := range manualPOIs {
+			if haversineM(lat, lon, mp.Lat, mp.Lon) < autoPoiDedupDistanceM {
+				tooClose = true
+				break
+			}
+		}
+		if tooClose {
+			continue
+		}
+
+		// Skip if within cluster radius of already-selected
+		for _, sc := range selectedCoords {
+			if haversineM(lat, lon, sc[0], sc[1]) < autoPoiClusterRadiusM {
+				tooClose = true
+				break
+			}
+		}
+		if tooClose {
+			continue
+		}
+
+		selectedCoords = append(selectedCoords, [2]float64{lat, lon})
+		autoPOIs = append(autoPOIs, views.POIEntry{
+			Name:      c.photo.Desc,
+			Lat:       lat,
+			Lon:       lon,
+			Type:      "auto",
+			PhotoURL:  r.ProcessedImageURL(c.post, c.photo.ImageFilename, "grid", "jpg"),
+			PhotoAVIF: r.ProcessedImageURL(c.post, c.photo.ImageFilename, "grid", "avif"),
+			PhotoDesc: c.photo.Desc,
+			PostTitle: c.post.Title,
+			PostURL:   r.PostURL(c.post),
+		})
+	}
+
+	return autoPOIs
+}
+
+func findClosestPhoto(lat, lon float64, data *catalog.SiteData) (*model.Photo, *model.Post) {
+	var bestPhoto *model.Photo
+	var bestPost *model.Post
+	bestDist := math.MaxFloat64
+
+	for _, post := range data.Posts {
+		if !post.IsFinished() {
+			continue
+		}
+		for _, photo := range post.PublishedPhotos {
+			if !photo.HasGPS() {
+				continue
+			}
+			d := haversineM(*photo.Exif.Lat, *photo.Exif.Lon, lat, lon)
+			if d < bestDist {
+				bestDist = d
+				bestPhoto = photo
+				bestPost = post
+			}
+		}
+	}
+
+	return bestPhoto, bestPost
+}
+
+// haversineM returns distance in meters between two lat/lon points.
+// Delegates to the shared spatial.HaversineM implementation.
+func haversineM(lat1, lon1, lat2, lon2 float64) float64 {
+	return spatial.HaversineM(lat1, lon1, lat2, lon2)
+}

@@ -12,19 +12,11 @@ map.subtitle: Wszystkie trasy narysowane na mapie
 
 planner.backgrounds: /images/2016/2016-07-21-grania-tatr-zachodnich-na-wolowiec/header.jpg
 planner.title: Planer górski
-more.subtitle: Jakie pasmo powinienem odwiedzić teraz
-
-more.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9169raw1.jpg
-more.title: Więcej linków...
-more.subtitle: czyli to co nie zmieściło się w nagłówku
+planner.subtitle: Jakie pasmo powinienem odwiedzić teraz
 
 about.backgrounds: /images/2016/2016-05-10-okolice-noteci-miedzy-krzyzem-a-santokiem/G0034499b.jpg
 about.title: O mnie
 about.subtitle: I o tej stronie
-
-summary.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9706raw1.jpg
-summary.title: Zestawienie wpisów
-summary.subtitle: Podzielone przez krainy i gminy
 
 timeline.backgrounds: /images/2016/2016-11-14-polowanie-na-wschod-i-zachod-w-okolicy-szrenicy/IMGP9706raw1.jpg
 timeline.title: Miesiące
@@ -64,10 +56,6 @@ gallery.lens.subtitle: Zdjęcia wybranym obiektywem
 gallery.cat.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
 gallery.cat.title: Koty polskie
 gallery.cat.subtitle: Spotkane koty na trasie
-
-gallery.portfolio.backgrounds: /images/2016/2016-12-30-wejscie-na-sniezke-z-przeleczy-okraj/IMGP0995raw1.jpg
-gallery.portfolio.title: Najlepsze zdjęcia
-gallery.portfolio.subtitle:
 
 # TODO
 gallery.good.backgrounds:
@@ -117,9 +105,6 @@ gallery.rural.subtitle: wszystko to co ani nie jest miastem, ani nie jest czyst�
 gallery.night.backgrounds:
 gallery.night.title: Noc
 gallery.night.subtitle: zdjęcia zrobione przy trochę ciemniejszych warunkach oświetleniowych
-
-# but it shouldn't be used
-portfolio.title: Portfolio
 
 en.backgrounds: /images/2019/2019-10-11-wschodnie-rudawy-janowickie/2019_10_11__17_27_DSC01519.jpg
 en.title: Welcome

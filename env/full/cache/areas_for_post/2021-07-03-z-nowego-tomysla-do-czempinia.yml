@@ -35,7 +35,7 @@
     distance_km: 5.046
     distance_percent: 8.9152
   counties:
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
     distance_meters: 30930.75
@@ -104,7 +104,7 @@
     distance_meters: 5454.69
     distance_km: 5.455
     distance_percent: 9.638
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 2670.14
@@ -151,7 +151,7 @@
   - slug: nowotomyski
     name: nowotomyski
     code: "3015"
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
   - slug: poznanski
@@ -181,7 +181,7 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

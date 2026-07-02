@@ -22,13 +22,13 @@
     distance_meters: 13871.72
     distance_km: 13.872
     distance_percent: 19.6809
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
     distance_meters: 10069.29
     distance_km: 10.069
     distance_percent: 14.2861
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-miejska
     name: Szczecinek
     code: "3215011"
     distance_meters: 3725.79
@@ -117,9 +117,12 @@
   - slug: borne_sulinowo
     name: Borne Sulinowo
     code: "3215043"
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
+  - slug: szczecinek-zachodniopomorskie-miejska
+    name: Szczecinek
+    code: "3215011"
   touched_counties:
   - slug: drawski
     name: drawski

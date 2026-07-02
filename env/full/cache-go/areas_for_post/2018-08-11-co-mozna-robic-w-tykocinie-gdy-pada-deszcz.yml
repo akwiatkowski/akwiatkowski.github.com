@@ -1,0 +1,69 @@
+---
+- type: bicycle
+  total_distance_meters: 12495.66
+  total_distance_km: 12.496
+  points_count: 97
+  towns:
+    - slug: tykocin
+      name: Tykocin
+      code: "2002123"
+      distance_meters: 12495.66
+      distance_km: 12.496
+      distance_percent: 100
+  counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+      distance_meters: 12495.66
+      distance_km: 12.496
+      distance_percent: 100
+  voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 12495.66
+      distance_km: 12.496
+      distance_percent: 100
+  meso_regions:
+    - slug: dolina_gornej_narwi
+      name: Dolina Górnej Narwi
+      code: "843.36"
+      distance_meters: 7925.66
+      distance_km: 7.926
+      distance_percent: 63.4273
+    - slug: wysoczyzna_wysokomazowiecka
+      name: Wysoczyzna Wysokomazowiecka
+      code: "843.35"
+      distance_meters: 4570.01
+      distance_km: 4.57
+      distance_percent: 36.5727
+  macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 12495.66
+      distance_km: 12.496
+      distance_percent: 100
+  touched_towns:
+    - slug: tykocin
+      name: Tykocin
+      code: "2002123"
+  touched_counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+  touched_meso_regions:
+    - slug: dolina_gornej_narwi
+      name: Dolina Górnej Narwi
+      code: "843.36"
+    - slug: wysoczyzna_wysokomazowiecka
+      name: Wysoczyzna Wysokomazowiecka
+      code: "843.35"
+  touched_macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"

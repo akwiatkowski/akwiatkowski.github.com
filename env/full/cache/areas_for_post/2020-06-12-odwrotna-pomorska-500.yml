@@ -10,7 +10,7 @@
     distance_meters: 24902.58
     distance_km: 24.903
     distance_percent: 23.3853
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
     distance_meters: 24019.37
@@ -147,7 +147,7 @@
   - slug: bobolice
     name: Bobolice
     code: "3209033"
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
   - slug: grzmiaca

@@ -1,0 +1,321 @@
+---
+- type: train
+  total_distance_meters: 247440.34
+  total_distance_km: 247.44
+  points_count: 700
+  towns:
+    - slug: sulikow
+      name: Sulików
+      code: "0225052"
+      distance_meters: 29964.25
+      distance_km: 29.964
+      distance_percent: 12.1097
+    - slug: zgorzelec
+      name: Zgorzelec
+      code: "0225072"
+      distance_meters: 21880.08
+      distance_km: 21.88
+      distance_percent: 8.8426
+    - slug: nowogrodziec
+      name: Nowogrodziec
+      code: "0201043"
+      distance_meters: 20821.84
+      distance_km: 20.822
+      distance_percent: 8.4149
+    - slug: lwowek_slaski
+      name: Lwówek Śląski
+      code: "0212033"
+      distance_meters: 18376.09
+      distance_km: 18.376
+      distance_percent: 7.4265
+    - slug: bogatynia
+      name: Bogatynia
+      code: "0225033"
+      distance_meters: 16594.46
+      distance_km: 16.594
+      distance_percent: 6.7064
+    - slug: wegliniec
+      name: Węgliniec
+      code: "0225063"
+      distance_meters: 15726.73
+      distance_km: 15.727
+      distance_percent: 6.3558
+    - slug: zgorzelec
+      name: Zgorzelec
+      code: "0225021"
+      distance_meters: 15135.22
+      distance_km: 15.135
+      distance_percent: 6.1167
+    - slug: wlen
+      name: Wleń
+      code: "0212053"
+      distance_meters: 14653.52
+      distance_km: 14.654
+      distance_percent: 5.922
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+      distance_meters: 12042.05
+      distance_km: 12.042
+      distance_percent: 4.8666
+    - slug: piensk
+      name: Pieńsk
+      code: "0225043"
+      distance_meters: 11655.38
+      distance_km: 11.655
+      distance_percent: 4.7104
+    - slug: stara_kamienica
+      name: Stara Kamienica
+      code: "0206092"
+      distance_meters: 11381.42
+      distance_km: 11.381
+      distance_percent: 4.5997
+    - slug: gryfow_slaski
+      name: Gryfów Śląski
+      code: "0212013"
+      distance_meters: 11235.13
+      distance_km: 11.235
+      distance_percent: 4.5405
+    - slug: mirsk
+      name: Mirsk
+      code: "0212043"
+      distance_meters: 8937.53
+      distance_km: 8.938
+      distance_percent: 3.612
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+      distance_meters: 6895.26
+      distance_km: 6.895
+      distance_percent: 2.7866
+    - slug: siekierczyn
+      name: Siekierczyn
+      code: "0210072"
+      distance_meters: 6346.76
+      distance_km: 6.347
+      distance_percent: 2.565
+    - slug: olszyna
+      name: Olszyna
+      code: "0210053"
+      distance_meters: 6331.54
+      distance_km: 6.332
+      distance_percent: 2.5588
+    - slug: luban
+      name: Lubań
+      code: "0210011"
+      distance_meters: 4407.74
+      distance_km: 4.408
+      distance_percent: 1.7813
+    - slug: platerowka
+      name: Platerówka
+      code: "0210062"
+      distance_meters: 2996.18
+      distance_km: 2.996
+      distance_percent: 1.2109
+    - slug: luban
+      name: Lubań
+      code: "0210042"
+      distance_meters: 2687.09
+      distance_km: 2.687
+      distance_percent: 1.086
+    - slug: lubomierz
+      name: Lubomierz
+      code: "0212023"
+      distance_meters: 563.6
+      distance_km: 0.564
+      distance_percent: 0.2278
+    - slug: osiecznica
+      name: Osiecznica
+      code: "0201052"
+      distance_meters: 423.36
+      distance_km: 0.423
+      distance_percent: 0.1711
+  counties:
+    - slug: zgorzelecki
+      name: zgorzelecki
+      code: "0225"
+      distance_meters: 110956.11
+      distance_km: 110.956
+      distance_percent: 44.8416
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+      distance_meters: 53765.88
+      distance_km: 53.766
+      distance_percent: 21.7288
+    - slug: lubanski
+      name: lubański
+      code: "0210"
+      distance_meters: 22769.31
+      distance_km: 22.769
+      distance_percent: 9.2019
+    - slug: boleslawiecki
+      name: bolesławiecki
+      code: "0201"
+      distance_meters: 21245.2
+      distance_km: 21.245
+      distance_percent: 8.586
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 18276.68
+      distance_km: 18.277
+      distance_percent: 7.3863
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+      distance_meters: 12042.05
+      distance_km: 12.042
+      distance_percent: 4.8666
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 239055.22
+      distance_km: 239.055
+      distance_percent: 96.6113
+  meso_regions:
+    - slug: pogorze_izerskie
+      name: Pogórze Izerskie
+      code: "332.26"
+      distance_meters: 220798.17
+      distance_km: 220.798
+      distance_percent: 89.2329
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 8395.02
+      distance_km: 8.395
+      distance_percent: 3.3927
+    - slug: bory_dolnoslaskie
+      name: Bory Dolnośląskie
+      code: "317.74"
+      distance_meters: 6575.96
+      distance_km: 6.576
+      distance_percent: 2.6576
+    - slug: kotlina_zytawska
+      name: Kotlina Żytawska
+      code: "332.25"
+      distance_meters: 3077.72
+      distance_km: 3.078
+      distance_percent: 1.2438
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 1986.67
+      distance_km: 1.987
+      distance_percent: 0.8029
+  macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+      distance_meters: 223875.89
+      distance_km: 223.876
+      distance_percent: 90.4767
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 10381.69
+      distance_km: 10.382
+      distance_percent: 4.1956
+    - slug: nizina_slasko-luzycka
+      name: Nizina Śląsko-Łużycka
+      code: "317"
+      distance_meters: 6575.96
+      distance_km: 6.576
+      distance_percent: 2.6576
+  touched_towns:
+    - slug: bogatynia
+      name: Bogatynia
+      code: "0225033"
+    - slug: gryfow_slaski
+      name: Gryfów Śląski
+      code: "0212013"
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+    - slug: luban
+      name: Lubań
+      code: "0210042"
+    - slug: lubomierz
+      name: Lubomierz
+      code: "0212023"
+    - slug: lwowek_slaski
+      name: Lwówek Śląski
+      code: "0212033"
+    - slug: mirsk
+      name: Mirsk
+      code: "0212043"
+    - slug: nowogrodziec
+      name: Nowogrodziec
+      code: "0201043"
+    - slug: olszyna
+      name: Olszyna
+      code: "0210053"
+    - slug: piensk
+      name: Pieńsk
+      code: "0225043"
+    - slug: siekierczyn
+      name: Siekierczyn
+      code: "0210072"
+    - slug: stara_kamienica
+      name: Stara Kamienica
+      code: "0206092"
+    - slug: sulikow
+      name: Sulików
+      code: "0225052"
+    - slug: wegliniec
+      name: Węgliniec
+      code: "0225063"
+    - slug: wlen
+      name: Wleń
+      code: "0212053"
+    - slug: zgorzelec
+      name: Zgorzelec
+      code: "0225021"
+  touched_counties:
+    - slug: boleslawiecki
+      name: bolesławiecki
+      code: "0201"
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: lubanski
+      name: lubański
+      code: "0210"
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+    - slug: zgorzelecki
+      name: zgorzelecki
+      code: "0225"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+    - slug: kotlina_zytawska
+      name: Kotlina Żytawska
+      code: "332.25"
+    - slug: pogorze_izerskie
+      name: Pogórze Izerskie
+      code: "332.26"
+  touched_macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

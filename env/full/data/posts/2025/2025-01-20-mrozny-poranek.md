@@ -17,6 +17,7 @@ coords:                 [{"route": [], "type": "hike"}]
 distance:               13
 time_spent:             1
 elevation:              90
+terrain:                6.9 # m/km przewyższeń — pofalowany
 temperature:            -2
 
 

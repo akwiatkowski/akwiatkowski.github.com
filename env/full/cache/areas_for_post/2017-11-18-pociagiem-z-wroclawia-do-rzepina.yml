@@ -34,7 +34,7 @@
     distance_meters: 15313.18
     distance_km: 15.313
     distance_percent: 6.9234
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-miejska
     name: Głogów
     code: "0203011"
     distance_meters: 13592.34
@@ -100,7 +100,7 @@
     distance_meters: 6628.0
     distance_km: 6.628
     distance_percent: 2.9966
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-miejska
     name: Nowa Sól
     code: 0804011
     distance_meters: 5971.97
@@ -118,13 +118,13 @@
     distance_meters: 4781.68
     distance_km: 4.782
     distance_percent: 2.1619
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-wiejska
     name: Nowa Sól
     code: 0804052
     distance_meters: 2889.88
     distance_km: 2.89
     distance_percent: 1.3066
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
     distance_meters: 2869.68
@@ -149,7 +149,7 @@
     distance_meters: 24021.11
     distance_km: 24.021
     distance_percent: 10.8604
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
     distance_meters: 23535.29
@@ -185,7 +185,7 @@
     distance_meters: 13401.23
     distance_km: 13.401
     distance_percent: 6.0589
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
     distance_meters: 12617.37
@@ -302,13 +302,13 @@
     distance_meters: 46626.7
     distance_km: 46.627
     distance_percent: 21.0808
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 40311.34
     distance_km: 40.311
     distance_percent: 18.2255
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 33130.38
@@ -320,13 +320,13 @@
     distance_meters: 21303.68
     distance_km: 21.304
     distance_percent: 9.6318
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 17675.89
     distance_km: 17.676
     distance_percent: 7.9916
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
     distance_meters: 3008.83
@@ -352,7 +352,7 @@
     distance_meters: 79290.91
     distance_km: 79.291
     distance_percent: 35.8489
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
     distance_meters: 3008.83
@@ -390,16 +390,19 @@
   - slug: grebocice
     name: Grębocice
     code: "0216032"
-  - slug: glogow
+  - slug: glogow-dolnoslaskie-wiejska
     name: Głogów
     code: "0203022"
+  - slug: glogow-dolnoslaskie-miejska
+    name: Głogów
+    code: "0203011"
   - slug: zukowice
     name: Żukowice
     code: "0203062"
   - slug: bytom_odrzanski
     name: Bytom Odrzański
     code: 0804023
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-miejska
     name: Nowa Sól
     code: 0804011
   - slug: otyn
@@ -427,7 +430,7 @@
   - slug: wroclaw
     name: Wrocław
     code: "0264"
-  - slug: sredzki
+  - slug: sredzki-dolnoslaskie
     name: średzki
     code: 0218
   - slug: wolowski
@@ -451,7 +454,7 @@
   - slug: zielonogorski
     name: zielonogórski
     code: 0809
-  - slug: krosnienski
+  - slug: krosnienski-lubuskie
     name: krośnieński
     code: 0802
   - slug: sulecinski
@@ -511,19 +514,19 @@
   - slug: wal_trzebnicki
     name: Wał Trzebnicki
     code: "318"
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wzniesienia_zielonogorskie
     name: Wzniesienia Zielonogórskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:
@@ -534,7 +537,7 @@
   - slug: niziny_srodkowopolskie
     name: Niziny Środkowopolskie
     code: "31"
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
   - slug: pojezierza_poludniowobaltyckie

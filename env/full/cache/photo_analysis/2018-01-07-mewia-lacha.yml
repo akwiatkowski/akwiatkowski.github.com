@@ -1,0 +1,826 @@
+---
+- image_filename: IMGP4316raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: f8fcfcf080000000
+  dhash: e2f9690829cd33e3
+  phash: cbcbc96dec642434
+  avg_rgb:
+  - 85
+  - 87
+  - 89
+  top5_rgb:
+  - - 51
+    - 51
+    - 52
+  - - 46
+    - 44
+    - 46
+  - - 51
+    - 51
+    - 45
+  - - 46
+    - 44
+    - 41
+  - - 56
+    - 57
+    - 55
+- image_filename: IMGP4320raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ff3f01fffef00000
+  dhash: f5e6fff6e5e0c286
+  phash: c6b969c696a9d036
+  avg_rgb:
+  - 105
+  - 108
+  - 111
+  top5_rgb:
+  - - 147
+    - 146
+    - 146
+  - - 177
+    - 169
+    - 164
+  - - 44
+    - 38
+    - 33
+  - - 167
+    - 162
+    - 159
+  - - 41
+    - 35
+    - 30
+- image_filename: IMGP4326raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffbf1f1f0f0000
+  dhash: fedf7c6076feefe3
+  phash: 8fdc61700c1e8f7c
+  avg_rgb:
+  - 70
+  - 128
+  - 160
+  top5_rgb:
+  - - 116
+    - 186
+    - 224
+  - - 70
+    - 166
+    - 224
+  - - 132
+    - 193
+    - 223
+  - - 193
+    - 203
+    - 201
+  - - 93
+    - 176
+    - 224
+- image_filename: IMGP4334raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: e0f0f8ff00000000
+  dhash: 010100007b79b838
+  phash: fbe4701b8cc07b2c
+  avg_rgb:
+  - 67
+  - 88
+  - 102
+  top5_rgb:
+  - - 97
+    - 152
+    - 190
+  - - 58
+    - 57
+    - 58
+  - - 46
+    - 58
+    - 68
+  - - 116
+    - 166
+    - 201
+  - - 93
+    - 76
+    - 65
+- image_filename: IMGP4338raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: c3e7ff40e0783818
+  dhash: 0f0f2784c0e1f0f8
+  phash: e9b6bb61510c1ee1
+  avg_rgb:
+  - 94
+  - 98
+  - 98
+  top5_rgb:
+  - - 6
+    - 83
+    - 133
+  - - 179
+    - 130
+    - 87
+  - - 148
+    - 111
+    - 82
+  - - 64
+    - 69
+    - 79
+  - - 105
+    - 88
+    - 78
+- image_filename: IMGP4342raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: e1fbff80c07c0000
+  dhash: 0707070300d8f8d6
+  phash: ebeaa0527d1b80ec
+  avg_rgb:
+  - 92
+  - 105
+  - 114
+  top5_rgb:
+  - - 138
+    - 99
+    - 70
+  - - 54
+    - 119
+    - 165
+  - - 45
+    - 75
+    - 102
+  - - 130
+    - 93
+    - 67
+  - - 42
+    - 104
+    - 151
+- image_filename: IMGP4354raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: fffd8080c0c0c0c0
+  dhash: "0101060604020100"
+  phash: ffe0cae8b53e0c40
+  avg_rgb:
+  - 87
+  - 99
+  - 106
+  top5_rgb:
+  - - 151
+    - 118
+    - 80
+  - - 108
+    - 82
+    - 62
+  - - 133
+    - 104
+    - 74
+  - - 45
+    - 60
+    - 79
+  - - 144
+    - 111
+    - 75
+- image_filename: IMGP4361raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff706070180000
+  dhash: 83c1c180c1b01c0e
+  phash: c0e0bf9f62711c0f
+  avg_rgb:
+  - 108
+  - 101
+  - 86
+  top5_rgb:
+  - - 87
+    - 64
+    - 39
+  - - 211
+    - 167
+    - 103
+  - - 53
+    - 62
+    - 65
+  - - 61
+    - 113
+    - 146
+  - - 104
+    - 74
+    - 44
+- image_filename: IMGP4364raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: fff840e060700000
+  dhash: 80808190c0c0c032
+  phash: c0e09fc7f078431f
+  avg_rgb:
+  - 127
+  - 108
+  - 83
+  top5_rgb:
+  - - 255
+    - 255
+    - 255
+  - - 93
+    - 67
+    - 41
+  - - 118
+    - 97
+    - 77
+  - - 107
+    - 75
+    - 45
+  - - 91
+    - 90
+    - 81
+- image_filename: IMGP4366raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff40e0f0380000
+  dhash: 81838180c0e09c46
+  phash: e0e0bfcfe0780f03
+  avg_rgb:
+  - 129
+  - 107
+  - 71
+  top5_rgb:
+  - - 72
+    - 59
+    - 44
+  - - 92
+    - 80
+    - 59
+  - - 49
+    - 64
+    - 73
+  - - 113
+    - 87
+    - 56
+  - - 103
+    - 70
+    - 33
+- image_filename: IMGP4372raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff180000003c01
+  dhash: f0f0f0d8c7f0f077
+  phash: 81f38fcd23531d8c
+  avg_rgb:
+  - 109
+  - 120
+  - 123
+  top5_rgb:
+  - - 97
+    - 152
+    - 175
+  - - 206
+    - 178
+    - 155
+  - - 205
+    - 179
+    - 154
+  - - 190
+    - 165
+    - 143
+  - - 76
+    - 75
+    - 76
+- image_filename: IMGP4373raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffff0000000000
+  dhash: f0f0e8947bc29cf6
+  phash: 81da94631df0c7b9
+  avg_rgb:
+  - 99
+  - 120
+  - 136
+  top5_rgb:
+  - - 170
+    - 167
+    - 164
+  - - 176
+    - 170
+    - 177
+  - - 53
+    - 60
+    - 71
+  - - 30
+    - 70
+    - 101
+  - - 165
+    - 163
+    - 161
+- image_filename: IMGP4376raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffffffff000000
+  dhash: f0f0f0f030b0e00a
+  phash: d4a36308bdc339bc
+  avg_rgb:
+  - 118
+  - 125
+  - 127
+  top5_rgb:
+  - - 170
+    - 164
+    - 151
+  - - 166
+    - 161
+    - 148
+  - - 159
+    - 152
+    - 140
+  - - 33
+    - 70
+    - 97
+  - - 156
+    - 151
+    - 137
+- image_filename: IMGP4379raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffbfbfff000000
+  dhash: e0c06868b8c6b023
+  phash: 9e976160bc0f07f1
+  avg_rgb:
+  - 115
+  - 122
+  - 124
+  top5_rgb:
+  - - 158
+    - 144
+    - 123
+  - - 170
+    - 157
+    - 158
+  - - 164
+    - 155
+    - 160
+  - - 175
+    - 159
+    - 142
+  - - 173
+    - 157
+    - 142
+- image_filename: IMGP4398raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: 001161e31f0779ff
+  dhash: 3be7cf9f7fe6f3f8
+  phash: 8e26583df16930db
+  avg_rgb:
+  - 113
+  - 113
+  - 111
+  top5_rgb:
+  - - 37
+    - 41
+    - 49
+  - - 140
+    - 145
+    - 148
+  - - 86
+    - 106
+    - 123
+  - - 215
+    - 185
+    - 147
+  - - 29
+    - 32
+    - 39
+- image_filename: IMGP4415raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffff0300000000
+  dhash: 1f1f1fde38670f3f
+  phash: afb9ea4a11254cda
+  avg_rgb:
+  - 90
+  - 104
+  - 111
+  top5_rgb:
+  - - 103
+    - 159
+    - 193
+  - - 80
+    - 76
+    - 73
+  - - 180
+    - 197
+    - 193
+  - - 69
+    - 94
+    - 110
+  - - 219
+    - 187
+    - 152
+- image_filename: IMGP4418raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff000000000000
+  dhash: 80001ce040033ff8
+  phash: fcd7b0e0c3a883b8
+  avg_rgb:
+  - 80
+  - 85
+  - 86
+  top5_rgb:
+  - - 68
+    - 86
+    - 101
+  - - 65
+    - 55
+    - 46
+  - - 74
+    - 98
+    - 114
+  - - 65
+    - 79
+    - 90
+  - - 63
+    - 63
+    - 68
+- image_filename: IMGP4428raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: fffff8c080000000
+  dhash: 0306000100389f61
+  phash: f8e58398e6a1d866
+  avg_rgb:
+  - 110
+  - 113
+  - 113
+  top5_rgb:
+  - - 55
+    - 55
+    - 55
+  - - 224
+    - 222
+    - 208
+  - - 55
+    - 72
+    - 87
+  - - 127
+    - 139
+    - 146
+  - - 63
+    - 82
+    - 99
+- image_filename: IMGP4446raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: f8fefff000000000
+  dhash: 00008080c0989cf4
+  phash: d1e73c3947209c97
+  avg_rgb:
+  - 100
+  - 100
+  - 98
+  top5_rgb:
+  - - 64
+    - 57
+    - 55
+  - - 67
+    - 81
+    - 93
+  - - 59
+    - 54
+    - 50
+  - - 61
+    - 53
+    - 50
+  - - 144
+    - 151
+    - 150
+- image_filename: IMGP4450raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: 80fcffff0c000000
+  dhash: 2030e0f0f8f0cc3c
+  phash: d4d92b0e17e58d32
+  avg_rgb:
+  - 93
+  - 102
+  - 110
+  top5_rgb:
+  - - 88
+    - 80
+    - 80
+  - - 89
+    - 97
+    - 107
+  - - 122
+    - 132
+    - 137
+  - - 47
+    - 48
+    - 53
+  - - 103
+    - 107
+    - 114
+- image_filename: IMGP4466raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: feffff0000000000
+  dhash: 8080c08cc1e0c018
+  phash: c5d0bf4838569de1
+  avg_rgb:
+  - 100
+  - 105
+  - 109
+  top5_rgb:
+  - - 85
+    - 98
+    - 109
+  - - 55
+    - 47
+    - 44
+  - - 49
+    - 43
+    - 40
+  - - 120
+    - 97
+    - 88
+  - - 91
+    - 146
+    - 181
+- image_filename: IMGP4477raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: 00c0ffff80000000
+  dhash: 000000000e320c38
+  phash: fde32a2c91c09c73
+  avg_rgb:
+  - 88
+  - 99
+  - 111
+  top5_rgb:
+  - - 54
+    - 82
+    - 106
+  - - 2
+    - 84
+    - 129
+  - - 77
+    - 67
+    - 64
+  - - 64
+    - 55
+    - 50
+  - - 104
+    - 83
+    - 81
+- image_filename: IMGP4479raw2.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: feffff8000800000
+  dhash: 0000000c0c021f7f
+  phash: fcd58976283fc182
+  avg_rgb:
+  - 91
+  - 93
+  - 96
+  top5_rgb:
+  - - 180
+    - 176
+    - 164
+  - - 69
+    - 63
+    - 58
+  - - 47
+    - 40
+    - 39
+  - - 107
+    - 95
+    - 101
+  - - 47
+    - 43
+    - 47
+- image_filename: IMGP4481raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffc30000000000
+  dhash: 001a1ef9fcf4b4f0
+  phash: b5f5f8c6020e6c71
+  avg_rgb:
+  - 79
+  - 81
+  - 88
+  top5_rgb:
+  - - 81
+    - 81
+    - 90
+  - - 173
+    - 170
+    - 175
+  - - 58
+    - 55
+    - 56
+  - - 47
+    - 46
+    - 50
+  - - 158
+    - 155
+    - 168
+- image_filename: IMGP4485raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff3c0000000000
+  dhash: 00c0e03fdfdfe3f7
+  phash: 80c7c0f13c7e3f07
+  avg_rgb:
+  - 77
+  - 79
+  - 87
+  top5_rgb:
+  - - 59
+    - 54
+    - 45
+  - - 142
+    - 157
+    - 185
+  - - 67
+    - 58
+    - 47
+  - - 66
+    - 75
+    - 94
+  - - 41
+    - 42
+    - 49
+- image_filename: IMGP4488raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff1f0000000000
+  dhash: 00f0f0d8593d656f
+  phash: 93d0e4e67b693c12
+  avg_rgb:
+  - 92
+  - 87
+  - 90
+  top5_rgb:
+  - - 38
+    - 41
+    - 47
+  - - 79
+    - 96
+    - 124
+  - - 44
+    - 41
+    - 43
+  - - 66
+    - 83
+    - 111
+  - - 42
+    - 43
+    - 51
+- image_filename: IMGP4491raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffffe0f860000000
+  dhash: 00000000c4fcfefc
+  phash: d5f3b880c6fc1863
+  avg_rgb:
+  - 102
+  - 98
+  - 92
+  top5_rgb:
+  - - 138
+    - 153
+    - 159
+  - - 247
+    - 158
+    - 86
+  - - 65
+    - 60
+    - 60
+  - - 102
+    - 124
+    - 141
+  - - 70
+    - 62
+    - 60
+- image_filename: IMGP4494raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff7c00000c0000
+  dhash: 0000f0f8fcf9c39c
+  phash: d0dff08b74051ae5
+  avg_rgb:
+  - 122
+  - 110
+  - 106
+  top5_rgb:
+  - - 93
+    - 102
+    - 112
+  - - 189
+    - 139
+    - 138
+  - - 168
+    - 146
+    - 150
+  - - 109
+    - 115
+    - 123
+  - - 115
+    - 108
+    - 106
+- image_filename: IMGP4496raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ff7e1e0601000000
+  dhash: e0e0b8dce7f5f6f6
+  phash: 85c3cbe4a531bab8
+  avg_rgb:
+  - 81
+  - 78
+  - 76
+  top5_rgb:
+  - - 174
+    - 183
+    - 183
+  - - 77
+    - 71
+    - 69
+  - - 100
+    - 93
+    - 88
+  - - 56
+    - 54
+    - 56
+  - - 73
+    - 69
+    - 70
+- image_filename: IMGP4498raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: fefe000018000000
+  dhash: 800000f4f0f8fcfa
+  phash: d5d6ddd605362906
+  avg_rgb:
+  - 98
+  - 96
+  - 97
+  top5_rgb:
+  - - 73
+    - 90
+    - 115
+  - - 217
+    - 197
+    - 168
+  - - 72
+    - 70
+    - 67
+  - - 73
+    - 73
+    - 70
+  - - 88
+    - 129
+    - 161
+- image_filename: IMGP4502raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: fefe0000003c0f07
+  dhash: 80201c8d60f0fcfc
+  phash: d5dfc5cd62202c1d
+  avg_rgb:
+  - 88
+  - 90
+  - 97
+  top5_rgb:
+  - - 109
+    - 103
+    - 104
+  - - 102
+    - 101
+    - 107
+  - - 63
+    - 133
+    - 180
+  - - 2
+    - 108
+    - 161
+  - - 87
+    - 58
+    - 40
+- image_filename: IMGP4503raw1.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff000000000000
+  dhash: 80f692e3e1c5b8f1
+  phash: 8181b4f6daf87079
+  avg_rgb:
+  - 100
+  - 96
+  - 92
+  top5_rgb:
+  - - 250
+    - 250
+    - 250
+  - - 44
+    - 43
+    - 43
+  - - 248
+    - 248
+    - 248
+  - - 111
+    - 98
+    - 91
+  - - 52
+    - 40
+    - 34
+- image_filename: header.jpg
+  post_slug: 2018-01-07-mewia-lacha
+  ahash: ffff40e0f0380000
+  dhash: 81838180c0e09c46
+  phash: e0e0bfcfe0780f03
+  avg_rgb:
+  - 129
+  - 107
+  - 71
+  top5_rgb:
+  - - 72
+    - 59
+    - 44
+  - - 113
+    - 87
+    - 56
+  - - 92
+    - 80
+    - 59
+  - - 49
+    - 64
+    - 73
+  - - 103
+    - 70
+    - 34

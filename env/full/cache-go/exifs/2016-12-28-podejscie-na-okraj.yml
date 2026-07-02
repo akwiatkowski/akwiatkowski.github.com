@@ -1,0 +1,106 @@
+---
+- image_filename: IMGP0670raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.76133333333333
+  lon: 15.862569444444444
+  altitude: 773
+  focal_length: 45
+  focal_length_35: 67
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-28T12:12:45+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0683raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.75640277777778
+  lon: 15.85698611111111
+  altitude: 858
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-28T12:32:27+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP0695raw1.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.74594444444445
+  lon: 15.822180555555555
+  altitude: 1041
+  focal_length: 29
+  focal_length_35: 43
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-28T15:28:01+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-12-28-podejscie-na-okraj
+  lat: 50.75965277777778
+  lon: 15.859874999999999
+  altitude: 795
+  focal_length: 38
+  focal_length_35: 57
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-12-28T12:21:03+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: RawTherapee 4.2.1395
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84

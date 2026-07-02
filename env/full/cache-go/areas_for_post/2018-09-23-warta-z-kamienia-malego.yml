@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 7378.53
+  total_distance_km: 7.379
+  points_count: 29
+  towns:
+    - slug: witnica
+      name: Witnica
+      code: "0801073"
+      distance_meters: 7378.53
+      distance_km: 7.379
+      distance_percent: 100
+  counties:
+    - slug: gorzowski
+      name: gorzowski
+      code: "0801"
+      distance_meters: 7378.53
+      distance_km: 7.379
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 7378.53
+      distance_km: 7.379
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 7378.53
+      distance_km: 7.379
+      distance_percent: 100
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 7378.53
+      distance_km: 7.379
+      distance_percent: 100
+  touched_towns:
+    - slug: witnica
+      name: Witnica
+      code: "0801073"
+  touched_counties:
+    - slug: gorzowski
+      name: gorzowski
+      code: "0801"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+  touched_macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

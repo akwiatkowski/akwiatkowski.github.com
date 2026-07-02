@@ -16,7 +16,7 @@
     distance_meters: 14594.94
     distance_km: 14.595
     distance_percent: 24.2037
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
     distance_meters: 10541.95
@@ -34,13 +34,13 @@
     distance_meters: 5378.71
     distance_km: 5.379
     distance_percent: 8.9199
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
     distance_meters: 4840.75
     distance_km: 4.841
     distance_percent: 8.0277
-  - slug: slupca
+  - slug: slupca-wielkopolskie-miejska
     name: Słupca
     code: "3023011"
     distance_meters: 2751.52
@@ -116,7 +116,7 @@
     distance_meters: 30812.37
     distance_km: 30.812
     distance_percent: 51.0981
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 12959.93
@@ -162,7 +162,7 @@
     distance_km: 60.3
     distance_percent: 100.0
   touched_towns:
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
   - slug: zerkow
@@ -177,9 +177,12 @@
   - slug: ladek
     name: Lądek
     code: "3023022"
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
+  - slug: slupca-wielkopolskie-miejska
+    name: Słupca
+    code: "3023011"
   touched_counties:
   - slug: jarocinski
     name: jarociński
@@ -220,7 +223,7 @@
   - slug: pojezierze_leszczynskie
     name: Pojezierze Leszczyńskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie

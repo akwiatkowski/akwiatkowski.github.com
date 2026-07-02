@@ -1,0 +1,36 @@
+---
+- image_filename: 2025_07_22__10_27_P7220002.jpg
+  post_slug: 2025-07-22-trudne-wakacje
+  lat: 52.60894444444445
+  lon: 17.14973611111111
+  altitude: 113
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2025-07-22T10:27:52+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

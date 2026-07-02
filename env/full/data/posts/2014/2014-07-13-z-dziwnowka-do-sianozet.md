@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Dziwnówka do Sianożęt (Ustroni Morskich)"
 subtitle:               "drugi dzień przejażdzki na wybrzeżu, 80km i 11 godzin an rowerze"
 date:                   2014-07-13 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, coast, panniers, best, photo_of_the_year]

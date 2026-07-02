@@ -1,0 +1,75 @@
+---
+- image_filename: IMGP0279raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-03T16:53:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0338raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  lat: 50.815444216055724
+  lon: 15.381174534608661
+  altitude: 831.68
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-04T16:16:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  lat: 50.770559879000245
+  lon: 15.452350135883766
+  altitude: 754.77
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-04T11:29:11+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

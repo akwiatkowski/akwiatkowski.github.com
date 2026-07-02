@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Drugie zimowe wejście na Śnieżkę"
 subtitle:               "ogólne też jest to drugie wejście - nigdy nie byłem na Śnieżce o innej porze roku"
 date:                   2015-02-01 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

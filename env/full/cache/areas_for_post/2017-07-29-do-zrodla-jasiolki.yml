@@ -17,7 +17,7 @@
     distance_km: 8.295
     distance_percent: 20.2754
   counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 32618.33
@@ -79,7 +79,7 @@
     name: Komańcza
     code: "1817042"
   touched_counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   - slug: sanocki

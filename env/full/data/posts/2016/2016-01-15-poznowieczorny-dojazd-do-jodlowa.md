@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Późnowieczorny dojazd do Jodłowa"
 subtitle:               "na koniec świata przez śnieg"
 date:                   2016-01-15 21:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

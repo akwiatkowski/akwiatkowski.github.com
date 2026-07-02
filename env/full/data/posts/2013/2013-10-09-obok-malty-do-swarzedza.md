@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Obok Malty do Swarzędza"
 subtitle:               "również obok Nowego Zoo"
 date:                   2013-10-09 20:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [hidden, bicycle]

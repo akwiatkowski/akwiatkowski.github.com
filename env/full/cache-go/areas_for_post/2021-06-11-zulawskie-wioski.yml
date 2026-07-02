@@ -1,0 +1,153 @@
+---
+- type: bicycle
+  total_distance_meters: 35595.18
+  total_distance_km: 35.595
+  points_count: 132
+  towns:
+    - slug: markusy
+      name: Markusy
+      code: "2804042"
+      distance_meters: 16814.3
+      distance_km: 16.814
+      distance_percent: 47.2376
+    - slug: elblag
+      name: Elbląg
+      code: "2861011"
+      distance_meters: 5987.67
+      distance_km: 5.988
+      distance_percent: 16.8216
+    - slug: elblag
+      name: Elbląg
+      code: "2804012"
+      distance_meters: 4887.16
+      distance_km: 4.887
+      distance_percent: 13.7298
+    - slug: stare_pole
+      name: Stare Pole
+      code: "2209082"
+      distance_meters: 4770.64
+      distance_km: 4.771
+      distance_percent: 13.4025
+    - slug: dzierzgon
+      name: Dzierzgoń
+      code: "2216013"
+      distance_meters: 3135.41
+      distance_km: 3.135
+      distance_percent: 8.8085
+  counties:
+    - slug: elblaski
+      name: elbląski
+      code: "2804"
+      distance_meters: 27689.13
+      distance_km: 27.689
+      distance_percent: 77.789
+    - slug: elblag
+      name: Elbląg
+      code: "2861"
+      distance_meters: 5987.67
+      distance_km: 5.988
+      distance_percent: 16.8216
+    - slug: malborski
+      name: malborski
+      code: "2209"
+      distance_meters: 4770.64
+      distance_km: 4.771
+      distance_percent: 13.4025
+    - slug: sztumski
+      name: sztumski
+      code: "2216"
+      distance_meters: 3135.41
+      distance_km: 3.135
+      distance_percent: 8.8085
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 27689.13
+      distance_km: 27.689
+      distance_percent: 77.789
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 7906.05
+      distance_km: 7.906
+      distance_percent: 22.211
+  meso_regions:
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+      distance_meters: 33290.15
+      distance_km: 33.29
+      distance_percent: 93.5243
+    - slug: pojezierze_dzierzgonsko-moraskie
+      name: Pojezierze Dzierzgońsko-Morąskie
+      code: "314.91"
+      distance_meters: 1310.95
+      distance_km: 1.311
+      distance_percent: 3.683
+    - slug: wysoczyzna_elblaska
+      name: Wysoczyzna Elbląska
+      code: "313.55"
+      distance_meters: 994.08
+      distance_km: 0.994
+      distance_percent: 2.7927
+  macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+      distance_meters: 34284.22
+      distance_km: 34.284
+      distance_percent: 96.317
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+      distance_meters: 1310.95
+      distance_km: 1.311
+      distance_percent: 3.683
+  touched_towns:
+    - slug: dzierzgon
+      name: Dzierzgoń
+      code: "2216013"
+    - slug: elblag
+      name: Elbląg
+      code: "2804012"
+    - slug: markusy
+      name: Markusy
+      code: "2804042"
+    - slug: stare_pole
+      name: Stare Pole
+      code: "2209082"
+  touched_counties:
+    - slug: elblag
+      name: Elbląg
+      code: "2861"
+    - slug: elblaski
+      name: elbląski
+      code: "2804"
+    - slug: malborski
+      name: malborski
+      code: "2209"
+    - slug: sztumski
+      name: sztumski
+      code: "2216"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: pojezierze_dzierzgonsko-moraskie
+      name: Pojezierze Dzierzgońsko-Morąskie
+      code: "314.91"
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+  touched_macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316

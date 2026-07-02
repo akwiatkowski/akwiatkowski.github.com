@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP8865raw1.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.6555457990919
+  lon: 16.962242787626
+  altitude: 93.87
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-03-18T14:40:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP8870raw1.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.66005006620324
+  lon: 17.006625551702395
+  altitude: 108.29
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-03-18T14:55:05+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP8891raw1.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.713832296526704
+  lon: 17.09280677141788
+  altitude: 71.27
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-03-18T15:36:43+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP8906raw1.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.713869344278315
+  lon: 17.093298034726196
+  altitude: 73.2
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-03-18T15:39:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-03-18-w-strone-skokow-po-raz-4-ty
+  lat: 52.71385031752121
+  lon: 17.09285756569634
+  altitude: 71.27
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-03-18T15:37:20+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

@@ -1,7 +1,4 @@
-<script src="/js/libs/ol.js" type="text/javascript"></script>
-<script src="/js/libs/ol3-popup.js" type="text/javascript"></script>
-
-<script src="/js/self/map.js" type="text/javascript"></script>
+<script src="/js/self/map_leaflet.js" type="text/javascript"></script>
 
 <div id="map-container">
   <div id="content"></div>
@@ -9,8 +6,8 @@
 </div>
 
 <script type="text/javascript">
-  $(document).ready(function () {
-    l = new BlogMap;
+  document.addEventListener('DOMContentLoaded', function() {
+    var l = new BlogMap();
     l.start();
   });
 </script>

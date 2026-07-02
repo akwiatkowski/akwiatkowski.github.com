@@ -1,0 +1,157 @@
+package components
+
+import (
+	"fmt"
+	"strconv"
+)
+
+// bootstrapIconNames maps photo tag slugs to Bootstrap Icons names.
+// Only tags with a known icon are rendered as icon links in photo captions.
+// See: https://icons.getbootstrap.com
+var bootstrapIconNames = map[string]string{
+	"good":       "check-circle-fill",
+	"best":       "gem",
+	"cat":        "eye-fill",
+	"macro":      "droplet",
+	"bird":       "binoculars",
+	"winter":     "snow3",
+	"timeline":   "calendar-date",
+	"transport":  "gear-wide",
+	"water":      "water",
+	"sunrise":    "sunrise",
+	"city":       "shop",
+	"mountains":  "triangle",
+	"spring":     "flower1",
+	"night":      "moon-stars",
+	"train":      "train-front",
+	"summer":     "sun",
+	"autumn":     "tree",
+	"rural":      "house",
+	"forest":     "tree-fill",
+	"ruin":       "building",
+	"fog":        "cloud-fog",
+	"wildlife":   "bug",
+	"animal":     "github",
+	"road":       "signpost-split",
+	"nature":     "flower2",
+	"industrial": "gear-fill",
+	"sign":       "signpost",
+	"town":       "houses",
+	"air":        "airplane",
+	"weather":    "cloud-sun",
+	"portfolio":  "star-fill",
+}
+
+// ResolveBootstrapIcon returns the Bootstrap Icon name for a tag slug.
+// Returns empty string if no icon is mapped for this tag.
+func ResolveBootstrapIcon(tagSlug string) string {
+	if name, ok := bootstrapIconNames[tagSlug]; ok {
+		return name
+	}
+	return ""
+}
+
+// ArticlePhotoData holds data for rendering an article photo figure.
+type ArticlePhotoData struct {
+	// Image URLs
+	FullSizeURL   string // link target (full-size image)
+	ArticleJPEG   string // article-size JPEG src
+	ArticleAVIF   string // article-size AVIF
+	GridJPEG      string // grid-size JPEG (560w)
+	GridAVIF      string // grid-size AVIF (560w)
+
+	// Caption and metadata
+	Caption    string
+	ExifString string
+
+	// Gallery flags
+	IsGallery  bool
+	IsTimeline bool
+
+	// GPS
+	HasGPS   bool
+	Lat      float64
+	Lon      float64
+	Altitude float64
+
+	// Time
+	HasTime  bool
+	TimeStr  string // RFC3339 format
+
+	// Photo tag links
+	TagLinks []PhotoTagLink
+}
+
+// PhotoTagLink represents a link to a photo tag gallery.
+type PhotoTagLink struct {
+	URL  string
+	Icon string
+}
+
+func boolStr(b bool) string {
+	if b {
+		return "true"
+	}
+	return "false"
+}
+
+func fmtFloat(f float64) string {
+	return strconv.FormatFloat(f, 'f', 6, 64)
+}
+
+templ ArticlePhoto(data ArticlePhotoData) {
+	<figure class="figure post-article-photo">
+		<a href={ templ.SafeURL(data.FullSizeURL) } target="_blank">
+			<picture>
+				<source
+					type="image/avif"
+					srcset={ fmt.Sprintf("%s 560w, %s 1000w", data.GridAVIF, data.ArticleAVIF) }
+					sizes="(max-width: 576px) 100vw, 100vw"
+				/>
+				<img
+					src={ data.ArticleJPEG }
+					srcset={ fmt.Sprintf("%s 560w, %s 1000w", data.GridJPEG, data.ArticleJPEG) }
+					sizes="(max-width: 576px) 100vw, 100vw"
+					class="img-fluid"
+					title={ data.Caption }
+					alt={ data.Caption }
+					data-is-gallery={ boolStr(data.IsGallery) }
+					data-is-timeline={ boolStr(data.IsTimeline) }
+					if data.HasGPS {
+						data-lat={ fmtFloat(data.Lat) }
+						data-lon={ fmtFloat(data.Lon) }
+						data-altitude={ fmtFloat(data.Altitude) }
+					}
+					if data.HasTime {
+						data-time={ data.TimeStr }
+					}
+				/>
+			</picture>
+			if data.ExifString != "" {
+				<span class="photo-exif">{ data.ExifString }</span>
+			}
+		</a>
+		<figcaption class="figure-caption">
+			<span class="photo-caption-title">
+				for _, tagLink := range data.TagLinks {
+					<a href={ templ.SafeURL(tagLink.URL) }>
+						@BootstrapIcon(tagLink.Icon)
+					</a>
+					{ " " }
+				}
+				{ data.Caption }
+			</span>
+		</figcaption>
+	</figure>
+}
+
+// bootstrapIconHref returns the SVG sprite reference for a Bootstrap Icon.
+func bootstrapIconHref(iconName string) string {
+	return fmt.Sprintf("/icons/bootstrap-icons.svg#%s", iconName)
+}
+
+templ BootstrapIcon(iconName string) {
+	<svg class="bi" width="16" height="16" fill="currentColor">
+		<use href={ bootstrapIconHref(iconName) }/>
+	</svg>
+}

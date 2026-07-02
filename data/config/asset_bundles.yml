@@ -1,0 +1,148 @@
+# Asset Bundle Configuration
+# Views declare which bundles they need, and the loader resolves them to CSS/JS files.
+#
+# Bundle inheritance:
+# - Views inherit from parent's bundles
+# - additional_bundles: adds to inherited list
+# - excluded_bundles: removes from inherited list
+#
+# Composites:
+# - Convenient aliases that expand to multiple bundles
+
+bundles:
+  # === CSS Libraries ===
+  bootstrap-css:
+    css:
+      - /css/libs/bootstrap.min.css
+
+  fontawesome:
+    css:
+      - /css/libs/font-awesome.min.css
+
+  leaflet-css:
+    css:
+      - /css/libs/leaflet.css
+    integrity:
+      /css/libs/leaflet.css: "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+
+  # === CSS Self (Our Code) ===
+  blog-css:
+    css:
+      - /css/self/new.css
+
+  # new-home-css is loaded directly via page_css in HomePageView
+
+  # === JS Libraries ===
+  bootstrap-js:
+    js:
+      - /js/libs/bootstrap.bundle.min.js
+
+  leaflet-js:
+    js:
+      - /js/libs/leaflet.js
+    integrity:
+      /js/libs/leaflet.js: "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+
+  react:
+    # Using Preact with compat layer (~26KB vs ~140KB for React)
+    js:
+      - /js/libs/preact.umd.js
+      - /js/libs/preact-hooks.umd.js
+      - /js/libs/preact-compat.umd.js
+      - /js/libs/preact-shim.js
+
+  # === JS Self (Our Code) ===
+  avif-detect:
+    js:
+      - /js/self/avif_detect.js
+
+  nav-js:
+    js:
+      - /js/self/nav_stats.js
+
+  route-colors-js:
+    js:
+      - /js/self/route_colors.js
+
+  post-collection-js:
+    js:
+      - /js/self/post_collection.js
+
+  timeline-js:
+    js:
+      - /js/self/timeline.js
+
+  # Chart.js + matrix plugin — used by the Go EXIF stats page
+  chartjs:
+    js:
+      - /js/libs/chart.umd.js
+      - /js/libs/chartjs-chart-matrix.min.js
+
+# Composite bundles (convenience aliases)
+composites:
+  core:
+    includes:
+      - bootstrap-css
+      - fontawesome
+      - blog-css
+      - bootstrap-js
+      - avif-detect
+      - nav-js
+
+  leaflet:
+    includes:
+      - leaflet-css
+      - leaflet-js
+      - route-colors-js
+
+  react-runtime:
+    includes:
+      - react
+
+# Page-specific assets (loaded via page_css/page_js in views)
+# Views reference by symbol name, e.g., page_css: ["gallery"]
+page-assets:
+  gallery:
+    css:
+      - /css/self/new_gallery.css
+      - /css/self/coord_photo.css
+  ideas:
+    css:
+      - /css/self/ideas.css
+  map:
+    css:
+      - /css/self/map-blog.css
+  planner:
+    css:
+      - /css/self/planner.css
+  timeline:
+    css:
+      - /css/self/timeline.css
+  exif_stats:
+    css:
+      - /css/self/exif_stats.css
+  photo-lightbox:
+    css:
+      - /css/self/photo_lightbox.css
+  portfolio:
+    css:
+      - /css/self/portfolio.css
+  year_stats:
+    css:
+      - /css/self/year_stats.css
+  photo_map:
+    css:
+      - /css/self/photo_map.css
+  pois:
+    css:
+      - /css/self/pois.css
+  fonts:
+    css:
+      - /css/self/fonts.css
+  area-show:
+    css:
+      - /css/self/area_show.css
+  homepage:
+    css:
+      - /css/self/fonts.css
+      - /css/self/homepage.css

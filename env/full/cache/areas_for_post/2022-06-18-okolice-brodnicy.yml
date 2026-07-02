@@ -4,7 +4,7 @@
   total_distance_km: 56.01
   points_count: 388.0
   towns:
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
     distance_meters: 14197.01
@@ -28,19 +28,19 @@
     distance_meters: 8597.71
     distance_km: 8.598
     distance_percent: 15.3502
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 7922.66
     distance_km: 7.923
     distance_percent: 14.145
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 2571.89
     distance_km: 2.572
     distance_percent: 4.5918
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
     distance_meters: 101.78
@@ -66,13 +66,13 @@
     distance_km: 7.923
     distance_percent: 14.145
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 34377.42
     distance_km: 34.377
     distance_percent: 61.3769
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 21632.93
@@ -98,7 +98,7 @@
     distance_km: 4.323
     distance_percent: 7.7179
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 46785.85
@@ -141,15 +141,18 @@
   - slug: kurzetnik
     name: Kurzętnik
     code: "2812042"
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
+  - slug: ilawa-warminsko-mazurskie-miejska
+    name: Iława
+    code: "2807011"
   touched_counties:
   - slug: brodnicki
     name: brodnicki
@@ -161,10 +164,10 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -178,7 +181,7 @@
     name: Równina Iławska
     code: "314.93"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_ilawskie
@@ -221,7 +224,7 @@
     distance_km: 13.085
     distance_percent: 100.0
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 13085.4
@@ -241,7 +244,7 @@
     distance_km: 5.366
     distance_percent: 41.0101
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 13085.4
@@ -280,7 +283,7 @@
     name: brodnicki
     code: "0402"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -291,7 +294,7 @@
     name: Pojezierze Chełmińskie
     code: "315.11"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

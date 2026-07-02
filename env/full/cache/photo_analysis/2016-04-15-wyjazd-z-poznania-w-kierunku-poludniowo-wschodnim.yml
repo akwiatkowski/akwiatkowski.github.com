@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP9223raw1.jpg
+  post_slug: 2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim
+  ahash: 3f3f3fff600080fe
+  dhash: e7e9ff7dcdc900e8
+  phash: 868e8d46c6bf2563
+  avg_rgb:
+  - 116
+  - 139
+  - 165
+  top5_rgb:
+  - - 100
+    - 92
+    - 91
+  - - 31
+    - 118
+    - 202
+  - - 66
+    - 138
+    - 213
+  - - 185
+    - 213
+    - 251
+  - - 159
+    - 138
+    - 127
+- image_filename: header.jpg
+  post_slug: 2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim
+  ahash: f8fcfcfe9e000000
+  dhash: 000c40203019cffc
+  phash: dde42239dcc01b9e
+  avg_rgb:
+  - 118
+  - 142
+  - 144
+  top5_rgb:
+  - - 94
+    - 111
+    - 23
+  - - 112
+    - 129
+    - 143
+  - - 93
+    - 105
+    - 20
+  - - 155
+    - 193
+    - 235
+  - - 156
+    - 178
+    - 197

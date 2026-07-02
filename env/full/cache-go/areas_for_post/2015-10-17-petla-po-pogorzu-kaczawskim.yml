@@ -1,0 +1,96 @@
+---
+- type: hike
+  total_distance_meters: 27866.12
+  total_distance_km: 27.866
+  points_count: 422
+  towns:
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+      distance_meters: 24657.26
+      distance_km: 24.657
+      distance_percent: 88.4847
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+      distance_meters: 3208.87
+      distance_km: 3.209
+      distance_percent: 11.5153
+  counties:
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+      distance_meters: 24657.26
+      distance_km: 24.657
+      distance_percent: 88.4847
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 3208.87
+      distance_km: 3.209
+      distance_percent: 11.5153
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 27866.12
+      distance_km: 27.866
+      distance_percent: 100
+  meso_regions:
+    - slug: pogorze_kaczawskie
+      name: Pogórze Kaczawskie
+      code: "332.27"
+      distance_meters: 20326.14
+      distance_km: 20.326
+      distance_percent: 72.9421
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 7539.98
+      distance_km: 7.54
+      distance_percent: 27.0579
+  macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+      distance_meters: 20326.14
+      distance_km: 20.326
+      distance_percent: 72.9421
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 7539.98
+      distance_km: 7.54
+      distance_percent: 27.0579
+  touched_towns:
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+    - slug: pogorze_kaczawskie
+      name: Pogórze Kaczawskie
+      code: "332.27"
+  touched_macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

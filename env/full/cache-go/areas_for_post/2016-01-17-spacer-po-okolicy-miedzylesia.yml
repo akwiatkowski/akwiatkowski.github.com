@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 23889.63
+  total_distance_km: 23.89
+  points_count: 298
+  towns:
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+      distance_meters: 23889.63
+      distance_km: 23.89
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 23889.63
+      distance_km: 23.89
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 23889.63
+      distance_km: 23.89
+      distance_percent: 100
+  meso_regions:
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+      distance_meters: 23889.63
+      distance_km: 23.89
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 23889.63
+      distance_km: 23.89
+      distance_percent: 100
+  touched_towns:
+    - slug: miedzylesie
+      name: Międzylesie
+      code: "0208103"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: row_gornej_nysy
+      name: Rów Górnej Nysy
+      code: "332.55"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

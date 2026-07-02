@@ -1,0 +1,555 @@
+---
+- image_filename: 2018_10_09_14_24__A090703.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.865569444444446
+  lon: 15.979694444444444
+  altitude: 399
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 10
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:24:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_24__A090705.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.865611111111114
+  lon: 15.979694444444444
+  altitude: 400
+  focal_length: 29
+  focal_length_35: 58
+  crop: 2
+  aperture: 4.5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:24:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_27__A090709.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.866416666666666
+  lon: 15.980347222222223
+  altitude: 388
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:27:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_42__A090725.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.86061111111111
+  lon: 15.978666666666667
+  altitude: 444
+  focal_length: 16
+  focal_length_35: 32
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:42:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_48__A090730.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85819444444444
+  lon: 15.977916666666667
+  altitude: 441
+  focal_length: 24
+  focal_length_35: 48
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:48:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_48__A090731.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85809722222223
+  lon: 15.978027777777777
+  altitude: 440
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:48:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_52__A090733.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85677777777778
+  lon: 15.98198611111111
+  altitude: 433
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:52:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_14_59__A090741.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85305555555556
+  lon: 15.985694444444444
+  altitude: 433
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T14:59:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_05__A090743.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85025
+  lon: 15.989513888888888
+  altitude: 427
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:05:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_15__A090745.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85322222222222
+  lon: 15.998208333333332
+  altitude: 404
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:15:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_17__A090748.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85329166666667
+  lon: 16.000083333333333
+  altitude: 404
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:17:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_19__A090750.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.853875
+  lon: 16.002819444444444
+  altitude: 404
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:19:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_24__A090752.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85288888888889
+  lon: 16.00784722222222
+  altitude: 413
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:24:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_26__A090755.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.852222222222224
+  lon: 16.009680555555555
+  altitude: 411
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:26:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_33__A090762.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85369444444444
+  lon: 16.01311111111111
+  altitude: 417
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  lens_name: M.75-300mm F4.8-6.7 II
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:33:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 75
+  lens_max_focal: 300
+  lens_min_fstop: 4.8
+  lens_max_fstop: 6.7
+  lens_spec_str: 75-300mm f/4.8-6.7
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_34__A090765.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.854
+  lon: 16.013638888888888
+  altitude: 418
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  lens_name: M.75-300mm F4.8-6.7 II
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:34:05+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 75
+  lens_max_focal: 300
+  lens_min_fstop: 4.8
+  lens_max_fstop: 6.7
+  lens_spec_str: 75-300mm f/4.8-6.7
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_39__A090769.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  lat: 50.85483333333333
+  lon: 16.014680555555554
+  altitude: 426
+  focal_length: 75
+  focal_length_35: 150
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  lens_name: M.75-300mm F4.8-6.7 II
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:39:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 75
+  lens_max_focal: 300
+  lens_min_fstop: 4.8
+  lens_max_fstop: 6.7
+  lens_spec_str: 75-300mm f/4.8-6.7
+  gps_map_datum: WGS-84
+- image_filename: 2018_10_09_15_49__A090777.jpg
+  post_slug: 2018-10-09-jesienne-ciechanowice-i-marciszow
+  focal_length: 215
+  focal_length_35: 430
+  crop: 2
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: OLYMPUS M.75-300mm F4.8-6.7 II
+  camera: E-M1MarkII
+  lens_name: M.75-300mm F4.8-6.7 II
+  camera_name: E-M1MarkII
+  time: "2018-10-09T15:49:00+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 75
+  lens_max_focal: 300
+  lens_min_fstop: 4.8
+  lens_max_fstop: 6.7
+  lens_spec_str: 75-300mm f/4.8-6.7

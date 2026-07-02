@@ -4,7 +4,7 @@
   total_distance_km: 70.987
   points_count: 276.0
   towns:
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
     distance_meters: 30415.21
@@ -34,13 +34,13 @@
     distance_meters: 4329.59
     distance_km: 4.33
     distance_percent: 6.0992
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-miejska
     name: Złotów
     code: "3031011"
     distance_meters: 4285.03
     distance_km: 4.285
     distance_percent: 6.0364
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
     distance_meters: 2901.79
@@ -104,7 +104,7 @@
     distance_meters: 66346.81
     distance_km: 66.347
     distance_percent: 93.4638
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 4639.81
@@ -132,7 +132,7 @@
     distance_km: 70.987
     distance_percent: 100.0
   touched_towns:
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
   - slug: kaczory
@@ -144,9 +144,12 @@
   - slug: krajenka
     name: Krajenka
     code: "3031033"
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
+  - slug: zlotow-wielkopolskie-miejska
+    name: Złotów
+    code: "3031011"
   - slug: jastrowie
     name: Jastrowie
     code: "3031023"
@@ -175,7 +178,7 @@
     name: Pojezierze Południowokrajeńskie
     code: "314.74"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie

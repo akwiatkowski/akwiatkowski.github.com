@@ -1,0 +1,1335 @@
+---
+- image_filename: 2023_09_07__16_02_DJI_0002.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.656238
+  lon: 16.170590133333334
+  altitude: 132
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-07T16:02:03+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_07__16_02_DJI_0006.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.658563
+  lon: 16.170531
+  altitude: 133.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 130
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-07T16:02:59+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_07__16_05_DJI_0011.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 53.65320068333333
+  lon: 16.17836785
+  altitude: 139.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-07T16:05:02+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__09_01_P9080133.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19058333333333
+  lon: 15.60848611111111
+  altitude: 0
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 16
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5119
+  height: 3790
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T09:01:21+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__09_03_P9080139.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19058333333333
+  lon: 15.60848611111111
+  altitude: 0
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 13
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  width: 5161
+  height: 3850
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T09:03:33+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_15_P9080205.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 14
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5135
+  height: 3813
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:15:37+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_16_P9080209.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5182
+  height: 3880
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:16:31+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_21_P9080219.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5178
+  height: 3875
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:21:55+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_24_P9080231.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 9
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 200
+  width: 5133
+  height: 3811
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:24:39+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_25_DSC07730.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5956
+  height: 3881
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-09-08T18:25:28+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_26_P9080238.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5196
+  height: 3896
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:26:23+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_08__18_29_P9080248.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.18965277777777
+  lon: 15.60836111111111
+  altitude: 4
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5091
+  height: 3751
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-08T18:29:30+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__13_25_DSC07914.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.215138888888895
+  lon: 15.744291666666665
+  altitude: 4
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-09-09T13:25:51+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__14_04_DSC07967.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.20691666666667
+  lon: 15.749680555555555
+  altitude: 13
+  focal_length: 180
+  focal_length_35: 180
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 5807
+  height: 3780
+  lens: E 70-180mm F2.8 A056
+  camera: ILCE-7M3
+  lens_name: E 70-180mm F2.8 A056
+  camera_name: ILCE-7M3
+  time: "2023-09-09T14:04:05+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 70
+  lens_max_focal: 180
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-180mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__15_03_DJI_0019.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.20743183333333
+  lon: 15.747507633333333
+  altitude: 14.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8017
+  height: 5986
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T15:03:45+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__15_03_DJI_0020.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.2074361
+  lon: 15.74750415
+  altitude: 8.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T15:03:56+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__15_04_DJI_0022.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.20745183333333
+  lon: 15.747499016666668
+  altitude: 9.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T15:04:11+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__18_24_P9090360.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21229166666667
+  lon: 15.748819444444443
+  altitude: 6
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8067
+  height: 5996
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-09T18:24:40+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__18_24_P9090361.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21229166666667
+  lon: 15.748819444444443
+  altitude: 6
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 11
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5177
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-09T18:24:59+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__18_27_P9090365.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.21229166666667
+  lon: 15.748819444444443
+  altitude: 6
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 9
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5024
+  height: 3656
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-09T18:27:30+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_11_DJI_0026.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1909593
+  lon: 15.608984066666666
+  altitude: 24.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002857142857142857
+  exposure_string: 1/350 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:11:55+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_12_DJI_0029.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19095181666667
+  lon: 15.608981883333334
+  altitude: 16.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:12:37+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_12_DJI_0030.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19095155
+  lon: 15.60898285
+  altitude: 16.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:12:48+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_18_DJI_0038.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19104601666667
+  lon: 15.60946255
+  altitude: 29.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:18:58+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_19_DJI_0039.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1910403
+  lon: 15.609467233333334
+  altitude: 29.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6048
+  height: 8064
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:19:15+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_09__19_21_DJI_0044.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191048433333336
+  lon: 15.6094558
+  altitude: 28.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-09T19:21:07+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__05_12_P9100370.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19109722222222
+  lon: 15.608611111111111
+  altitude: 4.294967294e+09
+  focal_length: 31
+  focal_length_35: 62
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 8075
+  height: 6011
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-10T05:12:00+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__05_12_P9100372.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19109722222222
+  lon: 15.608611111111111
+  altitude: 4.294967294e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-10T05:12:33+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__05_14_P9100374.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191222222222216
+  lon: 15.608611111111111
+  altitude: 4.294967295e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5185
+  height: 3887
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-10T05:14:14+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__05_37_P9100382.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191291666666665
+  lon: 15.608527777777777
+  altitude: 0
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 14
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5177
+  height: 3871
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2023-09-10T05:37:32+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_02_DJI_0055.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19112101666666
+  lon: 15.6086186
+  altitude: 2.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:02:35+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_02_DJI_0056.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19112163333333
+  lon: 15.608621716666667
+  altitude: 2.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 180
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:02:44+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_02_DJI_0057.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191114516666666
+  lon: 15.60861515
+  altitude: 2.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 190
+  width: 8016
+  height: 5989
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:02:53+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_04_DJI_0062.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1908939
+  lon: 15.607831766666667
+  altitude: 19.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 170
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:04:11+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_04_DJI_0063.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1908969
+  lon: 15.6078343
+  altitude: 19.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:04:22+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_04_DJI_0065.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1909266
+  lon: 15.607817833333334
+  altitude: 19
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 290
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:04:47+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_05_DJI_0068.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1908319
+  lon: 15.60750805
+  altitude: 18.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 410
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:05:44+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_07_DJI_0076.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.19095771666667
+  lon: 15.6085761
+  altitude: 10.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.06666666666666667
+  exposure_string: 1/15 s
+  iso: 260
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:07:37+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_29_DJI_0090.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.191011216666666
+  lon: 15.609219983333332
+  altitude: 1.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:29:36+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_09_10__06_32_DJI_0101.jpg
+  post_slug: 2023-09-10-wschod-i-zachod-w-kolobrzegu
+  lat: 54.1911828
+  lon: 15.610036166666667
+  altitude: 3.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-09-10T06:32:57+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

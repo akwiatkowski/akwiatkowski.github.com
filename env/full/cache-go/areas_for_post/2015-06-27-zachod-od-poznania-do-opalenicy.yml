@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 60298.75
+  total_distance_km: 60.299
+  points_count: 242
+  towns:
+    - slug: tarnowo_podgorne
+      name: Tarnowo Podgórne
+      code: "3021172"
+      distance_meters: 11909.4
+      distance_km: 11.909
+      distance_percent: 19.7507
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+      distance_meters: 10302.97
+      distance_km: 10.303
+      distance_percent: 17.0865
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+      distance_meters: 8536.74
+      distance_km: 8.537
+      distance_percent: 14.1574
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+      distance_meters: 8062.29
+      distance_km: 8.062
+      distance_percent: 13.3706
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 7936.26
+      distance_km: 7.936
+      distance_percent: 13.1616
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+      distance_meters: 6828.82
+      distance_km: 6.829
+      distance_percent: 11.325
+    - slug: buk
+      name: Buk
+      code: "3021033"
+      distance_meters: 5710.01
+      distance_km: 5.71
+      distance_percent: 9.4695
+    - slug: rokietnica
+      name: Rokietnica
+      code: "3021132"
+      distance_meters: 1012.26
+      distance_km: 1.012
+      distance_percent: 1.6787
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 51762.01
+      distance_km: 51.762
+      distance_percent: 85.8426
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 8536.74
+      distance_km: 8.537
+      distance_percent: 14.1574
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 7936.26
+      distance_km: 7.936
+      distance_percent: 13.1616
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 60298.75
+      distance_km: 60.299
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 38420.18
+      distance_km: 38.42
+      distance_percent: 63.7164
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 21878.58
+      distance_km: 21.879
+      distance_percent: 36.2836
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 60298.75
+      distance_km: 60.299
+      distance_percent: 100
+  touched_towns:
+    - slug: buk
+      name: Buk
+      code: "3021033"
+    - slug: dopiewo
+      name: Dopiewo
+      code: "3021052"
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: rokietnica
+      name: Rokietnica
+      code: "3021132"
+    - slug: steszew
+      name: Stęszew
+      code: "3021143"
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+    - slug: tarnowo_podgorne
+      name: Tarnowo Podgórne
+      code: "3021172"
+  touched_counties:
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

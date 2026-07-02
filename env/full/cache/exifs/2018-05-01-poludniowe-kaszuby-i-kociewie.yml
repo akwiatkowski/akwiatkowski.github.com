@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP8306raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.74705
+  lon: 18.023422222222223
+  altitude: 88.4
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -12,6 +15,9 @@
   time: 2018-05-01 09:02:27.000000000+02:00
 - image_filename: IMGP8312raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.74705277777778
+  lon: 18.023419444444443
+  altitude: 88.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -23,6 +29,9 @@
   time: 2018-05-01 09:05:08.000000000+02:00
 - image_filename: IMGP8313raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.74705277777778
+  lon: 18.023419444444443
+  altitude: 88.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -34,6 +43,9 @@
   time: 2018-05-01 09:05:24.000000000+02:00
 - image_filename: IMGP8320raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.74706388888889
+  lon: 18.023419444444443
+  altitude: 87.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -45,6 +57,9 @@
   time: 2018-05-01 09:17:32.000000000+02:00
 - image_filename: IMGP8323raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.74706666666667
+  lon: 18.023419444444443
+  altitude: 87.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -56,6 +71,9 @@
   time: 2018-05-01 09:18:22.000000000+02:00
 - image_filename: IMGP8326raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.75901944444445
+  lon: 18.018005555555554
+  altitude: 129.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -67,6 +85,9 @@
   time: 2018-05-01 09:29:51.000000000+02:00
 - image_filename: IMGP8329raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.774433333333334
+  lon: 18.00585277777778
+  altitude: 131.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -106,6 +127,9 @@
   time: 2018-05-01 09:43:26.000000000+02:00
 - image_filename: IMGP8349raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.84835
+  lon: 18.016080555555554
+  altitude: 138.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -117,6 +141,9 @@
   time: 2018-05-01 10:09:02.000000000+02:00
 - image_filename: IMGP8352raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.84991388888889
+  lon: 18.016413888888888
+  altitude: 129.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -128,6 +155,9 @@
   time: 2018-05-01 10:10:23.000000000+02:00
 - image_filename: IMGP8363raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.89715555555556
+  lon: 17.994672222222224
+  altitude: 138.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -139,6 +169,9 @@
   time: 2018-05-01 10:55:53.000000000+02:00
 - image_filename: IMGP8365raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.89793888888889
+  lon: 17.993761111111112
+  altitude: 139.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -150,6 +183,9 @@
   time: 2018-05-01 10:58:09.000000000+02:00
 - image_filename: IMGP8367raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.89844444444444
+  lon: 17.992455555555555
+  altitude: 140.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -175,6 +211,9 @@
   time: 2018-05-01 11:21:54.000000000+02:00
 - image_filename: IMGP8378raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.89695555555556
+  lon: 17.997500000000002
+  altitude: 146.3
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -186,6 +225,9 @@
   time: 2018-05-01 11:23:59.000000000+02:00
 - image_filename: IMGP8380raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.899175
+  lon: 18.042683333333336
+  altitude: 130.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -197,6 +239,9 @@
   time: 2018-05-01 11:51:25.000000000+02:00
 - image_filename: IMGP8383raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.94670277777777
+  lon: 18.09006111111111
+  altitude: 145.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -208,6 +253,9 @@
   time: 2018-05-01 12:36:05.000000000+02:00
 - image_filename: IMGP8391raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.99187222222222
+  lon: 18.17958888888889
+  altitude: 137.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -219,6 +267,9 @@
   time: 2018-05-01 14:05:17.000000000+02:00
 - image_filename: IMGP8392raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.99187222222222
+  lon: 18.17958888888889
+  altitude: 137.2
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -258,6 +309,9 @@
   time: 2018-05-01 14:21:27.000000000+02:00
 - image_filename: IMGP8399raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.991875
+  lon: 18.17954166666667
+  altitude: 138.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -269,6 +323,9 @@
   time: 2018-05-01 14:21:51.000000000+02:00
 - image_filename: IMGP8400raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.991875
+  lon: 18.17954166666667
+  altitude: 138.7
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -280,6 +337,9 @@
   time: 2018-05-01 14:22:03.000000000+02:00
 - image_filename: IMGP8406raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 53.991875
+  lon: 18.179508333333334
+  altitude: 139.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -291,6 +351,9 @@
   time: 2018-05-01 14:33:36.000000000+02:00
 - image_filename: IMGP8408raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.00817222222222
+  lon: 18.23676388888889
+  altitude: 141.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -302,6 +365,9 @@
   time: 2018-05-01 15:06:49.000000000+02:00
 - image_filename: IMGP8413raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.00864166666667
+  lon: 18.243133333333333
+  altitude: 137.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -313,6 +379,9 @@
   time: 2018-05-01 15:07:41.000000000+02:00
 - image_filename: IMGP8417raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.015008333333334
+  lon: 18.278063888888887
+  altitude: 127.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -324,6 +393,9 @@
   time: 2018-05-01 15:15:11.000000000+02:00
 - image_filename: IMGP8419raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.027569444444445
+  lon: 18.333966666666665
+  altitude: 130.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -349,6 +421,9 @@
   time: 2018-05-01 15:33:22.000000000+02:00
 - image_filename: IMGP8423raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.02758333333333
+  lon: 18.33393333333333
+  altitude: 129.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -374,6 +449,9 @@
   time: 2018-05-01 15:41:14.000000000+02:00
 - image_filename: IMGP8432raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.05999722222222
+  lon: 18.388236111111112
+  altitude: 142.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -399,6 +477,9 @@
   time: 2018-05-01 16:10:43.000000000+02:00
 - image_filename: IMGP8438raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.06719166666667
+  lon: 18.408783333333332
+  altitude: 137.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -410,6 +491,9 @@
   time: 2018-05-01 16:17:46.000000000+02:00
 - image_filename: IMGP8439raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.06769166666667
+  lon: 18.414616666666664
+  altitude: 131.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -421,6 +505,9 @@
   time: 2018-05-01 16:18:39.000000000+02:00
 - image_filename: IMGP8444raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.06946666666667
+  lon: 18.44633888888889
+  altitude: 118.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -432,6 +519,9 @@
   time: 2018-05-01 16:27:22.000000000+02:00
 - image_filename: IMGP8451raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.07242222222222
+  lon: 18.447891666666667
+  altitude: 129.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -443,6 +533,9 @@
   time: 2018-05-01 16:43:25.000000000+02:00
 - image_filename: IMGP8454raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.07241944444445
+  lon: 18.447916666666668
+  altitude: 130.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -468,6 +561,9 @@
   time: 2018-05-01 16:57:01.000000000+02:00
 - image_filename: IMGP8463raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.088905555555556
+  lon: 18.46225
+  altitude: 132.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -479,6 +575,9 @@
   time: 2018-05-01 16:57:56.000000000+02:00
 - image_filename: IMGP8465raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.10686944444445
+  lon: 18.49952222222222
+  altitude: 120.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -490,6 +589,9 @@
   time: 2018-05-01 17:09:40.000000000+02:00
 - image_filename: IMGP8467raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.10746944444445
+  lon: 18.50053888888889
+  altitude: 120.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -501,6 +603,9 @@
   time: 2018-05-01 17:10:41.000000000+02:00
 - image_filename: IMGP8469raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.11023888888889
+  lon: 18.502347222222223
+  altitude: 118.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -512,6 +617,9 @@
   time: 2018-05-01 17:12:40.000000000+02:00
 - image_filename: IMGP8470raw1.jpg
   post_slug: 2018-05-01-poludniowe-kaszuby-i-kociewie
+  lat: 54.12146111111111
+  lon: 18.542358333333336
+  altitude: 93.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

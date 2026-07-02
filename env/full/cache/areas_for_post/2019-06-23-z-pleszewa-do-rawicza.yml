@@ -98,7 +98,7 @@
     distance_meters: 78389.64
     distance_km: 78.39
     distance_percent: 89.1006
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 9589.16
@@ -175,7 +175,7 @@
   - slug: nizina_poludniowowielkopolska
     name: Nizina Południowowielkopolska
     code: "318"
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   touched_mega_regions:

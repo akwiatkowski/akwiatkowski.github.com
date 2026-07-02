@@ -5,6 +5,7 @@ subtitle:               "znowu jest ciepło"
 desc:                   "Ostatni dzień w Beskidzie Żywieckim. Bardzo podobała mi się wieś Młada Hora."
 keywords:               [rycerzowa, młada hora, lato, rajcza]
 date:                   2013-07-21 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 30%

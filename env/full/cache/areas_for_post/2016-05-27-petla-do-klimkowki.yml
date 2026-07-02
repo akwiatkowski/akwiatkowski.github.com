@@ -28,7 +28,7 @@
     distance_meters: 12312.68
     distance_km: 12.313
     distance_percent: 14.0498
-  - slug: gorlice
+  - slug: gorlice-malopolskie-wiejska
     name: Gorlice
     code: "1205042"
     distance_meters: 489.24
@@ -108,7 +108,7 @@
   - slug: ropa
     name: Ropa
     code: "1205082"
-  - slug: gorlice
+  - slug: gorlice-malopolskie-wiejska
     name: Gorlice
     code: "1205042"
   touched_counties:

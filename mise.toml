@@ -1,0 +1,6 @@
+[tools]
+crystal = "latest"
+go = "1.26.1"
+"go:github.com/golangci/golangci-lint/cmd/golangci-lint" = "latest"
+npm = "latest"
+python = "3"

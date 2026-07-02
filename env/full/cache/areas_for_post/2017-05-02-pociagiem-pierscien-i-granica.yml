@@ -10,7 +10,7 @@
     distance_meters: 29964.25
     distance_km: 29.964
     distance_percent: 12.1097
-  - slug: zgorzelec
+  - slug: zgorzelec-dolnoslaskie-wiejska
     name: Zgorzelec
     code: "0225072"
     distance_meters: 21880.08
@@ -40,7 +40,7 @@
     distance_meters: 15726.73
     distance_km: 15.727
     distance_percent: 6.3558
-  - slug: zgorzelec
+  - slug: zgorzelec-dolnoslaskie-miejska
     name: Zgorzelec
     code: "0225021"
     distance_meters: 15135.22
@@ -100,7 +100,7 @@
     distance_meters: 6331.54
     distance_km: 6.332
     distance_percent: 2.5588
-  - slug: luban
+  - slug: luban-dolnoslaskie-miejska
     name: Lubań
     code: "0210011"
     distance_meters: 4407.74
@@ -112,7 +112,7 @@
     distance_meters: 2996.18
     distance_km: 2.996
     distance_percent: 1.2109
-  - slug: luban
+  - slug: luban-dolnoslaskie-wiejska
     name: Lubań
     code: "0210042"
     distance_meters: 2687.09
@@ -218,7 +218,7 @@
     distance_meters: 10381.69
     distance_km: 10.382
     distance_percent: 4.1956
-  - slug: nizina_slaskoluzycka
+  - slug: nizina_slasko-luzycka
     name: Nizina Śląsko-Łużycka
     code: "317"
     distance_meters: 6575.96
@@ -238,7 +238,7 @@
     distance_meters: 234257.58
     distance_km: 234.258
     distance_percent: 94.6723
-  - slug: niziny_saskoluzyckie
+  - slug: niziny_sasko-luzyckie
     name: Niziny Sasko-Łużyckie
     code: "31"
     distance_meters: 6575.96
@@ -279,9 +279,12 @@
   - slug: piensk
     name: Pieńsk
     code: "0225043"
-  - slug: zgorzelec
+  - slug: zgorzelec-dolnoslaskie-wiejska
     name: Zgorzelec
     code: "0225072"
+  - slug: zgorzelec-dolnoslaskie-miejska
+    name: Zgorzelec
+    code: "0225021"
   - slug: sulikow
     name: Sulików
     code: "0225052"
@@ -291,9 +294,12 @@
   - slug: siekierczyn
     name: Siekierczyn
     code: "0210072"
-  - slug: luban
+  - slug: luban-dolnoslaskie-miejska
     name: Lubań
     code: "0210011"
+  - slug: luban-dolnoslaskie-wiejska
+    name: Lubań
+    code: "0210042"
   - slug: olszyna
     name: Olszyna
     code: "0210053"

@@ -1,0 +1,48 @@
+# Route colors by transport type
+# Used by all map pages (mapa_tras, area show, etc.)
+# Format: color (CSS), weight (px), opacity (0-1)
+
+hike:
+  color: "rgb(255, 100, 0)"
+  weight: 3
+  opacity: 1
+
+bicycle:
+  color: "rgb(0, 70, 240)"
+  weight: 3
+  opacity: 1
+
+e-bike:
+  color: "rgb(150, 60, 240)"
+  weight: 3
+  opacity: 1
+
+canoe:
+  color: "rgb(0, 30, 150)"
+  weight: 3
+  opacity: 1
+
+car:
+  color: "rgb(120, 0, 50)"
+  weight: 3
+  opacity: 0.4
+
+ev:
+  color: "rgb(220, 100, 190)"
+  weight: 3
+  opacity: 0.4
+
+bus:
+  color: "rgb(50, 0, 120)"
+  weight: 3
+  opacity: 0.4
+
+train:
+  color: "rgb(100, 50, 180)"
+  weight: 3
+  opacity: 0.4
+
+regular:
+  color: "rgb(50, 50, 50)"
+  weight: 3
+  opacity: 0.4

@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 5132.02
+  total_distance_km: 5.132
+  points_count: 89
+  towns:
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+      distance_meters: 5132.02
+      distance_km: 5.132
+      distance_percent: 100
+  counties:
+    - slug: zninski
+      name: żniński
+      code: "0419"
+      distance_meters: 5132.02
+      distance_km: 5.132
+      distance_percent: 100
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 5132.02
+      distance_km: 5.132
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 4102.62
+      distance_km: 4.103
+      distance_percent: 79.9416
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 1029.4
+      distance_km: 1.029
+      distance_percent: 20.0584
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 5132.02
+      distance_km: 5.132
+      distance_percent: 100
+  touched_towns:
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+  touched_counties:
+    - slug: zninski
+      name: żniński
+      code: "0419"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

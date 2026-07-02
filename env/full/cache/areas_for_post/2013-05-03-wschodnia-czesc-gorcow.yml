@@ -22,7 +22,7 @@
     distance_meters: 3025.77
     distance_km: 3.026
     distance_percent: 15.2906
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
     distance_meters: 487.36
@@ -93,7 +93,7 @@
   - slug: czorsztyn
     name: Czorsztyn
     code: "1211042"
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
   touched_counties:

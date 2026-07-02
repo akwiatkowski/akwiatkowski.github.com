@@ -49,7 +49,7 @@
     distance_km: 1.12
     distance_percent: 10.809
   meso_regions:
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
     distance_meters: 10360.98
@@ -108,7 +108,7 @@
     name: ŚLĄSKIE
     code: "24"
   touched_meso_regions:
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
   touched_macro_regions:

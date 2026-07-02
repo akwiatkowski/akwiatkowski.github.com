@@ -1,0 +1,23 @@
+<a href="{{post.url}}" class="post-card {{post.featured_class}}">
+  <div class="post-card-image">
+    <img src="{{post.image}}" alt="{{post.title}}">
+  </div>
+  <div class="post-card-content">
+    <div class="post-card-meta">
+      <span class="post-card-date">{{post.date}}</span>
+      <span class="post-card-tag">{{post.tag}}</span>
+    </div>
+    <h3 class="post-card-title">{{post.title}}</h3>
+    <p class="post-card-subtitle">{{post.subtitle}}</p>
+    <div class="post-card-stats">
+      <span class="post-card-stat">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+        {{post.distance}}
+      </span>
+      <span class="post-card-stat">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+        {{post.time_spent}}
+      </span>
+    </div>
+  </div>
+</a>

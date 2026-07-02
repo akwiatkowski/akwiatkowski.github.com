@@ -1,0 +1,701 @@
+---
+- image_filename: 2023_02_04__13_01_P2047583.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.319375
+  lon: 16.638527777777778
+  altitude: 66
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8109
+  height: 6025
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:01:48+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_04_P2047586.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.318763888888896
+  lon: 16.636875
+  altitude: 64
+  focal_length: 18
+  focal_length_35: 36
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:04:46+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_05_P2047588.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31875
+  lon: 16.636833333333332
+  altitude: 63
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8140
+  height: 6048
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:05:42+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_09_P2047590.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31954166666667
+  lon: 16.63436111111111
+  altitude: 63
+  focal_length: 15
+  focal_length_35: 30
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:09:34+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_15_P2047596.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.321083333333334
+  lon: 16.632208333333335
+  altitude: 62
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 8062
+  height: 5973
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:15:17+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_17_P2047599.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.32106944444445
+  lon: 16.63238888888889
+  altitude: 62
+  focal_length: 50
+  focal_length_35: 100
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8138
+  height: 6077
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:17:29+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_19_P2047600.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.320819444444446
+  lon: 16.632819444444443
+  altitude: 63
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:19:30+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_21_P2047602.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31995833333334
+  lon: 16.633555555555557
+  altitude: 62
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:21:27+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_26_P2047606.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.319069444444445
+  lon: 16.635194444444444
+  altitude: 63
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:26:06+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_27_P2047608.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31890277777778
+  lon: 16.635749999999998
+  altitude: 63
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5953
+  height: 8066
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:27:01+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_29_P2047616.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31883333333334
+  lon: 16.636819444444445
+  altitude: 63
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.05
+  exposure_string: 1/20 s
+  iso: 200
+  width: 8157
+  height: 6089
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:29:51+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_30_P2047617.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31881944444445
+  lon: 16.63686111111111
+  altitude: 63
+  focal_length: 29
+  focal_length_35: 58
+  crop: 2
+  aperture: 4.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 8131
+  height: 6069
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:30:22+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_30_P2047618.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636902777777777
+  altitude: 62
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 8145
+  height: 6075
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:30:43+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_31_P2047619.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636888888888887
+  altitude: 62
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:31:01+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_31_P2047621.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636875
+  altitude: 62
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:31:34+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_31_P2047623.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636875
+  altitude: 62
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:31:57+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_32_P2047625.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636875
+  altitude: 62
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5163
+  height: 3809
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:32:11+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_32_P2047626.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.636875
+  altitude: 62
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5073
+  height: 3680
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:32:13+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__13_33_P2047634.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.31880555555556
+  lon: 16.63686111111111
+  altitude: 62
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T13:33:44+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_02_04__14_12_P2047649.jpg
+  post_slug: 2023-02-04-jezioro-tomickie
+  lat: 52.32065277777778
+  lon: 16.63947222222222
+  altitude: 65
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8131
+  height: 6011
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-02-04T14:12:08+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

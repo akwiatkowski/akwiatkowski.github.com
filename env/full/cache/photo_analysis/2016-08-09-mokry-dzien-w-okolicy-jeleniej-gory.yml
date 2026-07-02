@@ -1,0 +1,251 @@
+---
+- image_filename: IMGP4162raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: 3f07030f1f060000
+  dhash: 6cf66f7bf5ec3cbb
+  phash: aea644968adfc788
+  avg_rgb:
+  - 100
+  - 104
+  - 97
+  top5_rgb:
+  - - 45
+    - 61
+    - 23
+  - - 60
+    - 61
+    - 57
+  - - 190
+    - 208
+    - 222
+  - - 43
+    - 46
+    - 38
+  - - 52
+    - 56
+    - 45
+- image_filename: IMGP4171raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: ffffffff00000000
+  dhash: c8f0f0cc6460d0f0
+  phash: d4d1c36ee3e1291c
+  avg_rgb:
+  - 123
+  - 128
+  - 131
+  top5_rgb:
+  - - 99
+    - 81
+    - 53
+  - - 133
+    - 151
+    - 172
+  - - 102
+    - 83
+    - 55
+  - - 178
+    - 192
+    - 211
+  - - 173
+    - 184
+    - 201
+- image_filename: IMGP4174raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: ffffff0000000000
+  dhash: f6f0f4c8894434d3
+  phash: d1828cf62b56a5e6
+  avg_rgb:
+  - 111
+  - 113
+  - 104
+  top5_rgb:
+  - - 118
+    - 99
+    - 58
+  - - 179
+    - 192
+    - 210
+  - - 100
+    - 86
+    - 50
+  - - 105
+    - 80
+    - 46
+  - - 105
+    - 89
+    - 53
+- image_filename: IMGP4188raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: da3c1c1818981c0d
+  dhash: b2f0a0e0203030f9
+  phash: dcc4b1dc8c99ccac
+  avg_rgb:
+  - 55
+  - 73
+  - 32
+  top5_rgb:
+  - - 64
+    - 70
+    - 51
+  - - 41
+    - 64
+    - 14
+  - - 47
+    - 71
+    - 16
+  - - 61
+    - 87
+    - 20
+  - - 120
+    - 139
+    - 100
+- image_filename: IMGP4191raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: fcb010383c3d3700
+  dhash: c060606260e9c88d
+  phash: cedd7083dc84da61
+  avg_rgb:
+  - 86
+  - 96
+  - 81
+  top5_rgb:
+  - - 61
+    - 85
+    - 69
+  - - 79
+    - 82
+    - 78
+  - - 103
+    - 96
+    - 76
+  - - 101
+    - 140
+    - 148
+  - - 79
+    - 111
+    - 114
+- image_filename: IMGP4192raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: ff00006170787841
+  dhash: c4e3c3c3c9c2d79b
+  phash: c197bcc59394b4d2
+  avg_rgb:
+  - 91
+  - 100
+  - 90
+  top5_rgb:
+  - - 61
+    - 83
+    - 80
+  - - 132
+    - 137
+    - 125
+  - - 62
+    - 82
+    - 48
+  - - 119
+    - 124
+    - 112
+  - - 76
+    - 81
+    - 77
+- image_filename: IMGP4209raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: c8cacc8c8c0a7ef0
+  dhash: 1a1a181858dae8a4
+  phash: f9fde42d1f820503
+  avg_rgb:
+  - 90
+  - 103
+  - 60
+  top5_rgb:
+  - - 216
+    - 230
+    - 245
+  - - 150
+    - 146
+    - 113
+  - - 106
+    - 103
+    - 83
+  - - 116
+    - 113
+    - 87
+  - - 84
+    - 82
+    - 67
+- image_filename: IMGP4211raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: fffffc0000000000
+  dhash: e6c8b0e20040cbb3
+  phash: d0d6a1a7ad2b0e5a
+  avg_rgb:
+  - 100
+  - 107
+  - 85
+  top5_rgb:
+  - - 87
+    - 87
+    - 28
+  - - 64
+    - 69
+    - 25
+  - - 75
+    - 78
+    - 30
+  - - 196
+    - 213
+    - 229
+  - - 65
+    - 77
+    - 23
+- image_filename: IMGP4214raw1.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: ff7f7efc00000000
+  dhash: 80c0c080b0c6c3c0
+  phash: c0c0a37cfec8073f
+  avg_rgb:
+  - 106
+  - 122
+  - 131
+  top5_rgb:
+  - - 57
+    - 67
+    - 76
+  - - 54
+    - 62
+    - 68
+  - - 47
+    - 52
+    - 52
+  - - 45
+    - 60
+    - 35
+  - - 69
+    - 79
+    - 90
+- image_filename: header.jpg
+  post_slug: 2016-08-09-mokry-dzien-w-okolicy-jeleniej-gory
+  ahash: ffde1000027f3c00
+  dhash: 7130b261a2e96482
+  phash: c8d8da8379caca65
+  avg_rgb:
+  - 93
+  - 90
+  - 83
+  top5_rgb:
+  - - 62
+    - 58
+    - 52
+  - - 45
+    - 44
+    - 33
+  - - 47
+    - 46
+    - 34
+  - - 158
+    - 152
+    - 152
+  - - 151
+    - 147
+    - 146

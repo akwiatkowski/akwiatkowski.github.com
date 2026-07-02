@@ -1,0 +1,751 @@
+---
+- image_filename: 2023_11_11__13_52_DSC09256.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: f8f4cccc8c0d1480
+  dhash: f1441c3839396814
+  phash: dac1cd89d9d8390b
+  avg_rgb:
+  - 112
+  - 100
+  - 69
+  top5_rgb:
+  - - 77
+    - 68
+    - 58
+  - - 183
+    - 173
+    - 157
+  - - 171
+    - 162
+    - 144
+  - - 62
+    - 60
+    - 52
+  - - 90
+    - 84
+    - 71
+- image_filename: 2023_11_11__13_53_DSC09271.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 3f3f1f1830383803
+  dhash: 666e6b637373726a
+  phash: 8db4b5455d494baa
+  avg_rgb:
+  - 104
+  - 99
+  - 72
+  top5_rgb:
+  - - 120
+    - 114
+    - 95
+  - - 213
+    - 179
+    - 154
+  - - 78
+    - 85
+    - 79
+  - - 99
+    - 94
+    - 84
+  - - 183
+    - 150
+    - 59
+- image_filename: 2023_11_11__14_31_DJI_0354.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffffce8c8100000
+  dhash: f8fc809090b0b2f0
+  phash: d083878c5b775e58
+  avg_rgb:
+  - 101
+  - 101
+  - 46
+  top5_rgb:
+  - - 127
+    - 125
+    - 6
+  - - 108
+    - 126
+    - 119
+  - - 86
+    - 89
+    - 10
+  - - 142
+    - 142
+    - 14
+  - - 145
+    - 165
+    - 155
+- image_filename: 2023_11_11__14_32_DJI_0357.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffffcc000000000
+  dhash: 80808890c098b8f0
+  phash: d1d7c69e0e383326
+  avg_rgb:
+  - 90
+  - 91
+  - 57
+  top5_rgb:
+  - - 55
+    - 57
+    - 8
+  - - 60
+    - 58
+    - 17
+  - - 77
+    - 84
+    - 50
+  - - 93
+    - 112
+    - 80
+  - - 252
+    - 230
+    - 176
+- image_filename: 2023_11_11__14_33_DJI_0360.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 7f7ffcfcec201000
+  dhash: e4ccc09088e4a6a6
+  phash: c4930da7d9c85667
+  avg_rgb:
+  - 108
+  - 108
+  - 51
+  top5_rgb:
+  - - 120
+    - 148
+    - 147
+  - - 143
+    - 146
+    - 28
+  - - 164
+    - 156
+    - 50
+  - - 74
+    - 73
+    - 6
+  - - 110
+    - 138
+    - 137
+- image_filename: 2023_11_11__14_34_DJI_0364.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff604030000000
+  dhash: fcee8685c4d2c0e0
+  phash: c0a09b9dce7a6965
+  avg_rgb:
+  - 86
+  - 87
+  - 49
+  top5_rgb:
+  - - 93
+    - 97
+    - 8
+  - - 121
+    - 143
+    - 134
+  - - 66
+    - 77
+    - 9
+  - - 71
+    - 67
+    - 10
+  - - 62
+    - 54
+    - 7
+- image_filename: 2023_11_11__14_34_DJI_0365.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff7f0000000000
+  dhash: fefff6f3fab6f4e0
+  phash: 84a2b2b70f3c7c87
+  avg_rgb:
+  - 91
+  - 96
+  - 62
+  top5_rgb:
+  - - 69
+    - 78
+    - 51
+  - - 87
+    - 101
+    - 11
+  - - 55
+    - 55
+    - 14
+  - - 65
+    - 79
+    - 9
+  - - 49
+    - 48
+    - 10
+- image_filename: 2023_11_11__14_36_DJI_0369.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ff7f0b0601102000
+  dhash: fed6da9cbba248d0
+  phash: 81a0c78eb9978ceb
+  avg_rgb:
+  - 68
+  - 72
+  - 36
+  top5_rgb:
+  - - 71
+    - 77
+    - 13
+  - - 61
+    - 62
+    - 9
+  - - 95
+    - 108
+    - 72
+  - - 94
+    - 80
+    - 32
+  - - 71
+    - 78
+    - 46
+- image_filename: 2023_11_11__14_37_DJI_0371.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 50500e3f3f1c3c7c
+  dhash: a494d2eae8b1f0e8
+  phash: c06466cae7192fd3
+  avg_rgb:
+  - 83
+  - 86
+  - 36
+  top5_rgb:
+  - - 134
+    - 122
+    - 45
+  - - 101
+    - 107
+    - 71
+  - - 99
+    - 107
+    - 27
+  - - 136
+    - 124
+    - 79
+  - - 63
+    - 74
+    - 11
+- image_filename: 2023_11_11__14_45_DJI_0386.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 7fffff001f010000
+  dhash: fefefff2fe9f83e0
+  phash: 8091d327177baa97
+  avg_rgb:
+  - 99
+  - 106
+  - 77
+  top5_rgb:
+  - - 21
+    - 34
+    - 5
+  - - 86
+    - 86
+    - 56
+  - - 41
+    - 48
+    - 14
+  - - 58
+    - 45
+    - 10
+  - - 59
+    - 70
+    - 48
+- image_filename: 2023_11_11__14_45_DJI_0388.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffff83800000000
+  dhash: e08080e064f2e2f0
+  phash: c5d7d41c074b7874
+  avg_rgb:
+  - 71
+  - 74
+  - 46
+  top5_rgb:
+  - - 87
+    - 104
+    - 19
+  - - 88
+    - 104
+    - 94
+  - - 104
+    - 123
+    - 116
+  - - 126
+    - 145
+    - 137
+  - - 39
+    - 41
+    - 9
+- image_filename: 2023_11_11__14_46_DJI_0391.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffffff0001000000
+  dhash: fefef28cc7e0f0e0
+  phash: 80a19f2f33734cae
+  avg_rgb:
+  - 65
+  - 72
+  - 50
+  top5_rgb:
+  - - 19
+    - 23
+    - 6
+  - - 128
+    - 152
+    - 144
+  - - 73
+    - 54
+    - 15
+  - - 108
+    - 115
+    - 89
+  - - 23
+    - 28
+    - 7
+- image_filename: 2023_11_11__14_46_DJI_0392.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 7fffff000f000000
+  dhash: fefcfef2ff1f00e0
+  phash: 8091d727077fab83
+  avg_rgb:
+  - 79
+  - 87
+  - 65
+  top5_rgb:
+  - - 38
+    - 45
+    - 25
+  - - 220
+    - 220
+    - 171
+  - - 26
+    - 24
+    - 6
+  - - 9
+    - 18
+    - 3
+  - - 136
+    - 159
+    - 142
+- image_filename: 2023_11_11__14_46_DJI_0394.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fefe6f1738381818
+  dhash: e46ccceee3f1f1f2
+  phash: 84f7f5480d36f069
+  avg_rgb:
+  - 76
+  - 83
+  - 25
+  top5_rgb:
+  - - 119
+    - 112
+    - 61
+  - - 89
+    - 90
+    - 10
+  - - 148
+    - 126
+    - 61
+  - - 99
+    - 114
+    - 9
+  - - 31
+    - 44
+    - 7
+- image_filename: 2023_11_11__14_50_DSC09318.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffffffff8000000
+  dhash: "2084080440008520"
+  phash: ddb0024ccdb25bcd
+  avg_rgb:
+  - 98
+  - 98
+  - 83
+  top5_rgb:
+  - - 99
+    - 112
+    - 115
+  - - 74
+    - 60
+    - 35
+  - - 63
+    - 66
+    - 26
+  - - 113
+    - 124
+    - 125
+  - - 38
+    - 44
+    - 38
+- image_filename: 2023_11_11__14_52_DJI_0407.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff02081f002000
+  dhash: c0c4d2f9fac4ccc8
+  phash: 81dce2f49b5a68a5
+  avg_rgb:
+  - 83
+  - 90
+  - 59
+  top5_rgb:
+  - - 49
+    - 65
+    - 4
+  - - 39
+    - 54
+    - 9
+  - - 50
+    - 57
+    - 4
+  - - 124
+    - 156
+    - 151
+  - - 48
+    - 50
+    - 4
+- image_filename: 2023_11_11__14_52_DSC09335.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffffff0000008400
+  dhash: c0c0a0e2c4203ced
+  phash: d6a59a5523be4863
+  avg_rgb:
+  - 90
+  - 92
+  - 50
+  top5_rgb:
+  - - 122
+    - 133
+    - 136
+  - - 141
+    - 131
+    - 5
+  - - 110
+    - 125
+    - 130
+  - - 105
+    - 123
+    - 132
+  - - 114
+    - 87
+    - 4
+- image_filename: 2023_11_11__14_53_DJI_0411.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff020000000000
+  dhash: e8f696daa0d0d090
+  phash: 818483cbdbeb3d2c
+  avg_rgb:
+  - 76
+  - 84
+  - 50
+  top5_rgb:
+  - - 40
+    - 40
+    - 11
+  - - 43
+    - 48
+    - 27
+  - - 252
+    - 228
+    - 167
+  - - 28
+    - 50
+    - 20
+  - - 27
+    - 47
+    - 18
+- image_filename: 2023_11_11__14_54_DSC09341.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffffffff43000000
+  dhash: ececec8b9260c0b1
+  phash: a1a6167529ca5e75
+  avg_rgb:
+  - 79
+  - 88
+  - 63
+  top5_rgb:
+  - - 83
+    - 96
+    - 101
+  - - 65
+    - 77
+    - 8
+  - - 104
+    - 114
+    - 114
+  - - 70
+    - 85
+    - 6
+  - - 28
+    - 47
+    - 5
+- image_filename: 2023_11_11__14_56_DSC09351.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 33bbe3130b3b191f
+  dhash: 665646b6b2f2f3b0
+  phash: 8de7d7093424e173
+  avg_rgb:
+  - 104
+  - 93
+  - 40
+  top5_rgb:
+  - - 67
+    - 64
+    - 16
+  - - 142
+    - 121
+    - 10
+  - - 134
+    - 119
+    - 76
+  - - 67
+    - 63
+    - 45
+  - - 115
+    - 106
+    - 10
+- image_filename: 2023_11_11__15_18_DJI_0431.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffffff0878400000
+  dhash: e0c6c2b0f0d5cce8
+  phash: c0c5b7d05c13e6cd
+  avg_rgb:
+  - 84
+  - 90
+  - 65
+  top5_rgb:
+  - - 58
+    - 55
+    - 31
+  - - 72
+    - 74
+    - 36
+  - - 106
+    - 133
+    - 135
+  - - 42
+    - 41
+    - 5
+  - - 82
+    - 62
+    - 18
+- image_filename: 2023_11_11__15_18_DJI_0432.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff000816000038
+  dhash: e0c4d8f0e4cbece0
+  phash: 80a5dfa7c41b6b16
+  avg_rgb:
+  - 96
+  - 95
+  - 61
+  top5_rgb:
+  - - 90
+    - 82
+    - 7
+  - - 79
+    - 65
+    - 11
+  - - 90
+    - 102
+    - 14
+  - - 95
+    - 118
+    - 119
+  - - 112
+    - 96
+    - 51
+- image_filename: 2023_11_11__15_19_DJI_0435.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffffe1000001000
+  dhash: 988880b1e0e2f0f4
+  phash: d0f393831a4e6cb6
+  avg_rgb:
+  - 85
+  - 87
+  - 66
+  top5_rgb:
+  - - 67
+    - 55
+    - 11
+  - - 100
+    - 123
+    - 124
+  - - 67
+    - 55
+    - 28
+  - - 91
+    - 79
+    - 45
+  - - 55
+    - 63
+    - 7
+- image_filename: 2023_11_11__15_19_DJI_0436.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffff00000000000
+  dhash: 40808482cc8ed3e1
+  phash: d0d5cf9716293453
+  avg_rgb:
+  - 77
+  - 78
+  - 52
+  top5_rgb:
+  - - 95
+    - 95
+    - 55
+  - - 40
+    - 40
+    - 18
+  - - 136
+    - 155
+    - 139
+  - - 55
+    - 51
+    - 25
+  - - 38
+    - 33
+    - 9
+- image_filename: 2023_11_11__15_19_DJI_0437.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 000042373e6f7e3f
+  dhash: ecc4d6d4ecdcd6f6
+  phash: 956a4d12ae25bb59
+  avg_rgb:
+  - 79
+  - 82
+  - 34
+  top5_rgb:
+  - - 90
+    - 113
+    - 57
+  - - 75
+    - 79
+    - 40
+  - - 135
+    - 127
+    - 69
+  - - 93
+    - 89
+    - 51
+  - - 83
+    - 88
+    - 45
+- image_filename: 2023_11_11__15_20_DJI_0438.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: 7f7e7c38584c0000
+  dhash: fcfcb0b1b09898a8
+  phash: d09497b12dcbdac8
+  avg_rgb:
+  - 69
+  - 72
+  - 26
+  top5_rgb:
+  - - 49
+    - 47
+    - 20
+  - - 66
+    - 69
+    - 7
+  - - 58
+    - 61
+    - 5
+  - - 59
+    - 60
+    - 25
+  - - 49
+    - 47
+    - 7
+- image_filename: 2023_11_11__15_20_DJI_0441.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffe787810000000
+  dhash: e0c0f2f2e020c2c2
+  phash: c5c0b6b6c9a99ca9
+  avg_rgb:
+  - 73
+  - 75
+  - 36
+  top5_rgb:
+  - - 35
+    - 45
+    - 9
+  - - 35
+    - 36
+    - 17
+  - - 35
+    - 36
+    - 6
+  - - 255
+    - 229
+    - 164
+  - - 76
+    - 76
+    - 24
+- image_filename: 2023_11_11__15_21_DJI_0444.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ffff001f00000000
+  dhash: ecc0f09ac2d272fa
+  phash: 81d4d6e5a03f4a6e
+  avg_rgb:
+  - 80
+  - 77
+  - 45
+  top5_rgb:
+  - - 85
+    - 80
+    - 13
+  - - 51
+    - 48
+    - 3
+  - - 142
+    - 161
+    - 154
+  - - 86
+    - 105
+    - 92
+  - - 147
+    - 105
+    - 46
+- image_filename: 2023_11_11__15_22_DJI_0450.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: fffff00000200000
+  dhash: 8280003c09c09ce4
+  phash: f4f1c5e81d344c78
+  avg_rgb:
+  - 71
+  - 79
+  - 55
+  top5_rgb:
+  - - 67
+    - 67
+    - 9
+  - - 55
+    - 58
+    - 9
+  - - 48
+    - 49
+    - 6
+  - - 77
+    - 85
+    - 28
+  - - 86
+    - 115
+    - 122
+- image_filename: 2023_11_11__15_26_DJI_0461.jpg
+  post_slug: 2023-11-11-kolata-z-drona
+  ahash: ff20081f383c1e04
+  dhash: c4e4fafaf1f0f4fc
+  phash: 95e9f4caa391e14c
+  avg_rgb:
+  - 68
+  - 71
+  - 43
+  top5_rgb:
+  - - 40
+    - 43
+    - 3
+  - - 50
+    - 48
+    - 8
+  - - 22
+    - 29
+    - 5
+  - - 108
+    - 98
+    - 60
+  - - 39
+    - 38
+    - 3

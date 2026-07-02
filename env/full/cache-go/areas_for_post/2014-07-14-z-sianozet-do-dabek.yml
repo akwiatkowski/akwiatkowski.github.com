@@ -1,0 +1,123 @@
+---
+- type: bicycle
+  total_distance_meters: 58748.13
+  total_distance_km: 58.748
+  points_count: 354
+  towns:
+    - slug: mielno
+      name: Mielno
+      code: "3209053"
+      distance_meters: 28096.22
+      distance_km: 28.096
+      distance_percent: 47.8249
+    - slug: sianow
+      name: Sianów
+      code: "3209073"
+      distance_meters: 10980.82
+      distance_km: 10.981
+      distance_percent: 18.6914
+    - slug: darlowo
+      name: Darłowo
+      code: "3213032"
+      distance_meters: 9175.17
+      distance_km: 9.175
+      distance_percent: 15.6178
+    - slug: ustronie_morskie
+      name: Ustronie Morskie
+      code: "3208072"
+      distance_meters: 5921.86
+      distance_km: 5.922
+      distance_percent: 10.0801
+    - slug: bedzino
+      name: Będzino
+      code: "3209012"
+      distance_meters: 4542.17
+      distance_km: 4.542
+      distance_percent: 7.7316
+  counties:
+    - slug: koszalinski
+      name: koszaliński
+      code: "3209"
+      distance_meters: 43619.22
+      distance_km: 43.619
+      distance_percent: 74.2478
+    - slug: slawienski
+      name: sławieński
+      code: "3213"
+      distance_meters: 9175.17
+      distance_km: 9.175
+      distance_percent: 15.6178
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+      distance_meters: 5921.86
+      distance_km: 5.922
+      distance_percent: 10.0801
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 58716.25
+      distance_km: 58.716
+      distance_percent: 99.9457
+  meso_regions:
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+      distance_meters: 47064.22
+      distance_km: 47.064
+      distance_percent: 80.1119
+    - slug: rownina_slupska
+      name: Równina Słupska
+      code: "313.43"
+      distance_meters: 11683.91
+      distance_km: 11.684
+      distance_percent: 19.8881
+  macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 58748.13
+      distance_km: 58.748
+      distance_percent: 100
+  touched_towns:
+    - slug: bedzino
+      name: Będzino
+      code: "3209012"
+    - slug: darlowo
+      name: Darłowo
+      code: "3213032"
+    - slug: mielno
+      name: Mielno
+      code: "3209053"
+    - slug: sianow
+      name: Sianów
+      code: "3209073"
+    - slug: ustronie_morskie
+      name: Ustronie Morskie
+      code: "3208072"
+  touched_counties:
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+    - slug: koszalinski
+      name: koszaliński
+      code: "3209"
+    - slug: slawienski
+      name: sławieński
+      code: "3213"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: rownina_slupska
+      name: Równina Słupska
+      code: "313.43"
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"

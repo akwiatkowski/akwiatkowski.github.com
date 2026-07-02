@@ -4,7 +4,7 @@
   total_distance_km: 11.938
   points_count: 209.0
   towns:
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
     distance_meters: 9016.67
@@ -81,7 +81,7 @@
   - slug: pieszyce
     name: Pieszyce
     code: "0202033"
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
   touched_counties:

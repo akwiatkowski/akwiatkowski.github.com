@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 16774.61
+  total_distance_km: 16.775
+  points_count: 329
+  towns:
+    - slug: rytro
+      name: Rytro
+      code: "1210152"
+      distance_meters: 8182.37
+      distance_km: 8.182
+      distance_percent: 48.7783
+    - slug: piwniczna-zdroj
+      name: Piwniczna-Zdrój
+      code: "1210133"
+      distance_meters: 4753.04
+      distance_km: 4.753
+      distance_percent: 28.3347
+    - slug: nawojowa
+      name: Nawojowa
+      code: "1210122"
+      distance_meters: 2084.75
+      distance_km: 2.085
+      distance_percent: 12.428
+    - slug: labowa
+      name: Łabowa
+      code: "1210082"
+      distance_meters: 1754.46
+      distance_km: 1.754
+      distance_percent: 10.459
+  counties:
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+      distance_meters: 16774.61
+      distance_km: 16.775
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 16774.61
+      distance_km: 16.775
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+      distance_meters: 16774.61
+      distance_km: 16.775
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 16774.61
+      distance_km: 16.775
+      distance_percent: 100
+  touched_towns:
+    - slug: labowa
+      name: Łabowa
+      code: "1210082"
+    - slug: nawojowa
+      name: Nawojowa
+      code: "1210122"
+    - slug: piwniczna-zdroj
+      name: Piwniczna-Zdrój
+      code: "1210133"
+    - slug: rytro
+      name: Rytro
+      code: "1210152"
+  touched_counties:
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_sadecki
+      name: Beskid Sądecki
+      code: "513.54"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

@@ -20,6 +20,7 @@ map_zooms:              14
 distance:               9
 time_spent:             3
 elevation:              247
+terrain:                27.4 # m/km przewyższeń — górzysty
 temperature:            14
 
 

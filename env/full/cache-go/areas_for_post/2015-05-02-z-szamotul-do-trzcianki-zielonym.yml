@@ -1,0 +1,189 @@
+---
+- type: bicycle
+  total_distance_meters: 68891.05
+  total_distance_km: 68.891
+  points_count: 284
+  towns:
+    - slug: obrzycko
+      name: Obrzycko
+      code: "3024042"
+      distance_meters: 13472.23
+      distance_km: 13.472
+      distance_percent: 19.5558
+    - slug: polajewo
+      name: Połajewo
+      code: "3002062"
+      distance_meters: 12188.8
+      distance_km: 12.189
+      distance_percent: 17.6929
+    - slug: czarnkow
+      name: Czarnków
+      code: "3002022"
+      distance_meters: 9699.27
+      distance_km: 9.699
+      distance_percent: 14.0791
+    - slug: trzcianka
+      name: Trzcianka
+      code: "3002073"
+      distance_meters: 9392.72
+      distance_km: 9.393
+      distance_percent: 13.6342
+    - slug: lubasz
+      name: Lubasz
+      code: "3002052"
+      distance_meters: 9081.5
+      distance_km: 9.081
+      distance_percent: 13.1824
+    - slug: szamotuly
+      name: Szamotuły
+      code: "3024073"
+      distance_meters: 8502.68
+      distance_km: 8.503
+      distance_percent: 12.3422
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+      distance_meters: 3834.68
+      distance_km: 3.835
+      distance_percent: 5.5663
+    - slug: czarnkow
+      name: Czarnków
+      code: "3002011"
+      distance_meters: 2719.18
+      distance_km: 2.719
+      distance_percent: 3.9471
+    - slug: obrzycko
+      name: Obrzycko
+      code: "3024011"
+      distance_meters: 1825.67
+      distance_km: 1.826
+      distance_percent: 2.6501
+  counties:
+    - slug: czarnkowsko-trzcianecki
+      name: czarnkowsko-trzcianecki
+      code: "3002"
+      distance_meters: 43081.47
+      distance_km: 43.081
+      distance_percent: 62.5356
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+      distance_meters: 21974.91
+      distance_km: 21.975
+      distance_percent: 31.8981
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+      distance_meters: 3834.68
+      distance_km: 3.835
+      distance_percent: 5.5663
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 68891.05
+      distance_km: 68.891
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 36335.04
+      distance_km: 36.335
+      distance_percent: 52.7428
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 16824.27
+      distance_km: 16.824
+      distance_percent: 24.4216
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 9034.23
+      distance_km: 9.034
+      distance_percent: 13.1138
+    - slug: pojezierze_waleckie
+      name: Pojezierze Wałeckie
+      code: "314.64"
+      distance_meters: 6697.51
+      distance_km: 6.698
+      distance_percent: 9.7219
+  macro_regions:
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 36335.04
+      distance_km: 36.335
+      distance_percent: 52.7428
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 25858.5
+      distance_km: 25.858
+      distance_percent: 37.5353
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 6697.51
+      distance_km: 6.698
+      distance_percent: 9.7219
+  touched_towns:
+    - slug: czarnkow
+      name: Czarnków
+      code: "3002011"
+    - slug: lubasz
+      name: Lubasz
+      code: "3002052"
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+    - slug: obrzycko
+      name: Obrzycko
+      code: "3024011"
+    - slug: polajewo
+      name: Połajewo
+      code: "3002062"
+    - slug: szamotuly
+      name: Szamotuły
+      code: "3024073"
+    - slug: trzcianka
+      name: Trzcianka
+      code: "3002073"
+  touched_counties:
+    - slug: czarnkowsko-trzcianecki
+      name: czarnkowsko-trzcianecki
+      code: "3002"
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: pojezierze_waleckie
+      name: Pojezierze Wałeckie
+      code: "314.64"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

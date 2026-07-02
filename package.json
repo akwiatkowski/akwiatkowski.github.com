@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "esbuild": "^0.20.0"
+  },
+  "scripts": {
+    "build:js": "esbuild data/assets/js/src/*.jsx --outdir=data/assets/js/self --format=iife --bundle --minify --external:react --external:react-dom",
+    "build:js:watch": "esbuild data/assets/js/src/*.jsx --outdir=data/assets/js/self --format=iife --bundle --external:react --external:react-dom --watch",
+    "test:e2e": "playwright test --config=tests/e2e/playwright.config.js",
+    "test:e2e:smoke": "playwright test --config=tests/e2e/playwright.config.js specs/smoke.spec.js",
+    "test:e2e:headed": "playwright test --config=tests/e2e/playwright.config.js --headed"
+  }
+}

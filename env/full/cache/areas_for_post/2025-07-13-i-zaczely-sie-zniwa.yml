@@ -4,7 +4,7 @@
   total_distance_km: 40.256
   points_count: 65.0
   towns:
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
     distance_meters: 12152.19
@@ -16,7 +16,7 @@
     distance_meters: 12048.84
     distance_km: 12.049
     distance_percent: 29.9306
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 9976.64
@@ -54,7 +54,7 @@
     distance_km: 2.747
     distance_percent: 6.8239
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 40256.0
@@ -113,7 +113,7 @@
     distance_km: 11.656
     distance_percent: 28.9553
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 40256.0
@@ -126,10 +126,10 @@
   - slug: bisztynek
     name: Bisztynek
     code: "2801043"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-miejsko-wiejska
     name: Biskupiec
     code: "2814023"
   - slug: barczewo
@@ -146,7 +146,7 @@
     name: olsztyński
     code: "2814"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -178,6 +178,6 @@
     name: Pojezierze Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

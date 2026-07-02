@@ -1,0 +1,591 @@
+---
+- type: train
+  total_distance_meters: 433564.98
+  total_distance_km: 433.565
+  points_count: 1331
+  towns:
+    - slug: komancza
+      name: Komańcza
+      code: "1817042"
+      distance_meters: 60423.4
+      distance_km: 60.423
+      distance_percent: 13.9364
+    - slug: zagorz
+      name: Zagórz
+      code: "1817073"
+      distance_meters: 46524.32
+      distance_km: 46.524
+      distance_percent: 10.7306
+    - slug: krosno
+      name: Krosno
+      code: "1861011"
+      distance_meters: 19270.8
+      distance_km: 19.271
+      distance_percent: 4.4447
+    - slug: lesko
+      name: Lesko
+      code: "1821033"
+      distance_meters: 18077.54
+      distance_km: 18.078
+      distance_percent: 4.1695
+    - slug: jedlicze
+      name: Jedlicze
+      code: "1807043"
+      distance_meters: 16811.27
+      distance_km: 16.811
+      distance_percent: 3.8775
+    - slug: sanok
+      name: Sanok
+      code: "1817052"
+      distance_meters: 16474.52
+      distance_km: 16.475
+      distance_percent: 3.7998
+    - slug: zarszyn
+      name: Zarszyn
+      code: "1817082"
+      distance_meters: 16059.65
+      distance_km: 16.06
+      distance_percent: 3.7041
+    - slug: sanok
+      name: Sanok
+      code: "1817011"
+      distance_meters: 14662.55
+      distance_km: 14.663
+      distance_percent: 3.3819
+    - slug: tarnowiec
+      name: Tarnowiec
+      code: "1805112"
+      distance_meters: 14085.59
+      distance_km: 14.086
+      distance_percent: 3.2488
+    - slug: tuchow
+      name: Tuchów
+      code: "1216103"
+      distance_meters: 13883.51
+      distance_km: 13.884
+      distance_percent: 3.2022
+    - slug: rymanow
+      name: Rymanów
+      code: "1807083"
+      distance_meters: 13277.78
+      distance_km: 13.278
+      distance_percent: 3.0625
+    - slug: strzyzow
+      name: Strzyżów
+      code: "1819043"
+      distance_meters: 12123.75
+      distance_km: 12.124
+      distance_percent: 2.7963
+    - slug: jaslo
+      name: Jasło
+      code: "1805011"
+      distance_meters: 11661.76
+      distance_km: 11.662
+      distance_percent: 2.6897
+    - slug: czudec
+      name: Czudec
+      code: "1819012"
+      distance_meters: 11619.58
+      distance_km: 11.62
+      distance_percent: 2.68
+    - slug: besko
+      name: Besko
+      code: "1817022"
+      distance_meters: 10468.64
+      distance_km: 10.469
+      distance_percent: 2.4145
+    - slug: bobowa
+      name: Bobowa
+      code: "1205033"
+      distance_meters: 10408.09
+      distance_km: 10.408
+      distance_percent: 2.4006
+    - slug: ciezkowice
+      name: Ciężkowice
+      code: "1216013"
+      distance_meters: 9890
+      distance_km: 9.89
+      distance_percent: 2.2811
+    - slug: luzna
+      name: Łużna
+      code: "1205062"
+      distance_meters: 9560.15
+      distance_km: 9.56
+      distance_percent: 2.205
+    - slug: skolyszyn
+      name: Skołyszyn
+      code: "1805092"
+      distance_meters: 9151.87
+      distance_km: 9.152
+      distance_percent: 2.1108
+    - slug: biecz
+      name: Biecz
+      code: "1205023"
+      distance_meters: 7797.58
+      distance_km: 7.798
+      distance_percent: 1.7985
+    - slug: miejsce_piastowe
+      name: Miejsce Piastowe
+      code: "1807072"
+      distance_meters: 7484.56
+      distance_km: 7.485
+      distance_percent: 1.7263
+    - slug: olszanica
+      name: Olszanica
+      code: "1821042"
+      distance_meters: 7451.22
+      distance_km: 7.451
+      distance_percent: 1.7186
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863011"
+      distance_meters: 7378.41
+      distance_km: 7.378
+      distance_percent: 1.7018
+    - slug: gorlice
+      name: Gorlice
+      code: "1205042"
+      distance_meters: 6930.66
+      distance_km: 6.931
+      distance_percent: 1.5985
+    - slug: plesna
+      name: Pleśna
+      code: "1216042"
+      distance_meters: 6788.54
+      distance_km: 6.789
+      distance_percent: 1.5657
+    - slug: frysztak
+      name: Frysztak
+      code: "1819022"
+      distance_meters: 6775.25
+      distance_km: 6.775
+      distance_percent: 1.5627
+    - slug: gromnik
+      name: Gromnik
+      code: "1216022"
+      distance_meters: 6730.93
+      distance_km: 6.731
+      distance_percent: 1.5525
+    - slug: wisniowa
+      name: Wiśniowa
+      code: "1819052"
+      distance_meters: 6059.9
+      distance_km: 6.06
+      distance_percent: 1.3977
+    - slug: wojaszowka
+      name: Wojaszówka
+      code: "1807092"
+      distance_meters: 5947.2
+      distance_km: 5.947
+      distance_percent: 1.3717
+    - slug: boguchwala
+      name: Boguchwała
+      code: "1816033"
+      distance_meters: 5930.91
+      distance_km: 5.931
+      distance_percent: 1.3679
+    - slug: jaslo
+      name: Jasło
+      code: "1805042"
+      distance_meters: 4917.89
+      distance_km: 4.918
+      distance_percent: 1.1343
+    - slug: grybow
+      name: Grybów
+      code: "1210042"
+      distance_meters: 4643.39
+      distance_km: 4.643
+      distance_percent: 1.071
+    - slug: tarnow
+      name: Tarnów
+      code: "1263011"
+      distance_meters: 3398.14
+      distance_km: 3.398
+      distance_percent: 0.7838
+    - slug: tarnow
+      name: Tarnów
+      code: "1216092"
+      distance_meters: 3024.98
+      distance_km: 3.025
+      distance_percent: 0.6977
+    - slug: kroscienko_wyzne
+      name: Krościenko Wyżne
+      code: "1807062"
+      distance_meters: 1300.48
+      distance_km: 1.3
+      distance_percent: 0.3
+    - slug: moszczenica
+      name: Moszczenica
+      code: "1205072"
+      distance_meters: 1060.55
+      distance_km: 1.061
+      distance_percent: 0.2446
+  counties:
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+      distance_meters: 164613.07
+      distance_km: 164.613
+      distance_percent: 37.9673
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+      distance_meters: 64092.09
+      distance_km: 64.092
+      distance_percent: 14.7826
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+      distance_meters: 45326.73
+      distance_km: 45.327
+      distance_percent: 10.4544
+    - slug: tarnowski
+      name: tarnowski
+      code: "1216"
+      distance_meters: 43716.1
+      distance_km: 43.716
+      distance_percent: 10.0829
+    - slug: strzyzowski
+      name: strzyżowski
+      code: "1819"
+      distance_meters: 36578.48
+      distance_km: 36.578
+      distance_percent: 8.4367
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+      distance_meters: 35757.04
+      distance_km: 35.757
+      distance_percent: 8.2472
+    - slug: leski
+      name: leski
+      code: "1821"
+      distance_meters: 25528.76
+      distance_km: 25.529
+      distance_percent: 5.8881
+    - slug: krosno
+      name: Krosno
+      code: "1861"
+      distance_meters: 19270.8
+      distance_km: 19.271
+      distance_percent: 4.4447
+    - slug: rzeszowski
+      name: rzeszowski
+      code: "1816"
+      distance_meters: 13309.33
+      distance_km: 13.309
+      distance_percent: 3.0697
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863"
+      distance_meters: 7378.41
+      distance_km: 7.378
+      distance_percent: 1.7018
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+      distance_meters: 4643.39
+      distance_km: 4.643
+      distance_percent: 1.071
+    - slug: tarnow
+      name: Tarnów
+      code: "1263"
+      distance_meters: 3398.14
+      distance_km: 3.398
+      distance_percent: 0.7838
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 349448.46
+      distance_km: 349.448
+      distance_percent: 80.5989
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 84116.52
+      distance_km: 84.117
+      distance_percent: 19.4011
+  meso_regions:
+    - slug: kotlina_jasielsko-krosnienska
+      name: Kotlina Jasielsko-Krośnieńska
+      code: "513.67"
+      distance_meters: 122955.39
+      distance_km: 122.955
+      distance_percent: 28.3592
+    - slug: pogorze_bukowskie
+      name: Pogórze Bukowskie
+      code: "513.69"
+      distance_meters: 85210.02
+      distance_km: 85.21
+      distance_percent: 19.6533
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 53981.77
+      distance_km: 53.982
+      distance_percent: 12.4507
+    - slug: pogorze_strzyzowskie
+      name: Pogórze Strzyżowskie
+      code: "513.63"
+      distance_meters: 53722.2
+      distance_km: 53.722
+      distance_percent: 12.3908
+    - slug: pogorze_ciezkowickie
+      name: Pogórze Ciężkowickie
+      code: "513.62"
+      distance_meters: 53226.58
+      distance_km: 53.227
+      distance_percent: 12.2765
+    - slug: obnizenie_gorlickie
+      name: Obniżenie Gorlickie
+      code: "513.66"
+      distance_meters: 29960.68
+      distance_km: 29.961
+      distance_percent: 6.9103
+    - slug: gory_sanocko-turczanskie
+      name: Góry Sanocko-Turczańskie
+      code: "522.11"
+      distance_meters: 22215.71
+      distance_km: 22.216
+      distance_percent: 5.124
+    - slug: nizina_nadwislanska
+      name: Nizina Nadwiślańska
+      code: "512.41"
+      distance_meters: 8298.61
+      distance_km: 8.299
+      distance_percent: 1.914
+    - slug: pogorze_jasielskie
+      name: Pogórze Jasielskie
+      code: "513.68"
+      distance_meters: 2121.27
+      distance_km: 2.121
+      distance_percent: 0.4893
+    - slug: pogorze_dynowskie
+      name: Pogórze Dynowskie
+      code: "513.64"
+      distance_meters: 1006.13
+      distance_km: 1.006
+      distance_percent: 0.2321
+    - slug: pogorze_roznowskie
+      name: Pogórze Rożnowskie
+      code: "513.61"
+      distance_meters: 496.95
+      distance_km: 0.497
+      distance_percent: 0.1146
+    - slug: plaskowyz_tarnowski
+      name: Płaskowyż Tarnowski
+      code: "512.43"
+      distance_meters: 303.48
+      distance_km: 0.303
+      distance_percent: 0.07
+    - slug: bieszczady_zachodnie
+      name: Bieszczady Zachodnie
+      code: "522.12"
+      distance_meters: 66.19
+      distance_km: 0.066
+      distance_percent: 0.0153
+  macro_regions:
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"
+      distance_meters: 348699.22
+      distance_km: 348.699
+      distance_percent: 80.4261
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 53981.77
+      distance_km: 53.982
+      distance_percent: 12.4507
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"
+      distance_meters: 22281.91
+      distance_km: 22.282
+      distance_percent: 5.1392
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+      distance_meters: 8602.08
+      distance_km: 8.602
+      distance_percent: 1.984
+  touched_towns:
+    - slug: besko
+      name: Besko
+      code: "1817022"
+    - slug: biecz
+      name: Biecz
+      code: "1205023"
+    - slug: bobowa
+      name: Bobowa
+      code: "1205033"
+    - slug: boguchwala
+      name: Boguchwała
+      code: "1816033"
+    - slug: ciezkowice
+      name: Ciężkowice
+      code: "1216013"
+    - slug: czudec
+      name: Czudec
+      code: "1819012"
+    - slug: frysztak
+      name: Frysztak
+      code: "1819022"
+    - slug: gorlice
+      name: Gorlice
+      code: "1205042"
+    - slug: gromnik
+      name: Gromnik
+      code: "1216022"
+    - slug: grybow
+      name: Grybów
+      code: "1210042"
+    - slug: jaslo
+      name: Jasło
+      code: "1805011"
+    - slug: jedlicze
+      name: Jedlicze
+      code: "1807043"
+    - slug: komancza
+      name: Komańcza
+      code: "1817042"
+    - slug: krosno
+      name: Krosno
+      code: "1861011"
+    - slug: lesko
+      name: Lesko
+      code: "1821033"
+    - slug: luzna
+      name: Łużna
+      code: "1205062"
+    - slug: moszczenica
+      name: Moszczenica
+      code: "1205072"
+    - slug: olszanica
+      name: Olszanica
+      code: "1821042"
+    - slug: plesna
+      name: Pleśna
+      code: "1216042"
+    - slug: rymanow
+      name: Rymanów
+      code: "1807083"
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863011"
+    - slug: sanok
+      name: Sanok
+      code: "1817011"
+    - slug: skolyszyn
+      name: Skołyszyn
+      code: "1805092"
+    - slug: strzyzow
+      name: Strzyżów
+      code: "1819043"
+    - slug: tarnow
+      name: Tarnów
+      code: "1216092"
+    - slug: tarnowiec
+      name: Tarnowiec
+      code: "1805112"
+    - slug: tuchow
+      name: Tuchów
+      code: "1216103"
+    - slug: wisniowa
+      name: Wiśniowa
+      code: "1819052"
+    - slug: wojaszowka
+      name: Wojaszówka
+      code: "1807092"
+    - slug: zagorz
+      name: Zagórz
+      code: "1817073"
+    - slug: zarszyn
+      name: Zarszyn
+      code: "1817082"
+  touched_counties:
+    - slug: gorlicki
+      name: gorlicki
+      code: "1205"
+    - slug: jasielski
+      name: jasielski
+      code: "1805"
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+    - slug: krosno
+      name: Krosno
+      code: "1861"
+    - slug: leski
+      name: leski
+      code: "1821"
+    - slug: nowosadecki
+      name: nowosądecki
+      code: "1210"
+    - slug: rzeszow
+      name: Rzeszów
+      code: "1863"
+    - slug: rzeszowski
+      name: rzeszowski
+      code: "1816"
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+    - slug: strzyzowski
+      name: strzyżowski
+      code: "1819"
+    - slug: tarnow
+      name: Tarnów
+      code: "1263"
+    - slug: tarnowski
+      name: tarnowski
+      code: "1216"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+    - slug: gory_sanocko-turczanskie
+      name: Góry Sanocko-Turczańskie
+      code: "522.11"
+    - slug: kotlina_jasielsko-krosnienska
+      name: Kotlina Jasielsko-Krośnieńska
+      code: "513.67"
+    - slug: nizina_nadwislanska
+      name: Nizina Nadwiślańska
+      code: "512.41"
+    - slug: obnizenie_gorlickie
+      name: Obniżenie Gorlickie
+      code: "513.66"
+    - slug: plaskowyz_tarnowski
+      name: Płaskowyż Tarnowski
+      code: "512.43"
+    - slug: pogorze_bukowskie
+      name: Pogórze Bukowskie
+      code: "513.69"
+    - slug: pogorze_ciezkowickie
+      name: Pogórze Ciężkowickie
+      code: "513.62"
+    - slug: pogorze_strzyzowskie
+      name: Pogórze Strzyżowskie
+      code: "513.63"
+  touched_macro_regions:
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+    - slug: kotlina_sandomierska
+      name: Kotlina Sandomierska
+      code: "512"
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"

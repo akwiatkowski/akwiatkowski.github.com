@@ -4,7 +4,7 @@
   total_distance_km: 18.853
   points_count: 112.0
   towns:
-  - slug: swidnica
+  - slug: swidnica-lubuskie
     name: Świdnica
     code: 0809072
     distance_meters: 13860.02
@@ -56,7 +56,7 @@
     distance_meters: 17166.74
     distance_km: 17.167
     distance_percent: 91.0545
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 1686.51
@@ -90,7 +90,7 @@
     distance_km: 18.853
     distance_percent: 100.0
   touched_towns:
-  - slug: swidnica
+  - slug: swidnica-lubuskie
     name: Świdnica
     code: 0809072
   - slug: zielona_gora
@@ -115,7 +115,7 @@
     name: Wał Zielonogórski
     code: "315.74"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wzniesienia_zielonogorskie

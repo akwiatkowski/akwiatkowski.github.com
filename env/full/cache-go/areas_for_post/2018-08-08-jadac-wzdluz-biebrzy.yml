@@ -1,0 +1,132 @@
+---
+- type: bicycle
+  total_distance_meters: 47989.21
+  total_distance_km: 47.989
+  points_count: 207
+  towns:
+    - slug: sztabin
+      name: Sztabin
+      code: "2001072"
+      distance_meters: 30988.87
+      distance_km: 30.989
+      distance_percent: 64.5747
+    - slug: goniadz
+      name: Goniądz
+      code: "2008013"
+      distance_meters: 8482.11
+      distance_km: 8.482
+      distance_percent: 17.675
+    - slug: jaswily
+      name: Jaświły
+      code: "2008032"
+      distance_meters: 7830.12
+      distance_km: 7.83
+      distance_percent: 16.3164
+    - slug: suchowola
+      name: Suchowola
+      code: "2011093"
+      distance_meters: 688.11
+      distance_km: 0.688
+      distance_percent: 1.4339
+  counties:
+    - slug: augustowski
+      name: augustowski
+      code: "2001"
+      distance_meters: 30988.87
+      distance_km: 30.989
+      distance_percent: 64.5747
+    - slug: moniecki
+      name: moniecki
+      code: "2008"
+      distance_meters: 16312.23
+      distance_km: 16.312
+      distance_percent: 33.9915
+    - slug: sokolski
+      name: sokólski
+      code: "2011"
+      distance_meters: 688.11
+      distance_km: 0.688
+      distance_percent: 1.4339
+  voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 47989.21
+      distance_km: 47.989
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_biebrzanska
+      name: Kotlina Biebrzańska
+      code: "843.32"
+      distance_meters: 35229.9
+      distance_km: 35.23
+      distance_percent: 73.4121
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+      distance_meters: 12110.32
+      distance_km: 12.11
+      distance_percent: 25.2355
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+      distance_meters: 648.99
+      distance_km: 0.649
+      distance_percent: 1.3524
+  macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 47340.22
+      distance_km: 47.34
+      distance_percent: 98.6476
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"
+      distance_meters: 648.99
+      distance_km: 0.649
+      distance_percent: 1.3524
+  touched_towns:
+    - slug: goniadz
+      name: Goniądz
+      code: "2008013"
+    - slug: jaswily
+      name: Jaświły
+      code: "2008032"
+    - slug: suchowola
+      name: Suchowola
+      code: "2011093"
+    - slug: sztabin
+      name: Sztabin
+      code: "2001072"
+  touched_counties:
+    - slug: augustowski
+      name: augustowski
+      code: "2001"
+    - slug: moniecki
+      name: moniecki
+      code: "2008"
+    - slug: sokolski
+      name: sokólski
+      code: "2011"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+  touched_meso_regions:
+    - slug: kotlina_biebrzanska
+      name: Kotlina Biebrzańska
+      code: "843.32"
+    - slug: rownina_augustowska
+      name: Równina Augustowska
+      code: "842.74"
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+  touched_macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+    - slug: pojezierze_litewskie
+      name: Pojezierze Litewskie
+      code: "842"

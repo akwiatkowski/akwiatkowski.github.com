@@ -197,6 +197,9 @@
   time: 2018-05-03 13:05:54.000000000+02:00
 - image_filename: IMGP8581raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.72174722222223
+  lon: 17.901777777777777
+  altitude: 112.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -250,6 +253,9 @@
   time: 2018-05-03 13:26:07.000000000+02:00
 - image_filename: IMGP8590raw1.jpg
   post_slug: 2018-05-03-wzdluz-brdy-do-rytla
+  lat: 53.752741666666665
+  lon: 17.775852777777775
+  altitude: 120.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

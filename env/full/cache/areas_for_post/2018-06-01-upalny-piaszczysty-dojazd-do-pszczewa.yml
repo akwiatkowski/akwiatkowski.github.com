@@ -62,7 +62,7 @@
     distance_km: 6.642
     distance_percent: 16.4255
   macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 33794.19
@@ -127,7 +127,7 @@
     name: Równina Nowotomyska
     code: "315.50"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   - slug: pojezierze_wielkopolskie

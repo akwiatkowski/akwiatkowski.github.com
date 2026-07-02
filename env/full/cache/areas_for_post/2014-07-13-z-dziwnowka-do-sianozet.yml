@@ -16,13 +16,13 @@
     distance_meters: 16899.62
     distance_km: 16.9
     distance_percent: 22.2358
-  - slug: kolobrzeg
+  - slug: kolobrzeg-zachodniopomorskie-miejska
     name: Kołobrzeg
     code: "3208011"
     distance_meters: 13778.77
     distance_km: 13.779
     distance_percent: 18.1296
-  - slug: kolobrzeg
+  - slug: kolobrzeg-zachodniopomorskie-wiejska
     name: Kołobrzeg
     code: "3208042"
     distance_meters: 8464.45
@@ -123,9 +123,12 @@
   - slug: trzebiatow
     name: Trzebiatów
     code: "3205083"
-  - slug: kolobrzeg
+  - slug: kolobrzeg-zachodniopomorskie-wiejska
     name: Kołobrzeg
     code: "3208042"
+  - slug: kolobrzeg-zachodniopomorskie-miejska
+    name: Kołobrzeg
+    code: "3208011"
   - slug: ustronie_morskie
     name: Ustronie Morskie
     code: "3208072"

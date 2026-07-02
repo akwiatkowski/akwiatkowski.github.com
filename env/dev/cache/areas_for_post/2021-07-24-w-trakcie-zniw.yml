@@ -65,14 +65,14 @@
     distance_meters: 7885.72
     distance_km: 7.886
     distance_percent: 12.1921
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 3011.44
     distance_km: 3.011
     distance_percent: 4.656
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 64679.0
@@ -92,7 +92,7 @@
     distance_km: 16.013
     distance_percent: 24.7577
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 64679.0
@@ -151,11 +151,11 @@
   - slug: wabrzeski
     name: wąbrzeski
     code: "0417"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -166,7 +166,7 @@
     name: Pojezierze Chełmińskie
     code: "315.11"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

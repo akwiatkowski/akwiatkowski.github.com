@@ -5,6 +5,7 @@ subtitle:               "gratisowo spotkała nas burza i musieliśmy przeczekać
 desc:                   "Wysoka i Wąwóz Homole to chyba najbardziej popularne punkty w Małych Pieninach. Na drugi dzień wycieczki postanowiliśmy się tam udać. Niestety nadchodząca burza trochę zmieniła nasze plany."
 keywords:               [wiosna, pieniny, homole, wysoka, burza, owce]
 date:                   2013-05-02 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

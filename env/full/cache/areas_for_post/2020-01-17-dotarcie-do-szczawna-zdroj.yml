@@ -10,7 +10,7 @@
     distance_meters: 3891.37
     distance_km: 3.891
     distance_percent: 86.8152
-  - slug: szczawnozdroj
+  - slug: szczawno-zdroj
     name: Szczawno-Zdrój
     code: "0221031"
     distance_meters: 590.99
@@ -75,7 +75,7 @@
   - slug: walbrzych
     name: Wałbrzych
     code: "0265011"
-  - slug: szczawnozdroj
+  - slug: szczawno-zdroj
     name: Szczawno-Zdrój
     code: "0221031"
   touched_counties:

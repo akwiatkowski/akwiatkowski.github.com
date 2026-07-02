@@ -20,6 +20,7 @@ map_zooms:              11
 distance:               12
 time_spent:             1
 elevation:              43
+terrain:                3.6 # m/km przewyższeń — płaski
 temperature:            7
 average_speed:          18.6
 

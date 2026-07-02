@@ -61,6 +61,9 @@
   time: 2015-12-30 15:59:15.000000000+01:00
 - image_filename: IMGP6651raw1.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.58282222222223
+  lon: 20.008177777777778
+  altitude: 842.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -73,6 +76,9 @@
   time: 2015-12-30 17:21:57.000000000+01:00
 - image_filename: IMGP6657raw1.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.58282222222223
+  lon: 20.008177777777778
+  altitude: 842.1
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -85,6 +91,9 @@
   time: 2015-12-30 17:29:23.000000000+01:00
 - image_filename: IMGP6662raw1.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.582819444444446
+  lon: 20.008177777777778
+  altitude: 841.7
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -97,6 +106,9 @@
   time: 2015-12-30 17:38:40.000000000+01:00
 - image_filename: IMGP6663raw2.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.582819444444446
+  lon: 20.008177777777778
+  altitude: 841.6
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -109,6 +121,9 @@
   time: 2015-12-30 17:39:44.000000000+01:00
 - image_filename: IMGP6664raw1.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.582819444444446
+  lon: 20.008177777777778
+  altitude: 841.5
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -121,6 +136,9 @@
   time: 2015-12-30 17:40:58.000000000+01:00
 - image_filename: IMGP6674raw1.jpg
   post_slug: 2015-12-30-poczatek-sylwestra-w-maciejowej
+  lat: 49.582794444444446
+  lon: 20.008169444444444
+  altitude: 834.4
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5

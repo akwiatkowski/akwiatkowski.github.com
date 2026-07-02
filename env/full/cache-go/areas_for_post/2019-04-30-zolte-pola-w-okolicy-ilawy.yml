@@ -1,0 +1,183 @@
+---
+- type: bicycle
+  total_distance_meters: 74615.23
+  total_distance_km: 74.615
+  points_count: 457
+  towns:
+    - slug: zbiczno
+      name: Zbiczno
+      code: "0402102"
+      distance_meters: 22070.84
+      distance_km: 22.071
+      distance_percent: 29.5795
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2812022"
+      distance_meters: 21056.86
+      distance_km: 21.057
+      distance_percent: 28.2206
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+      distance_meters: 14600.4
+      distance_km: 14.6
+      distance_percent: 19.5676
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+      distance_meters: 6239.71
+      distance_km: 6.24
+      distance_percent: 8.3625
+    - slug: ksiazki
+      name: Książki
+      code: "0417032"
+      distance_meters: 5494.99
+      distance_km: 5.495
+      distance_percent: 7.3644
+    - slug: ilawa
+      name: Iława
+      code: "2807011"
+      distance_meters: 4625.43
+      distance_km: 4.625
+      distance_percent: 6.199
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+      distance_meters: 3959.51
+      distance_km: 3.96
+      distance_percent: 5.3066
+    - slug: nowe_miasto_lubawskie
+      name: Nowe Miasto Lubawskie
+      code: "2812052"
+      distance_meters: 1192.92
+      distance_km: 1.193
+      distance_percent: 1.5988
+  counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+      distance_meters: 32270.06
+      distance_km: 32.27
+      distance_percent: 43.2486
+    - slug: nowomiejski
+      name: nowomiejski
+      code: "2812"
+      distance_meters: 22249.78
+      distance_km: 22.25
+      distance_percent: 29.8194
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+      distance_meters: 14600.4
+      distance_km: 14.6
+      distance_percent: 19.5676
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+      distance_meters: 5494.99
+      distance_km: 5.495
+      distance_percent: 7.3644
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 37765.05
+      distance_km: 37.765
+      distance_percent: 50.6131
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 36850.18
+      distance_km: 36.85
+      distance_percent: 49.3869
+  meso_regions:
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+      distance_meters: 54066.79
+      distance_km: 54.067
+      distance_percent: 72.4608
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+      distance_meters: 11768.82
+      distance_km: 11.769
+      distance_percent: 15.7727
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+      distance_meters: 8779.62
+      distance_km: 8.78
+      distance_percent: 11.7665
+  macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 65835.61
+      distance_km: 65.836
+      distance_percent: 88.2335
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316
+      distance_meters: 8779.62
+      distance_km: 8.78
+      distance_percent: 11.7665
+  touched_towns:
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2812022"
+    - slug: bobrowo
+      name: Bobrowo
+      code: "0402022"
+    - slug: ilawa
+      name: Iława
+      code: "2807032"
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+    - slug: ksiazki
+      name: Książki
+      code: "0417032"
+    - slug: nowe_miasto_lubawskie
+      name: Nowe Miasto Lubawskie
+      code: "2812052"
+    - slug: zbiczno
+      name: Zbiczno
+      code: "0402102"
+  touched_counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+    - slug: ilawski
+      name: iławski
+      code: "2807"
+    - slug: nowomiejski
+      name: nowomiejski
+      code: "2812"
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+    - slug: rownina_ilawska
+      name: Równina Iławska
+      code: "314.93"
+  touched_macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+    - slug: pojezierze_ilawskie
+      name: Pojezierze Iławskie
+      code: 314-316

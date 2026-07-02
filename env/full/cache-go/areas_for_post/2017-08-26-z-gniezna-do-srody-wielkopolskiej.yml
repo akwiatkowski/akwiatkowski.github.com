@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 74447.2
+  total_distance_km: 74.447
+  points_count: 257
+  towns:
+    - slug: wrzesnia
+      name: Września
+      code: "3030053"
+      distance_meters: 16724.45
+      distance_km: 16.724
+      distance_percent: 22.4648
+    - slug: niechanowo
+      name: Niechanowo
+      code: "3003082"
+      distance_meters: 14571.42
+      distance_km: 14.571
+      distance_percent: 19.5728
+    - slug: sroda_wielkopolska
+      name: Środa Wielkopolska
+      code: "3025043"
+      distance_meters: 14031.81
+      distance_km: 14.032
+      distance_percent: 18.848
+    - slug: miloslaw
+      name: Miłosław
+      code: "3030023"
+      distance_meters: 10854.41
+      distance_km: 10.854
+      distance_percent: 14.58
+    - slug: kolaczkowo
+      name: Kołaczkowo
+      code: "3030012"
+      distance_meters: 10725.29
+      distance_km: 10.725
+      distance_percent: 14.4066
+    - slug: gniezno
+      name: Gniezno
+      code: "3003032"
+      distance_meters: 3805.89
+      distance_km: 3.806
+      distance_percent: 5.1122
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+      distance_meters: 3733.93
+      distance_km: 3.734
+      distance_percent: 5.0155
+  counties:
+    - slug: wrzesinski
+      name: wrzesiński
+      code: "3030"
+      distance_meters: 38304.15
+      distance_km: 38.304
+      distance_percent: 51.4514
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 22111.24
+      distance_km: 22.111
+      distance_percent: 29.7006
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+      distance_meters: 14031.81
+      distance_km: 14.032
+      distance_percent: 18.848
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 74447.2
+      distance_km: 74.447
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 70054.13
+      distance_km: 70.054
+      distance_percent: 94.0991
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 4393.07
+      distance_km: 4.393
+      distance_percent: 5.9009
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 74447.2
+      distance_km: 74.447
+      distance_percent: 100
+  touched_towns:
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+    - slug: kolaczkowo
+      name: Kołaczkowo
+      code: "3030012"
+    - slug: miloslaw
+      name: Miłosław
+      code: "3030023"
+    - slug: niechanowo
+      name: Niechanowo
+      code: "3003082"
+    - slug: sroda_wielkopolska
+      name: Środa Wielkopolska
+      code: "3025043"
+    - slug: wrzesnia
+      name: Września
+      code: "3030053"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+    - slug: wrzesinski
+      name: wrzesiński
+      code: "3030"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

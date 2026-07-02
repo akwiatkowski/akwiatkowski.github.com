@@ -1,15 +1,1 @@
-<script>
-  fetch('/nav_stats.json')
-  .then(response => response.json())
-  .then(data => {
-    data.post_counts.forEach(item => {
-      const element = document.getElementById(item.html_id);
-      if (element) {
-        element.innerHTML = "(" + item.count + ")";
-      }
-    });
-  })
-  .catch(error => {
-    console.error('Error fetching nav stats:', error);
-  });
-</script>
+<!-- nav_stats.js is loaded via asset bundles in head_open_html -->

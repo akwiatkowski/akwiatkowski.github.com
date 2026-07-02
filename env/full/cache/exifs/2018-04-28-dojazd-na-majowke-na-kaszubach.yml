@@ -239,6 +239,9 @@
   time: 2018-04-28 16:10:38.000000000+02:00
 - image_filename: IMGP8005raw1.jpg
   post_slug: 2018-04-28-dojazd-na-majowke-na-kaszubach
+  lat: 53.682713888888884
+  lon: 17.97601111111111
+  altitude: 110.7
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

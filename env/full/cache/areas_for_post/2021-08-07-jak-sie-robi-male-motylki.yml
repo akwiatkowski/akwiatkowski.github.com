@@ -4,13 +4,13 @@
   total_distance_km: 4.067
   points_count: 75.0
   towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 4067.12
     distance_km: 4.067
     distance_percent: 100.0
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 4067.12
@@ -66,9 +66,12 @@
     distance_km: 4.067
     distance_percent: 100.0
   touched_towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
+  - slug: wagrowiec-wielkopolskie-wiejska
+    name: Wągrowiec
+    code: "3028072"
   touched_counties:
   - slug: wagrowiecki
     name: wągrowiecki

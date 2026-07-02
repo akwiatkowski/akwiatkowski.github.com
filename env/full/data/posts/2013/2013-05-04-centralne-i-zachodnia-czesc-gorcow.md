@@ -5,6 +5,7 @@ subtitle:               "Od Studzionek do Maciejowej. Druga połowa Gorców (pra
 desc:                   "Tego dnia mieliśmy zaplanowane bardzo długi spacer przez środkową część Gorców. Na trasie mieliśmy zobaczyć Halę Długą, Tatry z Turbacza. Problemem była tylko pogoda. Nowy dzień przywitał nas mgłą i lekkim deszczem. Przez cały dzień zrobiłem tylko 4 zdjęcia, które nie przedstawiały mgły."
 keywords:               [wiosna, gorce, turbacz, mgła, deszcz, hala długa, szarość]
 date:                   2013-05-04 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP1891b.jpg
 categories:             trip

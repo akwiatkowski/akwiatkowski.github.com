@@ -32,7 +32,7 @@
     distance_km: 15.339
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 15338.76
@@ -76,7 +76,7 @@
     name: Kotlina Gorzowska
     code: "315.33"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:
@@ -114,7 +114,7 @@
     distance_meters: 4425.24
     distance_km: 4.425
     distance_percent: 8.6311
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
     distance_meters: 146.23
@@ -127,7 +127,7 @@
     distance_meters: 32284.21
     distance_km: 32.284
     distance_percent: 62.9681
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 18840.29
@@ -160,7 +160,7 @@
     distance_km: 9.756
     distance_percent: 19.0293
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 41514.27
@@ -197,7 +197,7 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: obrzycko
+  - slug: obrzycko-wielkopolskie-wiejska
     name: Obrzycko
     code: "3024042"
   - slug: polajewo
@@ -213,7 +213,7 @@
   - slug: szamotulski
     name: szamotulski
     code: "3024"
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   touched_voivodeships:
@@ -228,7 +228,7 @@
     name: Pojezierze Chodzieskie
     code: "315.53"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

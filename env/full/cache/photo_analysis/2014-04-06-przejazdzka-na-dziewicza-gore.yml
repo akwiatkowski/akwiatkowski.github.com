@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP4536raw1.jpg
+  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
+  ahash: fffef8f8f0040400
+  dhash: 1a9090a0920c0c38
+  phash: d4cdb7366d324069
+  avg_rgb:
+  - 69
+  - 80
+  - 94
+  top5_rgb:
+  - - 93
+    - 137
+    - 187
+  - - 106
+    - 141
+    - 182
+  - - 65
+    - 108
+    - 173
+  - - 33
+    - 28
+    - 21
+  - - 43
+    - 35
+    - 25
+- image_filename: header.jpg
+  post_slug: 2014-04-06-przejazdzka-na-dziewicza-gore
+  ahash: ffff9f0020001010
+  dhash: df7f3b21cae6a2a3
+  phash: 8cbba8657378b885
+  avg_rgb:
+  - 91
+  - 99
+  - 98
+  top5_rgb:
+  - - 71
+    - 70
+    - 30
+  - - 128
+    - 99
+    - 64
+  - - 149
+    - 205
+    - 254
+  - - 45
+    - 53
+    - 21
+  - - 92
+    - 120
+    - 162

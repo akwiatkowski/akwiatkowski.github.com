@@ -1,0 +1,526 @@
+---
+- image_filename: 2024_04_09__07_44_P4090022.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffffffdf00000000
+  dhash: 000030b1d11808aa
+  phash: d8dce70318f8f407
+  avg_rgb:
+  - 125
+  - 138
+  - 99
+  top5_rgb:
+  - - 81
+    - 116
+    - 8
+  - - 194
+    - 197
+    - 195
+  - - 79
+    - 110
+    - 11
+  - - 213
+    - 215
+    - 209
+  - - 177
+    - 183
+    - 188
+- image_filename: 2024_04_09__07_44_P4090024.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: 0f8fcecc000043fc
+  dhash: 3e3c1c9ca2e6ced0
+  phash: b5bdbf2448a0495b
+  avg_rgb:
+  - 83
+  - 88
+  - 63
+  top5_rgb:
+  - - 95
+    - 106
+    - 51
+  - - 32
+    - 44
+    - 18
+  - - 48
+    - 44
+    - 43
+  - - 77
+    - 92
+    - 44
+  - - 120
+    - 119
+    - 111
+- image_filename: 2024_04_09__08_12_P4090027.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: fffffff701000000
+  dhash: fffbe4edab9cfdf4
+  phash: a6cc9d3ba6c6540b
+  avg_rgb:
+  - 132
+  - 143
+  - 118
+  top5_rgb:
+  - - 113
+    - 110
+    - 102
+  - - 210
+    - 211
+    - 203
+  - - 187
+    - 192
+    - 186
+  - - 209
+    - 210
+    - 202
+  - - 208
+    - 209
+    - 202
+- image_filename: 2024_04_09__08_20_P4090035.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: 9f1f0f0b00000008
+  dhash: 303c5e1b333699fa
+  phash: b99d9e5c49a91cd0
+  avg_rgb:
+  - 95
+  - 103
+  - 60
+  top5_rgb:
+  - - 74
+    - 70
+    - 64
+  - - 81
+    - 99
+    - 10
+  - - 95
+    - 114
+    - 7
+  - - 130
+    - 118
+    - 95
+  - - 77
+    - 93
+    - 7
+- image_filename: 2024_04_09__08_28_DJI_0179.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffffff0000000000
+  dhash: fcfcd6d898b260e0
+  phash: 8181873e535f2ce7
+  avg_rgb:
+  - 80
+  - 100
+  - 63
+  top5_rgb:
+  - - 40
+    - 71
+    - 4
+  - - 126
+    - 146
+    - 140
+  - - 165
+    - 185
+    - 176
+  - - 39
+    - 60
+    - 4
+  - - 81
+    - 81
+    - 49
+- image_filename: 2024_04_09__08_29_DJI_0184.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ff7e4f0000000000
+  dhash: e0cc9eb3eae6f2ec
+  phash: 80b1d2cddae9b4b1
+  avg_rgb:
+  - 69
+  - 95
+  - 39
+  top5_rgb:
+  - - 50
+    - 83
+    - 6
+  - - 56
+    - 99
+    - 3
+  - - 166
+    - 138
+    - 85
+  - - 50
+    - 74
+    - 5
+  - - 133
+    - 151
+    - 139
+- image_filename: 2024_04_09__08_31_DJI_0190.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff000000000000
+  dhash: e0c08691b99294e0
+  phash: d0c7c5d89a356536
+  avg_rgb:
+  - 86
+  - 100
+  - 64
+  top5_rgb:
+  - - 57
+    - 82
+    - 12
+  - - 36
+    - 58
+    - 6
+  - - 41
+    - 82
+    - 6
+  - - 43
+    - 67
+    - 7
+  - - 57
+    - 66
+    - 18
+- image_filename: 2024_04_09__08_34_DJI_0195.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff000000000000
+  dhash: c0c082c6c192c68b
+  phash: c1d5d6ddda261862
+  avg_rgb:
+  - 74
+  - 92
+  - 54
+  top5_rgb:
+  - - 58
+    - 90
+    - 6
+  - - 45
+    - 58
+    - 10
+  - - 46
+    - 58
+    - 41
+  - - 76
+    - 109
+    - 87
+  - - 59
+    - 78
+    - 12
+- image_filename: 2024_04_09__08_34_DJI_0197.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff0801030b0000
+  dhash: e0e49adbfff3c590
+  phash: 81d5d48df24a9975
+  avg_rgb:
+  - 78
+  - 97
+  - 51
+  top5_rgb:
+  - - 98
+    - 114
+    - 22
+  - - 131
+    - 149
+    - 134
+  - - 177
+    - 191
+    - 183
+  - - 151
+    - 121
+    - 56
+  - - 63
+    - 66
+    - 22
+- image_filename: 2024_04_09__08_44_P4090041.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: 3cbc383e3f3f1e00
+  dhash: 75755150f4fcfcdc
+  phash: 96cf52844c932bd7
+  avg_rgb:
+  - 69
+  - 67
+  - 48
+  top5_rgb:
+  - - 59
+    - 62
+    - 35
+  - - 60
+    - 62
+    - 47
+  - - 54
+    - 53
+    - 42
+  - - 69
+    - 67
+    - 43
+  - - 36
+    - 37
+    - 24
+- image_filename: 2024_04_09__09_24_DJI_0204.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffffe03f00000000
+  dhash: e0c0c0783c91c5c4
+  phash: d595c0f895876374
+  avg_rgb:
+  - 91
+  - 104
+  - 65
+  top5_rgb:
+  - - 170
+    - 186
+    - 181
+  - - 55
+    - 88
+    - 8
+  - - 171
+    - 190
+    - 184
+  - - 49
+    - 72
+    - 6
+  - - 60
+    - 96
+    - 5
+- image_filename: 2024_04_09__09_24_DJI_0206.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff7f0000000000
+  dhash: e0e0c292b1e4e6f6
+  phash: 84d1c7ce596147b9
+  avg_rgb:
+  - 94
+  - 117
+  - 63
+  top5_rgb:
+  - - 125
+    - 145
+    - 138
+  - - 63
+    - 94
+    - 5
+  - - 97
+    - 112
+    - 20
+  - - 80
+    - 110
+    - 8
+  - - 69
+    - 82
+    - 10
+- image_filename: 2024_04_09__09_24_DJI_0208.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff000004000000
+  dhash: fce66c373889fce0
+  phash: 92adc1d2ad7a7215
+  avg_rgb:
+  - 88
+  - 109
+  - 56
+  top5_rgb:
+  - - 56
+    - 82
+    - 14
+  - - 82
+    - 124
+    - 14
+  - - 40
+    - 61
+    - 12
+  - - 77
+    - 126
+    - 117
+  - - 67
+    - 96
+    - 6
+- image_filename: 2024_04_09__09_26_DJI_0211.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff00080000342e
+  dhash: e0c4d6badad2eccc
+  phash: 81ddc6ceb8c80d73
+  avg_rgb:
+  - 92
+  - 114
+  - 52
+  top5_rgb:
+  - - 137
+    - 156
+    - 151
+  - - 127
+    - 130
+    - 25
+  - - 69
+    - 95
+    - 4
+  - - 52
+    - 73
+    - 12
+  - - 154
+    - 172
+    - 166
+- image_filename: 2024_04_09__09_28_DJI_0220.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: 7e7f710042fefcc8
+  dhash: f2cec38386b04898
+  phash: c1a596943d4fd847
+  avg_rgb:
+  - 73
+  - 114
+  - 25
+  top5_rgb:
+  - - 95
+    - 125
+    - 14
+  - - 55
+    - 102
+    - 5
+  - - 150
+    - 155
+    - 100
+  - - 109
+    - 140
+    - 41
+  - - 103
+    - 152
+    - 7
+- image_filename: 2024_04_09__09_29_DJI_0224.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: 3e2c00180d0e0e2e
+  dhash: f8d8e3b1b9bcacec
+  phash: 904b97920ff41f63
+  avg_rgb:
+  - 72
+  - 116
+  - 26
+  top5_rgb:
+  - - 144
+    - 151
+    - 78
+  - - 59
+    - 133
+    - 9
+  - - 97
+    - 146
+    - 22
+  - - 37
+    - 79
+    - 7
+  - - 31
+    - 114
+    - 7
+- image_filename: 2024_04_09__09_58_DJI_0230.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: fffe000020080008
+  dhash: c0c082c6e090fcd9
+  phash: d1e4dad483b4d946
+  avg_rgb:
+  - 89
+  - 96
+  - 62
+  top5_rgb:
+  - - 90
+    - 94
+    - 44
+  - - 45
+    - 58
+    - 13
+  - - 45
+    - 59
+    - 37
+  - - 58
+    - 66
+    - 21
+  - - 176
+    - 188
+    - 171
+- image_filename: 2024_04_09__09_58_DJI_0233.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff0030f0f00000
+  dhash: e0c4c2e2e0c0c4f4
+  phash: c49bb4cb0c335d36
+  avg_rgb:
+  - 103
+  - 120
+  - 68
+  top5_rgb:
+  - - 169
+    - 184
+    - 180
+  - - 143
+    - 165
+    - 160
+  - - 53
+    - 78
+    - 6
+  - - 139
+    - 144
+    - 50
+  - - 67
+    - 90
+    - 11
+- image_filename: 2024_04_09__10_01_DJI_0242.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffffff0810000000
+  dhash: c0c4f2b3f1ec6ef6
+  phash: 84d1a7560837d3cf
+  avg_rgb:
+  - 93
+  - 115
+  - 81
+  top5_rgb:
+  - - 67
+    - 98
+    - 8
+  - - 51
+    - 85
+    - 4
+  - - 97
+    - 120
+    - 106
+  - - 43
+    - 76
+    - 7
+  - - 67
+    - 87
+    - 9
+- image_filename: 2024_04_09__10_01_DJI_0244.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ffff000000203030
+  dhash: c0c092328cc4e0f0
+  phash: c5f9c58699cd4b60
+  avg_rgb:
+  - 84
+  - 93
+  - 58
+  top5_rgb:
+  - - 66
+    - 92
+    - 82
+  - - 46
+    - 88
+    - 4
+  - - 115
+    - 98
+    - 62
+  - - 44
+    - 61
+    - 7
+  - - 45
+    - 80
+    - 3
+- image_filename: 2024_04_09__10_03_DJI_0249.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  ahash: ff7f000040000000
+  dhash: fce6b6c3a0a6b4f0
+  phash: d0a592d4c3bb9cb2
+  avg_rgb:
+  - 81
+  - 86
+  - 55
+  top5_rgb:
+  - - 92
+    - 76
+    - 45
+  - - 60
+    - 61
+    - 45
+  - - 42
+    - 82
+    - 4
+  - - 40
+    - 53
+    - 11
+  - - 85
+    - 69
+    - 40

@@ -1,0 +1,114 @@
+---
+- type: bicycle
+  total_distance_meters: 63370.92
+  total_distance_km: 63.371
+  points_count: 784
+  towns:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+      distance_meters: 22224.54
+      distance_km: 22.225
+      distance_percent: 35.0706
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+      distance_meters: 21112.66
+      distance_km: 21.113
+      distance_percent: 33.316
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+      distance_meters: 13615.17
+      distance_km: 13.615
+      distance_percent: 21.4849
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+      distance_meters: 4482.18
+      distance_km: 4.482
+      distance_percent: 7.0729
+    - slug: kowary
+      name: Kowary
+      code: "0206021"
+      distance_meters: 1936.37
+      distance_km: 1.936
+      distance_percent: 3.0556
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 41146.39
+      distance_km: 41.146
+      distance_percent: 64.9294
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+      distance_meters: 22224.54
+      distance_km: 22.225
+      distance_percent: 35.0706
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 63370.92
+      distance_km: 63.371
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 60546.41
+      distance_km: 60.546
+      distance_percent: 95.5429
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 2824.52
+      distance_km: 2.825
+      distance_percent: 4.4571
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 63370.92
+      distance_km: 63.371
+      distance_percent: 100
+  touched_towns:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+    - slug: kowary
+      name: Kowary
+      code: "0206021"
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+  touched_counties:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

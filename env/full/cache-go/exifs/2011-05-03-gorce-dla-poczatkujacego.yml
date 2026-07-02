@@ -1,0 +1,334 @@
+---
+- image_filename: IMGP6031b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-04-30T14:57:28+00:00"
+  make: PENTAX Corporation
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6034b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-04-30T14:58:24+00:00"
+  make: PENTAX Corporation
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP6163b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 133
+  focal_length_35: 199
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-04-30T15:38:51+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6250b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-04-30T16:24:54+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP6259b1.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-04-30T16:26:56+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP6467b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:30:37+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6504b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 9
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:37:15+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_bias: 0
+- image_filename: IMGP6536b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 800
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:42:46+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6559.JPG
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 75
+  focal_length_35: 112
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:45:06+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: K100D       Ver 1.00
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6579.JPG
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 75
+  focal_length_35: 112
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 800
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:47:52+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.6.11
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6587b.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 133
+  focal_length_35: 199
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 2393
+  height: 1595
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:48:37+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6609.JPG
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 18
+  focal_length_35: 27
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 800
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:54:43+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.6.11
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6720b1.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 200
+  focal_length_35: 300
+  crop: 1.5
+  aperture: 6.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T10:18:21+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP6795b1.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 75
+  focal_length_35: 112
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T10:34:18+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: header.jpg
+  post_slug: 2011-05-03-gorce-dla-poczatkujacego
+  focal_length: 133
+  focal_length_35: 199
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 3008
+  height: 2000
+  camera: PENTAX K100D
+  camera_name: PENTAX K100D
+  time: "2011-05-02T09:40:44+00:00"
+  make: PENTAX Corporation
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: aperture_priority
+  exposure_bias: 0

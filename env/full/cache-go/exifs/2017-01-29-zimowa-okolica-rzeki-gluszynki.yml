@@ -1,0 +1,182 @@
+---
+- image_filename: IMGP5991raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.30773611111111
+  lon: 16.982777777777777
+  altitude: 16
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T14:48:52+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6005raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.30347222222222
+  lon: 16.979499999999998
+  altitude: 45
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T14:59:22+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6008raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.303444444444445
+  lon: 16.979430555555552
+  altitude: 45
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T14:59:58+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6028raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.303749999999994
+  lon: 16.97348611111111
+  altitude: 48
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T15:10:15+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6054raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.3045
+  lon: 16.964694444444444
+  altitude: 63
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T16:03:34+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6057raw1.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.30515277777778
+  lon: 16.96625
+  altitude: 65
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T16:05:41+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2017-01-29-zimowa-okolica-rzeki-gluszynki
+  lat: 52.307361111111106
+  lon: 16.972111111111108
+  altitude: 55
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2017-01-29T16:11:57+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 4.2.1395
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

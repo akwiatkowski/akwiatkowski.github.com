@@ -10,7 +10,7 @@
     distance_meters: 24619.79
     distance_km: 24.62
     distance_percent: 67.5658
-  - slug: pabianice
+  - slug: pabianice-lodzkie-miejska
     name: Pabianice
     code: "1008021"
     distance_meters: 6206.19
@@ -96,7 +96,7 @@
   - slug: ksawerow
     name: Ksawerów
     code: "1008052"
-  - slug: pabianice
+  - slug: pabianice-lodzkie-miejska
     name: Pabianice
     code: "1008021"
   touched_counties:

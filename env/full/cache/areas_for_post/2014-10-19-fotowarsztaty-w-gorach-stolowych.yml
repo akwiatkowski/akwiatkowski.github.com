@@ -4,7 +4,7 @@
   total_distance_km: 3.711
   points_count: 80.0
   towns:
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
     distance_meters: 3710.67
@@ -60,7 +60,7 @@
     distance_km: 3.711
     distance_percent: 100.0
   touched_towns:
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
   touched_counties:
@@ -96,7 +96,7 @@
   total_distance_km: 2.315
   points_count: 49.0
   towns:
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
     distance_meters: 2315.03
@@ -152,7 +152,7 @@
     distance_km: 2.315
     distance_percent: 100.0
   touched_towns:
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
   touched_counties:

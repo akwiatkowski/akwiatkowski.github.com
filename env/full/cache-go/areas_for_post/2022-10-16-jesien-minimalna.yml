@@ -1,0 +1,105 @@
+---
+- type: hike
+  total_distance_meters: 15784.92
+  total_distance_km: 15.785
+  points_count: 232
+  towns:
+    - slug: marciszow
+      name: Marciszów
+      code: "0207042"
+      distance_meters: 10444.31
+      distance_km: 10.444
+      distance_percent: 66.1664
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+      distance_meters: 5340.61
+      distance_km: 5.341
+      distance_percent: 33.8336
+  counties:
+    - slug: kamiennogorski
+      name: kamiennogórski
+      code: "0207"
+      distance_meters: 10444.31
+      distance_km: 10.444
+      distance_percent: 66.1664
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 5340.61
+      distance_km: 5.341
+      distance_percent: 33.8336
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 15784.92
+      distance_km: 15.785
+      distance_percent: 100
+  meso_regions:
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+      distance_meters: 8347.05
+      distance_km: 8.347
+      distance_percent: 52.8799
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+      distance_meters: 6757.49
+      distance_km: 6.757
+      distance_percent: 42.8098
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 680.39
+      distance_km: 0.68
+      distance_percent: 4.3104
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 9027.43
+      distance_km: 9.027
+      distance_percent: 57.1902
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 6757.49
+      distance_km: 6.757
+      distance_percent: 42.8098
+  touched_towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+    - slug: marciszow
+      name: Marciszów
+      code: "0207042"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: kamiennogorski
+      name: kamiennogórski
+      code: "0207"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

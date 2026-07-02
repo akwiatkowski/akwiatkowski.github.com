@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP3191raw1.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.56890801710591
+  lon: 17.38726051521481
+  altitude: 117.9
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-09-01T09:02:25+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP3197raw1.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.5689611584148
+  lon: 17.329205693695783
+  altitude: 111.65
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-09-01T09:37:29+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP3211raw1.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.61080537926866
+  lon: 17.291883342000347
+  altitude: 110.69
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-09-01T10:27:55+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP3220raw1.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.62215833180119
+  lon: 17.266534706475184
+  altitude: 103
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-09-01T10:36:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-09-01-z-lednogory-do-skokow-krecac-sie-wokol-jezior
+  lat: 52.568434691100144
+  lon: 17.387132607387347
+  altitude: 117.9
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-09-01T09:02:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

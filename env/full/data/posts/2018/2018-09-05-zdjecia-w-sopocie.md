@@ -15,6 +15,7 @@ towns:                  [pomorskie, sopot, podkarpackie, rzeszow]
 distance:               5 # eve 5 orłowo 2
 time_spent:             2 # eve 2 orłowo 2
 elevation:              87 # eve 87 orłowo 45
+terrain:                17.4 # m/km przewyższeń — pagórkowaty
 
 
 pois:

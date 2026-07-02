@@ -1,0 +1,51 @@
+---
+- image_filename: 2022_04_18__05_25_DSC06630.jpg
+  post_slug: 2022-04-18-eksploracja-potulic
+  ahash: 1c9c909272766bda
+  dhash: 78243436d686ca12
+  phash: d55e9b838923aca9
+  avg_rgb:
+  - 130
+  - 100
+  - 72
+  top5_rgb:
+  - - 125
+    - 104
+    - 87
+  - - 107
+    - 80
+    - 55
+  - - 130
+    - 93
+    - 58
+  - - 155
+    - 125
+    - 100
+  - - 171
+    - 120
+    - 74
+- image_filename: 2022_04_18__12_34_DSC07007.jpg
+  post_slug: 2022-04-18-eksploracja-potulic
+  ahash: 3cbeeece000c1c3e
+  dhash: e47c389cceb8f0ec
+  phash: 95f1ce6825dab906
+  avg_rgb:
+  - 104
+  - 112
+  - 114
+  top5_rgb:
+  - - 191
+    - 153
+    - 119
+  - - 173
+    - 143
+    - 119
+  - - 107
+    - 121
+    - 143
+  - - 119
+    - 169
+    - 230
+  - - 89
+    - 101
+    - 31

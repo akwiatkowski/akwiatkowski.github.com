@@ -415,6 +415,9 @@
   time: 2021-07-11 18:36:02.000000000+02:00
 - image_filename: 2021_07_11__18_52__7118443.jpg
   post_slug: 2021-07-11-brakujacy-fragment-na-mapie
+  lat: 52.36786388888889
+  lon: 17.31775
+  altitude: 182.8
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0

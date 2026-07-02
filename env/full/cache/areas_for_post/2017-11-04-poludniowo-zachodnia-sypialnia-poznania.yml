@@ -28,7 +28,7 @@
     distance_meters: 5679.14
     distance_km: 5.679
     distance_percent: 12.4527
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
     distance_meters: 513.16
@@ -108,7 +108,7 @@
   - slug: tarnowo_podgorne
     name: Tarnowo Podgórne
     code: "3021172"
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
   touched_counties:

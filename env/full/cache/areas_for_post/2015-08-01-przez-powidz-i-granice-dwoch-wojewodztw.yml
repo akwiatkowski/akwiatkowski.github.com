@@ -28,7 +28,7 @@
     distance_meters: 9453.32
     distance_km: 9.453
     distance_percent: 12.8334
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
     distance_meters: 5423.33
@@ -60,14 +60,14 @@
     distance_meters: 45178.27
     distance_km: 45.178
     distance_percent: 61.332
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 28483.51
     distance_km: 28.484
     distance_percent: 38.668
   meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 37892.36
@@ -111,7 +111,7 @@
   - slug: strzalkowo
     name: Strzałkowo
     code: "3023072"
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
   - slug: powidz
@@ -137,14 +137,14 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
   - slug: rownina_wrzesinska
     name: Równina Wrzesińska
     code: "315.56"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

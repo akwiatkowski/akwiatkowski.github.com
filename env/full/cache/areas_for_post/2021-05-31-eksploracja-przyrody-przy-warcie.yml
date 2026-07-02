@@ -17,7 +17,7 @@
     distance_km: 2.577
     distance_percent: 36.9169
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 6980.96
@@ -44,7 +44,7 @@
     distance_km: 2.802
     distance_percent: 40.1422
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 4178.65
@@ -85,7 +85,7 @@
     name: Nowe Miasto nad Wartą
     code: "3025032"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:
@@ -100,7 +100,7 @@
     name: Wał Żerkowski
     code: "315.84"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

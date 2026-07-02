@@ -1,0 +1,3547 @@
+---
+- image_filename: 2019_10_12__08_28__A122353.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.8354559112488
+  lon: 15.546790158019162
+  altitude: 682.3193430656934
+  focal_length: 86
+  focal_length_35: 172
+  crop: 2
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5038
+  height: 3761
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T08:28:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+- image_filename: 2019_10_12__09_32__A122365.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.831097222222226
+  lon: 15.519069444444446
+  altitude: 684
+  focal_length: 34
+  focal_length_35: 68
+  crop: 2
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5127
+  height: 3755
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T09:32:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__09_32__A122366.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.83094444444445
+  lon: 15.518833333333335
+  altitude: 680
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 5064
+  height: 3900
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T09:32:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__09_39__A122376.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.82854166666667
+  lon: 15.51675
+  altitude: 656
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4117
+  height: 3226
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T09:39:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_13_DSC01582.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81790277777778
+  lon: 15.501208333333333
+  altitude: 761
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:13:59+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_17_DSC01589.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.816750000000006
+  lon: 15.49986111111111
+  altitude: 771
+  focal_length: 64
+  focal_length_35: 64
+  crop: 1
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:17:35+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_19_DSC01593.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81586111111111
+  lon: 15.498763888888888
+  altitude: 785
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:19:50+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_20_DSC01597.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.815527777777774
+  lon: 15.498375
+  altitude: 791
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 125
+  width: 7031
+  height: 4696
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:20:52+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_21_DSC01599.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81540277777778
+  lon: 15.498222222222221
+  altitude: 794
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:21:28+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_39_DSC01605.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.813513888888885
+  lon: 15.496430555555555
+  altitude: 841
+  focal_length: 67
+  focal_length_35: 67
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T10:39:07+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_45__A122404.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81238888888888
+  lon: 15.496791666666665
+  altitude: 861
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 6.3
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T10:45:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_47__A122407.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.811611111111105
+  lon: 15.496680555555555
+  altitude: 872
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T10:47:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_48__A122414.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81119444444444
+  lon: 15.496722222222221
+  altitude: 882
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T10:48:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__10_49__A122420.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.81090277777778
+  lon: 15.496944444444443
+  altitude: 889
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T10:49:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__11_21_DSC01608.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.80093055555555
+  lon: 15.499277777777777
+  altitude: 1050
+  focal_length: 32
+  focal_length_35: 32
+  crop: 1
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T11:21:13+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__11_21_DSC01610.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.800916666666666
+  lon: 15.499291666666666
+  altitude: 1047
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T11:21:51+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__11_35_DSC01620.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.795791666666666
+  lon: 15.501236111111112
+  altitude: 1147
+  focal_length: 31
+  focal_length_35: 31
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T11:35:12+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__11_43__A122458.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.794444444444444
+  lon: 15.501666666666667
+  altitude: 1182
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5019
+  height: 3747
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T11:43:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__11_56__A122493.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79340277777778
+  lon: 15.5025
+  altitude: 1208
+  focal_length: 63
+  focal_length_35: 126
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4984
+  height: 3720
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T11:56:37+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__12_03__A122501.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.792652777777775
+  lon: 15.505847222222222
+  altitude: 1251
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5107
+  height: 3812
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T12:03:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__12_06__A122511.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79179166666666
+  lon: 15.506777777777778
+  altitude: 1275
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5031
+  height: 3756
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T12:06:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__12_17__A122526.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79158333333333
+  lon: 15.513402777777777
+  altitude: 1340
+  focal_length: 125
+  focal_length_35: 250
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T12:17:37+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__12_18__A122540.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.791875
+  lon: 15.5135
+  altitude: 1341
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T12:18:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__12_19__A122550.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79190365660847
+  lon: 15.513579482027238
+  altitude: 1342.6091954022988
+  focal_length: 115
+  focal_length_35: 230
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T12:19:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+- image_filename: 2019_10_12__13_03__A122554.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79181944444444
+  lon: 15.51361111111111
+  altitude: 1345
+  focal_length: 85
+  focal_length_35: 170
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:03:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_06__A122563.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79098611111111
+  lon: 15.513305555555556
+  altitude: 1325
+  focal_length: 85
+  focal_length_35: 170
+  crop: 2
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:06:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_08__A122583.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79045833333333
+  lon: 15.513222222222222
+  altitude: 1315
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:08:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_10__A122588.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78963888888889
+  lon: 15.513166666666667
+  altitude: 1308
+  focal_length: 80
+  focal_length_35: 160
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:10:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_11__A122592.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78959722222222
+  lon: 15.513166666666667
+  altitude: 1308
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:11:05+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_26__A122618.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78402777777777
+  lon: 15.517166666666668
+  altitude: 1313
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5186
+  height: 3872
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:26:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_46__A122655.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779375
+  lon: 15.524875000000002
+  altitude: 1369
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5003
+  height: 3735
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:46:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_47__A122664.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77930555555555
+  lon: 15.525180555555556
+  altitude: 1369
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5108
+  height: 3813
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:47:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_47__A122665.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77927777777778
+  lon: 15.525250000000002
+  altitude: 1369
+  focal_length: 160
+  focal_length_35: 320
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4786
+  height: 3578
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:47:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.7
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_48_DSC01631.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77927777777778
+  lon: 15.52551388888889
+  altitude: 1368
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7165
+  height: 4785
+  lens: E 20mm F2
+  camera: ILCE-7R
+  lens_name: E 20mm F2
+  camera_name: ILCE-7R
+  time: "2019-10-12T13:48:35+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_48_DSC01633.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779291666666666
+  lon: 15.52551388888889
+  altitude: 1367
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7339
+  height: 4902
+  lens: E 20mm F2
+  camera: ILCE-7R
+  lens_name: E 20mm F2
+  camera_name: ILCE-7R
+  time: "2019-10-12T13:48:50+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52_DSC01637.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77911111111111
+  lon: 15.52638888888889
+  altitude: 1370
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 20mm F2
+  camera: ILCE-7R
+  lens_name: E 20mm F2
+  camera_name: ILCE-7R
+  time: "2019-10-12T13:52:13+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52_DSC01639.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77908333333333
+  lon: 15.526347222222222
+  altitude: 1371
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 3.2
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 20mm F2
+  camera: ILCE-7R
+  lens_name: E 20mm F2
+  camera_name: ILCE-7R
+  time: "2019-10-12T13:52:27+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52_DSC01641.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77905555555555
+  lon: 15.526333333333334
+  altitude: 1371
+  focal_length: 20
+  focal_length_35: 20
+  crop: 1
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 20mm F2
+  camera: ILCE-7R
+  lens_name: E 20mm F2
+  camera_name: ILCE-7R
+  time: "2019-10-12T13:52:46+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 2
+  lens_max_fstop: 2
+  lens_spec_str: 20mm f/2.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52__A122673.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77911111111111
+  lon: 15.526375000000002
+  altitude: 1370
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:52:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52__A122675.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779069444444445
+  lon: 15.526347222222222
+  altitude: 1371
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:52:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_52__A122680.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779041666666664
+  lon: 15.526319444444445
+  altitude: 1371
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:52:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_55__A122690.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77919444444444
+  lon: 15.527500000000002
+  altitude: 1374
+  focal_length: 90
+  focal_length_35: 180
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4972
+  height: 3712
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:55:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_58__A122705.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779152777777774
+  lon: 15.528444444444446
+  altitude: 1382
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:58:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__13_59__A122720.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77936111111111
+  lon: 15.529208333333335
+  altitude: 1388
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4900
+  height: 3658
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T13:59:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_03__A122762.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77945833333333
+  lon: 15.531361111111112
+  altitude: 1396
+  focal_length: 155
+  focal_length_35: 310
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5030
+  height: 3755
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:03:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_04__A122771.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77927777777778
+  lon: 15.532069444444446
+  altitude: 1397
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:04:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_13__A122794.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.780166666666666
+  lon: 15.539888888888889
+  altitude: 1419
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5139
+  height: 3837
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:13:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_16__A122807.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78019444444444
+  lon: 15.542111111111112
+  altitude: 1426
+  focal_length: 160
+  focal_length_35: 320
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:16:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_20__A122816.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779944444444446
+  lon: 15.544638888888889
+  altitude: 1437
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:20:35+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_22__A122822.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77993055555555
+  lon: 15.545361111111111
+  altitude: 1443
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:22:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_22__A122826.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78
+  lon: 15.545694444444445
+  altitude: 1446
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 9
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:22:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_25__A122834.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.780027777777775
+  lon: 15.546375
+  altitude: 1445
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5129
+  height: 3829
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:25:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_26_DSC01655.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78001388888889
+  lon: 15.546375
+  altitude: 1444
+  focal_length: 40
+  focal_length_35: 40
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:26:23+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_26__A122843.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78001388888889
+  lon: 15.54636111111111
+  altitude: 1445
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:26:01+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_26__A122848.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78001388888889
+  lon: 15.546375
+  altitude: 1446
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 9
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:26:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_27_DSC01659.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.780055555555556
+  lon: 15.546388888888888
+  altitude: 1445
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:27:09+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_29_DSC01667.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77995833333333
+  lon: 15.548
+  altitude: 1441
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 6.3
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:29:23+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_30_DSC01668.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77990277777778
+  lon: 15.548777777777778
+  altitude: 1441
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:30:13+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_32_DSC01670.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.779805555555555
+  lon: 15.550777777777778
+  altitude: 1453
+  focal_length: 72
+  focal_length_35: 72
+  crop: 1
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:32:02+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_44__A122849.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77886111111111
+  lon: 15.557416666666667
+  altitude: 1485
+  focal_length: 95
+  focal_length_35: 190
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:44:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_44__A122850.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77886111111111
+  lon: 15.557416666666667
+  altitude: 1486
+  focal_length: 102
+  focal_length_35: 204
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:44:52+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_45__A122853.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.778888888888886
+  lon: 15.557416666666667
+  altitude: 1484
+  focal_length: 115
+  focal_length_35: 230
+  crop: 2
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:45:07+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_45__A122859.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.778875
+  lon: 15.557402777777778
+  altitude: 1485
+  focal_length: 110
+  focal_length_35: 220
+  crop: 2
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:45:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_46__A122867.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77886111111111
+  lon: 15.557402777777778
+  altitude: 1484
+  focal_length: 90
+  focal_length_35: 180
+  crop: 2
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4753
+  height: 3400
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:46:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_47__A122879.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77884722222222
+  lon: 15.557430555555555
+  altitude: 1485
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:47:00+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_47__A122885.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77884722222222
+  lon: 15.557430555555555
+  altitude: 1485
+  focal_length: 102
+  focal_length_35: 204
+  crop: 2
+  aperture: 5
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 5161
+  height: 3853
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:47:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_47__A122891.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77884722222222
+  lon: 15.557444444444446
+  altitude: 1483
+  focal_length: 85
+  focal_length_35: 170
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T14:47:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_53_DSC01690.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77868055555555
+  lon: 15.55776388888889
+  altitude: 1485
+  focal_length: 54
+  focal_length_35: 54
+  crop: 1
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:53:06+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_53_DSC01692.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77865277777778
+  lon: 15.557861111111112
+  altitude: 1483
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7289
+  height: 4869
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:53:26+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_55_DSC01701.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.778555555555556
+  lon: 15.557916666666667
+  altitude: 1481
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:55:11+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_55_DSC01703.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.778527777777775
+  lon: 15.557916666666667
+  altitude: 1481
+  focal_length: 60
+  focal_length_35: 60
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:55:21+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_57_DSC01713.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.7785
+  lon: 15.55788888888889
+  altitude: 1482
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:57:26+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__14_58_DSC01717.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77813888888889
+  lon: 15.557986111111111
+  altitude: 1478
+  focal_length: 62
+  focal_length_35: 62
+  crop: 1
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T14:58:59+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_00_DSC01725.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77751388888889
+  lon: 15.558180555555555
+  altitude: 1478
+  focal_length: 39
+  focal_length_35: 39
+  crop: 1
+  aperture: 9
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:00:37+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_01_DSC01727.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.777458333333335
+  lon: 15.558361111111111
+  altitude: 1481
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:01:13+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_01_DSC01730.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77747222222222
+  lon: 15.558527777777778
+  altitude: 1479
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:01:36+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_02_DSC01740.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77747222222222
+  lon: 15.558597222222224
+  altitude: 1480
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:02:57+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_03_DSC01741.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77747222222222
+  lon: 15.558597222222224
+  altitude: 1479
+  focal_length: 67
+  focal_length_35: 67
+  crop: 1
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:03:02+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_03_DSC01744.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.777430555555554
+  lon: 15.558625000000001
+  altitude: 1480
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:03:28+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_10__A122899.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.77952777777778
+  lon: 15.554583333333333
+  altitude: 1484
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 5024
+  height: 3750
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:10:52+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_14__A122914.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78063888888889
+  lon: 15.552541666666668
+  altitude: 1470
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4862
+  height: 3630
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:14:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_17__A122928.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78151388888889
+  lon: 15.551361111111111
+  altitude: 1464
+  focal_length: 190
+  focal_length_35: 380
+  crop: 2
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4995
+  height: 3729
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:17:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_18__A122936.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78161111111111
+  lon: 15.551222222222222
+  altitude: 1460
+  focal_length: 87
+  focal_length_35: 174
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4995
+  height: 3729
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:18:14+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_19_DSC01751.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.781638888888885
+  lon: 15.551180555555556
+  altitude: 1460
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:19:29+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_19__A122956.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78168055555555
+  lon: 15.551069444444446
+  altitude: 1458
+  focal_length: 56
+  focal_length_35: 112
+  crop: 2
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4993
+  height: 3730
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:19:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_21_DSC01759.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.781527777777775
+  lon: 15.549527777777778
+  altitude: 1444
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 11
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7263
+  height: 4851
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:21:38+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_24_DSC01771.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78122222222222
+  lon: 15.547472222222222
+  altitude: 1426
+  focal_length: 61
+  focal_length_35: 61
+  crop: 1
+  aperture: 10
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:24:32+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_30__A122964.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78208333333333
+  lon: 15.545041666666666
+  altitude: 1405
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 5115
+  height: 3818
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:30:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_30__A122968.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78213888888889
+  lon: 15.544902777777777
+  altitude: 1403
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5116
+  height: 3817
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-10-12T15:30:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_36_DSC01791.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78286111111111
+  lon: 15.540513888888889
+  altitude: 1346
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:36:21+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_41_DSC01800.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.78355555555555
+  lon: 15.537611111111111
+  altitude: 1300
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:41:50+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__15_52_DSC01815.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.786833333333334
+  lon: 15.536180555555555
+  altitude: 1203
+  focal_length: 43
+  focal_length_35: 43
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T15:52:21+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_09_DSC01823.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79083333333333
+  lon: 15.532916666666667
+  altitude: 1120
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 100
+  width: 4920
+  height: 7366
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T16:09:47+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_11_DSC01825.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.790791666666664
+  lon: 15.531486111111112
+  altitude: 1110
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7026
+  height: 4693
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T16:11:12+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_12_DSC01827.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.790194444444445
+  lon: 15.529847222222223
+  altitude: 1101
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 9
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  iso: 80
+  width: 6612
+  height: 4416
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7R
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7R
+  time: "2019-10-12T16:12:51+00:00"
+  make: SONY
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_18__A122983.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.790875
+  lon: 15.528291666666668
+  altitude: 1072
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:18:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_20__A122985.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.791402777777776
+  lon: 15.527055555555556
+  altitude: 1051
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:20:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_22__A122988.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.791555555555554
+  lon: 15.526416666666668
+  altitude: 1043
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:22:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_24__A123000.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79170833333333
+  lon: 15.52588888888889
+  altitude: 1037
+  focal_length: 66
+  focal_length_35: 132
+  crop: 2
+  aperture: 6.3
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:24:05+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_34__A123018.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79798611111111
+  lon: 15.528472222222224
+  altitude: 917
+  focal_length: 57
+  focal_length_35: 114
+  crop: 2
+  aperture: 5.6
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:34:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__16_53__A123037.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.809777777777775
+  lon: 15.53001388888889
+  altitude: 772
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T16:53:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__17_14__A123063.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.821986111111116
+  lon: 15.526958333333335
+  altitude: 646
+  focal_length: 16
+  focal_length_35: 32
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5049
+  height: 3712
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T17:14:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__17_16__A123070.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.823236111111115
+  lon: 15.527208333333334
+  altitude: 636
+  focal_length: 41
+  focal_length_35: 82
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5187
+  height: 3841
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T17:16:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__17_57__A123081.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.82876388888889
+  lon: 15.523222222222223
+  altitude: 644
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5119
+  height: 3796
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T17:57:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_10_12__18_04__A123086.jpg
+  post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.831319444444446
+  lon: 15.521236111111111
+  altitude: 678
+  focal_length: 54
+  focal_length_35: 108
+  crop: 2
+  aperture: 4
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 200
+  width: 5071
+  height: 3676
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-10-12T18:04:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

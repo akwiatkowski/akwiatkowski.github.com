@@ -52,6 +52,9 @@
   time: 2021-05-30 16:17:30.000000000+02:00
 - image_filename: 2021_05_30__17_01_DSC01852.jpg
   post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53638055555555
+  lon: 17.592941666666665
+  altitude: 113.6
   focal_length: 43.0
   focal_length_35: 43.0
   crop: 1.0
@@ -66,6 +69,9 @@
   time: 2021-05-30 17:01:12.000000000+02:00
 - image_filename: 2021_05_30__17_01_DSC01855.jpg
   post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53637777777777
+  lon: 17.592930555555554
+  altitude: 113.6
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0

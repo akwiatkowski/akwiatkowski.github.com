@@ -1,0 +1,87 @@
+---
+- type: hike
+  total_distance_meters: 13276.23
+  total_distance_km: 13.276
+  points_count: 95
+  towns:
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+      distance_meters: 8198.49
+      distance_km: 8.198
+      distance_percent: 61.7532
+    - slug: lipnica_wielka
+      name: Lipnica Wielka
+      code: "1211072"
+      distance_meters: 2733.38
+      distance_km: 2.733
+      distance_percent: 20.5885
+    - slug: jablonka
+      name: Jabłonka
+      code: "1211052"
+      distance_meters: 568.85
+      distance_km: 0.569
+      distance_percent: 4.2847
+  counties:
+    - slug: suski
+      name: suski
+      code: "1215"
+      distance_meters: 8198.49
+      distance_km: 8.198
+      distance_percent: 61.7532
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 3302.23
+      distance_km: 3.302
+      distance_percent: 24.8733
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 11500.73
+      distance_km: 11.501
+      distance_percent: 86.6265
+  meso_regions:
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+      distance_meters: 13046.31
+      distance_km: 13.046
+      distance_percent: 98.2682
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 13046.31
+      distance_km: 13.046
+      distance_percent: 98.2682
+  touched_towns:
+    - slug: jablonka
+      name: Jabłonka
+      code: "1211052"
+    - slug: lipnica_wielka
+      name: Lipnica Wielka
+      code: "1211072"
+    - slug: zawoja
+      name: Zawoja
+      code: "1215082"
+  touched_counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+    - slug: suski
+      name: suski
+      code: "1215"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_zywiecko-orawski
+      name: Beskid Żywiecko-Orawski
+      code: "513.51"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

@@ -1329,6 +1329,9 @@
   time: 2019-08-24 15:45:08.000000000+02:00
 - image_filename: 2019_08_24__15_45_P8240026.jpg
   post_slug: 2019-08-24-dojazd-w-inski-park-krajobrazowy
+  lat: 53.431977777777774
+  lon: 15.549544444444445
+  altitude: 118.9
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
@@ -1506,6 +1509,9 @@
   time: 2019-08-24 15:48:57.000000000+02:00
 - image_filename: 2019_08_24__15_49_P8240126.jpg
   post_slug: 2019-08-24-dojazd-w-inski-park-krajobrazowy
+  lat: 53.431980555555555
+  lon: 15.549530555555556
+  altitude: 118.4
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0

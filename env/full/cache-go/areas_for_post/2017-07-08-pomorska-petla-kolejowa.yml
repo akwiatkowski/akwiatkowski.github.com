@@ -1,0 +1,357 @@
+---
+- type: train
+  total_distance_meters: 268445.15
+  total_distance_km: 268.445
+  points_count: 382
+  towns:
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+      distance_meters: 27340.68
+      distance_km: 27.341
+      distance_percent: 10.1848
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+      distance_meters: 26905.04
+      distance_km: 26.905
+      distance_percent: 10.0225
+    - slug: brusy
+      name: Brusy
+      code: "2202023"
+      distance_meters: 21004.45
+      distance_km: 21.004
+      distance_percent: 7.8245
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+      distance_meters: 19885.15
+      distance_km: 19.885
+      distance_percent: 7.4075
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206042"
+      distance_meters: 19605.46
+      distance_km: 19.605
+      distance_percent: 7.3033
+    - slug: zukowo
+      name: Żukowo
+      code: "2205083"
+      distance_meters: 16229.2
+      distance_km: 16.229
+      distance_percent: 6.0456
+    - slug: tczew
+      name: Tczew
+      code: "2214062"
+      distance_meters: 15591.4
+      distance_km: 15.591
+      distance_percent: 5.808
+    - slug: starogard_gdanski
+      name: Starogard Gdański
+      code: "2213122"
+      distance_meters: 15509.73
+      distance_km: 15.51
+      distance_percent: 5.7776
+    - slug: zblewo
+      name: Zblewo
+      code: "2213132"
+      distance_meters: 13081.8
+      distance_km: 13.082
+      distance_percent: 4.8732
+    - slug: dziemiany
+      name: Dziemiany
+      code: "2206022"
+      distance_meters: 11474.09
+      distance_km: 11.474
+      distance_percent: 4.2743
+    - slug: pruszcz_gdanski
+      name: Pruszcz Gdański
+      code: "2204042"
+      distance_meters: 10788.71
+      distance_km: 10.789
+      distance_percent: 4.019
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+      distance_meters: 10394.14
+      distance_km: 10.394
+      distance_percent: 3.872
+    - slug: lipusz
+      name: Lipusz
+      code: "2206062"
+      distance_meters: 9895.43
+      distance_km: 9.895
+      distance_percent: 3.6862
+    - slug: kaliska
+      name: Kaliska
+      code: "2213052"
+      distance_meters: 9290.52
+      distance_km: 9.291
+      distance_percent: 3.4609
+    - slug: pszczolki
+      name: Pszczółki
+      code: "2204062"
+      distance_meters: 8846.01
+      distance_km: 8.846
+      distance_percent: 3.2953
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+      distance_meters: 8319.74
+      distance_km: 8.32
+      distance_percent: 3.0992
+    - slug: tczew
+      name: Tczew
+      code: "2214011"
+      distance_meters: 6642.56
+      distance_km: 6.643
+      distance_percent: 2.4745
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206011"
+      distance_meters: 5323.55
+      distance_km: 5.324
+      distance_percent: 1.9831
+    - slug: czarna_woda
+      name: Czarna Woda
+      code: "2213013"
+      distance_meters: 4954.54
+      distance_km: 4.955
+      distance_percent: 1.8456
+    - slug: starogard_gdanski
+      name: Starogard Gdański
+      code: "2213031"
+      distance_meters: 4950.04
+      distance_km: 4.95
+      distance_percent: 1.844
+    - slug: chojnice
+      name: Chojnice
+      code: "2202011"
+      distance_meters: 4935.44
+      distance_km: 4.935
+      distance_percent: 1.8385
+    - slug: kartuzy
+      name: Kartuzy
+      code: "2205023"
+      distance_meters: 4531.19
+      distance_km: 4.531
+      distance_percent: 1.6879
+    - slug: kolbudy
+      name: Kolbudy
+      code: "2204032"
+      distance_meters: 3219.9
+      distance_km: 3.22
+      distance_percent: 1.1995
+  counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+      distance_meters: 72730.08
+      distance_km: 72.73
+      distance_percent: 27.0931
+    - slug: starogardzki
+      name: starogardzki
+      code: "2213"
+      distance_meters: 42836.6
+      distance_km: 42.837
+      distance_percent: 15.9573
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+      distance_meters: 40974.97
+      distance_km: 40.975
+      distance_percent: 15.2638
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+      distance_meters: 39474.26
+      distance_km: 39.474
+      distance_percent: 14.7048
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+      distance_meters: 27340.68
+      distance_km: 27.341
+      distance_percent: 10.1848
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+      distance_meters: 22854.61
+      distance_km: 22.855
+      distance_percent: 8.5137
+    - slug: tczewski
+      name: tczewski
+      code: "2214"
+      distance_meters: 22233.95
+      distance_km: 22.234
+      distance_percent: 8.2825
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 268445.15
+      distance_km: 268.445
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 94974.89
+      distance_km: 94.975
+      distance_percent: 35.3796
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 84528.14
+      distance_km: 84.528
+      distance_percent: 31.4881
+    - slug: pojezierze_starogardzkie
+      name: Pojezierze Starogardzkie
+      code: "314.52"
+      distance_meters: 48965.91
+      distance_km: 48.966
+      distance_percent: 18.2406
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+      distance_meters: 21546.84
+      distance_km: 21.547
+      distance_percent: 8.0265
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+      distance_meters: 10083.69
+      distance_km: 10.084
+      distance_percent: 3.7563
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+      distance_meters: 8345.68
+      distance_km: 8.346
+      distance_percent: 3.1089
+  macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 143940.79
+      distance_km: 143.941
+      distance_percent: 53.6202
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 116158.67
+      distance_km: 116.159
+      distance_percent: 43.2709
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+      distance_meters: 8345.68
+      distance_km: 8.346
+      distance_percent: 3.1089
+  touched_towns:
+    - slug: brusy
+      name: Brusy
+      code: "2202023"
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+    - slug: dziemiany
+      name: Dziemiany
+      code: "2206022"
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261011"
+    - slug: kaliska
+      name: Kaliska
+      code: "2213052"
+    - slug: kartuzy
+      name: Kartuzy
+      code: "2205023"
+    - slug: kolbudy
+      name: Kolbudy
+      code: "2204032"
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206011"
+    - slug: lipusz
+      name: Lipusz
+      code: "2206062"
+    - slug: pruszcz_gdanski
+      name: Pruszcz Gdański
+      code: "2204042"
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+    - slug: starogard_gdanski
+      name: Starogard Gdański
+      code: "2213031"
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+    - slug: tczew
+      name: Tczew
+      code: "2214011"
+    - slug: zblewo
+      name: Zblewo
+      code: "2213132"
+    - slug: zukowo
+      name: Żukowo
+      code: "2205083"
+  touched_counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+    - slug: gdansk
+      name: Gdańsk
+      code: "2261"
+    - slug: gdanski
+      name: gdański
+      code: "2204"
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+    - slug: starogardzki
+      name: starogardzki
+      code: "2213"
+    - slug: tczewski
+      name: tczewski
+      code: "2214"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+    - slug: pojezierze_starogardzkie
+      name: Pojezierze Starogardzkie
+      code: "314.52"
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+    - slug: zulawy_wislane
+      name: Żuławy Wiślane
+      code: "313.54"
+  touched_macro_regions:
+    - slug: pobrzeze_gdanskie
+      name: Pobrzeże Gdańskie
+      code: "313"
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316

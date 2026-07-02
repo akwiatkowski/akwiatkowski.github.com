@@ -35,7 +35,7 @@
     distance_meters: 34920.76
     distance_km: 34.921
     distance_percent: 62.4137
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 21029.73
@@ -86,7 +86,7 @@
     distance_meters: 44588.33
     distance_km: 44.588
     distance_percent: 79.6925
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 11362.17
@@ -133,7 +133,7 @@
   - slug: poznan
     name: Poznań
     code: "3064"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:
@@ -157,7 +157,7 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   touched_mega_regions:

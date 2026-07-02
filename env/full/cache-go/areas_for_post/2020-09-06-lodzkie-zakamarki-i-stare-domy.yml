@@ -1,0 +1,243 @@
+---
+- type: bicycle
+  total_distance_meters: 96462.94
+  total_distance_km: 96.463
+  points_count: 293
+  towns:
+    - slug: dlutow
+      name: Dłutów
+      code: "1008032"
+      distance_meters: 15954.3
+      distance_km: 15.954
+      distance_percent: 16.5393
+    - slug: zapolice
+      name: Zapolice
+      code: "1019032"
+      distance_meters: 13484.67
+      distance_km: 13.485
+      distance_percent: 13.9791
+    - slug: buczek
+      name: Buczek
+      code: "1003012"
+      distance_meters: 12383.48
+      distance_km: 12.383
+      distance_percent: 12.8376
+    - slug: lodz
+      name: Łódź
+      code: "1061011"
+      distance_meters: 11509.13
+      distance_km: 11.509
+      distance_percent: 11.9311
+    - slug: tuszyn
+      name: Tuszyn
+      code: "1006113"
+      distance_meters: 11111.81
+      distance_km: 11.112
+      distance_percent: 11.5193
+    - slug: sedziejowice
+      name: Sędziejowice
+      code: "1003032"
+      distance_meters: 8951.92
+      distance_km: 8.952
+      distance_percent: 9.2802
+    - slug: sieradz
+      name: Sieradz
+      code: "1014011"
+      distance_meters: 8202.58
+      distance_km: 8.203
+      distance_percent: 8.5033
+    - slug: rzgow
+      name: Rzgów
+      code: "1006103"
+      distance_meters: 6298.04
+      distance_km: 6.298
+      distance_percent: 6.529
+    - slug: dobron
+      name: Dobroń
+      code: "1008042"
+      distance_meters: 3562.89
+      distance_km: 3.563
+      distance_percent: 3.6935
+    - slug: sieradz
+      name: Sieradz
+      code: "1014082"
+      distance_meters: 1762.46
+      distance_km: 1.762
+      distance_percent: 1.8271
+    - slug: lask
+      name: Łask
+      code: "1003023"
+      distance_meters: 1732.91
+      distance_km: 1.733
+      distance_percent: 1.7964
+    - slug: zdunska_wola
+      name: Zduńska Wola
+      code: "1019042"
+      distance_meters: 1508.75
+      distance_km: 1.509
+      distance_percent: 1.5641
+  counties:
+    - slug: laski
+      name: łaski
+      code: "1003"
+      distance_meters: 23068.31
+      distance_km: 23.068
+      distance_percent: 23.9142
+    - slug: pabianicki
+      name: pabianicki
+      code: "1008"
+      distance_meters: 19517.19
+      distance_km: 19.517
+      distance_percent: 20.2328
+    - slug: lodzki_wschodni
+      name: łódzki wschodni
+      code: "1006"
+      distance_meters: 17409.85
+      distance_km: 17.41
+      distance_percent: 18.0482
+    - slug: zdunskowolski
+      name: zduńskowolski
+      code: "1019"
+      distance_meters: 14993.41
+      distance_km: 14.993
+      distance_percent: 15.5432
+    - slug: lodz
+      name: Łódź
+      code: "1061"
+      distance_meters: 11509.13
+      distance_km: 11.509
+      distance_percent: 11.9311
+    - slug: sieradzki
+      name: sieradzki
+      code: "1014"
+      distance_meters: 9965.04
+      distance_km: 9.965
+      distance_percent: 10.3304
+  voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+      distance_meters: 96462.94
+      distance_km: 96.463
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_laska
+      name: Wysoczyzna Łaska
+      code: "318.19"
+      distance_meters: 46754.17
+      distance_km: 46.754
+      distance_percent: 48.4685
+    - slug: wysoczyzna_belchatowska
+      name: Wysoczyzna Bełchatowska
+      code: "318.81"
+      distance_meters: 20050.45
+      distance_km: 20.05
+      distance_percent: 20.7856
+    - slug: wzniesienia_lodzkie
+      name: Wzniesienia Łódzkie
+      code: "318.82"
+      distance_meters: 18839.67
+      distance_km: 18.84
+      distance_percent: 19.5305
+    - slug: kotlina_sieradzka
+      name: Kotlina Sieradzka
+      code: "318.18"
+      distance_meters: 8134.38
+      distance_km: 8.134
+      distance_percent: 8.4327
+    - slug: wysoczyzna_zloczewska
+      name: Wysoczyzna Złoczewska
+      code: "318.22"
+      distance_meters: 2684.27
+      distance_km: 2.684
+      distance_percent: 2.7827
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 57572.82
+      distance_km: 57.573
+      distance_percent: 59.6839
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"
+      distance_meters: 38890.12
+      distance_km: 38.89
+      distance_percent: 40.3161
+  touched_towns:
+    - slug: buczek
+      name: Buczek
+      code: "1003012"
+    - slug: dlutow
+      name: Dłutów
+      code: "1008032"
+    - slug: dobron
+      name: Dobroń
+      code: "1008042"
+    - slug: lodz
+      name: Łódź
+      code: "1061011"
+    - slug: rzgow
+      name: Rzgów
+      code: "1006103"
+    - slug: sedziejowice
+      name: Sędziejowice
+      code: "1003032"
+    - slug: sieradz
+      name: Sieradz
+      code: "1014011"
+    - slug: tuszyn
+      name: Tuszyn
+      code: "1006113"
+    - slug: zapolice
+      name: Zapolice
+      code: "1019032"
+    - slug: zdunska_wola
+      name: Zduńska Wola
+      code: "1019042"
+  touched_counties:
+    - slug: laski
+      name: łaski
+      code: "1003"
+    - slug: lodz
+      name: Łódź
+      code: "1061"
+    - slug: lodzki_wschodni
+      name: łódzki wschodni
+      code: "1006"
+    - slug: pabianicki
+      name: pabianicki
+      code: "1008"
+    - slug: sieradzki
+      name: sieradzki
+      code: "1014"
+    - slug: zdunskowolski
+      name: zduńskowolski
+      code: "1019"
+  touched_voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+  touched_meso_regions:
+    - slug: kotlina_sieradzka
+      name: Kotlina Sieradzka
+      code: "318.18"
+    - slug: wysoczyzna_belchatowska
+      name: Wysoczyzna Bełchatowska
+      code: "318.81"
+    - slug: wysoczyzna_laska
+      name: Wysoczyzna Łaska
+      code: "318.19"
+    - slug: wysoczyzna_zloczewska
+      name: Wysoczyzna Złoczewska
+      code: "318.22"
+    - slug: wzniesienia_lodzkie
+      name: Wzniesienia Łódzkie
+      code: "318.82"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"

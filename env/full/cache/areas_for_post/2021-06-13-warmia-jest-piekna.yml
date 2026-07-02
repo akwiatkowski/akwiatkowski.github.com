@@ -16,7 +16,7 @@
     distance_meters: 11978.05
     distance_km: 11.978
     distance_percent: 22.424
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
     distance_meters: 10235.07
@@ -48,14 +48,14 @@
     distance_km: 5.883
     distance_percent: 11.0141
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 53416.1
     distance_km: 53.416
     distance_percent: 100.0
   meso_regions:
-  - slug: wysoczyzna_jezioranskobisztynecka
+  - slug: wysoczyzna_jezioransko-bisztynecka
     name: Wysoczyzna Jeziorańsko-Bisztynecka
     code: "842.89"
     distance_meters: 41909.06
@@ -113,7 +113,7 @@
     distance_km: 3.005
     distance_percent: 5.625
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 53416.1
@@ -129,7 +129,7 @@
   - slug: jeziorany
     name: Jeziorany
     code: "2814063"
-  - slug: kolno
+  - slug: kolno-warminsko-mazurskie
     name: Kolno
     code: "2814082"
   - slug: bisztynek
@@ -143,14 +143,14 @@
     name: bartoszycki
     code: "2801"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
   - slug: pojezierze_olsztynskie
     name: Pojezierze Olsztyńskie
     code: "842.81"
-  - slug: wysoczyzna_jezioranskobisztynecka
+  - slug: wysoczyzna_jezioransko-bisztynecka
     name: Wysoczyzna Jeziorańsko-Bisztynecka
     code: "842.89"
   - slug: pojezierze_mragowskie
@@ -178,6 +178,6 @@
     name: Pobrzeże Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

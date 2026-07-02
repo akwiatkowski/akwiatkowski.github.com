@@ -1,0 +1,384 @@
+---
+- image_filename: 2021_05_30__16_14_DSC01838.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53402777777777
+  lon: 17.60027777777778
+  altitude: 114
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 5846
+  height: 3889
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T16:14:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__16_15_DSC01840.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53465277777778
+  lon: 17.599444444444444
+  altitude: 115
+  focal_length: 53
+  focal_length_35: 53
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5763
+  height: 3944
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T16:15:14+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__16_17_DSC01844.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53536111111111
+  lon: 17.59744444444444
+  altitude: 115
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5605
+  height: 3851
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T16:17:30+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__17_01_DSC01852.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53638000882203
+  lon: 17.592941958834814
+  altitude: 113.59163701067615
+  focal_length: 43
+  focal_length_35: 43
+  crop: 1
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:01:12+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2021_05_30__17_01_DSC01855.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53637791670613
+  lon: 17.59293097407148
+  altitude: 113.58431372549019
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 5577
+  height: 3580
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:01:34+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2021_05_30__17_05_DSC01863.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53691666666666
+  lon: 17.591902777777776
+  altitude: 114
+  focal_length: 51
+  focal_length_35: 51
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 3637
+  height: 5958
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:05:09+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__17_10_DSC01873.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.537375
+  lon: 17.594388888888886
+  altitude: 108
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5314
+  height: 3754
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:10:03+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__17_10_DSC01876.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53759722222222
+  lon: 17.595125
+  altitude: 108
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 5681
+  height: 3780
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:10:49+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__17_12_DSC01879.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53736111111111
+  lon: 17.596249999999998
+  altitude: 109
+  focal_length: 48
+  focal_length_35: 48
+  crop: 1
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 3888
+  height: 5843
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:12:04+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__17_13_DSC01881.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53726388888889
+  lon: 17.59701388888889
+  altitude: 110
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 3923
+  height: 5897
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T17:13:34+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_30__18_18_DSC01905.jpg
+  post_slug: 2021-05-30-centrum-gniezna
+  lat: 52.53413888888889
+  lon: 17.59825
+  altitude: 117
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 3762
+  height: 5969
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-30T18:18:49+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84

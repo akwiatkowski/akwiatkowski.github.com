@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Kółko przez poligon w Biedrusku"
 subtitle:               "i Kokoryczkowe Wzgórze"
 date:                   2015-04-18 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle]

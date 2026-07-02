@@ -1,0 +1,162 @@
+---
+- type: train
+  total_distance_meters: 50571.56
+  total_distance_km: 50.572
+  points_count: 148
+  towns:
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208112"
+      distance_meters: 11852.44
+      distance_km: 11.852
+      distance_percent: 23.437
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 9262.13
+      distance_km: 9.262
+      distance_percent: 18.3149
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 8860.37
+      distance_km: 8.86
+      distance_percent: 17.5205
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+      distance_meters: 8191.41
+      distance_km: 8.191
+      distance_percent: 16.1977
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208041"
+      distance_meters: 5401.52
+      distance_km: 5.402
+      distance_percent: 10.6809
+    - slug: jedlina-zdroj
+      name: Jedlina-Zdrój
+      code: "0221021"
+      distance_meters: 4894.46
+      distance_km: 4.894
+      distance_percent: 9.6783
+    - slug: walbrzych
+      name: Wałbrzych
+      code: "0265011"
+      distance_meters: 2109.23
+      distance_km: 2.109
+      distance_percent: 4.1708
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208021"
+      distance_meters: 1594.94
+      distance_km: 1.595
+      distance_percent: 3.1538
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 35376.46
+      distance_km: 35.376
+      distance_percent: 69.9533
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+      distance_meters: 13085.87
+      distance_km: 13.086
+      distance_percent: 25.8759
+    - slug: walbrzych
+      name: Wałbrzych
+      code: "0265"
+      distance_meters: 2109.23
+      distance_km: 2.109
+      distance_percent: 4.1708
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 50571.56
+      distance_km: 50.572
+      distance_percent: 100
+  meso_regions:
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+      distance_meters: 26508.4
+      distance_km: 26.508
+      distance_percent: 52.4176
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+      distance_meters: 11961.26
+      distance_km: 11.961
+      distance_percent: 23.6522
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+      distance_meters: 7286.24
+      distance_km: 7.286
+      distance_percent: 14.4078
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 4815.66
+      distance_km: 4.816
+      distance_percent: 9.5225
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 50571.56
+      distance_km: 50.572
+      distance_percent: 100
+  touched_towns:
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+    - slug: jedlina-zdroj
+      name: Jedlina-Zdrój
+      code: "0221021"
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208021"
+    - slug: nowa_ruda
+      name: Nowa Ruda
+      code: "0208041"
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+    - slug: walbrzych
+      name: Wałbrzych
+      code: "0265011"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+    - slug: walbrzych
+      name: Wałbrzych
+      code: "0265"
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

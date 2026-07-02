@@ -10,7 +10,7 @@
     distance_meters: 12183.11
     distance_km: 12.183
     distance_percent: 30.2053
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 10464.01
@@ -28,7 +28,7 @@
     distance_meters: 6431.77
     distance_km: 6.432
     distance_percent: 15.9461
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
     distance_meters: 1390.99
@@ -86,7 +86,7 @@
     distance_meters: 29491.97
     distance_km: 29.492
     distance_percent: 73.1188
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 10842.35
@@ -117,13 +117,13 @@
   - slug: mosina
     name: Mosina
     code: "3021103"
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
   - slug: czempin
     name: Czempiń
     code: "3011023"
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
   - slug: smigiel
@@ -154,7 +154,7 @@
     name: Pojezierze Krzywińskie
     code: "315.82"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

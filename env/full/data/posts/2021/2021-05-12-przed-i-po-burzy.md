@@ -20,6 +20,7 @@ map_zooms:              14
 distance:               10
 time_spent:             3
 elevation:              42
+terrain:                4.2 # m/km przewyższeń — płaski
 temperature:            25
 
 strava: 5285839685

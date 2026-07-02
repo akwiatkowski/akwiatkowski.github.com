@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP6487raw1.jpg
+  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
+  ahash: fffe200020784800
+  dhash: 00804152c0d09090
+  phash: c1fef0c0273d2ac5
+  avg_rgb:
+  - 120
+  - 119
+  - 115
+  top5_rgb:
+  - - 99
+    - 112
+    - 42
+  - - 132
+    - 115
+    - 121
+  - - 149
+    - 162
+    - 197
+  - - 115
+    - 140
+    - 181
+  - - 61
+    - 70
+    - 70
+- image_filename: IMGP6506raw1.jpg
+  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
+  ahash: 07f83603f3f81c6c
+  dhash: b422e467a7b1f099
+  phash: 883f11bc281ff2bc
+  avg_rgb:
+  - 92
+  - 117
+  - 92
+  top5_rgb:
+  - - 114
+    - 141
+    - 101
+  - - 70
+    - 94
+    - 66
+  - - 97
+    - 125
+    - 91
+  - - 135
+    - 155
+    - 71
+  - - 51
+    - 72
+    - 35
+- image_filename: IMGP6516raw1.jpg
+  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
+  ahash: 3f1f3f38d8fb6120
+  dhash: e5d662211122abcb
+  phash: 8c9f01ec56c6cf83
+  avg_rgb:
+  - 54
+  - 90
+  - 16
+  top5_rgb:
+  - - 42
+    - 73
+    - 5
+  - - 43
+    - 72
+    - 13
+  - - 59
+    - 101
+    - 25
+  - - 54
+    - 89
+    - 5
+  - - 72
+    - 115
+    - 13
+- image_filename: header.jpg
+  post_slug: 2014-05-31-zachodnia-czesc-beskidu-malego
+  ahash: fc4c0c00f8fec800
+  dhash: 9098b84e02181030
+  phash: d1c1c1c1ed6997c9
+  avg_rgb:
+  - 79
+  - 94
+  - 66
+  top5_rgb:
+  - - 57
+    - 73
+    - 49
+  - - 72
+    - 105
+    - 43
+  - - 107
+    - 132
+    - 65
+  - - 81
+    - 68
+    - 74
+  - - 70
+    - 90
+    - 44

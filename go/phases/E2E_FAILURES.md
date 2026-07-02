@@ -1,0 +1,256 @@
+# Go E2E Test Failures
+
+**Run date**: 2026-07-02
+**Results**: 229 passed, 0 failed, 3 skipped ✅ (was 211/18/3)
+**Server**: Go output (`env/dev/public/go/`) served statically (`BASE_URL=http://localhost:<port> npx playwright test`)
+
+All previously-failing tests now pass. Fixes applied 2026-07-02:
+- **Social meta tags (16)** — `HeadOG` in `internal/templates/layout/head.templ` now emits
+  `og:locale=pl_PL`, `twitter:title`, `twitter:description`, and `og:image:alt`. Per-view
+  descriptions added: homepage interpolates `site.desc` placeholders via `interpolateSiteDesc`
+  (nav stats), the More page got a static description, area show mirrors Crystal's
+  `"<name> — <polish type>. N wypraw, M zdjęć."` (new `AreaType.PolishName()`), and both
+  portfolio + area show now set `ImageURL` (hero/best photo) so `og:image`/`og:image:alt` render.
+- **Portfolio lightbox (1)** — passed after a fresh render; the Escape assertion in
+  `specs/static.spec.js:76` was hardened against the React `useEffect` keydown-registration race
+  (retry the press via `toPass`) to stop it flaking under parallel load.
+- **Article photo width (1)** — the Go post layout uses `.post-content` (centered column), not
+  Crystal's Bootstrap `.col-lg-8`. `specs/picture-elements.spec.js:83` now falls back to
+  `.post-content` so the "image fills ≥90% of text column" check is layout-agnostic.
+
+Fixed on 2026-07-02 (see git log): deferred page JS (photo map Preact mount), area show/post-list
+parity via spatial route coverage (counties, macro regions, disambiguated towns), meso/macro show
+URL prefixes (`/region/`, `/obszar/`), post gallery URLs (`/galeria/<y>/<m>/<d>-<slug>.html`),
+towns index (`#towns-app` + Crystal JSON contract + inline bootstrap), homepage.json rebuilt to
+the Crystal shape (flat lookup arrays, `photos` with src/src_avif/alt/points), forked
+`go-rewrite/assets/js/self/homepage.js` deleted (canonical JS now shared).
+
+Historical failure list from 2026-03-08 below — most items are fixed; kept for reference.
+
+---
+
+## 1. Social Meta Tags (17 failures) — `specs/social-meta.spec.js`
+
+Missing `<meta>` tags: og:type, og:locale, twitter:card, og:description, og:image:alt.
+**Root cause**: Go `<head>` template doesn't emit social/OpenGraph meta tags.
+
+- [ ] Homepage — has og:type and og:locale
+- [ ] Homepage — has Twitter Card tags
+- [ ] Homepage — has non-empty description
+- [ ] Portfolio — has og:type and og:locale
+- [ ] Portfolio — has Twitter Card tags
+- [ ] Area show (town) — has og:type and og:locale
+- [ ] Area show (town) — has Twitter Card tags
+- [ ] Area show (town) — has non-empty description
+- [ ] More page — has og:type and og:locale
+- [ ] More page — has Twitter Card tags
+- [ ] More page — has non-empty description
+- [ ] About page — has og:type and og:locale
+- [ ] About page — has Twitter Card tags
+- [ ] Portfolio — has og:image:alt
+- [ ] Area show (town) — has og:image:alt
+- [ ] Portfolio — has custom description
+- [ ] Area show (town) — has custom description with stats
+
+## 2. Area Post List Filtering (15 failures) — `specs/area-filtering.spec.js`
+
+Post list pages need JS-driven `.post-card` rendering from JSON data.
+**Root cause**: Post list pages likely missing JS bundle or JSON endpoint differences.
+
+- [ ] Town (`/wpisy-dla/gminy/grudziadz.html`) — page loads and shows posts
+- [ ] Town — has correct filter config
+- [ ] Town — displayed posts match JSON data
+- [ ] Voivodeship (`/wpisy-dla/wojewodztwa/kujawsko-pomorskie.html`) — page loads and shows posts
+- [ ] Voivodeship — has correct filter config
+- [ ] Voivodeship — displayed posts match JSON data
+- [ ] MesoRegion (`/wpisy-dla/regionu/pojezierze_brodnickie.html`) — page loads and shows posts
+- [ ] MesoRegion — has correct filter config
+- [ ] MesoRegion — displayed posts match JSON data
+- [ ] County (`/wpisy-dla/powiatu/grudziadzki.html`) — page loads and shows posts
+- [ ] County — has correct filter config
+- [ ] County — displayed posts match JSON data
+- [ ] MacroRegion (`/wpisy-dla/obszaru/pojezierze_chelminsko-dobrzynskie.html`) — page loads and shows posts
+- [ ] MacroRegion — has correct filter config
+- [ ] MacroRegion — displayed posts match JSON data
+
+## 3. Area Show Pages (15 failures) — `specs/area-show.spec.js`
+
+Area detail pages with inline JSON, photos, map.
+**Root cause**: Go area show pages missing inline `<script id="area-data">` JSON block and/or React/Leaflet rendering.
+
+- [ ] Town with photos — has inline area-data JSON
+- [ ] Town with photos — has photos from polygon cache
+- [ ] Town with photos — has no JS errors
+- [ ] Town with posts — page loads successfully
+- [ ] Town with posts — has inline area-data JSON
+- [ ] Town with posts — has posts in area data
+- [ ] Town with posts — has photos from polygon cache
+- [ ] County — page loads successfully
+- [ ] County — has inline area-data JSON
+- [ ] County — has posts in area data
+- [ ] County — has photos from polygon cache
+- [ ] MacroRegion — page loads successfully
+- [ ] MacroRegion — has inline area-data JSON
+- [ ] MacroRegion — has posts in area data
+- [ ] MacroRegion — has photos from polygon cache
+
+## 4. JS-Heavy Pages — Trip Ideas (6 failures) — `specs/js-pages.spec.js`
+
+Page: `/pomysly_tras.html`
+**Root cause**: Trip ideas page may not be generated by Go, or JS/JSON differences.
+
+- [ ] Renders trip cards
+- [ ] Cards have route header and stats
+- [ ] Cards have town tags
+- [ ] Town links only for towns with pages
+- [ ] Search filter narrows results
+- [ ] Header shows count
+
+## 5. JS-Heavy Pages — Photo Planner (10 failures) — `specs/js-pages.spec.js`
+
+Page: `/pomysly_dla_zdjec.html`
+**Root cause**: Photo planner page and its JSON data.
+
+- [ ] Has hero with title
+- [ ] Map container renders
+- [ ] Grid cells are drawn on map
+- [ ] Station markers are drawn on map
+- [ ] Coverage stats are populated with numbers
+- [ ] Generate button produces route cards
+- [ ] Route cards show station names with arrow
+- [ ] Route cards show numeric km values
+- [ ] Route cards show train time in hours
+- [ ] Radio buttons change trip duration
+
+## 6. JS-Heavy Pages — Timeline (8 failures) — `specs/js-pages.spec.js`
+
+Page: `/linia_czasu.html`
+**Root cause**: Timeline page and its JSON data.
+
+- [ ] Grid populates with photo cells
+- [ ] Photos have loaded images
+- [ ] Date overlays exist
+- [ ] Photos are chronologically ordered (left=Jan, right=Dec)
+- [ ] Slider exists and shows date
+- [ ] Modal opens on photo click
+- [ ] Modal shows image and description
+- [ ] Modal closes on escape
+
+## 7. JS-Heavy Pages — EXIF Stats (7 failures) — `specs/js-pages.spec.js`
+
+Page: `/statystyki_exif.html`
+**Root cause**: EXIF stats page and its JSON data.
+
+- [ ] Loads without JS errors
+- [ ] Has page header
+- [ ] Stat cards populate with values after loading
+- [ ] Filter controls are present
+- [ ] Filter dropdowns populate after loading
+- [ ] Charts render as canvas elements
+- [ ] Has all section headers
+
+## 8. Map Pages (12 failures) — `specs/map.spec.js`
+
+**Root cause**: Map JSON endpoint structure differences, Leaflet/React rendering.
+
+### Map JSON (`/jsons/map.json`)
+- [ ] Posts have required fields for map display
+
+### Route Map (`/mapa_tras.html`)
+- [ ] Fetches map.json (not payload.json)
+- [ ] Renders Leaflet map container
+- [ ] Loads map tiles
+- [ ] Has route polylines on map
+- [ ] Clicking route shows popup
+
+### Photo Map (`/mapa_zdjec.html`)
+- [ ] Renders React app
+- [ ] Shows map and sidebar
+- [ ] Has photo markers on map
+- [ ] Has photos in sidebar
+- [ ] Sidebar shows photo count
+- [ ] Clicking photo in sidebar opens modal
+
+## 9. More Page (7 failures) — `specs/more-page.spec.js`
+
+Page: `/wiecej.html`
+**Root cause**: More page layout or link differences.
+
+- [ ] Has more links grid
+- [ ] Panoramio map link works
+- [ ] Panoramio map link is clickable and loads page
+- [ ] Portfolio link works
+- [ ] Portfolio link is clickable and loads page
+- [ ] Year stats link works
+- [ ] Year stats link is clickable and loads page
+
+## 10. Towns Index (6 failures) — `specs/towns-index.spec.js`
+
+Page: `/gminy.html`
+**Root cause**: Towns index page missing `#towns-app` mount point or Preact rendering.
+
+- [ ] Page loads with voivodeship groups and town cards
+- [ ] Voivodeship headers link to voivodeship show pages
+- [ ] Search filters towns in real-time
+- [ ] Search with no results shows empty message
+- [ ] Clearing search restores all towns
+- [ ] Empty voivodeship groups are hidden when filtering
+
+## 11. Tag Post List Filtering (4 failures) — `specs/tag-filtering.spec.js`
+
+**Root cause**: Tag post list pages missing JS rendering of `.post-card` elements.
+
+- [ ] Bicycle tag (`/wpisy-dla/tagu/rowerem.html`) — page loads and shows posts
+- [ ] Bicycle tag — only shows posts with bicycle tag
+- [ ] Hike tag (`/wpisy-dla/tagu/pieszo.html`) — page loads and shows posts
+- [ ] Hike tag — only shows posts with hike tag
+
+## 12. Static Pages — Portfolio (4 failures) — `specs/static.spec.js`
+
+Page: `/portfolio.html`
+**Root cause**: Portfolio page not generated by Go or missing CSS/JS.
+
+- [ ] Has dark background
+- [ ] Has hero section
+- [ ] Has grid with photos
+- [ ] Lightbox opens and closes
+
+## 13. Post Pages (1 failure) — `specs/posts.spec.js`
+
+- [ ] Post article has required elements
+
+## 14. POIs Page (3 failures) — `specs/pois.spec.js`
+
+Page: `/pois.html`
+**Root cause**: POI page marker interaction/panel issues.
+
+- [ ] Clicking a marker opens the detail panel
+- [ ] Panel closes when clicking X
+- [ ] Visited POI card shows photo and post link
+
+## 15. Homepage (1 failure) — `specs/homepage.spec.js`
+
+- [ ] Homepage JSON loads (Go uses `tags` as map, Crystal test expects array — **skip/adapt test**)
+- [x] Category chips include at least one meso region link — **fixed**: area cache enrichment + post list URLs
+
+---
+
+## Summary by Priority
+
+| Priority | Category | Failures | Effort | Notes |
+|----------|----------|----------|--------|-------|
+| High | Social meta tags | 17 | Low | Add `<meta>` tags to head template |
+| High | Homepage JSON | 2 | Low | Match Crystal JSON structure |
+| High | Post pages | 1 | Low | Check article element structure |
+| Medium | Area filtering | 15 | Medium | Post list JS rendering |
+| Medium | Tag filtering | 4 | Medium | Same root cause as area filtering |
+| Medium | Area show pages | 15 | Medium | Inline area-data JSON block |
+| Medium | More page | 7 | Low | Link grid layout |
+| Medium | Towns index | 6 | Medium | Preact app mount + data |
+| Medium | Map pages | 12 | Medium | JSON fields + Leaflet/React |
+| Medium | POIs page | 3 | Medium | Marker interaction |
+| Low | Portfolio | 4 | Medium | Standalone page |
+| Low | JS pages (ideas) | 6 | Medium | Trip ideas page |
+| Low | JS pages (planner) | 10 | High | Photo planner complex page |
+| Low | JS pages (timeline) | 8 | Medium | Timeline page |
+| Low | JS pages (EXIF) | 7 | Medium | EXIF stats page |

@@ -1,0 +1,129 @@
+---
+- image_filename: IMGP7551b.jpg
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.860627284356724
+  lon: 15.914442027074543
+  altitude: 544.24
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.2
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-08-11T15:01:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+- image_filename: IMGP7594b.jpg
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.860931295901445
+  lon: 15.912149576438141
+  altitude: 562.51
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1600
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-08-11T15:24:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP7635b.JPG
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.8589294459749
+  lon: 15.905621414997299
+  altitude: 445.71
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-08-11T15:54:31+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: aperture_priority
+  exposure_bias: -1
+- image_filename: IMGP7650b.JPG
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.858860798202194
+  lon: 15.905484203194927
+  altitude: 447.15
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-08-11T16:00:06+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2012-08-11-z-janowic-wielkich-do-pttk-szwajcarka
+  lat: 50.86046140636298
+  lon: 15.912455180640764
+  altitude: 552.9
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 800
+  width: 2048
+  height: 1356
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-08-11T15:08:03+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3

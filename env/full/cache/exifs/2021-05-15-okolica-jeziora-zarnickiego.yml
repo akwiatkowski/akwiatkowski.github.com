@@ -141,6 +141,9 @@
   time: 2021-05-15 14:03:49.000000000+02:00
 - image_filename: 2021_05_15__14_19__5155879.jpg
   post_slug: 2021-05-15-okolica-jeziora-zarnickiego
+  lat: 52.7768
+  lon: 17.5593
+  altitude: 129.0
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0

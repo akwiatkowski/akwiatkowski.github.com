@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP0494raw1.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.48635683210258
+  lon: 16.825590441011865
+  altitude: 97.23
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-27T11:02:57+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0497raw1.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.43196398020992
+  lon: 16.691402792890823
+  altitude: 82.33
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-27T11:49:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0506raw1.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.390997847478474
+  lon: 16.621429743201464
+  altitude: 90.98
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 9
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-27T12:43:29+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0509raw1.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.37148477701544
+  lon: 16.632656715816616
+  altitude: 85.21
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-27T12:53:41+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-06-27-zachod-od-poznania-do-opalenicy
+  lat: 52.411258919199426
+  lon: 16.622013123660853
+  altitude: 91.94
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-27T12:26:36+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

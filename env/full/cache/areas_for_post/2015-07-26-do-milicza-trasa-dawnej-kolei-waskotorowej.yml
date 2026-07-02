@@ -56,7 +56,7 @@
     distance_km: 6.76
     distance_percent: 14.061
   macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
     distance_meters: 41318.72
@@ -118,7 +118,7 @@
     name: Kotlina Milicka
     code: "318.34"
   touched_macro_regions:
-  - slug: obnizenie_milickoglogowskie
+  - slug: obnizenie_milicko-glogowskie
     name: Obniżenie Milicko-Głogowskie
     code: "318"
   - slug: wal_trzebnicki

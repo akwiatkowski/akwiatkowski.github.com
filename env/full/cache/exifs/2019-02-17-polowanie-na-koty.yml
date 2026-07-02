@@ -778,6 +778,9 @@
   time: 2019-02-17 14:14:51.000000000+01:00
 - image_filename: 2019_02_17__14_14__2173421_04.jpg
   post_slug: 2019-02-17-polowanie-na-koty
+  lat: 51.95486944444445
+  lon: 16.58503333333333
+  altitude: 92.9
   focal_length: 55.0
   focal_length_35: 110.0
   crop: 2.0

@@ -1,0 +1,216 @@
+---
+- type: bicycle
+  total_distance_meters: 106074.38
+  total_distance_km: 106.074
+  points_count: 500
+  towns:
+    - slug: lwowek
+      name: Lwówek
+      code: "3015023"
+      distance_meters: 22666.92
+      distance_km: 22.667
+      distance_percent: 21.3689
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+      distance_meters: 19216.07
+      distance_km: 19.216
+      distance_percent: 18.1157
+    - slug: duszniki
+      name: Duszniki
+      code: "3024022"
+      distance_meters: 18229.29
+      distance_km: 18.229
+      distance_percent: 17.1854
+    - slug: tarnowo_podgorne
+      name: Tarnowo Podgórne
+      code: "3021172"
+      distance_meters: 15359.65
+      distance_km: 15.36
+      distance_percent: 14.4801
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 10353.65
+      distance_km: 10.354
+      distance_percent: 9.7607
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+      distance_meters: 10317.23
+      distance_km: 10.317
+      distance_percent: 9.7264
+    - slug: kazmierz
+      name: Kaźmierz
+      code: "3024032"
+      distance_meters: 5301.57
+      distance_km: 5.302
+      distance_percent: 4.998
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+      distance_meters: 4464.42
+      distance_km: 4.464
+      distance_percent: 4.2088
+    - slug: zbaszynek
+      name: Zbąszynek
+      code: "0808063"
+      distance_meters: 165.6
+      distance_km: 0.166
+      distance_percent: 0.1561
+  counties:
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 46347.41
+      distance_km: 46.347
+      distance_percent: 43.6933
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 25713.3
+      distance_km: 25.713
+      distance_percent: 24.2408
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+      distance_meters: 23530.86
+      distance_km: 23.531
+      distance_percent: 22.1834
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 10353.65
+      distance_km: 10.354
+      distance_percent: 9.7607
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 10317.23
+      distance_km: 10.317
+      distance_percent: 9.7264
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+      distance_meters: 165.6
+      distance_km: 0.166
+      distance_percent: 0.1561
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 95591.56
+      distance_km: 95.592
+      distance_percent: 90.1175
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 10482.82
+      distance_km: 10.483
+      distance_percent: 9.8825
+  meso_regions:
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 33987.05
+      distance_km: 33.987
+      distance_percent: 32.0408
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+      distance_meters: 29027.88
+      distance_km: 29.028
+      distance_percent: 27.3656
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 25989.73
+      distance_km: 25.99
+      distance_percent: 24.5014
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 17069.73
+      distance_km: 17.07
+      distance_percent: 16.0922
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 89004.65
+      distance_km: 89.005
+      distance_percent: 83.9078
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 17069.73
+      distance_km: 17.07
+      distance_percent: 16.0922
+  touched_towns:
+    - slug: duszniki
+      name: Duszniki
+      code: "3024022"
+    - slug: kazmierz
+      name: Kaźmierz
+      code: "3024032"
+    - slug: lwowek
+      name: Lwówek
+      code: "3015023"
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: tarnowo_podgorne
+      name: Tarnowo Podgórne
+      code: "3021172"
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+  touched_counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: szamotulski
+      name: szamotulski
+      code: "3024"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: rownina_nowotomyska
+      name: Równina Nowotomyska
+      code: "315.50"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

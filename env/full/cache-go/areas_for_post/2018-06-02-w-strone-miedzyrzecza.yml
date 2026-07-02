@@ -1,0 +1,182 @@
+---
+- type: bicycle
+  total_distance_meters: 18953.36
+  total_distance_km: 18.953
+  points_count: 92
+  towns:
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+      distance_meters: 15150.82
+      distance_km: 15.151
+      distance_percent: 79.9374
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+      distance_meters: 3189.05
+      distance_km: 3.189
+      distance_percent: 16.8258
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+      distance_meters: 613.49
+      distance_km: 0.613
+      distance_percent: 3.2369
+  counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 18339.87
+      distance_km: 18.34
+      distance_percent: 96.7631
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 613.49
+      distance_km: 0.613
+      distance_percent: 3.2369
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 18339.87
+      distance_km: 18.34
+      distance_percent: 96.7631
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 613.49
+      distance_km: 0.613
+      distance_percent: 3.2369
+  meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 18953.36
+      distance_km: 18.953
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 18953.36
+      distance_km: 18.953
+      distance_percent: 100
+  touched_towns:
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+  touched_counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+- type: bicycle
+  total_distance_meters: 14140.24
+  total_distance_km: 14.14
+  points_count: 73
+  towns:
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+      distance_meters: 13649.12
+      distance_km: 13.649
+      distance_percent: 96.5267
+    - slug: bledzew
+      name: Bledzew
+      code: "0803012"
+      distance_meters: 491.13
+      distance_km: 0.491
+      distance_percent: 3.4733
+  counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 14140.24
+      distance_km: 14.14
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 14140.24
+      distance_km: 14.14
+      distance_percent: 100
+  meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 7877.12
+      distance_km: 7.877
+      distance_percent: 55.7071
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 6263.13
+      distance_km: 6.263
+      distance_percent: 44.2929
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 7877.12
+      distance_km: 7.877
+      distance_percent: 55.7071
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 6263.13
+      distance_km: 6.263
+      distance_percent: 44.2929
+  touched_towns:
+    - slug: bledzew
+      name: Bledzew
+      code: "0803012"
+    - slug: miedzyrzecz
+      name: Międzyrzecz
+      code: "0803023"
+  touched_counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

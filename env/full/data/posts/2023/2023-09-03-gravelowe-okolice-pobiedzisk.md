@@ -19,6 +19,7 @@ coords:                 [{"route": [], "type": "hike"}]
 distance:               48
 time_spent:             3
 elevation:              42
+terrain:                0.9 # m/km przewyższeń — płaski
 temperature:            22
 average_speed:          20.1
 

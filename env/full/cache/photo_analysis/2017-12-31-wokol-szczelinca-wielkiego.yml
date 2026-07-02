@@ -1,0 +1,526 @@
+---
+- image_filename: IMGP4098raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ff7f7f6720000000
+  dhash: cccccc8ccec8d8b8
+  phash: 83a28a4bf59cd8ab
+  avg_rgb:
+  - 111
+  - 107
+  - 103
+  top5_rgb:
+  - - 56
+    - 54
+    - 49
+  - - 69
+    - 65
+    - 59
+  - - 59
+    - 43
+    - 30
+  - - 63
+    - 47
+    - 33
+  - - 61
+    - 57
+    - 50
+- image_filename: IMGP4100raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ffffb9b898000000
+  dhash: "7470717070307030"
+  phash: dfdfb7b79400020a
+  avg_rgb:
+  - 92
+  - 87
+  - 84
+  top5_rgb:
+  - - 131
+    - 135
+    - 143
+  - - 78
+    - 78
+    - 80
+  - - 61
+    - 61
+    - 57
+  - - 143
+    - 146
+    - 156
+  - - 68
+    - 61
+    - 49
+- image_filename: IMGP4105raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ffde9f9e90000000
+  dhash: 283232323626647a
+  phash: dcdcc2e2c283b3e4
+  avg_rgb:
+  - 101
+  - 100
+  - 98
+  top5_rgb:
+  - - 58
+    - 48
+    - 32
+  - - 65
+    - 52
+    - 34
+  - - 101
+    - 103
+    - 105
+  - - 51
+    - 51
+    - 50
+  - - 208
+    - 214
+    - 225
+- image_filename: IMGP4159raw2.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: dedc9898988898fe
+  dhash: "1910303030307058"
+  phash: d9f0927ab25a308f
+  avg_rgb:
+  - 117
+  - 115
+  - 113
+  top5_rgb:
+  - - 143
+    - 145
+    - 149
+  - - 107
+    - 107
+    - 104
+  - - 93
+    - 93
+    - 90
+  - - 120
+    - 120
+    - 120
+  - - 91
+    - 89
+    - 83
+- image_filename: IMGP4172raw2.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 3030303830387c7f
+  dhash: e2e0c0c0c0c0e0e8
+  phash: c76c984eb4c96d92
+  avg_rgb:
+  - 102
+  - 100
+  - 97
+  top5_rgb:
+  - - 54
+    - 52
+    - 50
+  - - 109
+    - 110
+    - 107
+  - - 137
+    - 137
+    - 138
+  - - 70
+    - 69
+    - 66
+  - - 168
+    - 170
+    - 173
+- image_filename: IMGP4174raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 00181c3c7c783410
+  dhash: d4303061e4d6e528
+  phash: ce1938653786798e
+  avg_rgb:
+  - 101
+  - 85
+  - 80
+  top5_rgb:
+  - - 126
+    - 110
+    - 107
+  - - 106
+    - 95
+    - 97
+  - - 81
+    - 66
+    - 77
+  - - 52
+    - 38
+    - 36
+  - - 52
+    - 46
+    - 45
+- image_filename: IMGP4184raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 12100000307e7fff
+  dhash: b6b6a5a464d095b7
+  phash: 8c1ea8877da0dfa4
+  avg_rgb:
+  - 104
+  - 94
+  - 89
+  top5_rgb:
+  - - 106
+    - 71
+    - 51
+  - - 52
+    - 54
+    - 50
+  - - 214
+    - 217
+    - 231
+  - - 146
+    - 86
+    - 53
+  - - 53
+    - 59
+    - 53
+- image_filename: IMGP4185raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: fcf8e00000009cfe
+  dhash: c0c0d03130b03870
+  phash: d1c3c1cc8e9c8cd7
+  avg_rgb:
+  - 89
+  - 83
+  - 81
+  top5_rgb:
+  - - 67
+    - 67
+    - 71
+  - - 119
+    - 117
+    - 126
+  - - 81
+    - 82
+    - 88
+  - - 98
+    - 93
+    - 102
+  - - 51
+    - 52
+    - 54
+- image_filename: IMGP4187raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 080801bb9f99bbff
+  dhash: f95353637b136373
+  phash: 8b11515893cff19e
+  avg_rgb:
+  - 103
+  - 84
+  - 80
+  top5_rgb:
+  - - 159
+    - 120
+    - 116
+  - - 115
+    - 89
+    - 82
+  - - 134
+    - 102
+    - 101
+  - - 54
+    - 47
+    - 41
+  - - 144
+    - 111
+    - 110
+- image_filename: IMGP4188raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 0000007ceef0f2fe
+  dhash: 26acb4d09886a6d4
+  phash: d43a2ce7934d0c76
+  avg_rgb:
+  - 105
+  - 93
+  - 83
+  top5_rgb:
+  - - 163
+    - 141
+    - 145
+  - - 88
+    - 87
+    - 88
+  - - 78
+    - 79
+    - 80
+  - - 59
+    - 57
+    - 57
+  - - 70
+    - 70
+    - 70
+- image_filename: IMGP4193raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 0000000060fcff7f
+  dhash: cc4c4acb87c0e0fa
+  phash: c3779fc0229fc82c
+  avg_rgb:
+  - 99
+  - 98
+  - 91
+  top5_rgb:
+  - - 198
+    - 197
+    - 219
+  - - 100
+    - 100
+    - 91
+  - - 56
+    - 59
+    - 56
+  - - 211
+    - 204
+    - 221
+  - - 175
+    - 174
+    - 193
+- image_filename: IMGP4196raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 3d34004460e0fcff
+  dhash: e1e1498dc4852531
+  phash: c20f9c64d13ae1dd
+  avg_rgb:
+  - 98
+  - 87
+  - 80
+  top5_rgb:
+  - - 89
+    - 84
+    - 69
+  - - 87
+    - 84
+    - 88
+  - - 66
+    - 61
+    - 55
+  - - 204
+    - 163
+    - 142
+  - - 55
+    - 48
+    - 45
+- image_filename: IMGP4199raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: b8b03830a01898bf
+  dhash: 414141494aba3034
+  phash: cf479c718750907d
+  avg_rgb:
+  - 107
+  - 98
+  - 87
+  top5_rgb:
+  - - 136
+    - 143
+    - 153
+  - - 188
+    - 145
+    - 114
+  - - 81
+    - 80
+    - 83
+  - - 121
+    - 120
+    - 130
+  - - 109
+    - 109
+    - 118
+- image_filename: IMGP4207raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 7878f0f0e4e0e0e5
+  dhash: c9b1808949080909
+  phash: f20002178a7bf7de
+  avg_rgb:
+  - 99
+  - 100
+  - 85
+  top5_rgb:
+  - - 87
+    - 81
+    - 73
+  - - 168
+    - 142
+    - 121
+  - - 147
+    - 140
+    - 109
+  - - 151
+    - 125
+    - 114
+  - - 74
+    - 72
+    - 62
+- image_filename: IMGP4214raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: d3d7d7dfd7000000
+  dhash: b7b7b437362c3e30
+  phash: bcec484bf8395352
+  avg_rgb:
+  - 104
+  - 103
+  - 99
+  top5_rgb:
+  - - 68
+    - 57
+    - 35
+  - - 73
+    - 60
+    - 39
+  - - 202
+    - 210
+    - 220
+  - - 94
+    - 76
+    - 49
+  - - 65
+    - 52
+    - 34
+- image_filename: IMGP4226raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ffffe70000000000
+  dhash: 26ec8e1390945960
+  phash: f0f4869e486ce5a5
+  avg_rgb:
+  - 85
+  - 94
+  - 104
+  top5_rgb:
+  - - 25
+    - 36
+    - 49
+  - - 15
+    - 21
+    - 22
+  - - 73
+    - 69
+    - 51
+  - - 169
+    - 194
+    - 230
+  - - 69
+    - 66
+    - 48
+- image_filename: IMGP4228raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ffffe000000060ff
+  dhash: e2c2cb928f07c61a
+  phash: e5c5cd4c185c78e3
+  avg_rgb:
+  - 100
+  - 101
+  - 100
+  top5_rgb:
+  - - 59
+    - 61
+    - 53
+  - - 119
+    - 133
+    - 157
+  - - 134
+    - 120
+    - 89
+  - - 72
+    - 70
+    - 66
+  - - 182
+    - 201
+    - 230
+- image_filename: IMGP4229raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ccdeca0840c2f8ff
+  dhash: 9194121b589e1a00
+  phash: d119dc320b2b2f97
+  avg_rgb:
+  - 130
+  - 126
+  - 121
+  top5_rgb:
+  - - 157
+    - 152
+    - 168
+  - - 145
+    - 139
+    - 149
+  - - 187
+    - 189
+    - 159
+  - - 127
+    - 123
+    - 139
+  - - 146
+    - 164
+    - 129
+- image_filename: IMGP4233raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 000010183367cfff
+  dhash: 90b37060c3dd991c
+  phash: 884cf862e71be29b
+  avg_rgb:
+  - 83
+  - 87
+  - 90
+  top5_rgb:
+  - - 37
+    - 54
+    - 54
+  - - 54
+    - 70
+    - 67
+  - - 81
+    - 82
+    - 92
+  - - 35
+    - 53
+    - 53
+  - - 29
+    - 44
+    - 46
+- image_filename: IMGP4237raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: ffffdb0000000000
+  dhash: cc84132ba023f0e1
+  phash: fdf580c0063fb9d0
+  avg_rgb:
+  - 100
+  - 104
+  - 110
+  top5_rgb:
+  - - 121
+    - 102
+    - 79
+  - - 115
+    - 98
+    - 75
+  - - 102
+    - 88
+    - 67
+  - - 176
+    - 198
+    - 231
+  - - 40
+    - 38
+    - 42
+- image_filename: IMGP4247raw1.jpg
+  post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  ahash: 7ffffe0030300000
+  dhash: cee9d8e0e0606c36
+  phash: 8783a9872d7171b5
+  avg_rgb:
+  - 104
+  - 101
+  - 99
+  top5_rgb:
+  - - 46
+    - 39
+    - 28
+  - - 110
+    - 89
+    - 61
+  - - 84
+    - 69
+    - 48
+  - - 134
+    - 147
+    - 169
+  - - 66
+    - 54
+    - 38

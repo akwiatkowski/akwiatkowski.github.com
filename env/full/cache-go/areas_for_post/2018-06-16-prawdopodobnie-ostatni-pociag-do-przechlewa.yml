@@ -1,0 +1,84 @@
+---
+- type: train
+  total_distance_meters: 49458.15
+  total_distance_km: 49.458
+  points_count: 199
+  towns:
+    - slug: czluchow
+      name: Człuchów
+      code: "2203032"
+      distance_meters: 34188.09
+      distance_km: 34.188
+      distance_percent: 69.1253
+    - slug: przechlewo
+      name: Przechlewo
+      code: "2203062"
+      distance_meters: 15270.06
+      distance_km: 15.27
+      distance_percent: 30.8747
+    - slug: czluchow
+      name: Człuchów
+      code: "2203011"
+      distance_meters: 5963.42
+      distance_km: 5.963
+      distance_percent: 12.0575
+  counties:
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+      distance_meters: 49458.15
+      distance_km: 49.458
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 49458.15
+      distance_km: 49.458
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+      distance_meters: 37809.94
+      distance_km: 37.81
+      distance_percent: 76.4483
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+      distance_meters: 11648.21
+      distance_km: 11.648
+      distance_percent: 23.5517
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 49458.15
+      distance_km: 49.458
+      distance_percent: 100
+  touched_towns:
+    - slug: czluchow
+      name: Człuchów
+      code: "2203011"
+    - slug: przechlewo
+      name: Przechlewo
+      code: "2203062"
+  touched_counties:
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316

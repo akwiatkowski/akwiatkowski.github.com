@@ -1,0 +1,441 @@
+---
+- image_filename: IMGP4235raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.61990277777778
+  lon: 17.86201388888889
+  altitude: 142
+  focal_length: 36
+  focal_length_35: 54
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T13:34:18+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP4243raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.622625
+  lon: 17.866611111111112
+  altitude: 161
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T13:44:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP4251raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.62261111111111
+  lon: 17.866597222222225
+  altitude: 160
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T13:47:31+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4253raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.62265277777778
+  lon: 17.86663888888889
+  altitude: 160
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T13:49:07+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4256raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.622597222222225
+  lon: 17.866902777777778
+  altitude: 151
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T13:52:21+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4292raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.65430555555555
+  lon: 17.806486111111113
+  altitude: 116
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 4547
+  height: 3031
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T14:45:28+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: IMGP4301raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.67123611111111
+  lon: 17.843180555555556
+  altitude: 109
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:01:07+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4311raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.71618055555556
+  lon: 17.81972222222222
+  altitude: 106
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:09:01+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4317raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.70622222222222
+  lon: 17.826958333333334
+  altitude: 100
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:14:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4333raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.64118080955864
+  lon: 17.772814231019876
+  altitude: 113.57
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:24:23+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP4346raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.64102777777778
+  lon: 18.068541666666665
+  altitude: 80
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:47:04+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4358raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.638555555555556
+  lon: 18.07351388888889
+  altitude: 73
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T15:53:04+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4369raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.63722222222222
+  lon: 18.075847222222222
+  altitude: 71
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T16:01:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4382raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.63723611111111
+  lon: 18.07586111111111
+  altitude: 73
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T16:04:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4399raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.63675
+  lon: 18.07523611111111
+  altitude: 67
+  focal_length: 17
+  focal_length_35: 25
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T16:16:43+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP4402raw1.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.63755555555556
+  lon: 18.07438888888889
+  altitude: 65
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T16:18:12+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2017-04-16-paluckie-pagorki
+  lat: 52.687036804902675
+  lon: 17.86414291701593
+  altitude: 117.74
+  focal_length: 29
+  focal_length_35: 43
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2017-04-16T16:18:55+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3

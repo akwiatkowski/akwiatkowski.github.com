@@ -23,7 +23,7 @@
     distance_km: 6.545
     distance_percent: 22.0552
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 19361.55
@@ -62,7 +62,7 @@
     distance_meters: 21006.19
     distance_km: 21.006
     distance_percent: 70.7865
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 8669.21
@@ -100,7 +100,7 @@
     name: Kórnik
     code: "3021093"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   - slug: poznanski
@@ -118,7 +118,7 @@
     name: Równina Wrzesińska
     code: "315.56"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie

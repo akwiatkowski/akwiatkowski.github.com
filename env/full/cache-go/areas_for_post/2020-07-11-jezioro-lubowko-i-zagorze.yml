@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 16044.45
+  total_distance_km: 16.044
+  points_count: 138
+  towns:
+    - slug: drezdenko
+      name: Drezdenko
+      code: "0806023"
+      distance_meters: 16044.45
+      distance_km: 16.044
+      distance_percent: 100
+  counties:
+    - slug: strzelecko-drezdenecki
+      name: strzelecko-drezdenecki
+      code: "0806"
+      distance_meters: 16044.45
+      distance_km: 16.044
+      distance_percent: 100
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 16044.45
+      distance_km: 16.044
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_drawska
+      name: Równina Drawska
+      code: "314.63"
+      distance_meters: 6754.71
+      distance_km: 6.755
+      distance_percent: 42.1
+    - slug: pojezierze_dobiegniewskie
+      name: Pojezierze Dobiegniewskie
+      code: "314.62"
+      distance_meters: 5061.28
+      distance_km: 5.061
+      distance_percent: 31.5454
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 4228.46
+      distance_km: 4.228
+      distance_percent: 26.3547
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 11815.99
+      distance_km: 11.816
+      distance_percent: 73.6453
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 4228.46
+      distance_km: 4.228
+      distance_percent: 26.3547
+  touched_towns:
+    - slug: drezdenko
+      name: Drezdenko
+      code: "0806023"
+  touched_counties:
+    - slug: strzelecko-drezdenecki
+      name: strzelecko-drezdenecki
+      code: "0806"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+    - slug: pojezierze_dobiegniewskie
+      name: Pojezierze Dobiegniewskie
+      code: "314.62"
+    - slug: rownina_drawska
+      name: Równina Drawska
+      code: "314.63"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

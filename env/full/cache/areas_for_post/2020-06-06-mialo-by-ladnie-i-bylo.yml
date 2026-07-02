@@ -4,13 +4,13 @@
   total_distance_km: 71.751
   points_count: 350.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 31617.52
     distance_km: 31.618
     distance_percent: 44.0654
-  - slug: rybno
+  - slug: rybno-warminsko-mazurskie
     name: Rybno
     code: "2803062"
     distance_meters: 17531.84
@@ -28,7 +28,7 @@
     distance_meters: 9070.84
     distance_km: 9.071
     distance_percent: 12.642
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
     distance_meters: 2875.85
@@ -54,7 +54,7 @@
     distance_km: 2.876
     distance_percent: 4.0081
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 71751.31
@@ -80,7 +80,7 @@
     distance_km: 7.434
     distance_percent: 10.3608
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 64317.32
@@ -125,7 +125,7 @@
     distance_meters: 64317.32
     distance_km: 64.317
     distance_percent: 89.6392
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 7433.99
@@ -135,16 +135,16 @@
   - slug: lidzbark
     name: Lidzbark
     code: "2803043"
-  - slug: rybno
+  - slug: rybno-warminsko-mazurskie
     name: Rybno
     code: "2803062"
-  - slug: lubawa
+  - slug: lubawa-warminsko-mazurskie-wiejska
     name: Lubawa
     code: "2807052"
   - slug: dabrowno
     name: Dąbrówno
     code: "2815022"
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   touched_counties:
@@ -158,7 +158,7 @@
     name: ostródzki
     code: "2815"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -172,7 +172,7 @@
     name: Równina Olsztynka
     code: "842.88"
   touched_macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: pojezierze_mazurskie
@@ -196,7 +196,7 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
 - type: bicycle
@@ -204,7 +204,7 @@
   total_distance_km: 22.559
   points_count: 113.0
   towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
     distance_meters: 19183.57
@@ -224,7 +224,7 @@
     distance_km: 22.559
     distance_percent: 100.0
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 22558.85
@@ -250,7 +250,7 @@
     distance_meters: 21362.87
     distance_km: 21.363
     distance_percent: 94.6984
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 1195.98
@@ -283,7 +283,7 @@
     distance_km: 1.196
     distance_percent: 5.3016
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 21362.87
@@ -296,7 +296,7 @@
     distance_km: 1.196
     distance_percent: 5.3016
   touched_towns:
-  - slug: ostroda
+  - slug: ostroda-warminsko-mazurskie-wiejska
     name: Ostróda
     code: "2815092"
   - slug: grunwald
@@ -307,7 +307,7 @@
     name: ostródzki
     code: "2815"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -321,7 +321,7 @@
   - slug: pojezierze_mazurskie
     name: Pojezierze Mazurskie
     code: "842"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:
@@ -339,7 +339,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

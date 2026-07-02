@@ -19,6 +19,7 @@ coords_type:            "bicycle"
 distance:               16
 time_spent:             2
 elevation:              22
+terrain:                1.4 # m/km przewyższeń — płaski
 temperature:            14
 
 

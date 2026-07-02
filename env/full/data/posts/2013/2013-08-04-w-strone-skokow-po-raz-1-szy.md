@@ -5,6 +5,7 @@ subtitle:               "odkrywanie trasy, na początku deszczowo, później ju�
 desc:                   "Chciałem tym razem pojechać gdzieś dalej od Poznania. Wybraliśmy trasę przez Biedrusko do Skoków."
 keywords:               [lato, biedrusko, skoki, bolechowo, mściszewo]
 date:                   2013-08-04 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 image_filename:         IMGP7287b.jpg
 categories:             trip

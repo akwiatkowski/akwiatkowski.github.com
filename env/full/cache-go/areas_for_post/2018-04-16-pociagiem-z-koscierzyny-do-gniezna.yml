@@ -1,0 +1,489 @@
+---
+- type: train
+  total_distance_meters: 277450.58
+  total_distance_km: 277.451
+  points_count: 216
+  towns:
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+      distance_meters: 30379.56
+      distance_km: 30.38
+      distance_percent: 10.9495
+    - slug: brusy
+      name: Brusy
+      code: "2202023"
+      distance_meters: 21096.5
+      distance_km: 21.096
+      distance_percent: 7.6037
+    - slug: kcynia
+      name: Kcynia
+      code: "0410013"
+      distance_meters: 16149.8
+      distance_km: 16.15
+      distance_percent: 5.8208
+    - slug: wiecbork
+      name: Więcbork
+      code: "0413043"
+      distance_meters: 15954.04
+      distance_km: 15.954
+      distance_percent: 5.7502
+    - slug: mrocza
+      name: Mrocza
+      code: "0410023"
+      distance_meters: 15448.83
+      distance_km: 15.449
+      distance_percent: 5.5681
+    - slug: naklo_nad_notecia
+      name: Nakło nad Notecią
+      code: "0410033"
+      distance_meters: 15029.96
+      distance_km: 15.03
+      distance_percent: 5.4172
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 14673.15
+      distance_km: 14.673
+      distance_percent: 5.2886
+    - slug: sepolno_krajenskie
+      name: Sępólno Krajeńskie
+      code: "0413023"
+      distance_meters: 12611.63
+      distance_km: 12.612
+      distance_percent: 4.5455
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206042"
+      distance_meters: 12030.7
+      distance_km: 12.031
+      distance_percent: 4.3362
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+      distance_meters: 11978.75
+      distance_km: 11.979
+      distance_percent: 4.3174
+    - slug: dziemiany
+      name: Dziemiany
+      code: "2206022"
+      distance_meters: 11662.78
+      distance_km: 11.663
+      distance_percent: 4.2036
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+      distance_meters: 11569.87
+      distance_km: 11.57
+      distance_percent: 4.1701
+    - slug: kamien_krajenski
+      name: Kamień Krajeński
+      code: "0413013"
+      distance_meters: 10816.96
+      distance_km: 10.817
+      distance_percent: 3.8987
+    - slug: damaslawek
+      name: Damasławek
+      code: "3028022"
+      distance_meters: 10259.08
+      distance_km: 10.259
+      distance_percent: 3.6976
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 9617.96
+      distance_km: 9.618
+      distance_percent: 3.4665
+    - slug: lipusz
+      name: Lipusz
+      code: "2206062"
+      distance_meters: 9334.37
+      distance_km: 9.334
+      distance_percent: 3.3643
+    - slug: gniezno
+      name: Gniezno
+      code: "3003032"
+      distance_meters: 9097.03
+      distance_km: 9.097
+      distance_percent: 3.2788
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+      distance_meters: 8515.45
+      distance_km: 8.515
+      distance_percent: 3.0692
+    - slug: swarzedz
+      name: Swarzędz
+      code: "3021163"
+      distance_meters: 8159.49
+      distance_km: 8.159
+      distance_percent: 2.9409
+    - slug: mieleszyn
+      name: Mieleszyn
+      code: "3003072"
+      distance_meters: 7888.47
+      distance_km: 7.888
+      distance_percent: 2.8432
+    - slug: wapno
+      name: Wapno
+      code: "3028062"
+      distance_meters: 7853.83
+      distance_km: 7.854
+      distance_percent: 2.8307
+    - slug: chojnice
+      name: Chojnice
+      code: "2202011"
+      distance_meters: 4248.21
+      distance_km: 4.248
+      distance_percent: 1.5312
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206011"
+      distance_meters: 3650.36
+      distance_km: 3.65
+      distance_percent: 1.3157
+    - slug: czluchow
+      name: Człuchów
+      code: "2203032"
+      distance_meters: 3074.19
+      distance_km: 3.074
+      distance_percent: 1.108
+  counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+      distance_meters: 55724.26
+      distance_km: 55.724
+      distance_percent: 20.0844
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+      distance_meters: 46628.59
+      distance_km: 46.629
+      distance_percent: 16.8061
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+      distance_meters: 39382.63
+      distance_km: 39.383
+      distance_percent: 14.1945
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 37479.69
+      distance_km: 37.48
+      distance_percent: 13.5086
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+      distance_meters: 33027.84
+      distance_km: 33.028
+      distance_percent: 11.904
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 32450.6
+      distance_km: 32.451
+      distance_percent: 11.696
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+      distance_meters: 18112.91
+      distance_km: 18.113
+      distance_percent: 6.5283
+    - slug: zninski
+      name: żniński
+      code: "0419"
+      distance_meters: 11569.87
+      distance_km: 11.57
+      distance_percent: 4.1701
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 9617.96
+      distance_km: 9.618
+      distance_percent: 3.4665
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+      distance_meters: 3074.19
+      distance_km: 3.074
+      distance_percent: 1.108
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 97581.09
+      distance_km: 97.581
+      distance_percent: 35.1706
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 91826.29
+      distance_km: 91.826
+      distance_percent: 33.0964
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 88043.2
+      distance_km: 88.043
+      distance_percent: 31.7329
+  meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+      distance_meters: 50166.96
+      distance_km: 50.167
+      distance_percent: 18.0814
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+      distance_meters: 44100.51
+      distance_km: 44.101
+      distance_percent: 15.8949
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 39984.64
+      distance_km: 39.985
+      distance_percent: 14.4114
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 37938.33
+      distance_km: 37.938
+      distance_percent: 13.6739
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 34327.49
+      distance_km: 34.327
+      distance_percent: 12.3725
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 32584.01
+      distance_km: 32.584
+      distance_percent: 11.7441
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+      distance_meters: 12139.32
+      distance_km: 12.139
+      distance_percent: 4.3753
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+      distance_meters: 9459.23
+      distance_km: 9.459
+      distance_percent: 3.4093
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 5616.67
+      distance_km: 5.617
+      distance_percent: 2.0244
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 3741.72
+      distance_km: 3.742
+      distance_percent: 1.3486
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+      distance_meters: 2976.73
+      distance_km: 2.977
+      distance_percent: 1.0729
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 2689.45
+      distance_km: 2.689
+      distance_percent: 0.9693
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 1725.51
+      distance_km: 1.726
+      distance_percent: 0.6219
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 146391.44
+      distance_km: 146.391
+      distance_percent: 52.7631
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 113006.51
+      distance_km: 113.007
+      distance_percent: 40.7303
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 12435.96
+      distance_km: 12.436
+      distance_percent: 4.4822
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 5616.67
+      distance_km: 5.617
+      distance_percent: 2.0244
+  touched_towns:
+    - slug: brusy
+      name: Brusy
+      code: "2202023"
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+    - slug: czluchow
+      name: Człuchów
+      code: "2203032"
+    - slug: damaslawek
+      name: Damasławek
+      code: "3028022"
+    - slug: dziemiany
+      name: Dziemiany
+      code: "2206022"
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+    - slug: kamien_krajenski
+      name: Kamień Krajeński
+      code: "0413013"
+    - slug: kcynia
+      name: Kcynia
+      code: "0410013"
+    - slug: koscierzyna
+      name: Kościerzyna
+      code: "2206011"
+    - slug: lipusz
+      name: Lipusz
+      code: "2206062"
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+    - slug: mieleszyn
+      name: Mieleszyn
+      code: "3003072"
+    - slug: mrocza
+      name: Mrocza
+      code: "0410023"
+    - slug: naklo_nad_notecia
+      name: Nakło nad Notecią
+      code: "0410033"
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: sepolno_krajenskie
+      name: Sępólno Krajeńskie
+      code: "0413023"
+    - slug: swarzedz
+      name: Swarzędz
+      code: "3021163"
+    - slug: wapno
+      name: Wapno
+      code: "3028062"
+    - slug: wiecbork
+      name: Więcbork
+      code: "0413043"
+  touched_counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: koscierski
+      name: kościerski
+      code: "2206"
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+    - slug: zninski
+      name: żniński
+      code: "0419"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+    - slug: rownina_charzykowska
+      name: Równina Charzykowska
+      code: "314.67"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

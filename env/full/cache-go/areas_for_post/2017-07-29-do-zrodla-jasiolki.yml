@@ -1,0 +1,78 @@
+---
+- type: bicycle
+  total_distance_meters: 40913.74
+  total_distance_km: 40.914
+  points_count: 299
+  towns:
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+      distance_meters: 32618.33
+      distance_km: 32.618
+      distance_percent: 79.7246
+    - slug: komancza
+      name: Komańcza
+      code: "1817042"
+      distance_meters: 8295.42
+      distance_km: 8.295
+      distance_percent: 20.2754
+  counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+      distance_meters: 32618.33
+      distance_km: 32.618
+      distance_percent: 79.7246
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+      distance_meters: 8295.42
+      distance_km: 8.295
+      distance_percent: 20.2754
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 40913.74
+      distance_km: 40.914
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 40913.74
+      distance_km: 40.914
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 40913.74
+      distance_km: 40.914
+      distance_percent: 100
+  touched_towns:
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+    - slug: komancza
+      name: Komańcza
+      code: "1817042"
+  touched_counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

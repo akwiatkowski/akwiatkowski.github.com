@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP1744raw1.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  ahash: 01000000009f9fff
+  dhash: 97ce4231353b3327
+  phash: be61a43863bce31c
+  avg_rgb:
+  - 127
+  - 116
+  - 74
+  top5_rgb:
+  - - 129
+    - 128
+    - 74
+  - - 174
+    - 155
+    - 56
+  - - 121
+    - 108
+    - 87
+  - - 96
+    - 92
+    - 80
+  - - 71
+    - 71
+    - 63
+- image_filename: IMGP1764raw1.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  ahash: ffffff1f0e000000
+  dhash: 3e3efcf9fcf8d8cb
+  phash: 93bd6d382a414fd2
+  avg_rgb:
+  - 99
+  - 104
+  - 88
+  top5_rgb:
+  - - 159
+    - 169
+    - 168
+  - - 146
+    - 108
+    - 57
+  - - 83
+    - 90
+    - 40
+  - - 173
+    - 172
+    - 162
+  - - 100
+    - 99
+    - 46
+- image_filename: header.jpg
+  post_slug: 2017-10-19-chwila-w-witkowie
+  ahash: ff0fd80000003f7f
+  dhash: df1f32aa447767c2
+  phash: 87f0a326f087788f
+  avg_rgb:
+  - 120
+  - 105
+  - 59
+  top5_rgb:
+  - - 164
+    - 130
+    - 20
+  - - 130
+    - 108
+    - 74
+  - - 98
+    - 94
+    - 44
+  - - 106
+    - 98
+    - 50
+  - - 132
+    - 117
+    - 85

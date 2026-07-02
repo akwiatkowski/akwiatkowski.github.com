@@ -1,0 +1,105 @@
+---
+- image_filename: IMGP9175raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.71203597086901
+  lon: 16.30950408997955
+  altitude: 51.57
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-04T13:09:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9180raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.68951916139416
+  lon: 16.26478278080992
+  altitude: 58.3
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-04T13:37:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9188raw1.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.657875548927
+  lon: 16.225925367297915
+  altitude: 67.43
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-04T14:09:51+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-04-04-na-wschod-od-sierakowskiego-parku-krajobrazowego
+  lat: 52.70986346530008
+  lon: 16.2603777554364
+  altitude: 49.65
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-04T13:20:12+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

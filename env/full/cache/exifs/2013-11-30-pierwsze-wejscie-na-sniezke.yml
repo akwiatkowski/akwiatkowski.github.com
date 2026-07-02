@@ -31,6 +31,9 @@
   time: 2013-11-30 12:12:19.000000000+01:00
 - image_filename: IMGP1202raw2.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.736272222222226
+  lon: 15.73961111111111
+  altitude: 1599.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -43,6 +46,9 @@
   time: 2013-11-30 12:15:47.000000000+01:00
 - image_filename: IMGP1206raw2.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.736272222222226
+  lon: 15.739613888888888
+  altitude: 1599.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -70,6 +76,9 @@
   time: 2013-11-30 12:27:56.000000000+01:00
 - image_filename: IMGP1231raw2-1.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.7367
+  lon: 15.708638888888888
+  altitude: 1416.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -82,6 +91,9 @@
   time: 2013-11-30 13:29:03.000000000+01:00
 - image_filename: IMGP1238raw3.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.73650277777778
+  lon: 15.706805555555555
+  altitude: 1420.3
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -94,6 +106,9 @@
   time: 2013-11-30 13:31:26.000000000+01:00
 - image_filename: IMGP1240raw6.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.73648888888889
+  lon: 15.7067
+  altitude: 1420.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -106,6 +121,9 @@
   time: 2013-11-30 13:31:33.000000000+01:00
 - image_filename: IMGP1246raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.7363
+  lon: 15.705019444444444
+  altitude: 1419.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -118,6 +136,9 @@
   time: 2013-11-30 13:33:18.000000000+01:00
 - image_filename: IMGP1249raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.73623333333333
+  lon: 15.70461111111111
+  altitude: 1421.9
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -130,6 +151,9 @@
   time: 2013-11-30 13:34:35.000000000+01:00
 - image_filename: IMGP1254raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.736241666666665
+  lon: 15.704608333333333
+  altitude: 1422.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -142,6 +166,9 @@
   time: 2013-11-30 13:35:04.000000000+01:00
 - image_filename: IMGP1259raw6.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.73623611111111
+  lon: 15.704613888888888
+  altitude: 1422.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -154,6 +181,9 @@
   time: 2013-11-30 13:35:46.000000000+01:00
 - image_filename: IMGP1269raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.735911111111115
+  lon: 15.702855555555555
+  altitude: 1417.5
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -166,6 +196,9 @@
   time: 2013-11-30 13:39:15.000000000+01:00
 - image_filename: IMGP1275raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.735508333333335
+  lon: 15.701324999999999
+  altitude: 1414.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -178,6 +211,9 @@
   time: 2013-11-30 13:41:13.000000000+01:00
 - image_filename: IMGP1281raw5.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.734975
+  lon: 15.698083333333333
+  altitude: 1402.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -265,6 +301,9 @@
   time: 2013-11-30 14:28:53.000000000+01:00
 - image_filename: header.jpg
   post_slug: 2013-11-30-pierwsze-wejscie-na-sniezke
+  lat: 50.736241666666665
+  lon: 15.704608333333333
+  altitude: 1422.4
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

@@ -34,13 +34,13 @@
     distance_meters: 10725.29
     distance_km: 10.725
     distance_percent: 14.4066
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 3805.89
     distance_km: 3.806
     distance_percent: 5.1122
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 3733.93
@@ -59,7 +59,7 @@
     distance_meters: 22111.24
     distance_km: 22.111
     distance_percent: 29.7006
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 14031.81
@@ -114,9 +114,12 @@
     distance_km: 74.447
     distance_percent: 100.0
   touched_towns:
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
+  - slug: gniezno-wielkopolskie-wiejska
+    name: Gniezno
+    code: "3003032"
   - slug: niechanowo
     name: Niechanowo
     code: "3003082"
@@ -139,7 +142,7 @@
   - slug: wrzesinski
     name: wrzesiński
     code: "3030"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:

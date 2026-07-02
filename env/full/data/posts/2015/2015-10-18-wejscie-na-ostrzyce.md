@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wejście na Ostrzycę"
 subtitle:               "a wcześniej wejście na Wielisławkę"
 date:                   2015-10-18 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

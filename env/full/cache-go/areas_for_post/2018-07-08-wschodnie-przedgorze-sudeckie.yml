@@ -1,0 +1,141 @@
+---
+- type: bicycle
+  total_distance_meters: 68760.8
+  total_distance_km: 68.761
+  points_count: 472
+  towns:
+    - slug: otmuchow
+      name: Otmuchów
+      code: "1607063"
+      distance_meters: 25808.37
+      distance_km: 25.808
+      distance_percent: 37.5336
+    - slug: ziebice
+      name: Ziębice
+      code: "0224063"
+      distance_meters: 16717.48
+      distance_km: 16.717
+      distance_percent: 24.3125
+    - slug: zabkowice_slaskie
+      name: Ząbkowice Śląskie
+      code: "0224053"
+      distance_meters: 10518.66
+      distance_km: 10.519
+      distance_percent: 15.2975
+    - slug: nysa
+      name: Nysa
+      code: "1607053"
+      distance_meters: 9177.77
+      distance_km: 9.178
+      distance_percent: 13.3474
+    - slug: kamiennik
+      name: Kamiennik
+      code: "1607022"
+      distance_meters: 6538.52
+      distance_km: 6.539
+      distance_percent: 9.5091
+  counties:
+    - slug: nyski
+      name: nyski
+      code: "1607"
+      distance_meters: 41524.66
+      distance_km: 41.525
+      distance_percent: 60.39
+    - slug: zabkowicki
+      name: ząbkowicki
+      code: "0224"
+      distance_meters: 27236.14
+      distance_km: 27.236
+      distance_percent: 39.61
+  voivodeships:
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+      distance_meters: 41524.66
+      distance_km: 41.525
+      distance_percent: 60.39
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 27236.14
+      distance_km: 27.236
+      distance_percent: 39.61
+  meso_regions:
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+      distance_meters: 40086.57
+      distance_km: 40.087
+      distance_percent: 58.2986
+    - slug: obnizenie_otmuchowskie
+      name: Obniżenie Otmuchowskie
+      code: "332.16"
+      distance_meters: 25982.48
+      distance_km: 25.982
+      distance_percent: 37.7868
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+      distance_meters: 2691.75
+      distance_km: 2.692
+      distance_percent: 3.9147
+  macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+      distance_meters: 66069.05
+      distance_km: 66.069
+      distance_percent: 96.0853
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+      distance_meters: 2691.75
+      distance_km: 2.692
+      distance_percent: 3.9147
+  touched_towns:
+    - slug: kamiennik
+      name: Kamiennik
+      code: "1607022"
+    - slug: nysa
+      name: Nysa
+      code: "1607053"
+    - slug: otmuchow
+      name: Otmuchów
+      code: "1607063"
+    - slug: zabkowice_slaskie
+      name: Ząbkowice Śląskie
+      code: "0224053"
+    - slug: ziebice
+      name: Ziębice
+      code: "0224063"
+  touched_counties:
+    - slug: nyski
+      name: nyski
+      code: "1607"
+    - slug: zabkowicki
+      name: ząbkowicki
+      code: "0224"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+    - slug: opolskie
+      name: opolskie
+      code: "16"
+  touched_meso_regions:
+    - slug: dolina_nysy_klodzkiej
+      name: Dolina Nysy Kłodzkiej
+      code: "318.54"
+    - slug: obnizenie_otmuchowskie
+      name: Obniżenie Otmuchowskie
+      code: "332.16"
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+  touched_macro_regions:
+    - slug: nizina_slaska
+      name: Nizina Śląska
+      code: "318"
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"

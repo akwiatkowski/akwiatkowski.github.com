@@ -1,0 +1,204 @@
+---
+- type: bicycle
+  total_distance_meters: 107107.57
+  total_distance_km: 107.108
+  points_count: 375
+  towns:
+    - slug: sicienko
+      name: Sicienko
+      code: "0403072"
+      distance_meters: 20572.78
+      distance_km: 20.573
+      distance_percent: 19.2076
+    - slug: mrocza
+      name: Mrocza
+      code: "0410023"
+      distance_meters: 20301.54
+      distance_km: 20.302
+      distance_percent: 18.9544
+    - slug: wyrzysk
+      name: Wyrzysk
+      code: "3019083"
+      distance_meters: 17301.21
+      distance_km: 17.301
+      distance_percent: 16.1531
+    - slug: kaczory
+      name: Kaczory
+      code: "3019032"
+      distance_meters: 11770.52
+      distance_km: 11.771
+      distance_percent: 10.9894
+    - slug: miasteczko_krajenskie
+      name: Miasteczko Krajeńskie
+      code: "3019052"
+      distance_meters: 11115.69
+      distance_km: 11.116
+      distance_percent: 10.3781
+    - slug: bialosliwie
+      name: Białośliwie
+      code: "3019022"
+      distance_meters: 10034.21
+      distance_km: 10.034
+      distance_percent: 9.3683
+    - slug: lobzenica
+      name: Łobżenica
+      code: "3019043"
+      distance_meters: 8862.2
+      distance_km: 8.862
+      distance_percent: 8.2741
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461011"
+      distance_meters: 7149.42
+      distance_km: 7.149
+      distance_percent: 6.675
+  counties:
+    - slug: pilski
+      name: pilski
+      code: "3019"
+      distance_meters: 59083.82
+      distance_km: 59.084
+      distance_percent: 55.1631
+    - slug: bydgoski
+      name: bydgoski
+      code: "0403"
+      distance_meters: 20572.78
+      distance_km: 20.573
+      distance_percent: 19.2076
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+      distance_meters: 20301.54
+      distance_km: 20.302
+      distance_percent: 18.9544
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461"
+      distance_meters: 7149.42
+      distance_km: 7.149
+      distance_percent: 6.675
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 59083.82
+      distance_km: 59.084
+      distance_percent: 55.1631
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 48023.75
+      distance_km: 48.024
+      distance_percent: 44.8369
+  meso_regions:
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+      distance_meters: 77350.42
+      distance_km: 77.35
+      distance_percent: 72.2175
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+      distance_meters: 12754.47
+      distance_km: 12.754
+      distance_percent: 11.9081
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+      distance_meters: 8372.28
+      distance_km: 8.372
+      distance_percent: 7.8167
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+      distance_meters: 5982.43
+      distance_km: 5.982
+      distance_percent: 5.5854
+    - slug: dolina_brdy
+      name: Dolina Brdy
+      code: "314.72"
+      distance_meters: 2647.97
+      distance_km: 2.648
+      distance_percent: 2.4722
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 85980.82
+      distance_km: 85.981
+      distance_percent: 80.2752
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 21126.75
+      distance_km: 21.127
+      distance_percent: 19.7248
+  touched_towns:
+    - slug: bialosliwie
+      name: Białośliwie
+      code: "3019022"
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461011"
+    - slug: kaczory
+      name: Kaczory
+      code: "3019032"
+    - slug: lobzenica
+      name: Łobżenica
+      code: "3019043"
+    - slug: miasteczko_krajenskie
+      name: Miasteczko Krajeńskie
+      code: "3019052"
+    - slug: mrocza
+      name: Mrocza
+      code: "0410023"
+    - slug: sicienko
+      name: Sicienko
+      code: "0403072"
+    - slug: wyrzysk
+      name: Wyrzysk
+      code: "3019083"
+  touched_counties:
+    - slug: bydgoski
+      name: bydgoski
+      code: "0403"
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461"
+    - slug: nakielski
+      name: nakielski
+      code: "0410"
+    - slug: pilski
+      name: pilski
+      code: "3019"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_brdy
+      name: Dolina Brdy
+      code: "314.72"
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+    - slug: dolina_srodkowej_noteci
+      name: Dolina Środkowej Noteci
+      code: "315.34"
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

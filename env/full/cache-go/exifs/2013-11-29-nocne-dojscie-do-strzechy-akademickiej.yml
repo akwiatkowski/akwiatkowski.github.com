@@ -1,0 +1,26 @@
+---
+- image_filename: header.jpg
+  post_slug: 2013-11-29-nocne-dojscie-do-strzechy-akademickiej
+  lat: 50.74760964138742
+  lon: 15.708042019984871
+  altitude: 1341.18
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-11-30T10:10:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3

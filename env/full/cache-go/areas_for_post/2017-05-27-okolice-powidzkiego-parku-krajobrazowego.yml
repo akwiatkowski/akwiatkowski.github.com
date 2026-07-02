@@ -1,0 +1,174 @@
+---
+- type: bicycle
+  total_distance_meters: 86093.61
+  total_distance_km: 86.094
+  points_count: 301
+  towns:
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 21089.59
+      distance_km: 21.09
+      distance_percent: 24.4961
+    - slug: ostrowite
+      name: Ostrowite
+      code: "3023042"
+      distance_meters: 18103.92
+      distance_km: 18.104
+      distance_percent: 21.0282
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 17726.53
+      distance_km: 17.727
+      distance_percent: 20.5898
+    - slug: slupca
+      name: Słupca
+      code: "3023062"
+      distance_meters: 8946.46
+      distance_km: 8.946
+      distance_percent: 10.3915
+    - slug: wilczyn
+      name: Wilczyn
+      code: "3010142"
+      distance_meters: 8837.41
+      distance_km: 8.837
+      distance_percent: 10.2649
+    - slug: kleczew
+      name: Kleczew
+      code: "3010043"
+      distance_meters: 5002.38
+      distance_km: 5.002
+      distance_percent: 5.8104
+    - slug: slupca
+      name: Słupca
+      code: "3023011"
+      distance_meters: 3315.05
+      distance_km: 3.315
+      distance_percent: 3.8505
+    - slug: jeziora_wielkie
+      name: Jeziora Wielkie
+      code: "0409022"
+      distance_meters: 3008.5
+      distance_km: 3.009
+      distance_percent: 3.4945
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+      distance_meters: 63.77
+      distance_km: 0.064
+      distance_percent: 0.0741
+  counties:
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 41824.63
+      distance_km: 41.825
+      distance_percent: 48.5804
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+      distance_meters: 30365.43
+      distance_km: 30.365
+      distance_percent: 35.2702
+    - slug: koninski
+      name: koniński
+      code: "3010"
+      distance_meters: 13839.79
+      distance_km: 13.84
+      distance_percent: 16.0753
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 63.77
+      distance_km: 0.064
+      distance_percent: 0.0741
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 44268.98
+      distance_km: 44.269
+      distance_percent: 51.4196
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 41824.63
+      distance_km: 41.825
+      distance_percent: 48.5804
+  meso_regions:
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 62285.18
+      distance_km: 62.285
+      distance_percent: 72.3459
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 23808.42
+      distance_km: 23.808
+      distance_percent: 27.6541
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 86093.61
+      distance_km: 86.094
+      distance_percent: 100
+  touched_towns:
+    - slug: jeziora_wielkie
+      name: Jeziora Wielkie
+      code: "0409022"
+    - slug: kleczew
+      name: Kleczew
+      code: "3010043"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: ostrowite
+      name: Ostrowite
+      code: "3023042"
+    - slug: slupca
+      name: Słupca
+      code: "3023011"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+    - slug: trzemeszno
+      name: Trzemeszno
+      code: "3003093"
+    - slug: wilczyn
+      name: Wilczyn
+      code: "3010142"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: koninski
+      name: koniński
+      code: "3010"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

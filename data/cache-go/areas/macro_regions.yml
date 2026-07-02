@@ -1,0 +1,472 @@
+- slug: plaskowyz_sansko-dniestrzanski
+  name: Płaskowyż Sańsko-Dniestrzański
+  code: "521"
+  bbox:
+    south: 49.630437994991155
+    north: 49.812373704578654
+    west: 22.718913709344378
+    east: 22.961918963465966
+- slug: beskidy_lesiste
+  name: Beskidy Lesiste
+  code: "522"
+  bbox:
+    south: 49.00204651923677
+    north: 49.645637284332174
+    west: 22.0302280660117
+    east: 22.89408626722132
+- slug: beskidy_srodkowe
+  name: Beskidy Środkowe
+  code: "513"
+  bbox:
+    south: 49.22976009106316
+    north: 49.69307440769726
+    west: 20.68672380867092
+    east: 22.150726191325802
+- slug: pogorze_srodkowobeskidzkie
+  name: Pogórze Środkowobeskidzkie
+  code: "513"
+  bbox:
+    south: 49.40314866968415
+    north: 50.07607862231627
+    west: 20.487588116480705
+    east: 22.818050678465173
+- slug: kotlina_sandomierska
+  name: Kotlina Sandomierska
+  code: "512"
+  bbox:
+    south: 49.74799567707628
+    north: 50.82683180624041
+    west: 19.809109310558938
+    east: 23.399675110546443
+- slug: lancuch_tatrzanski
+  name: Łańcuch Tatrzański
+  code: 514-15
+  bbox:
+    south: 49.178477777510636
+    north: 49.28578254084921
+    west: 19.75841011736984
+    east: 20.122929488834465
+- slug: obnizenie_orawsko-podhalanskie
+  name: Obniżenie Orawsko-Podhalańskie
+  code: 514-15
+  bbox:
+    south: 49.26975403313054
+    north: 49.50380530337664
+    west: 19.597422405976882
+    east: 20.601721673053916
+- slug: beskidy_zachodnie
+  name: Beskidy Zachodnie
+  code: "513"
+  bbox:
+    south: 49.29596816875825
+    north: 49.857251760628735
+    west: 18.714405061101107
+    east: 21.102922140864482
+- slug: pogorze_zachodniobeskidzkie
+  name: Pogórze Zachodniobeskidzkie
+  code: "513"
+  bbox:
+    south: 49.69529453157362
+    north: 50.00173487083751
+    west: 18.597066098643165
+    east: 20.83807047673746
+- slug: kotlina_oswiecimska
+  name: Kotlina Oświęcimska
+  code: "512"
+  bbox:
+    south: 49.817717058459884
+    north: 50.17242764482699
+    west: 18.701602943630615
+    east: 19.540000391287325
+- slug: kotlina_ostrawska
+  name: Kotlina Ostrawska
+  code: "512"
+  bbox:
+    south: 49.78726588887419
+    north: 49.904461725049785
+    west: 18.565670275792577
+    east: 18.736675547130428
+- slug: wyzyna_slaska
+  name: Wyżyna Śląska
+  code: "341"
+  bbox:
+    south: 49.88214096109093
+    north: 50.575324727486354
+    west: 18.00768772793852
+    east: 19.501998589105675
+- slug: brama_krakowska
+  name: Brama Krakowska
+  code: "512"
+  bbox:
+    south: 49.951371262637
+    north: 50.12611648704117
+    west: 19.50831593596502
+    east: 19.988024574645113
+- slug: wyzyna_krakowsko-czestochowska
+  name: Wyżyna Krakowsko-Częstochowska
+  code: "341"
+  bbox:
+    south: 49.998409446865985
+    north: 50.84576002056069
+    west: 19.13137295115116
+    east: 20.009464493263028
+- slug: nizina_slaska
+  name: Nizina Śląska
+  code: "318"
+  bbox:
+    south: 49.91567512636446
+    north: 51.395892167875694
+    west: 16.2211640888337
+    east: 18.72372203405383
+- slug: przedgorze_sudeckie
+  name: Przedgórze Sudeckie
+  code: "332"
+  bbox:
+    south: 50.265962788369436
+    north: 51.09817539853527
+    west: 16.16150724512799
+    east: 17.654203166702334
+- slug: nizina_slasko-luzycka
+  name: Nizina Śląsko-Łużycka
+  code: "317"
+  bbox:
+    south: 50.97709712447248
+    north: 51.63020076839362
+    west: 14.760635744272625
+    east: 16.466723434033145
+- slug: wzniesienia_luzyckie
+  name: Wzniesienia Łużyckie
+  code: "317"
+  bbox:
+    south: 51.52178294733357
+    north: 51.711716169300445
+    west: 14.715964858770716
+    east: 14.910418808553525
+- slug: wal_trzebnicki
+  name: Wał Trzebnicki
+  code: "318"
+  bbox:
+    south: 51.233195013148894
+    north: 51.811008273727076
+    west: 14.827501449762954
+    east: 18.03537772846817
+- slug: pobrzeze_gdanskie
+  name: Pobrzeże Gdańskie
+  code: "313"
+  bbox:
+    south: 53.93300116385135
+    north: 54.465470537966176
+    west: 18.558806572548857
+    east: 20.129530016284292
+- slug: nizina_srodkowomazowiecka
+  name: Nizina Środkowomazowiecka
+  code: "318"
+  bbox:
+    south: 51.34691536820485
+    north: 52.70403070514322
+    west: 19.152301847108127
+    east: 22.143371255642226
+- slug: wyzyna_przedborska
+  name: Wyżyna Przedborska
+  code: "342"
+  bbox:
+    south: 50.47057530475174
+    north: 51.52765704184127
+    west: 19.017072498295946
+    east: 20.500276497644567
+- slug: wyzyna_woznicko-wielunska
+  name: Wyżyna Woźnicko-Wieluńska
+  code: "341"
+  bbox:
+    south: 50.249371804088725
+    north: 51.2226280273254
+    west: 18.255451409811744
+    east: 19.559143567849457
+- slug: pojezierze_wschodniopomorskie
+  name: Pojezierze Wschodniopomorskie
+  code: 314-316
+  bbox:
+    south: 53.631584491045615
+    north: 54.64942315138626
+    west: 17.540202576328355
+    east: 18.849313312780556
+- slug: pojezierze_chelminsko-dobrzynskie
+  name: Pojezierze Chełmińsko-Dobrzyńskie
+  code: 314-316
+  bbox:
+    south: 52.525455843589505
+    north: 53.742833678617465
+    west: 18.210612384243916
+    east: 20.458679909988504
+- slug: pojezierze_wielkopolskie
+  name: Pojezierze Wielkopolskie
+  code: 314-316
+  bbox:
+    south: 52.05224041187361
+    north: 53.10732038301944
+    west: 15.415311474181154
+    east: 19.45035291482216
+- slug: pojezierze_lubuskie_brandenbursko-lubuskie
+  name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+  code: 314-316
+  bbox:
+    south: 52.032362487979626
+    north: 52.62513592102334
+    west: 14.534207056501574
+    east: 15.930631938592933
+- slug: wzniesienia_zielonogorskie
+  name: Wzniesienia Zielonogórskie
+  code: 314-316
+  bbox:
+    south: 51.73775962542224
+    north: 52.04042687548537
+    west: 14.61924147034892
+    east: 15.773646526541786
+- slug: pradolina_warciansko-odrzanska
+  name: Pradolina Warciańsko-Odrzańska
+  code: 314-316
+  bbox:
+    south: 51.82761917173192
+    north: 52.31460790212414
+    west: 14.57414003619459
+    east: 17.73250520242379
+- slug: nizina_poludniowowielkopolska
+  name: Nizina Południowowielkopolska
+  code: "318"
+  bbox:
+    south: 51.04697057893972
+    north: 52.39764501821523
+    west: 16.153165350898693
+    east: 19.50433561246141
+- slug: wzniesienia_poludniowomazowieckie
+  name: Wzniesienia Południowomazowieckie
+  code: "318"
+  bbox:
+    south: 51.06267757223755
+    north: 52.09702686238691
+    west: 18.844503936158368
+    east: 21.977296463249363
+- slug: pradolina_torunsko-eberswaldzka
+  name: Pradolina Toruńsko-Eberswaldzka
+  code: 314-316
+  bbox:
+    south: 52.40472325404048
+    north: 53.173801505239894
+    west: 14.122885022936305
+    east: 19.812248425570584
+- slug: obnizenie_dolnoluzyckie
+  name: Obniżenie Dolnołużyckie
+  code: "317"
+  bbox:
+    south: 51.55580425837274
+    north: 51.86555229818099
+    west: 14.589615033158953
+    east: 15.046158760883623
+- slug: obnizenie_milicko-glogowskie
+  name: Obniżenie Milicko-Głogowskie
+  code: "318"
+  bbox:
+    south: 51.30218892580205
+    north: 51.907649772363825
+    west: 15.105460338590925
+    east: 18.130702552388488
+- slug: wyzyna_kielecka
+  name: Wyżyna Kielecka
+  code: "342"
+  bbox:
+    south: 50.54724468517863
+    north: 51.46779583487724
+    west: 20.21523060332241
+    east: 21.862531165992724
+- slug: niecka_nidzianska
+  name: Niecka Nidziańska
+  code: "342"
+  bbox:
+    south: 50.084909378227756
+    north: 50.88031267868643
+    west: 19.74890747902452
+    east: 21.597858737548187
+- slug: pojezierze_leszczynskie
+  name: Pojezierze Leszczyńskie
+  code: 314-316
+  bbox:
+    south: 51.74209419780734
+    north: 52.195126283176194
+    west: 15.781896427032873
+    east: 17.62519712782618
+- slug: nizina_polnocnopodlaska
+  name: Nizina Północnopodlaska
+  code: "843"
+  bbox:
+    south: 52.283604112543564
+    north: 53.858900185558426
+    west: 21.796396313222004
+    east: 23.946270057714646
+- slug: pojezierze_litewskie
+  name: Pojezierze Litewskie
+  code: "842"
+  bbox:
+    south: 53.72668481343594
+    north: 54.4104028568418
+    west: 22.26594071997474
+    east: 23.55203496059634
+- slug: pojezierze_mazurskie
+  name: Pojezierze Mazurskie
+  code: "842"
+  bbox:
+    south: 53.31180381519389
+    north: 54.343771533360375
+    west: 19.81849397375136
+    east: 22.99673574243576
+- slug: nizina_poludniowopodlaska
+  name: Nizina Południowopodlaska
+  code: "318"
+  bbox:
+    south: 51.301114024900855
+    north: 52.703391068952655
+    west: 21.445198973331255
+    east: 23.522730613722832
+- slug: pojezierze_poludniowopomorskie
+  name: Pojezierze Południowopomorskie
+  code: 314-316
+  bbox:
+    south: 52.60206576672578
+    north: 54.251873810358305
+    west: 14.20345139318276
+    east: 18.714645514500894
+- slug: dolina_dolnej_wisly
+  name: Dolina Dolnej Wisły
+  code: 314-316
+  bbox:
+    south: 53.15100835982594
+    north: 53.99277320623852
+    west: 18.145800212968087
+    east: 18.965395362312947
+- slug: pojezierze_ilawskie
+  name: Pojezierze Iławskie
+  code: 314-316
+  bbox:
+    south: 53.470597378007376
+    north: 54.0819815093876
+    west: 18.765555855595167
+    east: 20.151683809508096
+- slug: polesie_zachodnie
+  name: Polesie Zachodnie
+  code: "845"
+  bbox:
+    south: 50.950113935370425
+    north: 52.13864795807259
+    west: 22.674126318272393
+    east: 23.97068607864561
+- slug: wyzyna_lubelska
+  name: Wyżyna Lubelska
+  code: "343"
+  bbox:
+    south: 50.633704396372465
+    north: 51.44777448151784
+    west: 21.74267558077412
+    east: 23.897041825764834
+- slug: roztocze
+  name: Roztocze
+  code: "343"
+  bbox:
+    south: 50.16914413801483
+    north: 50.9806126245891
+    west: 22.31190318208307
+    east: 23.643592546270046
+- slug: polesie_wolynskie
+  name: Polesie Wołyńskie
+  code: "845"
+  bbox:
+    south: 50.89210338080971
+    north: 51.37266677386873
+    west: 22.91339668975139
+    east: 24.048478818052516
+- slug: wyzyna_wolynska
+  name: Wyżyna Wołyńska
+  code: "851"
+  bbox:
+    south: 50.42071709752132
+    north: 50.95336767322062
+    west: 23.38701465896217
+    east: 24.120082088237265
+- slug: nizina_staropruska
+  name: Nizina Staropruska
+  code: "841"
+  bbox:
+    south: 54.03590145270221
+    north: 54.42335265905157
+    west: 19.92874323285331
+    east: 21.67747857835017
+- slug: pojezierze_zachodniopomorskie
+  name: Pojezierze Zachodniopomorskie
+  code: 314-316
+  bbox:
+    south: 52.82458408703603
+    north: 54.44541251003829
+    west: 14.127860046186008
+    east: 17.784300688677032
+- slug: nizina_polnocnomazowiecka
+  name: Nizina Północnomazowiecka
+  code: "318"
+  bbox:
+    south: 52.38374729880679
+    north: 53.52518632568504
+    west: 19.63768374456441
+    east: 22.247481150957412
+- slug: kotlina_pobuza
+  name: Kotlina Pobuża
+  code: "851"
+  bbox:
+    south: 50.27354913346054
+    north: 50.4526829219816
+    west: 23.57611624526736
+    east: 24.000731085508434
+- slug: pobrzeze_szczecinskie
+  name: Pobrzeże Szczecińskie
+  code: "313"
+  bbox:
+    south: 52.8494241836593
+    north: 54.18729225075608
+    west: 14.12963050238599
+    east: 16.061631402179323
+- slug: pobrzeze_koszalinskie
+  name: Pobrzeże Koszalińskie
+  code: "313"
+  bbox:
+    south: 53.808264748027106
+    north: 54.8355209364515
+    west: 15.550708368626314
+    east: 18.339951268864876
+- slug: sudety_srodkowe
+  name: Sudety Środkowe
+  code: "332"
+  bbox:
+    south: 50.09633466817012
+    north: 50.88096918671385
+    west: 15.876652837474758
+    east: 16.817028574943116
+- slug: pogorze_zachodniosudeckie
+  name: Pogórze Zachodniosudeckie
+  code: "332"
+  bbox:
+    south: 50.75100859366703
+    north: 51.32057613472859
+    west: 14.817374047462577
+    east: 16.461031614919484
+- slug: sudety_zachodnie
+  name: Sudety Zachodnie
+  code: "332"
+  bbox:
+    south: 50.67106352292749
+    north: 51.02328401813449
+    west: 15.266918203947645
+    east: 16.072795642835082
+- slug: sudety_wschodnie
+  name: Sudety Wschodnie
+  code: "332"
+  bbox:
+    south: 50.133330759198884
+    north: 50.48478901465566
+    west: 16.64016010951214
+    east: 17.02831434297435

@@ -22,7 +22,7 @@
     distance_meters: 6852.68
     distance_km: 6.853
     distance_percent: 14.4068
-  - slug: luban
+  - slug: luban-dolnoslaskie-miejska
     name: Lubań
     code: "0210011"
     distance_meters: 5320.34
@@ -34,7 +34,7 @@
     distance_meters: 4862.55
     distance_km: 4.863
     distance_percent: 10.2228
-  - slug: luban
+  - slug: luban-dolnoslaskie-wiejska
     name: Lubań
     code: "0210042"
     distance_meters: 3330.28
@@ -52,7 +52,7 @@
     distance_meters: 3074.41
     distance_km: 3.074
     distance_percent: 6.4635
-  - slug: swieradowzdroj
+  - slug: swieradow-zdroj
     name: Świeradów-Zdrój
     code: "0210021"
     distance_meters: 2862.42
@@ -126,7 +126,7 @@
     distance_km: 47.566
     distance_percent: 100.0
   touched_towns:
-  - slug: swieradowzdroj
+  - slug: swieradow-zdroj
     name: Świeradów-Zdrój
     code: "0210021"
   - slug: mirsk
@@ -141,9 +141,12 @@
   - slug: lesna
     name: Leśna
     code: "0210033"
-  - slug: luban
+  - slug: luban-dolnoslaskie-wiejska
     name: Lubań
     code: "0210042"
+  - slug: luban-dolnoslaskie-miejska
+    name: Lubań
+    code: "0210011"
   - slug: platerowka
     name: Platerówka
     code: "0210062"

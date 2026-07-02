@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 6013.97
+  total_distance_km: 6.014
+  points_count: 136
+  towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 6013.97
+      distance_km: 6.014
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 6013.97
+      distance_km: 6.014
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 6013.97
+      distance_km: 6.014
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+      distance_meters: 6013.97
+      distance_km: 6.014
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 6013.97
+      distance_km: 6.014
+      distance_percent: 100
+  touched_towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

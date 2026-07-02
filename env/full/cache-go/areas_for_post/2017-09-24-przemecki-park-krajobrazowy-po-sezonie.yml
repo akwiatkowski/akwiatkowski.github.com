@@ -1,0 +1,87 @@
+---
+- type: hike
+  total_distance_meters: 15987.71
+  total_distance_km: 15.988
+  points_count: 213
+  towns:
+    - slug: wloszakowice
+      name: Włoszakowice
+      code: "3013072"
+      distance_meters: 10455.86
+      distance_km: 10.456
+      distance_percent: 65.3994
+    - slug: wijewo
+      name: Wijewo
+      code: "3013062"
+      distance_meters: 3282.41
+      distance_km: 3.282
+      distance_percent: 20.5308
+    - slug: przemet
+      name: Przemęt
+      code: "3029012"
+      distance_meters: 2249.44
+      distance_km: 2.249
+      distance_percent: 14.0698
+  counties:
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+      distance_meters: 13738.27
+      distance_km: 13.738
+      distance_percent: 85.9302
+    - slug: wolsztynski
+      name: wolsztyński
+      code: "3029"
+      distance_meters: 2249.44
+      distance_km: 2.249
+      distance_percent: 14.0698
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 15987.71
+      distance_km: 15.988
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_slawskie
+      name: Pojezierze Sławskie
+      code: "315.81"
+      distance_meters: 15987.71
+      distance_km: 15.988
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+      distance_meters: 15987.71
+      distance_km: 15.988
+      distance_percent: 100
+  touched_towns:
+    - slug: przemet
+      name: Przemęt
+      code: "3029012"
+    - slug: wijewo
+      name: Wijewo
+      code: "3013062"
+    - slug: wloszakowice
+      name: Włoszakowice
+      code: "3013072"
+  touched_counties:
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+    - slug: wolsztynski
+      name: wolsztyński
+      code: "3029"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_slawskie
+      name: Pojezierze Sławskie
+      code: "315.81"
+  touched_macro_regions:
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316

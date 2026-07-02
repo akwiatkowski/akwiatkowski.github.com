@@ -1,0 +1,231 @@
+---
+- image_filename: IMGP8422raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.338076809419896
+  lon: 16.38944489882467
+  altitude: 831.2
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 4448
+  height: 2965
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-19T15:39:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP8448raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 800
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-19T17:21:08+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP8456raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.33749183638395
+  lon: 16.386127844499516
+  altitude: 910.51
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T10:19:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP8463raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.402288138903536
+  lon: 16.391273997621475
+  altitude: 520.69
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T10:55:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP8468raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.40441412480064
+  lon: 16.39207111665627
+  altitude: 523.09
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T11:02:45+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP8469raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.404316643323995
+  lon: 16.392280496700817
+  altitude: 521.65
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T11:03:17+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP8470raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.40413634849242
+  lon: 16.39237563131313
+  altitude: 519.73
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T11:03:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP8514raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.418972903885475
+  lon: 16.41564094454986
+  altitude: 529.82
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-22T14:00:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  lat: 50.33764564430562
+  lon: 16.38531278819551
+  altitude: 865.32
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-02-19T16:26:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  gps_map_datum: WGS-84

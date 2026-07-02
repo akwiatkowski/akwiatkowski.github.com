@@ -10,7 +10,7 @@
     distance_meters: 4845.94
     distance_km: 4.846
     distance_percent: 63.3131
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
     distance_meters: 2807.99
@@ -72,7 +72,7 @@
     distance_km: 7.654
     distance_percent: 100.0
   touched_towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
   - slug: myslakowice

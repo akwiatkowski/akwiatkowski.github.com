@@ -10,7 +10,7 @@
     distance_meters: 13244.43
     distance_km: 13.244
     distance_percent: 88.4747
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
     distance_meters: 1725.31
@@ -56,7 +56,7 @@
     distance_meters: 14124.51
     distance_km: 14.125
     distance_percent: 94.3538
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
     distance_meters: 445.71
@@ -93,7 +93,7 @@
   - slug: szczawnica
     name: Szczawnica
     code: "1211023"
-  - slug: piwnicznazdroj
+  - slug: piwniczna-zdroj
     name: Piwniczna-Zdrój
     code: "1210133"
   touched_counties:
@@ -118,7 +118,7 @@
   - slug: beskidy_zachodnie
     name: Beskidy Zachodnie
     code: "513"
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
   touched_mega_regions:

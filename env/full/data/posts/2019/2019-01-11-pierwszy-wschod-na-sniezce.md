@@ -20,6 +20,7 @@ map_zooms:              14
 distance:               12
 time_spent:             8
 elevation:              478
+terrain:                39.8 # m/km przewyższeń — górzysty
 temperature:            -12
 
 strava: 2077524690

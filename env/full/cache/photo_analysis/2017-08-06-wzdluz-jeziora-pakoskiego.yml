@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP0096raw1.jpg
+  post_slug: 2017-08-06-wzdluz-jeziora-pakoskiego
+  ahash: 81f3fbff7f000000
+  dhash: 3b27c686e464bd2b
+  phash: eeee3a1e9b314103
+  avg_rgb:
+  - 92
+  - 118
+  - 132
+  top5_rgb:
+  - - 59
+    - 75
+    - 46
+  - - 44
+    - 58
+    - 34
+  - - 41
+    - 53
+    - 35
+  - - 226
+    - 226
+    - 234
+  - - 52
+    - 127
+    - 187
+- image_filename: header.jpg
+  post_slug: 2017-08-06-wzdluz-jeziora-pakoskiego
+  ahash: 0080f9fbfb230000
+  dhash: 4731a373a3eb5878
+  phash: e9ff1627a98b80e0
+  avg_rgb:
+  - 80
+  - 104
+  - 116
+  top5_rgb:
+  - - 72
+    - 95
+    - 44
+  - - 64
+    - 82
+    - 42
+  - - 69
+    - 90
+    - 39
+  - - 51
+    - 56
+    - 67
+  - - 91
+    - 136
+    - 183

@@ -52,7 +52,7 @@
     distance_meters: 8244.91
     distance_km: 8.245
     distance_percent: 6.4727
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 7314.15
@@ -70,7 +70,7 @@
     distance_meters: 3651.46
     distance_km: 3.651
     distance_percent: 2.8666
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 2781.38
@@ -120,7 +120,7 @@
     distance_meters: 118229.59
     distance_km: 118.23
     distance_percent: 92.817
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 9149.66
@@ -133,7 +133,7 @@
     distance_meters: 91244.77
     distance_km: 91.245
     distance_percent: 71.6324
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 19265.64
@@ -201,7 +201,7 @@
   - slug: niechanowo
     name: Niechanowo
     code: "3003082"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
   - slug: lubowo
@@ -236,14 +236,14 @@
     name: Poznań
     code: "3064"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
   touched_meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: rownina_wrzesinska

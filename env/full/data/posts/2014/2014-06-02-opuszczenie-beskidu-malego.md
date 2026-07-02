@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Opuszczenie Beskidu Małego"
 subtitle:               "zejście do Inwałdu prawie o wschodzie słońca"
 date:                   2014-06-02 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]

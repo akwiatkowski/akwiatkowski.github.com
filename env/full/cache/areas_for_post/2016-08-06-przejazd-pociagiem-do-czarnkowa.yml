@@ -4,7 +4,7 @@
   total_distance_km: 117.188
   points_count: 156.0
   towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 24098.23
@@ -40,19 +40,19 @@
     distance_meters: 11289.24
     distance_km: 11.289
     distance_percent: 9.6334
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 10537.44
     distance_km: 10.537
     distance_percent: 8.9919
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 6139.14
     distance_km: 6.139
     distance_percent: 5.2387
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-wiejska
     name: Czarnków
     code: "3002022"
     distance_meters: 5819.0
@@ -70,7 +70,7 @@
     distance_meters: 5023.82
     distance_km: 5.024
     distance_percent: 4.287
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-miejska
     name: Czarnków
     code: "3002011"
     distance_meters: 3004.78
@@ -89,7 +89,7 @@
     distance_meters: 30370.06
     distance_km: 30.37
     distance_percent: 25.9156
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 26883.75
@@ -146,7 +146,7 @@
     distance_meters: 111899.89
     distance_km: 111.9
     distance_percent: 95.4872
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 5288.5
@@ -174,9 +174,12 @@
     distance_km: 117.188
     distance_percent: 100.0
   touched_towns:
-  - slug: czarnkow
+  - slug: czarnkow-wielkopolskie-miejska
     name: Czarnków
     code: "3002011"
+  - slug: czarnkow-wielkopolskie-wiejska
+    name: Czarnków
+    code: "3002022"
   - slug: lubasz
     name: Lubasz
     code: "3002052"
@@ -186,12 +189,15 @@
   - slug: ryczywol
     name: Ryczywół
     code: "3016032"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
+  - slug: wagrowiec-wielkopolskie-miejska
+    name: Wągrowiec
+    code: "3028011"
   - slug: skoki
     name: Skoki
     code: "3028053"
@@ -205,7 +211,7 @@
     name: Poznań
     code: "3064011"
   touched_counties:
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   - slug: obornicki
@@ -238,7 +244,7 @@
     name: Poznański Przełom Warty
     code: "315.52"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

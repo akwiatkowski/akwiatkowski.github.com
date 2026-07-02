@@ -16,7 +16,7 @@
     distance_meters: 11193.38
     distance_km: 11.193
     distance_percent: 26.4152
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
     distance_meters: 299.96
@@ -81,7 +81,7 @@
   - slug: poznan
     name: Poznań
     code: "3064011"
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
   - slug: tarnowo_podgorne

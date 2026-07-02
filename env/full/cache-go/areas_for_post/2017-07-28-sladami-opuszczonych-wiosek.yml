@@ -1,0 +1,60 @@
+---
+- type: bicycle
+  total_distance_meters: 17537.27
+  total_distance_km: 17.537
+  points_count: 193
+  towns:
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+      distance_meters: 17537.27
+      distance_km: 17.537
+      distance_percent: 100
+  counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+      distance_meters: 17537.27
+      distance_km: 17.537
+      distance_percent: 100
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 17537.27
+      distance_km: 17.537
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+      distance_meters: 17537.27
+      distance_km: 17.537
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"
+      distance_meters: 17537.27
+      distance_km: 17.537
+      distance_percent: 100
+  touched_towns:
+    - slug: jasliska
+      name: Jaśliska
+      code: "1807102"
+  touched_counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: beskid_niski
+      name: Beskid Niski
+      code: "513.71"
+  touched_macro_regions:
+    - slug: beskidy_srodkowe
+      name: Beskidy Środkowe
+      code: "513"

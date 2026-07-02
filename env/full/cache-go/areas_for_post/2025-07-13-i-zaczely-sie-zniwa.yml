@@ -1,0 +1,141 @@
+---
+- type: train
+  total_distance_meters: 40256
+  total_distance_km: 40.256
+  points_count: 65
+  towns:
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2814023"
+      distance_meters: 12152.19
+      distance_km: 12.152
+      distance_percent: 30.1873
+    - slug: bisztynek
+      name: Bisztynek
+      code: "2801043"
+      distance_meters: 12048.84
+      distance_km: 12.049
+      distance_percent: 29.9306
+    - slug: kolno
+      name: Kolno
+      code: "2814082"
+      distance_meters: 9976.64
+      distance_km: 9.977
+      distance_percent: 24.783
+    - slug: barczewo
+      name: Barczewo
+      code: "2814013"
+      distance_meters: 3331.31
+      distance_km: 3.331
+      distance_percent: 8.2753
+    - slug: korsze
+      name: Korsze
+      code: "2808043"
+      distance_meters: 2747.01
+      distance_km: 2.747
+      distance_percent: 6.8239
+  counties:
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+      distance_meters: 25460.14
+      distance_km: 25.46
+      distance_percent: 63.2456
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+      distance_meters: 12048.84
+      distance_km: 12.049
+      distance_percent: 29.9306
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+      distance_meters: 2747.01
+      distance_km: 2.747
+      distance_percent: 6.8239
+  voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+      distance_meters: 40256
+      distance_km: 40.256
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+      distance_meters: 25128.73
+      distance_km: 25.129
+      distance_percent: 62.4223
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+      distance_meters: 11656.25
+      distance_km: 11.656
+      distance_percent: 28.9553
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+      distance_meters: 3471.01
+      distance_km: 3.471
+      distance_percent: 8.6223
+  macro_regions:
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"
+      distance_meters: 28599.75
+      distance_km: 28.6
+      distance_percent: 71.0447
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+      distance_meters: 11656.25
+      distance_km: 11.656
+      distance_percent: 28.9553
+  touched_towns:
+    - slug: barczewo
+      name: Barczewo
+      code: "2814013"
+    - slug: biskupiec
+      name: Biskupiec
+      code: "2814023"
+    - slug: bisztynek
+      name: Bisztynek
+      code: "2801043"
+    - slug: kolno
+      name: Kolno
+      code: "2814082"
+    - slug: korsze
+      name: Korsze
+      code: "2808043"
+  touched_counties:
+    - slug: bartoszycki
+      name: bartoszycki
+      code: "2801"
+    - slug: ketrzynski
+      name: kętrzyński
+      code: "2808"
+    - slug: olsztynski
+      name: olsztyński
+      code: "2814"
+  touched_voivodeships:
+    - slug: warminsko-mazurskie
+      name: warmińsko-mazurskie
+      code: "28"
+  touched_meso_regions:
+    - slug: nizina_sepopolska
+      name: Nizina Sępopolska
+      code: "841.59"
+    - slug: pojezierze_mragowskie
+      name: Pojezierze Mrągowskie
+      code: "842.82"
+    - slug: pojezierze_olsztynskie
+      name: Pojezierze Olsztyńskie
+      code: "842.81"
+  touched_macro_regions:
+    - slug: nizina_staropruska
+      name: Nizina Staropruska
+      code: "841"
+    - slug: pojezierze_mazurskie
+      name: Pojezierze Mazurskie
+      code: "842"

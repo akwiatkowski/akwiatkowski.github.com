@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP1158raw1.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  ahash: f0949c87830313ff
+  dhash: a124202d3f36e7e8
+  phash: be5ac021f321cdcd
+  avg_rgb:
+  - 101
+  - 104
+  - 106
+  top5_rgb:
+  - - 21
+    - 40
+    - 36
+  - - 24
+    - 27
+    - 26
+  - - 157
+    - 150
+    - 144
+  - - 218
+    - 214
+    - 207
+  - - 143
+    - 133
+    - 125
+- image_filename: IMGP1189raw1.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  ahash: fffc0000181e0518
+  dhash: c4b061a6f2f0fdf9
+  phash: c8c5d295a5262f2f
+  avg_rgb:
+  - 94
+  - 93
+  - 91
+  top5_rgb:
+  - - 46
+    - 36
+    - 22
+  - - 97
+    - 64
+    - 36
+  - - 57
+    - 45
+    - 20
+  - - 212
+    - 224
+    - 224
+  - - 57
+    - 59
+    - 66
+- image_filename: header.jpg
+  post_slug: 2016-12-31-wloczac-sie-po-malej-upie
+  ahash: 00fc2020440f7fff
+  dhash: 8480c1c188d8dccc
+  phash: d24eb43276093fe2
+  avg_rgb:
+  - 90
+  - 103
+  - 94
+  top5_rgb:
+  - - 206
+    - 194
+    - 175
+  - - 2
+    - 119
+    - 163
+  - - 193
+    - 185
+    - 171
+  - - 185
+    - 131
+    - 71
+  - - 174
+    - 121
+    - 65

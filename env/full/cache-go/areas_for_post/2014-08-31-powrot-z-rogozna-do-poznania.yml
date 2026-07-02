@@ -1,0 +1,141 @@
+---
+- type: bicycle
+  total_distance_meters: 49874.01
+  total_distance_km: 49.874
+  points_count: 233
+  towns:
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+      distance_meters: 17917.76
+      distance_km: 17.918
+      distance_percent: 35.926
+    - slug: rogozno
+      name: Rogoźno
+      code: "3016023"
+      distance_meters: 14399.41
+      distance_km: 14.399
+      distance_percent: 28.8716
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+      distance_meters: 12770.41
+      distance_km: 12.77
+      distance_percent: 25.6053
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 4786.43
+      distance_km: 4.786
+      distance_percent: 9.597
+  counties:
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+      distance_meters: 32317.17
+      distance_km: 32.317
+      distance_percent: 64.7976
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 17556.84
+      distance_km: 17.557
+      distance_percent: 35.2024
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 4786.43
+      distance_km: 4.786
+      distance_percent: 9.597
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 49874.01
+      distance_km: 49.874
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 23666.39
+      distance_km: 23.666
+      distance_percent: 47.4524
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 18493.5
+      distance_km: 18.493
+      distance_percent: 37.0804
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+      distance_meters: 6683.86
+      distance_km: 6.684
+      distance_percent: 13.4015
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 1030.26
+      distance_km: 1.03
+      distance_percent: 2.0657
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 43190.15
+      distance_km: 43.19
+      distance_percent: 86.5985
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 6683.86
+      distance_km: 6.684
+      distance_percent: 13.4015
+  touched_towns:
+    - slug: oborniki
+      name: Oborniki
+      code: "3016013"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: rogozno
+      name: Rogoźno
+      code: "3016023"
+    - slug: suchy_las
+      name: Suchy Las
+      code: "3021152"
+  touched_counties:
+    - slug: obornicki
+      name: obornicki
+      code: "3016"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_gorzowska
+      name: Kotlina Gorzowska
+      code: "315.33"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

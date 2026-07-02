@@ -34,7 +34,7 @@
     distance_meters: 3296.08
     distance_km: 3.296
     distance_percent: 8.7715
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
     distance_meters: 2878.94
@@ -54,14 +54,14 @@
     distance_km: 10.592
     distance_percent: 28.1867
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 37576.98
     distance_km: 37.577
     distance_percent: 100.0
   meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 30205.27
@@ -117,7 +117,7 @@
   - slug: zlotniki_kujawskie
     name: Złotniki Kujawskie
     code: 0407092
-  - slug: inowroclaw
+  - slug: inowroclaw-kujawsko-pomorskie-wiejska
     name: Inowrocław
     code: "0407042"
   touched_counties:
@@ -128,11 +128,11 @@
     name: inowrocławski
     code: "0407"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: rownina_inowroclawska

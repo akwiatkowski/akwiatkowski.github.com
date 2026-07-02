@@ -34,13 +34,13 @@
     distance_meters: 8081.07
     distance_km: 8.081
     distance_percent: 10.9242
-  - slug: malbork
+  - slug: malbork-pomorskie-miejska
     name: Malbork
     code: "2209011"
     distance_meters: 4218.06
     distance_km: 4.218
     distance_percent: 5.7021
-  - slug: malbork
+  - slug: malbork-pomorskie-wiejska
     name: Malbork
     code: "2209042"
     distance_meters: 2591.71
@@ -78,14 +78,14 @@
     distance_meters: 46352.51
     distance_km: 46.353
     distance_percent: 62.6604
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 27621.69
     distance_km: 27.622
     distance_percent: 37.3396
   meso_regions:
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 70338.0
@@ -149,7 +149,7 @@
     distance_meters: 72658.98
     distance_km: 72.659
     distance_percent: 98.2221
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 1315.22
@@ -171,9 +171,12 @@
   - slug: stary_targ
     name: Stary Targ
     code: "2216042"
-  - slug: malbork
+  - slug: malbork-pomorskie-wiejska
     name: Malbork
     code: "2209042"
+  - slug: malbork-pomorskie-miejska
+    name: Malbork
+    code: "2209011"
   touched_counties:
   - slug: ostrodzki
     name: ostródzki
@@ -188,7 +191,7 @@
     name: malborski
     code: "2209"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   - slug: pomorskie
@@ -198,7 +201,7 @@
   - slug: rownina_olsztynka
     name: Równina Olsztynka
     code: "842.88"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   - slug: rownina_ilawska
@@ -226,7 +229,7 @@
     name: Pojezierza Południowobałtyckie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

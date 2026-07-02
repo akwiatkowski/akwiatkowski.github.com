@@ -3,6 +3,7 @@ layout:                 post
 title:                  "W stronę Skoków, po raz 3-ci"
 subtitle:               "tym razem lato w pełni"
 date:                   2014-07-02 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, best]

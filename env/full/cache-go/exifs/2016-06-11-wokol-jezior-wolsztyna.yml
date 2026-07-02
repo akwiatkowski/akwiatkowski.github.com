@@ -1,0 +1,105 @@
+---
+- image_filename: IMGP1404raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  lat: 52.120346194107974
+  lon: 16.115759080336378
+  altitude: 63.58
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-11T14:22:14+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1407raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  lat: 52.133104205111
+  lon: 16.120153293001817
+  altitude: 63.1
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-11T14:35:58+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1413raw1.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  lat: 52.143783001192304
+  lon: 16.052326681118764
+  altitude: 66.95
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-11T15:30:10+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-06-11-wokol-jezior-wolsztyna
+  lat: 52.105432525252525
+  lon: 16.090008532600777
+  altitude: 64.07
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-11T16:04:51+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

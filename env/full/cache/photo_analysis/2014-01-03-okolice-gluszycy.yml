@@ -1,0 +1,251 @@
+---
+- image_filename: IMGP2509b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: ffff000000000000
+  dhash: 40b893c06a312262
+  phash: cd90addc4375482f
+  avg_rgb:
+  - 94
+  - 95
+  - 107
+  top5_rgb:
+  - - 24
+    - 27
+    - 20
+  - - 57
+    - 51
+    - 74
+  - - 23
+    - 27
+    - 44
+  - - 100
+    - 121
+    - 155
+  - - 61
+    - 58
+    - 82
+- image_filename: IMGP2520b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: ffffff0000000000
+  dhash: 30850d71f6e4389a
+  phash: eafad185091f62f0
+  avg_rgb:
+  - 114
+  - 106
+  - 97
+  top5_rgb:
+  - - 32
+    - 24
+    - 19
+  - - 235
+    - 235
+    - 211
+  - - 43
+    - 37
+    - 22
+  - - 71
+    - 46
+    - 35
+  - - 229
+    - 221
+    - 200
+- image_filename: IMGP2527raw1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: 7f3f1e0800000800
+  dhash: f8f878797979f8f0
+  phash: 959585e26a6b74b4
+  avg_rgb:
+  - 74
+  - 72
+  - 68
+  top5_rgb:
+  - - 33
+    - 31
+    - 36
+  - - 28
+    - 27
+    - 29
+  - - 19
+    - 22
+    - 21
+  - - 29
+    - 29
+    - 32
+  - - 168
+    - 167
+    - 163
+- image_filename: IMGP2530b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: 7f7f0f0e00000000
+  dhash: 98d8f8fc94947898
+  phash: 9191e1e8e096b87f
+  avg_rgb:
+  - 95
+  - 93
+  - 84
+  top5_rgb:
+  - - 239
+    - 239
+    - 211
+  - - 40
+    - 38
+    - 36
+  - - 17
+    - 18
+    - 17
+  - - 78
+    - 68
+    - 57
+  - - 34
+    - 27
+    - 24
+- image_filename: IMGP2535raw1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: ffc7878686878e8f
+  dhash: 8a0e363c343e3a3a
+  phash: bdc2c3fc009de06e
+  avg_rgb:
+  - 138
+  - 106
+  - 78
+  top5_rgb:
+  - - 178
+    - 130
+    - 97
+  - - 18
+    - 11
+    - 11
+  - - 206
+    - 160
+    - 116
+  - - 186
+    - 131
+    - 92
+  - - 113
+    - 106
+    - 97
+- image_filename: IMGP2541b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: ffff8f0000000000
+  dhash: f4781c2c7472f3fe
+  phash: 9dd581cc6662d972
+  avg_rgb:
+  - 114
+  - 100
+  - 89
+  top5_rgb:
+  - - 238
+    - 236
+    - 215
+  - - 79
+    - 55
+    - 44
+  - - 109
+    - 104
+    - 99
+  - - 111
+    - 82
+    - 63
+  - - 60
+    - 43
+    - 34
+- image_filename: IMGP2546b1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: ffffff0f00000000
+  dhash: 054471f8c9b0f5e2
+  phash: 9b9ae56371189cc6
+  avg_rgb:
+  - 117
+  - 115
+  - 117
+  top5_rgb:
+  - - 33
+    - 23
+    - 22
+  - - 229
+    - 224
+    - 217
+  - - 223
+    - 229
+    - 233
+  - - 243
+    - 232
+    - 216
+  - - 67
+    - 44
+    - 31
+- image_filename: IMGP2572raw1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: 3cfeff7f0b030300
+  dhash: e0f084d07286eebc
+  phash: 85d25e2d5ac2a55e
+  avg_rgb:
+  - 83
+  - 66
+  - 38
+  top5_rgb:
+  - - 137
+    - 92
+    - 57
+  - - 121
+    - 85
+    - 58
+  - - 75
+    - 82
+    - 38
+  - - 96
+    - 65
+    - 52
+  - - 27
+    - 22
+    - 9
+- image_filename: IMGP2584raw1.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: 00007cfeff7f0606
+  dhash: e0e0d80c13c45cfe
+  phash: 944b15c86b36cbb5
+  avg_rgb:
+  - 92
+  - 84
+  - 89
+  top5_rgb:
+  - - 60
+    - 49
+    - 69
+  - - 43
+    - 46
+    - 23
+  - - 118
+    - 97
+    - 118
+  - - 80
+    - 68
+    - 93
+  - - 109
+    - 91
+    - 114
+- image_filename: header.jpg
+  post_slug: 2014-01-03-okolice-gluszycy
+  ahash: fffffb0000000000
+  dhash: e6e0d3d3a6c703b8
+  phash: edc89636142beab8
+  avg_rgb:
+  - 122
+  - 119
+  - 111
+  top5_rgb:
+  - - 109
+    - 90
+    - 57
+  - - 214
+    - 222
+    - 236
+  - - 100
+    - 84
+    - 56
+  - - 90
+    - 73
+    - 43
+  - - 69
+    - 58
+    - 36

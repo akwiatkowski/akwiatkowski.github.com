@@ -1,0 +1,226 @@
+---
+- image_filename: IMGP8422raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: ffff00e0f9ff01ff
+  dhash: c0c0ccc2a3a58f45
+  phash: c255b6d8df25122b
+  avg_rgb:
+  - 153
+  - 153
+  - 153
+  top5_rgb:
+  - - 54
+    - 59
+    - 62
+  - - 178
+    - 177
+    - 177
+  - - 153
+    - 154
+    - 156
+  - - 198
+    - 198
+    - 196
+  - - 196
+    - 196
+    - 195
+- image_filename: IMGP8448raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: fc07000ffff808ff
+  dhash: 00ff555e3aa0b213
+  phash: 9927ead8b515ca68
+  avg_rgb:
+  - 110
+  - 111
+  - 111
+  top5_rgb:
+  - - 105
+    - 111
+    - 116
+  - - 69
+    - 75
+    - 80
+  - - 156
+    - 164
+    - 167
+  - - 152
+    - 160
+    - 164
+  - - 160
+    - 169
+    - 172
+- image_filename: IMGP8456raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: ffff00000080e30b
+  dhash: 749b7072321b827a
+  phash: bd8281fa87c55e07
+  avg_rgb:
+  - 113
+  - 109
+  - 102
+  top5_rgb:
+  - - 44
+    - 40
+    - 36
+  - - 210
+    - 213
+    - 216
+  - - 93
+    - 76
+    - 54
+  - - 196
+    - 200
+    - 203
+  - - 122
+    - 100
+    - 72
+- image_filename: IMGP8463raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: ffff77b6a4a68001
+  dhash: 6767ee6e686a680f
+  phash: bfa8aadf28c1b142
+  avg_rgb:
+  - 110
+  - 108
+  - 105
+  top5_rgb:
+  - - 154
+    - 152
+    - 148
+  - - 64
+    - 60
+    - 58
+  - - 139
+    - 133
+    - 123
+  - - 134
+    - 127
+    - 116
+  - - 88
+    - 92
+    - 94
+- image_filename: IMGP8468raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: ff3f1c2000130101
+  dhash: 647999cbc3b6b7f9
+  phash: 88d296e4e7e1c179
+  avg_rgb:
+  - 141
+  - 125
+  - 112
+  top5_rgb:
+  - - 157
+    - 106
+    - 54
+  - - 135
+    - 51
+    - 32
+  - - 169
+    - 162
+    - 150
+  - - 104
+    - 118
+    - 126
+  - - 41
+    - 35
+    - 28
+- image_filename: IMGP8469raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: ffff00a0a0000400
+  dhash: b867e92961c1c898
+  phash: d68eb1e5d9d11226
+  avg_rgb:
+  - 130
+  - 121
+  - 117
+  top5_rgb:
+  - - 154
+    - 122
+    - 61
+  - - 148
+    - 117
+    - 60
+  - - 143
+    - 117
+    - 90
+  - - 174
+    - 135
+    - 112
+  - - 224
+    - 235
+    - 254
+- image_filename: IMGP8470raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: a7ffb7a79f860000
+  dhash: 4e4e6e4e766c4eb0
+  phash: b7a740769923b646
+  avg_rgb:
+  - 119
+  - 121
+  - 118
+  top5_rgb:
+  - - 143
+    - 169
+    - 155
+  - - 196
+    - 183
+    - 162
+  - - 73
+    - 79
+    - 90
+  - - 136
+    - 162
+    - 148
+  - - 78
+    - 84
+    - 94
+- image_filename: IMGP8514raw1.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: 0003d0be0126feff
+  dhash: c87717686f6c4ab6
+  phash: 8729e117d853726d
+  avg_rgb:
+  - 130
+  - 108
+  - 90
+  top5_rgb:
+  - - 95
+    - 78
+    - 87
+  - - 95
+    - 78
+    - 66
+  - - 106
+    - 88
+    - 71
+  - - 106
+    - 89
+    - 92
+  - - 84
+    - 70
+    - 57
+- image_filename: header.jpg
+  post_slug: 2016-02-22-narty-w-zielencu
+  ahash: 7f00c0401898feff
+  dhash: f1700d99d27210c0
+  phash: d922b60d80f0fd4f
+  avg_rgb:
+  - 117
+  - 117
+  - 117
+  top5_rgb:
+  - - 99
+    - 103
+    - 108
+  - - 69
+    - 69
+    - 69
+  - - 201
+    - 201
+    - 199
+  - - 200
+    - 200
+    - 198
+  - - 199
+    - 199
+    - 198

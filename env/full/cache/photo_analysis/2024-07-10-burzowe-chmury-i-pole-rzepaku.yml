@@ -1,0 +1,101 @@
+---
+- image_filename: 2024_07_10__18_38_P7100010.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  ahash: fffefffc00000000
+  dhash: d6c08b70e0993564
+  phash: d0e594358d99ad6c
+  avg_rgb:
+  - 83
+  - 83
+  - 73
+  top5_rgb:
+  - - 88
+    - 68
+    - 38
+  - - 75
+    - 84
+    - 95
+  - - 103
+    - 81
+    - 43
+  - - 78
+    - 59
+    - 32
+  - - 47
+    - 52
+    - 12
+- image_filename: 2024_07_10__18_38_P7100012.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  ahash: ffffffff00000000
+  dhash: 483a33efcba46370
+  phash: cbf1d976c3a61441
+  avg_rgb:
+  - 91
+  - 93
+  - 85
+  top5_rgb:
+  - - 187
+    - 188
+    - 194
+  - - 57
+    - 58
+    - 12
+  - - 153
+    - 158
+    - 167
+  - - 128
+    - 135
+    - 146
+  - - 12
+    - 19
+    - 4
+- image_filename: 2024_07_10__18_50_P7100013.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  ahash: 7fffffe77f000000
+  dhash: e6e5ad9cc9d860f8
+  phash: 86860e05e57d9dae
+  avg_rgb:
+  - 108
+  - 103
+  - 99
+  top5_rgb:
+  - - 137
+    - 142
+    - 154
+  - - 163
+    - 137
+    - 114
+  - - 64
+    - 46
+    - 19
+  - - 177
+    - 178
+    - 183
+  - - 61
+    - 42
+    - 14
+- image_filename: 2024_07_10__18_52_P7100014.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  ahash: fffffffc20000000
+  dhash: ece1e1c0e0c2f3f1
+  phash: c6c6ba6243f17147
+  avg_rgb:
+  - 88
+  - 89
+  - 90
+  top5_rgb:
+  - - 35
+    - 29
+    - 13
+  - - 30
+    - 32
+    - 26
+  - - 40
+    - 42
+    - 40
+  - - 47
+    - 48
+    - 50
+  - - 24
+    - 20
+    - 9

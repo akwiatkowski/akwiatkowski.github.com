@@ -18,6 +18,7 @@ map_zooms:              12
 distance:               48
 time_spent:             4
 elevation:              193
+terrain:                4.0 # m/km przewyższeń — płaski
 pois:
 
 strava: 1260829237

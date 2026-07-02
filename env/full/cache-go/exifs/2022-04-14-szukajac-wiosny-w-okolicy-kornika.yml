@@ -1,0 +1,36 @@
+---
+- image_filename: 2022_04_14__15_58_P4141025.jpg
+  post_slug: 2022-04-14-szukajac-wiosny-w-okolicy-kornika
+  lat: 52.21002777777778
+  lon: 17.14390277777778
+  altitude: 30
+  focal_length: 61
+  focal_length_35: 122
+  crop: 2
+  aperture: 5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8142
+  height: 6092
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2022-04-14T15:58:58+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.8.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

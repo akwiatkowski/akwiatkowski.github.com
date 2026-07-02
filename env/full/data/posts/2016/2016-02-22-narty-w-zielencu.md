@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Narty w Zieleńcu"
 subtitle:               "przyjazd w zimie, odjazd podczas jesieni"
 date:                   2016-02-22 21:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, relax]

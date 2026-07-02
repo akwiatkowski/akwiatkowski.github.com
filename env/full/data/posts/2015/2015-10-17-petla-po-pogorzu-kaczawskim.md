@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pętla po Pogórzu Kaczawskim"
 subtitle:               "30km pieszo, jeden dzień jak trzy różne dni"
 date:                   2015-10-17 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

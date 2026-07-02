@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 1947.81
+  total_distance_km: 1.948
+  points_count: 44
+  towns:
+    - slug: rymanow
+      name: Rymanów
+      code: "1807083"
+      distance_meters: 1822.43
+      distance_km: 1.822
+      distance_percent: 93.563
+    - slug: zarszyn
+      name: Zarszyn
+      code: "1817082"
+      distance_meters: 125.38
+      distance_km: 0.125
+      distance_percent: 6.437
+  counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+      distance_meters: 1822.43
+      distance_km: 1.822
+      distance_percent: 93.563
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+      distance_meters: 125.38
+      distance_km: 0.125
+      distance_percent: 6.437
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 1947.81
+      distance_km: 1.948
+      distance_percent: 100
+  meso_regions:
+    - slug: pogorze_bukowskie
+      name: Pogórze Bukowskie
+      code: "513.69"
+      distance_meters: 1947.81
+      distance_km: 1.948
+      distance_percent: 100
+  macro_regions:
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"
+      distance_meters: 1947.81
+      distance_km: 1.948
+      distance_percent: 100
+  touched_towns:
+    - slug: rymanow
+      name: Rymanów
+      code: "1807083"
+    - slug: zarszyn
+      name: Zarszyn
+      code: "1817082"
+  touched_counties:
+    - slug: krosnienski
+      name: krośnieński
+      code: "1807"
+    - slug: sanocki
+      name: sanocki
+      code: "1817"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: pogorze_bukowskie
+      name: Pogórze Bukowskie
+      code: "513.69"
+  touched_macro_regions:
+    - slug: pogorze_srodkowobeskidzkie
+      name: Pogórze Środkowobeskidzkie
+      code: "513"

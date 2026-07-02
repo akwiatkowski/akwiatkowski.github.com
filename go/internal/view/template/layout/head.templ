@@ -1,0 +1,68 @@
+package layout
+
+templ Head(p PageData) {
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="color-scheme" content="light dark"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com"/>
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet"/>
+		<title>{ p.FullTitle() }</title>
+		if p.CanonicalURL != "" {
+			<link rel="canonical" href={ templ.SafeURL(p.CanonicalURL) }/>
+		}
+		if p.Desc != "" {
+			<meta name="description" content={ p.Desc }/>
+		}
+		if p.ExtraHead != "" {
+			@templ.Raw(p.ExtraHead)
+		}
+		@HeadOG(p)
+		@HeadAssets(p)
+	</head>
+}
+
+templ HeadOG(p PageData) {
+	<meta property="og:type" content="website"/>
+	<meta property="og:locale" content="pl_PL"/>
+	if p.Title != "" {
+		<meta property="og:title" content={ p.Title }/>
+		<meta name="twitter:title" content={ p.Title }/>
+	}
+	if p.Desc != "" {
+		<meta property="og:description" content={ p.Desc }/>
+		<meta name="twitter:description" content={ p.Desc }/>
+	}
+	if p.ImageURL != "" {
+		<meta property="og:image" content={ p.ImageURL }/>
+		<meta property="og:image:alt" content={ p.Title }/>
+	}
+	if p.CanonicalURL != "" {
+		<meta property="og:url" content={ p.CanonicalURL }/>
+	}
+	if p.SiteName != "" {
+		<meta property="og:site_name" content={ p.SiteName }/>
+	}
+	<meta name="twitter:card" content="summary_large_image"/>
+}
+
+templ HeadAssets(p PageData) {
+	for _, css := range p.CSSFiles {
+		if css.Integrity != "" {
+			<link rel="stylesheet" href={ css.VersionedPath() } integrity={ css.Integrity } crossorigin="anonymous"/>
+		} else {
+			<link rel="stylesheet" href={ css.VersionedPath() }/>
+		}
+	}
+	for _, js := range p.JSFiles {
+		if js.Integrity != "" {
+			<script src={ js.VersionedPath() } integrity={ js.Integrity } crossorigin="anonymous"></script>
+		} else {
+			<script src={ js.VersionedPath() }></script>
+		}
+	}
+	for _, pageJS := range p.PageJSFiles {
+		<script src={ pageJS } defer></script>
+	}
+}

@@ -46,7 +46,7 @@
     distance_meters: 5710.01
     distance_km: 5.71
     distance_percent: 9.4695
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
     distance_meters: 1012.26
@@ -126,7 +126,7 @@
   - slug: suchy_las
     name: Suchy Las
     code: "3021152"
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
   - slug: tarnowo_podgorne

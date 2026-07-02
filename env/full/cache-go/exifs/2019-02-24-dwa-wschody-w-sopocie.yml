@@ -1,0 +1,952 @@
+---
+- image_filename: 2019_02_23__06_29__2230196.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.452597222222224
+  lon: 18.566458333333333
+  altitude: 4.294967278e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.4
+  exposure_string: 1/3 s
+  iso: 200
+  width: 5229
+  height: 3903
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:29:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_32__2230197_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.452597222222224
+  lon: 18.566444444444446
+  altitude: 4.294967279e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  width: 5212
+  height: 3891
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:32:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_33__2230198_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45183333333333
+  lon: 18.566958333333332
+  altitude: 4.294967281e+09
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 8
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5157
+  height: 3850
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:33:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_34__2230199.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.451819444444446
+  lon: 18.566972222222223
+  altitude: 4.294967281e+09
+  focal_length: 41
+  focal_length_35: 82
+  crop: 2
+  aperture: 8
+  exposure: 3.2
+  exposure_string: 3.2 s
+  iso: 200
+  width: 5225
+  height: 3901
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:34:05+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_36__2230200.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44983333333333
+  lon: 18.56873611111111
+  altitude: 4.294967282e+09
+  focal_length: 21
+  focal_length_35: 42
+  crop: 2
+  aperture: 8
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:36:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_38__2230201_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44984722222222
+  lon: 18.56873611111111
+  altitude: 4.294967283e+09
+  focal_length: 21
+  focal_length_35: 42
+  crop: 2
+  aperture: 5.6
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:38:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_42__2230203.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44980555555555
+  lon: 18.56877777777778
+  altitude: 4.294967284e+09
+  focal_length: 44
+  focal_length_35: 88
+  crop: 2
+  aperture: 5.6
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5003
+  height: 3735
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:42:15+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.7
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_42__2230204.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44979166666666
+  lon: 18.56877777777778
+  altitude: 4.294967285e+09
+  focal_length: 44
+  focal_length_35: 88
+  crop: 2
+  aperture: 5.6
+  exposure: 50
+  exposure_string: 50.0 s
+  iso: 200
+  width: 5013
+  height: 3742
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:42:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_45__2230206_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44976388888889
+  lon: 18.568819444444443
+  altitude: 4.294967287e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 50
+  exposure_string: 50.0 s
+  iso: 200
+  width: 4728
+  height: 3643
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:45:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_50__2230209.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44972222222222
+  lon: 18.56888888888889
+  altitude: 4.294967289e+09
+  focal_length: 18
+  focal_length_35: 36
+  crop: 2
+  aperture: 8
+  exposure: 60
+  exposure_string: 60.0 s
+  iso: 200
+  width: 4880
+  height: 3484
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:50:51+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_58__2230212.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.449777777777776
+  lon: 18.568791666666666
+  altitude: 4.29496729e+09
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 6.3
+  exposure: 20
+  exposure_string: 20.0 s
+  iso: 200
+  width: 5091
+  height: 3740
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:58:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_23__06_59__2230213.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.449749999999995
+  lon: 18.568805555555556
+  altitude: 4.29496729e+09
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 6.3
+  exposure: 20
+  exposure_string: 20.0 s
+  iso: 200
+  width: 5140
+  height: 3837
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-23T06:59:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_28__2241689.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44980555555555
+  lon: 18.568805555555556
+  altitude: 4.294967288e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 21.42
+  exposure_string: 21.4 s
+  iso: 200
+  width: 4723
+  height: 3638
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:28:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_29__2241690.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.449819444444444
+  lon: 18.568819444444443
+  altitude: 4.294967289e+09
+  focal_length: 44
+  focal_length_35: 88
+  crop: 2
+  aperture: 6.3
+  exposure: 25.2
+  exposure_string: 25.2 s
+  iso: 200
+  width: 5023
+  height: 3750
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:29:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_30__2241691.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44980555555555
+  lon: 18.568805555555556
+  altitude: 4.294967288e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 8
+  exposure: 25.49
+  exposure_string: 25.5 s
+  iso: 200
+  width: 5020
+  height: 3748
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:30:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_30__2241692_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44980555555555
+  lon: 18.568833333333334
+  altitude: 4.294967289e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 52.59
+  exposure_string: 52.6 s
+  iso: 200
+  width: 5001
+  height: 3733
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:30:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_40__2241698_01.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44983333333333
+  lon: 18.56876388888889
+  altitude: 4.294967293e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 70.26
+  exposure_string: 70.3 s
+  iso: 200
+  width: 5153
+  height: 3847
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:40:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_43__2241700.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44980555555555
+  lon: 18.56875
+  altitude: 4.294967292e+09
+  focal_length: 82
+  focal_length_35: 164
+  crop: 2
+  aperture: 2.8
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  width: 5213
+  height: 3892
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:43:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 40
+  lens_max_focal: 150
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 40-150mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_50__2241754.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44983333333333
+  lon: 18.568680555555556
+  altitude: 4.294967293e+09
+  focal_length: 29
+  focal_length_35: 58
+  crop: 2
+  aperture: 6.3
+  exposure: 28.67
+  exposure_string: 28.7 s
+  iso: 200
+  width: 5145
+  height: 3841
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:50:40+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_52__2241756.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44984722222222
+  lon: 18.56872222222222
+  altitude: 4.294967292e+09
+  focal_length: 86
+  focal_length_35: 172
+  crop: 2
+  aperture: 6.3
+  exposure: 14.76
+  exposure_string: 14.8 s
+  iso: 200
+  width: 5133
+  height: 3832
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:52:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_52__2241757_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44984722222222
+  lon: 18.56872222222222
+  altitude: 4.294967292e+09
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 6.3
+  exposure: 25.53
+  exposure_string: 25.5 s
+  iso: 200
+  width: 5141
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:52:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_53__2241758_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44984722222222
+  lon: 18.56872222222222
+  altitude: 4.294967292e+09
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 34.48
+  exposure_string: 34.5 s
+  iso: 200
+  width: 4912
+  height: 3667
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:53:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__06_56__2241761_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.449861111111105
+  lon: 18.568708333333333
+  altitude: 4.294967291e+09
+  focal_length: 16
+  focal_length_35: 32
+  crop: 2
+  aperture: 8
+  exposure: 17.32
+  exposure_string: 17.3 s
+  iso: 200
+  width: 5187
+  height: 3873
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-02-24T06:56:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_02_24__07_33__2241859_01.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.44993291592129
+  lon: 18.568331702323906
+  altitude: 3.41691181500992
+  focal_length: 52
+  focal_length_35: 104
+  crop: 2
+  aperture: 5.6
+  exposure: 6
+  exposure_string: 6.0 s
+  iso: 200
+  width: 5159
+  height: 3851
+  lens: OLYMPUS M.40-150mm F2.8
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:33:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 40
+  lens_max_focal: 150
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 40-150mm f/2.8
+- image_filename: 2019_02_24__07_47__2241866.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45032956959992
+  lon: 18.567690210334977
+  altitude: 2.903252106169037
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 7.1
+  exposure: 5
+  exposure_string: 5.0 s
+  iso: 200
+  width: 5191
+  height: 3875
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M1MarkII
+  lens_name: M.9-18mm F4.0-5.6
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:47:34+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 9
+  lens_max_focal: 18
+  lens_min_fstop: 4
+  lens_max_fstop: 5.6
+  lens_spec_str: 9-18mm f/4.0-5.6
+- image_filename: 2019_02_24__07_49__2241870.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.450394900811695
+  lon: 18.567584552845528
+  altitude: 2.8186493304870948
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 8
+  exposure: 10
+  exposure_string: 10.0 s
+  iso: 200
+  width: 5170
+  height: 3859
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M1MarkII
+  lens_name: M.9-18mm F4.0-5.6
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:49:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 9
+  lens_max_focal: 18
+  lens_min_fstop: 4
+  lens_max_fstop: 5.6
+  lens_spec_str: 9-18mm f/4.0-5.6
+- image_filename: 2019_02_24__07_50__2241871.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45041450017842
+  lon: 18.567552855588136
+  altitude: 2.793268488497761
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 9
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  width: 5088
+  height: 3799
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M1MarkII
+  lens_name: M.9-18mm F4.0-5.6
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:50:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 9
+  lens_max_focal: 18
+  lens_min_fstop: 4
+  lens_max_fstop: 5.6
+  lens_spec_str: 9-18mm f/4.0-5.6
+- image_filename: 2019_02_24__07_52__2241873_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45045556551472
+  lon: 18.567486442300023
+  altitude: 2.740089624267494
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 9
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 200
+  width: 4705
+  height: 3453
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M1MarkII
+  lens_name: M.9-18mm F4.0-5.6
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:52:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 9
+  lens_max_focal: 18
+  lens_min_fstop: 4
+  lens_max_fstop: 5.6
+  lens_spec_str: 9-18mm f/4.0-5.6
+- image_filename: 2019_02_24__07_57__2241879_02.jpg
+  post_slug: 2019-02-24-dwa-wschody-w-sopocie
+  lat: 54.45062029350625
+  lon: 18.567220034457296
+  altitude: 2.52676974860629
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 6.3
+  exposure: 13
+  exposure_string: 13.0 s
+  iso: 200
+  width: 5016
+  height: 3743
+  lens: OLYMPUS M.9-18mm F4.0-5.6
+  camera: E-M1MarkII
+  lens_name: M.9-18mm F4.0-5.6
+  camera_name: E-M1MarkII
+  time: "2019-02-24T07:57:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 9
+  lens_max_focal: 18
+  lens_min_fstop: 4
+  lens_max_fstop: 5.6
+  lens_spec_str: 9-18mm f/4.0-5.6

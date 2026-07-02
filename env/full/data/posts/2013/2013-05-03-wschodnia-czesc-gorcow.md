@@ -5,6 +5,7 @@ subtitle:               "Od Krościenka nad Dunajcem do Studzionek. Prawie poło
 desc:                   "Mam ochotę przejść Główny Szlak Beskidzki i zobaczyć Gorce. Dlatego druga część tej majówki była właśnie w Gorcach. Czekało na nas solidne podejście bo 800m na Lubań a dalej tylko 400m tego dnia. Nie myśleliśmy o tym, jak pogoda się popsuje."
 keywords:               [wiosna, gorce, lubań, burza, deszcz]
 date:                   2013-05-03 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 60%

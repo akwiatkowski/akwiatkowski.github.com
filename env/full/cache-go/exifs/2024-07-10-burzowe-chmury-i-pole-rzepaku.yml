@@ -1,0 +1,141 @@
+---
+- image_filename: 2024_07_10__18_38_P7100010.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  lat: 52.49297222222222
+  lon: 17.21736111111111
+  altitude: 104
+  focal_length: 9
+  focal_length_35: 18
+  crop: 2
+  aperture: 5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8068
+  height: 6000
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: OM-1
+  time: "2024-07-10T18:38:11+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_10__18_38_P7100012.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  lat: 52.492958333333334
+  lon: 17.21734722222222
+  altitude: 104
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: OM-1
+  time: "2024-07-10T18:38:34+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_10__18_50_P7100013.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  lat: 52.48202777777778
+  lon: 17.19002777777778
+  altitude: 105
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8124
+  height: 6075
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: OM-1
+  time: "2024-07-10T18:50:02+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_10__18_52_P7100014.jpg
+  post_slug: 2024-07-10-burzowe-chmury-i-pole-rzepaku
+  lat: 52.47558333333333
+  lon: 17.18502777777778
+  altitude: 88
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 4.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8099
+  height: 6042
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: OM-1
+  time: "2024-07-10T18:52:56+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84

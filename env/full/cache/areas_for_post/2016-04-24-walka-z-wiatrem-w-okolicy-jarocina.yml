@@ -10,7 +10,7 @@
     distance_meters: 20283.69
     distance_km: 20.284
     distance_percent: 37.151
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
     distance_meters: 10609.73
@@ -47,7 +47,7 @@
     distance_meters: 19376.68
     distance_km: 19.377
     distance_percent: 35.4897
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 14937.61
@@ -80,7 +80,7 @@
     distance_km: 7.907
     distance_percent: 14.4818
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 35252.08
@@ -138,11 +138,11 @@
   - slug: zerkow
     name: Żerków
     code: "3006043"
-  - slug: jarocin
+  - slug: jarocin-wielkopolskie
     name: Jarocin
     code: "3006023"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   - slug: wrzesinski
@@ -166,7 +166,7 @@
     name: Wysoczyzna Kaliska
     code: "318.12"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

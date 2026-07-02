@@ -1,0 +1,23 @@
+---
+- image_filename: header.jpg
+  post_slug: 2016-01-30-turystyka-tramwajowa-w-krakowie-i-na-slasku
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 4.5
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 3200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-12-26T19:36:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0

@@ -1,5 +1,8 @@
-<li>
-  <a href="{{ post.url }}">
-    {{ post.date }} - {{ post.title }}
-  </a>
-</li>
+<a href="{{ post.url }}" class="related-post-card">
+  <picture>
+    <source type="image/avif" srcset="{{ post.thumbnail.avif }}">
+    <img src="{{ post.thumbnail }}" alt="" loading="lazy">
+  </picture>
+  <span class="related-post-date">{{ post.date }}</span>
+  <span class="related-post-title">{{ post.title }}</span>
+</a>

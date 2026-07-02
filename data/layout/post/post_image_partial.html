@@ -1,20 +1,26 @@
 <figure class="figure post-article-photo">
   <a href="{{ img_full.src }}" target="_blank">
-    <img src="{{ img.src }}"
-      class="img-fluid"
-      title="{{ img.alt }}"
-      alt="{{ img.alt }} ({{ img.size }})"
-      data-is-gallery="{{ img.is_gallery }}"
-      data-is-timeline="{{ img.is_timeline }}"
-      data-lat="{{ img.lat }}"
-      data-lon="{{ img.lon }}"
-      data-altitude="{{ img.altitude }}"
-      data-time="{{ img.time }}"
-    />
+    <picture>
+      <source type="image/avif"
+        srcset="{{ img.grid_src.avif }} 560w, {{ img.src.avif }} 1000w"
+        sizes="(max-width: 576px) 100vw, 100vw">
+      <img src="{{ img.src }}"
+        srcset="{{ img.grid_src }} 560w, {{ img.src }} 1000w"
+        sizes="(max-width: 576px) 100vw, 100vw"
+        class="img-fluid"
+        title="{{ img.alt }}"
+        alt="{{ img.alt }} ({{ img.size }})"
+        data-is-gallery="{{ img.is_gallery }}"
+        data-is-timeline="{{ img.is_timeline }}"
+        data-lat="{{ img.lat }}"
+        data-lon="{{ img.lon }}"
+        data-altitude="{{ img.altitude }}"
+        data-time="{{ img.time }}"
+      />
+    </picture>
+    <span class="photo-exif">{{ img.exif_string }}</span>
   </a>
   <figcaption class="figure-caption">
-    {{ img.additional_links }}{{ img.alt }}
-    <br/>
-    {{ img.exif_string }}{{ img.coord_link }}
+    <span class="photo-caption-title">{{ img.additional_links }}{{ img.alt }}</span>
   </figcaption>
 </figure>

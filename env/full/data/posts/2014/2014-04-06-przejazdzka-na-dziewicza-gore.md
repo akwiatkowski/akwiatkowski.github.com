@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przejażdzka na Dziewiczą Górę"
 subtitle:               "przez Maltę i Swarzędz"
 date:                   2014-04-06 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

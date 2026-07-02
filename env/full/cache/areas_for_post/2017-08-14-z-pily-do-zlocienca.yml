@@ -10,7 +10,7 @@
     distance_meters: 34742.93
     distance_km: 34.743
     distance_percent: 32.1083
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-wiejska
     name: Wałcz
     code: "3217052"
     distance_meters: 29877.74
@@ -22,13 +22,13 @@
     distance_meters: 25155.1
     distance_km: 25.155
     distance_percent: 23.2475
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
     distance_meters: 13194.93
     distance_km: 13.195
     distance_percent: 12.1943
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-miejska
     name: Wałcz
     code: "3217011"
     distance_meters: 5802.12
@@ -135,12 +135,15 @@
   - slug: pila
     name: Piła
     code: "3019011"
-  - slug: szydlowo
+  - slug: szydlowo-wielkopolskie
     name: Szydłowo
     code: "3019062"
-  - slug: walcz
+  - slug: walcz-zachodniopomorskie-wiejska
     name: Wałcz
     code: "3217052"
+  - slug: walcz-zachodniopomorskie-miejska
+    name: Wałcz
+    code: "3217011"
   - slug: wierzchowo
     name: Wierzchowo
     code: "3203052"

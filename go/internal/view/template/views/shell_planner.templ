@@ -1,0 +1,87 @@
+package views
+
+// ShellPlannerContent renders the HTML structure expected by planner.js.
+// The JS fetches /jsons/photo_grid.json and /jsons/train_stations.json
+// to display a 10km grid overlay on a Leaflet map with route generation.
+templ ShellPlannerContent() {
+	<div class="planner-page">
+		<div class="planner-hero">
+			<h1>Planer zdjęciowy</h1>
+			<p>Generator tras rowerowych optymalizujący pokrycie nowymi zdjęciami</p>
+		</div>
+		<div class="planner-container">
+			<aside class="planner-sidebar">
+				<div id="error-container"></div>
+				<div class="planner-panel">
+					<div class="panel-label">Czas trwania</div>
+					<div class="radio-group">
+						<label class="radio-item">
+							<input type="radio" name="tripDays" value="1" checked/>
+							<span>1 dzień <em>60 km</em></span>
+						</label>
+						<label class="radio-item">
+							<input type="radio" name="tripDays" value="2"/>
+							<span>2 dni <em>120 km</em></span>
+						</label>
+						<label class="radio-item">
+							<input type="radio" name="tripDays" value="3"/>
+							<span>3 dni <em>180 km</em></span>
+						</label>
+						<label class="radio-item">
+							<input type="radio" name="tripDays" value="4"/>
+							<span>4+ dni <em>240+ km</em></span>
+						</label>
+					</div>
+					<button id="generate-btn">Generuj trasy</button>
+				</div>
+				<div id="results" class="planner-panel results-panel" style="display: none;">
+					<div class="panel-label">Najlepsze trasy</div>
+					<div id="results-content"></div>
+				</div>
+				<div class="planner-panel stats-panel">
+					<div class="panel-label">Pokrycie siatki</div>
+					<div class="stats-grid">
+						<div class="stat-item">
+							<span class="stat-value" id="totalCells">-</span>
+							<span class="stat-label">komórek</span>
+						</div>
+						<div class="stat-item">
+							<span class="stat-value stat-filled" id="filledCells">-</span>
+							<span class="stat-label">wypełnionych</span>
+						</div>
+						<div class="stat-item">
+							<span class="stat-value stat-blank" id="blankCells">-</span>
+							<span class="stat-label">pustych</span>
+						</div>
+						<div class="stat-item">
+							<span class="stat-value stat-coverage" id="coveragePercent">-</span>
+							<span class="stat-label">% pokrycia</span>
+						</div>
+					</div>
+				</div>
+				<div class="planner-panel legend-panel">
+					<div class="panel-label">Legenda</div>
+					<div class="legend-item">
+						<div class="legend-color" style="background: rgba(76, 175, 80, 0.6);"></div>
+						<span>Wypełnione (są zdjęcia)</span>
+					</div>
+					<div class="legend-item">
+						<div class="legend-color" style="background: rgba(244, 67, 54, 0.5);"></div>
+						<span>Puste (brak zdjęć)</span>
+					</div>
+					<div class="legend-item">
+						<div class="legend-color legend-circle" style="background: rgba(33, 150, 243, 0.8);"></div>
+						<span>Stacje kolejowe</span>
+					</div>
+					<div class="legend-item">
+						<div class="legend-color legend-line" style="background: rgba(255, 152, 0, 1);"></div>
+						<span>Sugerowana trasa</span>
+					</div>
+				</div>
+			</aside>
+			<div class="planner-map">
+				<div id="map"></div>
+			</div>
+		</div>
+	</div>
+}

@@ -4,13 +4,13 @@
   total_distance_km: 63.425
   points_count: 200.0
   towns:
-  - slug: rzgow
+  - slug: rzgow-wielkopolskie
     name: Rzgów
     code: "3010082"
     distance_meters: 14847.9
     distance_km: 14.848
     distance_percent: 23.4102
-  - slug: czermin
+  - slug: czermin-wielkopolskie
     name: Czermin
     code: "3020022"
     distance_meters: 11590.18
@@ -115,7 +115,7 @@
     distance_meters: 1804.94
     distance_km: 1.805
     distance_percent: 2.8458
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 1081.19
@@ -165,7 +165,7 @@
   - slug: pleszew
     name: Pleszew
     code: "3020063"
-  - slug: czermin
+  - slug: czermin-wielkopolskie
     name: Czermin
     code: "3020022"
   - slug: chocz
@@ -177,7 +177,7 @@
   - slug: grodziec
     name: Grodziec
     code: "3010022"
-  - slug: rzgow
+  - slug: rzgow-wielkopolskie
     name: Rzgów
     code: "3010082"
   - slug: zagorow
@@ -219,7 +219,7 @@
   - slug: kotlina_kolska
     name: Kotlina Kolska
     code: "318.14"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

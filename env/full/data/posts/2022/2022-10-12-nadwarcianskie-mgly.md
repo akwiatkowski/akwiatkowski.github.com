@@ -20,6 +20,7 @@ map_zooms:              16
 distance:               5
 time_spent:             2
 elevation:              7
+terrain:                1.4 # m/km przewyższeń — płaski
 temperature:            4
 
 

@@ -1,0 +1,151 @@
+---
+- image_filename: IMGP5585b.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.74354500511422
+  lon: 16.15839153530472
+  altitude: 532.23
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 11
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T10:23:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP5671b.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.734265903000264
+  lon: 16.14439786412179
+  altitude: 508.19
+  focal_length: 35
+  focal_length_35: 52
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T11:37:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: IMGP5850b.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.706557594201186
+  lon: 16.175872497325386
+  altitude: 769.67
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T13:33:29+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP5920.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.704087615003544
+  lon: 16.179289882996844
+  altitude: 768.23
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T13:43:52+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP6097b.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.69580847400077
+  lon: 16.19603038763454
+  altitude: 765.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T14:54:57+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: header.jpg
+  post_slug: 2012-12-10-na-lesista-wielka
+  lat: 50.70622189901602
+  lon: 16.17606846618867
+  altitude: 765.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 2048
+  height: 1356
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-12-10T13:34:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3

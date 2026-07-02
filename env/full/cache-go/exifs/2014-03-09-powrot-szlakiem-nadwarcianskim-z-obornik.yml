@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP4074raw1.jpg
+  post_slug: 2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik
+  lat: 52.63475582930048
+  lon: 16.894444255222524
+  altitude: 88.58
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-03-09T13:39:45+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP4084raw1.jpg
+  post_slug: 2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik
+  lat: 52.6141768321513
+  lon: 16.930214026888823
+  altitude: 77.04
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-03-09T14:20:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+- image_filename: header.jpg
+  post_slug: 2014-03-09-powrot-szlakiem-nadwarcianskim-z-obornik
+  lat: 52.50639117324561
+  lon: 16.965280724682245
+  altitude: 46.76
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-03-09T16:29:05+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3

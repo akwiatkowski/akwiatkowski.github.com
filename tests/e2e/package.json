@@ -1,0 +1,20 @@
+{
+  "name": "odkrywajacpolske-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end tests for OdkrywajacPolske.pl",
+  "scripts": {
+    "test": "playwright test",
+    "test:smoke": "playwright test specs/smoke.spec.js",
+    "test:posts": "playwright test specs/posts.spec.js",
+    "test:map": "playwright test specs/map.spec.js",
+    "test:gallery": "playwright test specs/gallery.spec.js",
+    "test:static": "playwright test specs/static.spec.js",
+    "test:js": "playwright test specs/js-pages.spec.js",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report reports"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}

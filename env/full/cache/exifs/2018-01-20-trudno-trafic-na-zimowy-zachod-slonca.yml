@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP4890raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.799125
+  lon: 16.125280555555555
+  altitude: 515.2
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -12,6 +15,9 @@
   time: 2018-01-19 12:24:40.000000000+01:00
 - image_filename: IMGP4897raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.801066666666664
+  lon: 16.128733333333333
+  altitude: 494.9
   focal_length: 310.0
   focal_length_35: 465.0
   crop: 1.5
@@ -23,6 +29,9 @@
   time: 2018-01-19 12:30:56.000000000+01:00
 - image_filename: IMGP4899raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.80221944444444
+  lon: 16.128227777777777
+  altitude: 493.1
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -34,6 +43,9 @@
   time: 2018-01-19 12:32:22.000000000+01:00
 - image_filename: IMGP4908raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.80105833333333
+  lon: 16.12325277777778
+  altitude: 495.9
   focal_length: 370.0
   focal_length_35: 555.0
   crop: 1.5
@@ -45,6 +57,9 @@
   time: 2018-01-19 12:42:38.000000000+01:00
 - image_filename: IMGP4909raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.800463888888885
+  lon: 16.122344444444444
+  altitude: 505.3
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -56,6 +71,9 @@
   time: 2018-01-19 12:45:13.000000000+01:00
 - image_filename: IMGP4925raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.799347222222224
+  lon: 16.12193611111111
+  altitude: 514.2
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -78,6 +96,9 @@
   time: 2018-01-19 12:55:27.000000000+01:00
 - image_filename: IMGP4935raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.798566666666666
+  lon: 16.120480555555556
+  altitude: 512.5
   focal_length: 500.0
   focal_length_35: 750.0
   crop: 1.5
@@ -89,6 +110,9 @@
   time: 2018-01-19 12:56:04.000000000+01:00
 - image_filename: IMGP4937raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.798538888888885
+  lon: 16.120483333333333
+  altitude: 512.0
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5
@@ -100,6 +124,9 @@
   time: 2018-01-19 12:56:53.000000000+01:00
 - image_filename: IMGP4939raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.79853055555555
+  lon: 16.120469444444446
+  altitude: 512.0
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5
@@ -111,6 +138,9 @@
   time: 2018-01-19 12:57:09.000000000+01:00
 - image_filename: IMGP4943raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.798361111111106
+  lon: 16.119902777777778
+  altitude: 509.6
   focal_length: 230.0
   focal_length_35: 345.0
   crop: 1.5
@@ -133,6 +163,9 @@
   time: 2018-01-19 13:01:28.000000000+01:00
 - image_filename: IMGP4962raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.79769722222222
+  lon: 16.117383333333333
+  altitude: 506.3
   focal_length: 170.0
   focal_length_35: 255.0
   crop: 1.5
@@ -144,6 +177,9 @@
   time: 2018-01-19 13:05:09.000000000+01:00
 - image_filename: IMGP4973raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.798575
+  lon: 16.115591666666667
+  altitude: 507.7
   focal_length: 21.0
   focal_length_35: 31.0
   crop: 1.4761904761904763
@@ -166,6 +202,9 @@
   time: 2018-01-19 13:18:35.000000000+01:00
 - image_filename: IMGP4985raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.79899444444444
+  lon: 16.11476111111111
+  altitude: 509.2
   focal_length: 29.0
   focal_length_35: 43.0
   crop: 1.4827586206896552
@@ -188,6 +227,9 @@
   time: 2018-01-19 13:20:21.000000000+01:00
 - image_filename: IMGP5020raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.79931111111111
+  lon: 16.114230555555558
+  altitude: 509.6
   focal_length: 310.0
   focal_length_35: 465.0
   crop: 1.5
@@ -210,6 +252,9 @@
   time: 2018-01-20 08:04:58.000000000+01:00
 - image_filename: IMGP5122raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.794511111111106
+  lon: 16.127358333333333
+  altitude: 468.8
   focal_length: 20.0
   focal_length_35: 30.0
   crop: 1.5
@@ -232,6 +277,9 @@
   time: 2018-01-20 08:32:48.000000000+01:00
 - image_filename: IMGP5127raw1.jpg
   post_slug: 2018-01-20-trudno-trafic-na-zimowy-zachod-slonca
+  lat: 50.794019444444444
+  lon: 16.127425
+  altitude: 468.3
   focal_length: 20.0
   focal_length_35: 30.0
   crop: 1.5

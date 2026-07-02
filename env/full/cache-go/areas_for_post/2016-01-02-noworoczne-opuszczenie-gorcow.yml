@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 5793.49
+  total_distance_km: 5.793
+  points_count: 68
+  towns:
+    - slug: rabka-zdroj
+      name: Rabka-Zdrój
+      code: "1211123"
+      distance_meters: 5793.49
+      distance_km: 5.793
+      distance_percent: 100
+  counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 5793.49
+      distance_km: 5.793
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 5793.49
+      distance_km: 5.793
+      distance_percent: 100
+  meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+      distance_meters: 3373.18
+      distance_km: 3.373
+      distance_percent: 58.2236
+    - slug: pogorze_orawsko-jordanowskie
+      name: Pogórze Orawsko-Jordanowskie
+      code: "513.50"
+      distance_meters: 2420.31
+      distance_km: 2.42
+      distance_percent: 41.7764
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 5793.49
+      distance_km: 5.793
+      distance_percent: 100
+  touched_towns:
+    - slug: rabka-zdroj
+      name: Rabka-Zdrój
+      code: "1211123"
+  touched_counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+    - slug: pogorze_orawsko-jordanowskie
+      name: Pogórze Orawsko-Jordanowskie
+      code: "513.50"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

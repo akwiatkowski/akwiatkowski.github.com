@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 48079.12
+  total_distance_km: 48.079
+  points_count: 289
+  towns:
+    - slug: milicz
+      name: Milicz
+      code: "0213033"
+      distance_meters: 35112.82
+      distance_km: 35.113
+      distance_percent: 73.0313
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+      distance_meters: 12966.29
+      distance_km: 12.966
+      distance_percent: 26.9687
+  counties:
+    - slug: milicki
+      name: milicki
+      code: "0213"
+      distance_meters: 35112.82
+      distance_km: 35.113
+      distance_percent: 73.0313
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+      distance_meters: 12966.29
+      distance_km: 12.966
+      distance_percent: 26.9687
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 48079.12
+      distance_km: 48.079
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+      distance_meters: 21390.85
+      distance_km: 21.391
+      distance_percent: 44.4909
+    - slug: kotlina_milicka
+      name: Kotlina Milicka
+      code: "318.34"
+      distance_meters: 19927.87
+      distance_km: 19.928
+      distance_percent: 41.4481
+    - slug: wzgorza_twardogorskie
+      name: Wzgórza Twardogórskie
+      code: "318.45"
+      distance_meters: 6760.4
+      distance_km: 6.76
+      distance_percent: 14.061
+  macro_regions:
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 41318.72
+      distance_km: 41.319
+      distance_percent: 85.939
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 6760.4
+      distance_km: 6.76
+      distance_percent: 14.061
+  touched_towns:
+    - slug: milicz
+      name: Milicz
+      code: "0213033"
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+  touched_counties:
+    - slug: milicki
+      name: milicki
+      code: "0213"
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_milicka
+      name: Kotlina Milicka
+      code: "318.34"
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+    - slug: wzgorza_twardogorskie
+      name: Wzgórza Twardogórskie
+      code: "318.45"
+  touched_macro_regions:
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"

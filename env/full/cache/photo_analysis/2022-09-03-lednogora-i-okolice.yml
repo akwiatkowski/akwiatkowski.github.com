@@ -1,0 +1,451 @@
+---
+- image_filename: 2022_09_03__12_40_P9030028.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 0000343c387c3d3f
+  dhash: d0d26961e0e07363
+  phash: 8f7239c13ccbd225
+  avg_rgb:
+  - 89
+  - 88
+  - 73
+  top5_rgb:
+  - - 76
+    - 53
+    - 56
+  - - 73
+    - 94
+    - 58
+  - - 69
+    - 79
+    - 61
+  - - 110
+    - 106
+    - 101
+  - - 38
+    - 47
+    - 31
+- image_filename: 2022_09_03__12_40_P9030030.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: fec0003838303f38
+  dhash: 26a5b3e36169e6b3
+  phash: ccf0b4c7cd87530c
+  avg_rgb:
+  - 110
+  - 111
+  - 85
+  top5_rgb:
+  - - 116
+    - 106
+    - 101
+  - - 95
+    - 120
+    - 55
+  - - 129
+    - 136
+    - 123
+  - - 129
+    - 123
+    - 104
+  - - 66
+    - 81
+    - 42
+- image_filename: 2022_09_03__12_43_P9030033.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: ffffffffff000000
+  dhash: 8f669211f3ca1f1a
+  phash: a5ed7723f2725090
+  avg_rgb:
+  - 111
+  - 129
+  - 145
+  top5_rgb:
+  - - 49
+    - 57
+    - 40
+  - - 47
+    - 76
+    - 100
+  - - 45
+    - 72
+    - 95
+  - - 59
+    - 67
+    - 51
+  - - 71
+    - 141
+    - 195
+- image_filename: 2022_09_03__12_46_P9030040.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: ffffffff00000000
+  dhash: 361c245a5c869661
+  phash: 959fea101fe46c15
+  avg_rgb:
+  - 118
+  - 129
+  - 141
+  top5_rgb:
+  - - 130
+    - 150
+    - 176
+  - - 131
+    - 147
+    - 171
+  - - 63
+    - 67
+    - 55
+  - - 169
+    - 170
+    - 176
+  - - 191
+    - 184
+    - 178
+- image_filename: 2022_09_03__12_48_P9030042.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 18181e1f0f0d1f0f
+  dhash: b0f2f07878f9faff
+  phash: 995c686a3e964a9b
+  avg_rgb:
+  - 107
+  - 111
+  - 97
+  top5_rgb:
+  - - 41
+    - 44
+    - 46
+  - - 48
+    - 51
+    - 37
+  - - 99
+    - 99
+    - 69
+  - - 71
+    - 69
+    - 60
+  - - 157
+    - 179
+    - 191
+- image_filename: 2022_09_03__12_49_P9030043.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 3f3e3e3e04080cfc
+  dhash: f4f2ec6868d9d8a0
+  phash: 9694ec699e92b2d4
+  avg_rgb:
+  - 112
+  - 117
+  - 92
+  top5_rgb:
+  - - 85
+    - 88
+    - 43
+  - - 192
+    - 255
+    - 255
+  - - 184
+    - 180
+    - 190
+  - - 135
+    - 171
+    - 164
+  - - 137
+    - 147
+    - 149
+- image_filename: 2022_09_03__12_57_P9030044.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: f0d00040f0fcfeff
+  dhash: 0121b34381b0a824
+  phash: e86eeec3e7030313
+  avg_rgb:
+  - 119
+  - 116
+  - 86
+  top5_rgb:
+  - - 130
+    - 120
+    - 62
+  - - 133
+    - 128
+    - 82
+  - - 154
+    - 138
+    - 91
+  - - 167
+    - 147
+    - 110
+  - - 74
+    - 84
+    - 38
+- image_filename: 2022_09_03__12_58_P9030046.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: e14f27e7c300843c
+  dhash: 9b9b6e4e8f4f0c71
+  phash: a3a1d87ae0f64e29
+  avg_rgb:
+  - 84
+  - 102
+  - 110
+  top5_rgb:
+  - - 114
+    - 107
+    - 96
+  - - 0
+    - 74
+    - 139
+  - - 61
+    - 115
+    - 166
+  - - 80
+    - 82
+    - 33
+  - - 0
+    - 86
+    - 158
+- image_filename: 2022_09_03__13_04_P9030048.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: e0e1f4fdff000000
+  dhash: 83072d610687b329
+  phash: eaea7161ed4a1654
+  avg_rgb:
+  - 85
+  - 111
+  - 125
+  top5_rgb:
+  - - 0
+    - 66
+    - 126
+  - - 131
+    - 138
+    - 151
+  - - 0
+    - 62
+    - 124
+  - - 0
+    - 85
+    - 155
+  - - 63
+    - 58
+    - 27
+- image_filename: 2022_09_03__13_04_P9030050.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: fffffbfbf0000000
+  dhash: c3edd2d30766d994
+  phash: edc11266ed490de6
+  avg_rgb:
+  - 121
+  - 124
+  - 120
+  top5_rgb:
+  - - 94
+    - 79
+    - 47
+  - - 95
+    - 80
+    - 57
+  - - 107
+    - 88
+    - 62
+  - - 140
+    - 153
+    - 172
+  - - 105
+    - 152
+    - 197
+- image_filename: 2022_09_03__13_36_P9030059.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: cfe707ffff000000
+  dhash: 9fcf9ddf5f180501
+  phash: b0b07979d8183cbe
+  avg_rgb:
+  - 108
+  - 118
+  - 129
+  top5_rgb:
+  - - 41
+    - 76
+    - 119
+  - - 129
+    - 133
+    - 141
+  - - 61
+    - 53
+    - 39
+  - - 59
+    - 52
+    - 42
+  - - 62
+    - 54
+    - 42
+- image_filename: 2022_09_03__13_39_P9030062.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 00c0eefefffe0000
+  dhash: 611c981833c0f0b0
+  phash: d1f02e0e2e53d1b9
+  avg_rgb:
+  - 74
+  - 92
+  - 103
+  top5_rgb:
+  - - 0
+    - 63
+    - 133
+  - - 47
+    - 50
+    - 21
+  - - 54
+    - 50
+    - 33
+  - - 147
+    - 121
+    - 44
+  - - 49
+    - 46
+    - 33
+- image_filename: 2022_09_03__13_39_P9030063.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: fcf9ffff00000000
+  dhash: 98a16666ef5966e2
+  phash: c7f0507210bdb735
+  avg_rgb:
+  - 96
+  - 102
+  - 92
+  top5_rgb:
+  - - 146
+    - 152
+    - 160
+  - - 135
+    - 145
+    - 159
+  - - 163
+    - 163
+    - 163
+  - - 0
+    - 83
+    - 148
+  - - 129
+    - 117
+    - 23
+- image_filename: 2022_09_03__13_39_P9030066.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: ffe7e300802f3f6f
+  dhash: 8f4d4fcf0c48ced2
+  phash: a3f6899e580fd928
+  avg_rgb:
+  - 107
+  - 104
+  - 73
+  top5_rgb:
+  - - 160
+    - 162
+    - 173
+  - - 111
+    - 131
+    - 160
+  - - 165
+    - 151
+    - 38
+  - - 131
+    - 143
+    - 165
+  - - 84
+    - 115
+    - 154
+- image_filename: 2022_09_03__13_39_P9030069.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 80007070fc9cfefe
+  dhash: 2d31e3451038e000
+  phash: ce6e7a32f686c1c0
+  avg_rgb:
+  - 87
+  - 99
+  - 107
+  top5_rgb:
+  - - 0
+    - 38
+    - 103
+  - - 1
+    - 36
+    - 102
+  - - 144
+    - 121
+    - 85
+  - - 129
+    - 107
+    - 46
+  - - 152
+    - 127
+    - 87
+- image_filename: 2022_09_03__13_40_P9030070.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 8fc72026ff070f1f
+  dhash: 181ccc6cf2efba7a
+  phash: b372b8b18f174750
+  avg_rgb:
+  - 87
+  - 99
+  - 103
+  top5_rgb:
+  - - 181
+    - 155
+    - 104
+  - - 0
+    - 47
+    - 118
+  - - 196
+    - 168
+    - 128
+  - - 0
+    - 55
+    - 133
+  - - 132
+    - 114
+    - 30
+- image_filename: 2022_09_03__13_42_P9030073.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: fff3fe6e00000001
+  dhash: 1ca7c09c9a7c2e6b
+  phash: d4e4be363195924d
+  avg_rgb:
+  - 103
+  - 122
+  - 126
+  top5_rgb:
+  - - 0
+    - 138
+    - 227
+  - - 88
+    - 74
+    - 44
+  - - 98
+    - 83
+    - 54
+  - - 90
+    - 79
+    - 42
+  - - 93
+    - 83
+    - 40
+- image_filename: 2022_09_03__15_32_P9030074.jpg
+  post_slug: 2022-09-03-lednogora-i-okolice
+  ahash: 0000f8fefcb81818
+  dhash: "8008005850713033"
+  phash: db722c0fd1904e6d
+  avg_rgb:
+  - 76
+  - 78
+  - 68
+  top5_rgb:
+  - - 51
+    - 52
+    - 47
+  - - 57
+    - 56
+    - 53
+  - - 48
+    - 49
+    - 47
+  - - 42
+    - 43
+    - 41
+  - - 71
+    - 71
+    - 58

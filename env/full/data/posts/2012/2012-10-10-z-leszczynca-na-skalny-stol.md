@@ -5,6 +5,7 @@ subtitle:               "przez dwa pasma górskie i chwila w Czechach"
 desc:                   "Mając cały dzień na wydostanie się z południowych Rudaw Janowickich postanowiliśmy, że warto by było zobaczyć również wschodnie Karkonosze. Wiele dobrego słyszałem o okolicy Przełęczy Okraj. Przy okazji mógłbym zobaczyć okolicę Kowar i Ogorzelca, które tak bardzo mi się spodobały zimą."
 keywords:               [jesień, rudawy, rudawy janowickie, leszczyniec, kowary, przełęcz okraj, ogorzelec, mala upa, karpacz, skalny stół]
 date:                   2012-10-10 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains, best]

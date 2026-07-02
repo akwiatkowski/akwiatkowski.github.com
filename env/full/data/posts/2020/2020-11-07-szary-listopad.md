@@ -20,6 +20,7 @@ map_zooms:              16
 distance:               3
 time_spent:             2
 elevation:              31
+terrain:                10.3 # m/km przewyższeń — pofalowany
 temperature:            11
 
 strava: 4307067309

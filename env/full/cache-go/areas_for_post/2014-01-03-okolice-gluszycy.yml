@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 2105.37
+  total_distance_km: 2.105
+  points_count: 42
+  towns:
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+      distance_meters: 2105.37
+      distance_km: 2.105
+      distance_percent: 100
+  counties:
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+      distance_meters: 2105.37
+      distance_km: 2.105
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 2105.37
+      distance_km: 2.105
+      distance_percent: 100
+  meso_regions:
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+      distance_meters: 2002.9
+      distance_km: 2.003
+      distance_percent: 95.1333
+    - slug: gory_sowie
+      name: Góry Sowie
+      code: "332.44"
+      distance_meters: 102.46
+      distance_km: 0.102
+      distance_percent: 4.8667
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 2105.37
+      distance_km: 2.105
+      distance_percent: 100
+  touched_towns:
+    - slug: gluszyca
+      name: Głuszyca
+      code: "0221053"
+  touched_counties:
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_sowie
+      name: Góry Sowie
+      code: "332.44"
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

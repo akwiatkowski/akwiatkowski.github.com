@@ -1,0 +1,173 @@
+---
+- image_filename: IMGP1863b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.542061211457764
+  lon: 20.147787099705457
+  altitude: 1250.33
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T11:46:37+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1876b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.54276747062461
+  lon: 20.140519235239424
+  altitude: 1232.07
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T11:56:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1891b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.543470879991816
+  lon: 20.118647329497634
+  altitude: 1258.98
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T13:44:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1892b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.54345621160054
+  lon: 20.118386987596807
+  altitude: 1275.81
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 3264
+  height: 4928
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T13:51:36+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1935b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.55093714409366
+  lon: 20.096873994946012
+  altitude: 1162.37
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T14:51:44+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1992b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  lat: 49.581691436500066
+  lon: 20.009832289055975
+  altitude: 842.73
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T17:52:12+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2012b.jpg
+  post_slug: 2013-05-04-centralne-i-zachodnia-czesc-gorcow
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 2.8
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2013-05-04T22:21:06+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0

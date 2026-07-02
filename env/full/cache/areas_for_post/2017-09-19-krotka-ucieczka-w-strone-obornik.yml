@@ -16,7 +16,7 @@
     distance_meters: 12913.98
     distance_km: 12.914
     distance_percent: 36.0806
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
     distance_meters: 9357.3
@@ -87,7 +87,7 @@
   - slug: poznan
     name: Poznań
     code: "3064011"
-  - slug: rokietnica
+  - slug: rokietnica-wielkopolskie
     name: Rokietnica
     code: "3021132"
   - slug: oborniki

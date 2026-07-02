@@ -4,7 +4,7 @@
   total_distance_km: 21.905
   points_count: 385.0
   towns:
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
     distance_meters: 7386.79
@@ -16,7 +16,7 @@
     distance_meters: 7355.07
     distance_km: 7.355
     distance_percent: 33.5769
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
     distance_meters: 3560.76
@@ -93,7 +93,7 @@
   - slug: ochotnica_dolna
     name: Ochotnica Dolna
     code: "1211102"
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
   - slug: kamienica
@@ -102,7 +102,7 @@
   - slug: niedzwiedz
     name: Niedźwiedź
     code: "1207102"
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
   touched_counties:

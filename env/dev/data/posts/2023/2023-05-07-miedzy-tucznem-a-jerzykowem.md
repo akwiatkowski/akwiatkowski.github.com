@@ -34,4 +34,6 @@ strava: 9028940467
 
 ## Wstęp
 
+AB
+
 ## Szczegóły

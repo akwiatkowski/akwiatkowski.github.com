@@ -19,6 +19,7 @@ map_zooms:              16
 distance:               8
 time_spent:             4
 elevation:              311
+terrain:                38.9 # m/km przewyższeń — górzysty
 
 pois:
 

@@ -16,7 +16,7 @@
     distance_meters: 13797.92
     distance_km: 13.798
     distance_percent: 23.2638
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
     distance_meters: 12893.0
@@ -59,13 +59,13 @@
     distance_meters: 23585.19
     distance_km: 23.585
     distance_percent: 39.7656
-  - slug: ropczyckosedziszowski
+  - slug: ropczycko-sedziszowski
     name: ropczycko-sędziszowski
     code: "1815"
     distance_meters: 19148.47
     distance_km: 19.148
     distance_percent: 32.2851
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 16576.94
@@ -91,7 +91,7 @@
     distance_meters: 46026.27
     distance_km: 46.026
     distance_percent: 77.6021
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
     distance_meters: 8578.76
@@ -159,7 +159,7 @@
   - slug: frysztak
     name: Frysztak
     code: "1819022"
-  - slug: wisniowa
+  - slug: wisniowa-podkarpackie
     name: Wiśniowa
     code: "1819052"
   - slug: strzyzow
@@ -175,7 +175,7 @@
     name: Sędziszów Małopolski
     code: "1815043"
   touched_counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   - slug: krosno
@@ -184,7 +184,7 @@
   - slug: strzyzowski
     name: strzyżowski
     code: "1819"
-  - slug: ropczyckosedziszowski
+  - slug: ropczycko-sedziszowski
     name: ropczycko-sędziszowski
     code: "1815"
   touched_voivodeships:
@@ -192,7 +192,7 @@
     name: PODKARPACKIE
     code: "18"
   touched_meso_regions:
-  - slug: kotlina_jasielskokrosnienska
+  - slug: kotlina_jasielsko-krosnienska
     name: Kotlina Jasielsko-Krośnieńska
     code: "513.67"
   - slug: pogorze_strzyzowskie

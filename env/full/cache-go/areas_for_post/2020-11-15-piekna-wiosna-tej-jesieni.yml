@@ -1,0 +1,243 @@
+---
+- type: car
+  total_distance_meters: 127379.25
+  total_distance_km: 127.379
+  points_count: 286
+  towns:
+    - slug: powidz
+      name: Powidz
+      code: "3023052"
+      distance_meters: 24284.43
+      distance_km: 24.284
+      distance_percent: 19.0647
+    - slug: kostrzyn
+      name: Kostrzyn
+      code: "3021083"
+      distance_meters: 15607.69
+      distance_km: 15.608
+      distance_percent: 12.2529
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 13356.77
+      distance_km: 13.357
+      distance_percent: 10.4858
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+      distance_meters: 13213.04
+      distance_km: 13.213
+      distance_percent: 10.373
+    - slug: orchowo
+      name: Orchowo
+      code: "3023032"
+      distance_meters: 10710.04
+      distance_km: 10.71
+      distance_percent: 8.408
+    - slug: witkowo
+      name: Witkowo
+      code: "3003103"
+      distance_meters: 10156.48
+      distance_km: 10.156
+      distance_percent: 7.9734
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+      distance_meters: 9149.66
+      distance_km: 9.15
+      distance_percent: 7.183
+    - slug: niechanowo
+      name: Niechanowo
+      code: "3003082"
+      distance_meters: 8244.91
+      distance_km: 8.245
+      distance_percent: 6.4727
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+      distance_meters: 7314.15
+      distance_km: 7.314
+      distance_percent: 5.742
+    - slug: kleszczewo
+      name: Kleszczewo
+      code: "3021062"
+      distance_meters: 6990.83
+      distance_km: 6.991
+      distance_percent: 5.4882
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 3651.46
+      distance_km: 3.651
+      distance_percent: 2.8666
+    - slug: gniezno
+      name: Gniezno
+      code: "3003032"
+      distance_meters: 2781.38
+      distance_km: 2.781
+      distance_percent: 2.1835
+    - slug: kornik
+      name: Kórnik
+      code: "3021093"
+      distance_meters: 1918.42
+      distance_km: 1.918
+      distance_percent: 1.5061
+  counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 41709.95
+      distance_km: 41.71
+      distance_percent: 32.7447
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 41525.16
+      distance_km: 41.525
+      distance_percent: 32.5996
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+      distance_meters: 34994.47
+      distance_km: 34.994
+      distance_percent: 27.4727
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 13356.77
+      distance_km: 13.357
+      distance_percent: 10.4858
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 9149.66
+      distance_km: 9.15
+      distance_percent: 7.183
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 118229.59
+      distance_km: 118.23
+      distance_percent: 92.817
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 9149.66
+      distance_km: 9.15
+      distance_percent: 7.183
+  meso_regions:
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 91244.77
+      distance_km: 91.245
+      distance_percent: 71.6324
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 19265.64
+      distance_km: 19.266
+      distance_percent: 15.1246
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 12183.26
+      distance_km: 12.183
+      distance_percent: 9.5646
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 3116.87
+      distance_km: 3.117
+      distance_percent: 2.4469
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 1568.7
+      distance_km: 1.569
+      distance_percent: 1.2315
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 127379.25
+      distance_km: 127.379
+      distance_percent: 100
+  touched_towns:
+    - slug: gniezno
+      name: Gniezno
+      code: "3003011"
+    - slug: kleszczewo
+      name: Kleszczewo
+      code: "3021062"
+    - slug: kornik
+      name: Kórnik
+      code: "3021093"
+    - slug: kostrzyn
+      name: Kostrzyn
+      code: "3021083"
+    - slug: lubowo
+      name: Łubowo
+      code: "3003062"
+    - slug: niechanowo
+      name: Niechanowo
+      code: "3003082"
+    - slug: orchowo
+      name: Orchowo
+      code: "3023032"
+    - slug: powidz
+      name: Powidz
+      code: "3023052"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: strzelno
+      name: Strzelno
+      code: "0409043"
+    - slug: witkowo
+      name: Witkowo
+      code: "3003103"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: slupecki
+      name: słupecki
+      code: "3023"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

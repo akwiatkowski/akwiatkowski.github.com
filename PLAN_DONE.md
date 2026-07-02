@@ -1,0 +1,1876 @@
+# Renderer & Views Refactoring - Completed Work
+
+This document archives completed phases and architectural decisions.
+
+---
+
+## Phase 1: Cleanup & Documentation ✅ COMPLETE
+
+**Commit `9ddf621`** (2026-02-01):
+- Deleted 14 deprecated view files (`*ListView`, `*MasonryView` variants)
+- Removed dead code from renderer mixins
+- Created `VIEWS.md` documenting all 50+ active views
+- **-731 lines of dead code removed**
+
+---
+
+## Phase 1.5: Testing Infrastructure ✅ COMPLETE
+
+**Commit `95d6ecf`** (2026-02-01):
+- Created `RenderContext` class (Context Object pattern)
+- Created `MockRenderContext`, `MockPost`, `MockHtmlBuffer` for testing
+- Added **96 tests** covering all view categories
+- Updated `BaseView` to use context via lazy property
+
+---
+
+## Phase 2: View Registry + Coordinator ✅ COMPLETE
+
+**Decision**: Changed from Pipeline to Registry approach for better:
+- Explicit dependency declarations per view
+- Queryable "what runs when X changes?"
+- Eventually remove mixins entirely
+
+**Created files** (`data/src/view_registry/`):
+
+Core infrastructure:
+- `base.cr` - ViewRegistry class with `register()` and `task()` methods
+- `coordinator.cr` - RenderCoordinator executes based on what changed
+- `setup.cr` - Combines all registrations
+- `all.cr` - Requires everything
+
+Tasks (6 registered):
+- `tasks/setup_tasks.cr` - dev render, copy assets (priority 1-2)
+- `tasks/exif_tasks.cr` - EXIF initialization (priority 4)
+- `tasks/cache_tasks.cr` - nav_stats, town_photo, coord_quant (priority 5-6)
+
+Views (35 registered):
+- `views/entity_views.cr` - towns, tags, voivodeships, lands (priority 10-13)
+- `views/home_views.cr` - home, map, pois (priority 20-22)
+- `views/photo_views.cr` - galleries, photo maps (priority 30-35)
+- `views/stats_views.cr` - summary, year reports, burnout, towns history/timeline (priority 40-44)
+- `views/feed_views.cr` - RSS, Atom, JSON, sitemap, robots (priority 50-58)
+- `views/index_views.cr` - towns index, lands index (priority 60-61)
+- `views/static_views.cr` - more, about, english, JS pages (priority 90-96)
+- `views/debug_views.cr` - posts, camera stuff, missing EXIF (priority 100-102)
+
+Tests:
+- `spec/view_registry_spec.cr` - **49 tests** covering registry functionality
+
+**Integration**:
+- `blog.cr` - Added `view_registry`, `render_coordinator`, `render_with_registry` methods
+
+**Deleted abandoned files**:
+- `data/src/render_pipeline.cr`
+- `data/src/render_stages/`
+
+---
+
+## Phase 3: Full Mixin Removal ✅ COMPLETE
+
+**Goal**: All render logic in registry, no mixins
+
+**Completed**:
+- Deleted entire `renderer_mixin/` directory (12 files)
+- Converted per-post rendering to use `RenderContext.write_output()` directly
+- Renderer class is now a thin wrapper with only:
+  - `dev_render`, `copy_assets_and_photos`, `site_desc`, `all_mod_watchers`, `render_view`
+- All aggregate view logic in `view_registry/tasks/` and `view_registry/views/`
+- Fixed view require chains (`base_view.cr`, `page_view.cr`, etc.)
+- Deleted deprecated `PostListView::AbstractListView` (-36 lines)
+- Deleted deprecated `PostListView::PaginatedListView` (-74 lines)
+- Deleted deprecated `TodosView` (-189 lines)
+- Refactored spec support: extracted `MockHtmlBuffer`, `MockPost` into separate files, created `all.cr`
+
+**Infrastructure added:**
+- `RenderContext.write_output(view)` - render views from registry blocks
+- `RenderContext.validator` - access validator from registry blocks
+- `RenderContext.posts_descending`, `site_email`, `site_author`, `last_updated_at`, `years` - helpers for feed/stats views
+- `Renderer.render_view(view)` - public wrapper for write_output
+
+**Views migrated (35 total):**
+- entity_views.cr (4): Towns, Tags, Voivodeships, Lands
+- index_views.cr (2): Towns index, Lands index
+- home_views.cr (3): Home, Map, POIs
+- stats_views.cr (5): Summary, Year reports, Burnout, Towns history/timeline
+- static_views.cr (7): More, About, English, JS pages
+- feed_views.cr (9): RSS, Atom, JSON files, Sitemap, Robots
+- debug_views.cr (3): Debug posts, camera, missing EXIF
+- photo_views.cr (2): Photo galleries, Photo maps
+
+---
+
+## Deprecated Code Removed
+
+The old bicycle planner (`/todos/*`) was obsolete and replaced by JS-based pages:
+- `/pomysly_tras.html` - Trip Ideas page (renamed from pomysly.html)
+- `/pomysly_dla_zdjec.html` - Photo Planner page (renamed from pomysly2.html)
+
+**Files deleted:**
+- `views/todos_view.cr`
+- `views/post_list_view/abstract_list_view.cr`
+- `views/post_list_view/paginated_list_view.cr`
+- `renderer_mixin/render_todo.cr` (deleted with all mixins)
+- `TodoRouteEntity`
+- `TransportPoiEntity`
+
+---
+
+## Architectural Decisions
+
+### Architecture: Registry + Coordinator
+
+Implementation in `data/src/view_registry/`:
+- `ViewRegistry` - declares all views/tasks with dependencies
+- `RenderCoordinator` - executes based on what changed
+- Tasks (priority 1-9) - data preparation, no output
+- Views (priority 10-100) - actual rendering
+
+**Why Registry won**:
+- Single source of truth for all views and their dependencies
+- Queryable: "what runs when posts change?" → `registry.names_depending_on(:posts)`
+- Explicit priority controls execution order
+- Tasks allow data prep before views render
+- Supports gradual mixin removal
+- Can generate documentation from registry
+
+**Other options considered**:
+
+- **Command Pattern**: Similar benefits but more files (50+ command classes)
+- **Event-Driven**: Hard to trace flow, discoverability problem
+- **Render Pipeline**: Views hidden inside stages, less queryable
+
+### View Lifecycle: Context Object Pattern
+
+Implementation in `data/src/render_context.cr`:
+- `RenderContext` wraps Blog and provides typed accessors
+- Views access `context.posts`, `context.towns`, etc.
+- `BaseView` has lazy `context` property
+- `MockRenderContext` enables testing without Blog
+
+---
+
+## Registry Structure
+
+### File Structure
+
+```
+data/src/view_registry/
+  base.cr                 # ViewRegistry class
+  coordinator.cr          # RenderCoordinator class
+  all.cr                  # Requires everything
+  setup.cr                # Combines all registrations
+  tasks/
+    setup_tasks.cr        # Copy assets, dev render (2 tasks)
+    exif_tasks.cr         # EXIF initialization (1 task)
+    cache_tasks.cr        # Cache refresh tasks (3 tasks)
+  views/
+    entity_views.cr       # Towns, tags, voivodeships, lands (4 views)
+    home_views.cr         # Home, map, pois (3 views)
+    photo_views.cr        # Photo galleries + SVG maps (2 views)
+    stats_views.cr        # Summary, year reports, burnout, towns (5 views)
+    feed_views.cr         # RSS, Atom, JSON, sitemap, robots (9 views)
+    index_views.cr        # Towns index, lands index (2 views)
+    static_views.cr       # About, more, JS pages (7 views)
+    debug_views.cr        # Debug posts, camera, missing EXIF (3 views)
+
+spec/
+  view_registry_spec.cr   # 49 tests
+```
+
+**Totals**: 6 tasks + 35 views = 41 entries registered
+
+### Priority Guide
+
+| Priority | Type | Count | Examples |
+|----------|------|-------|----------|
+| 1-2 | Setup tasks | 2 | dev render, copy assets |
+| 4 | EXIF tasks | 1 | init all posts EXIF |
+| 5-6 | Cache tasks | 3 | nav_stats, town_photo, coord_quant |
+| 10-13 | Entity views | 4 | Towns, tags, voivodeships, lands |
+| 20-22 | Home views | 3 | Home, map, pois |
+| 30-35 | Photo views | 2 | Galleries (30), maps (35) |
+| 40-44 | Stats views | 5 | Summary, year reports, burnout, towns history/timeline |
+| 50-58 | Feed views | 9 | RSS, Atom, JSON, sitemap, robots |
+| 60-61 | Index views | 2 | Towns index, lands index |
+| 90-96 | Static views | 7 | About, more, english, JS pages |
+| 100-102 | Debug views | 3 | Debug posts, camera, missing EXIF |
+
+---
+
+## Test Coverage
+
+**View tests (96 tests):**
+- PostListView: 8 tests
+- DynamicView: 13 tests
+- StaticView: 7 tests
+- GalleryView: 17 tests
+- SpecialView: 8 tests
+- PhotoMap: 10 tests
+- Other views: 14 tests
+- RenderContext/mocks: 14 tests
+- Example patterns: 5 tests
+
+**Registry tests (49 tests):**
+- ViewRegistry core: 13 tests
+- Task registration: 4 tests
+- View registration: 8 tests
+- Priority ordering: 10 tests
+- Dependencies: 11 tests
+- Query methods: 6 tests
+
+**Total: 146 tests**
+
+---
+
+## Cost Estimates (Actual)
+
+- **Phase 1 (Cleanup)**: ~2 hours
+- **Phase 1.5 (Testing)**: ~2 hours
+- **Phase 2 (Registry)**: ~4 hours
+- **Phase 3 (Mixin Removal)**: ~3 hours
+
+---
+
+## Phase 11-13: Asset Management & HTML Processing ✅ COMPLETE
+
+**Goal**: Smart asset loading per view with inheritance, external JS files (no runtime Babel), and HTML validation.
+
+### Phase 11: Asset Bundle System ✅
+
+**Commits**: `b9866f83`, `c1c08994`
+
+1. **Bundle Configuration** - Created `data/config/asset_bundles.yml`
+   - Granular bundles: `bootstrap-css`, `fontawesome`, `leaflet-css`, `leaflet-js`, etc.
+   - Composite bundles: `core`, `leaflet`, `openlayers`, `react-runtime`, `gallery`
+   - Integrity hash support for SRI
+
+2. **Asset Bundle Loader** - Created `data/src/services/asset_bundle_loader.cr`
+   - Loads bundle config from YAML
+   - Resolves composites recursively
+   - Merges assets with deduplication
+   - Tracks integrity hashes
+
+3. **AssetAware Module** - Created `data/src/views/concerns/asset_aware.cr`
+   - `asset_bundles` - base bundles (default: `["core"]`)
+   - `additional_bundles` - append to parent's bundles
+   - `excluded_bundles` - remove from inheritance
+   - `page_js` - optional page-specific JS file
+   - `resolved_bundles` - compute final bundle list
+   - `assets_html` - generate tags with cache busting
+
+4. **Split head_open.html** - Created modular templates
+   - `include/head_meta.html` - charset, viewport, msapplication
+   - `include/head_icons.html` - favicons, apple-touch-icons
+   - `include/head_feeds.html` - RSS, Atom links
+
+5. **Updated BaseView**
+   - Included `AssetAware` module
+   - New `head_open_html_with_bundles` method
+   - Fallback to legacy `head_open_html_legacy` if no bundle loader
+
+6. **View Bundle Declarations**
+   - `AreaShowView` - `["leaflet", "react-runtime"]`
+   - `MapView` - `["openlayers"]`
+   - `JsIdeasView` - `["ideas-css", "leaflet", "react-runtime"]`
+   - `JsTimelineView` - `["leaflet", "timeline-js"]`
+   - `GalleryView::AbstractView` - `["gallery"]`
+   - `CollectionDynamicView` - `["post-collection-js"]`
+
+### Phase 12: External JavaScript ✅
+
+1. **Directory Structure** - Created `data/assets/js/src/`
+
+2. **Extracted nav_stats.js** (~30 lines)
+   - From inline script in `navigation/js_overload.html`
+   - To `data/assets/js/self/nav_stats.js`
+   - Loaded via `nav-js` bundle (part of `core`)
+
+3. **Extracted post_collection.js** (~200 lines)
+   - From inline script in `post_collection/dynamic.html`
+   - To `data/assets/js/self/post_collection.js`
+   - Uses JSON config block for template variables
+   - Loaded via `post-collection-js` bundle
+
+4. **Extracted timeline.js** (~600 lines)
+   - From inline script in `photos/timeline.html`
+   - To `data/assets/js/self/timeline.js`
+   - Template reduced from 1521 to 663 lines (CSS + HTML only)
+   - Loaded via `timeline-js` bundle
+
+### Phase 13: HTML Processing & Validation ✅
+
+1. **HtmlProcessor Service** - Created `data/src/services/html_processor.cr`
+   - Removes HTML comments (preserves IE conditionals)
+   - Runs validators on output
+   - Returns processed HTML with errors/warnings
+
+2. **HTML Validators** - Created `data/src/services/html_validators/`
+   - `MissingTitleValidator` - Checks `<title>` exists
+   - `EmptyTitleValidator` - Checks `<title>` not empty
+   - `DuplicateIdValidator` - Checks no duplicate IDs
+   - `UnprocessedPlaceholderValidator` - Checks no `{{...}}` left
+   - `MissingAltValidator` - Warns on `<img>` without `alt`
+   - `MissingLangValidator` - Warns on `<html>` without `lang`
+   - `InvalidHrefValidator` - Warns on `href="#"` or empty
+
+3. **Integration** - Added `validate_html_output` to `validator.cr`
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/config/asset_bundles.yml` | Bundle definitions |
+| `data/src/services/asset_bundle_loader.cr` | Load and resolve bundles |
+| `data/src/views/concerns/asset_aware.cr` | Asset mixin with inheritance |
+| `data/src/services/html_processor.cr` | Comment removal, validation |
+| `data/src/services/html_validators/base.cr` | Validator interface |
+| `data/src/services/html_validators/title_validators.cr` | Title checks |
+| `data/src/services/html_validators/duplicate_id_validator.cr` | Duplicate ID check |
+| `data/src/services/html_validators/placeholder_validator.cr` | Unprocessed `{{}}` check |
+| `data/src/services/html_validators/accessibility_validators.cr` | Alt/lang checks |
+| `data/src/services/html_validators/link_validators.cr` | Href checks |
+| `data/src/services/html_validators/all.cr` | Require all validators |
+| `data/layout/include/head_meta.html` | Meta tags only |
+| `data/layout/include/head_icons.html` | Favicons only |
+| `data/layout/include/head_feeds.html` | RSS/Atom links only |
+| `data/assets/js/self/nav_stats.js` | Navigation stats loader |
+| `data/assets/js/self/post_collection.js` | Post collection dynamic loader |
+| `data/assets/js/self/timeline.js` | Photo timeline viewer |
+| `spec/services/html_validators_spec.cr` | Validator tests |
+| `spec/services/asset_bundle_loader_spec.cr` | Bundle loader tests |
+
+### Test Results
+
+**220 tests passing** (199 original + 8 AssetBundleLoader + 13 HtmlValidators)
+
+---
+
+---
+
+## Phase 15: CSS Cleanup ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### What Was Done
+1. Deleted unused `css/tmp/` directory (76K, 11 files)
+2. Merged `clean-blog.css` into `new.css` (single base CSS file)
+3. Removed unused classes: `site-heading`, `page-heading`, `post-todo`
+4. Removed duplicate rules and obsolete vendor prefixes
+5. Added symbol-based `page_css` support for page-specific CSS
+
+### CSS Structure (After Cleanup)
+
+| File | Size | Loaded By |
+|------|------|-----------|
+| `new.css` | 17K | All pages (via `core` bundle) |
+| `new_gallery.css` | 7K | Gallery pages (via `page_css: ["gallery"]`) |
+| `coord_photo.css` | 2K | Gallery pages (via `page_css: ["gallery"]`) |
+| `ideas.css` | 6K | Ideas page (via `page_css: ["ideas"]`) |
+| `ol-blog.css` | 1K | Map page (via `openlayers` bundle) |
+
+### Savings
+- Deleted 76K unused CSS (`css/tmp/`)
+- Reduced clean-blog.css by ~0.5K (duplicates, empty rules)
+- Total: **~77K saved**
+
+---
+
+## Phase 18: Blog Article Visual Improvements ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Article Styling
+
+**CSS Changes (`new.css`):**
+- Article typography: Georgia serif, 1.125rem, line-height 1.75
+- Photo captions: cleaner hierarchy with `.photo-caption-title`
+- EXIF overlay: small text in bottom-right corner of photo, visible on hover
+- Dark mode support for captions
+
+**HTML Changes (`post/post_image_partial.html`):**
+- EXIF moved inside `<a>` tag as `<span class="photo-exif">` for overlay positioning
+- Caption title wrapped in `<span class="photo-caption-title">`
+
+### ImageResizer Upgrade
+
+**Analysis:**
+- Original photos are 2048px wide
+- Content column is ~760px
+- 1000px gives good HiDPI coverage (1.3x)
+
+**Old 6-size structure:**
+```crystal
+@@sizez = {
+  "medium"       => {width: 750, height: 600, quality: 88},
+  "small"        => {width: 600, height: 450, quality: 80},
+  "thumb"        => {width: 60, height: 40, quality: 65},
+  "big_thumb"    => {width: 150, height: 100, quality: 70},
+  "gallery_thumb"=> {width: 320, height: 200, quality: 84},
+  "gallery"      => {width: 450, height: 350, quality: 85},
+}
+```
+
+**New 4-size structure:**
+```crystal
+@@sizez = {
+  "article"   => {width: 1000, height: 800, quality: 85},
+  "card"      => {width: 700, height: 525, quality: 82},
+  "grid"      => {width: 560, height: 420, quality: 80},
+  "thumbnail" => {width: 150, height: 112, quality: 72},
+}
+```
+
+**Migration mapping:**
+| Old Name | New Name | Notes |
+|----------|----------|-------|
+| medium | article | Increased 750→1000px |
+| small | card | Increased 600→700px |
+| thumb | thumbnail | Merged with big_thumb |
+| big_thumb | thumbnail | Merged with thumb |
+| gallery_thumb | grid | Increased 320→560px |
+| gallery | article | Merged - 1000px works for lightbox |
+
+**Files Updated:**
+- `data/src/image_resizer.cr` - New size definitions
+- `data/src/tremolite/tremolite/image_resizer.cr` - Base class defaults
+- `data/src/models/photo_entity.cr` - Constants renamed (THUMBNAIL_PREFIX, etc.)
+- `data/src/post/photos.cr` - Method names updated
+- `data/src/views/special_view/photos_json_generator.cr` - JSON field names
+- `data/assets/js/src/area_show.jsx` - JS field references
+- `data/src/views/gallery_view/abstract_view.cr` - Added react-runtime bundle
+
+**Trade-offs:**
+- +23% storage (603KB vs 493KB per photo)
+- Better quality at larger sizes
+- 33% fewer files to generate (4 vs 6 sizes)
+
+---
+
+## Phase 16: Bootstrap 5 Migration ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Goal
+Upgrade Bootstrap 4 → 5 to remove jQuery dependency (-88K).
+
+### What Was Done
+
+1. **Downloaded Bootstrap 5.3.3 JS** (CSS was already 5.3.8)
+
+2. **Updated data attributes:**
+   - `data-toggle` → `data-bs-toggle`
+   - `data-target` → `data-bs-target`
+   - `data-placement` → `data-bs-placement`
+
+3. **Updated utility classes:**
+   - `mr-auto` → `me-auto`
+   - `ml-auto` → `ms-auto`
+
+4. **Rewrote `map.js` to vanilla JS** (removed all jQuery usage)
+
+5. **Updated asset bundles:**
+   - Removed jQuery from `core` bundle
+   - Removed OpenLayers bundle (replaced with Leaflet)
+
+6. **Fixed tooltip initialization** - Bootstrap 5 requires explicit JS init
+
+### Files Updated
+
+| File | Changes |
+|------|---------|
+| `data/layout/include/navigation/static.html` | `data-toggle` → `data-bs-toggle` |
+| `data/layout/post/pager_*.html` | Tooltip data attributes |
+| `data/assets/js/self/map.js` | Vanilla JS rewrite |
+| `data/assets/js/self/nav_stats.js` | Tooltip init |
+| `data/config/asset_bundles.yml` | Removed jQuery, OpenLayers |
+
+### Savings
+
+| Before | After | Savings |
+|--------|-------|---------|
+| jQuery 88K | 0 | **-88K** |
+| OpenLayers 738K | 0 | **-738K** (replaced with Leaflet) |
+
+---
+
+## Phase 17: Preact Migration ✅ COMPLETE
+
+**Completed**: 2026-02-04
+
+### Goal
+Replace React (~140KB) with Preact (~25KB) for 82% size reduction.
+
+### What Was Done
+
+1. **Downloaded Preact UMD files** to `data/assets/js/libs/`:
+   - `preact.umd.js` (11K)
+   - `preact-hooks.umd.js` (4K)
+   - `preact-compat.umd.js` (10K)
+   - `preact-shim.js` (0.3K) - aliases Preact to React globals
+
+2. **Updated `asset_bundles.yml`:**
+   - Changed `react` bundle to use Preact files
+
+3. **Fixed React API usage:**
+   - Changed React 18 `createRoot().render()` → React 17 `ReactDOM.render()`
+   - Preact compat only supports React 17 API
+
+4. **Updated files:**
+   - `data/assets/js/src/*.jsx` - Source files
+   - `data/assets/js/self/*.js` - Transpiled files
+   - `data/layout/panoramio.html` - Inline script
+
+### Savings
+
+| Before | After | Savings |
+|--------|-------|---------|
+| React 139K | Preact 25K | **-114K (82%)** |
+
+---
+
+## Phase 16-17 Total Savings
+
+| Item | Savings |
+|------|---------|
+| jQuery removal | -88K |
+| OpenLayers → Leaflet | -738K |
+| React → Preact | -114K |
+| **Total** | **-940K** |
+
+---
+
+## Phase 19: Tag Filtering & More Page ✅ COMPLETE
+
+**Completed**: 2026-02-05
+
+### Tag Post List Filtering Fix
+
+**Problem**: Tag pages (`/wpisy-dla/tagu/rowerem.html`) showed all posts instead of filtered ones.
+
+**Root Cause**: `post_collection.js` read configuration at script load time (top-level variable), before DOM had the `#post-collection-config` element available.
+
+**Fix**: Moved config reading inside `loadPosts()` function which runs on DOMContentLoaded.
+
+```javascript
+// Before (broken) - config read at top level
+var CONFIG = getConfig();  // DOM not ready!
+var FILTER_BY = CONFIG.filterBy || '';
+
+// After (fixed) - config read inside loadPosts()
+function loadPosts() {
+  var CONFIG = getConfig();  // DOM is ready
+  FILTER_BY = CONFIG.filterBy || '';
+  // ... rest of function
+}
+```
+
+### E2E Tests for Tag Filtering
+
+Created `tests/e2e/specs/tag-filtering.spec.js`:
+- Bicycle tag page loads and shows posts
+- Only shows posts with bicycle tag (count verification)
+- Hike tag page loads and shows posts
+- Only shows posts with hike tag (count verification)
+- Filter configuration verification for both pages
+- No JS errors check
+
+### NewMoreView and Footer Updates
+
+**Footer changes:**
+- Removed GitHub link
+- Changed RSS link → Galeria (/galeria.html)
+- Added Więcej link (/wiecej.html)
+- Moved O mnie to bottom position
+
+**New More Page (`/wiecej.html`):**
+- Created `NewMoreView` with modern homepage styling
+- Card-based link grid with SVG icons
+- Clean design with single link to Panoramio map
+
+**Old More Page:**
+- Moved to `/wiecej2.html`
+- Marked as DEPRECATED in code
+
+### CSS Refinements
+
+**Body margin fix:**
+- Browser default 8px margin caused background color mismatch
+- Added `body { margin: 0; padding: 0; }` to both `new.css` and `new-home.css`
+
+**Nav/footer background:**
+- Adjusted frosted glass effect colors
+- Light mode: slightly darker (`rgba(245,245,244,0.92)`)
+- Dark mode: slightly lighter (`rgba(35,35,35,0.92)`)
+
+### URL Changes
+
+- About page: `/o_mnie.html` → `/o-mnie.html`
+- Added redirect from old URL using `TemporaryRedirectView`
+
+### Files Changed
+
+| File | Changes |
+|------|---------|
+| `data/assets/js/self/post_collection.js` | Fixed config reading timing |
+| `data/assets/css/self/new.css` | Body margin reset, nav-bg colors |
+| `data/assets/css/self/new-home.css` | Body margin, nav-bg, more-links grid |
+| `data/src/views/new_more_view.cr` | New view class |
+| `data/src/views/static_view/more_view.cr` | Changed URL, marked deprecated |
+| `data/src/view_registry/views/static_views.cr` | NewMoreView, about redirect |
+| `data/layout/more/new.html` | New template |
+| `data/layout/include/footer_new.html` | Updated links |
+| `data/layout/home/new.html` | Updated footer links |
+| `tests/e2e/specs/tag-filtering.spec.js` | New test file |
+
+### Test Results
+
+**E2E Tests: 44 passed, 0 failed, 5 skipped**
+
+---
+
+## Phase 8: External (Foreign) Areas ✅ COMPLETE
+
+**Completed**: 2026-02-06
+
+### Goal
+Handle areas outside Poland (Czech Republic, Switzerland, Germany, Italy) with dedicated URL pattern and post rendering.
+
+### What Was Done
+
+1. **New `foreign:` key in post YAML** - Separates external areas from Polish towns
+   ```yaml
+   towns: [poznan]           # Polish only
+   foreign: [czechy_praga]   # External areas
+   ```
+
+2. **External areas config** - Created `data/config/areas/external_areas.yml`
+   - Country name lookup (for plain text fallback)
+   - Area definitions with country field
+
+3. **URL pattern** - `/zagranica/<slug>.html`
+   - Show page: `/zagranica/czechy_praga.html` (not implemented yet)
+   - Post list: `/wpisy-dla/zagranica/czechy_praga.html`
+
+4. **"Zagranica" section in posts** - Renders after Województwa
+   - External areas with entities → links
+   - Country-only slugs → plain text (e.g., "Szwajcaria")
+
+### Model Changes
+
+| File | Changes |
+|------|---------|
+| `area_entity.cr` | Added `country : String?` field, `external?` method |
+| `router.cr` | `/zagranica/` URL pattern for external areas |
+| `area_data_loader.cr` | Load external areas, country name lookup |
+| `render_context.cr` | `external_areas_with_posts`, `country_name` helpers |
+| `post/initializers.cr` | `foreign:` key parsing |
+| `post/areas.cr` | `foreign_slugs`, `foreign_entities` methods |
+| `article_view.cr` | "Zagranica" section with link/plain text fallback |
+
+### External Areas Defined
+
+**Czech Republic:**
+- `czechy_kraj_olomucki` - Kraj Ołomucki (voivodeship)
+- `czechy_kraj_morawsko_slaski` - Kraj Morawsko-Śląski (voivodeship)
+- `czechy_praga` - Praga (town)
+
+**Country placeholders** (render as plain text until regions added):
+- `szwajcaria`, `niemcy`, `wlochy`
+
+### Posts Migrated
+
+16 posts updated from `towns:` to `foreign:` key:
+- 6 Czech posts (2018-2019)
+- 6 Swiss posts (2022)
+- 4 German posts (2025)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/config/areas/external_areas.yml` | External areas + country lookup |
+| `external_area_post_list_view.cr` | Post list view for external areas |
+
+### Test Results
+
+**275 tests passing** (view count updated 39 → 40)
+
+---
+
+## Photo Planner Page Overhaul ✅ COMPLETE
+
+**Completed**: 2026-02-06
+
+### Goal
+Transform `/pomysly2.html` (standalone bicycle route planner) into an integrated site page at `/pomysly_dla_zdjec.html` with proper layout, bug fixes, dark mode, and optimized data loading.
+
+### Bugs Fixed
+
+1. **`time_distance` was an object, not a number** - `train_stations.json` output `{"Poznań": 2.5}` but frontend expected a number. Displayed as `[object Object]`. Fix: use `poznan_time_distance` method.
+2. **`countCellsOnSegment` wrong argument** - 3rd arg was `segment.from.lon` instead of `segment.to.lat`
+3. **Station popup said "km" instead of "h"** for train travel time
+4. **Dead code removed** - `generateGoogleMapsLink`, `generateOSRMLink`, `countBlankCellsInRadius`, duplicate comments, console.log calls
+
+### Optimized Data Loading
+
+Created `/jsons/photo_grid.json` (14 KB) replacing `/photos.json` (20 MB) fetch:
+- Only lat/lon coordinate pairs needed for the grid
+- 99.9% size reduction
+
+### Layout Integration
+
+Converted from standalone `full_html` page to integrated `content` method:
+- Uses `load_html("planner/planner", data)` template system
+- Gets site nav + footer automatically from `BaseView.to_html`
+- Declares `["leaflet"]` additional bundle and `["planner"]` page CSS
+
+### Styling Overhaul
+
+- Created `planner.css` with CSS custom properties (`--p-` prefix)
+- Full dark/light mode support via `prefers-color-scheme`
+- Panel-based sidebar: duration picker, results, stats grid, legend
+- Gradient route card headers, sticky sidebar, responsive breakpoint at 860px
+
+### Files Changed
+
+| File | Action |
+|------|--------|
+| `data/src/views/special_view/photo_grid_json_generator.cr` | **CREATED** - optimized JSON endpoint |
+| `data/src/views/special_view/train_stations_json_generator.cr` | **FIXED** - output number not hash |
+| `data/src/views/static_view/photo_planner_view.cr` | **RENAMED** from `js_bicycle_planner_view.cr`, rewritten |
+| `data/assets/css/self/planner.css` | **CREATED** - dark/light mode CSS |
+| `data/assets/js/self/planner.js` | **CREATED** - extracted/fixed JS |
+| `data/layout/planner/planner.html` | **CREATED** - body-only template |
+| `data/config/asset_bundles.yml` | Added `planner` page-asset |
+| `data/src/view_registry/views/feed_views.cr` | Registered photo grid JSON (priority 56) |
+| `data/src/view_registry/views/static_views.cr` | Renamed entry + URL |
+| `data/src/views/new_more_view.cr` | Added planner link |
+| `tests/e2e/specs/js-pages.spec.js` | 12 tests for photo planner |
+
+### Deleted Files
+
+- `data/layout/map/bicycle_planner.full.html`
+- `data/layout/map/bicycle_planner.html`
+- `data/layout/map/bicycle_planner.head.html`
+- `data/assets/js/tmp/planner.js` (old BlogPlanner)
+- `data/assets/js/tmp/planner.coffee`
+- `data/layout/planner.html` (old BlogPlanner template)
+
+### Test Results
+
+**275 Crystal tests passing, ~93 E2E tests passing**
+
+---
+
+## Phase 21: Area Show Page Redesign ✅ COMPLETE
+
+**Completed**: 2026-02-07
+
+### Goal
+Redesign the area show page (`/gmina/*.html`, etc.) with visual improvements, performance optimization, and new features.
+
+### Visual Changes
+
+1. **Removed intro-header interference** — Override `content` to skip PageView's `<header class="intro-header">` that conflicted with the full-viewport hero
+2. **Hero photo + map blend** — Three layers: best photo background (fixed), Leaflet map at 0.35 opacity, text overlay with gradient. Fallback: map at full opacity if no photo
+3. **Hero map fade-in** — Map starts invisible, fades in (0.8s transition) after polygon loads + 600ms delay, so tile loading/zooming is hidden
+4. **Year range in hero** — Shows "2019–2024" below area name instead of verbose stat cards
+5. **Compact stats bar** — Replaced 4 bulky stat cards with single inline line: `12 wypraw · 340km · 26h · 185 zdjec`
+6. **Working navigation links** — "Wszystkie wpisy" and "Pelna galeria" now link to actual post list and gallery URLs (were `#`)
+7. **Tight photo matrix** — CSS grid with `gap: 1px`, 5:4 aspect ratio, no borders/rounding, hover overlay
+8. **Vertical post cards** — Full-width rows with image on left, text on right (stacks on mobile)
+9. **Related areas section** — Photo-background cards with area name overlay, replaces text-link footer
+10. **Standalone map section** — Interactive Leaflet map (draggable, zoomable) in main content area
+
+### Performance Optimization (4x speedup: 1100ms → 272ms)
+
+| Problem | Before | After |
+|---------|--------|-------|
+| `AreaPhotoSelector` creation | 3-4x per page | 1x total via `context.photo_selector` |
+| `posts_for_area()` | Full scan every call | Memoized by `area_type:slug` in RenderContext |
+| `areas_with_posts()` | Recomputed on every call | Memoized by AreaType in RenderContext |
+| Photo array `flat_map` | 3-4x per page | 1x total inside shared selector |
+
+### Related Areas Algorithm
+
+Fuzzy scoring for finding 2-4 related areas:
+- BBox overlap (weighted 10x) via `intersection_area`
+- Shared posts (2x per shared post)
+- Same voivodeship bonus (+1)
+- Random multiplier (`rand(0.8..1.2)`) for variety
+- Candidates: Towns and MesoRegions with posts
+
+### Sorted Rendering
+
+All area views (show, post list, gallery) now render in sorted order by slug for deterministic output.
+
+### Shared Map Logic
+
+Extracted `initLeafletMap()` function shared between:
+- Hero map (non-interactive, fade-in)
+- Content map section (interactive, draggable)
+
+### Files Changed
+
+| File | Changes |
+|------|---------|
+| `data/src/views/area_show_view.cr` | Override content, add URLs/photo/related areas, use shared selector |
+| `data/src/render_context.cr` | Memoized `posts_for_area`, `areas_with_posts`, shared `photo_selector` |
+| `data/layout/area/show.html` | Complete CSS rewrite, new config fields |
+| `data/assets/js/src/area_show.jsx` | All components redesigned, shared map init |
+| `data/assets/js/self/area_show.js` | Regenerated via esbuild |
+| `data/src/view_registry/views/area_views.cr` | Sorted rendering by slug |
+
+### Test Results
+
+**274 Crystal tests passing, 110 E2E tests passing**
+
+---
+
+## Phase 22: Towns Index Page ✅ COMPLETE
+
+**Completed**: 2026-02-07
+
+### Goal
+Replace the old `ModelView::TownsIndexView` (basic `<ol>` list of all 2477 towns) with a modern, interactive Preact-powered page showing only ~500 towns with posts, grouped by voivodeship, with search/filter and photo cards.
+
+### Architecture
+Same pattern as area show page: Crystal generates inline JSON, HTML template provides CSS + structure, JSX provides interactive UI.
+
+### What Was Done
+
+1. **Crystal View** — Rewrote `TownsIndexView` with `load_html("towns/index", data)` template
+   - Inline JSON: voivodeships array + towns array (only towns with posts)
+   - Hero image: last finished post's card photo (fallback to config background)
+   - Deduplicates towns by slug (`.uniq(&.slug)`)
+   - Own `AreaPhotoSelector` instance for unique photo tracking
+
+2. **HTML Template** — Created `data/layout/towns/index.html`
+   - Hero section with background photo, title overlay
+   - CSS grid card layout (4-5 cols desktop, 2 cols mobile)
+   - Town cards: photo background, name overlay, post count badge, year range
+   - Fixed dark navbar over hero
+   - Dark mode support
+
+3. **JSX Components** — Created `data/assets/js/src/towns_index.jsx`
+   - `TownsIndexApp` (root), `SearchBar`, `VoivodeshipGroup`, `TownCard`
+   - Instant search filtering with `useMemo`
+   - Empty voivodeships auto-hidden when filtering
+   - "No results" message for empty search
+
+4. **Unique Photos** — Added `best_unique_photo_for` to `AreaPhotoSelector`
+   - Tracks used photos via `@used_photos : Set(String)`
+   - Prevents same photo appearing on multiple town cards
+   - Falls back to closest unused photo if all bbox photos taken
+
+5. **Voivodeship Slug Fix** — Fixed hyphen in `warminsko-mazurskie` slug
+   - `data/external/voivodeships.yaml` and `data/config/areas/voivodeships.yml`
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/layout/towns/index.html` | Template with CSS + hero + mount point |
+| `data/assets/js/src/towns_index.jsx` | Preact components (source) |
+| `data/assets/js/self/towns_index.js` | Transpiled JS output |
+| `tests/e2e/specs/towns-index.spec.js` | 8 E2E tests |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/model_view/towns_index_view.cr` | Complete rewrite with load_html + inline JSON |
+| `data/src/services/area_photo_selector.cr` | Added `best_unique_photo_for`, `@used_photos` tracking |
+| `data/external/voivodeships.yaml` | Fixed `warminskomazurskie` → `warminsko-mazurskie` |
+| `data/config/areas/voivodeships.yml` | Fixed `warminskomazurskie` → `warminsko-mazurskie` |
+
+### Key Decisions
+
+- **Component named `TownsIndexApp`** (not `TownsIndex`) to avoid global scope collision with `window.TownsIndex = { init: fn }` when using `--bundle=false` esbuild
+- **Own `AreaPhotoSelector` instance** per view — shared `context.photo_selector` would cause cross-view side effects from unique photo tracking
+- **No search icon** — FontAwesome `fa-search` rendered as square on this page, removed in favor of centered placeholder text
+- **Inline JSON via `<script type="application/json">`** — safer than template interpolation directly in JS
+
+### Test Results
+
+**274 Crystal tests passing, 118 E2E tests (8 new)**
+
+---
+
+## Phase 20: JSON Optimization (Partial) ✅ MOSTLY COMPLETE
+
+**Completed**: 2026-02-08
+
+### Phase 20a: Quick Wins & JSON Moves ✅
+
+- Removed `card_url` from `PhotosJsonGenerator` (~2.66 MB savings)
+- Disabled/deregistered `nav_stats.json` (unused by frontend)
+- Moved `train_stations.json` → `/jsons/train_stations.json`
+- Moved `ideas.json` → `/jsons/ideas.json`
+- Replaced `payload.json` with `/jsons/e2e.json` (minimal data for E2E smoke tests only)
+- All other JSON endpoints already under `/jsons/`
+- **Remaining:** `/photos.json` still at root (20MB, needs moving)
+
+### Phase 20b: Map JSON ✅
+
+- Created `/jsons/map.json` via `MapJsonGenerator`
+- Posts with coords, minimal metadata (slug, title, date, distance, time_spent, card_image_url)
+- 16 KB vs 836 KB original payload.json usage (98% reduction)
+- Updated `map_leaflet.js` to use new endpoint
+
+### Phase 20c: Summary JSON — REMOVED
+
+Summary page (`/zestawienie.html`) deleted. No longer needed.
+
+### Phase 20d: Photos Map JSON ✅
+
+- Created `/jsons/photos_map.json` via `PhotosMapJsonGenerator`
+- Only photos with lat/lon, excludes detailed EXIF (aperture, exposure, iso, focal)
+- Updated `panoramio.html` to use new endpoint
+
+### Test Results
+
+**271 Crystal tests passing, 141 E2E tests passing**
+
+---
+
+## Phase 23: Centralized Profiler ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Goal
+Replace scattered manual timing (6 variables, 3 "Phase:" log lines, manual summary block) with a single annotation-based profiler system.
+
+### Architecture
+
+- `@[Profile(category: "yaml")]` annotation marks methods for timing
+- `include Profiled` in a class triggers `finished` macro hook that auto-wraps annotated methods with `previous_def`
+- `Profiler.measure("cat", "name") { ... }` for dynamic names / cross-object calls
+- `Profiler.summary` prints category breakdown + top 10 slowest
+- To disable: just remove `include Profiled` — annotations become inert
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/services/profiler.cr` | `Profile` annotation, `Profiler` class (measure, record, summary, reset, enabled?) |
+| `data/src/services/profiled.cr` | `Profiled` module with `finished` macro hook |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/blog.cr` | `Profiler.reset`/`measure`/`summary`, removed 6 timing vars + manual summary |
+| `data/src/view_registry/coordinator.cr` | `Profiler.measure("registry", entry.name)` replaces manual timing |
+| `data/src/data_manager.cr` | `@[Profile(category: "yaml")]` on 8 load methods |
+| `data/src/post_renderer.cr` | `@[Profile(category: "posts")]` on 2 render methods |
+| `data/src/validator.cr` | `@[Profile(category: "validation")]` on 3 private methods |
+
+### Macro Gotcha
+
+Crystal nested macros (`macro finished` inside `macro included`) cannot use `\{% if %}` / `\{% end %}` — the parser consumes the `end` for the outer macro. Fix: use ternary operator for visibility check.
+
+### Test Results
+
+**409 Crystal tests passing, 141 E2E tests passing**
+
+---
+
+## Phase 9: Command Restructure ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Restructure all standalone Crystal command scripts (`commands/*.cr`) into a shared library under `data/src/commands/` with thin entry-point wrappers, shared initialization, and a unified pipeline runner.
+
+### Architecture
+
+```
+data/src/commands/
+├── base.cr              # Commands module, ENVS constant, init_blog helper
+├── all.cr               # Require aggregator
+├── pipeline/            # Data pipeline commands (run in sequence)
+│   ├── all.cr
+│   ├── generate_areas_for_posts.cr
+│   ├── generate_polygon_json.cr
+│   ├── assign_photos_to_areas.cr
+│   └── gpx_rectify.cr
+└── tools/               # Standalone utility commands
+    ├── all.cr
+    ├── fetch_map_tiles.cr
+    ├── list_missing_routes.cr
+    └── test_region_matching.cr
+```
+
+### What Was Done
+
+1. **Created `data/src/commands/base.cr`** — `Commands` module with `ENVS` constant and `init_blog` helper for shared Blog initialization
+2. **Created pipeline commands** (4) — `generate_areas_for_posts`, `generate_polygon_json`, `assign_photos_to_areas`, `gpx_rectify` — all accept optional `AreaMatcher::Matcher` for shared loading
+3. **Created tool commands** (3) — `fetch_map_tiles`, `list_missing_routes`, `test_region_matching`
+4. **Rewrote all 7 `commands/*.cr` entry points** as thin wrappers delegating to `data/src/commands/`
+5. **Created `commands/run_all.cr`** — unified pipeline runner that shares a single `AreaMatcher::Matcher` instance (~90MB loaded once instead of per-command)
+6. **Fixed `Map::Downloader::PUBLIC_PATH`** — corrected path to `env/full/public/local/tiles`
+7. **Fixed broken require** in `lists_posts_missing_detailed_route.cr`
+
+### Key Design Decisions
+
+- **Pipeline vs Tools separation** — Pipeline commands process data in sequence and benefit from shared state (AreaMatcher). Tools are standalone utilities.
+- **Optional `AreaMatcher::Matcher` parameter** — Pipeline commands can create their own matcher if run individually, or receive a shared one from `run_all.cr`
+- **2 commands deferred** — `generate_photo_map.cr` and `generate_maps_for_route_ideas.cr` remain as-is (more complex dependencies, less frequently used)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/commands/base.cr` | Commands module, ENVS, init_blog helper |
+| `data/src/commands/all.cr` | Require aggregator |
+| `data/src/commands/pipeline/all.cr` | Pipeline require aggregator |
+| `data/src/commands/pipeline/generate_areas_for_posts.cr` | Area-post matching command |
+| `data/src/commands/pipeline/generate_polygon_json.cr` | GeoJSON generation command |
+| `data/src/commands/pipeline/assign_photos_to_areas.cr` | Photo-area assignment command |
+| `data/src/commands/pipeline/gpx_rectify.cr` | GPX rectification command |
+| `data/src/commands/tools/all.cr` | Tools require aggregator |
+| `data/src/commands/tools/fetch_map_tiles.cr` | Map tile downloader |
+| `data/src/commands/tools/list_missing_routes.cr` | Missing route lister |
+| `data/src/commands/tools/test_region_matching.cr` | Region matching tester |
+| `commands/run_all.cr` | Unified pipeline runner |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `commands/generate_areas_for_posts.cr` | Thin wrapper delegating to pipeline |
+| `commands/generate_polygon_json.cr` | Thin wrapper delegating to pipeline |
+| `commands/assign_photos_to_areas.cr` | Thin wrapper delegating to pipeline |
+| `commands/gpx_rectify.cr` | Thin wrapper delegating to pipeline |
+| `commands/fetch_map_tiles.cr` | Thin wrapper delegating to tools |
+| `commands/list_missing_routes.cr` | Thin wrapper delegating to tools |
+| `commands/test_region_matching.cr` | Thin wrapper delegating to tools |
+
+### Tests Added
+
+28 new Crystal specs:
+- `spec/commands/base_spec.cr` — Commands module tests
+- `spec/commands/assign_photos_manifest_spec.cr` — Manifest/incremental processing tests
+- `spec/commands/douglas_peucker_spec.cr` — Polygon simplification tests
+- `spec/commands/tools_spec.cr` — Tool command tests
+
+### Test Results
+
+**444 Crystal tests passing, 161 E2E tests passing**
+
+---
+
+## Phase 21b: Map Service Restructure ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Goal
+Full restructure of `data/src/services/map/` — separated computation from rendering, added multi-format output, consolidated views, wrote comprehensive tests.
+
+### What Was Done
+
+1. Bug fixes: typos (DEFAULTH, time→tile, dimenstion), dead code removal (sleep, fix_crossing_photos, unused vars)
+2. MapConfig & MapContext structs with factory methods for all 11 use cases
+3. MapPipeline + MapResult (computation/rendering separation), PhotoSelection module
+4. SvgRenderer, PngRenderer (rsvg-convert), LeafletJsonRenderer
+5. View consolidation: 9 → 4+2 (GlobalMapSvgView, AreaMapSvgView, + kept PostBig/PostRoute/Idea)
+6. Tests: 116 new tests (387 total, up from 271)
+
+### Architecture
+
+```
+MapConfig + MapContext → MapPipeline.compute → MapResult → SvgRenderer / LeafletJsonRenderer / PngRenderer
+```
+
+Old path (`Map::Base` → `Map::Main` → `.to_svg`) still works alongside — consolidated views use old path for now.
+
+### Performance: SpatialIndex
+
+**Bottleneck (fixed): GridLayer photo selection** — was O(cells × photos) per map.
+
+Implemented `SpatialIndex` (`data/src/services/map/spatial_index.cr`): pre-buckets photos into a hash grid keyed by `{floor(lat/0.05), floor(lon/0.05)}`. Each query checks only overlapping buckets (1–4 typical) instead of scanning all photos.
+
+| Scenario | Cells | Linear | Spatial | Speedup |
+|----------|-------|--------|---------|---------|
+| Coarse (zoom 8, photo_size=160) | 384 | 115 ms | 5.4 ms | **21x** |
+| Fine (zoom 10, photo_size=50) | 62,935 | 12.3 sec | 29 ms | **421x** |
+
+---
+
+## Phase 24: Polygon-Based Photo-to-Area Assignment ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Replace inaccurate bbox-based photo selection on area show pages with precise polygon point-in-polygon matching using GEOS.
+
+### Architecture
+
+```
+commands/assign_photos_to_areas.cr   ← Offline script (run manually)
+         ↓ uses
+AreaMatcher::Matcher.match_point()   ← GEOS polygon testing
+         ↓ writes
+env/<env>/cache/photos_in_area/      ← Per-area YAML cache
+         ↓ read by
+PhotoAreaCache                       ← Build-time cache reader service
+         ↓ used by
+AreaShowView.collect_area_photos     ← Returns cached photos (no bbox fallback)
+```
+
+### Files Created/Modified
+
+- `commands/assign_photos_to_areas.cr` — Offline command with incremental processing, `--overwrite` flag
+- `data/src/services/photo_area_cache.cr` — Build-time cache reader
+- `spec/services/photo_area_cache_spec.cr` — 7 specs
+- `tests/e2e/specs/area-show.spec.js` — 20 E2E tests
+- `data/src/views/area_show_view.cr` — Uses cache, no bbox fallback
+
+**Results (full env):** 6,059 geo-tagged photos assigned to 1,037 area-slug pairs across 5 area types.
+
+---
+
+## Phase 25 Batch 1: Post Code Cleanup + Tests ✅ COMPLETE
+
+**Committed**: `bcd57b76` (2026-02-09)
+
+### Goal
+Make PhotoEntity testable, remove dead code, fix duplicate declarations, add model specs.
+
+### What Was Done
+
+1. **PhotoEntity Post-free constructor** — Added constructor accepting `post_slug`, `post_url`, `post_time`, `post_title` directly (no `Tremolite::Post` needed). Original constructor delegates to it.
+
+2. **PhotoTagEntity direct constructor** — Added `initialize(@slug, @slug_pl, @title, @points, @subtitle)` for test use.
+
+3. **Dead code removed:**
+   - Deleted `data/src/post/related_by_distance.cr` (entire file, 3 dead methods)
+   - Deleted `related_posts_by_town` + `is_related_to_other_post_by_towns?` from `related_posts.cr`
+   - Deleted `voivodeships` + `was_in_voivodeship` from `accessors.cr`
+   - Deleted commented-out voivodeship code from `initializers.cr` (lines 86-96)
+   - Deleted `ensure_posts_have_assigned_lands` from `post_collection.cr`
+   - Deleted unused `exif_db` method from `post_coord_quant_cache.cr`
+   - Removed `require "./post/related_by_distance"` from `post.cr`
+
+4. **Fixed duplicate `@head_photo_entity`** — Removed declaration from `photos.cr` (kept in `initializers.cr`)
+
+5. **Tests added:**
+   - `spec/models/photo_entity_spec.cr` — 34 tests (construction, points, tags, params, image paths, comparison)
+   - `spec/models/photo_tag_entity_spec.cr` — 4 tests (YAML constructor, direct constructor, view_url)
+
+### Test Results
+
+**486 Crystal tests passing** (444 → 486), 161 E2E tests passing
+
+---
+
+## Phase 25 Batch 2: Code Audit Fixes ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+### Bugs Fixed
+- **25a.** Deleted `@is_published` field + `mark_as_published!` entirely from PhotoEntity and ExifDb (dead field, setter wrote wrong ivar)
+- **25b.** Fixed YearStatReportView hike opacity — was checking `bicycle_opacity` instead of `hike_opacity`
+- **25c.** Fixed LandEntity YAML key — `y["country"]` → `y["code"]`
+
+### Misleading Names Renamed
+- **25d.** `haversine_distance` → `euclidean_distance_approx` (was Pythagorean, not Haversine)
+- **25e.** `externally_propelled?` — fixed implicit nil return to `train? || car? || bus?`
+- **25f.** `IMAGE_FORMAT_M43 = :m34` → `:m43` (symbol typo)
+- **25g.** `content_html_missing_reference_links` → `content_html_reference_pattern_count`
+
+### Dead Code Deleted
+- `check_missing_referenced_links` from validator.cr (30 lines)
+- Commented-out `title` method from accessors.cr
+- Workaround comment from photos_json_generator.cr
+
+---
+
+## Phase 26: Remove Portfolio ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+Deleted all portfolio code:
+- **6 files deleted:** portfolio_entity.cr, portfolio_view.cr, 3 templates, portfolio.yml
+- **11 files modified:** removed requires, data manager fields, render context accessor, registry entry, photo tag, config entries, JS weight, spec
+
+---
+
+## Phase 28: Rename Post Slug Arrays + Make Non-Nilable ✅ COMPLETE
+
+**Commit `a0d9e943`** (2026-02-09)
+
+Renamed Post instance variables to clarify they hold slug strings:
+- `@tags` → `@tag_slugs`, `@towns` → `@town_slugs`, `@lands` → `@land_slugs`, `@foreign` → `@foreign_slugs`
+
+Made all four non-nilable with explicit `Array(String)` declarations and defaults, removing ~40 `.not_nil!` calls across 18 files.
+
+### Test Results
+
+**485 Crystal tests passing** (486 → 485, -1 from removed PortfolioView test), 161 E2E tests passing
+
+---
+
+## Phase 27: Remove Deprecated Entities (TownEntity, VoivodeshipEntity, LandEntity) ✅ COMPLETE
+
+Completed migration from deprecated entity system to unified AreaEntity.
+
+### Changes
+
+**Migrated callers:**
+- `lands_from_towns` in `post/initializers.cr` — deleted (AreaEntity meso_region associations via area cache are more accurate)
+- `closest_town` in `photo_coord_quant_cache.cr` — migrated to use AreaEntity towns from AreaDataLoader
+- `check_missing_towns` in `validator.cr` — migrated to use AreaDataLoader for town/voivodeship slugs
+
+**Removed from DataManager:**
+- `@towns`, `@town_slugs`, `@voivodeships`, `@lands` instance variables and getters
+- `load_towns`, `load_lands`, `load_town_yaml` methods
+- `towns_already_visited_only_selfpropelled` (deprecated method)
+
+**Removed from RenderContext:**
+- `voivodeships`, `towns`, `lands` proxy methods
+- `towns_already_visited_only_selfpropelled` proxy
+- PHASE6_DEPRECATED comment blocks
+
+**Deleted files:**
+- `data/src/models/town_entity.cr` (103 lines)
+- `data/src/models/voivodeship_entity.cr` (101 lines)
+- `data/src/models/land_entity.cr` (50 lines)
+- `data/src/views/model_view/lands_index_view.cr`
+
+**Cleaned up PHASE6_DEPRECATED markers in:**
+- `view_registry/views/index_views.cr` — removed commented lands index block
+- `view_registry/tasks/cache_tasks.cr` — removed commented town photo cache block
+- `views/dynamic_view/year_stat_report_view.cr` — removed commented voivodeships_stats
+- `models/coord_range.cr` — removed commented VoivodeshipEntity constructor
+- `services/nav_stats_cache.cr` — removed migration comments
+- `spec/view_registry_spec.cr` — removed deprecated comment
+- `spec/views/other_views_spec.cr` — removed deprecated comment blocks
+
+**New tests:**
+- `spec/models/area_entity_spec.cr` — 11 tests:
+  - AreaEntity lat/lon from bbox (2 tests)
+  - `PhotoCoordQuantCache.closest_town` class method (4 tests: nearest town, nil cases, skip no-bbox)
+  - `Tremolite::Validator.find_missing_towns` class method (5 tests: known/unknown slugs, self-propelled vs not, edge cases)
+
+**Refactored for testability:**
+- `closest_town` extracted to `PhotoCoordQuantCache.closest_town(lat, lon, towns)` class method — no Blog dependency
+- `check_missing_towns` extracted to `Validator.find_missing_towns(known_slugs, post_data)` class method — pure data in/out
+
+### Test Results
+
+**495 Crystal tests passing** (+11 new, -1 removed deprecated), 161 E2E tests passing
+
+---
+
+## Phase 29: Blog Initialization Simplification + @blog Decoupling ✅ COMPLETE
+
+**Completed**: 2026-02-09
+
+### Goal
+Simplify Blog initialization (all 7 callers repeat 8-line constructors) and decouple all tremolite classes from `@blog` so each class receives only what it needs.
+
+### Step 1: Blog.for_env convenience constructor
+
+Added `Blog.for_env(env, target)` that derives all 8 params from just `env` (dev/full) and `target` (local/release). Simplified all 7 callers from 8-line constructors to single-line calls.
+
+| File | Before | After |
+|------|--------|-------|
+| `data/src/commands/base.cr` | 8-line Blog.new | `Blog.for_env(env)` |
+| `env/dev/src/render_local.cr` | 8-line Blog.new | `Blog.for_env("dev", "local")` |
+| `env/dev/src/render_release.cr` | 8-line Blog.new | `Blog.for_env("dev", "release")` |
+| `env/dev/src/run_local.cr` | 8-line Blog.new | `Blog.for_env("dev", "local")` |
+| `env/full/src/render_local.cr` | 8-line Blog.new | `Blog.for_env("full", "local")` |
+| `env/full/src/render_release.cr` | 8-line Blog.new | `Blog.for_env("full", "release")` |
+| `env/full/src/find_ungeotagged_photos.cr` | 8-line Blog.new | `Blog.for_env("full", "local")` |
+
+### Steps 2-8: @blog decoupling
+
+Each tremolite class was refactored to accept specific params instead of the entire Blog:
+
+| Class | Before | After |
+|-------|--------|-------|
+| **ImageResizer** | `initialize(@blog)` | `initialize(@data_path, @output_path)` |
+| **ModWatcher** | `initialize(@blog, file_path)` | `initialize(file_path)` + injected path properties |
+| **Validator** | `initialize(@blog)` | `initialize(@html_buffer)` + injected area_data_loader, posts |
+| **Renderer** | `initialize(@blog, @html_buffer)` | `initialize(@html_buffer, @data_path, @output_path, @assets_path)` + late-bound props |
+| **DataManager** | `initialize(@blog, @config_path)` | `initialize(@config_path, @data_path, @cache_path, @output_path, @posts_path, @posts_ext)` |
+| **Post** | `initialize(@blog, @path)` | `initialize(@path, @data_path, @output_path)` + late-bound deps |
+| **PostCollection** | `initialize(@blog, paths)` | `initialize(@posts_path, @posts_ext)` + late-bound deps |
+| **BaseView** | `@blog` fallbacks | Context-only (no `@blog` fallback) |
+
+### Step 9: Blog.initialize rewired
+
+Blog.initialize now passes specific params to each constructor and wires late-bound dependencies via properties after construction. `@blog` now only exists in `RenderContext` and `Blog` itself.
+
+### Step 10: Constructor collapse (base+custom → single)
+
+Removed all template method hooks from tremolite base classes:
+
+| Class | Removed Hooks |
+|-------|--------------|
+| **DataManager** | `custom_initialize`, `custom_load`, `load_data` |
+| **Post** | `custom_initialize`, `custom_process_header` |
+| **Validator** | `custom_validators` |
+| **ModWatcher** | `update_before_save` (empty base) |
+| **Renderer** | `render_all` (empty, never overridden) |
+| **PostCollection** | `each_post_file` (base version, kept custom override only) |
+
+Constructors moved from base tremolite files to custom files. The `process` method (Post) and `run` method (Validator) moved to custom files with hook content inlined.
+
+### Files Modified
+
+**Base tremolite files (simplified):**
+- `data/src/tremolite/tremolite/data_manager.cr` — constructor + hooks removed
+- `data/src/tremolite/tremolite/posts/post.cr` — constructor + hooks removed
+- `data/src/tremolite/tremolite/posts/post_collection.cr` — base each_post_file removed
+- `data/src/tremolite/tremolite/validator.cr` — custom_validators hook removed
+- `data/src/tremolite/tremolite/mod_watcher.cr` — update_before_save hook removed
+- `data/src/tremolite/tremolite/renderer.cr` — render_all hook removed
+- `data/src/tremolite/tremolite/image_resizer.cr` — `@blog` → path params
+- `data/src/tremolite/tremolite/views/base_view.cr` — `@blog` fallbacks removed
+
+**Custom files (expanded with constructors):**
+- `data/src/data_manager.cr` — full constructor with inlined initialization
+- `data/src/post/initializers.cr` — full constructor + process method
+- `data/src/validator.cr` — full run method
+- `data/src/mod_watcher.cr` — path properties for current_state_of
+- `data/src/renderer.cr` — late-bound properties
+- `data/src/post_collection.cr` — late-bound properties
+- `data/src/post.cr` — exif_db, photo_tags properties
+
+**7 caller files simplified** to `Blog.for_env(...)` (see Step 1)
+
+### Test Results
+
+**533 Crystal tests passing**, 161 E2E tests passing
+
+---
+
+## Phase 30: Duplicate Area Slug Disambiguation ✅ COMPLETE
+
+**Commit `3557d08a`** (2026-02-09)
+
+### Goal
+Fix ~180 towns and ~10 counties with duplicate slugs being silently dropped by `AreaDataLoader`. Towns like "Wasosz" exist in multiple voivodeships with the same slug — only the first was kept.
+
+### Architecture: Two-Pass Disambiguation
+
+Added `disambiguate_slugs!` to `GenerateAreasForPosts`, called at start of `run` before any output. Mutates `AreaMatcher::Area.slug` in-place so all downstream outputs automatically get unique slugs.
+
+**Pass 1: Voivodeship** — Cross-voivodeship collisions get `-voivodeship` suffix.
+- `wasosz` → `wasosz-dolnoslaskie`, `wasosz-podlaskie`
+- 474 towns, 20 counties affected
+
+**Pass 2: Gmina type label** — Same-voivodeship collisions (urban/rural pairs) get type suffix:
+- TERC type 1 → `-miejska` (urban)
+- TERC type 2 → `-wiejska` (rural)
+- TERC type 3 → `-miejsko-wiejska` (urban-rural)
+- Fallback: county slug for 7 exception groups where type digits collide (e.g., 3 rural gminas named "Czarna" in podkarpackie)
+- 329 towns affected
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/commands/pipeline/generate_areas_for_posts.cr` | Added `TERC_TYPE_LABELS`, two-pass `disambiguate_slugs!`, `county_slug_for_terc` |
+| `data/src/services/area_data_loader.cr` | Removed `seen_slugs` dedup workaround |
+| `data/src/views/model_view/towns_index_view.cr` | Removed `.uniq(&.slug)` |
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `spec/commands/disambiguate_slugs_spec.cr` | 12 tests (9 unit + 3 integration) |
+
+### Regenerated Pipeline Data
+
+- `data/config/areas/towns.yml` — 2477 entries, 0 duplicates
+- `data/config/areas/counties.yml` — 380 entries, 0 duplicates
+- `data/config/polygons/` — 1630 polygon files with disambiguated slugs
+- `env/*/cache/areas_for_post/` — Per-post area YAML
+- `env/*/cache/photos_in_area/` — Photo area cache
+
+### Test Results
+
+**545 Crystal tests passing** (+12 new), 169 E2E tests passing
+
+---
+
+## Phase 31: Social Meta Tags ✅ COMPLETE
+
+**Commit `89d45834`** (2026-02-10)
+
+### Goal
+Add proper Open Graph and Twitter Card meta tags for link previews on social platforms.
+
+### What Was Done
+
+1. **SEO Helper** (`seo_helper.cr`) — Added `og:type` ("website"), `og:locale` ("pl_PL"), `twitter:card` ("summary_large_image"), `twitter:title`, `twitter:description`
+2. **Base View** (`base_view.cr`) — Added `og:image:alt` meta tag (uses page title)
+3. **Default `page_desc`** — Changed from empty string to `site_desc` so all pages have a non-empty description
+4. **Area Show** (`area_show_view.cr`) — Added custom `page_desc`: "Dragacz — gmina. 3 wypraw, 42 zdjęć."
+5. **E2E Tests** — Created `tests/e2e/specs/social-meta.spec.js` testing og:type, og:locale, twitter:card, descriptions across 5 pages
+
+---
+
+## Phase 32: Portfolio View + Ambilight Lightbox ✅ COMPLETE
+
+**Commits `ca14af5b`, `89d45834`** (2026-02-10)
+
+### Goal
+Re-create portfolio page and extract shared ambilight lightbox component for reuse.
+
+### What Was Done
+
+1. **Shared Lightbox Component** — Extracted from portfolio into reusable `PhotoLightbox`:
+   - `data/assets/js/src/photo_lightbox.jsx` — Preact component with ambilight dual-layer glow, EXIF display, keyboard nav
+   - `data/assets/css/self/photo_lightbox.css` — 173 lines of shared styles
+   - `data/config/asset_bundles.yml` — `photo-lightbox` page-asset bundle
+
+2. **Portfolio View** — `PortfolioView` at `/portfolio.html` (priority 90):
+   - Tiered photo selection (portfolio → best → good tags), max 70 photos
+   - Inline JSON with EXIF data (camera, lens, focal, aperture, exposure, ISO)
+   - Uses shared `photo-lightbox` component
+   - Template: `data/layout/portfolio/portfolio.html`
+
+3. **Gallery Integration** — `GalleryView::AbstractView` updated to use shared lightbox (`page_css: ["gallery", "photo-lightbox"]`)
+
+4. **HomePageView Rename** — `NewHomePageView` → `HomePageView`, removed old home page (`/index.old.html`)
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/assets/js/src/photo_lightbox.jsx` | Shared ambilight lightbox component (Preact) |
+| `data/assets/js/self/photo_lightbox.js` | Transpiled lightbox JS |
+| `data/assets/css/self/photo_lightbox.css` | Shared lightbox styles |
+| `data/src/views/portfolio_view.cr` | Portfolio view class |
+| `data/layout/portfolio/portfolio.html` | Portfolio template |
+| `data/src/views/home_page_view.cr` | Renamed from new_home_page_view.cr |
+
+### Files Deleted
+
+| File | Reason |
+|------|--------|
+| `data/src/views/new_home_page_view.cr` | Renamed to home_page_view.cr |
+
+---
+
+## Trip Ideas Town Links Fix ✅ COMPLETE
+
+Fixed as part of earlier IdeasJsonGenerator work. `ideas.json` includes ALL towns (not just visited).
+Unvisited towns get `url: null` in JSON. Frontend renders them as plain `<span>` text instead of broken links.
+
+---
+
+## Stats Rendering Improvements ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Improve article stats bar display with structured HTML, emoji icons, and contextual feedback.
+
+### What Was Done
+
+1. **Redesigned stats bar** (`e4777dbb`) — Replaced pipe-separated text with flex layout. Each stat is a `<span>` with emoji: `📍 69 km`, `⏱️ 15 h`, `☀️ 23 °C`
+2. **Activity type badge** (`91029158`) — Added first-position badge with priority cascade: bicycle → hike → train → bus → car → walk (e.g., `🚴 rowerem`)
+3. **Contextual temperature emoji** (`39a46a15`) — Emoji based on range: ❄️ ≤0°C, 🌤️ 1-15°C, ☀️ 16-25°C, 🔥 >25°C
+4. **Activity icon CSS** (`7d78fb55`) — Added `.icon-bicycle`, `.icon-hike`, `.icon-train`, `.icon-bus`, `.icon-car`, `.icon-walk` definitions
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/post_view/article_view.cr` | Stats bar HTML with activity badge + emoji stats |
+| `data/assets/css/self/new.css` | `.post-route-stats` flex layout, `.activity-badge`, icon definitions |
+
+---
+
+## Eliminate Easy Late-Bound Properties ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Convert 12 of 13 late-bound properties to constructor params by reordering Blog.initialize. Eliminate the entire "Wire late-bound dependencies" section from blog.cr.
+
+### What Was Done
+
+| Commit | Class | Properties moved to constructor |
+|--------|-------|-------------------------------|
+| `2ca19e0a` | DataManager | `html_buffer` |
+| `9d2ddf38` | ModWatcher | `posts_path`, `posts_ext`, `data_path`, `exif_db_path` |
+| `1e03d980` | PostCollection | `data_path`, `output_path` |
+| `c0e60acd` | Renderer | `validator`, `url_to_output_path_proc`, `image_resizer`, `data_manager`, `mod_watcher` |
+
+### Key Changes
+
+- Renderer creation moved after all deps exist (was step 3, now step 7)
+- `init_preloaded_post_referenced_links` called at end of DataManager constructor
+- `exif_db_path` moved from `initialize_posts` to ModWatcher constructor
+- 12-line wiring section in blog.cr removed entirely
+
+### Remaining (genuinely late-bound)
+
+`PostCollection.exif_db/markdown_wrapper/photo_tags`, `Validator.area_data_loader/posts`, `Renderer.all_posts/posts_for_resize`, `Post.exif_db/photo_tags`
+
+### Test Results
+
+**546 Crystal tests passing** after each commit
+
+---
+
+## Phase 20: JSON Optimization ✅ COMPLETE
+
+**Completed**: 2026-02-08
+
+### Phase 20a: Quick Wins & JSON Moves ✅
+
+- Removed `card_url` from `PhotosJsonGenerator` (~2.66 MB savings)
+- Disabled/deregistered `nav_stats.json` (unused by frontend)
+- Moved all JSON endpoints under `/jsons/`
+- Replaced `payload.json` with `/jsons/e2e.json` (minimal E2E test data only)
+
+### Phase 20b: Map JSON ✅
+
+- Created `/jsons/map.json` via `MapJsonGenerator` (16 KB vs 836 KB, 98% reduction)
+
+### Phase 20d: Photos Map JSON ✅
+
+- Created `/jsons/photos_map.json` via `PhotosMapJsonGenerator` (only photos with lat/lon)
+
+### Phase 20e: Final Cleanup ✅
+
+- Moved `/photos.json` → `/jsons/photos.json`
+
+### JSON Endpoints (Final)
+
+| File | Size | Generator |
+|------|------|-----------|
+| `/jsons/e2e.json` | ~5 KB | `PayloadJsonGenerator` |
+| `/jsons/map.json` | 16 KB | `MapJsonGenerator` |
+| `/jsons/homepage.json` | 11 KB | `HomePageJsonGenerator` |
+| `/jsons/ideas.json` | 510 KB | `IdeasJsonGenerator` |
+| `/jsons/train_stations.json` | 6 KB | `TrainStationsJsonGenerator` |
+| `/jsons/photo_grid.json` | 14 KB | `PhotoGridJsonGenerator` |
+| `/jsons/photos.json` | 20 MB | `PhotosJsonGenerator` |
+| `/jsons/photos_map.json` | ~7 MB | `PhotosMapJsonGenerator` |
+
+---
+
+## Photo Analysis Infrastructure ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Store perceptual hash and color data per photo for similarity detection.
+
+### What Was Done
+
+1. **PhotoAnalysisEntity** (`data/src/models/photo_analysis_entity.cr`) — struct for pHash hex + avg RGB values
+2. **PhotoAnalysisCache** (`data/src/services/photo_analysis_cache.cr`) — YAML cache reader/writer with `load_all` for bulk loading
+3. **PhotoSimilarityService** (`data/src/services/photo_similarity_service.cr`) — LSH (4 bands × 16 bits) + Union-Find grouping by Hamming distance
+4. **ColorSimilarityService** (`data/src/services/color_similarity_service.cr`) — Euclidean distance on avg RGB + Union-Find grouping
+5. **Debug views** (`data/src/views/debug_view/similar_photos_view.cr`, `color_photos_view.cr`) — visual group display (registered but disabled)
+
+### Tests
+- `spec/services/photo_analysis_entity_spec.cr` — 5 tests
+- `spec/services/photo_analysis_cache_spec.cr` — 5 tests
+- `spec/services/photo_similarity_service_spec.cr` — 7 tests
+- `spec/services/color_similarity_service_spec.cr` — 6 tests
+
+---
+
+## GPS Geotagging Script ✅ COMPLETE
+
+**Completed**: 2026-02-10
+
+### Goal
+Fix missing GPS coordinates in photos by matching EXIF timestamps against GPX tracklogs.
+
+### Architecture
+
+```
+commands/fix_geotagging.cr
+  ├── Loads 2252 GPX files (3M+ trackpoints, 789 days)
+  ├── Indexes trackpoints by date (±1 day for timezone edge cases)
+  ├── For each post slug:
+  │   ├── Auto-detects camera timezone offset (rounded to whole hours)
+  │   │   ├── partial_missing: calibrate from GPS-tagged photos (median offset)
+  │   │   └── all_missing: bruteforce 5 offsets (-2h to +2h)
+  │   ├── Linear interpolation between trackpoints (lat, lon, altitude)
+  │   ├── Reports mode temperature from GPX Garmin extensions
+  │   └── Writes GPS via exiftool + deletes EXIF cache
+  └── Dry-run by default, --write to apply
+```
+
+### Results (dry run)
+- 6951 total photos, 6094 already had GPS
+- **637 photos** across **126 posts** would get coordinates
+- 216 photos too far from any trackpoint (>1h), skipped
+- 21 posts had no GPX data for their date
+
+### Files Created
+- `commands/fix_geotagging.cr` — 1054-line standalone script with GEOTAGGING_STATUS hash
+
+---
+
+## Year Stats Page Redesign ✅ COMPLETE
+
+**Commit `41f7c09c`** (2026-02-11)
+
+### Goal
+Redesign yearly statistics pages (`/rok/<year>.html`) with dark/light theming and enriched data.
+
+### What Was Done
+
+1. **Sparkline charts** — Monthly distance/time mini bar charts in month rows
+2. **Route map per month** — Small SVG map showing routes for each month
+3. **Tag breakdown** — Per-tag stats (distance, time, count) with color-coded rows
+4. **Records section** — Longest ride, longest hike, most photos, highest temp, most active month
+5. **Photo of the Year** — Best-rated photo from the year with lightbox
+6. **Dark/light theming** — CSS custom properties with `prefers-color-scheme`
+7. **Template overhaul** — `data/layout/year_stats/stats.html` and `month_row.html`
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/views/dynamic_view/year_stat_report_view.cr` | Enriched data: sparklines, tag stats, records, photo of year |
+| `data/layout/year_stats/stats.html` | Complete CSS rewrite with dark/light themes |
+| `data/layout/year_stats/month_row.html` | Sparkline bars, route map, enhanced layout |
+| `data/assets/css/self/year_stats.css` | New page-specific CSS |
+
+---
+
+## POIs Page Redesign ✅ COMPLETE
+
+**Commit `f54f93d4`** (2026-02-12)
+
+### Goal
+Replace static POIs page with interactive Preact-powered map with side panel.
+
+### What Was Done
+
+1. **Interactive Leaflet map** with color-coded markers (visited=green, todo=orange, train stations=blue)
+2. **Preact side panel** — filterable list, click-to-zoom, category chips
+3. **Data sources** — Train stations from YAML, trip ideas, visited POIs from posts
+4. **Dark mode support** via CSS custom properties
+5. **Template** — `data/layout/pois/pois.html` with JSX source `data/assets/js/src/pois.jsx`
+6. **E2E tests** — `tests/e2e/specs/pois.spec.js`
+
+### Dependencies
+- Changed from `[:posts]` to `[:posts, :yamls, :exifs]` (train_stations/ideas from yamls, photo GPS from exifs)
+
+---
+
+## BuildContext Split ✅ COMPLETE
+
+**Commit `0521aa99`** (2026-02-12)
+
+### Goal
+Split `RenderContext` into read-only base class (for views) and `BuildContext` subclass (for pipeline operations).
+
+### What Was Done
+
+1. **`BuildContext < RenderContext`** — New subclass with `render_and_write`, `setup_dev_output`, `copy_assets_and_photos` methods
+2. **RenderContext made read-only** — Removed `[]`/`[]?` operator, added typed accessors
+3. **Renamed methods** for clarity:
+   - `posts` → `posts_newest_first` (sorted) + `published_posts` (by index)
+   - `write_output` → `output_buffer` (returns buffer, no side effects)
+   - `@md` → `markdown_renderer`
+4. **All view registry blocks** updated to use `ctx.render_and_write(view)` pattern
+5. **All view classes** updated to use new accessor names
+
+### Files Created/Modified
+- `data/src/build_context.cr` (NEW) — BuildContext class
+- `data/src/render_context.cr` — Read-only, typed accessors
+- 30+ view files updated for new method names
+- `spec/render_context_spec.cr`, `spec/support/mock_render_context.cr` — Updated
+
+---
+
+## More Page Links ✅ COMPLETE
+
+**Commit `0521aa99`** (2026-02-12)
+
+Added missing links to the more page (`/wiecej.html`):
+- Portfolio (`/portfolio.html`)
+- Yearly reports (`/rok/<year>.html` for each year)
+
+---
+
+## Polish Spellcheck Command ✅ COMPLETE
+
+**Commit `ea53d92e`** (2026-02-12)
+
+### Goal
+Add Polish spelling/grammar checking via LanguageTool HTTP API.
+
+### Architecture
+
+```
+commands/spellcheck.cr          ← Thin CLI wrapper
+  ↓ delegates to
+Commands::Tools::Spellcheck     ← Core implementation
+  ↓ connects to
+LanguageTool HTTP API           ← localhost:8081 (optional)
+```
+
+### Features
+- **Graceful fallback** — Logs warning and skips if LanguageTool unavailable
+- **Markdown stripping** — Removes code blocks, links, images, headings, function tags while preserving character offsets for accurate line:column mapping
+- **YAML front matter skip** — Only checks content after second `---` separator
+- **Configurable** — `--dev`/`--slug=<filter>`/`--verbose` flags, disabled rules list
+- **Default disabled rules** — `WHITESPACE_RULE`, `COMMA_PARENTHESIS_WHITESPACE`, `BRAK_SPACJI_NAWIAS`
+
+### Files Created
+
+| File | Purpose |
+|------|---------|
+| `data/src/commands/tools/spellcheck.cr` | Core spellcheck command (266 lines) |
+| `commands/spellcheck.cr` | Thin CLI wrapper (30 lines) |
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/commands/tools/all.cr` | Added `require "./spellcheck"` |
+
+### Setup
+```bash
+brew install languagetool
+brew services start languagetool
+crystal run commands/spellcheck.cr           # Check all posts (full env)
+crystal run commands/spellcheck.cr -- --dev  # Check dev posts only
+crystal run commands/spellcheck.cr -- --slug=2024 -v  # Filter + verbose
+```
+
+---
+
+## Phase 35: Gallery Image Loading Optimization ✅ COMPLETE
+
+**Goal**: Reduce gallery/portfolio page load times and improve lightbox UX.
+
+### Problems Solved
+1. Gallery grid displayed article-size images (1000x800) when grid items are only 300-400px wide
+2. All full-res images (70+) were preloaded simultaneously on page mount
+3. Lightbox showed nothing until the full 2048px image downloaded
+
+### Changes
+
+**Crystal (server-side):**
+- `photo_entity.cr` — Added `img.grid_src` to `hash_for_partial()` so gallery grids get the 560x420 URL
+- `portfolio_view.cr` — Added `grid_src` field to portfolio JSON output
+
+**JSX (client-side):**
+- `photo_lightbox.jsx` — Progressive loading: shows article size (1000x800) immediately, swaps to full-res when loaded. Replaced `preloadImages` (all at once) with `preloadAdjacent` (current + next 2 + prev 1)
+- `gallery_dynamic.jsx` — Grid `<img>` uses `img.grid_src` (560x420) instead of `img.src` (1000x800). Preloading switched from all-at-once to adjacent-only when lightbox opens
+- `portfolio.jsx` — `GridItem` uses `grid_src` for display and ambilight. Same adjacent preload
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/models/photo_entity.cr` | Add `img.grid_src` to `hash_for_partial()` |
+| `data/src/views/portfolio_view.cr` | Add `grid_src` field to JSON output |
+| `data/assets/js/src/photo_lightbox.jsx` | Progressive loading + smart preload |
+| `data/assets/js/src/gallery_dynamic.jsx` | Use `grid_src` in grid, smart preload |
+| `data/assets/js/src/portfolio.jsx` | Use `grid_src` in grid, smart preload |
+| `data/assets/js/self/photo_lightbox.js` | Transpiled |
+| `data/assets/js/self/gallery_dynamic.js` | Transpiled |
+| `data/assets/js/self/portfolio.js` | Transpiled |
+
+---
+
+## Phase 36: AVIF `<picture>` Elements ✅ COMPLETE
+
+**Goal**: Deliver AVIF images to browsers that support them using native `<picture>` elements. Keep responsive multi-resolution srcset for bandwidth savings on mobile.
+
+### What was done
+
+1. **JSON serializers** — Added AVIF URL fields to 7 serializers:
+   - `home_page_json_generator.cr` — `card_image_url_avif`, `src_avif`
+   - `portfolio_view.cr` — `src_avif`, `grid_src_avif`
+   - `area_show_view.cr` — `bestPhotoUrlAvif`, `card_image_url_avif`, `article_url_avif`, `grid_url_avif`, `best_photo_url_avif`
+   - `photos_map_json_generator.cr` — `article_url_avif`, `grid_url_avif`
+   - `map_json_generator.cr` — `card_image_url_avif`
+   - `towns_index_view.cr` — `photo_url_avif`
+   - `pois_view.cr` — `photo_url_avif`
+
+2. **Template data** — Added AVIF/grid URL placeholders:
+   - `post_function_parser.cr` — `img.grid_src`, `img.src.avif`, `img.grid_src.avif`
+   - `article_view.cr` — `post.image.avif` (pager), `post.thumbnail.avif` (related posts)
+   - `post_gallery_stats_view.cr` / `gallery_view/post_view.cr` — `post.image.avif` for pager templates
+
+3. **HTML templates** — Wrapped `<img>` in `<picture>` with AVIF `<source>`:
+   - `post_image_partial.html` — `<picture>` + responsive srcset (560w + 1000w)
+   - `pager_next.html` / `pager_prev.html` — `<picture>` with AVIF source
+   - `related_post.html` — `<picture>` with AVIF source
+   - `gallery_post_image.html` — `<picture>` with AVIF source
+
+4. **JSX components** — `<picture>` wrappers:
+   - `gallery_dynamic.jsx` — Grid images with AVIF srcSet + responsive sizes
+   - `portfolio.jsx` — `LazyImage` component with `srcAvif` prop, lazy `data-srcset`
+   - `pois.jsx` — `VisitedCard` and `AutoCard` photos
+
+5. **CSS fixes**:
+   - `box-sizing: border-box` on `html` — fixes Bootstrap 5 `inherit` chain, prevents mobile overflow
+   - `.post-article-photo > a { display: block }` — fills container width
+   - `.post-article-photo picture { display: block; width: 100% }`
+   - `.post-article-photo img { width: 100% }` — renders at full container width regardless of `sizes`
+   - Strava iframe `max-width: 100%` wrapper
+
+6. **E2E tests** — 14 tests in `picture-elements.spec.js`:
+   - AVIF `<picture>` structure (article, pager, related, gallery)
+   - Responsive srcset attributes (560w + 1000w, AVIF sources)
+   - Browser selects AVIF format (Chromium)
+   - Mobile selects 560w grid image, desktop selects 1000w article image
+   - No horizontal scroll on 6 viewport sizes (320-1920px)
+   - Image fills container on 6 viewport sizes
+
+### Key insight
+
+`sizes` attribute with `w` descriptors sets the image's intrinsic CSS width. With `max-width: 100%` alone, images won't stretch beyond the `sizes` value. Fix: use `width: 100%` so CSS controls rendered size, while `sizes` only guides source selection.
+
+### Deferred
+
+- Lightbox progressive loading (dynamically swaps `img.src`)
+- CSS `background-image` contexts (hero photos, card bgs, ambilight)
+- Homepage vanilla JS (innerHTML pattern)
+- Area show compiled JS (mix of `<img>` and `backgroundImage`)
+
+### Files Modified
+
+| File | Changes |
+|------|---------|
+| `data/src/post_function_parser.cr` | Add grid/AVIF URL placeholders |
+| `data/src/views/post_view/article_view.cr` | AVIF URLs for pager/related |
+| `data/src/views/post_gallery_stats_view.cr` | AVIF for pager template |
+| `data/src/views/gallery_view/post_view.cr` | AVIF for pager template |
+| `data/src/views/special_view/home_page_json_generator.cr` | AVIF fields |
+| `data/src/views/portfolio_view.cr` | AVIF fields |
+| `data/src/views/area_show_view.cr` | AVIF fields + type fix |
+| `data/src/views/special_view/photos_map_json_generator.cr` | AVIF fields |
+| `data/src/views/special_view/map_json_generator.cr` | AVIF fields |
+| `data/src/views/model_view/towns_index_view.cr` | AVIF fields |
+| `data/src/views/pois_view.cr` | AVIF fields |
+| `data/layout/post/post_image_partial.html` | `<picture>` + srcset |
+| `data/layout/post/pager_next.html` | `<picture>` |
+| `data/layout/post/pager_prev.html` | `<picture>` |
+| `data/layout/post/related_post.html` | `<picture>` |
+| `data/layout/gallery/gallery_post_image.html` | `<picture>` |
+| `data/layout/partials/strava_iframe.html` | max-width wrapper |
+| `data/assets/css/self/new.css` | box-sizing, width fixes |
+| `data/assets/js/src/gallery_dynamic.jsx` | `<picture>` in grid |
+| `data/assets/js/src/portfolio.jsx` | `<picture>` in LazyImage |
+| `data/assets/js/src/pois.jsx` | `<picture>` in cards |
+| `tests/e2e/specs/picture-elements.spec.js` | **NEW** — 14 tests |
+| `tests/e2e/specs/gallery.spec.js` | Fix for currentSrc |
+| `tests/e2e/specs/pois.spec.js` | Fix panel close test |
+
+---
+
+*Last updated: 2026-02-14*

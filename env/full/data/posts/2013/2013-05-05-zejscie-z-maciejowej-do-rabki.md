@@ -5,6 +5,7 @@ subtitle:               "Ostatnia godzina w Gorcach i powrót do cywilizacji"
 desc:                   "Ostatni dzień to była formalność. Zostało nam godzinne zejście z Maciejowej do Rabki i powrót. Jak na złość przywitała nas dobre pogoda. Doliny natomiast były przykryte chmurami."
 keywords:               [wiosna, gorce, maciejowa, rabka, powrót]
 date:                   2013-05-05 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

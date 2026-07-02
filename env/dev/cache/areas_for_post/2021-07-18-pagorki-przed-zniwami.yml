@@ -28,7 +28,7 @@
     distance_meters: 8337.06
     distance_km: 8.337
     distance_percent: 13.3068
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-miejska
     name: Grudziądz
     code: "0462011"
     distance_meters: 6664.21
@@ -40,7 +40,7 @@
     distance_meters: 4437.63
     distance_km: 4.438
     distance_percent: 7.0829
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
     name: Grudziądz
     code: "0406012"
     distance_meters: 3931.48
@@ -78,7 +78,7 @@
     distance_km: 4.438
     distance_percent: 7.0829
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 62652.74
@@ -116,7 +116,7 @@
     distance_km: 4.773
     distance_percent: 7.6184
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 32544.4
@@ -165,9 +165,12 @@
   - slug: dragacz
     name: Dragacz
     code: "0414022"
-  - slug: grudziadz
+  - slug: grudziadz-kujawsko-pomorskie-miejska
     name: Grudziądz
     code: "0462011"
+  - slug: grudziadz-kujawsko-pomorskie-wiejska
+    name: Grudziądz
+    code: "0406012"
   - slug: gruta
     name: Gruta
     code: "0406022"
@@ -191,7 +194,7 @@
     name: brodnicki
     code: "0402"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -217,7 +220,7 @@
   - slug: dolina_dolnej_wisly
     name: Dolina Dolnej Wisły
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

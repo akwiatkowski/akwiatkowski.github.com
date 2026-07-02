@@ -1,0 +1,104 @@
+---
+- image_filename: IMGP0436raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.818165484800105
+  lon: 15.67940575059771
+  altitude: 428.89
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 100
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-06T12:34:31+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0481raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.86419453839409
+  lon: 15.868344744697838
+  altitude: 642.78
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-06T17:09:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP0485raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.86442980529937
+  lon: 15.797225325059102
+  altitude: 479.24821002386636
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-06T19:10:39+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: header.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.86104285902243
+  lon: 15.879617649995009
+  altitude: 470.7
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-06-06T16:00:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

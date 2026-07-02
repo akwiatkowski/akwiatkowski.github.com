@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 34624.47
+  total_distance_km: 34.624
+  points_count: 267
+  towns:
+    - slug: suprasl
+      name: Supraśl
+      code: "2002093"
+      distance_meters: 21011.07
+      distance_km: 21.011
+      distance_percent: 60.6827
+    - slug: bialystok
+      name: Białystok
+      code: "2061011"
+      distance_meters: 10958.5
+      distance_km: 10.959
+      distance_percent: 31.6496
+    - slug: wasilkow
+      name: Wasilków
+      code: "2002133"
+      distance_meters: 2654.9
+      distance_km: 2.655
+      distance_percent: 7.6677
+  counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+      distance_meters: 34624.47
+      distance_km: 34.624
+      distance_percent: 100
+    - slug: bialystok
+      name: Białystok
+      code: "2061"
+      distance_meters: 10958.5
+      distance_km: 10.959
+      distance_percent: 31.6496
+  voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 34624.47
+      distance_km: 34.624
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+      distance_meters: 34624.47
+      distance_km: 34.624
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 34624.47
+      distance_km: 34.624
+      distance_percent: 100
+  touched_towns:
+    - slug: bialystok
+      name: Białystok
+      code: "2061011"
+    - slug: suprasl
+      name: Supraśl
+      code: "2002093"
+    - slug: wasilkow
+      name: Wasilków
+      code: "2002133"
+  touched_counties:
+    - slug: bialostocki
+      name: białostocki
+      code: "2002"
+    - slug: bialystok
+      name: Białystok
+      code: "2061"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+  touched_meso_regions:
+    - slug: wysoczyzna_bialostocka
+      name: Wysoczyzna Białostocka
+      code: "843.33"
+  touched_macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"

@@ -1,0 +1,325 @@
+---
+- image_filename: 2026_01_04__10_03_IMG_9916_converted.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.51048888334442
+  lon: 17.281224983322215
+  altitude: 119.4
+  focal_length: 9
+  focal_length_35: 77
+  crop: 8.6
+  aperture: 2.8
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 32
+  width: 4032
+  height: 3024
+  lens: iPhone 13 Pro back triple camera 9mm f/2.8
+  camera: iPhone 13 Pro
+  lens_name: iPhone 13 Pro back triple camera 9mm f/2.8
+  camera_name: iPhone 13 Pro
+  time: "2026-01-04T10:03:10+01:00"
+  make: Apple
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 1.570000052000187
+  lens_max_focal: 9
+  lens_min_fstop: 1.5
+  lens_max_fstop: 2.8
+  lens_spec_str: 1.570000052000187-9mm f/1.5-2.8
+- image_filename: 2026_01_04__10_04_IMG_9930_converted.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.51036388338107
+  lon: 17.281138883334442
+  altitude: 119.1
+  focal_length: 1.6
+  focal_length_35: 18
+  crop: 11.3
+  aperture: 1.8
+  exposure: 0.0004347826086956522
+  exposure_string: 1/2300 s
+  iso: 32
+  width: 3963
+  height: 2934
+  lens: iPhone 13 Pro back triple camera 1.57mm f/1.8
+  camera: iPhone 13 Pro
+  lens_name: iPhone 13 Pro back triple camera 1.57mm f/1.8
+  camera_name: iPhone 13 Pro
+  time: "2026-01-04T10:04:27+01:00"
+  make: Apple
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 1.570000052000187
+  lens_max_focal: 9
+  lens_min_fstop: 1.5
+  lens_max_fstop: 2.8
+  lens_spec_str: 1.570000052000187-9mm f/1.5-2.8
+- image_filename: 2026_01_04__10_07_DJI_0129.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.50945731661816
+  lon: 17.28028656674993
+  altitude: 264.4
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 140
+  width: 4018
+  height: 3006
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:07:20+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_07_DJI_0131.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.50945858335058
+  lon: 17.280291150012154
+  altitude: 264.1
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8064
+  height: 6047
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:07:36+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_08_DJI_0133.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.50795513332572
+  lon: 17.28258831655812
+  altitude: 263.9
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8064
+  height: 5601
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:08:26+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_09_DJI_0136.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.50775388333568
+  lon: 17.28539068333454
+  altitude: 265.3
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000125
+  exposure_string: 1/8000 s
+  iso: 150
+  width: 7883
+  height: 5507
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:09:13+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_10_DJI_0140.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.510004249966
+  lon: 17.282908549993532
+  altitude: 268.2
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 7743
+  height: 5638
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:10:34+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_13_DJI_0147.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.51673
+  lon: 17.285400216658644
+  altitude: 267
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8058
+  height: 5804
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:13:08+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_13_DJI_0148.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.516749383333334
+  lon: 17.28543305000102
+  altitude: 266.8
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8058
+  height: 6043
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:13:16+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2026_01_04__10_13_DJI_0150.jpg
+  post_slug: 2026-01-04-zima-zaatakowala
+  lat: 52.516787
+  lon: 17.285512166666667
+  altitude: 265.9
+  focal_length: 6.7
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 120
+  width: 7794
+  height: 5558
+  camera: FC3582
+  camera_name: FC3582
+  time: "2026-01-04T10:13:35+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 5.4.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

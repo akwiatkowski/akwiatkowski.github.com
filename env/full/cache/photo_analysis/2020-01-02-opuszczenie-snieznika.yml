@@ -1,0 +1,926 @@
+---
+- image_filename: 2020_01_02__08_34__1024824.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 007e7e3e003c3c00
+  dhash: 13ecececc8e8eccc
+  phash: 96976d69683868c7
+  avg_rgb:
+  - 42
+  - 58
+  - 66
+  top5_rgb:
+  - - 23
+    - 22
+    - 20
+  - - 22
+    - 22
+    - 22
+  - - 22
+    - 22
+    - 21
+  - - 25
+    - 25
+    - 25
+  - - 20
+    - 61
+    - 94
+- image_filename: 2020_01_02__09_07__1024835.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: ffff3f00000003ff
+  dhash: 1ffcfee7f0437f9a
+  phash: 8280b07b793e759e
+  avg_rgb:
+  - 81
+  - 115
+  - 135
+  top5_rgb:
+  - - 93
+    - 163
+    - 217
+  - - 135
+    - 208
+    - 236
+  - - 178
+    - 226
+    - 237
+  - - 104
+    - 172
+    - 222
+  - - 101
+    - 167
+    - 219
+- image_filename: 2020_01_02__09_16__1024847.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 3c383800041c3838
+  dhash: e172e26e38f8f1f0
+  phash: 8fcfcb3b322a844c
+  avg_rgb:
+  - 49
+  - 81
+  - 100
+  top5_rgb:
+  - - 132
+    - 208
+    - 242
+  - - 50
+    - 102
+    - 135
+  - - 73
+    - 121
+    - 155
+  - - 36
+    - 85
+    - 120
+  - - 56
+    - 106
+    - 138
+- image_filename: 2020_01_02__09_19__1024853.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: fe7c00000080fcfe
+  dhash: e0c0c0c40e487858
+  phash: d3c2d9f6343c7424
+  avg_rgb:
+  - 96
+  - 102
+  - 102
+  top5_rgb:
+  - - 231
+    - 245
+    - 250
+  - - 254
+    - 253
+    - 250
+  - - 116
+    - 137
+    - 164
+  - - 43
+    - 41
+    - 17
+  - - 110
+    - 126
+    - 150
+- image_filename: 2020_01_02__09_21__1024855.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 07030f0f1f1f3f3f
+  dhash: 6fcf7bbffbf1f3e2
+  phash: 9b32e64e55909b93
+  avg_rgb:
+  - 57
+  - 85
+  - 121
+  top5_rgb:
+  - - 100
+    - 139
+    - 196
+  - - 91
+    - 139
+    - 201
+  - - 96
+    - 145
+    - 209
+  - - 13
+    - 13
+    - 12
+  - - 18
+    - 20
+    - 17
+- image_filename: 2020_01_02__09_24__1024860.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 7c7c7c7c030f0303
+  dhash: b8a0a8c8f6ddb2e6
+  phash: 80d05e3f2dd1d23d
+  avg_rgb:
+  - 65
+  - 83
+  - 98
+  top5_rgb:
+  - - 17
+    - 16
+    - 14
+  - - 59
+    - 93
+    - 130
+  - - 49
+    - 77
+    - 116
+  - - 47
+    - 40
+    - 29
+  - - 116
+    - 126
+    - 138
+- image_filename: 2020_01_02__09_38__1024878.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0486c602c7e1f3ff
+  dhash: 193c1e9e9d090386
+  phash: f032cf4b0349f2f8
+  avg_rgb:
+  - 120
+  - 129
+  - 146
+  top5_rgb:
+  - - 206
+    - 219
+    - 237
+  - - 119
+    - 132
+    - 156
+  - - 208
+    - 222
+    - 239
+  - - 200
+    - 216
+    - 235
+  - - 109
+    - 120
+    - 140
+- image_filename: 2020_01_02__09_40__1024887.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0f0f07c0f8feffff
+  dhash: d8dc2e03405c8536
+  phash: b535919159693d96
+  avg_rgb:
+  - 90
+  - 110
+  - 127
+  top5_rgb:
+  - - 22
+    - 26
+    - 30
+  - - 101
+    - 134
+    - 170
+  - - 105
+    - 139
+    - 173
+  - - 120
+    - 155
+    - 189
+  - - 102
+    - 134
+    - 166
+- image_filename: 2020_01_02__09_43__1024898.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: cfc1c1c38381c183
+  dhash: 951f1f0f3b1b1d1b
+  phash: faf090d185d0f1da
+  avg_rgb:
+  - 107
+  - 108
+  - 117
+  top5_rgb:
+  - - 242
+    - 241
+    - 237
+  - - 70
+    - 61
+    - 59
+  - - 128
+    - 147
+    - 180
+  - - 156
+    - 181
+    - 218
+  - - 43
+    - 34
+    - 38
+- image_filename: 2020_01_02__09_45__1024904.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: ffffffff00000000
+  dhash: 84c3605f4f80ad61
+  phash: 82bd0c730fb8d947
+  avg_rgb:
+  - 100
+  - 125
+  - 135
+  top5_rgb:
+  - - 69
+    - 114
+    - 158
+  - - 85
+    - 122
+    - 163
+  - - 135
+    - 191
+    - 217
+  - - 93
+    - 88
+    - 93
+  - - 170
+    - 202
+    - 211
+- image_filename: 2020_01_02__09_45__1024907.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0000c0e020e0ffff
+  dhash: 4d4c86ca4b821200
+  phash: e1079e2f8378c23d
+  avg_rgb:
+  - 65
+  - 80
+  - 91
+  top5_rgb:
+  - - 25
+    - 32
+    - 39
+  - - 85
+    - 98
+    - 104
+  - - 44
+    - 54
+    - 59
+  - - 32
+    - 38
+    - 45
+  - - 96
+    - 107
+    - 114
+- image_filename: 2020_01_02__09_51__1024912.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: ffffff0008000000
+  dhash: ec0ff7fcf86a8a2f
+  phash: 9b94e6c91a342ed9
+  avg_rgb:
+  - 88
+  - 104
+  - 112
+  top5_rgb:
+  - - 197
+    - 224
+    - 234
+  - - 79
+    - 122
+    - 170
+  - - 64
+    - 63
+    - 44
+  - - 178
+    - 219
+    - 235
+  - - 48
+    - 51
+    - 37
+- image_filename: 2020_01_02__09_56__1024915.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 733f3f1100007cfe
+  dhash: e3e3f777e664c9a4
+  phash: 8cadc025fc687ee1
+  avg_rgb:
+  - 109
+  - 120
+  - 151
+  top5_rgb:
+  - - 182
+    - 202
+    - 239
+  - - 189
+    - 208
+    - 242
+  - - 109
+    - 120
+    - 154
+  - - 161
+    - 182
+    - 226
+  - - 129
+    - 144
+    - 186
+- image_filename: 2020_01_02__09_59__1024922.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 00181b0303227fff
+  dhash: aaa2a2db6fceceed
+  phash: a55cd653be01758c
+  avg_rgb:
+  - 100
+  - 125
+  - 141
+  top5_rgb:
+  - - 177
+    - 223
+    - 247
+  - - 187
+    - 226
+    - 247
+  - - 51
+    - 56
+    - 60
+  - - 156
+    - 209
+    - 243
+  - - 183
+    - 223
+    - 246
+- image_filename: 2020_01_02__10_05__1024940.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 6cf80c04d0ff2d07
+  dhash: d881d8f8243159dd
+  phash: da51a3ef240391db
+  avg_rgb:
+  - 132
+  - 140
+  - 159
+  top5_rgb:
+  - - 87
+    - 94
+    - 123
+  - - 138
+    - 160
+    - 206
+  - - 65
+    - 56
+    - 69
+  - - 151
+    - 173
+    - 219
+  - - 73
+    - 71
+    - 82
+- image_filename: 2020_01_02__10_07__1024944.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: e1e1f3f9c14141c1
+  dhash: 9b92969313938397
+  phash: e9d5632afb80083f
+  avg_rgb:
+  - 132
+  - 141
+  - 161
+  top5_rgb:
+  - - 95
+    - 95
+    - 114
+  - - 112
+    - 122
+    - 145
+  - - 81
+    - 79
+    - 96
+  - - 83
+    - 83
+    - 101
+  - - 88
+    - 87
+    - 108
+- image_filename: 2020_01_02__10_08__1024945.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 000000000000feff
+  dhash: 0424242ca420709c
+  phash: d62ad26ba2d52bd0
+  avg_rgb:
+  - 89
+  - 108
+  - 124
+  top5_rgb:
+  - - 48
+    - 57
+    - 59
+  - - 180
+    - 218
+    - 244
+  - - 55
+    - 70
+    - 84
+  - - 81
+    - 101
+    - 122
+  - - 90
+    - 111
+    - 135
+- image_filename: 2020_01_02__10_15__1024959.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0f0f0fc790062743
+  dhash: 3cfc1e0d614cce87
+  phash: b79d81d768b21b41
+  avg_rgb:
+  - 122
+  - 122
+  - 131
+  top5_rgb:
+  - - 122
+    - 130
+    - 147
+  - - 159
+    - 171
+    - 194
+  - - 103
+    - 107
+    - 120
+  - - 248
+    - 253
+    - 255
+  - - 140
+    - 151
+    - 172
+- image_filename: 2020_01_02__10_28__1024983.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 000636363e7e2000
+  dhash: f3bcececccccc336
+  phash: 963c69c33c4b963c
+  avg_rgb:
+  - 61
+  - 76
+  - 94
+  top5_rgb:
+  - - 22
+    - 23
+    - 29
+  - - 52
+    - 58
+    - 74
+  - - 123
+    - 172
+    - 211
+  - - 65
+    - 73
+    - 91
+  - - 55
+    - 63
+    - 81
+- image_filename: 2020_01_02__10_30__1024986.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0001030f3f7f190f
+  dhash: 6b673e7ef8eeb15b
+  phash: 92676ac2976ca45b
+  avg_rgb:
+  - 95
+  - 93
+  - 88
+  top5_rgb:
+  - - 57
+    - 71
+    - 102
+  - - 73
+    - 73
+    - 41
+  - - 114
+    - 85
+    - 69
+  - - 101
+    - 113
+    - 137
+  - - 68
+    - 82
+    - 111
+- image_filename: 2020_01_02__10_34__1024994.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: df0e0000101c1fff
+  dhash: 3ccccdeb667835d1
+  phash: 9635901ce53cd96d
+  avg_rgb:
+  - 76
+  - 102
+  - 129
+  top5_rgb:
+  - - 57
+    - 77
+    - 98
+  - - 58
+    - 86
+    - 112
+  - - 213
+    - 248
+    - 250
+  - - 76
+    - 94
+    - 114
+  - - 153
+    - 206
+    - 237
+- image_filename: 2020_01_02__10_36__1024997.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 007effff0000187f
+  dhash: 50d2ae0169b872ca
+  phash: 81d1095b6b4fe28f
+  avg_rgb:
+  - 101
+  - 96
+  - 90
+  top5_rgb:
+  - - 110
+    - 104
+    - 99
+  - - 96
+    - 90
+    - 83
+  - - 80
+    - 74
+    - 66
+  - - 102
+    - 98
+    - 93
+  - - 75
+    - 70
+    - 62
+- image_filename: 2020_01_02__10_41__1025006.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0c90f2f2f061e0f8
+  dhash: 3824a62262838480
+  phash: c41fd233cf368964
+  avg_rgb:
+  - 83
+  - 95
+  - 106
+  top5_rgb:
+  - - 52
+    - 82
+    - 123
+  - - 158
+    - 143
+    - 124
+  - - 75
+    - 137
+    - 209
+  - - 69
+    - 60
+    - 41
+  - - 58
+    - 48
+    - 37
+- image_filename: 2020_01_02__10_44__1025016.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 0000181e3fffffff
+  dhash: 675472fce6a2a466
+  phash: 8d3b6ac4b75a8c98
+  avg_rgb:
+  - 86
+  - 85
+  - 78
+  top5_rgb:
+  - - 63
+    - 63
+    - 33
+  - - 40
+    - 39
+    - 26
+  - - 110
+    - 113
+    - 116
+  - - 63
+    - 63
+    - 58
+  - - 49
+    - 48
+    - 30
+- image_filename: 2020_01_02__10_45__1025019.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 3420031f1fc95f1f
+  dhash: ece4f6f6f31397b6
+  phash: 8456c65b86b5d396
+  avg_rgb:
+  - 94
+  - 100
+  - 112
+  top5_rgb:
+  - - 168
+    - 212
+    - 243
+  - - 92
+    - 86
+    - 89
+  - - 41
+    - 48
+    - 54
+  - - 57
+    - 57
+    - 66
+  - - 89
+    - 65
+    - 68
+- image_filename: 2020_01_02__10_48__1025026.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: f26331d0000000ff
+  dhash: c6dae7b566a74148
+  phash: e525f545d45c886e
+  avg_rgb:
+  - 81
+  - 105
+  - 131
+  top5_rgb:
+  - - 85
+    - 92
+    - 105
+  - - 98
+    - 103
+    - 121
+  - - 79
+    - 65
+    - 82
+  - - 41
+    - 58
+    - 86
+  - - 60
+    - 65
+    - 79
+- image_filename: 2020_01_02__10_49__1025029.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: fffdfb2840804444
+  dhash: 89a1e3c98d1a89b5
+  phash: d2cdd2b1c0b3bda0
+  avg_rgb:
+  - 122
+  - 111
+  - 105
+  top5_rgb:
+  - - 114
+    - 103
+    - 99
+  - - 147
+    - 138
+    - 130
+  - - 195
+    - 199
+    - 203
+  - - 135
+    - 127
+    - 117
+  - - 42
+    - 49
+    - 31
+- image_filename: 2020_01_02__10_49__1025032.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 01247c49034f0f0f
+  dhash: 334cd093d79bd97b
+  phash: 8bca3f2a2ca8c9cb
+  avg_rgb:
+  - 67
+  - 86
+  - 112
+  top5_rgb:
+  - - 46
+    - 58
+    - 82
+  - - 55
+    - 72
+    - 103
+  - - 40
+    - 51
+    - 71
+  - - 90
+    - 135
+    - 189
+  - - 35
+    - 35
+    - 48
+- image_filename: 2020_01_02__10_50__1025036.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 000000800084ffff
+  dhash: 13491b49c9193933
+  phash: fb659440aedfa448
+  avg_rgb:
+  - 99
+  - 109
+  - 120
+  top5_rgb:
+  - - 56
+    - 59
+    - 63
+  - - 72
+    - 82
+    - 99
+  - - 87
+    - 93
+    - 109
+  - - 105
+    - 123
+    - 153
+  - - 89
+    - 104
+    - 123
+- image_filename: 2020_01_02__10_53__1025039.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 1f4711000003c3c3
+  dhash: be97b3319d2f0b0f
+  phash: a890b7b5545f1ad2
+  avg_rgb:
+  - 70
+  - 101
+  - 133
+  top5_rgb:
+  - - 28
+    - 41
+    - 60
+  - - 60
+    - 102
+    - 147
+  - - 36
+    - 55
+    - 80
+  - - 152
+    - 217
+    - 251
+  - - 21
+    - 29
+    - 45
+- image_filename: 2020_01_02__10_54__1025042.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: ffff3e0c00000604
+  dhash: 07c5f4781bb4cc1c
+  phash: 938be4687b949c66
+  avg_rgb:
+  - 70
+  - 88
+  - 105
+  top5_rgb:
+  - - 89
+    - 131
+    - 175
+  - - 104
+    - 146
+    - 188
+  - - 55
+    - 57
+    - 59
+  - - 82
+    - 94
+    - 108
+  - - 70
+    - 74
+    - 77
+- image_filename: 2020_01_02__10_56__1025045.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 406098fcfd3df93d
+  dhash: 84c2201169f91371
+  phash: ca6124239ef99e66
+  avg_rgb:
+  - 92
+  - 92
+  - 90
+  top5_rgb:
+  - - 131
+    - 142
+    - 148
+  - - 119
+    - 113
+    - 102
+  - - 104
+    - 112
+    - 118
+  - - 93
+    - 88
+    - 77
+  - - 79
+    - 77
+    - 72
+- image_filename: 2020_01_02__10_57__1025046.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 00008f7e7e0008ff
+  dhash: c0505cd4d4da9a17
+  phash: 957e7a41c441ab79
+  avg_rgb:
+  - 79
+  - 90
+  - 105
+  top5_rgb:
+  - - 131
+    - 157
+    - 185
+  - - 90
+    - 111
+    - 137
+  - - 122
+    - 145
+    - 171
+  - - 48
+    - 50
+    - 55
+  - - 66
+    - 66
+    - 73
+- image_filename: 2020_01_02__10_57__1025047.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 101c2c382fc1ff33
+  dhash: 6579e870539531eb
+  phash: 8f16aef8256c2167
+  avg_rgb:
+  - 80
+  - 92
+  - 101
+  top5_rgb:
+  - - 101
+    - 110
+    - 118
+  - - 111
+    - 125
+    - 138
+  - - 74
+    - 78
+    - 84
+  - - 45
+    - 71
+    - 86
+  - - 46
+    - 75
+    - 94
+- image_filename: 2020_01_02__11_09__1025058.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: f3e3e3a3000008fe
+  dhash: 634b43476d4c1224
+  phash: efebc0108eebc650
+  avg_rgb:
+  - 89
+  - 106
+  - 122
+  top5_rgb:
+  - - 32
+    - 39
+    - 46
+  - - 141
+    - 196
+    - 238
+  - - 59
+    - 64
+    - 71
+  - - 48
+    - 59
+    - 70
+  - - 121
+    - 180
+    - 233
+- image_filename: 2020_01_02__11_09__1025063.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 3f3b3030000587ff
+  dhash: 72f2e1e616691d0e
+  phash: 8f0d9d9995b2c370
+  avg_rgb:
+  - 88
+  - 103
+  - 117
+  top5_rgb:
+  - - 155
+    - 212
+    - 248
+  - - 21
+    - 27
+    - 20
+  - - 171
+    - 217
+    - 247
+  - - 66
+    - 80
+    - 95
+  - - 68
+    - 85
+    - 103
+- image_filename: 2020_01_02__11_16__1025067.jpg
+  post_slug: 2020-01-02-opuszczenie-snieznika
+  ahash: 072e36763660f0f8
+  dhash: aac8f6d4cccd8192
+  phash: c035f863adc83dac
+  avg_rgb:
+  - 84
+  - 91
+  - 101
+  top5_rgb:
+  - - 60
+    - 59
+    - 68
+  - - 81
+    - 86
+    - 91
+  - - 165
+    - 188
+    - 213
+  - - 92
+    - 101
+    - 98
+  - - 116
+    - 115
+    - 114

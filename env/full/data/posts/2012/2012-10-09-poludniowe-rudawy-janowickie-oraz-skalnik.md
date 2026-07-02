@@ -5,6 +5,7 @@ subtitle:               "początek prawdziwej jesieni, okolice linii kolejowej K
 desc:                   "Dwa miesiące temu nie mogliśmy udać się na Skalnik dlatego tym razem postanowiliśmy naprawić ten błąd. Z Marciszowa przesiadając się w Kamiennej Górze dotarliśmy do bazy w Leszczyńcu, gdzie dalej ruszyliśmy na najwyższy szczyt Rudaw Janowickich - Skalnik. "
 keywords:               [jesień, rudawy, leszczyniec, kamienna góra, skalnik, pochmurno]
 date:                   2012-10-09 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

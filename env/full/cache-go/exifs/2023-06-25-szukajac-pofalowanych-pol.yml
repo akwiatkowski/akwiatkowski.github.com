@@ -1,0 +1,1599 @@
+---
+- image_filename: 2023_06_25__15_22_P6253182.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64993055555556
+  lon: 17.217666666666666
+  altitude: 109
+  focal_length: 13
+  focal_length_35: 26
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8118
+  height: 5898
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T15:22:50+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__15_23_P6253183.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64993055555556
+  lon: 17.217666666666666
+  altitude: 108
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8037
+  height: 5912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T15:23:29+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_10_P6253184.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.62405555555556
+  lon: 17.288833333333336
+  altitude: 103
+  focal_length: 34
+  focal_length_35: 68
+  crop: 2
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8134
+  height: 6042
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T16:10:25+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_11_P6253185.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.62405555555556
+  lon: 17.28880555555556
+  altitude: 103
+  focal_length: 75
+  focal_length_35: 150
+  crop: 2
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8140
+  height: 6083
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T16:11:03+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_26_DJI_0461.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64998921666667
+  lon: 17.21780815
+  altitude: 110.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 7993
+  height: 5958
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:26:53+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_27_DJI_0462.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.649988216666664
+  lon: 17.2178123
+  altitude: 110.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0002
+  exposure_string: 1/5000 s
+  iso: 130
+  width: 7993
+  height: 5958
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:27:03+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_27_DJI_0463.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.649990466666665
+  lon: 17.217810383333333
+  altitude: 110.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 7993
+  height: 5958
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:27:16+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_28_DJI_0466.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.6501549
+  lon: 17.21987885
+  altitude: 140.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8026
+  height: 6000
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:28:23+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_29_DJI_0470.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64884896666667
+  lon: 17.21861965
+  altitude: 139.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8048
+  height: 6031
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:29:30+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_29_DJI_0471.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64884573333333
+  lon: 17.218619466666667
+  altitude: 139.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8060
+  height: 6044
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:29:40+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_30_DJI_0474.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.6497473
+  lon: 17.220959233333332
+  altitude: 139.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 8034
+  height: 6012
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:30:40+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_31_DJI_0477.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.65045551666667
+  lon: 17.22112615
+  altitude: 139.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 130
+  width: 7993
+  height: 5958
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:31:32+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_33_DJI_0481.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.6503443
+  lon: 17.21723598333333
+  altitude: 139.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8056
+  height: 6042
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:33:04+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_37_P6253186.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.58065277777778
+  lon: 17.264833333333332
+  altitude: 94
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8084
+  height: 5975
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T16:37:09+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_37_P6253187.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.58066666666667
+  lon: 17.264833333333332
+  altitude: 94
+  focal_length: 44
+  focal_length_35: 88
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8077
+  height: 5876
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T16:37:49+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_47_P6253188.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57829166666667
+  lon: 17.266166666666667
+  altitude: 97
+  focal_length: 38
+  focal_length_35: 76
+  crop: 2
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 8148
+  height: 6076
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T16:47:40+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_53_DJI_0487.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.642188833333336
+  lon: 17.284282583333333
+  altitude: 120.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8045
+  height: 6023
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:53:14+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_53_DJI_0488.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64218888333333
+  lon: 17.28428125
+  altitude: 120.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8003
+  height: 5967
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:53:24+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_54_DJI_0490.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64371598333334
+  lon: 17.285266133333334
+  altitude: 120.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8057
+  height: 6038
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:54:05+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_55_DJI_0493.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187091666667
+  lon: 17.285509266666665
+  altitude: 138
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8010
+  height: 5979
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:55:15+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_55_DJI_0494.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.6418713
+  lon: 17.2855096
+  altitude: 138
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8034
+  height: 6025
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:55:25+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_55_DJI_0495.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64187226666667
+  lon: 17.285506766666668
+  altitude: 137.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00015625
+  exposure_string: 1/6400 s
+  iso: 160
+  width: 8058
+  height: 6043
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:55:35+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_55_DJI_0497.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.6418786
+  lon: 17.2855001
+  altitude: 137.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 100
+  width: 8049
+  height: 6027
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:55:53+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_56_DJI_0500.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64049348333333
+  lon: 17.288566516666666
+  altitude: 140.1
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 110
+  width: 8026
+  height: 5998
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:56:55+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__16_58_DJI_0505.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.64027071666667
+  lon: 17.288825433333333
+  altitude: 154
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 130
+  width: 8016
+  height: 5984
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T16:58:08+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_09_P6253189.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.55781944444444
+  lon: 17.337277777777775
+  altitude: 106
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 8200
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T17:09:54+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_11_P6253190.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.55779166666667
+  lon: 17.337263888888888
+  altitude: 105
+  focal_length: 66
+  focal_length_35: 132
+  crop: 2
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 8136
+  height: 6038
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T17:11:33+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_18_DJI_0517.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.60917975
+  lon: 17.282483566666667
+  altitude: 132.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:18:40+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_18_DJI_0518.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.60918051666667
+  lon: 17.282484083333333
+  altitude: 132.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  width: 8002
+  height: 5966
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:18:49+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_19_DJI_0519.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.60918156666666
+  lon: 17.2824768
+  altitude: 161.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8042
+  height: 6020
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:19:10+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_19_DJI_0523.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.609180183333336
+  lon: 17.282479516666665
+  altitude: 161.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8060
+  height: 6045
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:19:45+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_33_P6253191.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549388888888885
+  lon: 17.350416666666668
+  altitude: 111
+  focal_length: 86
+  focal_length_35: 172
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 8149
+  height: 6071
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkIII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkIII
+  time: "2023-06-25T17:33:57+01:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_41_DJI_0526.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57833241666667
+  lon: 17.266170183333333
+  altitude: 90.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:41:02+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_41_DJI_0528.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57832825
+  lon: 17.266171516666667
+  altitude: 103.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8057
+  height: 6038
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:41:20+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_42_DJI_0533.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57762275
+  lon: 17.2658386
+  altitude: 122.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 110
+  width: 8041
+  height: 6018
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:42:33+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_43_DJI_0538.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.579276
+  lon: 17.267249433333333
+  altitude: 126.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8045
+  height: 6023
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:43:58+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__17_45_DJI_0544.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.57739485
+  lon: 17.266021983333335
+  altitude: 126.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8048
+  height: 6031
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T17:45:14+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_23_DJI_0548.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.5494549
+  lon: 17.349786466666668
+  altitude: 154.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 110
+  width: 8039
+  height: 6015
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:23:38+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_24_DJI_0550.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.548784383333334
+  lon: 17.347265433333334
+  altitude: 158
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8041
+  height: 6019
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:24:32+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_24_DJI_0551.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54878465
+  lon: 17.347265183333334
+  altitude: 158.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 100
+  width: 8036
+  height: 6012
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:24:41+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_24_DJI_0552.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.548784516666665
+  lon: 17.34726768333333
+  altitude: 158
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8051
+  height: 6033
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:24:50+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_25_DJI_0555.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.548950266666665
+  lon: 17.344642816666667
+  altitude: 158
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 130
+  width: 8030
+  height: 6005
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:25:49+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_26_DJI_0557.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54849275
+  lon: 17.343334833333333
+  altitude: 158
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 100
+  width: 8046
+  height: 6026
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:26:32+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_27_DJI_0560.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549727266666665
+  lon: 17.3404831
+  altitude: 158.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8058
+  height: 6043
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:27:31+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_27_DJI_0561.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54972493333333
+  lon: 17.340482966666666
+  altitude: 158.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8057
+  height: 6038
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:27:40+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_28_DJI_0564.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.5496316
+  lon: 17.34365635
+  altitude: 158.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8029
+  height: 6008
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:28:41+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_29_DJI_0566.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.549677583333334
+  lon: 17.347748566666667
+  altitude: 158.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8060
+  height: 6045
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:29:50+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_30_DJI_0568.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54897823333334
+  lon: 17.34997651666667
+  altitude: 158.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 8054
+  height: 6034
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:30:40+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2023_06_25__18_31_DJI_0571.jpg
+  post_slug: 2023-06-25-szukajac-pofalowanych-pol
+  lat: 52.54951758333333
+  lon: 17.351005166666667
+  altitude: 158.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-06-25T18:31:23+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.1
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

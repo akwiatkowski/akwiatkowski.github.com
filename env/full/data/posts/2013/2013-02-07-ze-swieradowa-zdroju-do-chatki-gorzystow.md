@@ -5,6 +5,7 @@ subtitle:               "Góry Izerskie rozpoczęte Głównym Szlakiem Sudeckim"
 desc:                   "Wystarczył trochę ponad miesiąc abym chciał ponownie pojechać w góry. Zaplanowaliśmy całkiem długi weekend, aż 4 dni, przejścia Głównego Szlaku Sudeckiego zaczynając w Świeradowie Zdroju. Pierwszego dnia celem było dotarcie do schroniska Chatka Górzystów."
 keywords:               [izerskie, świeradów zdrój, chatka górzystów, zima]
 date:                   2013-02-07 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_filename:         IMGP7946b.jpg

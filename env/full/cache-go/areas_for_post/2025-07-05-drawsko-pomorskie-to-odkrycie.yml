@@ -1,0 +1,168 @@
+---
+- type: bicycle
+  total_distance_meters: 103094.27
+  total_distance_km: 103.094
+  points_count: 693
+  towns:
+    - slug: drawsko_pomorskie
+      name: Drawsko Pomorskie
+      code: "3203023"
+      distance_meters: 32102.46
+      distance_km: 32.102
+      distance_percent: 31.1389
+    - slug: insko
+      name: Ińsko
+      code: "3214053"
+      distance_meters: 16360.78
+      distance_km: 16.361
+      distance_percent: 15.8697
+    - slug: dobrzany
+      name: Dobrzany
+      code: "3214033"
+      distance_meters: 12510.54
+      distance_km: 12.511
+      distance_percent: 12.1351
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+      distance_meters: 10374.51
+      distance_km: 10.375
+      distance_percent: 10.0631
+    - slug: wegorzyno
+      name: Węgorzyno
+      code: "3218053"
+      distance_meters: 10202.05
+      distance_km: 10.202
+      distance_percent: 9.8958
+    - slug: suchan
+      name: Suchań
+      code: "3214113"
+      distance_meters: 8930.21
+      distance_km: 8.93
+      distance_percent: 8.6622
+    - slug: lobez
+      name: Łobez
+      code: "3218023"
+      distance_meters: 7913.59
+      distance_km: 7.914
+      distance_percent: 7.6761
+    - slug: dolice
+      name: Dolice
+      code: "3214042"
+      distance_meters: 4700.12
+      distance_km: 4.7
+      distance_percent: 4.5591
+  counties:
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+      distance_meters: 42501.65
+      distance_km: 42.502
+      distance_percent: 41.226
+    - slug: drawski
+      name: drawski
+      code: "3203"
+      distance_meters: 32102.46
+      distance_km: 32.102
+      distance_percent: 31.1389
+    - slug: lobeski
+      name: łobeski
+      code: "3218"
+      distance_meters: 18115.64
+      distance_km: 18.116
+      distance_percent: 17.5719
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+      distance_meters: 10374.51
+      distance_km: 10.375
+      distance_percent: 10.0631
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 103094.27
+      distance_km: 103.094
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_inskie
+      name: Pojezierze Ińskie
+      code: "314.43"
+      distance_meters: 44288.94
+      distance_km: 44.289
+      distance_percent: 42.9597
+    - slug: pojezierze_drawskie
+      name: Pojezierze Drawskie
+      code: "314.45"
+      distance_meters: 42292.53
+      distance_km: 42.293
+      distance_percent: 41.0232
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+      distance_meters: 16512.8
+      distance_km: 16.513
+      distance_percent: 16.0172
+  macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 103094.27
+      distance_km: 103.094
+      distance_percent: 100
+  touched_towns:
+    - slug: choszczno
+      name: Choszczno
+      code: "3202023"
+    - slug: dobrzany
+      name: Dobrzany
+      code: "3214033"
+    - slug: dolice
+      name: Dolice
+      code: "3214042"
+    - slug: drawsko_pomorskie
+      name: Drawsko Pomorskie
+      code: "3203023"
+    - slug: insko
+      name: Ińsko
+      code: "3214053"
+    - slug: lobez
+      name: Łobez
+      code: "3218023"
+    - slug: suchan
+      name: Suchań
+      code: "3214113"
+    - slug: wegorzyno
+      name: Węgorzyno
+      code: "3218053"
+  touched_counties:
+    - slug: choszczenski
+      name: choszczeński
+      code: "3202"
+    - slug: drawski
+      name: drawski
+      code: "3203"
+    - slug: lobeski
+      name: łobeski
+      code: "3218"
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: pojezierze_choszczenskie
+      name: Pojezierze Choszczeńskie
+      code: "314.42"
+    - slug: pojezierze_drawskie
+      name: Pojezierze Drawskie
+      code: "314.45"
+    - slug: pojezierze_inskie
+      name: Pojezierze Ińskie
+      code: "314.43"
+  touched_macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

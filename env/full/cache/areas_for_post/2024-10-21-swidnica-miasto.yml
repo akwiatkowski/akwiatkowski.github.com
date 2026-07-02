@@ -4,14 +4,14 @@
   total_distance_km: 1.282
   points_count: 33.0
   towns:
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-miejska
     name: Świdnica
     code: 0219011
     distance_meters: 1282.3
     distance_km: 1.282
     distance_percent: 100.0
   counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
     distance_meters: 1282.3
@@ -60,11 +60,11 @@
     distance_km: 1.282
     distance_percent: 100.0
   touched_towns:
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-miejska
     name: Świdnica
     code: 0219011
   touched_counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
   touched_voivodeships:

@@ -1,0 +1,876 @@
+---
+- image_filename: 2021_12_09__19_31_DSC03005.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 3020202430307cff
+  dhash: e4c8d8cdc8e0e098
+  phash: c364d84fb24a75d1
+  avg_rgb:
+  - 101
+  - 77
+  - 38
+  top5_rgb:
+  - - 104
+    - 84
+    - 58
+  - - 244
+    - 184
+    - 71
+  - - 67
+    - 49
+    - 20
+  - - 98
+    - 71
+    - 30
+  - - 44
+    - 30
+    - 11
+- image_filename: 2021_12_09__19_33_DSC03015.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 7c7c7c3818181c3e
+  dhash: c0c0e8e0a0b1f060
+  phash: cce3b728c7c26b90
+  avg_rgb:
+  - 118
+  - 90
+  - 49
+  top5_rgb:
+  - - 156
+    - 122
+    - 83
+  - - 191
+    - 137
+    - 48
+  - - 174
+    - 134
+    - 84
+  - - 125
+    - 106
+    - 88
+  - - 106
+    - 93
+    - 83
+- image_filename: 2021_12_09__19_46_DSC03016.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00041c3c3c9eff5d
+  dhash: fff9f9f0e87cb9bd
+  phash: 9a0f2a6561f81fd2
+  avg_rgb:
+  - 72
+  - 72
+  - 72
+  top5_rgb:
+  - - 65
+    - 65
+    - 65
+  - - 63
+    - 63
+    - 63
+  - - 64
+    - 64
+    - 64
+  - - 32
+    - 32
+    - 32
+  - - 72
+    - 72
+    - 72
+- image_filename: 2021_12_09__19_47_DSC03018.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00687c7c7c3c0404
+  dhash: d0d0d8d8f0f0e8ec
+  phash: c1c13e2e1cf3d1c9
+  avg_rgb:
+  - 79
+  - 62
+  - 27
+  top5_rgb:
+  - - 34
+    - 24
+    - 5
+  - - 24
+    - 15
+    - 2
+  - - 39
+    - 29
+    - 9
+  - - 30
+    - 21
+    - 4
+  - - 35
+    - 26
+    - 8
+- image_filename: 2021_12_09__19_48_DSC03023.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 3838306040e0f8f8
+  dhash: e0e0e082924a42e3
+  phash: cd0ece33e0337326
+  avg_rgb:
+  - 62
+  - 60
+  - 55
+  top5_rgb:
+  - - 36
+    - 35
+    - 32
+  - - 53
+    - 51
+    - 47
+  - - 33
+    - 32
+    - 29
+  - - 38
+    - 37
+    - 34
+  - - 31
+    - 30
+    - 26
+- image_filename: 2021_12_09__19_56_DSC03028.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0000303032b33f3b
+  dhash: f0f0d2e26666e2e2
+  phash: 8d729cfe01ca75a8
+  avg_rgb:
+  - 58
+  - 53
+  - 44
+  top5_rgb:
+  - - 87
+    - 78
+    - 71
+  - - 32
+    - 26
+    - 12
+  - - 32
+    - 30
+    - 25
+  - - 46
+    - 48
+    - 44
+  - - 70
+    - 59
+    - 52
+- image_filename: 2021_12_09__19_56_PC090043.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0020302038383f3d
+  dhash: c0c0c0c8e1e0f1f1
+  phash: c87398643bdd7688
+  avg_rgb:
+  - 67
+  - 58
+  - 47
+  top5_rgb:
+  - - 45
+    - 37
+    - 25
+  - - 47
+    - 41
+    - 33
+  - - 52
+    - 46
+    - 39
+  - - 51
+    - 43
+    - 34
+  - - 78
+    - 66
+    - 53
+- image_filename: 2021_12_09__19_57_DSC03032.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 30383c3c1c3eb800
+  dhash: 6060f07030686830
+  phash: cecc64ae38e33331
+  avg_rgb:
+  - 72
+  - 54
+  - 19
+  top5_rgb:
+  - - 34
+    - 23
+    - 4
+  - - 48
+    - 36
+    - 12
+  - - 36
+    - 24
+    - 4
+  - - 69
+    - 54
+    - 23
+  - - 54
+    - 38
+    - 10
+- image_filename: 2021_12_09__19_58_DSC03038.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: c0c0006c783e78fc
+  dhash: 9585d0d8d0e2e1f0
+  phash: c070fee6d063ad4c
+  avg_rgb:
+  - 80
+  - 75
+  - 64
+  top5_rgb:
+  - - 38
+    - 34
+    - 30
+  - - 88
+    - 86
+    - 81
+  - - 114
+    - 113
+    - 107
+  - - 104
+    - 105
+    - 101
+  - - 162
+    - 131
+    - 87
+- image_filename: 2021_12_09__19_59_DSC03044.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 20606098fcfcd858
+  dhash: c0c0c030b038b090
+  phash: d96321fa983e7c18
+  avg_rgb:
+  - 68
+  - 54
+  - 38
+  top5_rgb:
+  - - 40
+    - 33
+    - 31
+  - - 38
+    - 30
+    - 27
+  - - 43
+    - 38
+    - 35
+  - - 160
+    - 116
+    - 56
+  - - 117
+    - 85
+    - 42
+- image_filename: 2021_12_09__20_01_DSC03051.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 1c3c387860f0b0fc
+  dhash: f870c0c0c0644460
+  phash: c3099f3cd131c17b
+  avg_rgb:
+  - 80
+  - 80
+  - 80
+  top5_rgb:
+  - - 86
+    - 86
+    - 86
+  - - 82
+    - 82
+    - 82
+  - - 38
+    - 38
+    - 38
+  - - 25
+    - 25
+    - 25
+  - - 56
+    - 56
+    - 56
+- image_filename: 2021_12_09__20_01_DSC03055.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0001858f9edffefe
+  dhash: 4f9b1d3c243ca4c0
+  phash: be2b4114579cb74c
+  avg_rgb:
+  - 67
+  - 67
+  - 67
+  top5_rgb:
+  - - 73
+    - 73
+    - 73
+  - - 36
+    - 36
+    - 36
+  - - 80
+    - 80
+    - 80
+  - - 81
+    - 81
+    - 81
+  - - 76
+    - 76
+    - 76
+- image_filename: 2021_12_09__20_02_DSC03062.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00001038fcf723fe
+  dhash: 2008b4f2e4a6cee4
+  phash: c43a33e7da29c433
+  avg_rgb:
+  - 59
+  - 54
+  - 46
+  top5_rgb:
+  - - 88
+    - 89
+    - 75
+  - - 43
+    - 32
+    - 20
+  - - 76
+    - 72
+    - 59
+  - - 37
+    - 27
+    - 15
+  - - 144
+    - 152
+    - 143
+- image_filename: 2021_12_09__20_02_DSC03063.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00808070383c3e3c
+  dhash: 202029a0e068f4e8
+  phash: de6d9e0f00c01b6f
+  avg_rgb:
+  - 69
+  - 69
+  - 69
+  top5_rgb:
+  - - 26
+    - 26
+    - 26
+  - - 25
+    - 25
+    - 25
+  - - 24
+    - 24
+    - 24
+  - - 23
+    - 23
+    - 23
+  - - 30
+    - 30
+    - 30
+- image_filename: 2021_12_09__20_04_DSC03073.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 3030303c3e3f3e3f
+  dhash: e0e0e8e9ece6f4f8
+  phash: 876a9ca45bdaa552
+  avg_rgb:
+  - 80
+  - 80
+  - 80
+  top5_rgb:
+  - - 93
+    - 93
+    - 93
+  - - 38
+    - 38
+    - 38
+  - - 88
+    - 88
+    - 88
+  - - 58
+    - 58
+    - 58
+  - - 84
+    - 84
+    - 84
+- image_filename: 2021_12_09__20_04_DSC03075.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00303030367f7f7f
+  dhash: d0e0e0c4ccc3edad
+  phash: 86573a3974b86996
+  avg_rgb:
+  - 75
+  - 75
+  - 75
+  top5_rgb:
+  - - 37
+    - 37
+    - 37
+  - - 36
+    - 36
+    - 36
+  - - 50
+    - 50
+    - 50
+  - - 48
+    - 48
+    - 48
+  - - 33
+    - 33
+    - 33
+- image_filename: 2021_12_09__22_13_PC090046.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00000991f1f1c583
+  dhash: 3090fb2b238d8d26
+  phash: a85b15c2ad52a5fc
+  avg_rgb:
+  - 79
+  - 62
+  - 34
+  top5_rgb:
+  - - 51
+    - 34
+    - 9
+  - - 140
+    - 101
+    - 24
+  - - 74
+    - 51
+    - 11
+  - - 62
+    - 40
+    - 6
+  - - 62
+    - 49
+    - 30
+- image_filename: 2021_12_09__22_14_PC090050.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 000030381c7effff
+  dhash: 6818e4e1f8dcc040
+  phash: c62ef1111dc626eb
+  avg_rgb:
+  - 95
+  - 62
+  - 56
+  top5_rgb:
+  - - 131
+    - 89
+    - 63
+  - - 41
+    - 25
+    - 23
+  - - 42
+    - 17
+    - 60
+  - - 39
+    - 24
+    - 21
+  - - 69
+    - 39
+    - 39
+- image_filename: 2021_12_09__22_15_PC090052.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0000000009cf3fff
+  dhash: 010926733b3b64f8
+  phash: 8f6897388b44f13e
+  avg_rgb:
+  - 87
+  - 64
+  - 45
+  top5_rgb:
+  - - 38
+    - 26
+    - 29
+  - - 44
+    - 30
+    - 30
+  - - 57
+    - 36
+    - 15
+  - - 47
+    - 32
+    - 32
+  - - 41
+    - 28
+    - 32
+- image_filename: 2021_12_09__22_44_PC090057.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 000000a4fd7fffff
+  dhash: a098986969f9f0f0
+  phash: da74948b669669c5
+  avg_rgb:
+  - 75
+  - 64
+  - 48
+  top5_rgb:
+  - - 41
+    - 29
+    - 13
+  - - 35
+    - 24
+    - 5
+  - - 38
+    - 26
+    - 10
+  - - 36
+    - 24
+    - 8
+  - - 54
+    - 41
+    - 24
+- image_filename: 2021_12_09__22_44_PC090058.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0000004380bcffff
+  dhash: 88c9929a3020661e
+  phash: f509974eb1e5b844
+  avg_rgb:
+  - 87
+  - 73
+  - 53
+  top5_rgb:
+  - - 47
+    - 32
+    - 12
+  - - 154
+    - 140
+    - 124
+  - - 49
+    - 34
+    - 15
+  - - 93
+    - 79
+    - 60
+  - - 44
+    - 29
+    - 7
+- image_filename: 2021_12_09__22_45_PC090060.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0000061e1cfc7cfc
+  dhash: ed6f3cb83858e0e0
+  phash: db36663bd88c614c
+  avg_rgb:
+  - 89
+  - 63
+  - 34
+  top5_rgb:
+  - - 96
+    - 65
+    - 8
+  - - 95
+    - 65
+    - 35
+  - - 82
+    - 56
+    - 27
+  - - 85
+    - 57
+    - 10
+  - - 36
+    - 23
+    - 30
+- image_filename: 2021_12_09__22_49_PC090066.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 01010307071cfeff
+  dhash: e9dbde3e5679fcac
+  phash: aa2bca4bb6d45945
+  avg_rgb:
+  - 97
+  - 83
+  - 57
+  top5_rgb:
+  - - 42
+    - 29
+    - 9
+  - - 22
+    - 16
+    - 3
+  - - 51
+    - 38
+    - 19
+  - - 163
+    - 138
+    - 100
+  - - 196
+    - 162
+    - 112
+- image_filename: 2021_12_09__22_51_PC090069.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00001e1c0c1cfcfc
+  dhash: f0fc787059f859b0
+  phash: 9b24e4132dce9769
+  avg_rgb:
+  - 74
+  - 50
+  - 32
+  top5_rgb:
+  - - 73
+    - 52
+    - 44
+  - - 76
+    - 53
+    - 46
+  - - 63
+    - 44
+    - 37
+  - - 68
+    - 47
+    - 38
+  - - 72
+    - 49
+    - 43
+- image_filename: 2021_12_09__22_56_PC090083.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00085afafc7c1e1e
+  dhash: e7b292c2e0e17474
+  phash: 85693e4ae635e718
+  avg_rgb:
+  - 88
+  - 62
+  - 28
+  top5_rgb:
+  - - 40
+    - 22
+    - 3
+  - - 72
+    - 45
+    - 3
+  - - 136
+    - 98
+    - 46
+  - - 83
+    - 53
+    - 3
+  - - 38
+    - 25
+    - 24
+- image_filename: 2021_12_09__22_57_PC090085.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 60707838fcfc6603
+  dhash: a4a6e27158b8ac86
+  phash: c44f24d22b1fda65
+  avg_rgb:
+  - 78
+  - 66
+  - 45
+  top5_rgb:
+  - - 41
+    - 32
+    - 23
+  - - 144
+    - 136
+    - 125
+  - - 89
+    - 82
+    - 70
+  - - 82
+    - 75
+    - 63
+  - - 67
+    - 46
+    - 9
+- image_filename: 2021_12_09__22_58_PC090087.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 0040607c7efffefe
+  dhash: 8088d450f0a0a4e0
+  phash: c061683c9f5e3f2a
+  avg_rgb:
+  - 77
+  - 68
+  - 44
+  top5_rgb:
+  - - 29
+    - 21
+    - 9
+  - - 162
+    - 134
+    - 66
+  - - 23
+    - 17
+    - 1
+  - - 92
+    - 87
+    - 71
+  - - 100
+    - 92
+    - 68
+- image_filename: 2021_12_09__23_00_PC090091.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00000ded333f3f7f
+  dhash: 1999194b67667cec
+  phash: 9a6b142ce51bf916
+  avg_rgb:
+  - 73
+  - 62
+  - 42
+  top5_rgb:
+  - - 66
+    - 51
+    - 34
+  - - 73
+    - 58
+    - 41
+  - - 26
+    - 20
+    - 8
+  - - 46
+    - 37
+    - 25
+  - - 80
+    - 65
+    - 45
+- image_filename: 2021_12_09__23_03_PC090099.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00001018177f7e3f
+  dhash: 30b2b4f3f6d6f0fc
+  phash: 8c6a9361aec83773
+  avg_rgb:
+  - 87
+  - 59
+  - 22
+  top5_rgb:
+  - - 51
+    - 35
+    - 36
+  - - 59
+    - 41
+    - 41
+  - - 47
+    - 26
+    - 3
+  - - 113
+    - 76
+    - 16
+  - - 61
+    - 37
+    - 3
+- image_filename: 2021_12_09__23_05_PC090102.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 001818000199fdff
+  dhash: e971b133f1313150
+  phash: 8808d73a3776b9c6
+  avg_rgb:
+  - 93
+  - 67
+  - 34
+  top5_rgb:
+  - - 75
+    - 55
+    - 57
+  - - 63
+    - 46
+    - 49
+  - - 73
+    - 48
+    - 24
+  - - 57
+    - 35
+    - 5
+  - - 68
+    - 49
+    - 51
+- image_filename: 2021_12_09__23_07_DSC03081.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 703032303173fffc
+  dhash: e5e7e6e5e3e6d0d9
+  phash: c466d3ac58bc259b
+  avg_rgb:
+  - 98
+  - 71
+  - 25
+  top5_rgb:
+  - - 143
+    - 99
+    - 11
+  - - 95
+    - 64
+    - 11
+  - - 85
+    - 70
+    - 60
+  - - 162
+    - 113
+    - 17
+  - - 105
+    - 72
+    - 8
+- image_filename: 2021_12_09__23_09_DSC03090_01.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 00101030f8f8fcff
+  dhash: f2e2e0f0f0f0a0e4
+  phash: cc2b9359a53b847a
+  avg_rgb:
+  - 52
+  - 52
+  - 52
+  top5_rgb:
+  - - 24
+    - 24
+    - 24
+  - - 23
+    - 23
+    - 23
+  - - 22
+    - 22
+    - 22
+  - - 25
+    - 25
+    - 25
+  - - 26
+    - 26
+    - 26
+- image_filename: 2021_12_09__23_10_DSC03096.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 181840103878fff7
+  dhash: 62b290b0e090596c
+  phash: c96ca79926bb41b2
+  avg_rgb:
+  - 109
+  - 85
+  - 43
+  top5_rgb:
+  - - 116
+    - 98
+    - 84
+  - - 96
+    - 77
+    - 51
+  - - 122
+    - 102
+    - 87
+  - - 127
+    - 95
+    - 42
+  - - 134
+    - 98
+    - 41
+- image_filename: 2021_12_10__18_36_PC100128.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 000000003c7fffff
+  dhash: 0a0111e1e8f96376
+  phash: 8b70addb40ae11ee
+  avg_rgb:
+  - 104
+  - 79
+  - 66
+  top5_rgb:
+  - - 41
+    - 29
+    - 29
+  - - 35
+    - 25
+    - 26
+  - - 67
+    - 49
+    - 36
+  - - 181
+    - 147
+    - 128
+  - - 39
+    - 28
+    - 27
+- image_filename: 2021_12_10__18_37_PC100130.jpg
+  post_slug: 2021-12-09-snieg-w-poznaniu
+  ahash: 10184840ecfdffff
+  dhash: 67329988c8b9b939
+  phash: db458c8e67e222b3
+  avg_rgb:
+  - 83
+  - 75
+  - 57
+  top5_rgb:
+  - - 35
+    - 31
+    - 20
+  - - 240
+    - 241
+    - 227
+  - - 41
+    - 35
+    - 24
+  - - 171
+    - 156
+    - 133
+  - - 87
+    - 76
+    - 56

@@ -25,7 +25,7 @@
     distance_km: 4.989
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 4988.52
@@ -72,7 +72,7 @@
     name: DOLNOŚLĄSKIE
     code: "02"
   touched_meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   touched_macro_regions:
@@ -117,7 +117,7 @@
     distance_km: 1.062
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 1062.44
@@ -164,7 +164,7 @@
     name: DOLNOŚLĄSKIE
     code: "02"
   touched_meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   touched_macro_regions:

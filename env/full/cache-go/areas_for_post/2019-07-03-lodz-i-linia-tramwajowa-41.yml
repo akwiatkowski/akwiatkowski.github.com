@@ -1,0 +1,105 @@
+---
+- type: train
+  total_distance_meters: 36438.23
+  total_distance_km: 36.438
+  points_count: 192
+  towns:
+    - slug: lodz
+      name: Łódź
+      code: "1061011"
+      distance_meters: 24619.79
+      distance_km: 24.62
+      distance_percent: 67.5658
+    - slug: pabianice
+      name: Pabianice
+      code: "1008021"
+      distance_meters: 6206.19
+      distance_km: 6.206
+      distance_percent: 17.0321
+    - slug: ksawerow
+      name: Ksawerów
+      code: "1008052"
+      distance_meters: 5612.25
+      distance_km: 5.612
+      distance_percent: 15.4021
+  counties:
+    - slug: lodz
+      name: Łódź
+      code: "1061"
+      distance_meters: 24619.79
+      distance_km: 24.62
+      distance_percent: 67.5658
+    - slug: pabianicki
+      name: pabianicki
+      code: "1008"
+      distance_meters: 11818.44
+      distance_km: 11.818
+      distance_percent: 32.4342
+  voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+      distance_meters: 36438.23
+      distance_km: 36.438
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_laska
+      name: Wysoczyzna Łaska
+      code: "318.19"
+      distance_meters: 19469.78
+      distance_km: 19.47
+      distance_percent: 53.4323
+    - slug: wzniesienia_lodzkie
+      name: Wzniesienia Łódzkie
+      code: "318.82"
+      distance_meters: 16968.45
+      distance_km: 16.968
+      distance_percent: 46.5677
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 19469.78
+      distance_km: 19.47
+      distance_percent: 53.4323
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"
+      distance_meters: 16968.45
+      distance_km: 16.968
+      distance_percent: 46.5677
+  touched_towns:
+    - slug: ksawerow
+      name: Ksawerów
+      code: "1008052"
+    - slug: lodz
+      name: Łódź
+      code: "1061011"
+    - slug: pabianice
+      name: Pabianice
+      code: "1008021"
+  touched_counties:
+    - slug: lodz
+      name: Łódź
+      code: "1061"
+    - slug: pabianicki
+      name: pabianicki
+      code: "1008"
+  touched_voivodeships:
+    - slug: lodzkie
+      name: łódzkie
+      code: "10"
+  touched_meso_regions:
+    - slug: wysoczyzna_laska
+      name: Wysoczyzna Łaska
+      code: "318.19"
+    - slug: wzniesienia_lodzkie
+      name: Wzniesienia Łódzkie
+      code: "318.82"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: wzniesienia_poludniowomazowieckie
+      name: Wzniesienia Południowomazowieckie
+      code: "318"

@@ -1,0 +1,96 @@
+---
+- type: bicycle
+  total_distance_meters: 34375.37
+  total_distance_km: 34.375
+  points_count: 148
+  towns:
+    - slug: warnice
+      name: Warnice
+      code: "3212062"
+      distance_meters: 10414.31
+      distance_km: 10.414
+      distance_percent: 30.2958
+    - slug: dolice
+      name: Dolice
+      code: "3214042"
+      distance_meters: 7905.3
+      distance_km: 7.905
+      distance_percent: 22.997
+    - slug: kobylanka
+      name: Kobylanka
+      code: "3214062"
+      distance_meters: 6346.66
+      distance_km: 6.347
+      distance_percent: 18.4628
+  counties:
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+      distance_meters: 23961.07
+      distance_km: 23.961
+      distance_percent: 69.7042
+    - slug: pyrzycki
+      name: pyrzycki
+      code: "3212"
+      distance_meters: 10414.31
+      distance_km: 10.414
+      distance_percent: 30.2958
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 34375.37
+      distance_km: 34.375
+      distance_percent: 100
+  meso_regions:
+    - slug: rownina_pyrzycka
+      name: Równina Pyrzycka
+      code: "313.31"
+      distance_meters: 31597.45
+      distance_km: 31.597
+      distance_percent: 91.9189
+    - slug: rownina_goleniowska
+      name: Równina Goleniowska
+      code: "313.25"
+      distance_meters: 2777.92
+      distance_km: 2.778
+      distance_percent: 8.0811
+  macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+      distance_meters: 34375.37
+      distance_km: 34.375
+      distance_percent: 100
+  touched_towns:
+    - slug: dolice
+      name: Dolice
+      code: "3214042"
+    - slug: kobylanka
+      name: Kobylanka
+      code: "3214062"
+    - slug: warnice
+      name: Warnice
+      code: "3212062"
+  touched_counties:
+    - slug: pyrzycki
+      name: pyrzycki
+      code: "3212"
+    - slug: stargardzki
+      name: stargardzki
+      code: "3214"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: rownina_goleniowska
+      name: Równina Goleniowska
+      code: "313.25"
+    - slug: rownina_pyrzycka
+      name: Równina Pyrzycka
+      code: "313.31"
+  touched_macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"

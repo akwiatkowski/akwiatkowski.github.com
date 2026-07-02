@@ -5,6 +5,7 @@ subtitle:               "Głównym Szlakiem Sudeckim podczas idealnej pogody"
 desc:                   "W górach pogoda jest zmienna. Dzień wcześniej przez cały dzień poruszaliśmy się we mgle. Nie przypuszczałem, że tego dnia spotka nas tak dobra pogoda. Idąc granią Karkonoszy mieliśmy idealną widoczność ich polskiej strony."
 keywords:               [odrodzenie, karkonosze, śnieżka, słoneczna, karpacz]
 date:                   2013-03-02 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 78%

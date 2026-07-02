@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP7253raw2.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  ahash: e0f0ff7f20003060
+  dhash: 010380c1c163c1c1
+  phash: c1fc7c3f41833c70
+  avg_rgb:
+  - 105
+  - 105
+  - 108
+  top5_rgb:
+  - - 75
+    - 76
+    - 81
+  - - 206
+    - 201
+    - 200
+  - - 69
+    - 72
+    - 79
+  - - 64
+    - 68
+    - 75
+  - - 99
+    - 101
+    - 110
+- image_filename: IMGP7286raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  ahash: ffff8000000000f8
+  dhash: 8cc202599aa02400
+  phash: f5e1f58432167271
+  avg_rgb:
+  - 123
+  - 110
+  - 91
+  top5_rgb:
+  - - 84
+    - 72
+    - 35
+  - - 111
+    - 90
+    - 38
+  - - 69
+    - 64
+    - 35
+  - - 87
+    - 76
+    - 33
+  - - 56
+    - 54
+    - 34
+- image_filename: IMGP7311raw1.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  ahash: fffffff80000f0fc
+  dhash: 8081b080830080c0
+  phash: d595ab2a66d49529
+  avg_rgb:
+  - 150
+  - 152
+  - 153
+  top5_rgb:
+  - - 82
+    - 61
+    - 35
+  - - 209
+    - 215
+    - 220
+  - - 74
+    - 57
+    - 34
+  - - 45
+    - 47
+    - 42
+  - - 216
+    - 219
+    - 219
+- image_filename: header.jpg
+  post_slug: 2016-10-04-testujac-filtr-szary-nd64
+  ahash: ffff000f07000000
+  dhash: 010cccdc7e6f87e1
+  phash: b796c8bf91c00e6a
+  avg_rgb:
+  - 102
+  - 98
+  - 95
+  top5_rgb:
+  - - 80
+    - 65
+    - 55
+  - - 48
+    - 60
+    - 69
+  - - 46
+    - 54
+    - 63
+  - - 90
+    - 71
+    - 63
+  - - 71
+    - 56
+    - 51

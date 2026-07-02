@@ -5,6 +5,7 @@ subtitle:               "pętla przez Obidzę między Małymi Pieninani a Beskid
 desc:                   "Jest to pierwszy dzień majówki w Pieninach. Postanowiliśmy przejść się w kierunku Beskidu Sądeckiego aby się rozprostować i zobaczyć co jest ciekawego. Najpiękniejsze widoki pojawiły się podczas schodzenia gdy słońce zaczęło powoli zachodzić."
 keywords:               [wiosna, pieniny, jarowki, biała woda, obidza]
 date:                   2013-05-01 21:00:00
+finished_at:            2013-12-31 23:59:59
 header_timeline:        true
 author:                 "Aleksander Kwiatkowski"
 categories:             trip

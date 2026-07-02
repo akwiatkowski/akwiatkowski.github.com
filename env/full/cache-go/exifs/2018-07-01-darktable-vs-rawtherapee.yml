@@ -1,0 +1,29 @@
+---
+- image_filename: P6240189_dark1.jpg
+  post_slug: 2018-07-01-darktable-vs-rawtherapee
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 160
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-06-24T11:46:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8

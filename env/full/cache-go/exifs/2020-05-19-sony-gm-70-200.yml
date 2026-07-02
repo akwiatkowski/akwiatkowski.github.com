@@ -1,0 +1,1322 @@
+---
+- image_filename: 2020_05_18__21_47__DSC2360.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.05
+  exposure_string: 1/20 s
+  iso: 8000
+  width: 5320
+  height: 7980
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-18T21:47:29+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_18__21_57__DSC2391.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 4000
+  width: 7980
+  height: 5320
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-18T21:57:08+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_18__21_59__DSC2423.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 5000
+  width: 7639
+  height: 5092
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-18T21:59:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__00_12__DSC2481.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 2500
+  width: 6700
+  height: 4684
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T00:12:40+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__00_17__DSC2538.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 8000
+  width: 5320
+  height: 7980
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T00:17:37+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__10_26__DSC2545.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 160
+  width: 7635
+  height: 5105
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T10:26:17+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__10_28__DSC2588.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 192
+  focal_length_35: 192
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T10:28:39+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__10_58__DSC2710.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 161
+  focal_length_35: 161
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 8000
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T10:58:47+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_00__DSC2736.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 8000
+  width: 7980
+  height: 5320
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:00:25+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_19__11_00__DSC2746.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 8000
+  width: 5320
+  height: 7980
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:00:39+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_19__11_00__DSC2751.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 8000
+  width: 5320
+  height: 7980
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7RM3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:00:44+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+- image_filename: 2020_05_19__11_15__DSC2841.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:15:33+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_15__DSC2854.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 71
+  focal_length_35: 71
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:15:46+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_16__DSC2877.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 7529
+  height: 5019
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:16:13+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_18__DSC2968.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 111
+  focal_length_35: 111
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 7746
+  height: 5164
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:18:16+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_18__DSC2974.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 107
+  focal_length_35: 107
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:18:20+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_18__DSC3001.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 182
+  focal_length_35: 182
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:18:58+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_19__DSC3013.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 122
+  focal_length_35: 122
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:19:30+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_20__DSC3020.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:20:43+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_23__DSC3059.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 125
+  focal_length_35: 125
+  crop: 1
+  aperture: 2.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:23:37+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_24__DSC3090.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:24:14+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_26__DSC3132.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 250
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:26:57+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_28__DSC3156.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 184
+  focal_length_35: 184
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:28:09+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_31__DSC3194.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 114
+  focal_length_35: 114
+  crop: 1
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:31:10+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_31__DSC3200.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 5.6
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 160
+  width: 7934
+  height: 5289
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:31:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_34__DSC3224.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 197
+  focal_length_35: 197
+  crop: 1
+  aperture: 3.2
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:34:38+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_35__DSC3240.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 144
+  focal_length_35: 144
+  crop: 1
+  aperture: 3.2
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 160
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:35:07+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__11_35__DSC3262.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T11:35:52+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__12_16__DSC3318.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 0
+  focal_length_35: 0
+  aperture: 0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 8000
+  width: 7980
+  height: 5320
+  lens: '----'
+  camera: ILCE-7RM3
+  lens_name: '----'
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T12:16:47+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: 2020_05_19__12_21__DSC3345.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 0
+  focal_length_35: 0
+  aperture: 0
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 6400
+  width: 7980
+  height: 5320
+  lens: '----'
+  camera: ILCE-7RM3
+  lens_name: '----'
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T12:21:11+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: 2020_05_19__13_44__DSC3424.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T13:44:38+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__13_47__DSC3494.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 1000
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T13:47:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__13_55__DSC3563.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 1600
+  width: 7980
+  height: 5320
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T13:55:17+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__13_55__DSC3564.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 1250
+  width: 7980
+  height: 5320
+  lens: FE 85mm F1.8
+  camera: ILCE-7RM3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T13:55:21+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: manual
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2020_05_19__14_23__DSC3592.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7723
+  height: 5148
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T14:23:02+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__14_23__DSC3594.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7654
+  height: 5103
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T14:23:36+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__14_27__DSC3611.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 4977
+  height: 7583
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T14:27:01+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__14_27__DSC3617.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T14:27:11+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__14_28__DSC3631.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7626
+  height: 5084
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T14:28:07+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__16_36__DSC3672.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7875
+  height: 5250
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T16:36:46+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__16_37__DSC3679.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7980
+  height: 5320
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T16:37:14+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__16_37__DSC3682.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 200
+  focal_length_35: 200
+  crop: 1
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 7645
+  height: 5096
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T16:37:55+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8
+- image_filename: 2020_05_19__16_39__DSC3690.jpg
+  post_slug: 2020-05-19-sony-gm-70-200
+  focal_length: 135
+  focal_length_35: 135
+  crop: 1
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7617
+  height: 5078
+  lens: FE 70-200mm F2.8 GM OSS
+  camera: ILCE-7RM3
+  lens_name: FE 70-200mm F2.8 GM OSS
+  camera_name: ILCE-7RM3
+  time: "2020-05-19T16:39:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 2.6.2
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 70
+  lens_max_focal: 200
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 70-200mm f/2.8

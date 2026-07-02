@@ -50,7 +50,7 @@
     distance_meters: 15426.01
     distance_km: 15.426
     distance_percent: 95.2115
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
     distance_meters: 775.82
@@ -100,7 +100,7 @@
     name: Tatry Zachodnie
     code: "514.52"
   touched_macro_regions:
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
   - slug: lancuch_tatrzanski

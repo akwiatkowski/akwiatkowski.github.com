@@ -20,6 +20,7 @@ map_zooms:              12
 distance:               35 # no base-train station distance included
 time_spent:             4
 elevation:              85
+terrain:                2.4 # m/km przewyższeń — płaski
 temperature:            14
 
 

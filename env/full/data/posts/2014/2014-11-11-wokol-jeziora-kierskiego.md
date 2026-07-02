@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Wokół Jeziora Kierskiego"
 subtitle:               "byłoby więcej, gdyby było ciepło"
 date:                   2014-11-11 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [bicycle]

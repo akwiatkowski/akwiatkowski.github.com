@@ -1,0 +1,78 @@
+---
+- type: bicycle
+  total_distance_meters: 28780.25
+  total_distance_km: 28.78
+  points_count: 117
+  towns:
+    - slug: sokolka
+      name: Sokółka
+      code: "2011083"
+      distance_meters: 13329.19
+      distance_km: 13.329
+      distance_percent: 46.3137
+    - slug: sidra
+      name: Sidra
+      code: "2011072"
+      distance_meters: 8726.68
+      distance_km: 8.727
+      distance_percent: 30.3218
+    - slug: kuznica
+      name: Kuźnica
+      code: "2011052"
+      distance_meters: 6724.38
+      distance_km: 6.724
+      distance_percent: 23.3645
+  counties:
+    - slug: sokolski
+      name: sokólski
+      code: "2011"
+      distance_meters: 28780.25
+      distance_km: 28.78
+      distance_percent: 100
+  voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+      distance_meters: 28780.25
+      distance_km: 28.78
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_sokolskie
+      name: Wzgórza Sokólskie
+      code: "843.34"
+      distance_meters: 28780.25
+      distance_km: 28.78
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"
+      distance_meters: 28780.25
+      distance_km: 28.78
+      distance_percent: 100
+  touched_towns:
+    - slug: kuznica
+      name: Kuźnica
+      code: "2011052"
+    - slug: sidra
+      name: Sidra
+      code: "2011072"
+    - slug: sokolka
+      name: Sokółka
+      code: "2011083"
+  touched_counties:
+    - slug: sokolski
+      name: sokólski
+      code: "2011"
+  touched_voivodeships:
+    - slug: podlaskie
+      name: podlaskie
+      code: "20"
+  touched_meso_regions:
+    - slug: wzgorza_sokolskie
+      name: Wzgórza Sokólskie
+      code: "843.34"
+  touched_macro_regions:
+    - slug: nizina_polnocnopodlaska
+      name: Nizina Północnopodlaska
+      code: "843"

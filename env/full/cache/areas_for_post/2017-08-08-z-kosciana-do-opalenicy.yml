@@ -4,7 +4,7 @@
   total_distance_km: 38.2
   points_count: 112.0
   towns:
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 9993.96
@@ -34,14 +34,14 @@
     distance_meters: 3610.02
     distance_km: 3.61
     distance_percent: 9.4503
-  - slug: koscian
+  - slug: koscian-wielkopolskie-miejska
     name: Kościan
     code: "3011011"
     distance_meters: 2470.74
     distance_km: 2.471
     distance_percent: 6.4679
   counties:
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
     distance_meters: 19092.27
@@ -98,7 +98,7 @@
     distance_meters: 5517.06
     distance_km: 5.517
     distance_percent: 14.4426
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 4245.62
@@ -126,9 +126,12 @@
     distance_km: 38.2
     distance_percent: 100.0
   touched_towns:
-  - slug: koscian
+  - slug: koscian-wielkopolskie-miejska
     name: Kościan
     code: "3011011"
+  - slug: koscian-wielkopolskie-wiejska
+    name: Kościan
+    code: "3011032"
   - slug: kamieniec
     name: Kamieniec
     code: "3005032"
@@ -145,7 +148,7 @@
   - slug: koscianski
     name: kościański
     code: "3011"
-  - slug: grodziski
+  - slug: grodziski-wielkopolskie
     name: grodziski
     code: "3005"
   - slug: nowotomyski
@@ -169,7 +172,7 @@
   - slug: pojezierze_leszczynskie
     name: Pojezierze Leszczyńskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie

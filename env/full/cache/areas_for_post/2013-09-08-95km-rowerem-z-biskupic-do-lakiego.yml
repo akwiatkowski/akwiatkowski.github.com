@@ -28,13 +28,13 @@
     distance_meters: 14642.39
     distance_km: 14.642
     distance_percent: 16.005
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 13479.51
     distance_km: 13.48
     distance_percent: 14.7339
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 6109.29
@@ -72,7 +72,7 @@
     distance_meters: 69222.77
     distance_km: 69.223
     distance_percent: 75.6644
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 22263.78
@@ -85,7 +85,7 @@
     distance_meters: 48461.95
     distance_km: 48.462
     distance_percent: 52.9717
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 28292.18
@@ -132,9 +132,12 @@
   - slug: lubowo
     name: Łubowo
     code: "3003062"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
@@ -158,7 +161,7 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -168,7 +171,7 @@
   - slug: pojezierze_gnieznienskie
     name: Pojezierze Gnieźnieńskie
     code: "315.54"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

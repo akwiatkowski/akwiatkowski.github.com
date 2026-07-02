@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 64679
+  total_distance_km: 64.679
+  points_count: 180
+  towns:
+    - slug: rynsk
+      name: Ryńsk
+      code: "0417052"
+      distance_meters: 21344.98
+      distance_km: 21.345
+      distance_percent: 33.0014
+    - slug: swiecie_nad_osa
+      name: Świecie nad Osą
+      code: "0406062"
+      distance_meters: 13271.2
+      distance_km: 13.271
+      distance_percent: 20.5186
+    - slug: radzyn_chelminski
+      name: Radzyń Chełmiński
+      code: "0406043"
+      distance_meters: 10973.14
+      distance_km: 10.973
+      distance_percent: 16.9655
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+      distance_meters: 7885.72
+      distance_km: 7.886
+      distance_percent: 12.1921
+    - slug: gruta
+      name: Gruta
+      code: "0406022"
+      distance_meters: 5081.69
+      distance_km: 5.082
+      distance_percent: 7.8568
+    - slug: pluznica
+      name: Płużnica
+      code: "0417042"
+      distance_meters: 3110.84
+      distance_km: 3.111
+      distance_percent: 4.8097
+    - slug: kowalewo_pomorskie
+      name: Kowalewo Pomorskie
+      code: "0405043"
+      distance_meters: 3011.44
+      distance_km: 3.011
+      distance_percent: 4.656
+  counties:
+    - slug: grudziadzki
+      name: grudziądzki
+      code: "0406"
+      distance_meters: 29326.03
+      distance_km: 29.326
+      distance_percent: 45.3409
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+      distance_meters: 24455.81
+      distance_km: 24.456
+      distance_percent: 37.8111
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+      distance_meters: 7885.72
+      distance_km: 7.886
+      distance_percent: 12.1921
+    - slug: golubsko-dobrzynski
+      name: golubsko-dobrzyński
+      code: "0405"
+      distance_meters: 3011.44
+      distance_km: 3.011
+      distance_percent: 4.656
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 64679
+      distance_km: 64.679
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+      distance_meters: 48665.95
+      distance_km: 48.666
+      distance_percent: 75.2423
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+      distance_meters: 16013.05
+      distance_km: 16.013
+      distance_percent: 24.7577
+  macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316
+      distance_meters: 64679
+      distance_km: 64.679
+      distance_percent: 100
+  touched_towns:
+    - slug: gruta
+      name: Gruta
+      code: "0406022"
+    - slug: jablonowo_pomorskie
+      name: Jabłonowo Pomorskie
+      code: "0402073"
+    - slug: kowalewo_pomorskie
+      name: Kowalewo Pomorskie
+      code: "0405043"
+    - slug: pluznica
+      name: Płużnica
+      code: "0417042"
+    - slug: radzyn_chelminski
+      name: Radzyń Chełmiński
+      code: "0406043"
+    - slug: rynsk
+      name: Ryńsk
+      code: "0417052"
+    - slug: swiecie_nad_osa
+      name: Świecie nad Osą
+      code: "0406062"
+  touched_counties:
+    - slug: brodnicki
+      name: brodnicki
+      code: "0402"
+    - slug: golubsko-dobrzynski
+      name: golubsko-dobrzyński
+      code: "0405"
+    - slug: grudziadzki
+      name: grudziądzki
+      code: "0406"
+    - slug: wabrzeski
+      name: wąbrzeski
+      code: "0417"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: pojezierze_brodnickie
+      name: Pojezierze Brodnickie
+      code: "315.12"
+    - slug: pojezierze_chelminskie
+      name: Pojezierze Chełmińskie
+      code: "315.11"
+  touched_macro_regions:
+    - slug: pojezierze_chelminsko-dobrzynskie
+      name: Pojezierze Chełmińsko-Dobrzyńskie
+      code: 314-316

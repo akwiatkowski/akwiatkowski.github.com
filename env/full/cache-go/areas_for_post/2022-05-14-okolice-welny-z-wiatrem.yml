@@ -1,0 +1,162 @@
+---
+- type: bicycle
+  total_distance_meters: 66047.86
+  total_distance_km: 66.048
+  points_count: 154
+  towns:
+    - slug: miescisko
+      name: Mieścisko
+      code: "3028042"
+      distance_meters: 13914.8
+      distance_km: 13.915
+      distance_percent: 21.0678
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+      distance_meters: 13523.66
+      distance_km: 13.524
+      distance_percent: 20.4755
+    - slug: rogowo
+      name: Rogowo
+      code: "0419052"
+      distance_meters: 12779.65
+      distance_km: 12.78
+      distance_percent: 19.3491
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+      distance_meters: 11377.53
+      distance_km: 11.378
+      distance_percent: 17.2262
+    - slug: gasawa
+      name: Gąsawa
+      code: "0419022"
+      distance_meters: 7976.67
+      distance_km: 7.977
+      distance_percent: 12.0771
+    - slug: skoki
+      name: Skoki
+      code: "3028053"
+      distance_meters: 4611.85
+      distance_km: 4.612
+      distance_percent: 6.9826
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028072"
+      distance_meters: 1595.94
+      distance_km: 1.596
+      distance_percent: 2.4163
+    - slug: damaslawek
+      name: Damasławek
+      code: "3028022"
+      distance_meters: 267.76
+      distance_km: 0.268
+      distance_percent: 0.4054
+  counties:
+    - slug: zninski
+      name: żniński
+      code: "0419"
+      distance_meters: 34279.98
+      distance_km: 34.28
+      distance_percent: 51.9017
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+      distance_meters: 20390.35
+      distance_km: 20.39
+      distance_percent: 30.8721
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+      distance_meters: 11377.53
+      distance_km: 11.378
+      distance_percent: 17.2262
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 45657.51
+      distance_km: 45.658
+      distance_percent: 69.1279
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 20390.35
+      distance_km: 20.39
+      distance_percent: 30.8721
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 40845.06
+      distance_km: 40.845
+      distance_percent: 61.8416
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+      distance_meters: 13149.65
+      distance_km: 13.15
+      distance_percent: 19.9093
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 12053.15
+      distance_km: 12.053
+      distance_percent: 18.2491
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 66047.86
+      distance_km: 66.048
+      distance_percent: 100
+  touched_towns:
+    - slug: gasawa
+      name: Gąsawa
+      code: "0419022"
+    - slug: janowiec_wielkopolski
+      name: Janowiec Wielkopolski
+      code: "0419033"
+    - slug: miescisko
+      name: Mieścisko
+      code: "3028042"
+    - slug: mogilno
+      name: Mogilno
+      code: "0409033"
+    - slug: rogowo
+      name: Rogowo
+      code: "0419052"
+    - slug: skoki
+      name: Skoki
+      code: "3028053"
+  touched_counties:
+    - slug: mogilenski
+      name: mogileński
+      code: "0409"
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+    - slug: zninski
+      name: żniński
+      code: "0419"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: pojezierze_zninsko-mogilenskie
+      name: Pojezierze Żnińsko-Mogileńskie
+      code: "315.58"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

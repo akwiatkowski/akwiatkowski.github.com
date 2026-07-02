@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Do Jakuszyc i rzut oka na osadę Jizerkę"
 subtitle:               "pierwszy raz rowerem w górach"
 date:                   2014-06-19 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, mountains, best, no_photos]

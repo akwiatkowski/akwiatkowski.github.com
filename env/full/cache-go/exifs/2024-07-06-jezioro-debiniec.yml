@@ -1,0 +1,491 @@
+---
+- image_filename: 2024_07_06__08_18_P7060001.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.48327777777778
+  lon: 17.20859722222222
+  altitude: 108
+  focal_length: 8
+  focal_length_35: 16
+  crop: 2
+  aperture: 9
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 8068
+  height: 6005
+  lens: LEICA DG 8-18/F2.8-4.0
+  camera: OM-1
+  lens_name: LEICA DG 8-18/F2.8-4.0
+  camera_name: OM-1
+  time: "2024-07-06T08:18:34+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 8
+  lens_max_focal: 18
+  lens_min_fstop: 2.8
+  lens_max_fstop: 4
+  lens_spec_str: 8-18mm f/2.8-4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__08_50_P7060006.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.470597222222224
+  lon: 17.21523611111111
+  altitude: 92
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 7853
+  height: 5693
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T08:50:19+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_34_P7060012.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469611111111114
+  lon: 17.22522222222222
+  altitude: 95
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 1000
+  width: 4924
+  height: 3727
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:34:18+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_36_P7060021.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46958333333333
+  lon: 17.225194444444444
+  altitude: 94
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 250
+  width: 5006
+  height: 3668
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:36:13+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_36_P7060022.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46958333333333
+  lon: 17.225194444444444
+  altitude: 94
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 640
+  width: 4839
+  height: 3677
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:36:24+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_37_P7060028.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469625
+  lon: 17.22509722222222
+  altitude: 95
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 6702
+  height: 4955
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:37:56+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_38_P7060030.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46959722222223
+  lon: 17.22508333333333
+  altitude: 95
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 7878
+  height: 5605
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:38:18+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_39_P7060041.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469569444444446
+  lon: 17.225069444444443
+  altitude: 96
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 1000
+  width: 4632
+  height: 3534
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:39:08+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_39_P7060045.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469569444444446
+  lon: 17.225069444444443
+  altitude: 96
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 500
+  width: 5073
+  height: 3781
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:39:14+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_39_P7060055.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469569444444446
+  lon: 17.225055555555553
+  altitude: 96
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 800
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:39:38+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_39_P7060061.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.469569444444446
+  lon: 17.225055555555553
+  altitude: 96
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 500
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:39:45+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_41_P7060075.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46954166666667
+  lon: 17.22486111111111
+  altitude: 98
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:41:20+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_42_P7060078.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.46955555555556
+  lon: 17.224888888888888
+  altitude: 99
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4892
+  height: 3586
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:42:03+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_07_06__09_57_P7060084.jpg
+  post_slug: 2024-07-06-jezioro-debiniec
+  lat: 52.470875
+  lon: 17.214624999999998
+  altitude: 101
+  focal_length: 300
+  focal_length_35: 600
+  crop: 2
+  aperture: 5
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 200
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.300mm F4.0
+  camera: OM-1
+  lens_name: M.300mm F4.0
+  camera_name: OM-1
+  time: "2024-07-06T09:57:33+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 300
+  lens_max_focal: 300
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 300mm f/4.0
+  gps_map_datum: WGS-84

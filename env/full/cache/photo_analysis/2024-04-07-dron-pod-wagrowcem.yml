@@ -1,0 +1,451 @@
+---
+- image_filename: 2024_04_07__11_31_DJI_0091.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff0000080e10
+  dhash: f0c0f29082f1f8e0
+  phash: 81f5871b671388e7
+  avg_rgb:
+  - 111
+  - 117
+  - 88
+  top5_rgb:
+  - - 163
+    - 189
+    - 186
+  - - 103
+    - 100
+    - 40
+  - - 161
+    - 181
+    - 180
+  - - 48
+    - 60
+    - 26
+  - - 157
+    - 174
+    - 171
+- image_filename: 2024_04_07__11_32_DJI_0092.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff0000000000
+  dhash: ccc4f2b2ee83808c
+  phash: c489d72a37c8aa97
+  avg_rgb:
+  - 105
+  - 114
+  - 90
+  top5_rgb:
+  - - 151
+    - 177
+    - 173
+  - - 49
+    - 84
+    - 13
+  - - 124
+    - 103
+    - 61
+  - - 161
+    - 182
+    - 177
+  - - 114
+    - 95
+    - 58
+- image_filename: 2024_04_07__11_33_DJI_0098.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ff0000080e4e2e3e
+  dhash: c8c686f0dadcdcd4
+  phash: 91ee8691cad9aca3
+  avg_rgb:
+  - 94
+  - 98
+  - 55
+  top5_rgb:
+  - - 61
+    - 68
+    - 39
+  - - 57
+    - 86
+    - 4
+  - - 46
+    - 70
+    - 5
+  - - 176
+    - 188
+    - 180
+  - - 53
+    - 95
+    - 6
+- image_filename: 2024_04_07__11_47_DJI_0107.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff0018f0702020
+  dhash: f0e0d4b1a4e2c0c0
+  phash: c49b85ec93184f76
+  avg_rgb:
+  - 122
+  - 120
+  - 87
+  top5_rgb:
+  - - 129
+    - 115
+    - 75
+  - - 81
+    - 102
+    - 29
+  - - 132
+    - 147
+    - 136
+  - - 172
+    - 144
+    - 101
+  - - 136
+    - 120
+    - 80
+- image_filename: 2024_04_07__11_47_DJI_0108.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff7f0000000000
+  dhash: fcfcf2963872c9d2
+  phash: d184879f7d620d93
+  avg_rgb:
+  - 103
+  - 108
+  - 81
+  top5_rgb:
+  - - 68
+    - 64
+    - 46
+  - - 203
+    - 210
+    - 189
+  - - 44
+    - 64
+    - 16
+  - - 61
+    - 91
+    - 4
+  - - 76
+    - 77
+    - 31
+- image_filename: 2024_04_07__11_49_DJI_0111.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: fe60f0f0f0e0e0c0
+  dhash: c0cce6e2c2808a88
+  phash: c486b2f399c899b9
+  avg_rgb:
+  - 89
+  - 99
+  - 55
+  top5_rgb:
+  - - 57
+    - 86
+    - 16
+  - - 170
+    - 148
+    - 107
+  - - 29
+    - 61
+    - 6
+  - - 76
+    - 88
+    - 36
+  - - 116
+    - 97
+    - 65
+- image_filename: 2024_04_07__11_49_DJI_0112.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff0000000000
+  dhash: e0c0f2f8f0f2f8f8
+  phash: 91e0d7b5561b19b4
+  avg_rgb:
+  - 79
+  - 104
+  - 63
+  top5_rgb:
+  - - 94
+    - 91
+    - 38
+  - - 44
+    - 69
+    - 4
+  - - 29
+    - 60
+    - 4
+  - - 45
+    - 79
+    - 4
+  - - 57
+    - 90
+    - 5
+- image_filename: 2024_04_07__11_49_DJI_0113.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff001e00000000
+  dhash: f0ccd6f2ae8686f2
+  phash: 85d2c5f69b1c296a
+  avg_rgb:
+  - 91
+  - 109
+  - 61
+  top5_rgb:
+  - - 97
+    - 83
+    - 54
+  - - 53
+    - 82
+    - 4
+  - - 68
+    - 98
+    - 6
+  - - 91
+    - 101
+    - 29
+  - - 167
+    - 190
+    - 184
+- image_filename: 2024_04_07__11_50_DJI_0118.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff40101e0e0000
+  dhash: f8c0c2d2f0dacd26
+  phash: 85c0f49b9d637546
+  avg_rgb:
+  - 90
+  - 96
+  - 62
+  top5_rgb:
+  - - 52
+    - 77
+    - 6
+  - - 42
+    - 65
+    - 7
+  - - 176
+    - 188
+    - 175
+  - - 71
+    - 78
+    - 23
+  - - 34
+    - 58
+    - 6
+- image_filename: 2024_04_07__11_53_DJI_0127.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff7f0000060700
+  dhash: e0c09cf4c2ac6eff
+  phash: 94c997e44b341aed
+  avg_rgb:
+  - 94
+  - 105
+  - 73
+  top5_rgb:
+  - - 99
+    - 97
+    - 17
+  - - 75
+    - 85
+    - 19
+  - - 58
+    - 64
+    - 16
+  - - 96
+    - 123
+    - 96
+  - - 113
+    - 108
+    - 37
+- image_filename: 2024_04_07__11_54_DJI_0132.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff0000000000
+  dhash: e0c0d094b0d8f068
+  phash: 91e0d7915e3c5b4c
+  avg_rgb:
+  - 89
+  - 115
+  - 67
+  top5_rgb:
+  - - 135
+    - 153
+    - 145
+  - - 79
+    - 94
+    - 17
+  - - 78
+    - 108
+    - 13
+  - - 33
+    - 89
+    - 10
+  - - 54
+    - 106
+    - 8
+- image_filename: 2024_04_07__12_03_DJI_0147.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff0060e0c04000
+  dhash: f0c4c6c1c89a92b2
+  phash: c1869cd3c2cd4d73
+  avg_rgb:
+  - 103
+  - 110
+  - 75
+  top5_rgb:
+  - - 57
+    - 70
+    - 21
+  - - 140
+    - 122
+    - 86
+  - - 101
+    - 91
+    - 61
+  - - 176
+    - 187
+    - 169
+  - - 28
+    - 56
+    - 7
+- image_filename: 2024_04_07__12_04_DJI_0149.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffff780808010000
+  dhash: f0f0f090b3f3da68
+  phash: 89d4f7a81a314e4f
+  avg_rgb:
+  - 94
+  - 105
+  - 71
+  top5_rgb:
+  - - 151
+    - 122
+    - 82
+  - - 27
+    - 56
+    - 9
+  - - 168
+    - 190
+    - 180
+  - - 45
+    - 81
+    - 5
+  - - 120
+    - 102
+    - 62
+- image_filename: 2024_04_07__12_06_DJI_0154.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff0000000c04
+  dhash: c0c0929ff28a99fc
+  phash: 91e49265463be4db
+  avg_rgb:
+  - 96
+  - 108
+  - 82
+  top5_rgb:
+  - - 60
+    - 61
+    - 14
+  - - 92
+    - 88
+    - 18
+  - - 105
+    - 103
+    - 27
+  - - 164
+    - 188
+    - 183
+  - - 155
+    - 174
+    - 173
+- image_filename: 2024_04_07__12_06_DJI_0155.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: 0203071f3f3f7f1e
+  dhash: fcc6defaf6fedefe
+  phash: 852617de569b1965
+  avg_rgb:
+  - 68
+  - 106
+  - 26
+  top5_rgb:
+  - - 85
+    - 125
+    - 8
+  - - 54
+    - 92
+    - 10
+  - - 48
+    - 82
+    - 12
+  - - 116
+    - 138
+    - 61
+  - - 54
+    - 92
+    - 24
+- image_filename: 2024_04_07__12_07_DJI_0158.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff5f00000000
+  dhash: c4c4b2bafef28fec
+  phash: 80dde60136e8dd6b
+  avg_rgb:
+  - 100
+  - 114
+  - 94
+  top5_rgb:
+  - - 78
+    - 95
+    - 90
+  - - 67
+    - 68
+    - 16
+  - - 93
+    - 92
+    - 22
+  - - 156
+    - 182
+    - 180
+  - - 82
+    - 83
+    - 18
+- image_filename: 2024_04_07__12_08_DJI_0162.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ffffff7800000000
+  dhash: e4c0f0f0a2c0c0d0
+  phash: c19497274c521bbf
+  avg_rgb:
+  - 95
+  - 115
+  - 75
+  top5_rgb:
+  - - 159
+    - 181
+    - 178
+  - - 133
+    - 149
+    - 140
+  - - 52
+    - 84
+    - 6
+  - - 63
+    - 96
+    - 35
+  - - 39
+    - 64
+    - 6
+- image_filename: 2024_04_07__12_10_DJI_0167.jpg
+  post_slug: 2024-04-07-dron-pod-wagrowcem
+  ahash: ff7f0080c0187c70
+  dhash: f8ccb633a2b0f0c4
+  phash: d4a187d3fa9a1525
+  avg_rgb:
+  - 113
+  - 115
+  - 84
+  top5_rgb:
+  - - 55
+    - 77
+    - 15
+  - - 110
+    - 105
+    - 78
+  - - 74
+    - 117
+    - 6
+  - - 45
+    - 71
+    - 67
+  - - 121
+    - 113
+    - 84

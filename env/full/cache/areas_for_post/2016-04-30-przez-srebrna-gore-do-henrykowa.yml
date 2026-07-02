@@ -4,13 +4,13 @@
   total_distance_km: 8.744
   points_count: 74.0
   towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 8744.03
     distance_km: 8.744
     distance_percent: 100.0
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-miejska
     name: Kłodzko
     code: 0208021
     distance_meters: 5041.06
@@ -66,9 +66,12 @@
     distance_km: 8.744
     distance_percent: 100.0
   touched_towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
+  - slug: klodzko-dolnoslaskie-miejska
+    name: Kłodzko
+    code: 0208021
   touched_counties:
   - slug: klodzki
     name: kłodzki
@@ -108,7 +111,7 @@
     distance_meters: 19606.56
     distance_km: 19.607
     distance_percent: 31.4258
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 15887.99
@@ -153,7 +156,7 @@
     distance_km: 62.39
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 37158.0
@@ -224,7 +227,7 @@
     distance_km: 62.39
     distance_percent: 100.0
   touched_towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
   - slug: stoszowice
@@ -266,7 +269,7 @@
   - slug: gory_sowie
     name: Góry Sowie
     code: "332.44"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   touched_macro_regions:

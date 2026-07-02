@@ -133,6 +133,9 @@
   time: 2018-06-14 20:48:47.000000000+02:00
 - image_filename: IMGP9187raw1.jpg
   post_slug: 2018-06-14-zachod-w-kolobrzegu
+  lat: 54.187036111111105
+  lon: 15.579752777777777
+  altitude: 4.4
   focal_length: 13.0
   focal_length_35: 19.0
   crop: 1.4615384615384615
@@ -144,6 +147,9 @@
   time: 2018-06-15 11:00:44.000000000+02:00
 - image_filename: IMGP9193raw1.jpg
   post_slug: 2018-06-14-zachod-w-kolobrzegu
+  lat: 54.18708055555555
+  lon: 15.579680555555555
+  altitude: 4.7
   focal_length: 75.0
   focal_length_35: 112.0
   crop: 1.4933333333333334

@@ -8,11 +8,6 @@
   title: Najlepsze zdjęcia
   subtitle: to czym subiektywnie bym się chwalił
   points: 100
-- slug: portfolio
-  slug_pl: portfolio
-  title: Portfolio
-  subtitle: # TODO:
-  points: 200
 - slug: timeline
   slug_pl: pory_roku
   title: Pory roku
@@ -49,7 +44,7 @@
   subtitle: gdy jest biało i zimno
   points: 30
 - slug: summer
-  slug_pl: lat
+  slug_pl: lato
   title: Lato
   subtitle: środek roku i ciepło
   points: 30
@@ -163,3 +158,8 @@
   title: Tablice
   subtitle: informacyjne, znaki, ...
   points: 5
+- slug: portfolio
+  slug_pl: portfolio
+  title: Portfolio
+  subtitle:
+  points: 50

@@ -19,6 +19,7 @@ coords_type:            "hike"
 distance:               7
 time_spent:             3
 elevation:              17
+terrain:                2.4 # m/km przewyższeń — płaski
 temperature:            -3
 
 

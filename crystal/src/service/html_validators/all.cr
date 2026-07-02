@@ -1,0 +1,7 @@
+require "./base"
+require "./title_validators"
+require "./duplicate_id_validator"
+require "./placeholder_validator"
+require "./accessibility_validators"
+require "./link_validators"
+require "./missing_assets_validator"

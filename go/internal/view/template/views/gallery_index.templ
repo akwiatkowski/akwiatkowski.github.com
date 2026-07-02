@@ -1,0 +1,38 @@
+package views
+
+templ GalleryIndexContent(links []GalleryIndexLink) {
+	<section class="site-content" style="padding-top: 40px;">
+		<h1>Galeria</h1>
+		if len(links) > 0 {
+			@galleryIndexCategory(links)
+		}
+	</section>
+}
+
+templ galleryIndexCategory(links []GalleryIndexLink) {
+	<!-- Group links by category -->
+	for _, cat := range galleryCategories(links) {
+		<h3 class="mt-4">{ cat }</h3>
+		<div class="list-group mb-3">
+			for _, link := range links {
+				if link.Category == cat {
+					<a href={ templ.SafeURL(link.URL) } class="list-group-item list-group-item-action">
+						{ link.Name }
+					</a>
+				}
+			}
+		</div>
+	}
+}
+
+func galleryCategories(links []GalleryIndexLink) []string {
+	seen := make(map[string]bool)
+	var cats []string
+	for _, l := range links {
+		if !seen[l.Category] {
+			seen[l.Category] = true
+			cats = append(cats, l.Category)
+		}
+	}
+	return cats
+}

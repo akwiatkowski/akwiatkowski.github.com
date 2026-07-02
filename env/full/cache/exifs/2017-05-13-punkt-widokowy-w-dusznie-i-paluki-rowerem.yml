@@ -113,6 +113,9 @@
   time: 2017-05-13 12:15:02.000000000+02:00
 - image_filename: IMGP6285raw1.jpg
   post_slug: 2017-05-13-punkt-widokowy-w-dusznie-i-paluki-rowerem
+  lat: 52.60557777777778
+  lon: 17.86055
+  altitude: 144.2
   focal_length: 200.0
   focal_length_35: 300.0
   crop: 1.5

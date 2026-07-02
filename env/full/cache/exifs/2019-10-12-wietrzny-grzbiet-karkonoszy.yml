@@ -1,6 +1,9 @@
 ---
 - image_filename: 2019_10_12__08_28__A122353.jpg
   post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.835455555555555
+  lon: 15.546788888888889
+  altitude: 682.3
   focal_length: 86.0
   focal_length_35: 172.0
   crop: 2.0
@@ -403,6 +406,9 @@
   time: 2019-10-12 12:18:57.000000000+02:00
 - image_filename: 2019_10_12__12_19__A122550.jpg
   post_slug: 2019-10-12-wietrzny-grzbiet-karkonoszy
+  lat: 50.79190277777778
+  lon: 15.513580555555556
+  altitude: 1342.6
   focal_length: 115.0
   focal_length_35: 230.0
   crop: 2.0

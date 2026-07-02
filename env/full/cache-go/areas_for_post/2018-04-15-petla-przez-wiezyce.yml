@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 11038.28
+  total_distance_km: 11.038
+  points_count: 242
+  towns:
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+      distance_meters: 9902.76
+      distance_km: 9.903
+      distance_percent: 89.7128
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+      distance_meters: 1135.53
+      distance_km: 1.136
+      distance_percent: 10.2872
+  counties:
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+      distance_meters: 11038.28
+      distance_km: 11.038
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 11038.28
+      distance_km: 11.038
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+      distance_meters: 11038.28
+      distance_km: 11.038
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316
+      distance_meters: 11038.28
+      distance_km: 11.038
+      distance_percent: 100
+  touched_towns:
+    - slug: somonino
+      name: Somonino
+      code: "2205052"
+    - slug: stezyca
+      name: Stężyca
+      code: "2205062"
+  touched_counties:
+    - slug: kartuski
+      name: kartuski
+      code: "2205"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pojezierze_kaszubskie
+      name: Pojezierze Kaszubskie
+      code: "314.51"
+  touched_macro_regions:
+    - slug: pojezierze_wschodniopomorskie
+      name: Pojezierze Wschodniopomorskie
+      code: 314-316

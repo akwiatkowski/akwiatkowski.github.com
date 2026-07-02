@@ -1,0 +1,868 @@
+---
+- image_filename: P8090018.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T09:51:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090021.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.47340277777778
+  lon: 22.65823611111111
+  altitude: 111
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T13:12:08+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090024.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.47315277777778
+  lon: 22.659458333333333
+  altitude: 111
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T13:16:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090028.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.47248611111111
+  lon: 22.659499999999998
+  altitude: 110
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T13:18:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090031.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.471611111111116
+  lon: 22.66069444444444
+  altitude: 111
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 1.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T13:22:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090042.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.469972222222225
+  lon: 22.66523611111111
+  altitude: 115
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T13:57:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090043.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.470708333333334
+  lon: 22.665847222222222
+  altitude: 115
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 1.7
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 800
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T14:02:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090047.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.47365277777778
+  lon: 22.65922222222222
+  altitude: 110
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T14:51:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090048.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48423611111111
+  lon: 22.647180555555554
+  altitude: 109
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 2.8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:09:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090051.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48425
+  lon: 22.64720833333333
+  altitude: 109
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:09:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090056.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48561111111111
+  lon: 22.64626388888889
+  altitude: 112
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:15:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090057.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.486402777777776
+  lon: 22.645819444444445
+  altitude: 113
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:15:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090063.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48643055555556
+  lon: 22.64575
+  altitude: 113
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:17:54+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090067.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48425
+  lon: 22.717291666666664
+  altitude: 115
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-09T15:54:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8090087.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.49229166666667
+  lon: 22.729763888888886
+  altitude: 108
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T16:09:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090093.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T17:46:15+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090095.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T17:47:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090098.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T17:47:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090116.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 800
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T17:52:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090119.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.489361111111116
+  lon: 22.737486111111114
+  altitude: 131
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:05:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090122.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.488375
+  lon: 22.73675
+  altitude: 136
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:08:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090123.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48836111111111
+  lon: 22.736736111111114
+  altitude: 136
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:08:11+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090127.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48934722222222
+  lon: 22.73701388888889
+  altitude: 139
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:27:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090129.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48925
+  lon: 22.73829166666667
+  altitude: 138
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:28:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090130.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.489180555555556
+  lon: 22.73901388888889
+  altitude: 138
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:29:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090131.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  lat: 53.48838888888889
+  lon: 22.747416666666666
+  altitude: 132
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T18:32:19+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: P8090139.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T19:46:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090144_01.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T19:47:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+- image_filename: P8090146_01.jpg
+  post_slug: 2018-08-09-jeszcze-wiekszy-upal-wiec-tylko-do-osowca
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M10MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M10MarkII
+  time: "2018-08-09T19:47:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8

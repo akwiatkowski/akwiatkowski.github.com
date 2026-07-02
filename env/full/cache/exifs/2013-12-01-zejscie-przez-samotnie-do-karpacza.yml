@@ -16,6 +16,9 @@
   time: 2013-12-01 10:49:56.000000000+01:00
 - image_filename: IMGP1448raw1.jpg
   post_slug: 2013-12-01-zejscie-przez-samotnie-do-karpacza
+  lat: 50.76076111111111
+  lon: 15.704366666666665
+  altitude: 1079.0
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -28,6 +31,9 @@
   time: 2013-12-01 10:53:09.000000000+01:00
 - image_filename: IMGP1457raw1.jpg
   post_slug: 2013-12-01-zejscie-przez-samotnie-do-karpacza
+  lat: 50.762875
+  lon: 15.704533333333332
+  altitude: 1077.8
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -100,6 +106,9 @@
   time: 2013-12-01 15:30:52.000000000+01:00
 - image_filename: header.jpg
   post_slug: 2013-12-01-zejscie-przez-samotnie-do-karpacza
+  lat: 50.76051666666667
+  lon: 15.704355555555555
+  altitude: 1078.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5

@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 74922.71
+  total_distance_km: 74.923
+  points_count: 218
+  towns:
+    - slug: sliwice
+      name: Śliwice
+      code: "0416052"
+      distance_meters: 18162.06
+      distance_km: 18.162
+      distance_percent: 24.2411
+    - slug: osie
+      name: Osie
+      code: "0414072"
+      distance_meters: 16116
+      distance_km: 16.116
+      distance_percent: 21.5102
+    - slug: bukowiec
+      name: Bukowiec
+      code: "0414012"
+      distance_meters: 14063.95
+      distance_km: 14.064
+      distance_percent: 18.7713
+    - slug: drzycim
+      name: Drzycim
+      code: "0414032"
+      distance_meters: 11193.77
+      distance_km: 11.194
+      distance_percent: 14.9404
+    - slug: swiekatowo
+      name: Świekatowo
+      code: "0414102"
+      distance_meters: 9855.13
+      distance_km: 9.855
+      distance_percent: 13.1537
+    - slug: pruszcz
+      name: Pruszcz
+      code: "0414082"
+      distance_meters: 3668.96
+      distance_km: 3.669
+      distance_percent: 4.897
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+      distance_meters: 1862.84
+      distance_km: 1.863
+      distance_percent: 2.4864
+  counties:
+    - slug: swiecki
+      name: świecki
+      code: "0414"
+      distance_meters: 54897.81
+      distance_km: 54.898
+      distance_percent: 73.2726
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+      distance_meters: 18162.06
+      distance_km: 18.162
+      distance_percent: 24.2411
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+      distance_meters: 1862.84
+      distance_km: 1.863
+      distance_percent: 2.4864
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 73059.87
+      distance_km: 73.06
+      distance_percent: 97.5136
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 1862.84
+      distance_km: 1.863
+      distance_percent: 2.4864
+  meso_regions:
+    - slug: wysoczyzna_swiecka
+      name: Wysoczyzna Świecka
+      code: "314.73"
+      distance_meters: 48943.57
+      distance_km: 48.944
+      distance_percent: 65.3254
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+      distance_meters: 25979.14
+      distance_km: 25.979
+      distance_percent: 34.6746
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 74922.71
+      distance_km: 74.923
+      distance_percent: 100
+  touched_towns:
+    - slug: bukowiec
+      name: Bukowiec
+      code: "0414012"
+    - slug: czersk
+      name: Czersk
+      code: "2202043"
+    - slug: drzycim
+      name: Drzycim
+      code: "0414032"
+    - slug: osie
+      name: Osie
+      code: "0414072"
+    - slug: pruszcz
+      name: Pruszcz
+      code: "0414082"
+    - slug: sliwice
+      name: Śliwice
+      code: "0416052"
+    - slug: swiekatowo
+      name: Świekatowo
+      code: "0414102"
+  touched_counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+    - slug: swiecki
+      name: świecki
+      code: "0414"
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: bory_tucholskie
+      name: Bory Tucholskie
+      code: "314.71"
+    - slug: wysoczyzna_swiecka
+      name: Wysoczyzna Świecka
+      code: "314.73"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316

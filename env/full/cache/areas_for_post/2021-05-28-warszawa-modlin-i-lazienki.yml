@@ -17,7 +17,7 @@
     distance_km: 0.954
     distance_percent: 39.458
   counties:
-  - slug: nowodworski
+  - slug: nowodworski-mazowieckie
     name: nowodworski
     code: "1414"
     distance_meters: 2418.54
@@ -73,7 +73,7 @@
     name: Nowy Dwór Mazowiecki
     code: "1414011"
   touched_counties:
-  - slug: nowodworski
+  - slug: nowodworski-mazowieckie
     name: nowodworski
     code: "1414"
   touched_voivodeships:

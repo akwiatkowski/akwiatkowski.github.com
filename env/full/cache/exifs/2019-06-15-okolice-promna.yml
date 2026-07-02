@@ -247,6 +247,9 @@
   time: 2019-06-15 17:19:47.000000000+02:00
 - image_filename: 2019_06_15__17_20__6156607.jpg
   post_slug: 2019-06-15-okolice-promna
+  lat: 52.46270277777778
+  lon: 17.20498333333333
+  altitude: 78.0
   focal_length: 155.0
   focal_length_35: 310.0
   crop: 2.0

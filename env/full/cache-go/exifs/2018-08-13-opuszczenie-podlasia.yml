@@ -1,0 +1,187 @@
+---
+- image_filename: P8130001.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.09352777777778
+  lon: 22.77448611111111
+  altitude: 117
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 1.7
+  exposure: 0.00025
+  exposure_string: 1/4000 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T11:18:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8130006.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.076486111111116
+  lon: 22.791375000000002
+  altitude: 121
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T11:29:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8130008.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.07013888888889
+  lon: 22.803
+  altitude: 126
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T11:37:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8130009.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.03648611111111
+  lon: 22.84576388888889
+  altitude: 132
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 3.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T12:24:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8130011.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 53.03411111111111
+  lon: 22.84248611111111
+  altitude: 140
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T12:27:28+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: P8130013.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  lat: 52.989583333333336
+  lon: 22.88277777777778
+  altitude: 125
+  focal_length: 20
+  focal_length_35: 40
+  crop: 2
+  aperture: 4.5
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  lens: LUMIX G 20/F1.7 II
+  camera: E-M10MarkII
+  lens_name: LUMIX G 20/F1.7 II
+  camera_name: E-M10MarkII
+  time: "2018-08-13T13:48:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 20
+  lens_max_focal: 20
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 20mm f/1.7
+  gps_map_datum: WGS-84

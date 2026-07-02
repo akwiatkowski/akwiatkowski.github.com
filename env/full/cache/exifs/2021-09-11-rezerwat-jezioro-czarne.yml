@@ -1,6 +1,9 @@
 ---
 - image_filename: 2021_09_11__15_32__9110455.jpg
   post_slug: 2021-09-11-rezerwat-jezioro-czarne
+  lat: 52.51602777777778
+  lon: 17.136244444444444
+  altitude: 86.7
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Szybki kurs do Janikowa"
 subtitle:               "średnia szybkość tylko 27km/h"
 date:                   2015-08-02 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header-ext-img:         "https://drscdn.500px.org/photo/117007009/m%3D2048/87a1a309f7c54c1cd007cd2a23fcab9b"
 header_timeline:        true

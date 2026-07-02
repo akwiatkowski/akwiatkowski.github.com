@@ -1,0 +1,216 @@
+---
+- type: bicycle
+  total_distance_meters: 117351.1
+  total_distance_km: 117.351
+  points_count: 260
+  towns:
+    - slug: lobzenica
+      name: Łobżenica
+      code: "3019043"
+      distance_meters: 22572.47
+      distance_km: 22.572
+      distance_percent: 19.235
+    - slug: sicienko
+      name: Sicienko
+      code: "0403072"
+      distance_meters: 19142.87
+      distance_km: 19.143
+      distance_percent: 16.3125
+    - slug: wiecbork
+      name: Więcbork
+      code: "0413043"
+      distance_meters: 17043.68
+      distance_km: 17.044
+      distance_percent: 14.5237
+    - slug: wysoka
+      name: Wysoka
+      code: "3019093"
+      distance_meters: 12674.49
+      distance_km: 12.674
+      distance_percent: 10.8005
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461011"
+      distance_meters: 11012.36
+      distance_km: 11.012
+      distance_percent: 9.3841
+    - slug: sosno
+      name: Sośno
+      code: "0413032"
+      distance_meters: 9972.24
+      distance_km: 9.972
+      distance_percent: 8.4978
+    - slug: pila
+      name: Piła
+      code: "3019011"
+      distance_meters: 9058.99
+      distance_km: 9.059
+      distance_percent: 7.7196
+    - slug: koronowo
+      name: Koronowo
+      code: "0403043"
+      distance_meters: 7358.87
+      distance_km: 7.359
+      distance_percent: 6.2708
+    - slug: kaczory
+      name: Kaczory
+      code: "3019032"
+      distance_meters: 4765.3
+      distance_km: 4.765
+      distance_percent: 4.0607
+    - slug: krajenka
+      name: Krajenka
+      code: "3031033"
+      distance_meters: 3749.85
+      distance_km: 3.75
+      distance_percent: 3.1954
+  counties:
+    - slug: pilski
+      name: pilski
+      code: "3019"
+      distance_meters: 49071.24
+      distance_km: 49.071
+      distance_percent: 41.8157
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+      distance_meters: 27015.91
+      distance_km: 27.016
+      distance_percent: 23.0214
+    - slug: bydgoski
+      name: bydgoski
+      code: "0403"
+      distance_meters: 26501.74
+      distance_km: 26.502
+      distance_percent: 22.5833
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461"
+      distance_meters: 11012.36
+      distance_km: 11.012
+      distance_percent: 9.3841
+    - slug: zlotowski
+      name: złotowski
+      code: "3031"
+      distance_meters: 3749.85
+      distance_km: 3.75
+      distance_percent: 3.1954
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 64530.01
+      distance_km: 64.53
+      distance_percent: 54.9888
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 52821.09
+      distance_km: 52.821
+      distance_percent: 45.0112
+  meso_regions:
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+      distance_meters: 88020.34
+      distance_km: 88.02
+      distance_percent: 75.006
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+      distance_meters: 15394.05
+      distance_km: 15.394
+      distance_percent: 13.1179
+    - slug: dolina_brdy
+      name: Dolina Brdy
+      code: "314.72"
+      distance_meters: 9134.2
+      distance_km: 9.134
+      distance_percent: 7.7837
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+      distance_meters: 4802.51
+      distance_km: 4.803
+      distance_percent: 4.0924
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 112548.59
+      distance_km: 112.549
+      distance_percent: 95.9076
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316
+      distance_meters: 4802.51
+      distance_km: 4.803
+      distance_percent: 4.0924
+  touched_towns:
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461011"
+    - slug: kaczory
+      name: Kaczory
+      code: "3019032"
+    - slug: koronowo
+      name: Koronowo
+      code: "0403043"
+    - slug: lobzenica
+      name: Łobżenica
+      code: "3019043"
+    - slug: pila
+      name: Piła
+      code: "3019011"
+    - slug: sicienko
+      name: Sicienko
+      code: "0403072"
+    - slug: sosno
+      name: Sośno
+      code: "0413032"
+    - slug: wiecbork
+      name: Więcbork
+      code: "0413043"
+    - slug: wysoka
+      name: Wysoka
+      code: "3019093"
+  touched_counties:
+    - slug: bydgoski
+      name: bydgoski
+      code: "0403"
+    - slug: bydgoszcz
+      name: Bydgoszcz
+      code: "0461"
+    - slug: pilski
+      name: pilski
+      code: "3019"
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_brdy
+      name: Dolina Brdy
+      code: "314.72"
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+    - slug: kotlina_torunska
+      name: Kotlina Toruńska
+      code: "315.35"
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+    - slug: pradolina_torunsko-eberswaldzka
+      name: Pradolina Toruńsko-Eberswaldzka
+      code: 314-316

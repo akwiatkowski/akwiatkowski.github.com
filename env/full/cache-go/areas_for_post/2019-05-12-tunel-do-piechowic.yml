@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 4569.68
+  total_distance_km: 4.57
+  points_count: 103
+  towns:
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+      distance_meters: 4569.68
+      distance_km: 4.57
+      distance_percent: 100
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 4569.68
+      distance_km: 4.57
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 4569.68
+      distance_km: 4.57
+      distance_percent: 100
+  meso_regions:
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+      distance_meters: 2106.11
+      distance_km: 2.106
+      distance_percent: 46.0888
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+      distance_meters: 1772.89
+      distance_km: 1.773
+      distance_percent: 38.7967
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 690.69
+      distance_km: 0.691
+      distance_percent: 15.1145
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 4569.68
+      distance_km: 4.57
+      distance_percent: 100
+  touched_towns:
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

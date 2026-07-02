@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 6668.44
+  total_distance_km: 6.668
+  points_count: 109
+  towns:
+    - slug: czorsztyn
+      name: Czorsztyn
+      code: "1211042"
+      distance_meters: 6668.44
+      distance_km: 6.668
+      distance_percent: 100
+  counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 6668.44
+      distance_km: 6.668
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 6668.44
+      distance_km: 6.668
+      distance_percent: 100
+  meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+      distance_meters: 6668.44
+      distance_km: 6.668
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 6668.44
+      distance_km: 6.668
+      distance_percent: 100
+  touched_towns:
+    - slug: czorsztyn
+      name: Czorsztyn
+      code: "1211042"
+  touched_counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

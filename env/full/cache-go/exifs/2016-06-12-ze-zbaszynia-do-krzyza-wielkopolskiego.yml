@@ -1,0 +1,261 @@
+---
+- image_filename: IMGP1434raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.3682515416026
+  lon: 15.880741830901801
+  altitude: 62.14
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T11:58:14+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1441raw2.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.384945526695525
+  lon: 15.882853819089775
+  altitude: 62.14
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T12:07:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1443raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.384755760399514
+  lon: 15.881557976798637
+  altitude: 55.89
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T12:10:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1448raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.472313875318385
+  lon: 15.804484533102054
+  altitude: 69.35
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T12:59:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1449raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.472571367399375
+  lon: 15.80178765579422
+  altitude: 69.83
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T13:00:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1451raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.472357461195635
+  lon: 15.800926415198848
+  altitude: 69.83
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T13:00:39+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1453raw2.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.51517306088407
+  lon: 15.828613769271664
+  altitude: 80.41
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 9
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T13:37:41+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1455raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.51517306088407
+  lon: 15.828613769271664
+  altitude: 80.41
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 9
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T13:37:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1463raw1.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.84338139931741
+  lon: 15.916410768402868
+  altitude: 34.26
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T17:22:16+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-06-12-ze-zbaszynia-do-krzyza-wielkopolskiego
+  lat: 52.43732429111184
+  lon: 15.8677976578001
+  altitude: 78.48
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-06-12T12:37:22+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

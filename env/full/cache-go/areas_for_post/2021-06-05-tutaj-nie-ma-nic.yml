@@ -1,0 +1,219 @@
+---
+- type: bicycle
+  total_distance_meters: 99236.46
+  total_distance_km: 99.236
+  points_count: 546
+  towns:
+    - slug: winsko
+      name: Wińsko
+      code: "0222022"
+      distance_meters: 31223.27
+      distance_km: 31.223
+      distance_percent: 31.4635
+    - slug: grebocice
+      name: Grębocice
+      code: "0216032"
+      distance_meters: 15563.84
+      distance_km: 15.564
+      distance_percent: 15.6836
+    - slug: scinawa
+      name: Ścinawa
+      code: "0211043"
+      distance_meters: 12477.7
+      distance_km: 12.478
+      distance_percent: 12.5737
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+      distance_meters: 11266.42
+      distance_km: 11.266
+      distance_percent: 11.3531
+    - slug: rudna
+      name: Rudna
+      code: "0211032"
+      distance_meters: 9862.13
+      distance_km: 9.862
+      distance_percent: 9.938
+    - slug: glogow
+      name: Głogów
+      code: "0203011"
+      distance_meters: 7236.02
+      distance_km: 7.236
+      distance_percent: 7.2917
+    - slug: glogow
+      name: Głogów
+      code: "0203022"
+      distance_meters: 6588.8
+      distance_km: 6.589
+      distance_percent: 6.6395
+    - slug: kotla
+      name: Kotla
+      code: "0203042"
+      distance_meters: 5018.3
+      distance_km: 5.018
+      distance_percent: 5.0569
+  counties:
+    - slug: wolowski
+      name: wołowski
+      code: "0222"
+      distance_meters: 31223.27
+      distance_km: 31.223
+      distance_percent: 31.4635
+    - slug: lubinski
+      name: lubiński
+      code: "0211"
+      distance_meters: 22339.83
+      distance_km: 22.34
+      distance_percent: 22.5117
+    - slug: glogowski
+      name: głogowski
+      code: "0203"
+      distance_meters: 18843.11
+      distance_km: 18.843
+      distance_percent: 18.9881
+    - slug: polkowicki
+      name: polkowicki
+      code: "0216"
+      distance_meters: 15563.84
+      distance_km: 15.564
+      distance_percent: 15.6836
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+      distance_meters: 11266.42
+      distance_km: 11.266
+      distance_percent: 11.3531
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 99236.46
+      distance_km: 99.236
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_dalkowskie
+      name: Wzgórza Dalkowskie
+      code: "318.42"
+      distance_meters: 27453.65
+      distance_km: 27.454
+      distance_percent: 27.6649
+    - slug: obnizenie_scinawskie
+      name: Obniżenie Ścinawskie
+      code: "318.43"
+      distance_meters: 25182.93
+      distance_km: 25.183
+      distance_percent: 25.3767
+    - slug: pradolina_glogowska
+      name: Pradolina Głogowska
+      code: "318.32"
+      distance_meters: 15901.34
+      distance_km: 15.901
+      distance_percent: 16.0237
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+      distance_meters: 15485.32
+      distance_km: 15.485
+      distance_percent: 15.6045
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+      distance_meters: 13856.9
+      distance_km: 13.857
+      distance_percent: 13.9635
+    - slug: wysoczyzna_lubinska
+      name: Wysoczyzna Lubińska
+      code: "317.76"
+      distance_meters: 1356.32
+      distance_km: 1.356
+      distance_percent: 1.3668
+  macro_regions:
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 66493.48
+      distance_km: 66.493
+      distance_percent: 67.0051
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 31386.66
+      distance_km: 31.387
+      distance_percent: 31.6282
+    - slug: nizina_slasko-luzycka
+      name: Nizina Śląsko-Łużycka
+      code: "317"
+      distance_meters: 1356.32
+      distance_km: 1.356
+      distance_percent: 1.3668
+  touched_towns:
+    - slug: glogow
+      name: Głogów
+      code: "0203022"
+    - slug: grebocice
+      name: Grębocice
+      code: "0216032"
+    - slug: kotla
+      name: Kotla
+      code: "0203042"
+    - slug: rudna
+      name: Rudna
+      code: "0211032"
+    - slug: scinawa
+      name: Ścinawa
+      code: "0211043"
+    - slug: winsko
+      name: Wińsko
+      code: "0222022"
+    - slug: zmigrod
+      name: Żmigród
+      code: "0220063"
+  touched_counties:
+    - slug: glogowski
+      name: głogowski
+      code: "0203"
+    - slug: lubinski
+      name: lubiński
+      code: "0211"
+    - slug: polkowicki
+      name: polkowicki
+      code: "0216"
+    - slug: trzebnicki
+      name: trzebnicki
+      code: "0220"
+    - slug: wolowski
+      name: wołowski
+      code: "0222"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+    - slug: obnizenie_scinawskie
+      name: Obniżenie Ścinawskie
+      code: "318.43"
+    - slug: pradolina_glogowska
+      name: Pradolina Głogowska
+      code: "318.32"
+    - slug: wysoczyzna_lubinska
+      name: Wysoczyzna Lubińska
+      code: "317.76"
+    - slug: wzgorza_dalkowskie
+      name: Wzgórza Dalkowskie
+      code: "318.42"
+    - slug: wzgorza_trzebnickie
+      name: Wzgórza Trzebnickie
+      code: "318.44"
+  touched_macro_regions:
+    - slug: nizina_slasko-luzycka
+      name: Nizina Śląsko-Łużycka
+      code: "317"
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"

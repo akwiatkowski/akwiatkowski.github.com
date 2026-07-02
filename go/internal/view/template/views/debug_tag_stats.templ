@@ -1,0 +1,37 @@
+package views
+
+import "fmt"
+
+templ DebugTagStatsContent(rows []DebugTagStatsRow) {
+	<h1>Photo Tag Stats</h1>
+	<table class="table table-sm table-striped">
+		<thead>
+			<tr>
+				<th>Post</th>
+				<th>Total</th>
+				<th>Tagged</th>
+				<th>Good</th>
+				<th>Best</th>
+				<th>% Tagged</th>
+			</tr>
+		</thead>
+		<tbody>
+			for _, row := range rows {
+				<tr>
+					<td><a href={ templ.SafeURL(row.PostURL) }>{ row.PostTitle }</a></td>
+					<td>{ fmt.Sprint(row.TotalPhotos) }</td>
+					<td>{ fmt.Sprint(row.TaggedPhotos) }</td>
+					<td>{ fmt.Sprint(row.GoodPhotos) }</td>
+					<td>{ fmt.Sprint(row.BestPhotos) }</td>
+					<td>
+						if row.TotalPhotos > 0 {
+							{ fmt.Sprintf("%.0f%%", float64(row.TaggedPhotos)/float64(row.TotalPhotos)*100) }
+						} else {
+							0%
+						}
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}

@@ -1,6 +1,9 @@
 ---
 - image_filename: P5311348raw1.jpg
   post_slug: 2018-05-31-dojazd-do-trzciela
+  lat: 52.263105555555555
+  lon: 15.892805555555555
+  altitude: 54.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -30,6 +33,9 @@
   time: 2018-05-31 15:59:49.000000000+02:00
 - image_filename: P5311353raw1.jpg
   post_slug: 2018-05-31-dojazd-do-trzciela
+  lat: 52.307852777777775
+  lon: 15.867952777777779
+  altitude: 55.9
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -75,6 +81,9 @@
   time: 2018-05-31 16:22:33.000000000+02:00
 - image_filename: P5311368raw1.jpg
   post_slug: 2018-05-31-dojazd-do-trzciela
+  lat: 52.36279444444445
+  lon: 15.874041666666667
+  altitude: 53.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0

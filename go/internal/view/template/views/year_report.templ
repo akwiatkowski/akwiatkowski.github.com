@@ -1,0 +1,370 @@
+package views
+
+import "fmt"
+
+templ YearReportContent(rd YearReportData) {
+	<section class="site-content" style="padding-top: 40px;">
+					<h1>{ fmt.Sprintf("Rok %d", rd.Year) }</h1>
+
+					<!-- Year navigation pills -->
+					<div class="ys-year-nav">
+						for _, yl := range rd.YearReportURLs {
+							if yl.IsCurrent {
+								<strong>{ fmt.Sprintf("%d", yl.Year) }</strong>
+							} else {
+								<a href={ templ.SafeURL(yl.URL) }>{ fmt.Sprintf("%d", yl.Year) }</a>
+							}
+						}
+					</div>
+
+					<!-- Monthly sparkline -->
+					<div class="ys-sparkline-wrap">
+						@yearSparkline(rd)
+					</div>
+
+					<!-- Summary cards -->
+					<div class="ys-summary">
+						<div class="ys-card">
+							<div class="ys-card-icon">📝</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.PostCount) }</span>
+								<span class="ys-card-label">wpisów</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">📏</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d km", rd.TotalDistance) }</span>
+								<span class="ys-card-label">dystans</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">⏱️</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d h", rd.TotalTime) }</span>
+								<span class="ys-card-label">w terenie</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon"><span class="icon-bicycle"></span></div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.BicycleCount) }</span>
+								<span class="ys-card-label">rowerem</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon"><span class="icon-hike"></span></div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.HikeCount) }</span>
+								<span class="ys-card-label">pieszo</span>
+							</div>
+						</div>
+						<div class="ys-card">
+							<div class="ys-card-icon">🏘️</div>
+							<div class="ys-card-body">
+								<span class="ys-card-value">{ fmt.Sprintf("%d", rd.NewTownsCount) }</span>
+								<span class="ys-card-label">nowych gmin</span>
+							</div>
+						</div>
+					</div>
+
+					<!-- Photo of the year -->
+					if rd.PhotoOfYearURL != "" {
+						<div class="ys-poty">
+							<a href={ templ.SafeURL(rd.PhotoOfYearPostURL) }>
+								<picture>
+									<source srcset={ rd.PhotoOfYearAVIF } type="image/avif"/>
+									<img src={ rd.PhotoOfYearURL } alt={ fmt.Sprintf("Zdjęcie roku %d", rd.Year) } loading="lazy"/>
+								</picture>
+								<div class="ys-poty-overlay">
+									<span class="ys-poty-badge">{ fmt.Sprintf("Zdjęcie roku %d", rd.Year) }</span>
+									<span class="ys-poty-title">{ rd.PhotoOfYearTitle }</span>
+								</div>
+							</a>
+						</div>
+					}
+
+					<!-- Details section -->
+					<div class="ys-details">
+						if rd.PrevYearDistance > 0 {
+							<p>
+								{ fmt.Sprintf("Rok wcześniej: %d km, %d h. ", rd.PrevYearDistance, rd.PrevYearTime) }
+								if rd.TotalDistance > rd.PrevYearDistance {
+									<span class="ys-delta">{ fmt.Sprintf("+%d km", rd.TotalDistance - rd.PrevYearDistance) }</span>
+								} else if rd.TotalDistance < rd.PrevYearDistance {
+									<span class="ys-delta">{ fmt.Sprintf("%d km", rd.TotalDistance - rd.PrevYearDistance) }</span>
+								}
+							</p>
+						}
+						if len(rd.Voivodeships) > 0 {
+							<p>
+								{ "Odwiedzone województwa: " }
+								for i, v := range rd.Voivodeships {
+									if i > 0 {
+										{ ", " }
+									}
+									<a href={ templ.SafeURL(v.URL) }>{ v.Name }</a>
+								}
+							</p>
+						}
+					</div>
+
+					<!-- Tag breakdown -->
+					if len(rd.TagBreakdown) > 0 {
+						<h3 class="ys-section-title">Tagi</h3>
+						<div class="ys-tags">
+							for _, tc := range rd.TagBreakdown {
+								<span class="ys-tag-chip">
+									{ tc.Name }
+									<span class="ys-tag-count">{ fmt.Sprintf("%d", tc.Count) }</span>
+								</span>
+							}
+						</div>
+					}
+
+					<!-- Records -->
+					@yearRecords(rd)
+
+					<!-- Route map -->
+					if rd.HasRoutes {
+						<h3 class="ys-section-title">Mapa tras</h3>
+						<div class="ys-map-container">
+							<div id="ys-map"></div>
+						</div>
+						@templ.Raw(jsonScriptTag("ys-route-data", rd.RouteJSON))
+						<script>
+							(function() {
+								var el = document.getElementById('ys-map');
+								var dataEl = document.getElementById('ys-route-data');
+								if (!el || !dataEl) return;
+								var data = JSON.parse(dataEl.textContent);
+								var map = L.map('ys-map', {
+									scrollWheelZoom: false,
+									attributionControl: false,
+									zoomControl: true
+								});
+								L.tileLayer('/tiles/ump/{z}/{x}/{y}.png', {
+									maxZoom: 16, minZoom: 6
+								}).addTo(map);
+								var bbox = data.bbox;
+								map.fitBounds([[bbox.south, bbox.west], [bbox.north, bbox.east]], { padding: [20, 20] });
+								data.routes.forEach(function(r) {
+									var style = window.getRouteStyle(r.tags);
+									var line = L.polyline(r.coords, style);
+									if (r.title) line.bindTooltip(r.title);
+									line.addTo(map);
+								});
+							})();
+						</script>
+					}
+
+					<!-- Posts table -->
+					if len(rd.Posts) > 0 {
+						<h3 class="ys-section-title">Wpisy</h3>
+						<table class="ys-table">
+							<thead>
+								<tr>
+									<th>Data</th>
+									<th>Tytuł</th>
+									<th class="text-end">km</th>
+									<th class="text-end">h</th>
+									<th class="text-center"></th>
+								</tr>
+							</thead>
+							<tbody>
+								for _, entry := range rd.Posts {
+									<tr>
+										<td class="text-nowrap"><a href={ templ.SafeURL(entry.URL) }>{ entry.Date }</a></td>
+										<td><a href={ templ.SafeURL(entry.URL) }>{ entry.Title }</a></td>
+										<td class="text-end">{ fmt.Sprintf("%d", entry.Distance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%d", entry.Time) }</td>
+										<td class="text-center">
+											if entry.Icon != "" {
+												<span class={ entry.Icon }></span>
+											}
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					}
+
+					<!-- Monthly breakdown table -->
+					<h3 class="ys-section-title">Miesiące</h3>
+					<table class="ys-table">
+						<thead>
+							<tr>
+								<th>Miesiąc</th>
+								<th class="text-end">Suma</th>
+								<th class="text-end">Rower</th>
+								<th class="text-end">Pieszo</th>
+								<th class="text-end">Czas</th>
+								<th class="ys-bar-cell"></th>
+							</tr>
+						</thead>
+						<tbody>
+							for i := 0; i < 12; i++ {
+								if rd.Months[i].PostCount > 0 {
+									<tr class={ seasonClass(i + 1) }>
+										<td>{ monthNamePl(i + 1) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].Distance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].BicycleDistance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f km", rd.Months[i].HikeDistance) }</td>
+										<td class="text-end">{ fmt.Sprintf("%.0f h", rd.Months[i].TimeSpent) }</td>
+										<td class="ys-bar-cell">
+											@monthBar(rd.Months[i].Distance, rd.MaxMonthDist)
+										</td>
+									</tr>
+								}
+							}
+						</tbody>
+					</table>
+	</section>
+}
+
+templ yearRecords(rd YearReportData) {
+	if rd.LongestTrip > 0 || rd.MostActiveMonth != "" || rd.PostCount > 0 {
+		<h3 class="ys-section-title">Rekordy</h3>
+		<div class="ys-records">
+			if rd.LongestTrip > 0 {
+				if rd.IsLongestAllTime {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Najdłuższa trasa</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
+						<div class="ys-record-compare">
+							<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
+							{ " " }
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Najdłuższa trasa</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.LongestTrip) }</div>
+						<div class="ys-record-compare">
+							<a href={ templ.SafeURL(rd.LongestTripURL) }>{ rd.LongestTripTitle }</a>
+						</div>
+					</div>
+				}
+			}
+			if rd.MostActiveMonth != "" {
+				if rd.IsMostActiveAllTime {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Najaktywniejszy miesiąc</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.MostActiveMonthDist) }</div>
+						<div class="ys-record-compare">
+							{ rd.MostActiveMonth }
+							{ " " }
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Najaktywniejszy miesiąc</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%.0f km", rd.MostActiveMonthDist) }</div>
+						<div class="ys-record-compare">{ rd.MostActiveMonth }</div>
+					</div>
+				}
+			}
+			if rd.PostCount > 0 {
+				if rd.IsPostRecordYear {
+					<div class="ys-record-card ys-record-best">
+						<div class="ys-record-label">Wpisów w roku</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%d", rd.PostCount) }</div>
+						<div class="ys-record-compare">
+							<span class="ys-record-badge">Rekord!</span>
+						</div>
+					</div>
+				} else {
+					<div class="ys-record-card">
+						<div class="ys-record-label">Wpisów w roku</div>
+						<div class="ys-record-value">{ fmt.Sprintf("%d", rd.PostCount) }</div>
+						<div class="ys-record-compare">{ fmt.Sprintf("Rekord: %d (%d)", rd.MostPostsCount, rd.MostPostsYear) }</div>
+					</div>
+				}
+			}
+		</div>
+	}
+}
+
+templ yearSparkline(rd YearReportData) {
+	if rd.MaxMonthDist > 0 {
+		<svg viewBox="0 0 300 40" class="ys-sparkline-svg">
+			<polygon points={ sparklinePoints(rd) + fmt.Sprintf(" %.1f,36 %.1f,36", sparklineX(11), sparklineX(0)) } fill="var(--ys-accent)" opacity="0.15"/>
+			<polyline points={ sparklinePoints(rd) } fill="none" stroke="var(--ys-accent)" stroke-width="2" stroke-linejoin="round"/>
+			for i := 0; i < 12; i++ {
+				<circle cx={ fmt.Sprintf("%.1f", sparklineX(i)) } cy={ fmt.Sprintf("%.1f", sparklineY(rd, i)) } r="3" fill="var(--ys-accent)"/>
+			}
+		</svg>
+	}
+}
+
+templ monthBar(distance float64, maxDist float64) {
+	if maxDist > 0 && distance > 0 {
+		<svg width="80" height="16" class="ys-bar-svg">
+			<rect x="0" y="2" width={ fmt.Sprintf("%d", int(distance/maxDist*70)) } height="12" rx="2" fill="var(--ys-accent)" opacity="0.7"/>
+		</svg>
+	}
+}
+
+func sparklineX(i int) float64 {
+	padX := 10.0
+	plotW := 280.0 // 300 - 2*10
+	if i == 0 {
+		return padX
+	}
+	return padX + float64(i)/11.0*plotW
+}
+
+func sparklineY(rd YearReportData, i int) float64 {
+	padY := 4.0
+	plotH := 32.0 // 40 - 2*4
+	if rd.MaxMonthDist == 0 {
+		return padY + plotH
+	}
+	return padY + plotH - rd.Months[i].Distance/rd.MaxMonthDist*plotH
+}
+
+func sparklinePoints(rd YearReportData) string {
+	points := ""
+	for i := 0; i < 12; i++ {
+		if i > 0 {
+			points += " "
+		}
+		points += fmt.Sprintf("%.1f,%.1f", sparklineX(i), sparklineY(rd, i))
+	}
+	return points
+}
+
+func seasonClass(month int) string {
+	switch month {
+	case 12, 1, 2:
+		return "month-winter"
+	case 3, 4, 5:
+		return "month-spring"
+	case 6, 7, 8:
+		return "month-summer"
+	case 9, 10, 11:
+		return "month-fall"
+	default:
+		return ""
+	}
+}
+
+func monthNamePl(m int) string {
+	names := [12]string{
+		"Styczeń", "Luty", "Marzec", "Kwiecień", "Maj", "Czerwiec",
+		"Lipiec", "Sierpień", "Wrzesień", "Październik", "Listopad", "Grudzień",
+	}
+	if m >= 1 && m <= 12 {
+		return names[m-1]
+	}
+	return ""
+}
+
+// jsonScriptTag wraps a JSON string in a <script type="application/json"> tag.
+// This is needed because templ treats content inside <script> as literal text,
+// so @templ.Raw() doesn't work inside <script> blocks.
+func jsonScriptTag(id, jsonStr string) string {
+	return fmt.Sprintf(`<script id="%s" type="application/json">%s</script>`, id, jsonStr)
+}

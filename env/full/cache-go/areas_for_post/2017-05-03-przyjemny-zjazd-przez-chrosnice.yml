@@ -1,0 +1,78 @@
+---
+- type: bicycle
+  total_distance_meters: 21908.39
+  total_distance_km: 21.908
+  points_count: 255
+  towns:
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+      distance_meters: 19458.42
+      distance_km: 19.458
+      distance_percent: 88.8172
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+      distance_meters: 2449.97
+      distance_km: 2.45
+      distance_percent: 11.1828
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 19458.42
+      distance_km: 19.458
+      distance_percent: 88.8172
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+      distance_meters: 2449.97
+      distance_km: 2.45
+      distance_percent: 11.1828
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 21908.39
+      distance_km: 21.908
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 21908.39
+      distance_km: 21.908
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 21908.39
+      distance_km: 21.908
+      distance_percent: 100
+  touched_towns:
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

@@ -1,0 +1,364 @@
+---
+- image_filename: 2019_05_02__09_29_P5020589.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.61276388888889
+  lon: 19.615236111111113
+  altitude: 105
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 3.5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T09:29:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__09_47_P5020601.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.60981944444445
+  lon: 19.675333333333334
+  altitude: 109
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T09:47:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__09_48_P5020606.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.607486111111115
+  lon: 19.680222222222223
+  altitude: 101
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 250
+  width: 4518
+  height: 3381
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T09:48:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__09_56_P5020619.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.60115277777778
+  lon: 19.689541666666667
+  altitude: 99
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 5
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 320
+  width: 4341
+  height: 3248
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T09:56:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_04_P5020635.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.61168055555556
+  lon: 19.69761111111111
+  altitude: 106
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  width: 4602
+  height: 3443
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:04:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_09_P5020641.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.61804166666667
+  lon: 19.70086111111111
+  altitude: 106
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 7.1
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 4324
+  height: 3102
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:09:28+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_17_P5020659.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.632083333333334
+  lon: 19.719041666666666
+  altitude: 113
+  focal_length: 28
+  focal_length_35: 56
+  crop: 2
+  aperture: 7.1
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 320
+  width: 4401
+  height: 3293
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:17:45+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_31_P5020675.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.65358333333333
+  lon: 19.738236111111114
+  altitude: 105
+  focal_length: 140
+  focal_length_35: 280
+  crop: 2
+  aperture: 5.6
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  width: 4640
+  height: 3472
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:31:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_39_P5020680.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.660152777777775
+  lon: 19.735222222222223
+  altitude: 109
+  focal_length: 14
+  focal_length_35: 28
+  crop: 2
+  aperture: 6.3
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 320
+  width: 4459
+  height: 3336
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:39:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_43_P5020683.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.66175
+  lon: 19.733472222222222
+  altitude: 108
+  focal_length: 46
+  focal_length_35: 92
+  crop: 2
+  aperture: 8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  width: 4458
+  height: 3335
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:43:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84
+- image_filename: 2019_05_02__10_47_P5020694.jpg
+  post_slug: 2019-05-02-ucieczka-przed-zimnem
+  lat: 53.65934722222222
+  lon: 19.73690277777778
+  altitude: 108
+  focal_length: 24
+  focal_length_35: 48
+  crop: 2
+  aperture: 6.3
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 320
+  width: 4509
+  height: 3374
+  lens: LUMIX G VARIO 14-140/F3.5-5.6
+  camera: E-M10MarkII
+  lens_name: LUMIX G VARIO 14-140/F3.5-5.6
+  camera_name: E-M10MarkII
+  time: "2019-05-02T10:47:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 14
+  lens_max_focal: 140
+  lens_min_fstop: 3.5
+  lens_max_fstop: 5.6
+  lens_spec_str: 14-140mm f/3.5-5.6
+  gps_map_datum: WGS-84

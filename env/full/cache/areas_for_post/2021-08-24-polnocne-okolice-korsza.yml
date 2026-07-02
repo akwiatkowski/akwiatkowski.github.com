@@ -16,7 +16,7 @@
     distance_meters: 13694.81
     distance_km: 13.695
     distance_percent: 27.0125
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
     distance_meters: 6086.21
@@ -28,7 +28,7 @@
     distance_meters: 4013.25
     distance_km: 4.013
     distance_percent: 7.916
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
     distance_meters: 2916.98
@@ -54,7 +54,7 @@
     distance_km: 7.194
     distance_percent: 14.1906
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 50698.04
@@ -107,14 +107,14 @@
     distance_km: 7.245
     distance_percent: 14.2905
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 50698.04
     distance_km: 50.698
     distance_percent: 100.0
   touched_towns:
-  - slug: ketrzyn
+  - slug: ketrzyn-warminsko-mazurskie-wiejska
     name: Kętrzyn
     code: "2808032"
   - slug: barciany
@@ -126,7 +126,7 @@
   - slug: sepopol
     name: Sępopol
     code: "2801063"
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
   touched_counties:
@@ -137,7 +137,7 @@
     name: bartoszycki
     code: "2801"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -166,6 +166,6 @@
     name: Pobrzeże Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

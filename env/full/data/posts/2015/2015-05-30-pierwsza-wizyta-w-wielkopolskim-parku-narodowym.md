@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pierwsza wizyta w Wielkopolskim Parku Narodowym"
 subtitle:               "zielonym szlakiem rowerowym"
 date:                   2015-05-30 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

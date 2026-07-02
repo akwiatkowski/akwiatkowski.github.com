@@ -4,19 +4,19 @@
   total_distance_km: 50.572
   points_count: 148.0
   towns:
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
     distance_meters: 11852.44
     distance_km: 11.852
     distance_percent: 23.437
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
     distance_meters: 9262.13
     distance_km: 9.262
     distance_percent: 18.3149
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 8860.37
@@ -28,13 +28,13 @@
     distance_meters: 8191.41
     distance_km: 8.191
     distance_percent: 16.1977
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-miejska
     name: Nowa Ruda
     code: 0208041
     distance_meters: 5401.52
     distance_km: 5.402
     distance_percent: 10.6809
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
     distance_meters: 4894.46
@@ -46,7 +46,7 @@
     distance_meters: 2109.23
     distance_km: 2.109
     distance_percent: 4.1708
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-miejska
     name: Kłodzko
     code: 0208021
     distance_meters: 1594.94
@@ -135,21 +135,27 @@
   - slug: walbrzych
     name: Wałbrzych
     code: "0265011"
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
   - slug: gluszyca
     name: Głuszyca
     code: "0221053"
-  - slug: nowa_ruda
+  - slug: nowa_ruda-dolnoslaskie-wiejska
     name: Nowa Ruda
     code: 0208112
-  - slug: radkow
+  - slug: nowa_ruda-dolnoslaskie-miejska
+    name: Nowa Ruda
+    code: 0208041
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
+  - slug: klodzko-dolnoslaskie-miejska
+    name: Kłodzko
+    code: 0208021
   touched_counties:
   - slug: walbrzych
     name: Wałbrzych

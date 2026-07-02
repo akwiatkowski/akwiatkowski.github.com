@@ -4,7 +4,7 @@
   total_distance_km: 20.235
   points_count: 382.0
   towns:
-  - slug: czernichow
+  - slug: czernichow-slaskie
     name: Czernichów
     code: "2417022"
     distance_meters: 9659.11
@@ -41,7 +41,7 @@
     distance_meters: 3042.41
     distance_km: 3.042
     distance_percent: 15.0354
-  - slug: bielski
+  - slug: bielski-slaskie
     name: bielski
     code: "2402"
     distance_meters: 2547.96
@@ -96,7 +96,7 @@
     distance_km: 20.235
     distance_percent: 100.0
   touched_towns:
-  - slug: czernichow
+  - slug: czernichow-slaskie
     name: Czernichów
     code: "2417022"
   - slug: porabka
@@ -112,7 +112,7 @@
   - slug: zywiecki
     name: żywiecki
     code: "2417"
-  - slug: bielski
+  - slug: bielski-slaskie
     name: bielski
     code: "2402"
   - slug: wadowicki

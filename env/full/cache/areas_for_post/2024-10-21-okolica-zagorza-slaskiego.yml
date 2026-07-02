@@ -10,7 +10,7 @@
     distance_meters: 8580.22
     distance_km: 8.58
     distance_percent: 72.5427
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
     distance_meters: 3247.6
@@ -72,7 +72,7 @@
     distance_km: 11.828
     distance_percent: 100.0
   touched_towns:
-  - slug: jedlinazdroj
+  - slug: jedlina-zdroj
     name: Jedlina-Zdrój
     code: "0221021"
   - slug: walim

@@ -20,6 +20,7 @@ map_zooms:              14
 distance:               12
 time_spent:             7
 elevation:              257
+terrain:                21.4 # m/km przewyższeń — pagórkowaty
 temperature:            15
 
 

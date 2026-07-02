@@ -1,6 +1,9 @@
 ---
 - image_filename: 2019_09_28__16_24_DSC00184.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.445788888888885
+  lon: 17.07942222222222
+  altitude: 107.8
   focal_length: 20.0
   focal_length_35: 20.0
   crop: 1.0
@@ -967,6 +970,9 @@
   time: 2019-09-28 18:25:34.000000000+02:00
 - image_filename: 2019_09_28__19_06__9282057.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46559166666667
+  lon: 17.020580555555554
+  altitude: 88.6
   focal_length: 100.0
   focal_length_35: 200.0
   crop: 2.0
@@ -982,6 +988,9 @@
   time: 2019-09-28 19:06:06.000000000+02:00
 - image_filename: 2019_09_28__19_07__9282065.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46559166666667
+  lon: 17.020580555555554
+  altitude: 88.6
   focal_length: 28.0
   focal_length_35: 56.0
   crop: 2.0
@@ -997,6 +1006,9 @@
   time: 2019-09-28 19:07:04.000000000+02:00
 - image_filename: 2019_09_28__19_07__9282066.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46559166666667
+  lon: 17.020580555555554
+  altitude: 88.6
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0
@@ -1012,6 +1024,9 @@
   time: 2019-09-28 19:07:10.000000000+02:00
 - image_filename: 2019_09_28__19_08__9282068.jpg
   post_slug: 2019-09-28-z-kobylnicy-do-kicina
+  lat: 52.46559166666667
+  lon: 17.020580555555554
+  altitude: 88.6
   focal_length: 12.0
   focal_length_35: 24.0
   crop: 2.0

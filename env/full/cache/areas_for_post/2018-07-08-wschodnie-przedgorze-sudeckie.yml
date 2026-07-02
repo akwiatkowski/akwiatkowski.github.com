@@ -61,7 +61,7 @@
     distance_km: 27.236
     distance_percent: 39.61
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 40086.57
@@ -156,7 +156,7 @@
     name: OPOLSKIE
     code: "16"
   touched_meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   - slug: obnizenie_otmuchowskie

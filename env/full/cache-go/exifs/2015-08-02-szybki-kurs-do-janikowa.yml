@@ -1,0 +1,105 @@
+---
+- image_filename: IMGP2491raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  lat: 52.663892330579976
+  lon: 18.12274167310348
+  altitude: 90.5
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-08-02T12:34:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP2496raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  lat: 52.66363425181373
+  lon: 18.11902413140021
+  altitude: 85.21
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-08-02T12:35:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP2617raw1.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  lat: 52.539208671057075
+  lon: 17.72045499650594
+  altitude: 113.57
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-08-02T15:39:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-08-02-szybki-kurs-do-janikowa
+  lat: 52.66374933530084
+  lon: 18.120779637219186
+  altitude: 88.58
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-08-02T12:35:05+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

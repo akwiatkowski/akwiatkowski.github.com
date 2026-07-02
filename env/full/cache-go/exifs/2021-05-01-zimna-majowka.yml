@@ -1,0 +1,978 @@
+---
+- image_filename: 2021_05_01__15_53_DSC09925.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451144748264
+  lon: 17.195344017813706
+  altitude: 77.52
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T15:53:53+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2021_05_01__15_55_DSC09927.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451144748264
+  lon: 17.195344017813706
+  altitude: 77.52
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T15:55:00+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2021_05_01__15_56_DSC09930.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84451144748264
+  lon: 17.195344017813706
+  altitude: 77.52
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 6047
+  height: 4023
+  lens: FE 85mm F1.8
+  camera: ILCE-7M3
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T15:56:16+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+- image_filename: 2021_05_01__15_58_DSC09934.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84401388888889
+  lon: 17.195777777777778
+  altitude: 73
+  focal_length: 38
+  focal_length_35: 38
+  crop: 1
+  aperture: 5.6
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T15:58:50+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__15_59_DSC09942.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.843833333333336
+  lon: 17.195944444444443
+  altitude: 72
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 5820
+  height: 3872
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T15:59:39+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_00_DSC09943.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84351388888889
+  lon: 17.196347222222222
+  altitude: 70
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:00:39+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_02_DSC09946.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84331944444445
+  lon: 17.196236111111112
+  altitude: 67
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:02:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_03_DSC09947.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84330555555556
+  lon: 17.19626388888889
+  altitude: 67
+  focal_length: 75
+  focal_length_35: 75
+  crop: 1
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 100
+  width: 5943
+  height: 3954
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:03:46+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_04_DSC09952.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.843
+  lon: 17.196791666666666
+  altitude: 68
+  focal_length: 42
+  focal_length_35: 42
+  crop: 1
+  aperture: 2.8
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5737
+  height: 3817
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:04:59+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_10_DSC09958.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.841097222222224
+  lon: 17.1975
+  altitude: 66
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 640
+  width: 5815
+  height: 3789
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:10:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_13_DSC09967.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84040277777778
+  lon: 17.198194444444443
+  altitude: 67
+  focal_length: 100
+  focal_length_35: 100
+  crop: 1
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 160
+  width: 5892
+  height: 3920
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:13:52+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_14_DSC09972.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84043055555556
+  lon: 17.19823611111111
+  altitude: 67
+  focal_length: 100
+  focal_length_35: 100
+  crop: 1
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 125
+  width: 5643
+  height: 3754
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:14:23+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_14_DSC09975.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84056944444445
+  lon: 17.198305555555557
+  altitude: 68
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:14:57+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_16_DSC09988.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.840944444444446
+  lon: 17.198763888888887
+  altitude: 68
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 1000
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:16:56+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_18_DSC00001.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84086111111111
+  lon: 17.199125
+  altitude: 69
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 800
+  width: 5053
+  height: 3450
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:18:18+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_18_DSC00005.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.840763888888894
+  lon: 17.199083333333334
+  altitude: 67
+  focal_length: 161.8
+  focal_length_35: 161
+  crop: 1
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 5737
+  height: 3817
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:18:43+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_21_DSC00022.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84068055555556
+  lon: 17.198958333333334
+  altitude: 68
+  focal_length: 37
+  focal_length_35: 37
+  crop: 1
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 5481
+  height: 3646
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:21:47+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_25_DSC00029.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84075
+  lon: 17.198930555555556
+  altitude: 69
+  focal_length: 33
+  focal_length_35: 33
+  crop: 1
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 3798
+  height: 5709
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:25:06+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_32_DSC00043.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.842555555555556
+  lon: 17.19701388888889
+  altitude: 69
+  focal_length: 28
+  focal_length_35: 28
+  crop: 1
+  aperture: 3.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 100
+  width: 6048
+  height: 4024
+  lens: E 28-75mm F2.8-2.8
+  camera: ILCE-7M3
+  lens_name: E 28-75mm F2.8-2.8
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:32:10+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 28
+  lens_max_focal: 75
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 28-75mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_39_DSC00062.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84401388888889
+  lon: 17.19290277777778
+  altitude: 73
+  focal_length: 379.1
+  focal_length_35: 379
+  crop: 1
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 5697
+  height: 3790
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:39:45+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_41_DSC00072.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84365277777778
+  lon: 17.192458333333335
+  altitude: 73
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:41:20+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_41_DSC00080.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.843625
+  lon: 17.192444444444444
+  altitude: 73
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:41:39+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_41_DSC00087.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.843625
+  lon: 17.192444444444444
+  altitude: 73
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 250
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:41:59+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_43_DSC00094.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84365277777778
+  lon: 17.191097222222222
+  altitude: 79
+  focal_length: 370.6
+  focal_length_35: 370
+  crop: 1
+  aperture: 6.3
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 1600
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:43:47+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__16_51_DSC00098.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84169444444445
+  lon: 17.191194444444445
+  altitude: 76
+  focal_length: 161.8
+  focal_length_35: 161
+  crop: 1
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5906
+  height: 3929
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T16:51:38+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__17_07_DSC00104.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84180555555556
+  lon: 17.191111111111113
+  altitude: 75
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 6048
+  height: 4024
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T17:07:32+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0.7
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__17_14_DSC00111.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.843944444444446
+  lon: 17.192680555555555
+  altitude: 75
+  focal_length: 400
+  focal_length_35: 400
+  crop: 1
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 250
+  width: 4934
+  height: 3747
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T17:14:55+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0.7
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84
+- image_filename: 2021_05_01__17_15_DSC00113.jpg
+  post_slug: 2021-05-01-zimna-majowka
+  lat: 52.84402777777778
+  lon: 17.19279166666667
+  altitude: 75
+  focal_length: 238.2
+  focal_length_35: 238
+  crop: 1
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 320
+  width: 5737
+  height: 3817
+  lens: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera: ILCE-7M3
+  lens_name: 100-400mm F5-6.3 DG DN OS | Contemporary 020
+  camera_name: ILCE-7M3
+  time: "2021-05-01T17:15:08+02:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.4.1
+  timezone_offset: "+02:00"
+  exposure_program: shutter_priority
+  exposure_bias: 0.7
+  lens_min_focal: 100
+  lens_max_focal: 400
+  lens_min_fstop: 5
+  lens_max_fstop: 6.3
+  lens_spec_str: 100-400mm f/5.0-6.3
+  gps_map_datum: WGS-84

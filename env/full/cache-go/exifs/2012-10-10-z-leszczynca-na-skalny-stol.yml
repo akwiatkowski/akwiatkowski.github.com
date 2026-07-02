@@ -1,0 +1,178 @@
+---
+- image_filename: IMGP2795b.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.76230437491801
+  lon: 15.865025175723169
+  altitude: 726.41
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T10:39:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: IMGP2816b.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.75206814330671
+  lon: 15.852113524496337
+  altitude: 869.65
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T11:18:52+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP2849b.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.74877338483678
+  lon: 15.834078099599541
+  altitude: 971.55
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T11:49:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -1
+- image_filename: IMGP2915b.JPG
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.75189229101241
+  lon: 15.818875506486748
+  altitude: 1175.35
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T13:56:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP3017b.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.746609428852786
+  lon: 15.788524551299842
+  altitude: 1158.05
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T15:15:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+- image_filename: IMGP3028b.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.74735256834215
+  lon: 15.785004822500026
+  altitude: 1127.76
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 800
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T15:26:14+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+- image_filename: header.jpg
+  post_slug: 2012-10-10-z-leszczynca-na-skalny-stol
+  lat: 50.75189229101241
+  lon: 15.818875506486748
+  altitude: 1175.35
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 2048
+  height: 1356
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2012-10-10T13:56:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: GIMP 2.8.0
+  exposure_program: aperture_priority
+  exposure_bias: 0

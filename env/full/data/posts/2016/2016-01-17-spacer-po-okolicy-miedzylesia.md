@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Spacer po okolicy Międzylesia"
 subtitle:               "pierwsza szansa na wieczorne zdjęcia w zimie w górach"
 date:                   2016-01-17 18:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

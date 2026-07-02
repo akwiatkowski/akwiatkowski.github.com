@@ -20,6 +20,7 @@ map_zooms:              11
 distance:               36
 time_spent:             2
 elevation:              270
+terrain:                7.5 # m/km przewyższeń — pofalowany
 temperature:            22
 average_speed:          27.9
 

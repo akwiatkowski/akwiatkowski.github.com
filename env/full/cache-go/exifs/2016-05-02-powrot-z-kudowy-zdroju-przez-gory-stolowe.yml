@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP9951raw1.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.44291916303558
+  lon: 16.24464089984973
+  altitude: 386.11
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-02T11:04:32+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9956raw1.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.47610915263089
+  lon: 16.336068520304295
+  altitude: 774
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-02T12:39:55+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9975raw1.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.45163332479782
+  lon: 16.54036860909823
+  altitude: 398.12
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-02T15:47:31+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP9987raw3.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.45087275099574
+  lon: 16.54369211766058
+  altitude: 417.35
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-02T15:51:36+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-05-02-powrot-z-kudowy-zdroju-przez-gory-stolowe
+  lat: 50.44885078450208
+  lon: 16.275563081695967
+  altitude: 494.26
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-02T11:38:06+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

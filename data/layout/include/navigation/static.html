@@ -1,16 +1,16 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="/">{{ site.title }}</a>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
 
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav me-auto">
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="voivodeship-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="voivodeship-dropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Województwa
         </a>
         <div class="dropdown-menu" aria-labelledby="voivodeship-dropdown">
@@ -19,7 +19,7 @@
       </li>
 
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="tag-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="tag-dropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Tagi
         </a>
         <div class="dropdown-menu" aria-labelledby="tag-dropdown">
@@ -28,10 +28,10 @@
       </li>
 
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="tag-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="lands-dropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Krainy
         </a>
-        <div class="dropdown-menu" aria-labelledby="tag-dropdown">
+        <div class="dropdown-menu" aria-labelledby="lands-dropdown">
           {{ nav-lands }}
         </div>
       </li>
@@ -41,7 +41,7 @@
       </li>
     </ul>
 
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav ms-auto">
       <li class="nav-item">
         <a class="nav-link" href="{{ url.map }}">Mapa</a>
       </li>

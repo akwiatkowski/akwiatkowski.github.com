@@ -28,7 +28,7 @@
     distance_meters: 12346.34
     distance_km: 12.346
     distance_percent: 12.7368
-  - slug: kwidzyn
+  - slug: kwidzyn-pomorskie-wiejska
     name: Kwidzyn
     code: "2207032"
     distance_meters: 11426.37
@@ -90,7 +90,7 @@
     distance_meters: 52264.28
     distance_km: 52.264
     distance_percent: 53.9171
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 44670.29
@@ -103,7 +103,7 @@
     distance_meters: 37500.0
     distance_km: 37.5
     distance_percent: 38.6859
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 29275.61
@@ -128,7 +128,7 @@
     distance_meters: 66775.61
     distance_km: 66.776
     distance_percent: 68.8873
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 30158.95
@@ -165,7 +165,7 @@
   - slug: ryjewo
     name: Ryjewo
     code: "2207052"
-  - slug: kwidzyn
+  - slug: kwidzyn-pomorskie-wiejska
     name: Kwidzyn
     code: "2207032"
   - slug: gardeja
@@ -200,11 +200,11 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   - slug: pojezierze_lasinskie
@@ -220,7 +220,7 @@
   - slug: pojezierze_ilawskie
     name: Pojezierze Iławskie
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

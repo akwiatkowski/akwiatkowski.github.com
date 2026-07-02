@@ -1,0 +1,97 @@
+---
+- type: hike
+  total_distance_meters: 4054.9
+  total_distance_km: 4.055
+  points_count: 69
+  towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+      distance_meters: 4054.9
+      distance_km: 4.055
+      distance_percent: 100
+  counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+      distance_meters: 4054.9
+      distance_km: 4.055
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 4054.9
+      distance_km: 4.055
+      distance_percent: 100
+  meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"
+      distance_meters: 4054.9
+      distance_km: 4.055
+      distance_percent: 100
+  touched_towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+  touched_counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"
+- type: hike
+  total_distance_meters: 2486.84
+  total_distance_km: 2.487
+  points_count: 44
+  towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+      distance_meters: 2378.82
+      distance_km: 2.379
+      distance_percent: 95.6565
+  counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+      distance_meters: 2378.82
+      distance_km: 2.379
+      distance_percent: 95.6565
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 2378.82
+      distance_km: 2.379
+      distance_percent: 95.6565
+  meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"
+      distance_meters: 2111.06
+      distance_km: 2.111
+      distance_percent: 84.8891
+  touched_towns:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262011"
+  touched_counties:
+    - slug: gdynia
+      name: Gdynia
+      code: "2262"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pobrzeze_kaszubskie
+      name: Pobrzeże Kaszubskie
+      code: "313.51"

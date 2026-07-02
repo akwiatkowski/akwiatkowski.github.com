@@ -1,0 +1,224 @@
+---
+- type: bicycle
+  total_distance_meters: 8744.03
+  total_distance_km: 8.744
+  points_count: 74
+  towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 8744.03
+      distance_km: 8.744
+      distance_percent: 100
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208021"
+      distance_meters: 5041.06
+      distance_km: 5.041
+      distance_percent: 57.6514
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 8744.03
+      distance_km: 8.744
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 8744.03
+      distance_km: 8.744
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 8744.03
+      distance_km: 8.744
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 8744.03
+      distance_km: 8.744
+      distance_percent: 100
+  touched_towns:
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208021"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+- type: bicycle
+  total_distance_meters: 62390.11
+  total_distance_km: 62.39
+  points_count: 516
+  towns:
+    - slug: stoszowice
+      name: Stoszowice
+      code: "0224042"
+      distance_meters: 19606.56
+      distance_km: 19.607
+      distance_percent: 31.4258
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+      distance_meters: 15887.99
+      distance_km: 15.888
+      distance_percent: 25.4656
+    - slug: zabkowice_slaskie
+      name: Ząbkowice Śląskie
+      code: "0224053"
+      distance_meters: 13348.71
+      distance_km: 13.349
+      distance_percent: 21.3956
+    - slug: cieplowody
+      name: Ciepłowody
+      code: "0224022"
+      distance_meters: 9088.57
+      distance_km: 9.089
+      distance_percent: 14.5673
+    - slug: ziebice
+      name: Ziębice
+      code: "0224063"
+      distance_meters: 4458.28
+      distance_km: 4.458
+      distance_percent: 7.1458
+  counties:
+    - slug: zabkowicki
+      name: ząbkowicki
+      code: "0224"
+      distance_meters: 46502.12
+      distance_km: 46.502
+      distance_percent: 74.5344
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 15887.99
+      distance_km: 15.888
+      distance_percent: 25.4656
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 62390.11
+      distance_km: 62.39
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+      distance_meters: 37158
+      distance_km: 37.158
+      distance_percent: 59.5575
+    - slug: gory_sowie
+      name: Góry Sowie
+      code: "332.44"
+      distance_meters: 6837.68
+      distance_km: 6.838
+      distance_percent: 10.9596
+    - slug: gory_bardzkie
+      name: Góry Bardzkie
+      code: "332.45"
+      distance_meters: 6323.71
+      distance_km: 6.324
+      distance_percent: 10.1358
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+      distance_meters: 5679.72
+      distance_km: 5.68
+      distance_percent: 9.1036
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+      distance_meters: 3370.67
+      distance_km: 3.371
+      distance_percent: 5.4026
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+      distance_meters: 3020.32
+      distance_km: 3.02
+      distance_percent: 4.841
+  macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+      distance_meters: 37158
+      distance_km: 37.158
+      distance_percent: 59.5575
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 25232.11
+      distance_km: 25.232
+      distance_percent: 40.4425
+  touched_towns:
+    - slug: cieplowody
+      name: Ciepłowody
+      code: "0224022"
+    - slug: klodzko
+      name: Kłodzko
+      code: "0208072"
+    - slug: stoszowice
+      name: Stoszowice
+      code: "0224042"
+    - slug: zabkowice_slaskie
+      name: Ząbkowice Śląskie
+      code: "0224053"
+    - slug: ziebice
+      name: Ziębice
+      code: "0224063"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+    - slug: zabkowicki
+      name: ząbkowicki
+      code: "0224"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_bardzkie
+      name: Góry Bardzkie
+      code: "332.45"
+    - slug: gory_sowie
+      name: Góry Sowie
+      code: "332.44"
+    - slug: kotlina_klodzka
+      name: Kotlina Kłodzka
+      code: "332.54"
+    - slug: obnizenie_noworudzkie
+      name: Obniżenie Noworudzkie
+      code: "332.46"
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+  touched_macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

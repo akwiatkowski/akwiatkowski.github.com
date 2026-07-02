@@ -1,0 +1,951 @@
+---
+- image_filename: IMGP9121raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: e0f0fce0e0e0f8f8
+  dhash: 000080180a020200
+  phash: d52a5e65338ac70d
+  avg_rgb:
+  - 125
+  - 124
+  - 119
+  top5_rgb:
+  - - 187
+    - 160
+    - 122
+  - - 200
+    - 196
+    - 187
+  - - 39
+    - 34
+    - 28
+  - - 179
+    - 153
+    - 108
+  - - 26
+    - 24
+    - 20
+- image_filename: IMGP9130raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: ffffff0f000080e0
+  dhash: 8080187e31d01004
+  phash: f18be40a20bfc17b
+  avg_rgb:
+  - 129
+  - 123
+  - 111
+  top5_rgb:
+  - - 161
+    - 161
+    - 160
+  - - 191
+    - 185
+    - 181
+  - - 186
+    - 180
+    - 177
+  - - 167
+    - 166
+    - 164
+  - - 169
+    - 167
+    - 165
+- image_filename: IMGP9142raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 00001fffff01ffff
+  dhash: fafffef9f9ebf3fd
+  phash: 8b54542bd5d42bd5
+  avg_rgb:
+  - 156
+  - 143
+  - 128
+  top5_rgb:
+  - - 178
+    - 175
+    - 164
+  - - 193
+    - 187
+    - 172
+  - - 181
+    - 163
+    - 142
+  - - 173
+    - 155
+    - 133
+  - - 122
+    - 101
+    - 90
+- image_filename: IMGP9160raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: feffff000000fcfe
+  dhash: e0e0c0e0a4a0c0e0
+  phash: d483d16a0ec7b9d4
+  avg_rgb:
+  - 133
+  - 128
+  - 120
+  top5_rgb:
+  - - 173
+    - 169
+    - 167
+  - - 167
+    - 164
+    - 161
+  - - 138
+    - 138
+    - 138
+  - - 154
+    - 150
+    - 148
+  - - 125
+    - 87
+    - 44
+- image_filename: IMGP9162raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0c00000e030fffff
+  dhash: f8fcf8fc3efef8f8
+  phash: 956ada3535da2c25
+  avg_rgb:
+  - 158
+  - 132
+  - 109
+  top5_rgb:
+  - - 149
+    - 110
+    - 81
+  - - 242
+    - 242
+    - 242
+  - - 156
+    - 116
+    - 83
+  - - 162
+    - 121
+    - 86
+  - - 131
+    - 96
+    - 72
+- image_filename: IMGP9163raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 2000e7e7e7e7e6c0
+  dhash: c0f088c84c4c4c4c
+  phash: f3880cb3e6e3f0e0
+  avg_rgb:
+  - 156
+  - 138
+  - 125
+  top5_rgb:
+  - - 189
+    - 125
+    - 101
+  - - 178
+    - 166
+    - 149
+  - - 178
+    - 118
+    - 102
+  - - 193
+    - 175
+    - 152
+  - - 172
+    - 164
+    - 148
+- image_filename: IMGP9164raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: f0fcfefef0e08000
+  dhash: "8040600406060602"
+  phash: c5d31b6c6c30133f
+  avg_rgb:
+  - 116
+  - 107
+  - 99
+  top5_rgb:
+  - - 203
+    - 173
+    - 139
+  - - 172
+    - 138
+    - 119
+  - - 140
+    - 136
+    - 127
+  - - 180
+    - 146
+    - 123
+  - - 213
+    - 151
+    - 102
+- image_filename: IMGP9165raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: ffffffe7c1800000
+  dhash: dec6f8ce87292486
+  phash: f6831d7823975a89
+  avg_rgb:
+  - 136
+  - 130
+  - 128
+  top5_rgb:
+  - - 175
+    - 154
+    - 143
+  - - 214
+    - 196
+    - 179
+  - - 171
+    - 173
+    - 179
+  - - 222
+    - 183
+    - 160
+  - - 61
+    - 81
+    - 95
+- image_filename: IMGP9167raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: fffffff1f0f0e0e0
+  dhash: eeebf4a7a5a44e0a
+  phash: e69833466e259d53
+  avg_rgb:
+  - 150
+  - 131
+  - 106
+  top5_rgb:
+  - - 166
+    - 165
+    - 149
+  - - 220
+    - 166
+    - 119
+  - - 186
+    - 146
+    - 109
+  - - 161
+    - 152
+    - 123
+  - - 184
+    - 168
+    - 133
+- image_filename: IMGP9168raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: ffffe0c0e0e0f0f0
+  dhash: 80608090cd848241
+  phash: e3918ea673786683
+  avg_rgb:
+  - 136
+  - 125
+  - 125
+  top5_rgb:
+  - - 201
+    - 174
+    - 169
+  - - 153
+    - 152
+    - 173
+  - - 192
+    - 197
+    - 199
+  - - 35
+    - 33
+    - 30
+  - - 200
+    - 164
+    - 162
+- image_filename: IMGP9173raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0000dfcfc7c3e1e0
+  dhash: f0e8b4989c968f85
+  phash: f11c4fa5d389c4e2
+  avg_rgb:
+  - 128
+  - 130
+  - 133
+  top5_rgb:
+  - - 165
+    - 160
+    - 156
+  - - 151
+    - 110
+    - 117
+  - - 106
+    - 110
+    - 128
+  - - 192
+    - 197
+    - 191
+  - - 196
+    - 200
+    - 194
+- image_filename: IMGP9180raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 00f8fe7e06077ffc
+  dhash: c0e0e0e0ccfce0c0
+  phash: c4694b3e678937e0
+  avg_rgb:
+  - 168
+  - 116
+  - 82
+  top5_rgb:
+  - - 91
+    - 98
+    - 116
+  - - 31
+    - 23
+    - 17
+  - - 251
+    - 156
+    - 81
+  - - 226
+    - 162
+    - 97
+  - - 237
+    - 168
+    - 96
+- image_filename: IMGP9187raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 7efffbf3c70f0f08
+  dhash: f0f8f2c60c3c72f3
+  phash: 94e11b3366ac5d59
+  avg_rgb:
+  - 132
+  - 123
+  - 112
+  top5_rgb:
+  - - 148
+    - 161
+    - 178
+  - - 164
+    - 164
+    - 158
+  - - 144
+    - 128
+    - 122
+  - - 168
+    - 128
+    - 92
+  - - 155
+    - 135
+    - 129
+- image_filename: IMGP9193raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0000f3f3f3f3f320
+  dhash: e8f4c6e6e6e6a6e6
+  phash: e41b1bed12ac64b6
+  avg_rgb:
+  - 143
+  - 141
+  - 141
+  top5_rgb:
+  - - 120
+    - 131
+    - 156
+  - - 171
+    - 168
+    - 166
+  - - 126
+    - 136
+    - 160
+  - - 164
+    - 147
+    - 140
+  - - 170
+    - 163
+    - 159
+- image_filename: P6140571raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0080f8f02fffffff
+  dhash: 0020000159f1333c
+  phash: fe647c1233e9c0b1
+  avg_rgb:
+  - 111
+  - 122
+  - 128
+  top5_rgb:
+  - - 181
+    - 161
+    - 132
+  - - 54
+    - 96
+    - 141
+  - - 161
+    - 164
+    - 171
+  - - 175
+    - 172
+    - 165
+  - - 184
+    - 177
+    - 156
+- image_filename: P6140576raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 387c7e3e78381800
+  dhash: f0f0f0f0e0e060e2
+  phash: c4d07b4b681f47e4
+  avg_rgb:
+  - 113
+  - 114
+  - 105
+  top5_rgb:
+  - - 57
+    - 51
+    - 42
+  - - 120
+    - 141
+    - 171
+  - - 181
+    - 181
+    - 180
+  - - 235
+    - 195
+    - 125
+  - - 172
+    - 157
+    - 121
+- image_filename: P6140577raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 387c7e3e7c3c0800
+  dhash: f0f0f0f0e0e0f0f0
+  phash: ccc0734f683e8fe0
+  avg_rgb:
+  - 111
+  - 107
+  - 98
+  top5_rgb:
+  - - 57
+    - 49
+    - 43
+  - - 163
+    - 146
+    - 114
+  - - 175
+    - 173
+    - 172
+  - - 69
+    - 58
+    - 49
+  - - 64
+    - 55
+    - 49
+- image_filename: P6140580raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0060f0fcfcf8e0c0
+  dhash: 8080c080c0808080
+  phash: c00f3f9199f84f07
+  avg_rgb:
+  - 87
+  - 93
+  - 97
+  top5_rgb:
+  - - 23
+    - 30
+    - 42
+  - - 161
+    - 148
+    - 115
+  - - 126
+    - 119
+    - 98
+  - - 24
+    - 39
+    - 54
+  - - 92
+    - 113
+    - 144
+- image_filename: P6140583raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 00c0fcfffee08080
+  dhash: 0800000004042024
+  phash: fec13876871862dc
+  avg_rgb:
+  - 107
+  - 108
+  - 114
+  top5_rgb:
+  - - 47
+    - 46
+    - 53
+  - - 57
+    - 57
+    - 64
+  - - 22
+    - 45
+    - 81
+  - - 250
+    - 216
+    - 162
+  - - 219
+    - 190
+    - 149
+- image_filename: P6140585raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 60f8fffcfc380000
+  dhash: c0c08080c0f08cc0
+  phash: c0c33f07423b9fa5
+  avg_rgb:
+  - 117
+  - 106
+  - 96
+  top5_rgb:
+  - - 88
+    - 65
+    - 48
+  - - 111
+    - 111
+    - 122
+  - - 46
+    - 43
+    - 46
+  - - 100
+    - 73
+    - 53
+  - - 20
+    - 49
+    - 86
+- image_filename: P6140588raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 0078fcfef8381800
+  dhash: e0e0e0e0e0e0f0e0
+  phash: ccc13b4e67b90761
+  avg_rgb:
+  - 98
+  - 90
+  - 84
+  top5_rgb:
+  - - 93
+    - 107
+    - 135
+  - - 25
+    - 30
+    - 38
+  - - 197
+    - 153
+    - 91
+  - - 23
+    - 25
+    - 33
+  - - 21
+    - 40
+    - 68
+- image_filename: P6140595raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: f0fcfefcf8e00000
+  dhash: c0c0c0c2c2c38103
+  phash: c1c13e6f49362736
+  avg_rgb:
+  - 118
+  - 108
+  - 102
+  top5_rgb:
+  - - 254
+    - 215
+    - 138
+  - - 48
+    - 50
+    - 61
+  - - 132
+    - 121
+    - 118
+  - - 165
+    - 142
+    - 121
+  - - 153
+    - 135
+    - 122
+- image_filename: P6140597raw2.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: fefef8f0e0400000
+  dhash: c0c0c0c2c2810308
+  phash: c1c1963e2f6d5253
+  avg_rgb:
+  - 123
+  - 96
+  - 65
+  top5_rgb:
+  - - 30
+    - 50
+    - 64
+  - - 244
+    - 193
+    - 131
+  - - 102
+    - 80
+    - 66
+  - - 129
+    - 96
+    - 66
+  - - 94
+    - 76
+    - 62
+- image_filename: P6140608raw2warm.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: fcffff7b39000000
+  dhash: c0e0e0e2e3c3c103
+  phash: c9d6766169727232
+  avg_rgb:
+  - 162
+  - 94
+  - 74
+  top5_rgb:
+  - - 175
+    - 91
+    - 79
+  - - 102
+    - 64
+    - 72
+  - - 149
+    - 106
+    - 141
+  - - 207
+    - 107
+    - 82
+  - - 114
+    - 67
+    - 72
+- image_filename: P6140630raw3warm.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: c0f0fff0f0f8f8e0
+  dhash: 800000c0e1800080
+  phash: c4b6314d66b3992e
+  avg_rgb:
+  - 122
+  - 102
+  - 128
+  top5_rgb:
+  - - 95
+    - 95
+    - 131
+  - - 71
+    - 64
+    - 81
+  - - 127
+    - 99
+    - 126
+  - - 139
+    - 129
+    - 166
+  - - 78
+    - 68
+    - 86
+- image_filename: P6140633raw2.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 00003e7f7f1f0e02
+  dhash: f8f8f8f8f878fcfe
+  phash: 954b661be4b34d26
+  avg_rgb:
+  - 106
+  - 87
+  - 106
+  top5_rgb:
+  - - 87
+    - 63
+    - 82
+  - - 4
+    - 38
+    - 81
+  - - 60
+    - 55
+    - 76
+  - - 101
+    - 71
+    - 91
+  - - 32
+    - 64
+    - 120
+- image_filename: P6140634raw2.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: f8fefcf0f8f82000
+  dhash: 8080c0818080c0e0
+  phash: c1e934726b4d5996
+  avg_rgb:
+  - 125
+  - 90
+  - 102
+  top5_rgb:
+  - - 79
+    - 73
+    - 99
+  - - 73
+    - 64
+    - 86
+  - - 70
+    - 77
+    - 128
+  - - 91
+    - 83
+    - 113
+  - - 36
+    - 18
+    - 22
+- image_filename: P6140640raw3warm.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: c0f0fcfcc0f8fef0
+  dhash: 0000c00000000400
+  phash: d5470f633894c373
+  avg_rgb:
+  - 124
+  - 100
+  - 130
+  top5_rgb:
+  - - 115
+    - 87
+    - 100
+  - - 136
+    - 112
+    - 143
+  - - 131
+    - 99
+    - 117
+  - - 151
+    - 129
+    - 161
+  - - 167
+    - 140
+    - 167
+- image_filename: P6140655raw3-1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 78fcfcf8f8f8f000
+  dhash: e0c0e0e0c0c0c0e0
+  phash: c0d03f6d1c5e06af
+  avg_rgb:
+  - 101
+  - 92
+  - 120
+  top5_rgb:
+  - - 61
+    - 72
+    - 105
+  - - 186
+    - 130
+    - 124
+  - - 103
+    - 114
+    - 164
+  - - 74
+    - 73
+    - 96
+  - - 70
+    - 78
+    - 113
+- image_filename: P6150672raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 003c3c7ee7e167e3
+  dhash: e8e0f0e80ec7ce0b
+  phash: c35c09e2bb1668b7
+  avg_rgb:
+  - 118
+  - 115
+  - 106
+  top5_rgb:
+  - - 112
+    - 132
+    - 162
+  - - 98
+    - 114
+    - 145
+  - - 130
+    - 112
+    - 95
+  - - 92
+    - 106
+    - 138
+  - - 120
+    - 106
+    - 76
+- image_filename: P6150679raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 000078feffffdfff
+  dhash: d090c0f0402098c8
+  phash: d047513c87b8ced3
+  avg_rgb:
+  - 134
+  - 131
+  - 122
+  top5_rgb:
+  - - 78
+    - 112
+    - 152
+  - - 70
+    - 104
+    - 148
+  - - 157
+    - 140
+    - 125
+  - - 74
+    - 108
+    - 153
+  - - 87
+    - 109
+    - 126
+- image_filename: P6150690raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 3f7fefe7f3f8f8f0
+  dhash: fcd0dccfe793c1c0
+  phash: e3b7514824333bb9
+  avg_rgb:
+  - 145
+  - 134
+  - 113
+  top5_rgb:
+  - - 162
+    - 154
+    - 141
+  - - 124
+    - 143
+    - 178
+  - - 137
+    - 155
+    - 185
+  - - 182
+    - 168
+    - 153
+  - - 197
+    - 156
+    - 89
+- image_filename: P6150700raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 7f72f3f3f3b3e312
+  dhash: f8f6c6860666a696
+  phash: e4931ba3ed9219e4
+  avg_rgb:
+  - 152
+  - 142
+  - 127
+  top5_rgb:
+  - - 177
+    - 163
+    - 132
+  - - 147
+    - 160
+    - 190
+  - - 165
+    - 158
+    - 141
+  - - 181
+    - 146
+    - 119
+  - - 143
+    - 157
+    - 187
+- image_filename: P6150711raw2.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 7f77c3011da2befe
+  dhash: f8ec8611794e606c
+  phash: 9f20d41f9a786596
+  avg_rgb:
+  - 149
+  - 148
+  - 134
+  top5_rgb:
+  - - 148
+    - 158
+    - 172
+  - - 142
+    - 168
+    - 203
+  - - 133
+    - 161
+    - 192
+  - - 196
+    - 185
+    - 171
+  - - 215
+    - 198
+    - 169
+- image_filename: P6150713raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: ff9fc3c1e0e0f8f8
+  dhash: c0389f8f8ac3e1c2
+  phash: e1b0cec7e56a3119
+  avg_rgb:
+  - 144
+  - 136
+  - 122
+  top5_rgb:
+  - - 160
+    - 161
+    - 147
+  - - 168
+    - 158
+    - 144
+  - - 176
+    - 163
+    - 150
+  - - 170
+    - 177
+    - 182
+  - - 199
+    - 175
+    - 148
+- image_filename: P6150719raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: fefff0f0f8f0c000
+  dhash: c0c2070080202429
+  phash: dc8127c753366ec1
+  avg_rgb:
+  - 129
+  - 126
+  - 115
+  top5_rgb:
+  - - 181
+    - 181
+    - 184
+  - - 190
+    - 184
+    - 170
+  - - 161
+    - 167
+    - 180
+  - - 56
+    - 46
+    - 33
+  - - 169
+    - 154
+    - 115
+- image_filename: P6150723raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: ff7f3f0f17230133
+  dhash: f0c0f0786c4a1b66
+  phash: 8790e8f79e390786
+  avg_rgb:
+  - 143
+  - 134
+  - 118
+  top5_rgb:
+  - - 172
+    - 172
+    - 184
+  - - 173
+    - 173
+    - 185
+  - - 170
+    - 172
+    - 185
+  - - 176
+    - 172
+    - 165
+  - - 169
+    - 171
+    - 185
+- image_filename: P6150726raw1.jpg
+  post_slug: 2018-06-14-zachod-w-kolobrzegu
+  ahash: 070707070f1f1e1e
+  dhash: 5fbe1cde9e7e7978
+  phash: b5204abd654abf70
+  avg_rgb:
+  - 86
+  - 96
+  - 58
+  top5_rgb:
+  - - 75
+    - 69
+    - 50
+  - - 82
+    - 75
+    - 55
+  - - 103
+    - 98
+    - 70
+  - - 126
+    - 120
+    - 91
+  - - 71
+    - 103
+    - 30

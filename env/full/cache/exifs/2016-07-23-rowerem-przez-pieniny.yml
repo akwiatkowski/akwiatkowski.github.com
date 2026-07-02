@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP3581raw1.jpg
   post_slug: 2016-07-23-rowerem-przez-pieniny
+  lat: 49.46078333333334
+  lon: 20.27565
+  altitude: 562.1
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5
@@ -12,6 +15,9 @@
   time: 2016-07-23 09:52:41.000000000+02:00
 - image_filename: IMGP3584raw1.jpg
   post_slug: 2016-07-23-rowerem-przez-pieniny
+  lat: 49.46046944444445
+  lon: 20.28640277777778
+  altitude: 579.0
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

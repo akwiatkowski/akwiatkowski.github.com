@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP1936raw1.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  ahash: f1fffff900000000
+  dhash: 03122081a118e0f0
+  phash: e8ed35226acf1d18
+  avg_rgb:
+  - 100
+  - 110
+  - 105
+  top5_rgb:
+  - - 192
+    - 190
+    - 199
+  - - 62
+    - 53
+    - 36
+  - - 75
+    - 75
+    - 22
+  - - 73
+    - 69
+    - 20
+  - - 138
+    - 146
+    - 169
+- image_filename: IMGP1939raw1.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  ahash: f87c74361e3a020e
+  dhash: e0c0c4ecb4f2f4fc
+  phash: 80c073ed9e67c74c
+  avg_rgb:
+  - 83
+  - 107
+  - 130
+  top5_rgb:
+  - - 156
+    - 187
+    - 240
+  - - 29
+    - 39
+    - 51
+  - - 67
+    - 74
+    - 93
+  - - 76
+    - 80
+    - 96
+  - - 22
+    - 31
+    - 45
+- image_filename: header.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  ahash: 03071f7f0f0000ff
+  dhash: ffff6ffefee76673
+  phash: adaa6b509166ca3e
+  avg_rgb:
+  - 62
+  - 108
+  - 135
+  top5_rgb:
+  - - 53
+    - 73
+    - 21
+  - - 110
+    - 156
+    - 211
+  - - 63
+    - 84
+    - 22
+  - - 71
+    - 96
+    - 21
+  - - 102
+    - 144
+    - 193

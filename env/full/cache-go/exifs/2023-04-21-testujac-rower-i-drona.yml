@@ -1,0 +1,33 @@
+---
+- image_filename: 2023_04_21__16_23_DJI_0456.jpg
+  post_slug: 2023-04-21-testujac-rower-i-drona
+  lat: 52.43778648333333
+  lon: 17.256808933333332
+  altitude: 128.6
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 120
+  width: 8064
+  height: 6048
+  camera: FC3582
+  camera_name: FC3582
+  time: "2023-04-21T16:23:00+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.2.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

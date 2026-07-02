@@ -1,0 +1,79 @@
+---
+- image_filename: IMGP6052raw1.jpg
+  post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
+  lat: 52.462652777777784
+  lon: 16.936180555555556
+  altitude: 161
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-11T13:57:37+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP6055raw1.jpg
+  post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
+  lat: 52.53219444444444
+  lon: 16.94384722222222
+  altitude: 156
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-11T14:24:08+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6059raw1.jpg
+  post_slug: 2018-03-11-rozpoczecie-sezonu-rowerowego-w-2018
+  lat: 52.57269444444445
+  lon: 17.008208333333332
+  altitude: 162
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 125
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-11T14:57:22+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

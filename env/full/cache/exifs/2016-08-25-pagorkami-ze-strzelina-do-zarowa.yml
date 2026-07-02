@@ -15,6 +15,9 @@
   time: 2016-08-25 13:33:23.000000000+02:00
 - image_filename: IMGP4960raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  lat: 50.72495
+  lon: 16.992816666666666
+  altitude: 213.6
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666
@@ -96,6 +99,9 @@
   time: 2016-08-25 17:15:01.000000000+02:00
 - image_filename: IMGP5026raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  lat: 50.83592777777778
+  lon: 16.645822222222222
+  altitude: 226.1
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -107,6 +113,9 @@
   time: 2016-08-25 17:29:53.000000000+02:00
 - image_filename: IMGP5028raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  lat: 50.84079444444445
+  lon: 16.645225
+  altitude: 224.0
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5
@@ -118,6 +127,9 @@
   time: 2016-08-25 17:40:25.000000000+02:00
 - image_filename: IMGP5038raw1.jpg
   post_slug: 2016-08-25-pagorkami-ze-strzelina-do-zarowa
+  lat: 50.86551388888889
+  lon: 16.631977777777777
+  altitude: 221.2
   focal_length: 40.0
   focal_length_35: 60.0
   crop: 1.5

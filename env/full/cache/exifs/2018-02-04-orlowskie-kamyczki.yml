@@ -169,6 +169,9 @@
   time: 2018-02-04 08:32:27.000000000+01:00
 - image_filename: IMGP5567raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.467222222222226
+  lon: 18.562244444444445
+  altitude: 16.7
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -278,6 +281,9 @@
   time: 2018-02-04 09:05:08.000000000+01:00
 - image_filename: IMGP5608raw1.jpg
   post_slug: 2018-02-04-orlowskie-kamyczki
+  lat: 54.46535
+  lon: 18.561700000000002
+  altitude: 13.1
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178

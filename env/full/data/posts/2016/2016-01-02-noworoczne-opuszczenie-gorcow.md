@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Noworoczne opuszczenie Gorców"
 subtitle:               "zejście czarnym szlakiem"
 date:                   2016-01-02 20:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

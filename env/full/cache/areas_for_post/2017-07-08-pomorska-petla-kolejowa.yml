@@ -22,13 +22,13 @@
     distance_meters: 21004.45
     distance_km: 21.004
     distance_percent: 7.8245
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
     distance_meters: 19885.15
     distance_km: 19.885
     distance_percent: 7.4075
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-wiejska
     name: Kościerzyna
     code: "2206042"
     distance_meters: 19605.46
@@ -40,13 +40,13 @@
     distance_meters: 16229.2
     distance_km: 16.229
     distance_percent: 6.0456
-  - slug: tczew
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
     distance_meters: 15591.4
     distance_km: 15.591
     distance_percent: 5.808
-  - slug: starogard_gdanski
+  - slug: starogard_gdanski-pomorskie-wiejska
     name: Starogard Gdański
     code: "2213122"
     distance_meters: 15509.73
@@ -64,13 +64,13 @@
     distance_meters: 11474.09
     distance_km: 11.474
     distance_percent: 4.2743
-  - slug: pruszcz_gdanski
+  - slug: pruszcz_gdanski-pomorskie-wiejska
     name: Pruszcz Gdański
     code: "2204042"
     distance_meters: 10788.71
     distance_km: 10.789
     distance_percent: 4.019
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
     distance_meters: 10394.14
@@ -100,13 +100,13 @@
     distance_meters: 8319.74
     distance_km: 8.32
     distance_percent: 3.0992
-  - slug: tczew
+  - slug: tczew-pomorskie-miejska
     name: Tczew
     code: "2214011"
     distance_meters: 6642.56
     distance_km: 6.643
     distance_percent: 2.4745
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-miejska
     name: Kościerzyna
     code: "2206011"
     distance_meters: 5323.55
@@ -118,13 +118,13 @@
     distance_meters: 4954.54
     distance_km: 4.955
     distance_percent: 1.8456
-  - slug: starogard_gdanski
+  - slug: starogard_gdanski-pomorskie-miejska
     name: Starogard Gdański
     code: "2213031"
     distance_meters: 4950.04
     distance_km: 4.95
     distance_percent: 1.844
-  - slug: chojnice
+  - slug: chojnice-pomorskie-miejska
     name: Chojnice
     code: "2202011"
     distance_meters: 4935.44
@@ -282,12 +282,15 @@
   - slug: somonino
     name: Somonino
     code: "2205052"
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-wiejska
     name: Kościerzyna
     code: "2206042"
+  - slug: koscierzyna-pomorskie-miejska
+    name: Kościerzyna
+    code: "2206011"
   - slug: lipusz
     name: Lipusz
     code: "2206062"
@@ -297,9 +300,12 @@
   - slug: brusy
     name: Brusy
     code: "2202023"
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
+  - slug: chojnice-pomorskie-miejska
+    name: Chojnice
+    code: "2202011"
   - slug: czersk
     name: Czersk
     code: "2202043"
@@ -309,13 +315,19 @@
   - slug: zblewo
     name: Zblewo
     code: "2213132"
-  - slug: starogard_gdanski
+  - slug: starogard_gdanski-pomorskie-wiejska
     name: Starogard Gdański
     code: "2213122"
-  - slug: tczew
+  - slug: starogard_gdanski-pomorskie-miejska
+    name: Starogard Gdański
+    code: "2213031"
+  - slug: tczew-pomorskie-wiejska
     name: Tczew
     code: "2214062"
-  - slug: pruszcz_gdanski
+  - slug: tczew-pomorskie-miejska
+    name: Tczew
+    code: "2214011"
+  - slug: pruszcz_gdanski-pomorskie-wiejska
     name: Pruszcz Gdański
     code: "2204042"
   - slug: kolbudy

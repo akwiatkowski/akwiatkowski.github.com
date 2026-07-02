@@ -1,0 +1,16 @@
+package views
+
+templ StaticEnglishContent(renderedHTML string) {
+	<header class="intro-header">
+		<div class="site-content">
+			<div class="post-heading">
+				<h1>Welcome</h1>
+				<h2 class="subheading">a few words for English only speaking visitors</h2>
+			</div>
+		</div>
+	</header>
+	<article class="site-content">
+		@templ.Raw(renderedHTML)
+	</article>
+	<hr/>
+}

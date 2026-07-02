@@ -1,0 +1,151 @@
+---
+- image_filename: P8130001.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: 0000c387ffff03ff
+  dhash: 00018636384617fb
+  phash: fd7742cada258590
+  avg_rgb:
+  - 89
+  - 109
+  - 128
+  top5_rgb:
+  - - 120
+    - 133
+    - 34
+  - - 127
+    - 141
+    - 173
+  - - 151
+    - 156
+    - 169
+  - - 118
+    - 135
+    - 178
+  - - 44
+    - 70
+    - 138
+- image_filename: P8130006.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: 0160c3fffb080e0f
+  dhash: cfcf369a13d39838
+  phash: b966164bad126cbc
+  avg_rgb:
+  - 99
+  - 109
+  - 122
+  top5_rgb:
+  - - 68
+    - 92
+    - 146
+  - - 92
+    - 92
+    - 38
+  - - 93
+    - 100
+    - 31
+  - - 83
+    - 99
+    - 149
+  - - 70
+    - 94
+    - 149
+- image_filename: P8130008.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: 030fffffff8d0000
+  dhash: 7f7ef9cb5d195683
+  phash: b29e25baca658a56
+  avg_rgb:
+  - 94
+  - 109
+  - 126
+  top5_rgb:
+  - - 53
+    - 87
+    - 152
+  - - 83
+    - 109
+    - 173
+  - - 141
+    - 149
+    - 174
+  - - 130
+    - 130
+    - 63
+  - - 125
+    - 141
+    - 174
+- image_filename: P8130009.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: ffffcfc100000000
+  dhash: eb969f0f111f1dc9
+  phash: b0b1874e4ebeb113
+  avg_rgb:
+  - 132
+  - 142
+  - 136
+  top5_rgb:
+  - - 97
+    - 118
+    - 43
+  - - 76
+    - 90
+    - 102
+  - - 189
+    - 216
+    - 245
+  - - 43
+    - 42
+    - 50
+  - - 76
+    - 92
+    - 44
+- image_filename: P8130011.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: 0000437f7ec0dfc1
+  dhash: f55f848dd8181c13
+  phash: f0027f5f80b07c1f
+  avg_rgb:
+  - 83
+  - 96
+  - 106
+  top5_rgb:
+  - - 131
+    - 116
+    - 100
+  - - 99
+    - 118
+    - 155
+  - - 81
+    - 107
+    - 155
+  - - 97
+    - 98
+    - 37
+  - - 45
+    - 80
+    - 137
+- image_filename: P8130013.jpg
+  post_slug: 2018-08-13-opuszczenie-podlasia
+  ahash: 00dfdfb7121efc00
+  dhash: 3331386f667c8032
+  phash: 9eea61052ff31970
+  avg_rgb:
+  - 83
+  - 90
+  - 103
+  top5_rgb:
+  - - 80
+    - 83
+    - 88
+  - - 97
+    - 126
+    - 180
+  - - 51
+    - 82
+    - 142
+  - - 53
+    - 85
+    - 144
+  - - 124
+    - 111
+    - 87

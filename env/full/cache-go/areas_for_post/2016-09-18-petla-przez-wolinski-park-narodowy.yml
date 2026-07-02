@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 60740.89
+  total_distance_km: 60.741
+  points_count: 472
+  towns:
+    - slug: swinoujscie
+      name: Świnoujście
+      code: "3263011"
+      distance_meters: 34138.31
+      distance_km: 34.138
+      distance_percent: 56.2032
+    - slug: miedzyzdroje
+      name: Międzyzdroje
+      code: "3207043"
+      distance_meters: 19503.62
+      distance_km: 19.504
+      distance_percent: 32.1095
+    - slug: wolin
+      name: Wolin
+      code: "3207063"
+      distance_meters: 7098.97
+      distance_km: 7.099
+      distance_percent: 11.6873
+  counties:
+    - slug: swinoujscie
+      name: Świnoujście
+      code: "3263"
+      distance_meters: 34138.31
+      distance_km: 34.138
+      distance_percent: 56.2032
+    - slug: kamienski
+      name: kamieński
+      code: "3207"
+      distance_meters: 26602.58
+      distance_km: 26.603
+      distance_percent: 43.7968
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 60740.89
+      distance_km: 60.741
+      distance_percent: 100
+  meso_regions:
+    - slug: uznam_i_wolin
+      name: Uznam i Wolin
+      code: "313.21"
+      distance_meters: 60740.89
+      distance_km: 60.741
+      distance_percent: 100
+  macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"
+      distance_meters: 60740.89
+      distance_km: 60.741
+      distance_percent: 100
+  touched_towns:
+    - slug: miedzyzdroje
+      name: Międzyzdroje
+      code: "3207043"
+    - slug: swinoujscie
+      name: Świnoujście
+      code: "3263011"
+    - slug: wolin
+      name: Wolin
+      code: "3207063"
+  touched_counties:
+    - slug: kamienski
+      name: kamieński
+      code: "3207"
+    - slug: swinoujscie
+      name: Świnoujście
+      code: "3263"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: uznam_i_wolin
+      name: Uznam i Wolin
+      code: "313.21"
+  touched_macro_regions:
+    - slug: pobrzeze_szczecinskie
+      name: Pobrzeże Szczecińskie
+      code: "313"

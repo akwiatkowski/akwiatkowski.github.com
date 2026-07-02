@@ -1,0 +1,144 @@
+- slug: dolnoslaskie
+  name: dolnośląskie
+  code: "02"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.09657882500005
+    north: 51.804753650000066
+    west: 14.819560486000057
+    east: 17.79526917000004
+- slug: kujawsko-pomorskie
+  name: kujawsko-pomorskie
+  code: "04"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.332092990000035
+    north: 53.78107503600006
+    west: 17.247740348000036
+    east: 19.761595214000067
+- slug: lubelskie
+  name: lubelskie
+  code: "06"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.25182878100003
+    north: 52.287841409000066
+    west: 21.615542532000063
+    east: 24.145036436000055
+- slug: lubuskie
+  name: lubuskie
+  code: "08"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.36374456500005
+    north: 53.12114627200003
+    west: 14.534579787000041
+    east: 16.416190834000076
+- slug: lodzkie
+  name: łódzkie
+  code: "10"
+  voivodeship: lodzkie
+  bbox:
+    south: 50.843277398000055
+    north: 52.39393435900007
+    west: 18.074521495000056
+    east: 20.659258254000065
+- slug: malopolskie
+  name: małopolskie
+  code: "12"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.17876422200004
+    north: 50.51976914100004
+    west: 19.093209873000035
+    east: 21.42092883500004
+- slug: mazowieckie
+  name: mazowieckie
+  code: "14"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.013112301000035
+    north: 53.480947987000036
+    west: 19.259214418000056
+    east: 23.12840894200008
+- slug: opolskie
+  name: opolskie
+  code: "16"
+  voivodeship: opolskie
+  bbox:
+    south: 49.97248528200004
+    north: 51.19414634900005
+    west: 16.90790288200003
+    east: 18.695486740000035
+- slug: podkarpackie
+  name: podkarpackie
+  code: "18"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.00250538000006
+    north: 50.818563374000064
+    west: 21.14211164900007
+    east: 23.547882552000033
+- slug: podlaskie
+  name: podlaskie
+  code: "20"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.27997028200008
+    north: 54.41040285500003
+    west: 21.603625656000077
+    east: 23.946270238000068
+- slug: pomorskie
+  name: pomorskie
+  code: "22"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.49096427100005
+    north: 54.83641666700004
+    west: 16.699086545000057
+    east: 19.648735518000024
+- slug: slaskie
+  name: śląskie
+  code: "24"
+  voivodeship: slaskie
+  bbox:
+    south: 49.39397630600007
+    north: 51.09822103800008
+    west: 18.035038262000057
+    east: 19.963978162000046
+- slug: swietokrzyskie
+  name: świętokrzyskie
+  code: "26"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.18603047800008
+    north: 51.33940503700006
+    west: 19.704303518000074
+    east: 21.866513201000032
+- slug: warminsko-mazurskie
+  name: warmińsko-mazurskie
+  code: "28"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.139118308000036
+    north: 54.45326669200006
+    west: 19.129276454000035
+    east: 22.806144854000024
+- slug: wielkopolskie
+  name: wielkopolskie
+  code: "30"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.105357077000065
+    north: 53.65586893200003
+    west: 15.776346211000032
+    east: 19.102428099000065
+- slug: zachodniopomorskie
+  name: zachodniopomorskie
+  code: "32"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 52.62468932500008
+    north: 54.56924724700008
+    west: 14.123678877000032
+    east: 16.982053498000028

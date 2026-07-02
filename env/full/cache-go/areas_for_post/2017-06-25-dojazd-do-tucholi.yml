@@ -1,0 +1,96 @@
+---
+- type: bicycle
+  total_distance_meters: 38970.06
+  total_distance_km: 38.97
+  points_count: 267
+  towns:
+    - slug: sepolno_krajenskie
+      name: Sępólno Krajeńskie
+      code: "0413023"
+      distance_meters: 20537.95
+      distance_km: 20.538
+      distance_percent: 52.7019
+    - slug: tuchola
+      name: Tuchola
+      code: "0416063"
+      distance_meters: 7502.48
+      distance_km: 7.502
+      distance_percent: 19.2519
+    - slug: kesowo
+      name: Kęsowo
+      code: "0416032"
+      distance_meters: 6583.68
+      distance_km: 6.584
+      distance_percent: 16.8942
+    - slug: gostycyn
+      name: Gostycyn
+      code: "0416022"
+      distance_meters: 4345.96
+      distance_km: 4.346
+      distance_percent: 11.152
+  counties:
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+      distance_meters: 20537.95
+      distance_km: 20.538
+      distance_percent: 52.7019
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+      distance_meters: 18432.11
+      distance_km: 18.432
+      distance_percent: 47.2981
+  voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 38970.06
+      distance_km: 38.97
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+      distance_meters: 38970.06
+      distance_km: 38.97
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 38970.06
+      distance_km: 38.97
+      distance_percent: 100
+  touched_towns:
+    - slug: gostycyn
+      name: Gostycyn
+      code: "0416022"
+    - slug: kesowo
+      name: Kęsowo
+      code: "0416032"
+    - slug: sepolno_krajenskie
+      name: Sępólno Krajeńskie
+      code: "0413023"
+    - slug: tuchola
+      name: Tuchola
+      code: "0416063"
+  touched_counties:
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+  touched_meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316

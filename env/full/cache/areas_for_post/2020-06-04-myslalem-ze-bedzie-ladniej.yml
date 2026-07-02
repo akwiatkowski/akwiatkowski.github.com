@@ -10,7 +10,7 @@
     distance_meters: 12821.49
     distance_km: 12.821
     distance_percent: 16.4066
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
     distance_meters: 11849.56
@@ -34,7 +34,7 @@
     distance_meters: 9398.84
     distance_km: 9.399
     distance_percent: 12.0269
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
     distance_meters: 6135.92
@@ -46,26 +46,26 @@
     distance_meters: 5773.48
     distance_km: 5.773
     distance_percent: 7.3879
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-miejska
     name: Brodnica
     code: "0402011"
     distance_meters: 5703.3
     distance_km: 5.703
     distance_percent: 7.298
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
     name: Golub-Dobrzyń
     code: "0405011"
     distance_meters: 5262.46
     distance_km: 5.262
     distance_percent: 6.7339
-  - slug: osiek
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
     distance_meters: 4211.2
     distance_km: 4.211
     distance_percent: 5.3887
   counties:
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
     distance_meters: 30444.53
@@ -96,7 +96,7 @@
     distance_km: 10.703
     distance_percent: 13.696
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 78148.3
@@ -134,13 +134,13 @@
     distance_km: 1.476
     distance_percent: 1.8893
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 67794.5
     distance_km: 67.794
     distance_percent: 86.7511
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 10353.8
@@ -177,21 +177,27 @@
   - slug: ciechocin
     name: Ciechocin
     code: "0405022"
-  - slug: golubdobrzyn
+  - slug: golub-dobrzyn-kujawsko-pomorskie-wiejska
     name: Golub-Dobrzyń
     code: "0405032"
+  - slug: golub-dobrzyn-kujawsko-pomorskie-miejska
+    name: Golub-Dobrzyń
+    code: "0405011"
   - slug: radomin
     name: Radomin
     code: "0405052"
   - slug: wapielsk
     name: Wąpielsk
     code: "0412062"
-  - slug: osiek
+  - slug: osiek-kujawsko-pomorskie
     name: Osiek
     code: 0402082
-  - slug: brodnica
+  - slug: brodnica-kujawsko-pomorskie-wiejska
     name: Brodnica
     code: "0402032"
+  - slug: brodnica-kujawsko-pomorskie-miejska
+    name: Brodnica
+    code: "0402011"
   touched_counties:
   - slug: torunski
     name: toruński
@@ -199,7 +205,7 @@
   - slug: torun
     name: Toruń
     code: "0463"
-  - slug: golubskodobrzynski
+  - slug: golubsko-dobrzynski
     name: golubsko-dobrzyński
     code: "0405"
   - slug: rypinski
@@ -209,7 +215,7 @@
     name: brodnicki
     code: "0402"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -229,10 +235,10 @@
     name: Pojezierze Brodnickie
     code: "315.12"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

@@ -1,0 +1,27 @@
+package components
+
+// PostCardData holds data needed to render a post preview card.
+type PostCardData struct {
+	URL      string
+	Title    string
+	Subtitle string
+	Photo    *PhotoCardData
+	Stats    *PostStatsData
+}
+
+templ PostCard(card PostCardData) {
+	<a href={ templ.SafeURL(card.URL) } class="post-card">
+		if card.Photo != nil {
+			@PhotoCard(*card.Photo)
+		}
+		<div class="post-card-body">
+			<h3>{ card.Title }</h3>
+			if card.Subtitle != "" {
+				<p class="subtitle">{ card.Subtitle }</p>
+			}
+			if card.Stats != nil {
+				@PostStats(*card.Stats)
+			}
+		</div>
+	</a>
+}

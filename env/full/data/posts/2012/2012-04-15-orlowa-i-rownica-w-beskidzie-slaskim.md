@@ -5,6 +5,7 @@ subtitle:               "trochę szaro i depresyjnie"
 desc:                   "Przedwiosenny krótki wyjazd do Beskidu Śląskiego podczas mało optymistycznej pogody. Krótki spacer na Orłową i Równicę."
 keywords:               [ustroń, mgła, szaro, smutno, depresyjnie, wisła]
 date:                   2012-04-15 20:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

@@ -1,0 +1,76 @@
+---
+- image_filename: IMGP0279raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  ahash: fefefe0000000000
+  dhash: 2cf89c7c92b8f0c0
+  phash: d6d6d6292d14b4d8
+  avg_rgb:
+  - 91
+  - 107
+  - 112
+  top5_rgb:
+  - - 45
+    - 60
+    - 24
+  - - 59
+    - 76
+    - 80
+  - - 24
+    - 52
+    - 67
+  - - 67
+    - 82
+    - 100
+  - - 27
+    - 56
+    - 74
+- image_filename: IMGP0338raw1.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  ahash: 0048ff6e0c18f8ff
+  dhash: 589b87ccd9d390e9
+  phash: 9926ec1987f52cca
+  avg_rgb:
+  - 47
+  - 100
+  - 106
+  top5_rgb:
+  - - 50
+    - 131
+    - 196
+  - - 1
+    - 101
+    - 190
+  - - 108
+    - 144
+    - 31
+  - - 2
+    - 79
+    - 174
+  - - 34
+    - 124
+    - 198
+- image_filename: header.jpg
+  post_slug: 2015-06-04-okolice-harrachowa-i-wielkiej-mumlawy
+  ahash: e0e0e87636f7fe80
+  dhash: 934249cc662db52c
+  phash: c66379a435d81b4d
+  avg_rgb:
+  - 93
+  - 91
+  - 81
+  top5_rgb:
+  - - 79
+    - 69
+    - 19
+  - - 35
+    - 37
+    - 22
+  - - 48
+    - 52
+    - 55
+  - - 41
+    - 46
+    - 35
+  - - 76
+    - 69
+    - 44

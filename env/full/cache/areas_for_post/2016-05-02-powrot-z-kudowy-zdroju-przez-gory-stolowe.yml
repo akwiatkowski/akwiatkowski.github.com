@@ -4,7 +4,7 @@
   total_distance_km: 5.339
   points_count: 44.0
   towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 5339.0
@@ -60,7 +60,7 @@
     distance_km: 5.339
     distance_percent: 100.0
   touched_towns:
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
   touched_counties:
@@ -102,19 +102,19 @@
     distance_meters: 13266.12
     distance_km: 13.266
     distance_percent: 32.5005
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
     distance_meters: 12789.81
     distance_km: 12.79
     distance_percent: 31.3336
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
     distance_meters: 9929.59
     distance_km: 9.93
     distance_percent: 24.3264
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
     distance_meters: 4195.72
@@ -188,7 +188,7 @@
     distance_km: 40.818
     distance_percent: 100.0
   touched_towns:
-  - slug: kudowazdroj
+  - slug: kudowa-zdroj
     name: Kudowa-Zdrój
     code: 0208031
   - slug: lewin_klodzki
@@ -197,10 +197,10 @@
   - slug: szczytna
     name: Szczytna
     code: 0208143
-  - slug: radkow
+  - slug: radkow-dolnoslaskie
     name: Radków
     code: 0208123
-  - slug: klodzko
+  - slug: klodzko-dolnoslaskie-wiejska
     name: Kłodzko
     code: 0208072
   touched_counties:

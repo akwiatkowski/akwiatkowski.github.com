@@ -5,6 +5,7 @@ subtitle:               "pierwszy własny wypad w 'góry'"
 desc:                   "Mój pierwszy wyjazd w góry. Wybrałem bazę w Porębie Wielkiej jako klimatyczną miejscowość tuż przy Gorcach. Pomimo braku przygotowania udało nam się trafić na idealnie wiosenne warunki pierwszego i trzeciego dnia"
 keywords:               [poręba wielka, koninki, poręba górna, owce, wiosna]
 date:                   2011-05-03 21:00:00
+finished_at:            2011-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 35%

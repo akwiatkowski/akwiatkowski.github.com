@@ -435,6 +435,9 @@
   time: 2017-05-02 10:38:03.000000000+02:00
 - image_filename: header2.jpg
   post_slug: 2017-05-02-pociagiem-pierscien-i-granica
+  lat: 51.14006388888889
+  lon: 15.00228888888889
+  altitude: 215.0
   focal_length: 105.0
   focal_length_35: 157.0
   crop: 1.4952380952380953

@@ -1,0 +1,1345 @@
+---
+- image_filename: 2019_06_15__13_07__6156428.jpg
+  post_slug: 2019-06-15-okolice-promna
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4161
+  height: 3062
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T13:07:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+- image_filename: 2019_06_15__13_19__6156491.jpg
+  post_slug: 2019-06-15-okolice-promna
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4797
+  height: 3470
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T13:19:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+- image_filename: 2019_06_15__16_58__6156532.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.469833333333334
+  lon: 17.21026388888889
+  altitude: 118
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T16:58:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_01__6156537.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.468291666666666
+  lon: 17.209013888888887
+  altitude: 119
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:01:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_05__6156544.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.467263888888894
+  lon: 17.207819444444443
+  altitude: 67
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:05:21+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_12__6156552.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46355555555556
+  lon: 17.20520833333333
+  altitude: 72
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:12:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_13__6156554.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46354166666667
+  lon: 17.205166666666667
+  altitude: 72
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:13:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_13__6156557.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.463486111111116
+  lon: 17.205055555555553
+  altitude: 73
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5240
+  height: 3760
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:13:44+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_15__6156560.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46279166666667
+  lon: 17.204916666666666
+  altitude: 75
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4795
+  height: 3519
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:15:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_16__6156568.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46279166666667
+  lon: 17.204944444444443
+  altitude: 75
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 400
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:16:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_17__6156580.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462763888888894
+  lon: 17.204916666666666
+  altitude: 76
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:17:40+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_17__6156585.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46275
+  lon: 17.204916666666666
+  altitude: 76
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 500
+  width: 4925
+  height: 3690
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:17:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_18__6156592.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46273611111111
+  lon: 17.204916666666666
+  altitude: 76
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4.5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:18:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_19__6156599.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46273611111111
+  lon: 17.204916666666666
+  altitude: 77
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 320
+  width: 4314
+  height: 3236
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:19:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_20__6156607.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462702540026484
+  lon: 17.204983206448723
+  altitude: 78
+  focal_length: 155
+  focal_length_35: 310
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:20:39+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+- image_filename: 2019_06_15__17_20__6156609.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462694444444445
+  lon: 17.20497222222222
+  altitude: 78
+  focal_length: 170
+  focal_length_35: 340
+  crop: 2
+  aperture: 4
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 500
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:20:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_21__6156619.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46270833333334
+  lon: 17.20488888888889
+  altitude: 78
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 500
+  width: 5126
+  height: 3759
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:21:33+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_23_DSC06814.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462722222222226
+  lon: 17.20490277777778
+  altitude: 78
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:23:33+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_23__6156659.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462722222222226
+  lon: 17.20490277777778
+  altitude: 78
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:23:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_24_DSC06816.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46275
+  lon: 17.204930555555556
+  altitude: 78
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:24:03+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_26__6156666.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46268055555556
+  lon: 17.204944444444443
+  altitude: 79
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 320
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:26:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_27__6156677.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.46270833333334
+  lon: 17.20490277777778
+  altitude: 80
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 2.8
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 320
+  width: 3912
+  height: 5240
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:27:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_28__6156685.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.462722222222226
+  lon: 17.204874999999998
+  altitude: 80
+  focal_length: 60
+  focal_length_35: 120
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 320
+  width: 4775
+  height: 3639
+  lens: OLYMPUS M.60mm F2.8 Macro
+  camera: E-M1MarkII
+  lens_name: M.60mm F2.8 Macro
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:28:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 60
+  lens_max_focal: 60
+  lens_min_fstop: 2.8
+  lens_max_fstop: 2.8
+  lens_spec_str: 60mm f/2.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_30__6156691.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.461666666666666
+  lon: 17.204444444444444
+  altitude: 81
+  focal_length: 15
+  focal_length_35: 30
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:30:38+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_36__6156700.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45776388888889
+  lon: 17.202569444444443
+  altitude: 80
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:36:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_37__6156703.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45755555555556
+  lon: 17.202458333333333
+  altitude: 79
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 4
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:37:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_42__6156708.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45536111111112
+  lon: 17.201958333333334
+  altitude: 64
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:42:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_43_DSC06824.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.455444444444446
+  lon: 17.20198611111111
+  altitude: 64
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.001
+  exposure_string: 1/1000 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:43:06+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_44__6156721.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.455444444444446
+  lon: 17.201958333333334
+  altitude: 64
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 4
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:44:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_46__6156734.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45545833333333
+  lon: 17.201944444444443
+  altitude: 65
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:46:04+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_46__6156737.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45545833333333
+  lon: 17.201944444444443
+  altitude: 65
+  focal_length: 210
+  focal_length_35: 420
+  crop: 2
+  aperture: 5.6
+  exposure: 0.0125
+  exposure_string: 1/80 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: M.40-150mm F2.8 + MC-14
+  camera: E-M1MarkII
+  lens_name: M.40-150mm F2.8 + MC-14
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:46:08+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 56
+  lens_max_focal: 210
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 56-210mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_53__6156757.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45818055555556
+  lon: 17.202666666666666
+  altitude: 80
+  focal_length: 35
+  focal_length_35: 70
+  crop: 2
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:53:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_54_DSC06825.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45818055555556
+  lon: 17.202666666666666
+  altitude: 80
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:54:04+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_54_DSC06826.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45818055555556
+  lon: 17.20265277777778
+  altitude: 80
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:54:14+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_54_DSC06827.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45818055555556
+  lon: 17.20265277777778
+  altitude: 80
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:54:21+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_54_DSC06830.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.45816666666667
+  lon: 17.20265277777778
+  altitude: 80
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 1.8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:54:41+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_55__6156761.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.458597222222224
+  lon: 17.202791666666666
+  altitude: 82
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 6.3
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 640
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T17:55:50+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_59_DSC06833.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.460375000000006
+  lon: 17.203694444444444
+  altitude: 83
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 4.5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:59:02+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__17_59_DSC06835.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.460375000000006
+  lon: 17.203666666666667
+  altitude: 83
+  focal_length: 85
+  focal_length_35: 85
+  crop: 1
+  aperture: 4.5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 100
+  width: 7366
+  height: 4920
+  lens: FE 85mm F1.8
+  camera: ILCE-7R
+  lens_name: FE 85mm F1.8
+  camera_name: ILCE-7R
+  time: "2019-06-15T17:59:18+00:00"
+  make: SONY
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 85
+  lens_max_focal: 85
+  lens_min_fstop: 1.8
+  lens_max_fstop: 1.8
+  lens_spec_str: 85mm f/1.8
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__18_19__6156775.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.463680555555555
+  lon: 17.223694444444444
+  altitude: 79
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.07692307692307693
+  exposure_string: 1/13 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T18:19:55+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: 0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2019_06_15__18_30__6156779.jpg
+  post_slug: 2019-06-15-okolice-promna
+  lat: 52.467777777777776
+  lon: 17.226638888888886
+  altitude: 72
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 200
+  width: 5240
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2019-06-15T18:30:16+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.6.0
+  exposure_program: program
+  exposure_bias: -0.3
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

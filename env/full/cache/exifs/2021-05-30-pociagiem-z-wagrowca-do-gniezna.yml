@@ -360,6 +360,9 @@
   time: 2021-05-30 11:57:44.000000000+02:00
 - image_filename: 2021_05_30__13_14_DSC01578.jpg
   post_slug: 2021-05-30-pociagiem-z-wagrowca-do-gniezna
+  lat: 52.81061388888889
+  lon: 17.202355555555556
+  altitude: 27.4
   focal_length: 53.0
   focal_length_35: 53.0
   crop: 1.0
@@ -374,6 +377,9 @@
   time: 2021-05-30 13:14:38.000000000+02:00
 - image_filename: 2021_05_30__13_22_DSC01580.jpg
   post_slug: 2021-05-30-pociagiem-z-wagrowca-do-gniezna
+  lat: 52.81005277777778
+  lon: 17.20228611111111
+  altitude: 21.9
   focal_length: 32.0
   focal_length_35: 32.0
   crop: 1.0
@@ -1180,6 +1186,9 @@
   time: 2021-05-30 15:54:53.000000000+02:00
 - image_filename: 2021_05_30__18_36__5307853.jpg
   post_slug: 2021-05-30-pociagiem-z-wagrowca-do-gniezna
+  lat: 52.527902777777776
+  lon: 17.591005555555554
+  altitude: 110.9
   focal_length: 300.0
   focal_length_35: 600.0
   crop: 2.0

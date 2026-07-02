@@ -1,0 +1,31 @@
+# =============================================================================
+# COMPRESSION - Saves ~22 MB per visitor
+# =============================================================================
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE image/svg+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/atom+xml
+</IfModule>
+
+# =============================================================================
+# BLOCK HIDDEN AND BACKUP FILES
+# =============================================================================
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Block access to hidden files (except .well-known for SSL certificates)
+    RewriteCond %{REQUEST_URI} "!(^|/)\.well-known/([^./]+./)+" [NC]
+    RewriteCond %{SCRIPT_FILENAME} -d [OR]
+    RewriteCond %{SCRIPT_FILENAME} -f
+    RewriteRule "(^|/)\." - [F]
+</IfModule>
+
+# Block access to backup and source files
+<FilesMatch "(^#.*#|\.(bak|conf|dist|fla|in[ci]|log|orig|psd|sh|sql|sw[op])|~)$">
+    Require all denied
+</FilesMatch>

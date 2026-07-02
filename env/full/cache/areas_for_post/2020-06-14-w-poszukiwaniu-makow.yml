@@ -4,7 +4,7 @@
   total_distance_km: 8.731
   points_count: 59.0
   towns:
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 8731.0
@@ -60,7 +60,7 @@
     distance_km: 8.731
     distance_percent: 100.0
   touched_towns:
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   touched_counties:

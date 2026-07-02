@@ -16,7 +16,7 @@
     distance_meters: 3967.09
     distance_km: 3.967
     distance_percent: 29.4607
-  - slug: szczawnozdroj
+  - slug: szczawno-zdroj
     name: Szczawno-Zdrój
     code: "0221031"
     distance_meters: 3604.87
@@ -84,7 +84,7 @@
     distance_km: 13.466
     distance_percent: 100.0
   touched_towns:
-  - slug: szczawnozdroj
+  - slug: szczawno-zdroj
     name: Szczawno-Zdrój
     code: "0221031"
   - slug: stare_bogaczowice

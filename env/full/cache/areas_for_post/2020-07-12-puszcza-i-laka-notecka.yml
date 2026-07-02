@@ -11,7 +11,7 @@
     distance_km: 15.455
     distance_percent: 100.0
   counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 15454.98
@@ -50,7 +50,7 @@
     distance_meters: 11340.47
     distance_km: 11.34
     distance_percent: 73.3774
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 4114.51
@@ -82,7 +82,7 @@
     name: Drezdenko
     code: 0806023
   touched_counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
   touched_voivodeships:
@@ -100,7 +100,7 @@
     name: Pojezierze Dobiegniewskie
     code: "314.62"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie
@@ -142,13 +142,13 @@
     distance_km: 2.505
     distance_percent: 8.0754
   counties:
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 20778.53
     distance_km: 20.779
     distance_percent: 66.9847
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 10241.26
@@ -175,7 +175,7 @@
     distance_km: 31.02
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 31019.8
@@ -213,10 +213,10 @@
     name: Wieleń
     code: "3002083"
   touched_counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   touched_voivodeships:
@@ -231,7 +231,7 @@
     name: Kotlina Gorzowska
     code: "315.33"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:
@@ -270,7 +270,7 @@
     distance_km: 6.657
     distance_percent: 20.1971
   counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 32961.47
@@ -291,7 +291,7 @@
     distance_km: 32.961
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 32961.47
@@ -329,7 +329,7 @@
     name: Drezdenko
     code: 0806023
   touched_counties:
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
   touched_voivodeships:
@@ -341,7 +341,7 @@
     name: Kotlina Gorzowska
     code: "315.33"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

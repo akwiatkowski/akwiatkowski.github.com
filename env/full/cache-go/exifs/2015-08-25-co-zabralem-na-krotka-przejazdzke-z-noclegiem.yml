@@ -1,0 +1,23 @@
+---
+- image_filename: header.jpg
+  post_slug: 2015-08-25-co-zabralem-na-krotka-przejazdzke-z-noclegiem
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 80
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-08-22T19:47:08+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0

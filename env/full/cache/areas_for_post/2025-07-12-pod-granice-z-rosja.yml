@@ -4,7 +4,7 @@
   total_distance_km: 66.072
   points_count: 412.0
   towns:
-  - slug: gorowo_ilaweckie
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-wiejska
     name: Górowo Iławeckie
     code: "2801052"
     distance_meters: 30988.84
@@ -16,7 +16,7 @@
     distance_meters: 14937.55
     distance_km: 14.938
     distance_percent: 22.6078
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
     distance_meters: 12835.38
@@ -28,13 +28,13 @@
     distance_meters: 7310.72
     distance_km: 7.311
     distance_percent: 11.0647
-  - slug: gorowo_ilaweckie
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-miejska
     name: Górowo Iławeckie
     code: "2801021"
     distance_meters: 3064.06
     distance_km: 3.064
     distance_percent: 4.6374
-  - slug: bartoszyce
+  - slug: bartoszyce-warminsko-mazurskie-miejska
     name: Bartoszyce
     code: "2801011"
     distance_meters: 2257.75
@@ -54,7 +54,7 @@
     distance_km: 22.248
     distance_percent: 33.6725
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 66072.5
@@ -95,7 +95,7 @@
     distance_km: 66.072
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 66072.5
@@ -108,12 +108,18 @@
   - slug: lelkowo
     name: Lelkowo
     code: "2802042"
-  - slug: gorowo_ilaweckie
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-wiejska
     name: Górowo Iławeckie
     code: "2801052"
-  - slug: bartoszyce
+  - slug: gorowo_ilaweckie-warminsko-mazurskie-miejska
+    name: Górowo Iławeckie
+    code: "2801021"
+  - slug: bartoszyce-warminsko-mazurskie-wiejska
     name: Bartoszyce
     code: "2801032"
+  - slug: bartoszyce-warminsko-mazurskie-miejska
+    name: Bartoszyce
+    code: "2801011"
   touched_counties:
   - slug: braniewski
     name: braniewski
@@ -122,7 +128,7 @@
     name: bartoszycki
     code: "2801"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -145,6 +151,6 @@
     name: Pobrzeże Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

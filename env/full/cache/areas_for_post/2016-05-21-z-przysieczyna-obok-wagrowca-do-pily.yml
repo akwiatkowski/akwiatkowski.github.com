@@ -4,13 +4,13 @@
   total_distance_km: 71.864
   points_count: 273.0
   towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 19547.22
     distance_km: 19.547
     distance_percent: 27.2003
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
     distance_meters: 15187.18
@@ -40,13 +40,13 @@
     distance_meters: 4227.27
     distance_km: 4.227
     distance_percent: 5.8823
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 3598.86
     distance_km: 3.599
     distance_percent: 5.0079
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-miejska
     name: Chodzież
     code: "3001011"
     distance_meters: 3532.26
@@ -116,7 +116,7 @@
     distance_meters: 40243.62
     distance_km: 40.244
     distance_percent: 55.9997
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 19264.68
@@ -150,9 +150,12 @@
     distance_km: 71.864
     distance_percent: 100.0
   touched_towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
+  - slug: wagrowiec-wielkopolskie-miejska
+    name: Wągrowiec
+    code: "3028011"
   - slug: budzyn
     name: Budzyń
     code: "3001022"
@@ -162,9 +165,12 @@
   - slug: szamocin
     name: Szamocin
     code: "3001053"
-  - slug: chodziez
+  - slug: chodziez-wielkopolskie-wiejska
     name: Chodzież
     code: "3001032"
+  - slug: chodziez-wielkopolskie-miejska
+    name: Chodzież
+    code: "3001011"
   - slug: kaczory
     name: Kaczory
     code: "3019032"
@@ -202,7 +208,7 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie

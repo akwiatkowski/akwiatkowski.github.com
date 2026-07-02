@@ -10,7 +10,7 @@
     distance_meters: 14942.86
     distance_km: 14.943
     distance_percent: 20.1461
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
     distance_meters: 12542.1
@@ -34,7 +34,7 @@
     distance_meters: 8880.67
     distance_km: 8.881
     distance_percent: 11.973
-  - slug: dabrowa
+  - slug: dabrowa-kujawsko-pomorskie
     name: Dąbrowa
     code: 0409012
     distance_meters: 7909.79
@@ -84,7 +84,7 @@
     distance_km: 4.173
     distance_percent: 5.6254
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 50055.19
@@ -103,7 +103,7 @@
     distance_meters: 46561.52
     distance_km: 46.562
     distance_percent: 62.7748
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 25199.36
@@ -156,13 +156,13 @@
   - slug: janowiec_wielkopolski
     name: Janowiec Wielkopolski
     code: 0419033
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
   - slug: gasawa
     name: Gąsawa
     code: 0419022
-  - slug: dabrowa
+  - slug: dabrowa-kujawsko-pomorskie
     name: Dąbrowa
     code: 0409012
   - slug: janikowo
@@ -188,7 +188,7 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -198,7 +198,7 @@
   - slug: pojezierze_chodzieskie
     name: Pojezierze Chodzieskie
     code: "315.53"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

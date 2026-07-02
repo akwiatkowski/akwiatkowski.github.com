@@ -34,7 +34,7 @@
     distance_meters: 13189.25
     distance_km: 13.189
     distance_percent: 11.2153
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-wiejska
     name: Nowa Sól
     code: 0804052
     distance_meters: 12241.18
@@ -146,13 +146,13 @@
     distance_meters: 35126.96
     distance_km: 35.127
     distance_percent: 29.8697
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 27378.12
     distance_km: 27.378
     distance_percent: 23.2806
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 8937.98
@@ -195,7 +195,7 @@
   - slug: bojadla
     name: Bojadła
     code: 0809022
-  - slug: nowa_sol
+  - slug: nowa_sol-lubuskie-wiejska
     name: Nowa Sól
     code: 0804052
   - slug: slawa
@@ -253,10 +253,10 @@
     name: Wysoczyzna Leszczyńska
     code: "318.11"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_leszczynskie

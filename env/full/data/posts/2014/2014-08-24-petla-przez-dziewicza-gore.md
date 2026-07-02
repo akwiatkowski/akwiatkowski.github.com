@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pętla przez Dziewiczą Górę"
 subtitle:               "oraz poligon w Biedrusku"
 date:                   2014-08-24 20:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

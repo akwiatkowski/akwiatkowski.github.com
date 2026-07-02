@@ -4,7 +4,7 @@
   total_distance_km: 5.545
   points_count: 60.0
   towns:
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 3198.4
@@ -38,7 +38,7 @@
     distance_km: 5.545
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 5544.56
@@ -69,7 +69,7 @@
   - slug: oborniki
     name: Oborniki
     code: "3016013"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   touched_counties:
@@ -85,7 +85,7 @@
     name: Kotlina Gorzowska
     code: "315.33"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

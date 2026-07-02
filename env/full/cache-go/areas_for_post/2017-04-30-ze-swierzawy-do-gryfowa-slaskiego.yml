@@ -1,0 +1,150 @@
+---
+- type: bicycle
+  total_distance_meters: 69391.88
+  total_distance_km: 69.392
+  points_count: 667
+  towns:
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+      distance_meters: 29927.96
+      distance_km: 29.928
+      distance_percent: 43.1289
+    - slug: lubomierz
+      name: Lubomierz
+      code: "0212023"
+      distance_meters: 15047.54
+      distance_km: 15.048
+      distance_percent: 21.6849
+    - slug: wlen
+      name: Wleń
+      code: "0212053"
+      distance_meters: 14360.25
+      distance_km: 14.36
+      distance_percent: 20.6944
+    - slug: gryfow_slaski
+      name: Gryfów Śląski
+      code: "0212013"
+      distance_meters: 4681.85
+      distance_km: 4.682
+      distance_percent: 6.747
+    - slug: pielgrzymka
+      name: Pielgrzymka
+      code: "0226032"
+      distance_meters: 4615.27
+      distance_km: 4.615
+      distance_percent: 6.651
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+      distance_meters: 758.99
+      distance_km: 0.759
+      distance_percent: 1.0938
+  counties:
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+      distance_meters: 34543.23
+      distance_km: 34.543
+      distance_percent: 49.7799
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+      distance_meters: 34089.65
+      distance_km: 34.09
+      distance_percent: 49.1263
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 758.99
+      distance_km: 0.759
+      distance_percent: 1.0938
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 69391.88
+      distance_km: 69.392
+      distance_percent: 100
+  meso_regions:
+    - slug: pogorze_kaczawskie
+      name: Pogórze Kaczawskie
+      code: "332.27"
+      distance_meters: 38302.8
+      distance_km: 38.303
+      distance_percent: 55.1978
+    - slug: pogorze_izerskie
+      name: Pogórze Izerskie
+      code: "332.26"
+      distance_meters: 26589.04
+      distance_km: 26.589
+      distance_percent: 38.3172
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+      distance_meters: 4500.03
+      distance_km: 4.5
+      distance_percent: 6.4849
+  macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+      distance_meters: 64891.85
+      distance_km: 64.892
+      distance_percent: 93.5151
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 4500.03
+      distance_km: 4.5
+      distance_percent: 6.4849
+  touched_towns:
+    - slug: gryfow_slaski
+      name: Gryfów Śląski
+      code: "0212013"
+    - slug: jezow_sudecki
+      name: Jeżów Sudecki
+      code: "0206062"
+    - slug: lubomierz
+      name: Lubomierz
+      code: "0212023"
+    - slug: pielgrzymka
+      name: Pielgrzymka
+      code: "0226032"
+    - slug: swierzawa
+      name: Świerzawa
+      code: "0226043"
+    - slug: wlen
+      name: Wleń
+      code: "0212053"
+  touched_counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+    - slug: lwowecki
+      name: lwówecki
+      code: "0212"
+    - slug: zlotoryjski
+      name: złotoryjski
+      code: "0226"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kaczawskie
+      name: Góry Kaczawskie
+      code: "332.35"
+    - slug: pogorze_izerskie
+      name: Pogórze Izerskie
+      code: "332.26"
+    - slug: pogorze_kaczawskie
+      name: Pogórze Kaczawskie
+      code: "332.27"
+  touched_macro_regions:
+    - slug: pogorze_zachodniosudeckie
+      name: Pogórze Zachodniosudeckie
+      code: "332"
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

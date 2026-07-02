@@ -19,6 +19,7 @@ map_zooms:              14
 distance:               9
 time_spent:             5
 elevation:              100
+terrain:                11.1 # m/km przewyższeń — pofalowany
 pois:
 
 strava: 1247411452

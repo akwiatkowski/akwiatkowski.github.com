@@ -16,7 +16,7 @@
     distance_meters: 15704.57
     distance_km: 15.705
     distance_percent: 38.6728
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
     distance_meters: 6003.91
@@ -42,7 +42,7 @@
     distance_km: 6.004
     distance_percent: 14.7847
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 21708.48
@@ -61,7 +61,7 @@
     distance_meters: 26701.2
     distance_km: 26.701
     distance_percent: 65.7522
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 13907.62
@@ -102,7 +102,7 @@
   - slug: trzemeszno
     name: Trzemeszno
     code: "3003093"
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
   touched_counties:
@@ -116,14 +116,14 @@
     name: żniński
     code: 0419
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
   touched_meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   - slug: pojezierze_gnieznienskie

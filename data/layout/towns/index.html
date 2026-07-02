@@ -1,0 +1,269 @@
+<style>
+    /* ==================== CUSTOM PROPERTIES ==================== */
+    :root {
+        --ti-card-gap: 4px;
+        --ti-card-radius: 6px;
+    }
+
+    /* ==================== HERO SECTION ==================== */
+    .towns-hero {
+        position: relative;
+        height: 50vh;
+        min-height: 320px;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .towns-hero-overlay {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+            to bottom,
+            rgba(0,0,0,0.3) 0%,
+            rgba(0,0,0,0.55) 100%
+        );
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: var(--space-24);
+    }
+
+    .towns-hero-overlay h1 {
+        color: white;
+        font-size: clamp(2rem, 6vw, 3.5rem);
+        font-weight: var(--font-weight-bold);
+        margin-bottom: var(--space-8);
+        text-shadow: 0 2px 16px rgba(0,0,0,0.4);
+    }
+
+    .towns-hero-overlay p {
+        color: rgba(255,255,255,0.85);
+        font-size: var(--font-size-lg);
+        margin: 0;
+        text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+    }
+
+    /* ==================== SEARCH BAR ==================== */
+    .towns-search-wrap {
+        max-width: 600px;
+        margin: -28px auto 0;
+        position: relative;
+        z-index: 10;
+        padding: 0 var(--space-16);
+    }
+
+    .towns-search {
+        width: 100%;
+        padding: var(--space-16) var(--space-24);
+        border: 1px solid var(--color-card-border);
+        border-radius: var(--radius-full);
+        font-size: var(--font-size-base);
+        background: var(--color-surface);
+        color: var(--color-text);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        outline: none;
+        transition: border-color var(--duration-fast), box-shadow var(--duration-fast);
+        text-align: center;
+    }
+
+    .towns-search:focus {
+        border-color: var(--color-primary);
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1), 0 0 0 3px rgba(var(--color-teal-500-rgb), 0.2);
+    }
+
+    .towns-search-count {
+        text-align: center;
+        margin-top: var(--space-12);
+        font-size: var(--font-size-sm);
+        color: var(--color-text-secondary);
+    }
+
+    /* ==================== VOIVODESHIP GROUP ==================== */
+    .towns-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 40px var(--space-16);
+    }
+
+    .voivodeship-group {
+        margin-bottom: 48px;
+    }
+
+    .voivodeship-header {
+        display: flex;
+        align-items: baseline;
+        gap: var(--space-12);
+        margin-bottom: var(--space-16);
+        padding-bottom: var(--space-8);
+        border-bottom: 2px solid var(--color-primary);
+    }
+
+    .voivodeship-name {
+        font-size: var(--font-size-xl);
+        font-weight: var(--font-weight-semibold);
+        color: var(--color-text);
+        text-decoration: none;
+    }
+
+    .voivodeship-name:hover {
+        color: var(--color-primary);
+        text-decoration: none;
+    }
+
+    .voivodeship-count {
+        font-size: var(--font-size-sm);
+        color: var(--color-text-secondary);
+    }
+
+    /* ==================== TOWN CARD GRID ==================== */
+    .towns-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: var(--ti-card-gap);
+    }
+
+    .town-card {
+        position: relative;
+        aspect-ratio: 4/3;
+        border-radius: var(--ti-card-radius);
+        overflow: hidden;
+        background: var(--color-charcoal-700);
+        text-decoration: none;
+        color: white;
+        display: block;
+    }
+
+    .town-card-bg {
+        position: absolute;
+        inset: 0;
+        background-size: cover;
+        background-position: center;
+        transition: transform 0.4s ease;
+    }
+
+    .town-card:hover .town-card-bg {
+        transform: scale(1.08);
+    }
+
+    .town-card-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: var(--space-8) var(--space-12);
+        background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, transparent 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        min-height: 50%;
+    }
+
+    .town-card-name {
+        font-size: var(--font-size-sm);
+        font-weight: var(--font-weight-semibold);
+        line-height: var(--line-height-tight);
+        text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+    }
+
+    .town-card-meta {
+        font-size: 11px;
+        opacity: 0.8;
+        margin-top: 2px;
+    }
+
+    .town-card-badge {
+        position: absolute;
+        top: var(--space-6);
+        right: var(--space-6);
+        background: var(--color-primary);
+        color: white;
+        font-size: 11px;
+        font-weight: var(--font-weight-semibold);
+        padding: 2px 7px;
+        border-radius: var(--radius-full);
+        text-shadow: none;
+    }
+
+    /* No-photo fallback */
+    .town-card-nophoto {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: var(--font-size-sm);
+        color: var(--color-gray-400);
+        text-align: center;
+        padding: var(--space-8);
+    }
+
+    /* ==================== NO RESULTS ==================== */
+    .towns-no-results {
+        text-align: center;
+        padding: 60px var(--space-24);
+        color: var(--color-text-secondary);
+        font-size: var(--font-size-lg);
+    }
+
+    /* ==================== DARK MODE ==================== */
+    @media (prefers-color-scheme: dark) {
+        .towns-search {
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+    }
+
+    /* ==================== RESPONSIVE ==================== */
+    @media (max-width: 768px) {
+        .towns-grid {
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        }
+
+        .towns-container {
+            padding: 32px var(--space-8);
+        }
+    }
+
+    @media (max-width: 480px) {
+        .towns-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    /* ==================== NAVBAR OVERRIDE ==================== */
+    .navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        background: rgba(var(--color-slate-900-rgb), 0.9) !important;
+        backdrop-filter: blur(10px);
+    }
+
+    .navbar-light .navbar-nav .nav-link,
+    .navbar-light .navbar-brand {
+        color: var(--color-gray-200) !important;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        filter: invert(1);
+    }
+</style>
+
+<div class="towns-hero" style="background-image: url('{{ image_url }}')">
+    <div class="towns-hero-overlay">
+        <h1>{{ title }}</h1>
+        <p>{{ subtitle }}</p>
+    </div>
+</div>
+
+<div id="towns-app"></div>
+
+<script id="towns-data" type="application/json">{{ towns_data_json }}</script>
+<script>
+    var townsPageData = JSON.parse(document.getElementById('towns-data').textContent);
+    TownsIndex.init(townsPageData);
+</script>

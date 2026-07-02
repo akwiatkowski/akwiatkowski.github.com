@@ -1,1 +1,10 @@
-<a class="btn btn-primary" href="{{ post.url }}" data-toggle="tooltip" data-placement="top" title="{{ post.title }}">Następny &rarr;</a>
+<a href="{{ post.url }}" class="post-pager post-pager-next">
+  <div class="post-pager-text">
+    <span class="post-pager-label">Następny &rarr;</span>
+    <span class="post-pager-title">{{ post.title }}</span>
+  </div>
+  <picture>
+    <source type="image/avif" srcset="{{ post.image.avif }}">
+    <img src="{{ post.image }}" alt="" loading="lazy">
+  </picture>
+</a>

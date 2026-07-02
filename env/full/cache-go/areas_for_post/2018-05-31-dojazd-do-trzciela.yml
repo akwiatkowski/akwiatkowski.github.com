@@ -1,0 +1,108 @@
+---
+- type: bicycle
+  total_distance_meters: 14411.54
+  total_distance_km: 14.412
+  points_count: 73
+  towns:
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+      distance_meters: 10208.04
+      distance_km: 10.208
+      distance_percent: 70.8324
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+      distance_meters: 3438.64
+      distance_km: 3.439
+      distance_percent: 23.8603
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+      distance_meters: 596.17
+      distance_km: 0.596
+      distance_percent: 4.1368
+    - slug: zbaszynek
+      name: Zbąszynek
+      code: "0808063"
+      distance_meters: 168.68
+      distance_km: 0.169
+      distance_percent: 1.1705
+  counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+      distance_meters: 10208.04
+      distance_km: 10.208
+      distance_percent: 70.8324
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 4034.81
+      distance_km: 4.035
+      distance_percent: 27.9971
+    - slug: swiebodzinski
+      name: świebodziński
+      code: "0808"
+      distance_meters: 168.68
+      distance_km: 0.169
+      distance_percent: 1.1705
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 10376.72
+      distance_km: 10.377
+      distance_percent: 72.0029
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 4034.81
+      distance_km: 4.035
+      distance_percent: 27.9971
+  meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+      distance_meters: 14411.54
+      distance_km: 14.412
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 14411.54
+      distance_km: 14.412
+      distance_percent: 100
+  touched_towns:
+    - slug: miedzichowo
+      name: Miedzichowo
+      code: "3015032"
+    - slug: trzciel
+      name: Trzciel
+      code: "0803063"
+    - slug: zbaszyn
+      name: Zbąszyń
+      code: "3015063"
+  touched_counties:
+    - slug: miedzyrzecki
+      name: międzyrzecki
+      code: "0803"
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: bruzda_zbaszynska
+      name: Bruzda Zbąszyńska
+      code: "315.44"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316

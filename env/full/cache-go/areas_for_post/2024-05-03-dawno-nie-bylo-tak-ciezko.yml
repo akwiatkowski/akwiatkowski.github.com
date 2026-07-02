@@ -1,0 +1,210 @@
+---
+- type: bicycle
+  total_distance_meters: 86361.17
+  total_distance_km: 86.361
+  points_count: 330
+  towns:
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+      distance_meters: 15061.24
+      distance_km: 15.061
+      distance_percent: 17.4398
+    - slug: lipka
+      name: Lipka
+      code: "3031042"
+      distance_meters: 14831.34
+      distance_km: 14.831
+      distance_percent: 17.1736
+    - slug: zlotow
+      name: Złotów
+      code: "3031082"
+      distance_meters: 14804.84
+      distance_km: 14.805
+      distance_percent: 17.1429
+    - slug: tuchola
+      name: Tuchola
+      code: "0416063"
+      distance_meters: 9261.07
+      distance_km: 9.261
+      distance_percent: 10.7237
+    - slug: debrzno
+      name: Debrzno
+      code: "2203043"
+      distance_meters: 8644.38
+      distance_km: 8.644
+      distance_percent: 10.0096
+    - slug: czluchow
+      name: Człuchów
+      code: "2203032"
+      distance_meters: 8220.27
+      distance_km: 8.22
+      distance_percent: 9.5185
+    - slug: kamien_krajenski
+      name: Kamień Krajeński
+      code: "0413013"
+      distance_meters: 7470.54
+      distance_km: 7.471
+      distance_percent: 8.6503
+    - slug: jastrowie
+      name: Jastrowie
+      code: "3031023"
+      distance_meters: 5709.33
+      distance_km: 5.709
+      distance_percent: 6.611
+    - slug: kesowo
+      name: Kęsowo
+      code: "0416032"
+      distance_meters: 2223.46
+      distance_km: 2.223
+      distance_percent: 2.5746
+    - slug: tarnowka
+      name: Tarnówka
+      code: "3031062"
+      distance_meters: 134.7
+      distance_km: 0.135
+      distance_percent: 0.156
+  counties:
+    - slug: zlotowski
+      name: złotowski
+      code: "3031"
+      distance_meters: 35480.21
+      distance_km: 35.48
+      distance_percent: 41.0835
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+      distance_meters: 16864.65
+      distance_km: 16.865
+      distance_percent: 19.528
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+      distance_meters: 15061.24
+      distance_km: 15.061
+      distance_percent: 17.4398
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+      distance_meters: 11484.53
+      distance_km: 11.485
+      distance_percent: 13.2983
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+      distance_meters: 7470.54
+      distance_km: 7.471
+      distance_percent: 8.6503
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 35480.21
+      distance_km: 35.48
+      distance_percent: 41.0835
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 31925.89
+      distance_km: 31.926
+      distance_percent: 36.9679
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+      distance_meters: 18955.06
+      distance_km: 18.955
+      distance_percent: 21.9486
+  meso_regions:
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+      distance_meters: 50909.69
+      distance_km: 50.91
+      distance_percent: 58.9497
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+      distance_meters: 26927.64
+      distance_km: 26.928
+      distance_percent: 31.1803
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+      distance_meters: 8523.84
+      distance_km: 8.524
+      distance_percent: 9.87
+  macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316
+      distance_meters: 86361.17
+      distance_km: 86.361
+      distance_percent: 100
+  touched_towns:
+    - slug: chojnice
+      name: Chojnice
+      code: "2202032"
+    - slug: czluchow
+      name: Człuchów
+      code: "2203032"
+    - slug: debrzno
+      name: Debrzno
+      code: "2203043"
+    - slug: jastrowie
+      name: Jastrowie
+      code: "3031023"
+    - slug: kamien_krajenski
+      name: Kamień Krajeński
+      code: "0413013"
+    - slug: kesowo
+      name: Kęsowo
+      code: "0416032"
+    - slug: lipka
+      name: Lipka
+      code: "3031042"
+    - slug: tuchola
+      name: Tuchola
+      code: "0416063"
+    - slug: zlotow
+      name: Złotów
+      code: "3031082"
+  touched_counties:
+    - slug: chojnicki
+      name: chojnicki
+      code: "2202"
+    - slug: czluchowski
+      name: człuchowski
+      code: "2203"
+    - slug: sepolenski
+      name: sępoleński
+      code: "0413"
+    - slug: tucholski
+      name: tucholski
+      code: "0416"
+    - slug: zlotowski
+      name: złotowski
+      code: "3031"
+  touched_voivodeships:
+    - slug: kujawsko-pomorskie
+      name: kujawsko-pomorskie
+      code: "04"
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_gwdy
+      name: Dolina Gwdy
+      code: "314.68"
+    - slug: pojezierze_polnocnokrajenskie
+      name: Pojezierze Północnokrajeńskie
+      code: "314.69"
+    - slug: pojezierze_poludniowokrajenskie
+      name: Pojezierze Południowokrajeńskie
+      code: "314.74"
+  touched_macro_regions:
+    - slug: pojezierze_poludniowopomorskie
+      name: Pojezierze Południowopomorskie
+      code: 314-316

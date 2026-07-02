@@ -1,0 +1,776 @@
+---
+- image_filename: 2023_03_10__17_23_DJI_0870.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 00ffff0008000000
+  dhash: e0a0c0e0f0e039d9
+  phash: c1c57a3c2b2b83b9
+  avg_rgb:
+  - 92
+  - 80
+  - 57
+  top5_rgb:
+  - - 255
+    - 255
+    - 156
+  - - 58
+    - 52
+    - 43
+  - - 102
+    - 84
+    - 68
+  - - 63
+    - 56
+    - 47
+  - - 38
+    - 31
+    - 20
+- image_filename: 2023_03_10__17_24_DJI_0872.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 007fffff00000000
+  dhash: e0f6fef4f0b8f0d2
+  phash: 8584695e43bde2ba
+  avg_rgb:
+  - 100
+  - 85
+  - 59
+  top5_rgb:
+  - - 252
+    - 247
+    - 115
+  - - 43
+    - 33
+    - 20
+  - - 129
+    - 112
+    - 93
+  - - 121
+    - 84
+    - 47
+  - - 72
+    - 53
+    - 35
+- image_filename: 2023_03_10__17_24_DJI_0873.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 083effff00100800
+  dhash: d8f0e0b069f4f87b
+  phash: 8dc4237f7bb085c2
+  avg_rgb:
+  - 71
+  - 63
+  - 53
+  top5_rgb:
+  - - 140
+    - 130
+    - 114
+  - - 46
+    - 48
+    - 48
+  - - 120
+    - 114
+    - 103
+  - - 74
+    - 72
+    - 69
+  - - 153
+    - 151
+    - 139
+- image_filename: 2023_03_10__17_24_DJI_0874.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: fefe183c3c020c00
+  dhash: c0e0f0f0f07a78f0
+  phash: d1c8f6f5c8d5600b
+  avg_rgb:
+  - 78
+  - 64
+  - 54
+  top5_rgb:
+  - - 138
+    - 129
+    - 124
+  - - 52
+    - 53
+    - 54
+  - - 130
+    - 115
+    - 106
+  - - 61
+    - 53
+    - 47
+  - - 108
+    - 72
+    - 50
+- image_filename: 2023_03_10__17_24_DJI_0875.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: fc00081c3e383c3a
+  dhash: 80f0d0f0e0e8e8e6
+  phash: c5f8e0c6c4f0e3cc
+  avg_rgb:
+  - 81
+  - 65
+  - 51
+  top5_rgb:
+  - - 66
+    - 53
+    - 44
+  - - 83
+    - 78
+    - 75
+  - - 73
+    - 63
+    - 55
+  - - 147
+    - 140
+    - 133
+  - - 39
+    - 31
+    - 21
+- image_filename: 2023_03_10__17_25_DJI_0876.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 00fcff7c38000000
+  dhash: e0e0c0e0e0f0f0b2
+  phash: c4c6383a2f1fb1b1
+  avg_rgb:
+  - 105
+  - 77
+  - 38
+  top5_rgb:
+  - - 52
+    - 39
+    - 23
+  - - 190
+    - 224
+    - 230
+  - - 77
+    - 52
+    - 25
+  - - 61
+    - 39
+    - 10
+  - - 52
+    - 32
+    - 8
+- image_filename: 2023_03_10__17_26_DJI_0881.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 000018feff781000
+  dhash: e0f0f0e0e0e0e0e0
+  phash: c5313cc6d0672fb8
+  avg_rgb:
+  - 102
+  - 74
+  - 36
+  top5_rgb:
+  - - 29
+    - 19
+    - 10
+  - - 73
+    - 48
+    - 23
+  - - 160
+    - 120
+    - 72
+  - - 51
+    - 35
+    - 20
+  - - 59
+    - 44
+    - 29
+- image_filename: 2023_03_10__17_27_DJI_0883.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 00fcfffe10001000
+  dhash: e0e0c0e0e0d0e4e2
+  phash: c4d13c2b0f86b1fc
+  avg_rgb:
+  - 114
+  - 86
+  - 45
+  top5_rgb:
+  - - 195
+    - 242
+    - 201
+  - - 52
+    - 33
+    - 11
+  - - 80
+    - 53
+    - 28
+  - - 254
+    - 198
+    - 74
+  - - 252
+    - 246
+    - 72
+- image_filename: 2023_03_10__17_27_DJI_0884.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 0000fcfff8000000
+  dhash: e0f0c08080a0e0c0
+  phash: c0dc2f3cd0d4636b
+  avg_rgb:
+  - 83
+  - 60
+  - 33
+  top5_rgb:
+  - - 177
+    - 208
+    - 202
+  - - 43
+    - 28
+    - 15
+  - - 38
+    - 30
+    - 23
+  - - 101
+    - 56
+    - 22
+  - - 36
+    - 27
+    - 20
+- image_filename: 2023_03_10__17_27_DJI_0885.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 381c3f7f183c2c00
+  dhash: f0f0f0f872f8dcd9
+  phash: 939d43436d92c92f
+  avg_rgb:
+  - 75
+  - 61
+  - 47
+  top5_rgb:
+  - - 128
+    - 128
+    - 119
+  - - 164
+    - 152
+    - 127
+  - - 171
+    - 106
+    - 53
+  - - 38
+    - 40
+    - 40
+  - - 114
+    - 66
+    - 34
+- image_filename: 2023_03_10__17_27_DJI_0886.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 0038ffff38080804
+  dhash: e4f0f0f0e8d8585c
+  phash: d38c3f68548b846f
+  avg_rgb:
+  - 74
+  - 61
+  - 48
+  top5_rgb:
+  - - 148
+    - 140
+    - 121
+  - - 67
+    - 77
+    - 82
+  - - 106
+    - 101
+    - 93
+  - - 185
+    - 172
+    - 146
+  - - 130
+    - 116
+    - 99
+- image_filename: 2023_03_10__17_28_DJI_0887.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 0018ffff10103018
+  dhash: b0f0f0f060f0e0f0
+  phash: 8db078667e86906f
+  avg_rgb:
+  - 77
+  - 64
+  - 51
+  top5_rgb:
+  - - 43
+    - 37
+    - 30
+  - - 135
+    - 123
+    - 106
+  - - 165
+    - 148
+    - 125
+  - - 68
+    - 62
+    - 56
+  - - 248
+    - 208
+    - 165
+- image_filename: 2023_03_10__17_28_DJI_0889.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 0008ffff30180000
+  dhash: f0d0f0f060f150f8
+  phash: 95b1706a478d986f
+  avg_rgb:
+  - 74
+  - 62
+  - 51
+  top5_rgb:
+  - - 43
+    - 39
+    - 33
+  - - 56
+    - 49
+    - 42
+  - - 36
+    - 33
+    - 26
+  - - 129
+    - 121
+    - 106
+  - - 155
+    - 144
+    - 125
+- image_filename: 2023_03_10__17_29_DJI_0891.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 007fff1818000000
+  dhash: f8fdfcf07064e4b4
+  phash: 848a326f7946d5b5
+  avg_rgb:
+  - 84
+  - 66
+  - 50
+  top5_rgb:
+  - - 129
+    - 110
+    - 98
+  - - 44
+    - 36
+    - 30
+  - - 43
+    - 30
+    - 15
+  - - 83
+    - 54
+    - 37
+  - - 39
+    - 34
+    - 28
+- image_filename: 2023_03_10__17_30_DJI_0894.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 78feff1800000000
+  dhash: c0e0f4f0f0f0f0f8
+  phash: d4c3636d3a38b1b8
+  avg_rgb:
+  - 106
+  - 87
+  - 53
+  top5_rgb:
+  - - 249
+    - 220
+    - 129
+  - - 74
+    - 57
+    - 42
+  - - 210
+    - 237
+    - 222
+  - - 49
+    - 36
+    - 22
+  - - 93
+    - 84
+    - 77
+- image_filename: 2023_03_10__17_30_DJI_0897.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: fcff0c3c78381c08
+  dhash: f0f0f8f0b1f0e8f1
+  phash: d0f6fbc148171b26
+  avg_rgb:
+  - 95
+  - 84
+  - 72
+  top5_rgb:
+  - - 131
+    - 129
+    - 125
+  - - 145
+    - 149
+    - 148
+  - - 61
+    - 54
+    - 44
+  - - 144
+    - 138
+    - 129
+  - - 81
+    - 83
+    - 79
+- image_filename: 2023_03_10__17_30_DJI_0898.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 007f3c3c1c3efe00
+  dhash: fcf8f8e0f8dc7cd2
+  phash: 950a35976c76255d
+  avg_rgb:
+  - 73
+  - 61
+  - 50
+  top5_rgb:
+  - - 54
+    - 57
+    - 60
+  - - 113
+    - 99
+    - 84
+  - - 123
+    - 115
+    - 106
+  - - 38
+    - 27
+    - 16
+  - - 151
+    - 138
+    - 124
+- image_filename: 2023_03_10__17_33_DJI_0905.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 20ffff1800180000
+  dhash: c2e2f0f0e8f070e8
+  phash: c5e5673d221a92f2
+  avg_rgb:
+  - 105
+  - 85
+  - 56
+  top5_rgb:
+  - - 249
+    - 207
+    - 123
+  - - 200
+    - 244
+    - 205
+  - - 254
+    - 246
+    - 97
+  - - 119
+    - 74
+    - 51
+  - - 50
+    - 38
+    - 27
+- image_filename: 2023_03_10__17_34_DJI_0909.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 183c3eff3c3e1c00
+  dhash: f8e0f8f0f1f0f0f1
+  phash: 9893776d4999326a
+  avg_rgb:
+  - 63
+  - 57
+  - 52
+  top5_rgb:
+  - - 109
+    - 115
+    - 116
+  - - 36
+    - 40
+    - 43
+  - - 56
+    - 49
+    - 43
+  - - 72
+    - 80
+    - 85
+  - - 55
+    - 38
+    - 25
+- image_filename: 2023_03_10__17_35_DJI_0914.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: feff7c0000000000
+  dhash: 10d0e0e0f0f2d2d8
+  phash: d1d0f1fc3e2d081b
+  avg_rgb:
+  - 110
+  - 85
+  - 61
+  top5_rgb:
+  - - 253
+    - 213
+    - 138
+  - - 248
+    - 188
+    - 132
+  - - 49
+    - 33
+    - 24
+  - - 71
+    - 57
+    - 51
+  - - 26
+    - 14
+    - 9
+- image_filename: 2023_03_10__17_42_DJI_0933.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 002078fefe300000
+  dhash: e0e8c0d0e0e0e4f0
+  phash: c1e73646d92d07c6
+  avg_rgb:
+  - 79
+  - 60
+  - 52
+  top5_rgb:
+  - - 247
+    - 209
+    - 118
+  - - 47
+    - 38
+    - 38
+  - - 85
+    - 78
+    - 77
+  - - 23
+    - 15
+    - 13
+  - - 53
+    - 43
+    - 43
+- image_filename: 2023_03_10__17_42_DJI_0934.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 0c3f7f7e3c0c0800
+  dhash: f8f8e0f0f0fcf9fa
+  phash: 81ca333a65ee07ce
+  avg_rgb:
+  - 69
+  - 69
+  - 70
+  top5_rgb:
+  - - 106
+    - 119
+    - 127
+  - - 109
+    - 108
+    - 114
+  - - 84
+    - 69
+    - 62
+  - - 41
+    - 34
+    - 28
+  - - 76
+    - 95
+    - 106
+- image_filename: 2023_03_10__17_43_DJI_0936.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 00387eff7f000000
+  dhash: f8f0b0f8ecf8f4e0
+  phash: 90d16f2787927af0
+  avg_rgb:
+  - 75
+  - 60
+  - 50
+  top5_rgb:
+  - - 87
+    - 84
+    - 83
+  - - 46
+    - 41
+    - 42
+  - - 153
+    - 90
+    - 72
+  - - 34
+    - 35
+    - 37
+  - - 71
+    - 72
+    - 73
+- image_filename: 2023_03_10__17_43_DJI_0937.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 087e7f7f1f000000
+  dhash: f8f0f8f9f3f0e4f0
+  phash: 919275652a921fee
+  avg_rgb:
+  - 63
+  - 64
+  - 66
+  top5_rgb:
+  - - 66
+    - 54
+    - 48
+  - - 74
+    - 85
+    - 93
+  - - 67
+    - 79
+    - 87
+  - - 18
+    - 15
+    - 12
+  - - 120
+    - 132
+    - 137
+- image_filename: 2023_03_10__17_44_DJI_0940.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 30feff7e00000000
+  dhash: e6d0c0e0e0f0c8f8
+  phash: c4c4252e2cc6dff2
+  avg_rgb:
+  - 90
+  - 72
+  - 62
+  top5_rgb:
+  - - 248
+    - 209
+    - 153
+  - - 60
+    - 51
+    - 53
+  - - 33
+    - 29
+    - 26
+  - - 174
+    - 138
+    - 124
+  - - 33
+    - 31
+    - 30
+- image_filename: 2023_03_10__17_47_DJI_0961.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 3c7e7e3e38181808
+  dhash: e8f8f0f0f070f0d8
+  phash: 99d0736627bc6f40
+  avg_rgb:
+  - 59
+  - 61
+  - 63
+  top5_rgb:
+  - - 97
+    - 112
+    - 124
+  - - 73
+    - 86
+    - 96
+  - - 51
+    - 60
+    - 68
+  - - 110
+    - 122
+    - 131
+  - - 38
+    - 33
+    - 28
+- image_filename: 2023_03_10__17_47_DJI_0962.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 003f7f3c383c1e00
+  dhash: f0f0f8f0f0f0fcf9
+  phash: 9584325469b6eb9d
+  avg_rgb:
+  - 51
+  - 54
+  - 55
+  top5_rgb:
+  - - 51
+    - 41
+    - 34
+  - - 24
+    - 33
+    - 39
+  - - 84
+    - 98
+    - 109
+  - - 53
+    - 67
+    - 77
+  - - 58
+    - 53
+    - 49
+- image_filename: 2023_03_10__17_47_DJI_0963.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 387f3f001858040c
+  dhash: e0f8f0f0f0b078d9
+  phash: 918cb364627e389f
+  avg_rgb:
+  - 63
+  - 63
+  - 64
+  top5_rgb:
+  - - 81
+    - 81
+    - 83
+  - - 49
+    - 46
+    - 45
+  - - 25
+    - 22
+    - 16
+  - - 89
+    - 99
+    - 108
+  - - 71
+    - 82
+    - 92
+- image_filename: 2023_03_10__17_49_DJI_0966.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 003f7f18381c3c1e
+  dhash: e8f0f8f0f2f0e8f2
+  phash: 85aab5626976b989
+  avg_rgb:
+  - 55
+  - 56
+  - 58
+  top5_rgb:
+  - - 44
+    - 55
+    - 65
+  - - 39
+    - 51
+    - 59
+  - - 30
+    - 39
+    - 47
+  - - 87
+    - 98
+    - 108
+  - - 54
+    - 66
+    - 76
+- image_filename: 2023_03_10__17_49_DJI_0967.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 007f3f0018187050
+  dhash: c8f1f0f8f0f0c4b0
+  phash: c08fe07771771d84
+  avg_rgb:
+  - 60
+  - 62
+  - 63
+  top5_rgb:
+  - - 57
+    - 69
+    - 78
+  - - 46
+    - 58
+    - 66
+  - - 78
+    - 77
+    - 75
+  - - 36
+    - 37
+    - 37
+  - - 78
+    - 88
+    - 94
+- image_filename: 2023_03_10__17_49_DJI_0972.jpg
+  post_slug: 2023-03-10-zachod-w-wagrowcu
+  ahash: 1e7eff1c00000000
+  dhash: fcf8f0f0f070e4e4
+  phash: 949616336231bdbd
+  avg_rgb:
+  - 84
+  - 78
+  - 67
+  top5_rgb:
+  - - 142
+    - 140
+    - 125
+  - - 35
+    - 34
+    - 31
+  - - 35
+    - 30
+    - 25
+  - - 50
+    - 49
+    - 48
+  - - 194
+    - 186
+    - 155

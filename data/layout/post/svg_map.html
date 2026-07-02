@@ -3,11 +3,13 @@
 <object class="post_small_photo_map" style="max-width:100%;" data="{{ svg_path }}" alt="Mapa">
 </object>
 
-<span class="small">
+<div class="post-map-footer">
   {{ route_info }}
-  Mapy:
-  <a href="{{ ump_map_link }}" target="_blank">UMP</a> |
-  <a href="{{ osm_map_link }}" target="_blank">OSM</a> |
-  <a href="{{ mapy_cz_link }}" target="_blank">Mapy.cz</a> |
-  <a href="{{ google_map_link }}" target="_blank">Google</a>
-</span>
+  <span class="post-map-links">
+    <span class="post-map-links-label">Mapy:</span>
+    <a href="{{ ump_map_link }}" target="_blank">UMP</a>
+    <a href="{{ osm_map_link }}" target="_blank">OSM</a>
+    <a href="{{ mapy_cz_link }}" target="_blank">Mapy.cz</a>
+    <a href="{{ google_map_link }}" target="_blank">Google</a>
+  </span>
+</div>

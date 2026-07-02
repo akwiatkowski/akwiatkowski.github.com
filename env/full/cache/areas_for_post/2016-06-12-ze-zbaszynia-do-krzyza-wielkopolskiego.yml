@@ -59,7 +59,7 @@
     distance_meters: 29776.27
     distance_km: 29.776
     distance_percent: 30.8361
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
     distance_meters: 28411.71
@@ -77,7 +77,7 @@
     distance_meters: 8796.34
     distance_km: 8.796
     distance_percent: 9.1094
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
     distance_meters: 5057.19
@@ -134,13 +134,13 @@
     distance_km: 4.32
     distance_percent: 4.4742
   macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 42868.07
     distance_km: 42.868
     distance_percent: 44.3939
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 25374.27
@@ -211,10 +211,10 @@
   - slug: miedzychodzki
     name: międzychodzki
     code: "3014"
-  - slug: strzeleckodrezdenecki
+  - slug: strzelecko-drezdenecki
     name: strzelecko-drezdenecki
     code: 0806
-  - slug: czarnkowskotrzcianecki
+  - slug: czarnkowsko-trzcianecki
     name: czarnkowsko-trzcianecki
     code: "3002"
   touched_voivodeships:
@@ -241,13 +241,13 @@
     name: Równina Drawska
     code: "314.63"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_poludniowopomorskie

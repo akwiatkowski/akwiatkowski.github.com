@@ -1,0 +1,97 @@
+---
+- type: hike
+  total_distance_meters: 1371.81
+  total_distance_km: 1.372
+  points_count: 33
+  towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+      distance_meters: 1371.81
+      distance_km: 1.372
+      distance_percent: 100
+  counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+      distance_meters: 1371.81
+      distance_km: 1.372
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 1371.81
+      distance_km: 1.372
+      distance_percent: 100
+  meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"
+      distance_meters: 1371.81
+      distance_km: 1.372
+      distance_percent: 100
+  touched_towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+  touched_counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"
+- type: hike
+  total_distance_meters: 4091.35
+  total_distance_km: 4.091
+  points_count: 112
+  towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+      distance_meters: 3511.82
+      distance_km: 3.512
+      distance_percent: 85.8352
+  counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+      distance_meters: 3511.82
+      distance_km: 3.512
+      distance_percent: 85.8352
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 3511.82
+      distance_km: 3.512
+      distance_percent: 85.8352
+  meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"
+      distance_meters: 4042.78
+      distance_km: 4.043
+      distance_percent: 98.8129
+  touched_towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+  touched_counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"

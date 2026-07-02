@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 59957.11
+  total_distance_km: 59.957
+  points_count: 432
+  towns:
+    - slug: miastko
+      name: Miastko
+      code: "2201063"
+      distance_meters: 24968.49
+      distance_km: 24.968
+      distance_percent: 41.6439
+    - slug: tuchomie
+      name: Tuchomie
+      code: "2201102"
+      distance_meters: 16931.21
+      distance_km: 16.931
+      distance_percent: 28.2389
+    - slug: bytow
+      name: Bytów
+      code: "2201023"
+      distance_meters: 8420.5
+      distance_km: 8.421
+      distance_percent: 14.0442
+    - slug: borzytuchom
+      name: Borzytuchom
+      code: "2201012"
+      distance_meters: 4236.7
+      distance_km: 4.237
+      distance_percent: 7.0662
+    - slug: kolczyglowy
+      name: Kołczygłowy
+      code: "2201042"
+      distance_meters: 3479.32
+      distance_km: 3.479
+      distance_percent: 5.803
+    - slug: trzebielino
+      name: Trzebielino
+      code: "2201092"
+      distance_meters: 1920.9
+      distance_km: 1.921
+      distance_percent: 3.2038
+  counties:
+    - slug: bytowski
+      name: bytowski
+      code: "2201"
+      distance_meters: 59957.11
+      distance_km: 59.957
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 59957.11
+      distance_km: 59.957
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_bytowskie
+      name: Pojezierze Bytowskie
+      code: "314.47"
+      distance_meters: 59957.11
+      distance_km: 59.957
+      distance_percent: 100
+  macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316
+      distance_meters: 59957.11
+      distance_km: 59.957
+      distance_percent: 100
+  touched_towns:
+    - slug: borzytuchom
+      name: Borzytuchom
+      code: "2201012"
+    - slug: bytow
+      name: Bytów
+      code: "2201023"
+    - slug: kolczyglowy
+      name: Kołczygłowy
+      code: "2201042"
+    - slug: miastko
+      name: Miastko
+      code: "2201063"
+    - slug: trzebielino
+      name: Trzebielino
+      code: "2201092"
+    - slug: tuchomie
+      name: Tuchomie
+      code: "2201102"
+  touched_counties:
+    - slug: bytowski
+      name: bytowski
+      code: "2201"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: pojezierze_bytowskie
+      name: Pojezierze Bytowskie
+      code: "314.47"
+  touched_macro_regions:
+    - slug: pojezierze_zachodniopomorskie
+      name: Pojezierze Zachodniopomorskie
+      code: 314-316

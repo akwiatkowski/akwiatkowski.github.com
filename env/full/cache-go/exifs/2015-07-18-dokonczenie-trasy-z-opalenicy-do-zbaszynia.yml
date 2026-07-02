@@ -1,0 +1,79 @@
+---
+- image_filename: IMGP1936raw1.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  lat: 52.29093032883842
+  lon: 16.31216065028162
+  altitude: 103
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4275
+  height: 2850
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-07-18T09:58:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP1939raw1.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  lat: 52.26923058741316
+  lon: 16.13625300120048
+  altitude: 70.79
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-07-18T10:47:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2015-07-18-dokonczenie-trasy-z-opalenicy-do-zbaszynia
+  lat: 52.24769647229875
+  lon: 15.884194588302991
+  altitude: 54.93
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-07-18T13:58:17+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

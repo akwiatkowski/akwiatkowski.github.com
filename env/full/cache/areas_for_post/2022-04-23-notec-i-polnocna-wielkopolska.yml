@@ -4,7 +4,7 @@
   total_distance_km: 63.837
   points_count: 249.0
   towns:
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 22129.93
@@ -22,7 +22,7 @@
     distance_meters: 10532.91
     distance_km: 10.533
     distance_percent: 16.4998
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
     distance_meters: 6305.48
@@ -60,7 +60,7 @@
     distance_meters: 38968.31
     distance_km: 38.968
     distance_percent: 61.0439
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 24868.25
@@ -92,7 +92,7 @@
     distance_meters: 53630.47
     distance_km: 53.63
     distance_percent: 84.0121
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 10206.1
@@ -129,10 +129,10 @@
   - slug: golancz
     name: Gołańcz
     code: "3028033"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
-  - slug: rogozno
+  - slug: rogozno-wielkopolskie
     name: Rogoźno
     code: "3016023"
   touched_counties:
@@ -146,7 +146,7 @@
     name: obornicki
     code: "3016"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
@@ -163,7 +163,7 @@
     name: Pojezierze Gnieźnieńskie
     code: "315.54"
   touched_macro_regions:
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

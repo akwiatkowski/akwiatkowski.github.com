@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 9438.69
+  total_distance_km: 9.439
+  points_count: 63
+  towns:
+    - slug: mrozy
+      name: Mrozy
+      code: "1412123"
+      distance_meters: 7851.43
+      distance_km: 7.851
+      distance_percent: 83.1835
+    - slug: kaluszyn
+      name: Kałuszyn
+      code: "1412093"
+      distance_meters: 1587.26
+      distance_km: 1.587
+      distance_percent: 16.8165
+  counties:
+    - slug: minski
+      name: miński
+      code: "1412"
+      distance_meters: 9438.69
+      distance_km: 9.439
+      distance_percent: 100
+  voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+      distance_meters: 9438.69
+      distance_km: 9.439
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_kaluszynska
+      name: Wysoczyzna Kałuszyńska
+      code: "318.92"
+      distance_meters: 9438.69
+      distance_km: 9.439
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_poludniowopodlaska
+      name: Nizina Południowopodlaska
+      code: "318"
+      distance_meters: 9438.69
+      distance_km: 9.439
+      distance_percent: 100
+  touched_towns:
+    - slug: kaluszyn
+      name: Kałuszyn
+      code: "1412093"
+    - slug: mrozy
+      name: Mrozy
+      code: "1412123"
+  touched_counties:
+    - slug: minski
+      name: miński
+      code: "1412"
+  touched_voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+  touched_meso_regions:
+    - slug: wysoczyzna_kaluszynska
+      name: Wysoczyzna Kałuszyńska
+      code: "318.92"
+  touched_macro_regions:
+    - slug: nizina_poludniowopodlaska
+      name: Nizina Południowopodlaska
+      code: "318"

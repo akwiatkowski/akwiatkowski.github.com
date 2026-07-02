@@ -38,7 +38,7 @@
     distance_km: 2.694
     distance_percent: 47.1892
   macro_regions:
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
     distance_meters: 3015.34
@@ -91,7 +91,7 @@
     name: Tatry Reglowe
     code: "514.54"
   touched_macro_regions:
-  - slug: obnizenie_orawskopodhalanskie
+  - slug: obnizenie_orawsko-podhalanskie
     name: Obniżenie Orawsko-Podhalańskie
     code: 514-15
   - slug: lancuch_tatrzanski

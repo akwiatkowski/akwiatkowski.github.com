@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 2418.54
+  total_distance_km: 2.419
+  points_count: 66
+  towns:
+    - slug: pomiechowek
+      name: Pomiechówek
+      code: "1414052"
+      distance_meters: 1464.24
+      distance_km: 1.464
+      distance_percent: 60.542
+    - slug: nowy_dwor_mazowiecki
+      name: Nowy Dwór Mazowiecki
+      code: "1414011"
+      distance_meters: 954.31
+      distance_km: 0.954
+      distance_percent: 39.458
+  counties:
+    - slug: nowodworski
+      name: nowodworski
+      code: "1414"
+      distance_meters: 2418.54
+      distance_km: 2.419
+      distance_percent: 100
+  voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+      distance_meters: 2418.54
+      distance_km: 2.419
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+      distance_meters: 2418.54
+      distance_km: 2.419
+      distance_percent: 100
+  macro_regions:
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"
+      distance_meters: 2418.54
+      distance_km: 2.419
+      distance_percent: 100
+  touched_towns:
+    - slug: nowy_dwor_mazowiecki
+      name: Nowy Dwór Mazowiecki
+      code: "1414011"
+    - slug: pomiechowek
+      name: Pomiechówek
+      code: "1414052"
+  touched_counties:
+    - slug: nowodworski
+      name: nowodworski
+      code: "1414"
+  touched_voivodeships:
+    - slug: mazowieckie
+      name: mazowieckie
+      code: "14"
+  touched_meso_regions:
+    - slug: kotlina_warszawska
+      name: Kotlina Warszawska
+      code: "318.73"
+  touched_macro_regions:
+    - slug: nizina_srodkowomazowiecka
+      name: Nizina Środkowomazowiecka
+      code: "318"

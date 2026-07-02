@@ -1,0 +1,32 @@
+package views
+
+import "fmt"
+
+templ TownsHistoryContent(hd TownsHistoryData) {
+	<section class="site-content" style="padding-top: 40px;">
+		<h1>Historia odwiedzonych gmin</h1>
+		<p class="text-muted mb-4">
+			{ fmt.Sprintf("Odwiedzono %d gmin.", hd.TotalTowns) }
+		</p>
+		for _, group := range hd.Groups {
+			<h3>
+				if group.VoivodeshipURL != "" {
+					<a href={ templ.SafeURL(group.VoivodeshipURL) }>{ group.VoivodeshipName }</a>
+				} else {
+					{ group.VoivodeshipName }
+				}
+				<small class="text-muted">({ fmt.Sprintf("%d", len(group.Towns)) })</small>
+			</h3>
+			<ol class="mb-4">
+				for _, town := range group.Towns {
+					<li>
+						<a href={ templ.SafeURL(town.URL) }>{ town.Name }</a>
+						<small class="text-muted">
+							{ " — " + town.FirstVisit.Format("2006-01-02") }
+						</small>
+					</li>
+				}
+			</ol>
+		}
+	</section>
+}

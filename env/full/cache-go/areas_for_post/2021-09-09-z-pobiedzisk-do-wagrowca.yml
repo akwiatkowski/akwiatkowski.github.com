@@ -1,0 +1,138 @@
+---
+- type: bicycle
+  total_distance_meters: 60318.73
+  total_distance_km: 60.319
+  points_count: 239
+  towns:
+    - slug: miescisko
+      name: Mieścisko
+      code: "3028042"
+      distance_meters: 16511.07
+      distance_km: 16.511
+      distance_percent: 27.373
+    - slug: klecko
+      name: Kłecko
+      code: "3003053"
+      distance_meters: 15126
+      distance_km: 15.126
+      distance_percent: 25.0768
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028072"
+      distance_meters: 11565.17
+      distance_km: 11.565
+      distance_percent: 19.1734
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+      distance_meters: 9217.52
+      distance_km: 9.218
+      distance_percent: 15.2814
+    - slug: kiszkowo
+      name: Kiszkowo
+      code: "3003042"
+      distance_meters: 7898.98
+      distance_km: 7.899
+      distance_percent: 13.0954
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028011"
+      distance_meters: 3692.73
+      distance_km: 3.693
+      distance_percent: 6.122
+  counties:
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+      distance_meters: 28076.24
+      distance_km: 28.076
+      distance_percent: 46.5465
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+      distance_meters: 23024.98
+      distance_km: 23.025
+      distance_percent: 38.1722
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 9217.52
+      distance_km: 9.218
+      distance_percent: 15.2814
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 60318.73
+      distance_km: 60.319
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+      distance_meters: 53438.04
+      distance_km: 53.438
+      distance_percent: 88.5928
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+      distance_meters: 3495.96
+      distance_km: 3.496
+      distance_percent: 5.7958
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+      distance_meters: 3384.73
+      distance_km: 3.385
+      distance_percent: 5.6114
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 60318.73
+      distance_km: 60.319
+      distance_percent: 100
+  touched_towns:
+    - slug: kiszkowo
+      name: Kiszkowo
+      code: "3003042"
+    - slug: klecko
+      name: Kłecko
+      code: "3003053"
+    - slug: miescisko
+      name: Mieścisko
+      code: "3028042"
+    - slug: pobiedziska
+      name: Pobiedziska
+      code: "3021123"
+    - slug: wagrowiec
+      name: Wągrowiec
+      code: "3028072"
+  touched_counties:
+    - slug: gnieznienski
+      name: gnieźnieński
+      code: "3003"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+    - slug: wagrowiecki
+      name: wągrowiecki
+      code: "3028"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_chodzieskie
+      name: Pojezierze Chodzieskie
+      code: "315.53"
+    - slug: pojezierze_gnieznienskie
+      name: Pojezierze Gnieźnieńskie
+      code: "315.54"
+    - slug: rownina_wrzesinska
+      name: Równina Wrzesińska
+      code: "315.56"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

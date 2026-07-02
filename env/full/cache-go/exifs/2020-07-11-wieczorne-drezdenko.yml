@@ -1,0 +1,749 @@
+---
+- image_filename: 2020_07_11__20_08__7110965.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83727777777778
+  lon: 15.827569444444444
+  altitude: 24
+  focal_length: 13
+  focal_length_35: 26
+  crop: 2
+  aperture: 4
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:08:15+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_10__7110973.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83715277777778
+  lon: 15.828347222222222
+  altitude: 23
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:10:30+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_11__7110975.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.837097222222226
+  lon: 15.828527777777778
+  altitude: 23
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:11:10+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_20__7111021.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.838055555555556
+  lon: 15.831375
+  altitude: 25
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 5184
+  height: 3838
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:20:57+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_21__7111025.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.838097222222224
+  lon: 15.832638888888889
+  altitude: 26
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.16666666666666666
+  exposure_string: 1/6 s
+  iso: 200
+  width: 5153
+  height: 3795
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:21:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_26__7111035.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83793055555556
+  lon: 15.833486111111112
+  altitude: 23
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 4
+  exposure: 0.4
+  exposure_string: 1/3 s
+  iso: 400
+  width: 4501
+  height: 3458
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:26:12+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_27__7111053.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.837833333333336
+  lon: 15.8335
+  altitude: 22
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.25
+  exposure_string: 1/4 s
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:27:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_28__7111063.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83756944444445
+  lon: 15.834000000000001
+  altitude: 21
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 400
+  width: 5007
+  height: 3738
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:28:40+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_33__7111071.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83786111111112
+  lon: 15.836305555555557
+  altitude: 23
+  focal_length: 13
+  focal_length_35: 26
+  crop: 2
+  aperture: 4
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 400
+  width: 4718
+  height: 3764
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:33:25+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_38__7111080.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83759722222222
+  lon: 15.836944444444445
+  altitude: 22
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 400
+  width: 5177
+  height: 3829
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:38:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_45__7111090.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.839222222222226
+  lon: 15.838666666666667
+  altitude: 22
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 400
+  width: 3911
+  height: 5239
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:45:20+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_45__7111093.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83927777777778
+  lon: 15.838694444444444
+  altitude: 21
+  focal_length: 23
+  focal_length_35: 46
+  crop: 2
+  aperture: 4
+  exposure: 0.1
+  exposure_string: 1/10 s
+  iso: 400
+  width: 5028
+  height: 3800
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:45:58+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_46__7111095.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.839263888888894
+  lon: 15.838666666666667
+  altitude: 21
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 4
+  exposure: 0.4
+  exposure_string: 1/3 s
+  iso: 400
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:46:14+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_47__7111106.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83943055555556
+  lon: 15.83851388888889
+  altitude: 21
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.3333333333333333
+  exposure_string: 1/3 s
+  iso: 1000
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:47:56+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_49__7111112.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.8395
+  lon: 15.838083333333334
+  altitude: 22
+  focal_length: 38
+  focal_length_35: 76
+  crop: 2
+  aperture: 4
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 500
+  width: 5175
+  height: 3767
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:49:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_52__7111119.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83913888888889
+  lon: 15.837305555555556
+  altitude: 23
+  focal_length: 92
+  focal_length_35: 184
+  crop: 2
+  aperture: 4
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 500
+  width: 5164
+  height: 3810
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:52:31+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__20_57__7111127.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83927777777778
+  lon: 15.833569444444445
+  altitude: 22
+  focal_length: 57
+  focal_length_35: 114
+  crop: 2
+  aperture: 4
+  exposure: 1
+  exposure_string: 1.0 s
+  iso: 200
+  width: 5149
+  height: 3790
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T20:57:49+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__21_01__7111139.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.839597222222224
+  lon: 15.832402777777778
+  altitude: 21
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.7692307692307693
+  exposure_string: 1/1 s
+  iso: 200
+  width: 5001
+  height: 3516
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T21:01:28+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__21_01__7111140.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83956944444445
+  lon: 15.832152777777777
+  altitude: 21
+  focal_length: 24
+  focal_length_35: 48
+  crop: 2
+  aperture: 4
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  width: 5066
+  height: 3661
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T21:01:47+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__21_04__7111146.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.839625000000005
+  lon: 15.830333333333334
+  altitude: 21
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 4
+  exposure: 0.7692307692307693
+  exposure_string: 1/1 s
+  iso: 200
+  width: 3380
+  height: 5156
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T21:04:18+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__21_05__7111150.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.839819444444444
+  lon: 15.829625
+  altitude: 20
+  focal_length: 31
+  focal_length_35: 62
+  crop: 2
+  aperture: 4
+  exposure: 0.7692307692307693
+  exposure_string: 1/1 s
+  iso: 200
+  width: 5128
+  height: 3758
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T21:05:41+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2020_07_11__21_06__7111152.jpg
+  post_slug: 2020-07-11-wieczorne-drezdenko
+  lat: 52.83956944444445
+  lon: 15.829041666666667
+  altitude: 19
+  focal_length: 70
+  focal_length_35: 140
+  crop: 2
+  aperture: 4
+  exposure: 2
+  exposure_string: 2.0 s
+  iso: 200
+  width: 5239
+  height: 3911
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: E-M1MarkII
+  lens_name: M.12-100mm F4.0
+  camera_name: E-M1MarkII
+  time: "2020-07-11T21:06:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 3.0.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84

@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP4506raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.47966111111111
+  lon: 18.56385277777778
+  altitude: 3.0
   focal_length: 27.0
   focal_length_35: 40.0
   crop: 1.4814814814814814
@@ -12,6 +15,9 @@
   time: 2018-01-07 19:49:01.000000000+01:00
 - image_filename: IMGP4508raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.479225
+  lon: 18.563691666666667
+  altitude: 2.3
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -23,6 +29,9 @@
   time: 2018-01-07 19:51:54.000000000+01:00
 - image_filename: IMGP4510raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.47861666666667
+  lon: 18.563691666666667
+  altitude: 3.0
   focal_length: 19.0
   focal_length_35: 28.0
   crop: 1.4736842105263157
@@ -34,6 +43,9 @@
   time: 2018-01-07 19:55:43.000000000+01:00
 - image_filename: IMGP4512raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.47858611111111
+  lon: 18.563694444444444
+  altitude: 3.7
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -101,6 +113,9 @@
   time: 2018-01-07 20:24:20.000000000+01:00
 - image_filename: IMGP4536raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48008333333333
+  lon: 18.5613
+  altitude: 5.9
   focal_length: 50.0
   focal_length_35: 75.0
   crop: 1.5
@@ -140,6 +155,9 @@
   time: 2018-01-08 07:44:24.000000000+01:00
 - image_filename: IMGP4543raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48010277777778
+  lon: 18.564205555555557
+  altitude: 17.7
   focal_length: 170.0
   focal_length_35: 255.0
   crop: 1.5
@@ -235,6 +253,9 @@
   time: 2018-01-08 08:02:06.000000000+01:00
 - image_filename: IMGP4570raw2.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.481525000000005
+  lon: 18.565169444444447
+  altitude: 14.8
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -246,6 +267,9 @@
   time: 2018-01-08 08:04:00.000000000+01:00
 - image_filename: IMGP4571raw1.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 54.48150555555556
+  lon: 18.56517777777778
+  altitude: 14.8
   focal_length: 17.0
   focal_length_35: 25.0
   crop: 1.4705882352941178
@@ -338,6 +362,9 @@
   time: 2018-01-08 12:04:45.000000000+01:00
 - image_filename: IMGP4750raw3retinex.jpg
   post_slug: 2018-01-08-wschod-nad-baltykiem
+  lat: 53.21290555555556
+  lon: 18.028452777777776
+  altitude: 79.0
   focal_length: 150.0
   focal_length_35: 225.0
   crop: 1.5

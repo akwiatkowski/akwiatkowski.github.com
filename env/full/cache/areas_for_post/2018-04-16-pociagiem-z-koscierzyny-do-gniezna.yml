@@ -4,7 +4,7 @@
   total_distance_km: 277.451
   points_count: 216.0
   towns:
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
     distance_meters: 30379.56
@@ -52,7 +52,7 @@
     distance_meters: 12611.63
     distance_km: 12.612
     distance_percent: 4.5455
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-wiejska
     name: Kościerzyna
     code: "2206042"
     distance_meters: 12030.7
@@ -100,13 +100,13 @@
     distance_meters: 9334.37
     distance_km: 9.334
     distance_percent: 3.3643
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
     distance_meters: 9097.03
     distance_km: 9.097
     distance_percent: 3.2788
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-miejska
     name: Gniezno
     code: "3003011"
     distance_meters: 8515.45
@@ -130,19 +130,19 @@
     distance_meters: 7853.83
     distance_km: 7.854
     distance_percent: 2.8307
-  - slug: chojnice
+  - slug: chojnice-pomorskie-miejska
     name: Chojnice
     code: "2202011"
     distance_meters: 4248.21
     distance_km: 4.248
     distance_percent: 1.5312
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-miejska
     name: Kościerzyna
     code: "2206011"
     distance_meters: 3650.36
     distance_km: 3.65
     distance_percent: 1.3157
-  - slug: czluchow
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
     distance_meters: 3074.19
@@ -210,7 +210,7 @@
     distance_km: 3.074
     distance_percent: 1.108
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 97581.09
@@ -301,7 +301,7 @@
     distance_meters: 2689.45
     distance_km: 2.689
     distance_percent: 0.9693
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 1725.51
@@ -320,7 +320,7 @@
     distance_meters: 113006.51
     distance_km: 113.007
     distance_percent: 40.7303
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 12435.96
@@ -354,9 +354,12 @@
     distance_km: 277.451
     distance_percent: 100.0
   touched_towns:
-  - slug: koscierzyna
+  - slug: koscierzyna-pomorskie-wiejska
     name: Kościerzyna
     code: "2206042"
+  - slug: koscierzyna-pomorskie-miejska
+    name: Kościerzyna
+    code: "2206011"
   - slug: lipusz
     name: Lipusz
     code: "2206062"
@@ -366,10 +369,13 @@
   - slug: brusy
     name: Brusy
     code: "2202023"
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
-  - slug: czluchow
+  - slug: chojnice-pomorskie-miejska
+    name: Chojnice
+    code: "2202011"
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
   - slug: kamien_krajenski
@@ -402,9 +408,12 @@
   - slug: mieleszyn
     name: Mieleszyn
     code: "3003072"
-  - slug: gniezno
+  - slug: gniezno-wielkopolskie-wiejska
     name: Gniezno
     code: "3003032"
+  - slug: gniezno-wielkopolskie-miejska
+    name: Gniezno
+    code: "3003011"
   - slug: lubowo
     name: Łubowo
     code: "3003062"
@@ -452,7 +461,7 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: wielkopolskie
@@ -502,7 +511,7 @@
   - slug: pojezierze_poludniowopomorskie
     name: Pojezierze Południowopomorskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   - slug: pojezierze_wielkopolskie

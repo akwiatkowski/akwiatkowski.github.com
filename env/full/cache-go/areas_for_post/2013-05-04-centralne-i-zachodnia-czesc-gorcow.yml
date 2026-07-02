@@ -1,0 +1,105 @@
+---
+- type: hike
+  total_distance_meters: 21905.11
+  total_distance_km: 21.905
+  points_count: 385
+  towns:
+    - slug: nowy_targ
+      name: Nowy Targ
+      code: "1211092"
+      distance_meters: 7386.79
+      distance_km: 7.387
+      distance_percent: 33.7218
+    - slug: ochotnica_dolna
+      name: Ochotnica Dolna
+      code: "1211102"
+      distance_meters: 7355.07
+      distance_km: 7.355
+      distance_percent: 33.5769
+    - slug: rabka-zdroj
+      name: Rabka-Zdrój
+      code: "1211123"
+      distance_meters: 3560.76
+      distance_km: 3.561
+      distance_percent: 16.2554
+    - slug: niedzwiedz
+      name: Niedźwiedź
+      code: "1207102"
+      distance_meters: 2122.81
+      distance_km: 2.123
+      distance_percent: 9.691
+    - slug: kamienica
+      name: Kamienica
+      code: "1207052"
+      distance_meters: 1479.68
+      distance_km: 1.48
+      distance_percent: 6.755
+  counties:
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+      distance_meters: 18302.62
+      distance_km: 18.303
+      distance_percent: 83.5541
+    - slug: limanowski
+      name: limanowski
+      code: "1207"
+      distance_meters: 3602.5
+      distance_km: 3.602
+      distance_percent: 16.4459
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 21905.11
+      distance_km: 21.905
+      distance_percent: 100
+  meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+      distance_meters: 21905.11
+      distance_km: 21.905
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 21905.11
+      distance_km: 21.905
+      distance_percent: 100
+  touched_towns:
+    - slug: kamienica
+      name: Kamienica
+      code: "1207052"
+    - slug: niedzwiedz
+      name: Niedźwiedź
+      code: "1207102"
+    - slug: nowy_targ
+      name: Nowy Targ
+      code: "1211092"
+    - slug: ochotnica_dolna
+      name: Ochotnica Dolna
+      code: "1211102"
+    - slug: rabka-zdroj
+      name: Rabka-Zdrój
+      code: "1211123"
+  touched_counties:
+    - slug: limanowski
+      name: limanowski
+      code: "1207"
+    - slug: nowotarski
+      name: nowotarski
+      code: "1211"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: gorce
+      name: Gorce
+      code: "513.52"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"

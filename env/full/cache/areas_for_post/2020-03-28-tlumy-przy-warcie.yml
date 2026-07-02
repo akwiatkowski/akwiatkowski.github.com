@@ -16,7 +16,7 @@
     distance_meters: 4073.38
     distance_km: 4.073
     distance_percent: 46.8228
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
     distance_meters: 72.24
@@ -50,7 +50,7 @@
     distance_km: 8.7
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 8699.55
@@ -84,7 +84,7 @@
   - slug: srem
     name: Śrem
     code: "3026043"
-  - slug: brodnica
+  - slug: brodnica-wielkopolskie
     name: Brodnica
     code: "3026012"
   touched_counties:
@@ -103,7 +103,7 @@
     name: Kotlina Śremska
     code: "315.64"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   touched_mega_regions:

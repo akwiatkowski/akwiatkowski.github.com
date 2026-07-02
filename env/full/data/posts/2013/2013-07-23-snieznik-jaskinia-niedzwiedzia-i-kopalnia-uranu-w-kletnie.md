@@ -5,6 +5,7 @@ subtitle:               "szczyt i zalesiona dolina"
 desc:                   "Tego dnia weszliśmy na Śnieżnik a później zeszliśmy zobaczyć Jaskinię Niedźwiedzia i kopalnię uranu w Kletnie."
 keywords:               [śnieżnik, kletno]
 date:                   2013-07-23 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

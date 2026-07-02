@@ -31,19 +31,19 @@
     distance_km: 13.628
     distance_percent: 100.0
   meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
     distance_meters: 11357.14
     distance_km: 11.357
     distance_percent: 83.3385
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
     distance_meters: 1617.35
     distance_km: 1.617
     distance_percent: 11.8681
-  - slug: miedzygorze_jablonkowskokoniakowskie
+  - slug: miedzygorze_jablonkowsko-koniakowskie
     name: Międzygórze Jabłonkowsko-Koniakowskie
     code: "513.55"
     distance_meters: 653.22
@@ -93,13 +93,13 @@
     name: ŚLĄSKIE
     code: "24"
   touched_meso_regions:
-  - slug: beskid_zywieckokysucki
+  - slug: beskid_zywiecko-kysucki
     name: Beskid Żywiecko-Kysucki
     code: "513.56"
-  - slug: beskid_zywieckoorawski
+  - slug: beskid_zywiecko-orawski
     name: Beskid Żywiecko-Orawski
     code: "513.51"
-  - slug: miedzygorze_jablonkowskokoniakowskie
+  - slug: miedzygorze_jablonkowsko-koniakowskie
     name: Międzygórze Jabłonkowsko-Koniakowskie
     code: "513.55"
   touched_macro_regions:

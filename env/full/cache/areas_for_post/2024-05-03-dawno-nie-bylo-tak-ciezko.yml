@@ -4,7 +4,7 @@
   total_distance_km: 86.361
   points_count: 330.0
   towns:
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
     distance_meters: 15061.24
@@ -16,7 +16,7 @@
     distance_meters: 14831.34
     distance_km: 14.831
     distance_percent: 17.1736
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
     distance_meters: 14804.84
@@ -34,7 +34,7 @@
     distance_meters: 8644.38
     distance_km: 8.644
     distance_percent: 10.0096
-  - slug: czluchow
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
     distance_meters: 8220.27
@@ -108,7 +108,7 @@
     distance_meters: 31925.89
     distance_km: 31.926
     distance_percent: 36.9679
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 18955.06
@@ -168,13 +168,13 @@
   - slug: kesowo
     name: Kęsowo
     code: "0416032"
-  - slug: chojnice
+  - slug: chojnice-pomorskie-wiejska
     name: Chojnice
     code: "2202032"
   - slug: kamien_krajenski
     name: Kamień Krajeński
     code: "0413013"
-  - slug: czluchow
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
   - slug: debrzno
@@ -183,7 +183,7 @@
   - slug: lipka
     name: Lipka
     code: "3031042"
-  - slug: zlotow
+  - slug: zlotow-wielkopolskie-wiejska
     name: Złotów
     code: "3031082"
   - slug: jastrowie
@@ -206,7 +206,7 @@
     name: złotowski
     code: "3031"
   touched_voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   - slug: pomorskie

@@ -1,6 +1,9 @@
 ---
 - image_filename: 2020_07_24__16_08__7241489.jpg
   post_slug: 2020-07-24-kowalewo-pomorskie-i-linia-do-golubia
+  lat: 53.16453055555555
+  lon: 18.872858333333333
+  altitude: 129.9
   focal_length: 70.0
   focal_length_35: 140.0
   crop: 2.0

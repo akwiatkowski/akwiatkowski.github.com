@@ -1,0 +1,27 @@
+---
+- image_filename: header.jpg
+  post_slug: 2016-05-03-powrot-z-majowki-rowerowej-z-okolic-klodzka
+  lat: 50.55315543900028
+  lon: 16.9294698816156
+  altitude: 288.53
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-29T15:14:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84

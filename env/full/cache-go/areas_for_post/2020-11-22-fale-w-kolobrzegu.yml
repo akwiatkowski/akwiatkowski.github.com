@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 8181.23
+  total_distance_km: 8.181
+  points_count: 90
+  towns:
+    - slug: kolobrzeg
+      name: Kołobrzeg
+      code: "3208011"
+      distance_meters: 6497.14
+      distance_km: 6.497
+      distance_percent: 79.4152
+  counties:
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+      distance_meters: 6497.14
+      distance_km: 6.497
+      distance_percent: 79.4152
+  voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+      distance_meters: 6497.14
+      distance_km: 6.497
+      distance_percent: 79.4152
+  meso_regions:
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+      distance_meters: 7235.01
+      distance_km: 7.235
+      distance_percent: 88.4343
+  macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"
+      distance_meters: 7235.01
+      distance_km: 7.235
+      distance_percent: 88.4343
+  touched_towns:
+    - slug: kolobrzeg
+      name: Kołobrzeg
+      code: "3208011"
+  touched_counties:
+    - slug: kolobrzeski
+      name: kołobrzeski
+      code: "3208"
+  touched_voivodeships:
+    - slug: zachodniopomorskie
+      name: zachodniopomorskie
+      code: "32"
+  touched_meso_regions:
+    - slug: wybrzeze_koszalinskie
+      name: Wybrzeże Koszalińskie
+      code: "313.47"
+  touched_macro_regions:
+    - slug: pobrzeze_koszalinskie
+      name: Pobrzeże Koszalińskie
+      code: "313"

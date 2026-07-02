@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Z Kordowca przez Radziejową do Przehyby"
 subtitle:               "krótka trasa ale słaba pogoda, wilgotno i mgliście"
 date:                   2015-07-13 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

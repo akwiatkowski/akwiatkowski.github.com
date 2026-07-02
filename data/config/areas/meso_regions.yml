@@ -1,0 +1,2753 @@
+---
+- slug: podgorze_hermanowickie
+  name: Podgórze Hermanowickie
+  code: "521.11"
+  bbox:
+    south: 49.630437994991155
+    north: 49.75182236842196
+    west: 22.718913709344378
+    east: 22.834106248904803
+- slug: gory_sanocko-turczanskie
+  name: Góry Sanocko-Turczańskie
+  code: "522.11"
+  bbox:
+    south: 49.221138325251935
+    north: 49.64563728433216
+    west: 22.154423410900744
+    east: 22.750956053116404
+- slug: bieszczady_zachodnie
+  name: Bieszczady Zachodnie
+  code: "522.12"
+  bbox:
+    south: 49.00204651923677
+    north: 49.403834346529116
+    west: 22.0302280660117
+    east: 22.89408626722132
+- slug: beskid_niski
+  name: Beskid Niski
+  code: "513.71"
+  bbox:
+    south: 49.22976009106316
+    north: 49.69307440769726
+    west: 20.68672380867092
+    east: 22.150726191325802
+- slug: pogorze_bukowskie
+  name: Pogórze Bukowskie
+  code: "513.69"
+  bbox:
+    south: 49.40314866968415
+    north: 49.61697104918856
+    west: 21.684787139235908
+    east: 22.338702153082313
+- slug: pogorze_jasielskie
+  name: Pogórze Jasielskie
+  code: "513.68"
+  bbox:
+    south: 49.54626608474243
+    north: 49.735412093170055
+    west: 21.300300400728542
+    east: 21.729002782630797
+- slug: pogorze_dynowskie
+  name: Pogórze Dynowskie
+  code: "513.64"
+  bbox:
+    south: 49.5607671649579
+    north: 50.03532612707598
+    west: 21.621187205247566
+    east: 22.780953742340902
+- slug: obnizenie_gorlickie
+  name: Obniżenie Gorlickie
+  code: "513.66"
+  bbox:
+    south: 49.623638888710715
+    north: 49.75820624559441
+    west: 21.00514721505254
+    east: 21.408888550911435
+- slug: pogorze_strzyzowskie
+  name: Pogórze Strzyżowskie
+  code: "513.63"
+  bbox:
+    south: 49.75457329929292
+    north: 50.07607862231627
+    west: 21.311749012766082
+    east: 22.03845940681526
+- slug: pogorze_ciezkowickie
+  name: Pogórze Ciężkowickie
+  code: "513.62"
+  bbox:
+    south: 49.63987445692637
+    north: 50.00355370777657
+    west: 20.83094209624864
+    east: 21.474495109677694
+- slug: kotlina_jasielsko-krosnienska
+  name: Kotlina Jasielsko-Krośnieńska
+  code: "513.67"
+  bbox:
+    south: 49.47870011312384
+    north: 49.77610670414032
+    west: 21.36094037331145
+    east: 22.112824416935364
+- slug: plaskowyz_tarnowski
+  name: Płaskowyż Tarnowski
+  code: "512.43"
+  bbox:
+    south: 49.983393291817514
+    north: 50.28277739870139
+    west: 20.882116259119478
+    east: 21.481271699537828
+- slug: podgorze_bochenskie
+  name: Podgórze Bocheńskie
+  code: "512.42"
+  bbox:
+    south: 49.9550236823051
+    north: 50.16128981608862
+    west: 20.12712118249224
+    east: 20.86209524307746
+- slug: pogorze_przemyskie
+  name: Pogórze Przemyskie
+  code: "513.65"
+  bbox:
+    south: 49.453627403768046
+    north: 49.82206555595526
+    west: 22.20987340844066
+    east: 22.818050678465188
+- slug: dolina_dolnej_wisloki
+  name: Dolina Dolnej Wisłoki
+  code: "512.44"
+  bbox:
+    south: 49.99417578470093
+    north: 50.32028472434609
+    west: 21.285695629191657
+    east: 21.62404146399071
+- slug: pogorze_roznowskie
+  name: Pogórze Rożnowskie
+  code: "513.61"
+  bbox:
+    south: 49.62315892069942
+    north: 49.95509731030801
+    west: 20.487588116480705
+    east: 20.974819609811277
+- slug: tatry_zachodnie
+  name: Tatry Zachodnie
+  code: "514.52"
+  bbox:
+    south: 49.1926170701048
+    north: 49.25611064101313
+    west: 19.75841011736984
+    east: 20.020348907533645
+- slug: tatry_wysokie
+  name: Tatry Wysokie
+  code: "514.53"
+  bbox:
+    south: 49.178477777510636
+    north: 49.25909765389397
+    west: 19.991417845521298
+    east: 20.102198074531877
+- slug: bruzda_podtatrzanska
+  name: Bruzda Podtatrzańska
+  code: "514.14"
+  bbox:
+    south: 49.26975403313051
+    north: 49.338491887079925
+    west: 19.815305478289797
+    east: 20.12907128103593
+- slug: pogorza_przedtatrzanskie
+  name: Pogórza Przedtatrzanskie
+  code: "514.13"
+  bbox:
+    south: 49.28720175033668
+    north: 49.4406971539352
+    west: 19.792437591118485
+    east: 20.151769905044592
+- slug: dolina_dolnego_sanu
+  name: Dolina Dolnego Sanu
+  code: "512.46"
+  bbox:
+    south: 49.74799567707628
+    north: 50.749033087594604
+    west: 21.867695796295067
+    east: 23.01874473927804
+- slug: podgorze_rzeszowskie
+  name: Podgórze Rzeszowskie
+  code: "512.52"
+  bbox:
+    south: 49.798746346938124
+    north: 50.08327586639151
+    west: 22.019488655866088
+    east: 22.87272375775637
+- slug: pradolina_podkarpacka
+  name: Pradolina Podkarpacka
+  code: "512.51"
+  bbox:
+    south: 50.047817792295874
+    north: 50.1526981746292
+    west: 21.484688318533834
+    east: 22.641522932105897
+- slug: plaskowyz_kolbuszowski
+  name: Płaskowyż Kolbuszowski
+  code: "512.48"
+  bbox:
+    south: 50.11749421988796
+    north: 50.41075524398627
+    west: 21.572912423447885
+    east: 22.5118382001535
+- slug: rownina_tarnobrzeska
+  name: Równina Tarnobrzeska
+  code: "512.45"
+  bbox:
+    south: 50.2989866642092
+    north: 50.5820184580913
+    west: 21.70562297488502
+    east: 22.36811769310903
+- slug: pieniny
+  name: Pieniny
+  code: "514.12"
+  bbox:
+    south: 49.37610574188945
+    north: 49.442782884521584
+    west: 20.12795326056498
+    east: 20.601721673053916
+- slug: beskid_zywiecko-orawski
+  name: Beskid Żywiecko-Orawski
+  code: "513.51"
+  bbox:
+    south: 49.478845864851
+    north: 49.74739131183756
+    west: 19.083082829015698
+    east: 19.77791366092266
+- slug: gorce
+  name: Gorce
+  code: "513.52"
+  bbox:
+    south: 49.435896699938425
+    north: 49.66317931946059
+    west: 19.87895297442575
+    east: 20.43288660927769
+- slug: beskid_wyspowy
+  name: Beskid Wyspowy
+  code: "513.49"
+  bbox:
+    south: 49.54312153655503
+    north: 49.831232084314884
+    west: 19.867626282791527
+    east: 20.65529642683117
+- slug: kotlina_orawsko-nowotarska
+  name: Kotlina Orawsko-Nowotarska
+  code: "514.11"
+  bbox:
+    south: 49.36079312731939
+    north: 49.50380530337664
+    west: 19.597422405976882
+    east: 20.33385453621841
+- slug: kotlina_sadecka
+  name: Kotlina Sądecka
+  code: "513.53"
+  bbox:
+    south: 49.50952866135567
+    north: 49.70528038113088
+    west: 20.386549307960895
+    east: 20.769818211300215
+- slug: beskid_sadecki
+  name: Beskid Sądecki
+  code: "513.54"
+  bbox:
+    south: 49.3340052068671
+    north: 49.56600763125697
+    west: 20.394565356149972
+    east: 21.028601846218965
+- slug: pogorze_wisnickie
+  name: Pogórze Wiśnickie
+  code: "513.34"
+  bbox:
+    south: 49.75109609104977
+    north: 49.97649403543266
+    west: 19.9790811638144
+    east: 20.83807047673746
+- slug: beskid_slaski
+  name: Beskid Śląski
+  code: "513.45"
+  bbox:
+    south: 49.55304518648449
+    north: 49.78863985061924
+    west: 18.714405061101107
+    east: 19.128860539913646
+- slug: beskid_makowski
+  name: Beskid Makowski
+  code: "513.48"
+  bbox:
+    south: 49.660651322217355
+    north: 49.83682850454308
+    west: 19.583868399894587
+    east: 20.089409628821542
+- slug: kotlina_zywiecka
+  name: Kotlina Żywiecka
+  code: "513.46"
+  bbox:
+    south: 49.6079271512957
+    north: 49.782605252148535
+    west: 19.050702589128562
+    east: 19.36986352348202
+- slug: podgorze_wilamowickie
+  name: Podgórze Wilamowickie
+  code: "512.23"
+  bbox:
+    south: 49.85044184247222
+    north: 49.9944076956205
+    west: 19.157233608231376
+    east: 19.423169362274116
+- slug: pogorze_slaskie
+  name: Pogórze Śląskie
+  code: "513.32"
+  bbox:
+    south: 49.69529453157362
+    north: 49.95367134663487
+    west: 18.597066098643165
+    east: 19.5056967048788
+- slug: pogorze_wielickie
+  name: Pogórze Wielickie
+  code: "513.33"
+  bbox:
+    south: 49.80404769824838
+    north: 50.00173487083746
+    west: 19.43516768876249
+    east: 20.3301049616223
+- slug: beskid_maly
+  name: Beskid Mały
+  code: "513.47"
+  bbox:
+    south: 49.715437375568285
+    north: 49.857251760628735
+    west: 19.080511345002236
+    east: 19.595297628397823
+- slug: wysoczyzna_konczycka
+  name: Wysoczyzna Kończycka
+  code: "512.11"
+  bbox:
+    south: 49.78726588887419
+    north: 49.90446172504976
+    west: 18.565670275792566
+    east: 18.736675547130414
+- slug: rownina_pszczynska
+  name: Równina Pszczyńska
+  code: "512.21"
+  bbox:
+    south: 49.925770466318106
+    north: 50.17242764482699
+    west: 18.701602943630604
+    east: 19.22424878062939
+- slug: plaskowyz_rybnicki
+  name: Płaskowyż Rybnicki
+  code: "341.15"
+  bbox:
+    south: 49.88214096109093
+    north: 50.23886786009857
+    west: 18.256532993101995
+    east: 18.805587874047735
+- slug: dolina_gornej_wisly
+  name: Dolina Górnej Wisły
+  code: "512.22"
+  bbox:
+    south: 49.817717058459884
+    north: 50.10318657397547
+    west: 18.71258651998905
+    east: 19.54000039128734
+- slug: pomost_krakowski
+  name: Pomost Krakowski
+  code: "512.33"
+  bbox:
+    south: 49.99823996971739
+    north: 50.12611648704117
+    west: 19.778640988245304
+    east: 19.9880245746451
+- slug: row_skawinski
+  name: Rów Skawiński
+  code: "512.31"
+  bbox:
+    south: 49.951371262637
+    north: 50.027005437807915
+    west: 19.50831593596502
+    east: 19.848376326195467
+- slug: garb_tenczynski
+  name: Garb Tenczyński
+  code: "341.34"
+  bbox:
+    south: 49.998409446865985
+    north: 50.12738509866729
+    west: 19.23052286161262
+    east: 19.84647918739265
+- slug: nizina_nadwislanska
+  name: Nizina Nadwiślańska
+  code: "512.41"
+  bbox:
+    south: 49.942865094674666
+    north: 50.82683180624041
+    west: 19.956109533681936
+    east: 21.98517786009419
+- slug: obnizenie_cholerzynskie
+  name: Obniżenie Cholerzyńskie
+  code: "512.32"
+  bbox:
+    south: 49.990363694910286
+    north: 50.08665451558861
+    west: 19.62771002882299
+    east: 19.81603212649936
+- slug: row_krzeszowicki
+  name: Rów Krzeszowicki
+  code: "341.33"
+  bbox:
+    south: 50.08963214579968
+    north: 50.18502691745648
+    west: 19.19614249116154
+    east: 19.859002044056208
+- slug: wyzyna_olkuska
+  name: Wyżyna Olkuska
+  code: "341.32"
+  bbox:
+    south: 50.1058921737987
+    north: 50.38626159012011
+    west: 19.410968772110905
+    east: 20.009464493263028
+- slug: rownina_niemodlinska
+  name: Równina Niemodlińska
+  code: "318.55"
+  bbox:
+    south: 50.376551687257376
+    north: 50.767039185667514
+    west: 17.36283588546485
+    east: 17.949098742495913
+- slug: masyw_slezy
+  name: Masyw Ślęży
+  code: "332.13"
+  bbox:
+    south: 50.809381534223384
+    north: 50.91374141105707
+    west: 16.5853249256525
+    east: 16.855224320518712
+- slug: obnizenie_podsudeckie
+  name: Obniżenie Podsudeckie
+  code: "332.15"
+  bbox:
+    south: 50.658444977734575
+    north: 51.009307968353866
+    west: 16.161507245127964
+    east: 16.67534947686277
+- slug: rownina_swidnicka
+  name: Równina Świdnicka
+  code: "332.12"
+  bbox:
+    south: 50.723107515830584
+    north: 50.97171722477395
+    west: 16.313694029820883
+    east: 16.76294243839658
+- slug: wzgorza_strzegomskie
+  name: Wzgórza Strzegomskie
+  code: "332.11"
+  bbox:
+    south: 50.93761042940644
+    north: 51.09817539853527
+    west: 16.208911353451388
+    east: 16.63509473721253
+- slug: rownina_chojnowska
+  name: Równina Chojnowska
+  code: "317.78"
+  bbox:
+    south: 50.97709712447248
+    north: 51.368536387530845
+    west: 15.574145876021449
+    east: 16.330151474029236
+- slug: rownina_legnicka
+  name: Równina Legnicka
+  code: "317.77"
+  bbox:
+    south: 51.153847402626056
+    north: 51.441017582631815
+    west: 15.675718067694369
+    east: 16.358407675318336
+- slug: chelm
+  name: Chełm
+  code: "341.11"
+  bbox:
+    south: 50.386585925071955
+    north: 50.575324727486354
+    west: 18.00768772793852
+    east: 18.5287584677836
+- slug: pagory_jaworznickie
+  name: Pagóry Jaworznickie
+  code: "341.14"
+  bbox:
+    south: 50.113538752264375
+    north: 50.45761049980055
+    west: 19.029706916741915
+    east: 19.501998589105675
+- slug: wyzyna_katowicka
+  name: Wyżyna Katowicka
+  code: "341.13"
+  bbox:
+    south: 50.118457136263075
+    north: 50.43018683270468
+    west: 18.504619255345105
+    east: 19.24809662751735
+- slug: wal_muzakowski
+  name: Wał Mużakowski
+  code: "317.46"
+  bbox:
+    south: 51.52178294733357
+    north: 51.711716169300445
+    west: 14.715964858770716
+    east: 14.910418808553525
+- slug: bory_dolnoslaskie
+  name: Bory Dolnośląskie
+  code: "317.74"
+  bbox:
+    south: 51.246406817919784
+    north: 51.58150710060237
+    west: 14.760635744272625
+    east: 15.841764152505412
+- slug: wzniesienia_zarskie
+  name: Wzniesienia Żarskie
+  code: "318.41"
+  bbox:
+    south: 51.50539916993901
+    north: 51.77720117138532
+    west: 14.827501449762941
+    east: 15.266086818057664
+- slug: mierzeja_helska
+  name: Mierzeja Helska
+  code: "313.52"
+  bbox:
+    south: 54.59280943941242
+    north: 54.791076003233556
+    west: 18.423325285208005
+    east: 18.828895401882864
+- slug: rownina_warszawska
+  name: Równina Warszawska
+  code: "318.76"
+  bbox:
+    south: 51.74216104864607
+    north: 52.308343933060485
+    west: 20.76426569511067
+    east: 21.26359517179382
+- slug: obnizenie_scinawskie
+  name: Obniżenie Ścinawskie
+  code: "318.43"
+  bbox:
+    south: 51.29636022674836
+    north: 51.56818174983446
+    west: 16.303645715685697
+    east: 16.572197244838065
+- slug: prog_lelowski
+  name: Próg Lelowski
+  code: "342.13"
+  bbox:
+    south: 50.47057530475174
+    north: 50.791851617546634
+    west: 19.472908665213925
+    east: 19.87611469250948
+- slug: wyzyna_czestochowska
+  name: Wyżyna Częstochowska
+  code: "341.31"
+  bbox:
+    south: 50.338758798409586
+    north: 50.84576002056069
+    west: 19.13137295115116
+    east: 19.798923349634855
+- slug: obnizenie_gornej_warty
+  name: Obniżenie Górnej Warty
+  code: "341.25"
+  bbox:
+    south: 50.471236976263505
+    north: 50.81753948200947
+    west: 18.93303329271663
+    east: 19.50225137089766
+- slug: mierzeja_wislana
+  name: Mierzeja Wiślana
+  code: "313.53"
+  bbox:
+    south: 54.325880298964925
+    north: 54.465470537966176
+    west: 18.55971993180684
+    east: 19.648963762471656
+- slug: zulawy_wislane
+  name: Żuławy Wiślane
+  code: "313.54"
+  bbox:
+    south: 53.93300116385135
+    north: 54.46130921621569
+    west: 18.558806572548857
+    east: 19.628828008486888
+- slug: pojezierze_starogardzkie
+  name: Pojezierze Starogardzkie
+  code: "314.52"
+  bbox:
+    south: 53.631584491045615
+    north: 54.201694700877624
+    west: 18.216182347643947
+    east: 18.849313312780556
+- slug: pojezierze_brodnickie
+  name: Pojezierze Brodnickie
+  code: "315.12"
+  bbox:
+    south: 53.22768103711962
+    north: 53.6097316570277
+    west: 19.055548325798146
+    east: 19.605411035038774
+- slug: pojezierze_chelminskie
+  name: Pojezierze Chełmińskie
+  code: "315.11"
+  bbox:
+    south: 53.03254461898829
+    north: 53.51353231169433
+    west: 18.210612384243916
+    east: 19.295015567497625
+- slug: pojezierze_kujawskie
+  name: Pojezierze Kujawskie
+  code: "315.57"
+  bbox:
+    south: 52.211755668275416
+    north: 52.663165459396524
+    west: 18.34135361398431
+    east: 19.45035291482216
+- slug: rownina_wrzesinska
+  name: Równina Wrzesińska
+  code: "315.56"
+  bbox:
+    south: 52.100900421094025
+    north: 52.5637170301881
+    west: 16.90235097648036
+    east: 18.14140194969047
+- slug: lubuski_przelom_odry
+  name: Lubuski Przełom Odry
+  code: "315.41"
+  bbox:
+    south: 52.3096205382322
+    north: 52.50129056154666
+    west: 14.534207056501574
+    east: 14.656867233491916
+- slug: rownina_torzymska
+  name: Równina Torzymska
+  code: "315.43"
+  bbox:
+    south: 52.05009297236427
+    north: 52.40776665470498
+    west: 14.581955367459967
+    east: 15.296122862606907
+- slug: pojezierze_lagowskie
+  name: Pojezierze Łagowskie
+  code: "315.42"
+  bbox:
+    south: 52.032362487979626
+    north: 52.62513592102334
+    west: 14.628284255458173
+    east: 15.807796626411223
+- slug: dolina_dolnego_bobru
+  name: Dolina Dolnego Bobru
+  code: "315.72"
+  bbox:
+    south: 51.860937941524114
+    north: 52.00051933293024
+    west: 15.048231495189
+    east: 15.19240424443756
+- slug: kotlina_sremska
+  name: Kotlina Śremska
+  code: "315.64"
+  bbox:
+    south: 52.047736146014635
+    north: 52.25700746562308
+    west: 16.658216252236535
+    east: 17.73250520242379
+- slug: dolina_koninska
+  name: Dolina Konińska
+  code: "318.13"
+  bbox:
+    south: 52.09621597562767
+    north: 52.241335777403805
+    west: 17.692618136817295
+    east: 18.236356976348667
+- slug: kotlina_kolska
+  name: Kotlina Kolska
+  code: "318.14"
+  bbox:
+    south: 51.90543874449835
+    north: 52.29502699149116
+    west: 18.222565240024906
+    east: 19.17970597620615
+- slug: wysoczyzna_klodawska
+  name: Wysoczyzna Kłodawska
+  code: "318.15"
+  bbox:
+    south: 52.104857041997775
+    north: 52.39764501821523
+    west: 18.608034965983215
+    east: 19.421926925940824
+- slug: rownina_kutnowska
+  name: Równina Kutnowska
+  code: "318.71"
+  bbox:
+    south: 52.103852711675174
+    north: 52.46083779152412
+    west: 19.235941798853442
+    east: 20.175766506270158
+- slug: wzniesienia_lodzkie
+  name: Wzniesienia Łódzkie
+  code: "318.82"
+  bbox:
+    south: 51.629145943882136
+    north: 52.0191673457876
+    west: 19.356293417352745
+    east: 20.288259979908428
+- slug: wysoczyzna_belchatowska
+  name: Wysoczyzna Bełchatowska
+  code: "318.81"
+  bbox:
+    south: 51.06267757223755
+    north: 51.65570785413653
+    west: 18.844503936158368
+    east: 19.708380003157036
+- slug: wysoczyzna_laska
+  name: Wysoczyzna Łaska
+  code: "318.19"
+  bbox:
+    south: 51.39042960386641
+    north: 52.01298495478047
+    west: 18.664751646902
+    east: 19.50433561246141
+- slug: rownina_inowroclawska
+  name: Równina Inowrocławska
+  code: "315.55"
+  bbox:
+    south: 52.58355998835857
+    north: 52.95763758528547
+    west: 17.884790534518242
+    east: 18.950044147671296
+- slug: kotlina_plocka
+  name: Kotlina Płocka
+  code: "315.36"
+  bbox:
+    south: 52.40472325404048
+    north: 52.67286988486999
+    west: 18.95588243104715
+    east: 19.812248425570584
+- slug: kotlina_zasiecka
+  name: Kotlina Zasiecka
+  code: "317.23"
+  bbox:
+    south: 51.55580425837274
+    north: 51.86555229818099
+    west: 14.589615033158953
+    east: 15.046158760883623
+- slug: obnizenie_nowosolskie
+  name: Obniżenie Nowosolskie
+  code: "318.31"
+  bbox:
+    south: 51.73399357574145
+    north: 51.907649772363825
+    west: 15.105460338590925
+    east: 15.752988204861074
+- slug: wzgorza_dalkowskie
+  name: Wzgórza Dalkowskie
+  code: "318.42"
+  bbox:
+    south: 51.42263247004232
+    north: 51.811008273727055
+    west: 15.240791201992337
+    east: 16.459393993691965
+- slug: wysoczyzna_lubinska
+  name: Wysoczyzna Lubińska
+  code: "317.76"
+  bbox:
+    south: 51.236912149482905
+    north: 51.45020276597223
+    west: 16.081621291028934
+    east: 16.466723434033145
+- slug: rownina_przemkowska
+  name: Równina Przemkowska
+  code: "317.75"
+  bbox:
+    south: 51.32330347731098
+    north: 51.63020076839362
+    west: 15.64273798716508
+    east: 16.176354693922455
+- slug: plaskowyz_suchedniowski
+  name: Płaskowyż Suchedniowski
+  code: "342.31"
+  bbox:
+    south: 50.90985918862075
+    north: 51.1346089707604
+    west: 20.21523060332241
+    east: 21.2552512344049
+- slug: wyzyna_sandomierska
+  name: Wyżyna Sandomierska
+  code: "342.36"
+  bbox:
+    south: 50.59681322101848
+    north: 50.98263555276277
+    west: 21.14082244121402
+    east: 21.862531165992724
+- slug: gory_swietokrzyskie
+  name: Góry Świętokrzyskie
+  code: 342.34-35
+  bbox:
+    south: 50.60188808866469
+    north: 51.043950728810366
+    west: 20.303603681278823
+    east: 21.442689314123275
+- slug: niecka_polaniecka
+  name: Niecka Połaniecka
+  code: "342.28"
+  bbox:
+    south: 50.42371568520536
+    north: 50.62623898477019
+    west: 20.513918121305604
+    east: 21.597858737548187
+- slug: dolina_nidy
+  name: Dolina Nidy
+  code: "342.25"
+  bbox:
+    south: 50.285499004419556
+    north: 50.80010940195937
+    west: 20.328130297721618
+    east: 20.867389032466328
+- slug: pogorze_szydlowskie
+  name: Pogórze Szydłowskie
+  code: "342.37"
+  bbox:
+    south: 50.54724468517863
+    north: 50.779936591959995
+    west: 20.423770658317103
+    east: 21.428865921384062
+- slug: garb_pinczowski
+  name: Garb Pińczowski
+  code: "342.27"
+  bbox:
+    south: 50.37722290474506
+    north: 50.55385651618054
+    west: 20.482297233909343
+    east: 21.312116492786135
+- slug: niecka_solecka
+  name: Niecka Solecka
+  code: "342.26"
+  bbox:
+    south: 50.32373099386671
+    north: 50.467632443169634
+    west: 20.614508462478508
+    east: 21.008927949109903
+- slug: wzgorza_lopuszanskie
+  name: Wzgórza Łopuszańskie
+  code: "342.16"
+  bbox:
+    south: 50.80605508376649
+    north: 51.138196269220344
+    west: 19.940234807132324
+    east: 20.500276497644567
+- slug: plaskowyz_proszowicki
+  name: Płaskowyż Proszowicki
+  code: "342.23"
+  bbox:
+    south: 50.084909378227756
+    north: 50.410506272490615
+    west: 19.936157078636597
+    east: 20.7769304520623
+- slug: wzgorza_radomszczanskie
+  name: Wzgórza Radomszczańskie
+  code: "342.11"
+  bbox:
+    south: 50.92390234124985
+    north: 51.25716374096343
+    west: 19.286455355295644
+    east: 19.938532442512003
+- slug: pasmo_przedborsko-malogoskie
+  name: Pasmo Przedborsko-Małogoskie
+  code: "342.15"
+  bbox:
+    south: 50.706443388557666
+    north: 51.089112102859886
+    west: 19.839846756365937
+    east: 20.428287759128754
+- slug: plaskowyz_jedrzejowski
+  name: Płaskowyż Jędrzejowski
+  code: "342.21"
+  bbox:
+    south: 50.48691904193508
+    north: 50.88031267868643
+    west: 19.7669075106918
+    east: 20.493576060904882
+- slug: wyzyna_miechowska
+  name: Wyżyna Miechowska
+  code: "342.22"
+  bbox:
+    south: 50.12315567717771
+    north: 50.52241155812145
+    west: 19.74890747902452
+    east: 20.35685504355676
+- slug: niecka_wloszczowska
+  name: Niecka Włoszczowska
+  code: "342.14"
+  bbox:
+    south: 50.57073260594804
+    north: 50.99903459908409
+    west: 19.576681292830365
+    east: 20.03586802918037
+- slug: garb_wodzislawski
+  name: Garb Wodzisławski
+  code: "342.24"
+  bbox:
+    south: 50.31067224883509
+    north: 50.5886618349601
+    west: 19.97189445924596
+    east: 20.683998039870566
+- slug: wysoczyzna_roscislawska
+  name: Wysoczyzna Rościsławska
+  code: "318.51"
+  bbox:
+    south: 51.24714560852289
+    north: 51.39589216787567
+    west: 16.437328200250306
+    east: 16.800851610549007
+- slug: kotlina_szczercowska
+  name: Kotlina Szczercowska
+  code: "318.23"
+  bbox:
+    south: 51.19511315033826
+    north: 51.52858631401068
+    west: 18.804924558704048
+    east: 19.39145339883414
+- slug: wyzyna_wielunska
+  name: Wyżyna Wieluńska
+  code: "341.21"
+  bbox:
+    south: 50.82209925977215
+    north: 51.2226280273254
+    west: 18.428443836794944
+    east: 19.421356374580633
+- slug: obnizenie_krzepickie
+  name: Obniżenie Krzepickie
+  code: "341.26"
+  bbox:
+    south: 50.79121460679928
+    north: 51.13455351851233
+    west: 18.40018824547683
+    east: 19.147556693549383
+- slug: wzniesienia_gubinskie
+  name: Wzniesienia Gubińskie
+  code: "315.71"
+  bbox:
+    south: 51.73775962542222
+    north: 52.033853577085864
+    west: 14.619241470348914
+    east: 15.174783912705488
+- slug: dolina_srodkowej_odry
+  name: Dolina Środkowej Odry
+  code: "315.61"
+  bbox:
+    south: 51.990927083719555
+    north: 52.314607902124116
+    west: 14.57414003619459
+    east: 15.548953523221803
+- slug: wysoczyzna_czerwienska
+  name: Wysoczyzna Czerwieńska
+  code: "315.73"
+  bbox:
+    south: 51.87635004875523
+    north: 52.04042687548535
+    west: 15.056531898876122
+    east: 15.595613921198298
+- slug: wal_zielonogorski
+  name: Wał Zielonogórski
+  code: "315.74"
+  bbox:
+    south: 51.83339300533105
+    north: 51.97600160867383
+    west: 15.188858161397592
+    east: 15.773646526541786
+- slug: pradolina_wroclawska
+  name: Pradolina Wrocławska
+  code: "318.52"
+  bbox:
+    south: 50.52124200555626
+    north: 51.317534550020056
+    west: 16.341315768897463
+    east: 18.110935424438008
+- slug: prog_herbski
+  name: Próg Herbski
+  code: "341.24"
+  bbox:
+    south: 50.64386168642478
+    north: 51.101912255652046
+    west: 18.255451409811744
+    east: 19.141866479396867
+- slug: prog_woznicki
+  name: Próg Woźnicki
+  code: "341.23"
+  bbox:
+    south: 50.48258153607635
+    north: 50.83074489590471
+    west: 18.326968767232994
+    east: 19.416641113191332
+- slug: obnizenie_liswarty
+  name: Obniżenie Liswarty
+  code: "341.22"
+  bbox:
+    south: 50.63447056247343
+    north: 50.87801151495544
+    west: 18.404017724628716
+    east: 19.107537078523738
+- slug: rownina_opolska
+  name: Równina Opolska
+  code: "318.57"
+  bbox:
+    south: 50.523965755964056
+    north: 51.10111408044133
+    west: 17.65037747365107
+    east: 18.72372203405383
+- slug: rownina_olesnicka
+  name: Równina Oleśnicka
+  code: "318.56"
+  bbox:
+    south: 50.86249436828273
+    north: 51.354638063140385
+    west: 16.888157973613275
+    east: 17.927243227238506
+- slug: garb_tarnogorski
+  name: Garb Tarnogórski
+  code: "341.12"
+  bbox:
+    south: 50.387331572813636
+    north: 50.53349722993479
+    west: 18.495072421289716
+    east: 19.235080644625864
+- slug: pradolina_glogowska
+  name: Pradolina Głogowska
+  code: "318.32"
+  bbox:
+    south: 51.54709882344298
+    north: 51.83166667802566
+    west: 15.69205453030499
+    east: 16.686881628655268
+- slug: wzgorza_twardogorskie
+  name: Wzgórza Twardogórskie
+  code: "318.45"
+  bbox:
+    south: 51.27599057132277
+    north: 51.531700098041476
+    west: 17.19772617035562
+    east: 17.751996464036072
+- slug: wzgorza_trzebnickie
+  name: Wzgórza Trzebnickie
+  code: "318.44"
+  bbox:
+    south: 51.233195013148894
+    north: 51.5758047973691
+    west: 16.51298976291701
+    east: 17.352238051060304
+- slug: kotlina_zmigrodzka
+  name: Kotlina Żmigrodzka
+  code: "318.33"
+  bbox:
+    south: 51.33648853575604
+    north: 51.66993091809356
+    west: 16.670739901658113
+    east: 17.32280293470182
+- slug: wzgorza_ostrzeszowskie
+  name: Wzgórza Ostrzeszowskie
+  code: "318.46"
+  bbox:
+    south: 51.280790555173546
+    north: 51.58952015631095
+    west: 17.72064531200425
+    east: 18.03537772846817
+- slug: kotlina_milicka
+  name: Kotlina Milicka
+  code: "318.34"
+  bbox:
+    south: 51.30218892580205
+    north: 51.64581217900977
+    west: 17.208084511701678
+    east: 18.130702552388488
+- slug: wysoczyzna_wieruszowska
+  name: Wysoczyzna Wieruszowska
+  code: "318.24"
+  bbox:
+    south: 51.04697057893972
+    north: 51.42140892183925
+    west: 17.82163044404738
+    east: 18.545246182967848
+- slug: kotlina_grabowska
+  name: Kotlina Grabowska
+  code: "318.21"
+  bbox:
+    south: 51.249890222939904
+    north: 51.70305048007908
+    west: 17.98022415379843
+    east: 18.48436891512325
+- slug: rownina_rychwalska
+  name: Równina Rychwalska
+  code: "318.16"
+  bbox:
+    south: 51.839550140778734
+    north: 52.2084518447257
+    west: 17.56787048008886
+    east: 18.421386780003647
+- slug: wysoczyzna_kaliska
+  name: Wysoczyzna Kaliska
+  code: "318.12"
+  bbox:
+    south: 51.5001498842044
+    north: 52.04952704209004
+    west: 16.761247424585843
+    east: 18.30256593216563
+- slug: wal_zerkowski
+  name: Wał Żerkowski
+  code: "315.84"
+  bbox:
+    south: 51.970352387970586
+    north: 52.09960831338807
+    west: 17.035660294455887
+    east: 17.62519712782618
+- slug: rownina_koscianska
+  name: Równina Kościańska
+  code: "315.83"
+  bbox:
+    south: 51.92069632090412
+    north: 52.195126283176194
+    west: 16.295814433723343
+    east: 17.002822934914622
+- slug: pojezierze_krzywinskie
+  name: Pojezierze Krzywińskie
+  code: "315.82"
+  bbox:
+    south: 51.86029005051889
+    north: 52.11081487832956
+    west: 16.37228488990657
+    east: 17.125700083908566
+- slug: dolina_srodkowej_obry
+  name: Dolina Środkowej Obry
+  code: "315.63"
+  bbox:
+    south: 52.00014993186286
+    north: 52.17546492007883
+    west: 16.15755970160941
+    east: 16.679191751980408
+- slug: pojezierze_slawskie
+  name: Pojezierze Sławskie
+  code: "315.81"
+  bbox:
+    south: 51.74209419780734
+    north: 52.01134187094369
+    west: 15.781896427032873
+    east: 16.40058987555823
+- slug: wysoczyzna_leszczynska
+  name: Wysoczyzna Leszczyńska
+  code: "318.11"
+  bbox:
+    south: 51.547976751444715
+    north: 51.91805374025978
+    west: 16.153165350898693
+    east: 17.012398732989745
+- slug: rownina_bielska
+  name: Równina Bielska
+  code: "843.37"
+  bbox:
+    south: 52.47481459626118
+    north: 52.94409510572824
+    west: 22.557119945539263
+    east: 23.93956506373942
+- slug: wysoczyzna_drohiczynska
+  name: Wysoczyzna Drohiczyńska
+  code: "843.38"
+  bbox:
+    south: 52.283604112543564
+    north: 52.70277618276045
+    west: 22.43260760307975
+    east: 23.36595659880881
+- slug: dolina_gornej_narwi
+  name: Dolina Górnej Narwi
+  code: "843.36"
+  bbox:
+    south: 52.877040086796505
+    north: 53.23811563212052
+    west: 22.60670403804937
+    east: 23.925194523623304
+- slug: wysoczyzna_bialostocka
+  name: Wysoczyzna Białostocka
+  code: "843.33"
+  bbox:
+    south: 52.89498217088943
+    north: 53.61439887615412
+    west: 22.632644781059852
+    east: 23.946270057714646
+- slug: wzgorza_sokolskie
+  name: Wzgórza Sokólskie
+  code: "843.34"
+  bbox:
+    south: 53.15408976317561
+    north: 53.80197353620464
+    west: 23.053626813692365
+    east: 23.915200077800513
+- slug: pojezierze_zachodniosuwalskie
+  name: Pojezierze Zachodniosuwalskie
+  code: "842.72"
+  bbox:
+    south: 53.913589903925924
+    north: 54.313885557132295
+    west: 22.401370009633254
+    east: 22.984186903465513
+- slug: wzgorza_szeskie
+  name: Wzgórza Szeskie
+  code: "842.85"
+  bbox:
+    south: 54.067891224217085
+    north: 54.31117790082034
+    west: 22.16266952621761
+    east: 22.446873176429136
+- slug: wysoczyzna_kaluszynska
+  name: Wysoczyzna Kałuszyńska
+  code: "318.92"
+  bbox:
+    south: 52.00436446884099
+    north: 52.45743390149353
+    west: 21.445198973331255
+    east: 22.01775262892353
+- slug: kraina_wielkich_jezior_mazurskich
+  name: Kraina Wielkich Jezior Mazurskich
+  code: "842.83"
+  bbox:
+    south: 53.64420096938794
+    north: 54.26794635959396
+    west: 21.332590952483336
+    east: 22.150687944058497
+- slug: pojezierze_mragowskie
+  name: Pojezierze Mrągowskie
+  code: "842.82"
+  bbox:
+    south: 53.55024946968544
+    north: 54.14261267576634
+    west: 20.793619957574897
+    east: 21.578232668480442
+- slug: dolina_brdy
+  name: Dolina Brdy
+  code: "314.72"
+  bbox:
+    south: 53.15294901422524
+    north: 53.63379442287848
+    west: 17.831720493004728
+    east: 18.066372654756538
+- slug: dolina_drwecy
+  name: Dolina Drwęcy
+  code: "315.13"
+  bbox:
+    south: 53.00388754596906
+    north: 53.74283367861743
+    west: 18.74813575625184
+    east: 20.000625204047086
+- slug: pojezierze_dobrzynskie
+  name: Pojezierze Dobrzyńskie
+  code: "315.14"
+  bbox:
+    south: 52.59760770804201
+    north: 53.28177645809294
+    west: 18.806443894125408
+    east: 19.735780188948564
+- slug: garb_lubawski
+  name: Garb Lubawski
+  code: "315.15"
+  bbox:
+    south: 53.234703618173754
+    north: 53.69228976318362
+    west: 19.527346931183082
+    east: 20.458679909988504
+- slug: kotlina_grudziadzka
+  name: Kotlina Grudziądzka
+  code: "314.82"
+  bbox:
+    south: 53.37544903230175
+    north: 53.56544817122438
+    west: 18.575878577153222
+    east: 18.869965927362582
+- slug: dolina_fordonska
+  name: Dolina Fordońska
+  code: "314.83"
+  bbox:
+    south: 53.151008359825916
+    north: 53.44775414194966
+    west: 18.14580021296806
+    east: 18.648731769707425
+- slug: dolina_kwidzynska
+  name: Dolina Kwidzyńska
+  code: "314.81"
+  bbox:
+    south: 53.539887577081934
+    north: 53.99277320623852
+    west: 18.66850241703102
+    east: 18.965395362312947
+- slug: bory_tucholskie
+  name: Bory Tucholskie
+  code: "314.71"
+  bbox:
+    south: 53.434009705484414
+    north: 54.251873810358305
+    west: 17.590573800388697
+    east: 18.714645514500894
+- slug: pojezierze_dzierzgonsko-moraskie
+  name: Pojezierze Dzierzgońsko-Morąskie
+  code: "314.91"
+  bbox:
+    south: 53.68498374915347
+    north: 54.0819815093876
+    west: 18.888434245892324
+    east: 20.151683809508096
+- slug: pojezierze_olsztynskie
+  name: Pojezierze Olsztyńskie
+  code: "842.81"
+  bbox:
+    south: 53.49629776240683
+    north: 54.08136508723481
+    west: 20.049109852357056
+    east: 20.8940530926344
+- slug: wysoczyzna_swiecka
+  name: Wysoczyzna Świecka
+  code: "314.73"
+  bbox:
+    south: 53.1565165770847
+    north: 53.62794223118383
+    west: 17.932116810660904
+    east: 18.568112678286166
+- slug: nieszawski_przelom_wisly
+  name: Nieszawski Przełom Wisły
+  code: "315.37"
+  bbox:
+    south: 52.647170840537086
+    north: 52.847538936952354
+    west: 18.892859394132394
+    east: 19.08210487588415
+- slug: garb_wlodawski
+  name: Garb Włodawski
+  code: "845.15"
+  bbox:
+    south: 51.468269163252
+    north: 51.66272837394833
+    west: 23.06000682878338
+    east: 23.566250737843493
+- slug: obnizenie_chodelskie
+  name: Obniżenie Chodelskie
+  code: "343.14"
+  bbox:
+    south: 51.108469387025224
+    north: 51.23554382888194
+    west: 21.865850001083455
+    east: 22.124651110339826
+- slug: wynioslosc_gielczewska
+  name: Wyniosłość Giełczewska
+  code: "343.17"
+  bbox:
+    south: 50.74653624615901
+    north: 51.158198595077195
+    west: 22.402530345695393
+    east: 23.175681862657566
+- slug: roztocze_zachodnie
+  name: Roztocze Zachodnie
+  code: "343.21"
+  bbox:
+    south: 50.50791528451878
+    north: 50.9806126245891
+    west: 22.31190318208307
+    east: 23.000864064374802
+- slug: obnizenie_dorohuckie
+  name: Obniżenie Dorohuckie
+  code: "845.31"
+  bbox:
+    south: 50.98934297709954
+    north: 51.31460883832995
+    west: 22.91339668975139
+    east: 23.25133491569258
+- slug: zakleslosc_sosnowicka
+  name: Zaklęsłość Sosnowicka
+  code: "845.14"
+  bbox:
+    south: 51.51824185809887
+    north: 51.71812222799014
+    west: 22.789914075975275
+    east: 23.52070046415712
+- slug: grzeda_sokalska
+  name: Grzęda Sokalska
+  code: "851.13"
+  bbox:
+    south: 50.42071709752132
+    north: 50.6342005129647
+    west: 23.38701465896217
+    east: 24.098657021822138
+- slug: pojezierze_leczynsko-wlodawskie
+  name: Pojezierze Łęczyńsko-Włodawskie
+  code: "845.16"
+  bbox:
+    south: 51.296121266255675
+    north: 51.56740567297999
+    west: 22.843925784278746
+    east: 23.690137758230783
+- slug: pagory_chelmskie
+  name: Pagóry Chełmskie
+  code: "845.32"
+  bbox:
+    south: 51.066331055037665
+    north: 51.37266677386873
+    west: 23.054726737905344
+    east: 23.651554255051614
+- slug: plaskowyz_naleczowski
+  name: Płaskowyż Nałęczowski
+  code: "343.12"
+  bbox:
+    south: 51.21078741865337
+    north: 51.39613681655367
+    west: 21.928967938106194
+    east: 22.680048703158672
+- slug: plaskowyz_tarnogrodzki
+  name: Płaskowyż Tarnogrodzki
+  code: "512.49"
+  bbox:
+    south: 49.86166267966237
+    north: 50.490859571293775
+    west: 22.294488014956485
+    east: 23.399675110546443
+- slug: wysoczyzna_turecka
+  name: Wysoczyzna Turecka
+  code: "318.17"
+  bbox:
+    south: 51.64261309923649
+    north: 52.1956737380529
+    west: 18.193535280007975
+    east: 18.719922935104144
+- slug: rownina_olsztynka
+  name: Równina Olsztynka
+  code: "842.88"
+  bbox:
+    south: 53.46354474911163
+    north: 53.94103960447105
+    west: 19.81849397375136
+    east: 20.615693373026584
+- slug: wysoczyzna_jezioransko-bisztynecka
+  name: Wysoczyzna Jeziorańsko-Bisztynecka
+  code: "842.89"
+  bbox:
+    south: 53.86376418676522
+    north: 54.19821086457667
+    west: 20.16542694426852
+    east: 20.979798193830284
+- slug: pojezierze_lasinskie
+  name: Pojezierze Łasińskie
+  code: "314.92"
+  bbox:
+    south: 53.470597378007376
+    north: 53.78432983654711
+    west: 18.765555855595167
+    east: 19.528118930275404
+- slug: rownina_ilawska
+  name: Równina Iławska
+  code: "314.93"
+  bbox:
+    south: 53.51112466004441
+    north: 53.83947918686392
+    west: 19.291577628104932
+    east: 19.870499559124713
+- slug: kotlina_biebrzanska
+  name: Kotlina Biebrzańska
+  code: "843.32"
+  bbox:
+    south: 53.07900116803592
+    north: 53.858900185558426
+    west: 22.183116360730494
+    east: 23.554006981912938
+- slug: wysoczyzna_kolnenska
+  name: Wysoczyzna Kolneńska
+  code: "843.31"
+  bbox:
+    south: 53.12711518468484
+    north: 53.637367193783845
+    west: 21.796396313222004
+    east: 22.516806750714334
+- slug: rownina_ornecka
+  name: Równina Ornecka
+  code: "841.58"
+  bbox:
+    south: 54.054405348181255
+    north: 54.1844830307662
+    west: 19.98197442081362
+    east: 20.43120543842635
+- slug: nizina_sepopolska
+  name: Nizina Sępopolska
+  code: "841.59"
+  bbox:
+    south: 54.03590145270221
+    north: 54.37526258309251
+    west: 20.491938336345612
+    east: 21.67747857835017
+- slug: puszcza_romincka
+  name: Puszcza Romincka
+  code: "842.71"
+  bbox:
+    south: 54.29648865511428
+    north: 54.361740712359634
+    west: 22.265940719966864
+    east: 22.734686805140715
+- slug: kraina_wegorapy
+  name: Kraina Węgorapy
+  code: "842.84"
+  bbox:
+    south: 54.20509036159537
+    north: 54.343771533360375
+    west: 21.643158375017837
+    east: 22.297056118352813
+- slug: pojezierze_elckie
+  name: Pojezierze Ełckie
+  code: "842.86"
+  bbox:
+    south: 53.461944827060606
+    north: 54.22305926396114
+    west: 21.844287656559512
+    east: 22.99673574243576
+- slug: pojezierze_wschodniosuwalskie
+  name: Pojezierze Wschodniosuwalskie
+  code: "842.73"
+  bbox:
+    south: 53.99977545493847
+    north: 54.4104028568418
+    west: 22.655326871045677
+    east: 23.50647964198749
+- slug: rownina_augustowska
+  name: Równina Augustowska
+  code: "842.74"
+  bbox:
+    south: 53.72668481343594
+    north: 54.22254464758439
+    west: 22.759383359458063
+    east: 23.552034960596384
+- slug: wzniesienia_gorowskie
+  name: Wzniesienia Górowskie
+  code: "841.57"
+  bbox:
+    south: 54.14553313197807
+    north: 54.42335265905157
+    west: 19.92874323285331
+    east: 20.59883076193068
+- slug: rownina_warminska
+  name: Równina Warmińska
+  code: "313.56"
+  bbox:
+    south: 54.02963056136622
+    north: 54.433869602081224
+    west: 19.589267091958376
+    east: 20.129530016284292
+- slug: wysoczyzna_elblaska
+  name: Wysoczyzna Elbląska
+  code: "313.55"
+  bbox:
+    south: 54.106416178814285
+    north: 54.33942413283214
+    west: 19.39095155386654
+    east: 19.767768010512796
+- slug: wybrzeze_staropruskie
+  name: Wybrzeże Staropruskie
+  code: "313.57"
+  bbox:
+    south: 54.23458163940862
+    north: 54.44236828336783
+    west: 19.38989857019888
+    east: 19.90100242389312
+- slug: rownina_charzykowska
+  name: Równina Charzykowska
+  code: "314.67"
+  bbox:
+    south: 53.729185480484254
+    north: 54.143764542557335
+    west: 16.931318606897293
+    east: 17.80457060989548
+- slug: pojezierze_bytowskie
+  name: Pojezierze Bytowskie
+  code: "314.47"
+  bbox:
+    south: 53.85497477642116
+    north: 54.25821820146663
+    west: 16.645641310080624
+    east: 17.784300688677032
+- slug: rownina_mazurska
+  name: Równina Mazurska
+  code: "842.87"
+  bbox:
+    south: 53.31180381519389
+    north: 53.796919354135575
+    west: 20.343246176391993
+    east: 22.196754333854365
+- slug: rownina_kurpiowska
+  name: Równina Kurpiowska
+  code: "318.65"
+  bbox:
+    south: 52.94628007026557
+    north: 53.52518632568504
+    west: 20.73946952821806
+    east: 21.931047928054646
+- slug: dolina_dolnej_narwi
+  name: Dolina Dolnej Narwi
+  code: "318.66"
+  bbox:
+    south: 52.52757655628872
+    north: 53.27851176008837
+    west: 21.07286396210374
+    east: 22.21217255135165
+- slug: rownina_raciaska
+  name: Równina Raciąska
+  code: "318.62"
+  bbox:
+    south: 52.68741165593169
+    north: 53.115194152274185
+    west: 19.712761923490927
+    east: 20.503876530746098
+- slug: wysoczyzna_ciechanowska
+  name: Wysoczyzna Ciechanowska
+  code: "318.64"
+  bbox:
+    south: 52.447198756358254
+    north: 53.11479401479156
+    west: 20.39353222775735
+    east: 21.451215537935806
+- slug: miedzyrzecze_lomzynskie
+  name: Międzyrzecze Łomżyńskie
+  code: "318.67"
+  bbox:
+    south: 52.53611322743519
+    north: 53.23972221100357
+    west: 21.16017185471381
+    east: 22.247481150957412
+- slug: wysoczyzna_wysokomazowiecka
+  name: Wysoczyzna Wysokomazowiecka
+  code: "843.35"
+  bbox:
+    south: 52.61233197137032
+    north: 53.209225962742885
+    west: 21.90517893306825
+    east: 22.959421554709905
+- slug: dolina_dolnego_bugu
+  name: Dolina Dolnego Bugu
+  code: "318.74"
+  bbox:
+    south: 52.48337528783425
+    north: 52.70403070514322
+    west: 21.168249777004593
+    east: 22.143371255642226
+- slug: podlaski_przelom_bugu
+  name: Podlaski Przełom Bugu
+  code: "318.91"
+  bbox:
+    south: 52.1296214590259
+    north: 52.703391068952655
+    west: 22.07285025235128
+    east: 23.515455015918008
+- slug: dolina_bialobrzeska
+  name: Dolina Białobrzeska
+  code: "318.85"
+  bbox:
+    south: 51.472382341898864
+    north: 51.66807073501156
+    west: 19.993719945250167
+    east: 20.917512485383707
+- slug: rownina_piotrkowska
+  name: Równina Piotrkowska
+  code: "318.84"
+  bbox:
+    south: 51.22455908070425
+    north: 51.7405817475636
+    west: 19.59105778034566
+    east: 20.38447607741357
+- slug: malopolski_przelom_wisly
+  name: Małopolski Przełom Wisły
+  code: "343.11"
+  bbox:
+    south: 50.80861385295866
+    north: 51.44777448151784
+    west: 21.74267558077412
+    east: 21.999205355279223
+- slug: przedgorze_ilzeckie
+  name: Przedgórze Iłżeckie
+  code: "342.33"
+  bbox:
+    south: 50.81419738396668
+    north: 51.34026640458112
+    west: 20.698446739257555
+    east: 21.841048883242415
+- slug: rownina_radomska
+  name: Równina Radomska
+  code: "318.86"
+  bbox:
+    south: 51.12180083313676
+    north: 51.62232390681262
+    west: 20.245604294201378
+    east: 21.977296463249363
+- slug: garb_gielniowski
+  name: Garb Gielniowski
+  code: "342.32"
+  bbox:
+    south: 51.08446153257551
+    north: 51.46779583487724
+    west: 20.296471497899173
+    east: 20.89495486132918
+- slug: wzgorza_opoczynskie
+  name: Wzgórza Opoczyńskie
+  code: "342.12"
+  bbox:
+    south: 51.02911935467688
+    north: 51.52765704184127
+    west: 19.8618550650632
+    east: 20.455734199111266
+- slug: dolina_dolnej_pilicy
+  name: Dolina Dolnej Pilicy
+  code: "318.70"
+  bbox:
+    south: 51.62591600556758
+    north: 51.809339625761076
+    west: 20.913677762857134
+    east: 21.294480460310425
+- slug: rownina_lowicko-blonska
+  name: Równina Łowicko-Błońska
+  code: "318.72"
+  bbox:
+    south: 51.926272091663485
+    north: 52.30293312498156
+    west: 19.152301847108127
+    east: 20.870535029993075
+- slug: wysoczyzna_rawska
+  name: Wysoczyzna Rawska
+  code: "318.83"
+  bbox:
+    south: 51.60350882827126
+    north: 52.09702686238691
+    west: 20.236246875393345
+    east: 21.09678196311202
+- slug: rownina_garwolinska
+  name: Równina Garwolińska
+  code: "318.79"
+  bbox:
+    south: 51.734229479464034
+    north: 52.201537641076236
+    west: 21.225819942041152
+    east: 21.842141356851464
+- slug: wysoczyzna_zelechowska
+  name: Wysoczyzna Żelechowska
+  code: "318.95"
+  bbox:
+    south: 51.564900151907736
+    north: 52.08002120863943
+    west: 21.550373536189277
+    east: 22.429666347040556
+- slug: rownina_lukowska
+  name: Równina Łukowska
+  code: "318.96"
+  bbox:
+    south: 51.632795406145576
+    north: 52.202514195720916
+    west: 22.20555929342579
+    east: 23.522730613722832
+- slug: obnizenie_wegrowskie
+  name: Obniżenie Węgrowskie
+  code: "318.93"
+  bbox:
+    south: 51.99229849779469
+    north: 52.479135900137216
+    west: 21.785681840595473
+    east: 22.19001681900462
+- slug: rownina_urszulewska
+  name: Równina Urszulewska
+  code: "315.16"
+  bbox:
+    south: 52.525455843589505
+    north: 53.499070654459445
+    west: 19.274234054059473
+    east: 20.21956976840841
+- slug: wysoczyzna_plonska
+  name: Wysoczyzna Płońska
+  code: "318.61"
+  bbox:
+    south: 52.38374729880679
+    north: 52.94776230387804
+    west: 19.63768374456441
+    east: 20.70846090899312
+- slug: wzniesienia_mlawskie
+  name: Wzniesienia Mławskie
+  code: "318.63"
+  bbox:
+    south: 52.831403694462345
+    north: 53.422166842577944
+    west: 19.77129282619146
+    east: 21.110377020594303
+- slug: kotlina_warszawska
+  name: Kotlina Warszawska
+  code: "318.73"
+  bbox:
+    south: 52.24570518632638
+    north: 52.53662982688254
+    west: 19.681423828701554
+    east: 21.201812979830773
+- slug: dolina_srodkowej_wisly
+  name: Dolina Środkowej Wisły
+  code: "318.75"
+  bbox:
+    south: 51.43811537064334
+    north: 52.2741755031673
+    west: 21.01594801482585
+    east: 22.020068851943844
+- slug: wysoczyzna_siedlecka
+  name: Wysoczyzna Siedlecka
+  code: "318.94"
+  bbox:
+    south: 51.96076682490036
+    north: 52.644458583249424
+    west: 21.842438112933017
+    east: 23.21545832512375
+- slug: rownina_wolominska
+  name: Równina Wołomińska
+  code: "318.78"
+  bbox:
+    south: 52.16114477420951
+    north: 52.643529074047144
+    west: 21.090689955346036
+    east: 22.084529270944476
+- slug: rownina_kozienicka
+  name: Równina Kozienicka
+  code: "318.77"
+  bbox:
+    south: 51.34691536820485
+    north: 51.75848072100885
+    west: 20.912960226265593
+    east: 21.70369139746092
+- slug: rownina_belzycka
+  name: Równina Bełżycka
+  code: "343.13"
+  bbox:
+    south: 51.07043767578309
+    north: 51.31838354785324
+    west: 21.884197995708398
+    east: 22.538189335739784
+- slug: roztocze_wschodnie
+  name: Roztocze Wschodnie
+  code: "343.23"
+  bbox:
+    south: 50.16914413801483
+    north: 50.394919303964315
+    west: 23.177645536706958
+    east: 23.587957160922755
+- slug: roztocze_srodkowe
+  name: Roztocze Środkowe
+  code: "343.22"
+  bbox:
+    south: 50.29146473311006
+    north: 50.69148879888894
+    west: 22.937643230738367
+    east: 23.643592546270035
+- slug: rownina_belska
+  name: Równina Bełska
+  code: "851.21"
+  bbox:
+    south: 50.27354913346054
+    north: 50.4526829219816
+    west: 23.57611624526736
+    east: 24.000731085508434
+- slug: kotlina_hrubieszowska
+  name: Kotlina Hrubieszowska
+  code: "851.12"
+  bbox:
+    south: 50.59095591638056
+    north: 50.84962572046319
+    west: 23.406667534214098
+    east: 24.098641161154504
+- slug: grzeda_horodelska
+  name: Grzęda Horodelska
+  code: "851.11"
+  bbox:
+    south: 50.821264076069575
+    north: 50.95336767322062
+    west: 23.67043017260062
+    east: 24.120082088237265
+- slug: wysoczyzna_parczewsko-kodenska
+  name: Wysoczyzna Parczewsko-Kodeńska
+  code: "845.12"
+  bbox:
+    south: 51.63289328450534
+    north: 52.11289258205274
+    west: 22.690764040789976
+    east: 23.631805271653533
+- slug: obnizenie_dubienskie
+  name: Obniżenie Dubieńskie
+  code: "845.33"
+  bbox:
+    south: 50.89210338080971
+    north: 51.28465486486015
+    west: 23.440310841328156
+    east: 24.048478818052516
+- slug: wzniesienia_urzedowskie
+  name: Wzniesienia Urzędowskie
+  code: "343.15"
+  bbox:
+    south: 50.752221243780966
+    north: 51.1427197184305
+    west: 21.796405285214764
+    east: 22.465593701115292
+- slug: rownina_bilgorajska
+  name: Równina Biłgorajska
+  code: "512.47"
+  bbox:
+    south: 50.30216563361305
+    north: 50.82163820225054
+    west: 21.9226562379566
+    east: 23.258434034850396
+- slug: dolina_srodkowego_bugu
+  name: Dolina Środkowego Bugu
+  code: "845.18"
+  bbox:
+    south: 50.950113935370425
+    north: 51.742226210575666
+    west: 23.502782898895404
+    east: 23.97068607864561
+- slug: dzialy_grabowieckie
+  name: Działy Grabowieckie
+  code: "343.18"
+  bbox:
+    south: 50.73775050929887
+    north: 51.088236631395596
+    west: 23.079558592005437
+    east: 23.897041825764834
+- slug: kotlina_zamojska
+  name: Kotlina Zamojska
+  code: "343.19"
+  bbox:
+    south: 50.633704396372465
+    north: 50.845662692744455
+    west: 22.83282738838836
+    east: 23.47902923406221
+- slug: wysoczyzna_lubartowska
+  name: Wysoczyzna Lubartowska
+  code: "318.98"
+  bbox:
+    south: 51.301114024900855
+    north: 51.70750676315851
+    west: 21.94982791937531
+    east: 22.92072346241906
+- slug: plaskowyz_swidnicki
+  name: Płaskowyż Świdnicki
+  code: "343.16"
+  bbox:
+    south: 51.08862472451599
+    north: 51.37671962941604
+    west: 22.489620130559878
+    east: 23.031277137024418
+- slug: pradolina_wieprza
+  name: Pradolina Wieprza
+  code: "318.97"
+  bbox:
+    south: 51.55053709870737
+    north: 51.77989503794286
+    west: 21.94932018967708
+    east: 22.74120989948911
+- slug: zakleslosc_lomaska
+  name: Zaklęsłość Łomaska
+  code: "845.11"
+  bbox:
+    south: 51.775398150085906
+    north: 52.03906077582276
+    west: 22.674126318272393
+    east: 23.361082445559017
+- slug: bruzda_zbaszynska
+  name: Bruzda Zbąszyńska
+  code: "315.44"
+  bbox:
+    south: 52.06709203711327
+    north: 52.52396818128765
+    west: 15.384524096107706
+    east: 15.930631938592933
+- slug: kotlina_kargowska
+  name: Kotlina Kargowska
+  code: "315.62"
+  bbox:
+    south: 51.82761917173192
+    north: 52.10005617005158
+    west: 15.516353653414084
+    east: 16.242970018670036
+- slug: wysoczyzna_grodziska
+  name: Wysoczyzna Grodziska
+  code: "315.59"
+  bbox:
+    south: 52.08436316088824
+    north: 52.49847174846774
+    west: 16.119389419313684
+    east: 16.889555912637277
+- slug: rownina_nowotomyska
+  name: Równina Nowotomyska
+  code: "315.50"
+  bbox:
+    south: 52.05224041187361
+    north: 52.55742814863748
+    west: 15.833948715543853
+    east: 16.252870914561534
+- slug: pojezierze_poznanskie
+  name: Pojezierze Poznańskie
+  code: "315.51"
+  bbox:
+    south: 52.347187012610874
+    north: 52.705378416950005
+    west: 15.415311474181154
+    east: 16.966906030001578
+- slug: poznanski_przelom_warty
+  name: Poznański Przełom Warty
+  code: "315.52"
+  bbox:
+    south: 52.2485301227351
+    north: 52.634573020295804
+    west: 16.83691776162341
+    east: 16.997572973743615
+- slug: rownina_goleniowska
+  name: Równina Goleniowska
+  code: "313.25"
+  bbox:
+    south: 53.33991719961249
+    north: 53.86408162453381
+    west: 14.538864080358321
+    east: 15.26612228525217
+- slug: wzniesienia_szczecinskie
+  name: Wzniesienia Szczecińskie
+  code: "313.26"
+  bbox:
+    south: 53.27554736387302
+    north: 53.53390347933107
+    west: 14.372810315372563
+    east: 14.61345798820293
+- slug: rownina_wkrzanska_rownina_policka
+  name: Równina Wkrzańska (Równina Policka)
+  code: "313.23"
+  bbox:
+    south: 53.41875586457701
+    north: 53.744139343786536
+    west: 14.266823164003497
+    east: 14.579986366414255
+- slug: rownina_nowogardzka
+  name: Równina Nowogardzka
+  code: "313.32"
+  bbox:
+    south: 53.28593345710417
+    north: 53.903292517890876
+    west: 14.844881124943933
+    east: 15.715861207314267
+- slug: rownina_pyrzycka
+  name: Równina Pyrzycka
+  code: "313.31"
+  bbox:
+    south: 52.96594403207323
+    north: 53.36390226457481
+    west: 14.770785508974251
+    east: 15.277058846694077
+- slug: pojezierze_drawskie
+  name: Pojezierze Drawskie
+  code: "314.45"
+  bbox:
+    south: 53.40427486415285
+    north: 54.05500341025989
+    west: 15.589243231741586
+    east: 16.822275580899472
+- slug: pojezierze_szczecineckie
+  name: Pojezierze Szczecineckie
+  code: "314.66"
+  bbox:
+    south: 53.40174722379135
+    north: 53.72201569710106
+    west: 16.4051337387601
+    east: 16.932916576228642
+- slug: pojezierze_mysliborskie
+  name: Pojezierze Myśliborskie
+  code: "314.41"
+  bbox:
+    south: 52.82458408703603
+    north: 53.10283681679738
+    west: 14.127860046186004
+    east: 15.211439973348087
+- slug: pojezierze_choszczenskie
+  name: Pojezierze Choszczeńskie
+  code: "314.42"
+  bbox:
+    south: 52.93480589412819
+    north: 53.28695687784926
+    west: 15.145398803101244
+    east: 15.686956823183781
+- slug: wysoczyzna_damnicka
+  name: Wysoczyzna Damnicka
+  code: "313.44"
+  bbox:
+    south: 54.36000222006598
+    north: 54.662661783338024
+    west: 16.90811054439162
+    east: 17.613538529809304
+- slug: rownina_slupska
+  name: Równina Słupska
+  code: "313.43"
+  bbox:
+    south: 54.12757867438051
+    north: 54.5753426165608
+    west: 16.184788893465356
+    east: 17.10197787007909
+- slug: wysoczyzna_polanowska
+  name: Wysoczyzna Polanowska
+  code: "314.46"
+  bbox:
+    south: 53.9826486347862
+    north: 54.44541251003829
+    west: 16.450131978385222
+    east: 17.63557437150645
+- slug: pojezierze_poludniowokrajenskie
+  name: Pojezierze Południowokrajeńskie
+  code: "314.74"
+  bbox:
+    south: 53.0702103593118
+    north: 53.54864676841784
+    west: 16.822340292222943
+    east: 17.950157568841128
+- slug: dolina_srodkowej_noteci
+  name: Dolina Środkowej Noteci
+  code: "315.34"
+  bbox:
+    south: 52.98380211997899
+    north: 53.14515470126467
+    west: 16.541369486816787
+    east: 17.644408074607796
+- slug: pojezierze_chodzieskie
+  name: Pojezierze Chodzieskie
+  code: "315.53"
+  bbox:
+    south: 52.72719992388744
+    north: 53.05969547973301
+    west: 16.450896111599118
+    east: 17.78492502296534
+- slug: pojezierze_zninsko-mogilenskie
+  name: Pojezierze Żnińsko-Mogileńskie
+  code: "315.58"
+  bbox:
+    south: 52.221633782078904
+    north: 53.10732038301944
+    west: 17.528635682207437
+    east: 18.40164499462222
+- slug: pojezierze_polnocnokrajenskie
+  name: Pojezierze Północnokrajeńskie
+  code: "314.69"
+  bbox:
+    south: 53.42202705099532
+    north: 53.85480394563764
+    west: 16.94493341924417
+    east: 17.914330256469928
+- slug: kotlina_torunska
+  name: Kotlina Toruńska
+  code: "315.35"
+  bbox:
+    south: 52.83838198509768
+    north: 53.173801505239894
+    west: 17.59025822609665
+    east: 19.04392091285747
+- slug: dolina_gwdy
+  name: Dolina Gwdy
+  code: "314.68"
+  bbox:
+    south: 53.06232136485672
+    north: 53.96256641912937
+    west: 16.654359423932103
+    east: 17.102078847771754
+- slug: rownina_walecka
+  name: Równina Wałecka
+  code: "314.65"
+  bbox:
+    south: 53.263946509097934
+    north: 53.579416662387935
+    west: 16.04698647542771
+    east: 16.807110102113732
+- slug: uznam_i_wolin
+  name: Uznam i Wolin
+  code: "313.21"
+  bbox:
+    south: 53.80120399599284
+    north: 53.999563882344695
+    west: 14.185310953407658
+    east: 14.700194587905306
+- slug: rownina_gryficka
+  name: Równina Gryficka
+  code: "313.33"
+  bbox:
+    south: 53.72583751850607
+    north: 54.13569733467484
+    west: 14.65154954938007
+    east: 16.06163140217931
+- slug: rownina_bialogardzka
+  name: Równina Białogardzka
+  code: "313.42"
+  bbox:
+    south: 53.8082647480271
+    north: 54.226207355406046
+    west: 15.572326035594285
+    east: 16.482817973463117
+- slug: wybrzeze_slowinskie
+  name: Wybrzeże Słowińskie
+  code: "313.41"
+  bbox:
+    south: 54.59327575313601
+    north: 54.8355209364515
+    west: 17.01079899991498
+    east: 18.306986527041566
+- slug: pojezierze_kaszubskie
+  name: Pojezierze Kaszubskie
+  code: "314.51"
+  bbox:
+    south: 53.96400034013768
+    north: 54.64942315138626
+    west: 17.540202576328355
+    east: 18.68796921242651
+- slug: pradolina_redy-leby
+  name: Pradolina Redy-Łeby
+  code: "313.46"
+  bbox:
+    south: 54.49523966484238
+    north: 54.674342706166364
+    west: 17.530383720986727
+    east: 18.339951268864876
+- slug: pojezierze_inskie
+  name: Pojezierze Ińskie
+  code: "314.43"
+  bbox:
+    south: 53.24853738345387
+    north: 53.63171970377536
+    west: 15.138636605943296
+    east: 15.873663304558791
+- slug: wysoczyzna_lobeska
+  name: Wysoczyzna Łobeska
+  code: "314.44"
+  bbox:
+    south: 53.58174416674964
+    north: 53.91519256561605
+    west: 15.240656644939442
+    east: 16.167506586517682
+- slug: wybrzeze_trzebiatowskie
+  name: Wybrzeże Trzebiatowskie
+  code: "313.22"
+  bbox:
+    south: 53.76170413134402
+    north: 54.18729225075608
+    west: 14.586521515349848
+    east: 15.591090340293032
+- slug: rownina_weltynska
+  name: Równina Wełtyńska
+  code: "313.28"
+  bbox:
+    south: 53.058271907481874
+    north: 53.33603489643256
+    west: 14.375917558933988
+    east: 14.809079283642017
+- slug: wzgorza_bukowe
+  name: Wzgórza Bukowe
+  code: "313.27"
+  bbox:
+    south: 53.25127664002451
+    north: 53.377708529195566
+    west: 14.551677047338861
+    east: 14.82656965041386
+- slug: dolina_dolnej_odry
+  name: Dolina Dolnej Odry
+  code: "313.24"
+  bbox:
+    south: 52.8494241836593
+    north: 53.867200608434274
+    west: 14.129630502385998
+    east: 14.766674036239817
+- slug: rownina_gorzowska
+  name: Równina Gorzowska
+  code: "314.61"
+  bbox:
+    south: 52.6020657667258
+    north: 52.963419004169936
+    west: 14.203451393182759
+    east: 15.513929801409503
+- slug: kotlina_freienwaldzka
+  name: Kotlina Freienwaldzka
+  code: "315.32"
+  bbox:
+    south: 52.498434939560155
+    north: 52.85247021997501
+    west: 14.122885022936305
+    east: 14.713808775997883
+- slug: pojezierze_dobiegniewskie
+  name: Pojezierze Dobiegniewskie
+  code: "314.62"
+  bbox:
+    south: 52.83317118215687
+    north: 53.07511346841872
+    west: 15.398362786862888
+    east: 15.910352835480046
+- slug: pojezierze_waleckie
+  name: Pojezierze Wałeckie
+  code: "314.64"
+  bbox:
+    south: 52.95576654408317
+    north: 53.47357866261283
+    west: 15.805519258982304
+    east: 16.699220885962806
+- slug: rownina_drawska
+  name: Równina Drawska
+  code: "314.63"
+  bbox:
+    south: 52.84654624695576
+    north: 53.48625493015147
+    west: 15.610082684156245
+    east: 16.225791884349878
+- slug: kotlina_gorzowska
+  name: Kotlina Gorzowska
+  code: "315.33"
+  bbox:
+    south: 52.50960984105721
+    north: 53.01865674355929
+    west: 14.689046294981223
+    east: 16.925167882841667
+- slug: wysoczyzna_choczewska
+  name: Wysoczyzna Choczewska
+  code: "313.45"
+  bbox:
+    south: 54.52831200806851
+    north: 54.81192149015048
+    west: 17.547683518328853
+    east: 18.129027290944773
+- slug: pobrzeze_kaszubskie
+  name: Pobrzeże Kaszubskie
+  code: "313.51"
+  bbox:
+    south: 54.47169202677444
+    north: 54.83578865977925
+    west: 18.067994157236193
+    east: 18.569242042451243
+- slug: kotlina_sieradzka
+  name: Kotlina Sieradzka
+  code: "318.18"
+  bbox:
+    south: 51.518461188459135
+    north: 51.91988794961759
+    west: 18.627131279274643
+    east: 18.89585606387281
+- slug: wysoczyzna_zloczewska
+  name: Wysoczyzna Złoczewska
+  code: "318.22"
+  bbox:
+    south: 51.194268409181
+    north: 51.66991632433518
+    west: 18.299655445275103
+    east: 18.832708121844302
+- slug: pogorze_orlickie
+  name: Pogórze Orlickie
+  code: "332.51"
+  bbox:
+    south: 50.36701453797163
+    north: 50.46681978714259
+    west: 16.195576156981772
+    east: 16.304058096463613
+- slug: gory_bardzkie
+  name: Góry Bardzkie
+  code: "332.45"
+  bbox:
+    south: 50.41689012550229
+    north: 50.57779764914934
+    west: 16.58551002934477
+    east: 16.81702857494312
+- slug: brama_lubawska
+  name: Brama Lubawska
+  code: "332.41"
+  bbox:
+    south: 50.67534796853768
+    north: 50.82267316427779
+    west: 15.87665283747477
+    east: 16.08921686631518
+- slug: obnizenie_scinawki
+  name: Obniżenie Ścinawki
+  code: "332.47"
+  bbox:
+    south: 50.45127833169108
+    north: 50.569271966405275
+    west: 16.359947479069614
+    east: 16.609295479812662
+- slug: kotlina_zytawska
+  name: Kotlina Żytawska
+  code: "332.25"
+  bbox:
+    south: 50.86193100418929
+    north: 50.986559387309214
+    west: 14.817374047462565
+    east: 15.021713805372714
+- slug: pogorze_kaczawskie
+  name: Pogórze Kaczawskie
+  code: "332.27"
+  bbox:
+    south: 50.95449927442401
+    north: 51.30961339987848
+    west: 15.503550083738808
+    east: 16.16150724512799
+- slug: pogorze_izerskie
+  name: Pogórze Izerskie
+  code: "332.26"
+  bbox:
+    south: 50.87321809414558
+    north: 51.32057613472859
+    west: 14.892964256750663
+    east: 15.734254113544363
+- slug: row_gornej_nysy
+  name: Rów Górnej Nysy
+  code: "332.55"
+  bbox:
+    south: 50.0963346681701
+    north: 50.38425629167731
+    west: 16.51215584481935
+    east: 16.7580790342638
+- slug: kotlina_klodzka
+  name: Kotlina Kłodzka
+  code: "332.54"
+  bbox:
+    south: 50.37449732633699
+    north: 50.481567938005114
+    west: 16.473539166439963
+    east: 16.72574933973524
+- slug: rudawy_janowickie
+  name: Rudawy Janowickie
+  code: "332.38"
+  bbox:
+    south: 50.73222152793898
+    north: 50.88797723288081
+    west: 15.84646507320138
+    east: 16.039243805559686
+- slug: gory_kaczawskie
+  name: Góry Kaczawskie
+  code: "332.35"
+  bbox:
+    south: 50.868348922941955
+    north: 51.02328401813449
+    west: 15.64302932835595
+    east: 16.072795642835082
+- slug: karkonosze
+  name: Karkonosze
+  code: "332.37"
+  bbox:
+    south: 50.67106352292746
+    north: 50.84886252729153
+    west: 15.429959291008245
+    east: 15.92413472986644
+- slug: kotlina_jeleniogorska
+  name: Kotlina Jeleniogórska
+  code: "332.36"
+  bbox:
+    south: 50.771430486754774
+    north: 50.94036165149168
+    west: 15.580160713461161
+    east: 15.925259068484456
+- slug: gory_izerskie
+  name: Góry Izerskie
+  code: "332.34"
+  bbox:
+    south: 50.77547784918106
+    north: 50.93019622720232
+    west: 15.266918203947649
+    east: 15.619901825354399
+- slug: gory_zlote
+  name: Góry Złote
+  code: "332.61"
+  bbox:
+    south: 50.215857633730735
+    north: 50.48478901465566
+    west: 16.660668797021543
+    east: 17.028314342974323
+- slug: masyw_snieznika
+  name: Masyw Śnieżnika
+  code: "332.62"
+  bbox:
+    south: 50.133330759198884
+    north: 50.38753492303845
+    west: 16.64016010951214
+    east: 16.92167627876582
+- slug: gory_orlickie
+  name: Góry Orlickie
+  code: "332.52"
+  bbox:
+    south: 50.31918938424653
+    north: 50.42019963748806
+    west: 16.28884379944519
+    east: 16.408947652553678
+- slug: gory_stolowe
+  name: Góry Stołowe
+  code: "332.48"
+  bbox:
+    south: 50.39787923674588
+    north: 50.50786704607402
+    west: 16.24227782014269
+    east: 16.521290071356553
+- slug: gory_bystrzyckie
+  name: Góry Bystrzyckie
+  code: "332.53"
+  bbox:
+    south: 50.09981110123751
+    north: 50.41046841090822
+    west: 16.383832059856797
+    east: 16.685104229138574
+- slug: pogorze_walbrzyskie
+  name: Pogórze Wałbrzyskie
+  code: "332.28"
+  bbox:
+    south: 50.75100859366702
+    north: 50.977097124472486
+    west: 16.045708768221864
+    east: 16.461031614919484
+- slug: gory_sowie
+  name: Góry Sowie
+  code: "332.44"
+  bbox:
+    south: 50.56206807615654
+    north: 50.78662901358381
+    west: 16.358817760032668
+    east: 16.673122827607013
+- slug: gory_kamienne
+  name: Góry Kamienne
+  code: "332.43"
+  bbox:
+    south: 50.5514549864215
+    north: 50.79548388263847
+    west: 15.986321675988533
+    east: 16.45821984941619
+- slug: gory_walbrzyskie
+  name: Góry Wałbrzyskie
+  code: "332.42"
+  bbox:
+    south: 50.69627952552889
+    north: 50.88096918671382
+    west: 15.992244983970597
+    east: 16.40611145381369
+- slug: obnizenie_noworudzkie
+  name: Obniżenie Noworudzkie
+  code: "332.46"
+  bbox:
+    south: 50.47064192487489
+    north: 50.701448208852526
+    west: 16.324270933818834
+    east: 16.716723962476003
+- slug: wzgorza_niemczansko-strzelinskie
+  name: Wzgórza Niemczańsko-Strzelińskie
+  code: "332.14"
+  bbox:
+    south: 50.45813918295923
+    north: 50.79174957845405
+    west: 16.595993940825515
+    east: 17.46011451628357
+- slug: rownina_wroclawska
+  name: Równina Wrocławska
+  code: "318.53"
+  bbox:
+    south: 50.56342594169019
+    north: 51.27247373739109
+    west: 16.221164088833685
+    east: 17.630350689339576
+- slug: kotlina_raciborska
+  name: Kotlina Raciborska
+  code: "318.59"
+  bbox:
+    south: 50.15300927915225
+    north: 50.5319499825055
+    west: 17.80917640569712
+    east: 18.369296175113877
+- slug: dolina_nysy_klodzkiej
+  name: Dolina Nysy Kłodzkiej
+  code: "318.54"
+  bbox:
+    south: 50.43247582337728
+    north: 50.8040797234807
+    west: 17.289121295254844
+    east: 17.692515387108262
+- slug: obnizenie_otmuchowskie
+  name: Obniżenie Otmuchowskie
+  code: "332.16"
+  bbox:
+    south: 50.38007062561828
+    north: 50.55087895291217
+    west: 16.750920530860096
+    east: 17.34140102457691
+- slug: plaskowyz_glubczycki
+  name: Płaskowyż Głubczycki
+  code: "318.58"
+  bbox:
+    south: 49.96601191646825
+    north: 50.44975054364247
+    west: 17.337772491944467
+    east: 18.2661697961011
+- slug: brama_raciborska
+  name: Brama Raciborska
+  code: "318.50"
+  bbox:
+    south: 49.91567512636446
+    north: 50.17159607257394
+    west: 18.187045174353447
+    east: 18.40648503054078
+- slug: przedgorze_paczkowskie
+  name: Przedgórze Paczkowskie
+  code: "332.17"
+  bbox:
+    south: 50.265962788369436
+    north: 50.422755174860065
+    west: 17.183613647987826
+    east: 17.654203166702334
+- slug: gory_opawskie
+  name: Góry Opawskie
+  code: "332.63"
+  bbox:
+    south: 50.25162055950762
+    north: 50.31839670988509
+    west: 17.33773528836257
+    east: 17.491575726378546
+- slug: miedzyrzecze_pysznej_i_niecieczy
+  name: Międzyrzecze Pysznej i Niecieczy
+  code: "318.25"
+  bbox:
+    south: 51.15932987518612
+    north: 51.45646639483163
+    west: 18.611884896998948
+    east: 18.99599932591911
+- slug: pojezierze_gnieznienskie
+  name: Pojezierze Gnieźnieńskie
+  code: "315.54"
+  bbox:
+    south: 52.435454887433245
+    north: 52.84412059705154
+    west: 16.8473766273481
+    east: 17.84011494450601
+- slug: obnizenie_bojszowa
+  name: Obniżenie Bojszowa
+  code: "341.16"
+  bbox:
+    south: 50.20684301924361
+    north: 50.43315071299506
+    west: 18.25722168989481
+    east: 18.64088043784027
+- slug: kotlina_siewierza
+  name: Kotlina Siewierza
+  code: "341.27"
+  bbox:
+    south: 50.249371804088725
+    north: 50.49764157650275
+    west: 19.13103798305673
+    east: 19.559143567849457
+- slug: kotlina_olzy
+  name: Kotlina Olzy
+  code: "512.12"
+  bbox:
+    south: 49.7918731141988
+    north: 49.83544429446202
+    west: 18.568915889732637
+    east: 18.60111225345516
+- slug: pasma_pewelsko-krzeczowskie
+  name: Pasma Pewelsko-Krzeczowskie
+  code: "513.57"
+  bbox:
+    south: 49.65424223200401
+    north: 49.78598167953793
+    west: 19.234584181728863
+    east: 19.615193548063388
+- slug: beskid_zywiecko-kysucki
+  name: Beskid Żywiecko-Kysucki
+  code: "513.56"
+  bbox:
+    south: 49.39397771745613
+    north: 49.52696129317203
+    west: 18.96045103801797
+    east: 19.228422250905084
+- slug: miedzygorze_jablonkowsko-koniakowskie
+  name: Międzygórze Jabłonkowsko-Koniakowskie
+  code: "513.55"
+  bbox:
+    south: 49.48772553696488
+    north: 49.5746590486697
+    west: 18.837233608473927
+    east: 19.119661230931158
+- slug: dzialy_orawskie
+  name: Działy Orawskie
+  code: "513.58"
+  bbox:
+    south: 49.455409272193556
+    north: 49.59380686459217
+    west: 19.5291160865128
+    east: 19.72372064875692
+- slug: podgorze_krakowskie
+  name: Podgórze Krakowskie
+  code: "512.53"
+  bbox:
+    south: 49.90453175738211
+    north: 50.02253516202157
+    west: 19.809109310558938
+    east: 20.27808688815504
+- slug: pogorze_popradzkie
+  name: Pogórze Popradzkie
+  code: "513.59"
+  bbox:
+    south: 49.29596816875825
+    north: 49.394107875793615
+    west: 20.87187262493706
+    east: 21.102922140864482
+- slug: plaskowyz_mosciski
+  name: Płaskowyż Mościski
+  code: "521.13"
+  bbox:
+    south: 49.6944968465411
+    north: 49.812373704578654
+    west: 22.80009593254175
+    east: 22.961918963465966
+- slug: tatry_reglowe
+  name: Tatry Reglowe
+  code: "514.54"
+  bbox:
+    south: 49.24672262715027
+    north: 49.28578254084921
+    west: 19.788565122812717
+    east: 20.122929488834465
+- slug: magura_spiska
+  name: Magura Spiska
+  code: "514.15"
+  bbox:
+    south: 49.30281632066486
+    north: 49.429043599202934
+    west: 20.106788599421755
+    east: 20.335872980062792
+- slug: pogorze_orawsko-jordanowskie
+  name: Pogórze Orawsko-Jordanowskie
+  code: "513.50"
+  bbox:
+    south: 49.47341622022028
+    north: 49.66500829028992
+    west: 19.645357049121284
+    east: 20.01164162642689
+- slug: niecka_przyrowska
+  name: Niecka Przyrowska
+  code: "342.17"
+  bbox:
+    south: 50.76324677846301
+    north: 51.13213003266968
+    west: 19.017072498295946
+    east: 19.677339733747928
+- slug: obnizenie_gornej_malej_panwi
+  name: Obniżenie Górnej Małej Panwi
+  code: "341.28"
+  bbox:
+    south: 50.449645974705035
+    north: 50.66067154539962
+    west: 18.523898413202826
+    east: 19.202396270363483
+- slug: wybrzeze_koszalinskie
+  name: Wybrzeże Koszalińskie
+  code: "313.47"
+  bbox:
+    south: 54.147797589859586
+    north: 54.62772493978489
+    west: 15.550708368626314
+    east: 17.00635947777713
+- slug: dolina_srodkowego_bobru
+  name: Dolina Środkowego Bobru
+  code: "318.47"
+  bbox:
+    south: 51.524001378110384
+    north: 51.80185700447101
+    west: 15.165010870993067
+    east: 15.386641884922378

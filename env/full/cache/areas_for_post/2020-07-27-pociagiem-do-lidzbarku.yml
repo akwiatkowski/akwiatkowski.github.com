@@ -10,7 +10,7 @@
     distance_meters: 24148.13
     distance_km: 24.148
     distance_percent: 12.8394
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
     distance_meters: 21138.54
@@ -22,7 +22,7 @@
     distance_meters: 19091.53
     distance_km: 19.092
     distance_percent: 10.1508
-  - slug: dzialdowo
+  - slug: dzialdowo-warminsko-mazurskie-wiejska
     name: Działdowo
     code: "2803022"
     distance_meters: 18281.36
@@ -52,7 +52,7 @@
     distance_meters: 13786.84
     distance_km: 13.787
     distance_percent: 7.3304
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
     distance_meters: 11092.99
@@ -76,13 +76,13 @@
     distance_meters: 8881.87
     distance_km: 8.882
     distance_percent: 4.7224
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-miejska
     name: Szczytno
     code: "2817011"
     distance_meters: 4054.53
     distance_km: 4.055
     distance_percent: 2.1558
-  - slug: dzialdowo
+  - slug: dzialdowo-warminsko-mazurskie-miejska
     name: Działdowo
     code: "2803011"
     distance_meters: 3469.69
@@ -120,7 +120,7 @@
     distance_km: 11.093
     distance_percent: 5.8981
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 188078.28
@@ -182,7 +182,7 @@
     distance_meters: 49360.21
     distance_km: 49.36
     distance_percent: 26.2445
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 27096.63
@@ -221,7 +221,7 @@
     distance_km: 27.097
     distance_percent: 14.4071
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 111621.44
@@ -237,16 +237,19 @@
   - slug: wielbark
     name: Wielbark
     code: "2817083"
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
+  - slug: szczytno-warminsko-mazurskie-miejska
+    name: Szczytno
+    code: "2817011"
   - slug: pasym
     name: Pasym
     code: "2817043"
   - slug: purda
     name: Purda
     code: "2814102"
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
   - slug: stawiguda
@@ -261,9 +264,12 @@
   - slug: kozlowo
     name: Kozłowo
     code: "2811032"
-  - slug: dzialdowo
+  - slug: dzialdowo-warminsko-mazurskie-wiejska
     name: Działdowo
     code: "2803022"
+  - slug: dzialdowo-warminsko-mazurskie-miejska
+    name: Działdowo
+    code: "2803011"
   - slug: plosnica
     name: Płośnica
     code: "2803052"
@@ -287,7 +293,7 @@
     name: działdowski
     code: "2803"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -316,7 +322,7 @@
   - slug: pojezierze_mazurskie
     name: Pojezierze Mazurskie
     code: "842"
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   - slug: nizina_polnocnomazowiecka
@@ -340,7 +346,7 @@
     name: Niziny Środkowopolskie
     code: "31"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
   - slug: niz_srodkowoeuropejski

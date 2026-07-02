@@ -28,7 +28,7 @@
     distance_meters: 11656.58
     distance_km: 11.657
     distance_percent: 15.8756
-  - slug: sieradz
+  - slug: sieradz-lodzkie-wiejska
     name: Sieradz
     code: "1014082"
     distance_meters: 5514.58
@@ -52,7 +52,7 @@
     distance_meters: 3374.97
     distance_km: 3.375
     distance_percent: 4.5965
-  - slug: sieradz
+  - slug: sieradz-lodzkie-miejska
     name: Sieradz
     code: "1014011"
     distance_meters: 2579.63
@@ -183,9 +183,12 @@
   - slug: brzeznio
     name: Brzeźnio
     code: "1014042"
-  - slug: sieradz
+  - slug: sieradz-lodzkie-wiejska
     name: Sieradz
     code: "1014082"
+  - slug: sieradz-lodzkie-miejska
+    name: Sieradz
+    code: "1014011"
   touched_counties:
   - slug: ostrzeszowski
     name: ostrzeszowski

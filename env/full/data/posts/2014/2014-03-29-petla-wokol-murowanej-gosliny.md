@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pętla wokół Murowanej Gośliny"
 subtitle:               "trochę po Puszczy Zielonce"
 date:                   2014-03-29 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, no_photos]
@@ -13,7 +14,6 @@ coords:                 [{"route": [[52.54136,16.96559], [52.54418,16.99186], [5
 coords_file:            "2014-03-29-petla-wokol-murowanej-gosliny.json"
 coords_type:            "bicycle"
 map_zooms:              12
-distance:               75
 time_spent:             6
 strava: 137169014
 ---

@@ -4,7 +4,7 @@
   total_distance_km: 49.458
   points_count: 199.0
   towns:
-  - slug: czluchow
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
     distance_meters: 34188.09
@@ -16,7 +16,7 @@
     distance_meters: 15270.06
     distance_km: 15.27
     distance_percent: 30.8747
-  - slug: czluchow
+  - slug: czluchow-pomorskie-miejska
     name: Człuchów
     code: "2203011"
     distance_meters: 5963.42
@@ -78,9 +78,12 @@
     distance_km: 49.458
     distance_percent: 100.0
   touched_towns:
-  - slug: czluchow
+  - slug: czluchow-pomorskie-wiejska
     name: Człuchów
     code: "2203032"
+  - slug: czluchow-pomorskie-miejska
+    name: Człuchów
+    code: "2203011"
   - slug: przechlewo
     name: Przechlewo
     code: "2203062"

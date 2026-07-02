@@ -4,7 +4,7 @@
   total_distance_km: 270.549
   points_count: 467.0
   towns:
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-wiejska
     name: Ełk
     code: "2805022"
     distance_meters: 28324.56
@@ -16,7 +16,7 @@
     distance_meters: 26270.02
     distance_km: 26.27
     distance_percent: 9.7099
-  - slug: rucianenida
+  - slug: ruciane-nida
     name: Ruciane-Nida
     code: "2816043"
     distance_meters: 21306.4
@@ -28,7 +28,7 @@
     distance_meters: 20853.0
     distance_km: 20.853
     distance_percent: 7.7077
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
     distance_meters: 20223.69
@@ -40,7 +40,7 @@
     distance_meters: 18992.24
     distance_km: 18.992
     distance_percent: 7.0199
-  - slug: swietajno
+  - slug: swietajno-warminsko-mazurskie-szczycienski
     name: Świętajno
     code: "2817072"
     distance_meters: 18016.04
@@ -64,7 +64,7 @@
     distance_meters: 15301.71
     distance_km: 15.302
     distance_percent: 5.6558
-  - slug: suwalki
+  - slug: suwalki-podlaskie-wiejska
     name: Suwałki
     code: "2012072"
     distance_meters: 14198.1
@@ -82,7 +82,7 @@
     distance_meters: 13275.17
     distance_km: 13.275
     distance_percent: 4.9068
-  - slug: suwalki
+  - slug: suwalki-podlaskie-miejska
     name: Suwałki
     code: "2063011"
     distance_meters: 11637.75
@@ -94,19 +94,19 @@
     distance_meters: 10177.01
     distance_km: 10.177
     distance_percent: 3.7616
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-miejska
     name: Ełk
     code: "2805011"
     distance_meters: 5447.35
     distance_km: 5.447
     distance_percent: 2.0134
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
     distance_meters: 4017.94
     distance_km: 4.018
     distance_percent: 1.4851
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-miejska
     name: Szczytno
     code: "2817011"
     distance_meters: 2978.55
@@ -174,7 +174,7 @@
     distance_km: 4.018
     distance_percent: 1.4851
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 198381.3
@@ -263,14 +263,14 @@
     distance_km: 270.549
     distance_percent: 100.0
   provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 270548.88
     distance_km: 270.549
     distance_percent: 100.0
   touched_towns:
-  - slug: olsztyn
+  - slug: olsztyn-warminsko-mazurskie
     name: Olsztyn
     code: "2862011"
   - slug: purda
@@ -279,13 +279,13 @@
   - slug: pasym
     name: Pasym
     code: "2817043"
-  - slug: szczytno
+  - slug: szczytno-warminsko-mazurskie-wiejska
     name: Szczytno
     code: "2817062"
-  - slug: swietajno
+  - slug: swietajno-warminsko-mazurskie-szczycienski
     name: Świętajno
     code: "2817072"
-  - slug: rucianenida
+  - slug: ruciane-nida
     name: Ruciane-Nida
     code: "2816043"
   - slug: pisz
@@ -294,9 +294,12 @@
   - slug: biala_piska
     name: Biała Piska
     code: "2816013"
-  - slug: elk
+  - slug: elk-warminsko-mazurskie-wiejska
     name: Ełk
     code: "2805022"
+  - slug: elk-warminsko-mazurskie-miejska
+    name: Ełk
+    code: "2805011"
   - slug: olecko
     name: Olecko
     code: "2813043"
@@ -306,9 +309,12 @@
   - slug: raczki
     name: Raczki
     code: "2012052"
-  - slug: suwalki
+  - slug: suwalki-podlaskie-wiejska
     name: Suwałki
     code: "2012072"
+  - slug: suwalki-podlaskie-miejska
+    name: Suwałki
+    code: "2063011"
   - slug: szypliszki
     name: Szypliszki
     code: "2012082"
@@ -344,7 +350,7 @@
     name: sejneński
     code: "2009"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   - slug: podlaskie
@@ -391,6 +397,6 @@
     name: Pojezierze Wschodniobałtyckie
     code: "84"
   touched_provinces:
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

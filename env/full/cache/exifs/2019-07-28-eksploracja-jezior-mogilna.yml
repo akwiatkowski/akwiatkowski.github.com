@@ -467,6 +467,9 @@
   time: 2019-07-28 18:33:11.000000000+02:00
 - image_filename: 2019_07_28__19_12_P7280042.jpg
   post_slug: 2019-07-28-eksploracja-jezior-mogilna
+  lat: 52.56664444444444
+  lon: 17.825708333333335
+  altitude: 106.6
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0
@@ -482,6 +485,9 @@
   time: 2019-07-28 19:12:45.000000000+02:00
 - image_filename: 2019_07_28__19_17_P7280056.jpg
   post_slug: 2019-07-28-eksploracja-jezior-mogilna
+  lat: 52.56663611111111
+  lon: 17.82571111111111
+  altitude: 106.5
   focal_length: 102.0
   focal_length_35: 204.0
   crop: 2.0
@@ -497,6 +503,9 @@
   time: 2019-07-28 19:17:07.000000000+02:00
 - image_filename: 2019_07_28__19_17_P7280066.jpg
   post_slug: 2019-07-28-eksploracja-jezior-mogilna
+  lat: 52.56663333333333
+  lon: 17.82571111111111
+  altitude: 106.5
   focal_length: 140.0
   focal_length_35: 280.0
   crop: 2.0

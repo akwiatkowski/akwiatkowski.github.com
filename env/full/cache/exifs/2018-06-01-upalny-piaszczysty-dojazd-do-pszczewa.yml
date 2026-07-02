@@ -1,6 +1,9 @@
 ---
 - image_filename: P6011640raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.3773
+  lon: 15.888244444444444
+  altitude: 67.9
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -30,6 +33,9 @@
   time: 2018-06-01 10:52:00.000000000+02:00
 - image_filename: P6011651raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.417899999999996
+  lon: 15.847658333333333
+  altitude: 64.5
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -43,6 +49,9 @@
   time: 2018-06-01 11:18:09.000000000+02:00
 - image_filename: P6011658raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.4182
+  lon: 15.847750000000001
+  altitude: 68.8
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
@@ -72,6 +81,9 @@
   time: 2018-06-01 11:49:28.000000000+02:00
 - image_filename: P6011686raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.43105833333333
+  lon: 15.826175
+  altitude: 71.9
   focal_length: 60.0
   focal_length_35: 120.0
   crop: 2.0
@@ -85,6 +97,9 @@
   time: 2018-06-01 12:13:41.000000000+02:00
 - image_filename: P6011692raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.44993611111111
+  lon: 15.841516666666667
+  altitude: 76.4
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -98,6 +113,9 @@
   time: 2018-06-01 12:29:17.000000000+02:00
 - image_filename: P6011699raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.472458333333336
+  lon: 15.806258333333334
+  altitude: 66.9
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -127,6 +145,9 @@
   time: 2018-06-01 13:08:56.000000000+02:00
 - image_filename: P6011703raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.479711111111115
+  lon: 15.778608333333334
+  altitude: 60.8
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -156,6 +177,9 @@
   time: 2018-06-01 14:45:25.000000000+02:00
 - image_filename: P6011715raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.46031111111111
+  lon: 15.778202777777778
+  altitude: 61.2
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -169,6 +193,9 @@
   time: 2018-06-01 14:47:38.000000000+02:00
 - image_filename: P6011743raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.406841666666665
+  lon: 15.826780555555555
+  altitude: 56.4
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0
@@ -182,6 +209,9 @@
   time: 2018-06-01 15:32:03.000000000+02:00
 - image_filename: P6011759raw1.jpg
   post_slug: 2018-06-01-upalny-piaszczysty-dojazd-do-pszczewa
+  lat: 52.396208333333334
+  lon: 15.843433333333333
+  altitude: 54.0
   focal_length: 20.0
   focal_length_35: 40.0
   crop: 2.0

@@ -4,7 +4,7 @@
   total_distance_km: 16.493
   points_count: 96.0
   towns:
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 16493.06
@@ -18,7 +18,7 @@
     distance_km: 16.493
     distance_percent: 100.0
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 16493.06
@@ -60,7 +60,7 @@
     distance_km: 16.493
     distance_percent: 100.0
   touched_towns:
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
   touched_counties:
@@ -68,7 +68,7 @@
     name: iławski
     code: "2807"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:

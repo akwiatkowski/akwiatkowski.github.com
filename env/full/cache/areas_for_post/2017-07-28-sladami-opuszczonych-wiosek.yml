@@ -11,7 +11,7 @@
     distance_km: 17.537
     distance_percent: 100.0
   counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 17537.27
@@ -64,7 +64,7 @@
     name: Jaśliska
     code: "1807102"
   touched_counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   touched_voivodeships:

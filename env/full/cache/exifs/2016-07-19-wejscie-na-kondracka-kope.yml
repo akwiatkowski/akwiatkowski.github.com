@@ -211,6 +211,9 @@
   time: 2016-07-19 14:16:18.000000000+02:00
 - image_filename: IMGP2704raw1.jpg
   post_slug: 2016-07-19-wejscie-na-kondracka-kope
+  lat: 49.26058611111111
+  lon: 19.966877777777775
+  altitude: 1155.0
   focal_length: 70.0
   focal_length_35: 105.0
   crop: 1.5

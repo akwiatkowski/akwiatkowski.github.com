@@ -17,7 +17,7 @@
     distance_km: 0.125
     distance_percent: 6.437
   counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
     distance_meters: 1822.43
@@ -79,7 +79,7 @@
     name: Zarszyn
     code: "1817082"
   touched_counties:
-  - slug: krosnienski
+  - slug: krosnienski-podkarpackie
     name: krośnieński
     code: "1807"
   - slug: sanocki

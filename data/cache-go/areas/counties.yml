@@ -1,0 +1,3420 @@
+- slug: boleslawiecki
+  name: bolesławiecki
+  code: "0201"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.11485578400004
+    north: 51.52766553200007
+    west: 15.205959129000064
+    east: 15.852993401000049
+- slug: dzierzoniowski
+  name: dzierżoniowski
+  code: "0202"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.62497280400004
+    north: 50.84456745400007
+    west: 16.47965513500003
+    east: 16.895209542000032
+- slug: glogowski
+  name: głogowski
+  code: "0203"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.539203893000035
+    north: 51.804753650000066
+    west: 15.834258895000062
+    east: 16.355434658000036
+- slug: gorowski
+  name: górowski
+  code: "0204"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.48540738300005
+    north: 51.78801113500003
+    west: 16.267803609000055
+    east: 16.828371869000023
+- slug: jaworski
+  name: jaworski
+  code: "0205"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.85449065100005
+    north: 51.14950745300007
+    west: 15.93096160400006
+    east: 16.479876854000054
+- slug: jeleniogorski
+  name: jeleniogórski
+  code: "0206"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.736172546000034
+    north: 51.01143586200004
+    west: 15.366497128000049
+    east: 15.961978204000047
+- slug: kamiennogorski
+  name: kamiennogórski
+  code: "0207"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.60379496500008
+    north: 50.900001985000074
+    west: 15.829911131000074
+    east: 16.17951428300006
+- slug: klodzki
+  name: kłodzki
+  code: "0208"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.09657882500005
+    north: 50.68106809300008
+    west: 16.19828482400004
+    east: 17.028316090000033
+- slug: legnicki
+  name: legnicki
+  code: "0209"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.09891284200006
+    north: 51.383566124000026
+    west: 15.746859268000037
+    east: 16.472319430000027
+- slug: lubanski
+  name: lubański
+  code: "0210"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.89061188000005
+    north: 51.19922865500007
+    west: 15.121105870000065
+    east: 15.430467486000055
+- slug: lubinski
+  name: lubiński
+  code: "0211"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.27168419800006
+    north: 51.611928102000036
+    west: 16.00414290300006
+    east: 16.48121171500003
+- slug: lwowecki
+  name: lwówecki
+  code: "0212"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.83188564900007
+    north: 51.199016054000026
+    west: 15.276994914000056
+    east: 15.765884140000026
+- slug: milicki
+  name: milicki
+  code: "0213"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.36778816700007
+    north: 51.64791504600004
+    west: 16.989484549000053
+    east: 17.574980367000023
+- slug: olesnicki
+  name: oleśnicki
+  code: "0214"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.05152669200004
+    north: 51.45719770200003
+    west: 17.242123734000074
+    east: 17.79526917000004
+- slug: olawski
+  name: oławski
+  code: "0215"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.819467598000074
+    north: 51.10370261400004
+    west: 17.06923747600007
+    east: 17.543659670000068
+- slug: polkowicki
+  name: polkowicki
+  code: "0216"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.327507352000055
+    north: 51.67166473000003
+    west: 15.703776464000043
+    east: 16.327718310000023
+- slug: strzelinski
+  name: strzeliński
+  code: "0217"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.613463281000065
+    north: 50.91712484300007
+    west: 16.86343141900005
+    east: 17.350237046000075
+- slug: sredzki-dolnoslaskie
+  name: średzki
+  code: "0218"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.99265244700007
+    north: 51.261342279000075
+    west: 16.332221021000066
+    east: 16.905080488000067
+- slug: swidnicki-dolnoslaskie
+  name: świdnicki
+  code: "0219"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.714401234000036
+    north: 51.02903246000005
+    west: 16.159402853000074
+    east: 16.700839694000024
+- slug: trzebnicki
+  name: trzebnicki
+  code: "0220"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.16491515700005
+    north: 51.57999092800003
+    west: 16.75914270100003
+    east: 17.340068974000076
+- slug: walbrzyski
+  name: wałbrzyski
+  code: "0221"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.62730695300007
+    north: 50.88679669900006
+    west: 16.06789118200004
+    east: 16.492679340000052
+- slug: wolowski
+  name: wołowski
+  code: "0222"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.22626035400003
+    north: 51.515575754000054
+    west: 16.415661730000068
+    east: 16.81188869400006
+- slug: wroclawski
+  name: wrocławski
+  code: "0223"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.81221375800004
+    north: 51.27575969600008
+    west: 16.57575403100003
+    east: 17.37598296400006
+- slug: zabkowicki
+  name: ząbkowicki
+  code: "0224"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.39862023500007
+    north: 50.70929026300007
+    west: 16.583137372000067
+    east: 17.16489584900006
+- slug: zgorzelecki
+  name: zgorzelecki
+  code: "0225"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.86207948400005
+    north: 51.463999536000074
+    west: 14.819560486000057
+    east: 15.339738375000024
+- slug: zlotoryjski
+  name: złotoryjski
+  code: "0226"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.92053144800008
+    north: 51.26225685400004
+    west: 15.697784023000054
+    east: 16.06149530600004
+- slug: jelenia_gora
+  name: Jelenia Góra
+  code: "0261"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.76777208500005
+    north: 50.93098001100003
+    west: 15.577867530000049
+    east: 15.876990101000047
+- slug: legnica
+  name: Legnica
+  code: "0262"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.160733107000055
+    north: 51.247643835000076
+    west: 16.089982657000064
+    east: 16.232257916000037
+- slug: wroclaw
+  name: Wrocław
+  code: "0264"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 51.04273587400007
+    north: 51.209457986000075
+    west: 16.80733932000004
+    east: 17.175162796000052
+- slug: walbrzych
+  name: Wałbrzych
+  code: "0265"
+  voivodeship: dolnoslaskie
+  bbox:
+    south: 50.717776395000044
+    north: 50.85400618300008
+    west: 16.227952316000028
+    east: 16.354607014000067
+- slug: aleksandrowski
+  name: aleksandrowski
+  code: "0401"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.63555446500004
+    north: 52.93341055800005
+    west: 18.500224013000036
+    east: 18.93853785400006
+- slug: brodnicki
+  name: brodnicki
+  code: "0402"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.08030637200005
+    north: 53.45663386800004
+    west: 19.08396612200005
+    east: 19.761595214000067
+- slug: bydgoski
+  name: bydgoski
+  code: "0403"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.94027655000008
+    north: 53.44324508900007
+    west: 17.668996657000037
+    east: 18.407411637000052
+- slug: chelminski
+  name: chełmiński
+  code: "0404"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.16977527000006
+    north: 53.43121972500006
+    west: 18.26715905100002
+    east: 18.740792611000074
+- slug: golubsko-dobrzynski
+  name: golubsko-dobrzyński
+  code: "0405"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.963588067000046
+    north: 53.23767730700007
+    west: 18.727403603000027
+    east: 19.256858480000062
+- slug: grudziadzki
+  name: grudziądzki
+  code: "0406"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.333461500000055
+    north: 53.60704626000006
+    west: 18.598252916000035
+    east: 19.236311014000023
+- slug: inowroclawski
+  name: inowrocławski
+  code: "0407"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.53746379200004
+    north: 52.99098356600007
+    west: 17.96774447000007
+    east: 18.625107421000052
+- slug: lipnowski
+  name: lipnowski
+  code: "0408"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.627302333000046
+    north: 53.00248518300003
+    west: 18.907263189000048
+    east: 19.52583574700003
+- slug: mogilenski
+  name: mogileński
+  code: "0409"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.48116030400007
+    north: 52.841661145000046
+    west: 17.78666623500004
+    east: 18.361213193000026
+- slug: nakielski
+  name: nakielski
+  code: "0410"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.89634340500004
+    north: 53.29490081200004
+    west: 17.301556495000057
+    east: 17.878377425000053
+- slug: radziejowski
+  name: radziejowski
+  code: "0411"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.421694898000055
+    north: 52.72586732900004
+    west: 18.375880858000073
+    east: 18.828556853000066
+- slug: rypinski
+  name: rypiński
+  code: "0412"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.934401852000065
+    north: 53.21669885600005
+    west: 19.179996648000042
+    east: 19.684805941000036
+- slug: sepolenski
+  name: sępoleński
+  code: "0413"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.26751475900005
+    north: 53.61318269100008
+    west: 17.247740348000036
+    east: 17.770729622000033
+- slug: swiecki
+  name: świecki
+  code: "0414"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.25307763400008
+    north: 53.70948964400003
+    west: 18.034278869000048
+    east: 18.788971425000057
+- slug: torunski
+  name: toruński
+  code: "0415"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.830455348000044
+    north: 53.26295298400004
+    west: 18.144871608000074
+    east: 19.094268526000064
+- slug: tucholski
+  name: tucholski
+  code: "0416"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.38300059300008
+    north: 53.78107503600006
+    west: 17.602644043000055
+    east: 18.274116030000073
+- slug: wabrzeski
+  name: wąbrzeski
+  code: "0417"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.17274577300003
+    north: 53.39269835400006
+    west: 18.695666241000026
+    east: 19.156690593000064
+- slug: wloclawski
+  name: włocławski
+  code: "0418"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.332092990000035
+    north: 52.782599737000055
+    west: 18.677056555000036
+    east: 19.426104531000078
+- slug: zninski
+  name: żniński
+  code: "0419"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.602397705000044
+    north: 53.042988354000045
+    west: 17.407847125000046
+    east: 18.070490568000025
+- slug: bydgoszcz
+  name: Bydgoszcz
+  code: "0461"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.05010956800004
+    north: 53.20851564900005
+    west: 17.874166312000057
+    east: 18.202103153000053
+- slug: grudziadz
+  name: Grudziądz
+  code: "0462"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 53.42291487700004
+    north: 53.52388207200005
+    west: 18.704015539000068
+    east: 18.87090881200004
+- slug: torun
+  name: Toruń
+  code: "0463"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.97254623500004
+    north: 53.06551879700004
+    west: 18.46066692100004
+    east: 18.731334168000046
+- slug: wloclawek
+  name: Włocławek
+  code: "0464"
+  voivodeship: kujawsko-pomorskie
+  bbox:
+    south: 52.594790067000076
+    north: 52.73597064000006
+    west: 18.939054448000036
+    east: 19.182608363000043
+- slug: bialski
+  name: bialski
+  code: "0601"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.65660312500006
+    north: 52.287841409000066
+    west: 22.617522002000044
+    east: 23.687446159000046
+- slug: bilgorajski
+  name: biłgorajski
+  code: "0602"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.28720251100003
+    north: 50.88438663100004
+    west: 22.404357186000027
+    east: 23.17956041700006
+- slug: chelmski
+  name: chełmski
+  code: "0603"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.86981681100008
+    north: 51.37404335800005
+    west: 23.040437492000024
+    east: 23.936989668000024
+- slug: hrubieszowski
+  name: hrubieszowski
+  code: "0604"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.41214034500007
+    north: 51.00337125800007
+    west: 23.58041772000007
+    east: 24.145036436000055
+- slug: janowski
+  name: janowski
+  code: "0605"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.58014575100003
+    north: 50.912897513000075
+    west: 22.141785249000066
+    east: 22.68117385000005
+- slug: krasnostawski
+  name: krasnostawski
+  code: "0606"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.80402195200003
+    north: 51.122813793000034
+    west: 22.761575262000065
+    east: 23.479518402000053
+- slug: krasnicki
+  name: kraśnicki
+  code: "0607"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.77301669600007
+    north: 51.057687325000074
+    west: 21.812910594000073
+    east: 22.479132019000076
+- slug: lubartowski
+  name: lubartowski
+  code: "0608"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.35612001800007
+    north: 51.71381085200005
+    west: 22.18779018300006
+    east: 23.018584030000056
+- slug: lubelski
+  name: lubelski
+  code: "0609"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.83838056600007
+    north: 51.42996514400005
+    west: 22.11961070600006
+    east: 22.813467503000027
+- slug: leczynski
+  name: łęczyński
+  code: "0610"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.17621745300005
+    north: 51.43453783100006
+    west: 22.668897894000054
+    east: 23.26920347300006
+- slug: lukowski
+  name: łukowski
+  code: "0611"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.63762236700006
+    north: 52.06837573800004
+    west: 21.845045328000026
+    east: 22.63353206100004
+- slug: opolski-lubelskie
+  name: opolski
+  code: "0612"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.959335604000046
+    north: 51.308732477000035
+    west: 21.785534306000045
+    east: 22.23151285700004
+- slug: parczewski
+  name: parczewski
+  code: "0613"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.41749132000007
+    north: 51.79070130400004
+    west: 22.669587491000073
+    east: 23.32089269200003
+- slug: pulawski
+  name: puławski
+  code: "0614"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.252122135000036
+    north: 51.58439729400004
+    west: 21.760955012000068
+    east: 22.308556546000034
+- slug: radzynski
+  name: radzyński
+  code: "0615"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.59108545500004
+    north: 51.97261188600004
+    west: 22.352517059000036
+    east: 23.062554958000078
+- slug: rycki
+  name: rycki
+  code: "0616"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.53324398400008
+    north: 51.79380588300006
+    west: 21.615542532000063
+    east: 22.243063291000055
+- slug: swidnicki-lubelskie
+  name: świdnicki
+  code: "0617"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.96520324800008
+    north: 51.28474487200003
+    west: 22.63879564100006
+    east: 23.068911138000033
+- slug: tomaszowski-lubelskie
+  name: tomaszowski
+  code: "0618"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.25182878100003
+    north: 50.69282635500008
+    west: 23.04802605900005
+    east: 23.993637144000047
+- slug: wlodawski
+  name: włodawski
+  code: "0619"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.26476010600004
+    north: 51.78058227000008
+    west: 23.05885954100006
+    east: 23.70931255000005
+- slug: zamojski
+  name: zamojski
+  code: "0620"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.474167916000056
+    north: 50.90834089200007
+    west: 22.760679253000035
+    east: 23.670438482000066
+- slug: biala_podlaska
+  name: Biała Podlaska
+  code: "0661"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.99638520600007
+    north: 52.05978882800008
+    west: 23.072338200000047
+    east: 23.211502619000044
+- slug: chelm
+  name: Chełm
+  code: "0662"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.105461940000055
+    north: 51.16789638600005
+    west: 23.420037811000043
+    east: 23.557131026000036
+- slug: lublin
+  name: Lublin
+  code: "0663"
+  voivodeship: lubelskie
+  bbox:
+    south: 51.13980958900004
+    north: 51.296559595000076
+    west: 22.463372347000075
+    east: 22.673542616000077
+- slug: zamosc
+  name: Zamość
+  code: "0664"
+  voivodeship: lubelskie
+  bbox:
+    south: 50.692415889000074
+    north: 50.74846174600003
+    west: 23.21273138600003
+    east: 23.306470900000022
+- slug: gorzowski
+  name: gorzowski
+  code: "0801"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.57215053200008
+    north: 52.90440455500004
+    west: 14.564033992000077
+    east: 15.606193751000035
+- slug: krosnienski-lubuskie
+  name: krośnieński
+  code: "0802"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.78588601600006
+    north: 52.232814904000065
+    west: 14.590549907000025
+    east: 15.314394680000078
+- slug: miedzyrzecki
+  name: międzyrzecki
+  code: "0803"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.28477349800005
+    north: 52.71411679800008
+    west: 15.265065568000068
+    east: 15.900607973000035
+- slug: nowosolski
+  name: nowosolski
+  code: "0804"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.64500142500003
+    north: 52.036003031000064
+    west: 15.442233454000075
+    east: 16.01121239400004
+- slug: slubicki
+  name: słubicki
+  code: "0805"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.070024982000064
+    north: 52.575323053000034
+    west: 14.534579787000041
+    east: 15.041928970000072
+- slug: strzelecko-drezdenecki
+  name: strzelecko-drezdenecki
+  code: "0806"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.70157158000006
+    north: 53.12114627200003
+    west: 15.282894913000064
+    east: 15.995684334000032
+- slug: sulecinski
+  name: sulęciński
+  code: "0807"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.20676318200003
+    north: 52.65208187800005
+    west: 14.64731157500006
+    east: 15.449860614000045
+- slug: swiebodzinski
+  name: świebodziński
+  code: "0808"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.09628722300005
+    north: 52.37943607400007
+    west: 15.091332677000025
+    east: 15.880810188000055
+- slug: zielonogorski
+  name: zielonogórski
+  code: "0809"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.736514432000035
+    north: 52.21329011800003
+    west: 15.077358422000032
+    east: 15.992991700000061
+- slug: zaganski
+  name: żagański
+  code: "0810"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.41849599100004
+    north: 51.78166817200008
+    west: 14.992947128000026
+    east: 15.852595976000032
+- slug: zarski
+  name: żarski
+  code: "0811"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.36374456500005
+    north: 51.89373197400005
+    west: 14.64987061200003
+    east: 15.270171159000029
+- slug: wschowski
+  name: wschowski
+  code: "0812"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.663544356000045
+    north: 51.995767467000064
+    west: 15.825080040000046
+    east: 16.416190834000076
+- slug: gorzow_wielkopolski
+  name: Gorzów Wielkopolski
+  code: "0861"
+  voivodeship: lubuskie
+  bbox:
+    south: 52.684834702000046
+    north: 52.776003410000044
+    west: 15.124077653000029
+    east: 15.310831778000022
+- slug: zielona_gora
+  name: Zielona Góra
+  code: "0862"
+  voivodeship: lubuskie
+  bbox:
+    south: 51.82014311300003
+    north: 52.03478007500007
+    west: 15.390908629000023
+    east: 15.64921915800005
+- slug: belchatowski
+  name: bełchatowski
+  code: "1001"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.18192312800005
+    north: 51.55517633000005
+    west: 18.855769554000062
+    east: 19.500041579000026
+- slug: kutnowski
+  name: kutnowski
+  code: "1002"
+  voivodeship: lodzkie
+  bbox:
+    south: 52.108711982000045
+    north: 52.39393435900007
+    west: 19.03149073000003
+    east: 19.763975525000035
+- slug: laski
+  name: łaski
+  code: "1003"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.34273253200007
+    north: 51.77810286300007
+    west: 18.803022620000036
+    east: 19.273409164000043
+- slug: leczycki
+  name: łęczycki
+  code: "1004"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.99699517100004
+    north: 52.214459703000045
+    west: 18.827808729000026
+    east: 19.562158469000053
+- slug: lowicki
+  name: łowicki
+  code: "1005"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.90945542000003
+    north: 52.30979642200003
+    west: 19.524134649000075
+    east: 20.126789255000062
+- slug: lodzki_wschodni
+  name: łódzki wschodni
+  code: "1006"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.508012233000045
+    north: 51.85826882900005
+    west: 19.419989861000033
+    east: 19.982245585000044
+- slug: opoczynski
+  name: opoczyński
+  code: "1007"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.18395425800003
+    north: 51.600037343000054
+    west: 19.86011059300006
+    east: 20.53278616800003
+- slug: pabianicki
+  name: pabianicki
+  code: "1008"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.523287432000075
+    north: 51.83279432200004
+    west: 18.998891037000078
+    east: 19.476161395000076
+- slug: pajeczanski
+  name: pajęczański
+  code: "1009"
+  voivodeship: lodzkie
+  bbox:
+    south: 50.98241842700003
+    north: 51.29924295300003
+    west: 18.73998289000002
+    east: 19.312515228000052
+- slug: piotrkowski
+  name: piotrkowski
+  code: "1010"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.10799156300004
+    north: 51.649543778000066
+    west: 19.414274900000066
+    east: 20.063822119000065
+- slug: poddebicki
+  name: poddębicki
+  code: "1011"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.720262423000065
+    north: 52.076454288000036
+    west: 18.654297366000037
+    east: 19.19120324000005
+- slug: radomszczanski
+  name: radomszczański
+  code: "1012"
+  voivodeship: lodzkie
+  bbox:
+    south: 50.843277398000055
+    north: 51.28607180200004
+    west: 19.205127770000047
+    east: 20.051565018000076
+- slug: rawski
+  name: rawski
+  code: "1013"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.63308194200005
+    north: 51.89235080200007
+    west: 20.115794008000023
+    east: 20.659258254000065
+- slug: sieradzki
+  name: sieradzki
+  code: "1014"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.35199084900006
+    north: 51.854382513000076
+    west: 18.326309579000053
+    east: 18.879792836000036
+- slug: skierniewicki
+  name: skierniewicki
+  code: "1015"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.73858943700003
+    north: 52.150627996000026
+    west: 19.86853169500006
+    east: 20.51883123500005
+- slug: tomaszowski-lodzkie
+  name: tomaszowski
+  code: "1016"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.424249469000074
+    north: 51.77346802300008
+    west: 19.708260636000034
+    east: 20.424890366000056
+- slug: wielunski
+  name: wieluński
+  code: "1017"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.054626066000026
+    north: 51.410541788000046
+    west: 18.347485822000067
+    east: 18.897436964000065
+- slug: wieruszowski
+  name: wieruszowski
+  code: "1018"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.133954164000045
+    north: 51.45324935300005
+    west: 18.074521495000056
+    east: 18.561154163000026
+- slug: zdunskowolski
+  name: zduńskowolski
+  code: "1019"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.47107801800007
+    north: 51.77340100100008
+    west: 18.80647293800007
+    east: 19.10789703100005
+- slug: zgierski
+  name: zgierski
+  code: "1020"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.77121836800006
+    north: 52.036402114000055
+    west: 19.121254591000024
+    east: 19.840027590000034
+- slug: brzezinski
+  name: brzeziński
+  code: "1021"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.73144344900004
+    north: 51.95198084900005
+    west: 19.64451306500007
+    east: 20.016240097000036
+- slug: lodz
+  name: Łódź
+  code: "1061"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.68660488000006
+    north: 51.85991928700008
+    west: 19.334909854000045
+    east: 19.639943020000032
+- slug: piotrkow_trybunalski
+  name: Piotrków Trybunalski
+  code: "1062"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.37494060700004
+    north: 51.45293598000006
+    west: 19.627150011000026
+    east: 19.809689409000043
+- slug: skierniewice
+  name: Skierniewice
+  code: "1063"
+  voivodeship: lodzkie
+  bbox:
+    south: 51.92717292900005
+    north: 51.98758613800004
+    west: 20.105230466000023
+    east: 20.22003120100004
+- slug: bochenski
+  name: bocheński
+  code: "1201"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.77885486300005
+    north: 50.143056854000065
+    west: 20.232496983000033
+    east: 20.63101253600007
+- slug: brzeski-malopolskie
+  name: brzeski
+  code: "1202"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.76187359900007
+    north: 50.200803722000046
+    west: 20.500525493000055
+    east: 20.798168773000043
+- slug: chrzanowski
+  name: chrzanowski
+  code: "1203"
+  voivodeship: malopolskie
+  bbox:
+    south: 50.01205340800004
+    north: 50.22913497400003
+    west: 19.259177503000046
+    east: 19.627064690000054
+- slug: dabrowski
+  name: dąbrowski
+  code: "1204"
+  voivodeship: malopolskie
+  bbox:
+    south: 50.10663564400005
+    north: 50.35489777200007
+    west: 20.727987495000036
+    east: 21.222636030000047
+- slug: gorlicki
+  name: gorlicki
+  code: "1205"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.40099075000006
+    north: 49.78161342300007
+    west: 20.88242651300004
+    east: 21.42092883500004
+- slug: krakowski
+  name: krakowski
+  code: "1206"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.88518923700008
+    north: 50.30569880500008
+    west: 19.525301951000074
+    east: 20.201290219000043
+- slug: limanowski
+  name: limanowski
+  code: "1207"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.53413726100007
+    north: 49.82950343300007
+    west: 19.99187929800007
+    east: 20.591798229000062
+- slug: miechowski
+  name: miechowski
+  code: "1208"
+  voivodeship: malopolskie
+  bbox:
+    south: 50.258932909000066
+    north: 50.51976914100004
+    west: 19.825311299000077
+    east: 20.33738637700003
+- slug: myslenicki
+  name: myślenicki
+  code: "1209"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.61796976000005
+    north: 49.93152283500007
+    west: 19.74304969900004
+    east: 20.246910134000075
+- slug: nowosadecki
+  name: nowosądecki
+  code: "1210"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.29605177800005
+    north: 49.80685115300008
+    west: 20.36201576600007
+    east: 21.104104333000066
+- slug: nowotarski
+  name: nowotarski
+  code: "1211"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.32727412100007
+    north: 49.66074512800003
+    west: 19.52933211100003
+    east: 20.614932528000054
+- slug: olkuski
+  name: olkuski
+  code: "1212"
+  voivodeship: malopolskie
+  bbox:
+    south: 50.18899918800008
+    north: 50.448159813000075
+    west: 19.323422760000028
+    east: 19.92094654400006
+- slug: oswiecimski
+  name: oświęcimski
+  code: "1213"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.85055320600003
+    north: 50.13419335100008
+    west: 19.093209873000035
+    east: 19.510290492000024
+- slug: proszowicki
+  name: proszowicki
+  code: "1214"
+  voivodeship: malopolskie
+  bbox:
+    south: 50.11101503500004
+    north: 50.32219867900005
+    west: 20.12620129900006
+    east: 20.681538717000024
+- slug: suski
+  name: suski
+  code: "1215"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.57155042200003
+    north: 49.83058807100008
+    west: 19.369976348000023
+    east: 19.912116602000026
+- slug: tarnowski
+  name: tarnowski
+  code: "1216"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.73178195200006
+    north: 50.24275255100008
+    west: 20.681533943000034
+    east: 21.339460159000055
+- slug: tatrzanski
+  name: tatrzański
+  code: "1217"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.17876422200004
+    north: 49.425329858000055
+    west: 19.76310563900006
+    east: 20.190132361000053
+- slug: wadowicki
+  name: wadowicki
+  code: "1218"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.76167899400008
+    north: 50.025697499000046
+    west: 19.28657047100006
+    east: 19.810345003000066
+- slug: wielicki
+  name: wielicki
+  code: "1219"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.86355815100006
+    north: 50.09992027700008
+    west: 19.96343509600007
+    east: 20.387566028000037
+- slug: krakow
+  name: Kraków
+  code: "1261"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.96862752700008
+    north: 50.12398363500006
+    west: 19.79223816500007
+    east: 20.21734629100007
+- slug: nowy_sacz
+  name: Nowy Sącz
+  code: "1262"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.55492263300005
+    north: 49.658380055000066
+    west: 20.648407115000055
+    east: 20.764872754000066
+- slug: tarnow
+  name: Tarnów
+  code: "1263"
+  voivodeship: malopolskie
+  bbox:
+    south: 49.98819605300008
+    north: 50.06653003500003
+    west: 20.893615812000064
+    east: 21.062343464000037
+- slug: bialobrzeski
+  name: białobrzeski
+  code: "1401"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.488414000000034
+    north: 51.753797072000054
+    west: 20.643589941000073
+    east: 21.23020202600003
+- slug: ciechanowski
+  name: ciechanowski
+  code: "1402"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.69987189400007
+    north: 53.10480213300008
+    west: 20.214718677000064
+    east: 20.940654963000043
+- slug: garwolinski
+  name: garwoliński
+  code: "1403"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.61204556800004
+    north: 52.03502650900003
+    west: 21.275804451000056
+    east: 21.95642133700005
+- slug: gostyninski
+  name: gostyniński
+  code: "1404"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.25550292300005
+    north: 52.52596069400005
+    west: 19.259214418000056
+    east: 19.98276009400007
+- slug: grodziski-mazowieckie
+  name: grodziski
+  code: "1405"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.92546541100006
+    north: 52.19799990900003
+    west: 20.39447993300007
+    east: 20.780318562000048
+- slug: grojecki
+  name: grójecki
+  code: "1406"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.55640381100005
+    north: 51.958447111000055
+    west: 20.385005656000033
+    east: 21.286417511000025
+- slug: kozienicki
+  name: kozienicki
+  code: "1407"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.42018636800003
+    north: 51.86167341600003
+    west: 21.121621531000073
+    east: 21.87317586100005
+- slug: legionowski
+  name: legionowski
+  code: "1408"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.337402473000054
+    north: 52.56129428600008
+    west: 20.737018335000073
+    east: 21.14276889100006
+- slug: lipski
+  name: lipski
+  code: "1409"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.013112301000035
+    north: 51.30217207600003
+    west: 21.311085553000055
+    east: 21.821717944000056
+- slug: losicki
+  name: łosicki
+  code: "1410"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.06352558800006
+    north: 52.38373650900007
+    west: 22.561791182000036
+    east: 23.12840894200008
+- slug: makowski
+  name: makowski
+  code: "1411"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.75956452300005
+    north: 53.13724210100003
+    west: 20.861727320000057
+    east: 21.497275279000064
+- slug: minski
+  name: miński
+  code: "1412"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.973572997000076
+    north: 52.38999461700007
+    west: 21.250465570000074
+    east: 21.97991551900003
+- slug: mlawski
+  name: mławski
+  code: "1413"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.840651973000035
+    north: 53.26952939900008
+    west: 20.033306398000036
+    east: 20.724711567000043
+- slug: nowodworski-mazowieckie
+  name: nowodworski
+  code: "1414"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.28508246200005
+    north: 52.64661017900005
+    west: 20.40481410700005
+    east: 20.930469532000075
+- slug: ostrolecki
+  name: ostrołęcki
+  code: "1415"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.79923153100003
+    north: 53.480947987000036
+    west: 21.053888064000034
+    east: 21.96043045700003
+- slug: ostrowski-mazowieckie
+  name: ostrowski
+  code: "1416"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.60968993600005
+    north: 52.97981456700006
+    west: 21.60190624100005
+    east: 22.46770659400005
+- slug: otwocki
+  name: otwocki
+  code: "1417"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.86973557600004
+    north: 52.22641058800008
+    west: 21.164952979000077
+    east: 21.577741969000044
+- slug: piaseczynski
+  name: piaseczyński
+  code: "1418"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.892440040000054
+    north: 52.14472839700005
+    west: 20.686036486000035
+    east: 21.27946326600005
+- slug: plocki
+  name: płocki
+  code: "1419"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.32731728500005
+    north: 52.78077399600005
+    west: 19.32167321700007
+    east: 20.251257688000067
+- slug: plonski
+  name: płoński
+  code: "1420"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.38434237200005
+    north: 52.89648181800004
+    west: 19.96274521500004
+    east: 20.73146106400003
+- slug: pruszkowski
+  name: pruszkowski
+  code: "1421"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.00057635100006
+    north: 52.199520128000074
+    west: 20.630897146000052
+    east: 20.98638027900006
+- slug: przasnyski
+  name: przasnyski
+  code: "1422"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.864115353000045
+    north: 53.36135775900004
+    west: 20.665373312000042
+    east: 21.213807427000063
+- slug: przysuski
+  name: przysuski
+  code: "1423"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.230395979000036
+    north: 51.616196047000074
+    west: 20.420275581000055
+    east: 20.885425246000068
+- slug: pultuski
+  name: pułtuski
+  code: "1424"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.53459309300007
+    north: 52.80990629100006
+    west: 20.696011586000054
+    east: 21.349689046000037
+- slug: radomski
+  name: radomski
+  code: "1425"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.08028604200007
+    north: 51.58910235800005
+    west: 20.76452111900005
+    east: 21.566598399000043
+- slug: siedlecki
+  name: siedlecki
+  code: "1426"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.973184109000044
+    north: 52.41053434000003
+    west: 21.867954956000062
+    east: 22.740658389000032
+- slug: sierpecki
+  name: sierpecki
+  code: "1427"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.67753070300006
+    north: 52.98568973300007
+    west: 19.423008105000065
+    east: 19.998604184000044
+- slug: sochaczewski
+  name: sochaczewski
+  code: "1428"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.11465152000005
+    north: 52.41909386800006
+    west: 19.936101096000073
+    east: 20.490674330000047
+- slug: sokolowski
+  name: sokołowski
+  code: "1429"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.288217116000055
+    north: 52.70220825300004
+    west: 21.974069474000032
+    east: 22.56285101000003
+- slug: szydlowiecki
+  name: szydłowiecki
+  code: "1430"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.14445172000006
+    north: 51.36754887500007
+    west: 20.610565570000063
+    east: 21.075083181000025
+- slug: warszawski_zachodni
+  name: warszawski zachodni
+  code: "1432"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.15753925400003
+    north: 52.37932273800004
+    west: 20.31248036900007
+    east: 20.925780317000033
+- slug: wegrowski
+  name: węgrowski
+  code: "1433"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.209517196000036
+    north: 52.70297110000007
+    west: 21.577527468000028
+    east: 22.170442140000034
+- slug: wolominski
+  name: wołomiński
+  code: "1434"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.25617615800007
+    north: 52.55342495000008
+    west: 21.064564621000045
+    east: 21.737889422000023
+- slug: wyszkowski
+  name: wyszkowski
+  code: "1435"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.462888243000066
+    north: 52.834193080000034
+    west: 21.119559371000037
+    east: 21.773023597000076
+- slug: zwolenski
+  name: zwoleński
+  code: "1436"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.22073772600004
+    north: 51.49782766000004
+    west: 21.32546876500004
+    east: 21.860110705000068
+- slug: zurominski
+  name: żuromiński
+  code: "1437"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.82594172700004
+    north: 53.211462090000055
+    west: 19.638485177000064
+    east: 20.147795001000077
+- slug: zyrardowski
+  name: żyrardowski
+  code: "1438"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.844278057000054
+    north: 52.15121298000008
+    west: 20.201616192000074
+    east: 20.66709501100007
+- slug: ostroleka
+  name: Ostrołęka
+  code: "1461"
+  voivodeship: mazowieckie
+  bbox:
+    south: 53.04332592600008
+    north: 53.110887871000045
+    west: 21.53686581900007
+    east: 21.666036268000028
+- slug: plock
+  name: Płock
+  code: "1462"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.473744371000066
+    north: 52.59708727600008
+    west: 19.631295549000072
+    east: 19.80585694800004
+- slug: radom
+  name: Radom
+  code: "1463"
+  voivodeship: mazowieckie
+  bbox:
+    south: 51.34862058900006
+    north: 51.48585455300008
+    west: 21.053186443000072
+    east: 21.25906945400004
+- slug: siedlce
+  name: Siedlce
+  code: "1464"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.12754992100008
+    north: 52.195697057000075
+    west: 22.223467897000035
+    east: 22.330080818000056
+- slug: warszawa
+  name: Warszawa
+  code: "1465"
+  voivodeship: mazowieckie
+  bbox:
+    south: 52.098118002000035
+    north: 52.36815394300004
+    west: 20.853064089000043
+    east: 21.267694101000075
+- slug: brzeski-opolskie
+  name: brzeski
+  code: "1601"
+  voivodeship: opolskie
+  bbox:
+    south: 50.57881592600006
+    north: 50.99978896700003
+    west: 17.20647370000006
+    east: 17.76351356500004
+- slug: glubczycki
+  name: głubczycki
+  code: "1602"
+  voivodeship: opolskie
+  bbox:
+    south: 49.97248528200004
+    north: 50.31395615400004
+    west: 17.59269032000003
+    east: 18.06806894400006
+- slug: kedzierzynsko-kozielski
+  name: kędzierzyńsko-kozielski
+  code: "1603"
+  voivodeship: opolskie
+  bbox:
+    south: 50.16727863600005
+    north: 50.42039274000007
+    west: 17.91138389500003
+    east: 18.42696463300007
+- slug: kluczborski
+  name: kluczborski
+  code: "1604"
+  voivodeship: opolskie
+  bbox:
+    south: 50.79683374100006
+    north: 51.172517225000036
+    west: 17.924207498000044
+    east: 18.380963660000077
+- slug: krapkowicki
+  name: krapkowicki
+  code: "1605"
+  voivodeship: opolskie
+  bbox:
+    south: 50.34326345800008
+    north: 50.56225582500008
+    west: 17.75200027900007
+    east: 18.160880319000057
+- slug: namyslowski
+  name: namysłowski
+  code: "1606"
+  voivodeship: opolskie
+  bbox:
+    south: 50.83807687900003
+    north: 51.19414634900005
+    west: 17.514284005000036
+    east: 18.011708653000028
+- slug: nyski
+  name: nyski
+  code: "1607"
+  voivodeship: opolskie
+  bbox:
+    south: 50.25161550300004
+    north: 50.66945620800004
+    west: 16.90790288200003
+    east: 17.763026121000053
+- slug: oleski
+  name: oleski
+  code: "1608"
+  voivodeship: opolskie
+  bbox:
+    south: 50.61654361300003
+    north: 51.141232512000045
+    west: 18.228405629000065
+    east: 18.695486740000035
+- slug: opolski-opolskie
+  name: opolski
+  code: "1609"
+  voivodeship: opolskie
+  bbox:
+    south: 50.501693491000026
+    north: 50.968158017000064
+    west: 17.466846705000023
+    east: 18.34268667500004
+- slug: prudnicki
+  name: prudnicki
+  code: "1610"
+  voivodeship: opolskie
+  bbox:
+    south: 50.26508930600005
+    north: 50.55460285300006
+    west: 17.447649089000038
+    east: 18.032260633000078
+- slug: strzelecki
+  name: strzelecki
+  code: "1611"
+  voivodeship: opolskie
+  bbox:
+    south: 50.35656882300003
+    north: 50.70238997100006
+    west: 18.075757595000027
+    east: 18.616188902000033
+- slug: opole
+  name: Opole
+  code: "1661"
+  voivodeship: opolskie
+  bbox:
+    south: 50.587657430000036
+    north: 50.76997435000004
+    west: 17.77959067100005
+    east: 18.03269603800004
+- slug: bieszczadzki
+  name: bieszczadzki
+  code: "1801"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.00250538000006
+    north: 49.66998248300007
+    west: 22.399302197000054
+    east: 22.891259000000048
+- slug: brzozowski
+  name: brzozowski
+  code: "1802"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.61785912200003
+    north: 49.837620936000064
+    west: 21.850859229000037
+    east: 22.328293458000076
+- slug: debicki
+  name: dębicki
+  code: "1803"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.82885575700004
+    north: 50.16909478400004
+    west: 21.146066907000034
+    east: 21.567960994000032
+- slug: jaroslawski
+  name: jarosławski
+  code: "1804"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.838562239000055
+    north: 50.21292874100004
+    west: 22.410472825000056
+    east: 23.15383963100004
+- slug: jasielski
+  name: jasielski
+  code: "1805"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.412281750000034
+    north: 49.87176345000006
+    west: 21.24177209100003
+    east: 21.645928199000025
+- slug: kolbuszowski
+  name: kolbuszowski
+  code: "1806"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.15098293700004
+    north: 50.48224493200007
+    west: 21.53039214200004
+    east: 22.09534619300007
+- slug: krosnienski-podkarpackie
+  name: krośnieński
+  code: "1807"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.34692558300003
+    north: 49.843689794000056
+    west: 21.569567466000024
+    east: 21.972356413000057
+- slug: lezajski
+  name: leżajski
+  code: "1808"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.123075508000056
+    north: 50.40011767200008
+    west: 22.18859999800003
+    east: 22.687595372000033
+- slug: lubaczowski
+  name: lubaczowski
+  code: "1809"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.98078703400006
+    north: 50.41054161300008
+    west: 22.797822173000043
+    east: 23.547882552000033
+- slug: lancucki
+  name: łańcucki
+  code: "1810"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.93068849700006
+    north: 50.24676806100007
+    west: 22.085722200000077
+    east: 22.45211333900005
+- slug: mielecki
+  name: mielecki
+  code: "1811"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.131316620000064
+    north: 50.496437566000054
+    west: 21.14211164900007
+    east: 21.62789452900006
+- slug: nizanski
+  name: niżański
+  code: "1812"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.30891076100005
+    north: 50.62490250400003
+    west: 21.966867130000026
+    east: 22.583588409000072
+- slug: przemyski
+  name: przemyski
+  code: "1813"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.573072972000034
+    north: 49.94948551700003
+    west: 22.253974535000054
+    east: 23.09285141600003
+- slug: przeworski
+  name: przeworski
+  code: "1814"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.87280827500007
+    north: 50.30307759900006
+    west: 22.23422731000005
+    east: 22.841301814000076
+- slug: ropczycko-sedziszowski
+  name: ropczycko-sędziszowski
+  code: "1815"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.88719752500003
+    north: 50.20909119800007
+    west: 21.46420699300006
+    east: 21.821698751000042
+- slug: rzeszowski
+  name: rzeszowski
+  code: "1816"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.74457995000006
+    north: 50.355027420000056
+    west: 21.748191500000075
+    east: 22.336414543000046
+- slug: sanocki
+  name: sanocki
+  code: "1817"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.17442005600003
+    north: 49.68573315300006
+    west: 21.91542398300004
+    east: 22.42790369900007
+- slug: stalowowolski
+  name: stalowowolski
+  code: "1818"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.36185737000005
+    north: 50.818563374000064
+    west: 21.84019826900004
+    east: 22.26398609000006
+- slug: strzyzowski
+  name: strzyżowski
+  code: "1819"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.78109344300003
+    north: 49.972864478000076
+    west: 21.477367555000058
+    east: 22.020208351000065
+- slug: tarnobrzeski
+  name: tarnobrzeski
+  code: "1820"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.38680362300005
+    north: 50.73924107100004
+    west: 21.482106789000056
+    east: 21.979098256000043
+- slug: leski
+  name: leski
+  code: "1821"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.08844302800003
+    north: 49.55353525900006
+    west: 22.187134650000075
+    east: 22.553060275000064
+- slug: krosno
+  name: Krosno
+  code: "1861"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.65039817500008
+    north: 49.73143397300004
+    west: 21.694689621000066
+    east: 21.809348818000046
+- slug: przemysl
+  name: Przemyśl
+  code: "1862"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.746496267000055
+    north: 49.81439473000006
+    west: 22.713819012000044
+    east: 22.85523299700003
+- slug: rzeszow
+  name: Rzeszów
+  code: "1863"
+  voivodeship: podkarpackie
+  bbox:
+    south: 49.93258265500003
+    north: 50.08166797100006
+    west: 21.858782285000075
+    east: 22.092791453000075
+- slug: tarnobrzeg
+  name: Tarnobrzeg
+  code: "1864"
+  voivodeship: podkarpackie
+  bbox:
+    south: 50.51245619500003
+    north: 50.65524880100003
+    west: 21.60119646100003
+    east: 21.795692875000043
+- slug: augustowski
+  name: augustowski
+  code: "2001"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.570063548000064
+    north: 54.02476971400006
+    west: 22.69680157700003
+    east: 23.58870229400003
+- slug: bialostocki
+  name: białostocki
+  code: "2002"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.85425891500006
+    north: 53.38474597600003
+    west: 22.469074242000033
+    east: 23.946270238000068
+- slug: bielski-podlaskie
+  name: bielski
+  code: "2003"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.56589601300004
+    north: 52.92567199200005
+    west: 22.611431925000034
+    east: 23.401703086000055
+- slug: grajewski
+  name: grajewski
+  code: "2004"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.34859065200004
+    north: 53.76158878600006
+    west: 22.13572796400007
+    east: 22.84417679200004
+- slug: hajnowski
+  name: hajnowski
+  code: "2005"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.42669001100006
+    north: 52.990209297000035
+    west: 23.174813253000025
+    east: 23.93956526200003
+- slug: kolnenski
+  name: kolneński
+  code: "2006"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.23916694400003
+    north: 53.54453996600006
+    west: 21.603625656000077
+    east: 22.279352396000036
+- slug: lomzynski
+  name: łomżyński
+  code: "2007"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.97883365300004
+    north: 53.43784832500006
+    west: 21.633820403000072
+    east: 22.497577351000075
+- slug: moniecki
+  name: moniecki
+  code: "2008"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.20136404500005
+    north: 53.689846447000036
+    west: 22.430342963000044
+    east: 23.122663772000067
+- slug: sejnenski
+  name: sejneński
+  code: "2009"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.894284801000026
+    north: 54.29700481300006
+    west: 23.079942180000046
+    east: 23.528601483000045
+- slug: siemiatycki
+  name: siemiatycki
+  code: "2010"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.27997028200008
+    north: 52.69687254400003
+    west: 22.457845469000063
+    east: 23.314937599000075
+- slug: sokolski
+  name: sokólski
+  code: "2011"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.14898505200006
+    north: 53.72195679100008
+    west: 22.928678868000077
+    east: 23.90945819700005
+- slug: suwalski
+  name: suwalski
+  code: "2012"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.92285022000004
+    north: 54.41040285500003
+    west: 22.48153028200005
+    east: 23.159756301000073
+- slug: wysokomazowiecki
+  name: wysokomazowiecki
+  code: "2013"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.58535899800006
+    north: 53.14378301100004
+    west: 22.249175458000025
+    east: 22.866526873000055
+- slug: zambrowski
+  name: zambrowski
+  code: "2014"
+  voivodeship: podlaskie
+  bbox:
+    south: 52.84270072100003
+    north: 53.20336956400007
+    west: 21.976098023000077
+    east: 22.594008848000044
+- slug: bialystok
+  name: Białystok
+  code: "2061"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.06659683700008
+    north: 53.18810775700007
+    west: 23.067158152000047
+    east: 23.247192919000042
+- slug: lomza
+  name: Łomża
+  code: "2062"
+  voivodeship: podlaskie
+  bbox:
+    south: 53.14366437800004
+    north: 53.21361683100008
+    west: 22.011157094000055
+    east: 22.106596525000043
+- slug: suwalki
+  name: Suwałki
+  code: "2063"
+  voivodeship: podlaskie
+  bbox:
+    south: 54.04041628900006
+    north: 54.16501752700003
+    west: 22.872232704000055
+    east: 22.994512299000064
+- slug: bytowski
+  name: bytowski
+  code: "2201"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.872770252000066
+    north: 54.44251628200004
+    west: 16.782766785000035
+    east: 17.800193638000053
+- slug: chojnicki
+  name: chojnicki
+  code: "2202"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.571152149000056
+    north: 54.031336698000075
+    west: 17.297935718000076
+    east: 18.137415684000075
+- slug: czluchowski
+  name: człuchowski
+  code: "2203"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.49096427100005
+    north: 54.011128419000045
+    west: 16.85765346200003
+    east: 17.521075649000068
+- slug: gdanski
+  name: gdański
+  code: "2204"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.105901122000034
+    north: 54.34653528100006
+    west: 18.215088793000064
+    east: 18.945953361000022
+- slug: kartuski
+  name: kartuski
+  code: "2205"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.17430120600005
+    north: 54.476174822000075
+    west: 17.697472169000037
+    east: 18.487985055000024
+- slug: koscierski
+  name: kościerski
+  code: "2206"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.83539040000005
+    north: 54.19946827800004
+    west: 17.646826134000037
+    east: 18.35724925900007
+- slug: kwidzynski
+  name: kwidzyński
+  code: "2207"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.58815041500003
+    north: 53.91159404500007
+    west: 18.73932037700007
+    east: 19.32297806500003
+- slug: leborski
+  name: lęborski
+  code: "2208"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.35336386800003
+    north: 54.78324058100003
+    west: 17.416745976000072
+    east: 17.88123762400005
+- slug: malborski
+  name: malborski
+  code: "2209"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.94307693500008
+    north: 54.18308220500006
+    west: 18.805954144000054
+    east: 19.282212525000034
+- slug: nowodworski-pomorskie
+  name: nowodworski
+  code: "2210"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.11612145600003
+    north: 54.45915250100006
+    west: 18.836579534000066
+    east: 19.648735518000024
+- slug: pucki
+  name: pucki
+  code: "2211"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.55738128100006
+    north: 54.83641666700004
+    west: 17.911406450000072
+    east: 18.828895401000068
+- slug: slupski
+  name: słupski
+  code: "2212"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.08454543100004
+    north: 54.76009093200008
+    west: 16.699086545000057
+    east: 17.619264935000047
+- slug: starogardzki
+  name: starogardzki
+  code: "2213"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.656990877000055
+    north: 54.14108546400007
+    west: 18.063505357000054
+    east: 18.732576145000053
+- slug: tczewski
+  name: tczewski
+  code: "2214"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.68445694400003
+    north: 54.154104450000034
+    west: 18.556351679000045
+    east: 18.887151463000066
+- slug: wejherowski
+  name: wejherowski
+  code: "2215"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.40995533000006
+    north: 54.82450143500006
+    west: 17.666588740000066
+    east: 18.430951598000036
+- slug: sztumski
+  name: sztumski
+  code: "2216"
+  voivodeship: pomorskie
+  bbox:
+    south: 53.77510682600007
+    north: 54.02744247500004
+    west: 18.86134637500004
+    east: 19.581069309000043
+- slug: gdansk
+  name: Gdańsk
+  code: "2261"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.27672505500004
+    north: 54.44520287100005
+    west: 18.43046018900003
+    east: 18.95002966100003
+- slug: gdynia
+  name: Gdynia
+  code: "2262"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.42275034700003
+    north: 54.584478225000055
+    west: 18.358159038000053
+    east: 18.569062719000044
+- slug: slupsk
+  name: Słupsk
+  code: "2263"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.42278346300003
+    north: 54.495951406000074
+    west: 16.951422903000037
+    east: 17.104991953000024
+- slug: sopot
+  name: Sopot
+  code: "2264"
+  voivodeship: pomorskie
+  bbox:
+    south: 54.42275034700003
+    north: 54.46391483500008
+    west: 18.504484728000023
+    east: 18.59115889700007
+- slug: bedzinski
+  name: będziński
+  code: "2401"
+  voivodeship: slaskie
+  bbox:
+    south: 50.29433552100005
+    north: 50.536088136000046
+    west: 18.957769985000027
+    east: 19.306745680000063
+- slug: bielski-slaskie
+  name: bielski
+  code: "2402"
+  voivodeship: slaskie
+  bbox:
+    south: 49.654503238000075
+    north: 49.95665893100005
+    west: 18.826857051000047
+    east: 19.316784363000068
+- slug: cieszynski
+  name: cieszyński
+  code: "2403"
+  voivodeship: slaskie
+  bbox:
+    south: 49.51442183300003
+    north: 49.93477873300003
+    west: 18.56567146900005
+    east: 19.017074426000022
+- slug: czestochowski
+  name: częstochowski
+  code: "2404"
+  voivodeship: slaskie
+  bbox:
+    south: 50.63464049000004
+    north: 51.04619057600007
+    west: 18.84868130900003
+    east: 19.825653326000065
+- slug: gliwicki
+  name: gliwicki
+  code: "2405"
+  voivodeship: slaskie
+  bbox:
+    south: 50.17261787600006
+    north: 50.55125328300005
+    west: 18.35774462200004
+    east: 18.800495941000065
+- slug: klobucki
+  name: kłobucki
+  code: "2406"
+  voivodeship: slaskie
+  bbox:
+    south: 50.76605662800006
+    north: 51.09822103800008
+    west: 18.61238564100006
+    east: 19.12715177700005
+- slug: lubliniecki
+  name: lubliniecki
+  code: "2407"
+  voivodeship: slaskie
+  bbox:
+    south: 50.49328348700004
+    north: 50.85358777000005
+    west: 18.483883023000033
+    east: 19.109261954000033
+- slug: mikolowski
+  name: mikołowski
+  code: "2408"
+  voivodeship: slaskie
+  bbox:
+    south: 50.054389840000056
+    north: 50.24626531500007
+    west: 18.719745298000078
+    east: 18.953995908000024
+- slug: myszkowski
+  name: myszkowski
+  code: "2409"
+  voivodeship: slaskie
+  bbox:
+    south: 50.50666169200008
+    north: 50.70299780400006
+    west: 19.073360082000022
+    east: 19.627914802000078
+- slug: pszczynski
+  name: pszczyński
+  code: "2410"
+  voivodeship: slaskie
+  bbox:
+    south: 49.88049360700006
+    north: 50.100580543000035
+    west: 18.61804778800007
+    east: 19.144486852000057
+- slug: raciborski
+  name: raciborski
+  code: "2411"
+  voivodeship: slaskie
+  bbox:
+    south: 49.91588194000008
+    north: 50.25472212500006
+    west: 18.035038262000057
+    east: 18.50324249600004
+- slug: rybnicki
+  name: rybnicki
+  code: "2412"
+  voivodeship: slaskie
+  bbox:
+    south: 50.06576679300008
+    north: 50.20191101100005
+    west: 18.55316233800005
+    east: 18.752786056000048
+- slug: tarnogorski
+  name: tarnogórski
+  code: "2413"
+  voivodeship: slaskie
+  bbox:
+    south: 50.32925069800007
+    north: 50.61499351700007
+    west: 18.590800349000062
+    east: 19.13446582800003
+- slug: bierunsko-ledzinski
+  name: bieruńsko-lędziński
+  code: "2414"
+  voivodeship: slaskie
+  bbox:
+    south: 50.01903436300006
+    north: 50.16945506300004
+    west: 19.036126508000052
+    east: 19.25381056300006
+- slug: wodzislawski
+  name: wodzisławski
+  code: "2415"
+  voivodeship: slaskie
+  bbox:
+    south: 49.899467310000034
+    north: 50.08696771100006
+    west: 18.23955379100005
+    east: 18.611748867000074
+- slug: zawiercianski
+  name: zawierciański
+  code: "2416"
+  voivodeship: slaskie
+  bbox:
+    south: 50.359335016000045
+    north: 50.72915597700006
+    west: 19.249778029000026
+    east: 19.963978162000046
+- slug: zywiecki
+  name: żywiecki
+  code: "2417"
+  voivodeship: slaskie
+  bbox:
+    south: 49.39397630600007
+    north: 49.82888204300008
+    west: 18.946581972000047
+    east: 19.480764855000075
+- slug: bielsko-biala
+  name: Bielsko-Biała
+  code: "2461"
+  voivodeship: slaskie
+  bbox:
+    south: 49.73668262700005
+    north: 49.88744041000007
+    west: 18.945377068000028
+    east: 19.12526758000007
+- slug: bytom
+  name: Bytom
+  code: "2462"
+  voivodeship: slaskie
+  bbox:
+    south: 50.31670752500003
+    north: 50.41246459000007
+    west: 18.788583810000034
+    east: 18.964072128000055
+- slug: chorzow
+  name: Chorzów
+  code: "2463"
+  voivodeship: slaskie
+  bbox:
+    south: 50.23912887600005
+    north: 50.335881261000054
+    west: 18.91896986100005
+    east: 19.00636803900005
+- slug: czestochowa
+  name: Częstochowa
+  code: "2464"
+  voivodeship: slaskie
+  bbox:
+    south: 50.73600653700004
+    north: 50.88214779200007
+    west: 19.01125430600007
+    east: 19.23208885400004
+- slug: dabrowa_gornicza
+  name: Dąbrowa Górnicza
+  code: "2465"
+  voivodeship: slaskie
+  bbox:
+    south: 50.29169344400003
+    north: 50.43691247500004
+    west: 19.16088071000007
+    east: 19.48764699900005
+- slug: gliwice
+  name: Gliwice
+  code: "2466"
+  voivodeship: slaskie
+  bbox:
+    south: 50.22720405700005
+    north: 50.37391631600008
+    west: 18.54299982400005
+    east: 18.750937572000055
+- slug: jastrzebie-zdroj
+  name: Jastrzębie-Zdrój
+  code: "2467"
+  voivodeship: slaskie
+  bbox:
+    south: 49.89657510300003
+    north: 50.02080919400004
+    west: 18.515106864000074
+    east: 18.686582087000033
+- slug: jaworzno
+  name: Jaworzno
+  code: "2468"
+  voivodeship: slaskie
+  bbox:
+    south: 50.116933679000056
+    north: 50.26179269800008
+    west: 19.160678673000064
+    east: 19.441975568000032
+- slug: katowice
+  name: Katowice
+  code: "2469"
+  voivodeship: slaskie
+  bbox:
+    south: 50.13133472000004
+    north: 50.296298972000045
+    west: 18.896943517000068
+    east: 19.12442358000004
+- slug: myslowice
+  name: Mysłowice
+  code: "2470"
+  voivodeship: slaskie
+  bbox:
+    south: 50.154373623000026
+    north: 50.26597996600003
+    west: 19.090306421000037
+    east: 19.24177359300006
+- slug: piekary_slaskie
+  name: Piekary Śląskie
+  code: "2471"
+  voivodeship: slaskie
+  bbox:
+    south: 50.33065101300008
+    north: 50.42100744500004
+    west: 18.914488620000043
+    east: 19.04152945800007
+- slug: ruda_slaska
+  name: Ruda Śląska
+  code: "2472"
+  voivodeship: slaskie
+  bbox:
+    south: 50.20842195700004
+    north: 50.32978330600008
+    west: 18.792339387000027
+    east: 18.956148650000046
+- slug: rybnik
+  name: Rybnik
+  code: "2473"
+  voivodeship: slaskie
+  bbox:
+    south: 50.03721031400005
+    north: 50.181020869000065
+    west: 18.442327834000025
+    east: 18.656770289000065
+- slug: siemianowice_slaskie
+  name: Siemianowice Śląskie
+  code: "2474"
+  voivodeship: slaskie
+  bbox:
+    south: 50.27528260400004
+    north: 50.348768747000065
+    west: 18.98540747800007
+    east: 19.061100870000075
+- slug: sosnowiec
+  name: Sosnowiec
+  code: "2475"
+  voivodeship: slaskie
+  bbox:
+    south: 50.226309601000025
+    north: 50.316944041000056
+    west: 19.07131200400005
+    east: 19.31194639200004
+- slug: swietochlowice
+  name: Świętochłowice
+  code: "2476"
+  voivodeship: slaskie
+  bbox:
+    south: 50.270878965000065
+    north: 50.32495635300006
+    west: 18.883469313000035
+    east: 18.935754836000058
+- slug: tychy
+  name: Tychy
+  code: "2477"
+  voivodeship: slaskie
+  bbox:
+    south: 50.07716732000006
+    north: 50.17583341500006
+    west: 18.925600888000076
+    east: 19.089750758000037
+- slug: zabrze
+  name: Zabrze
+  code: "2478"
+  voivodeship: slaskie
+  bbox:
+    south: 50.24676872500004
+    north: 50.38137778600003
+    west: 18.731858444000068
+    east: 18.862340102000076
+- slug: zory
+  name: Żory
+  code: "2479"
+  voivodeship: slaskie
+  bbox:
+    south: 49.998079192000034
+    north: 50.081255860000056
+    west: 18.60222420300005
+    east: 18.773562217000062
+- slug: buski
+  name: buski
+  code: "2601"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.27388649400007
+    north: 50.63651688600004
+    west: 20.604318962000036
+    east: 21.146534147000068
+- slug: jedrzejowski
+  name: jędrzejowski
+  code: "2602"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.44731057600006
+    north: 50.86527602600006
+    west: 19.788644173000023
+    east: 20.58430073900007
+- slug: kazimierski
+  name: kazimierski
+  code: "2603"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.18603047800008
+    north: 50.389593081000044
+    west: 20.292622644000062
+    east: 20.774727531000053
+- slug: kielecki
+  name: kielecki
+  code: "2604"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.53648403100004
+    north: 51.061780369000076
+    west: 20.092403872000034
+    east: 21.16972190200005
+- slug: konecki
+  name: konecki
+  code: "2605"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.96047176800005
+    north: 51.33940503700006
+    west: 19.981769272000065
+    east: 20.70199033600005
+- slug: opatowski
+  name: opatowski
+  code: "2606"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.67976911800008
+    north: 51.07801566300003
+    west: 21.132894059000023
+    east: 21.835813614000074
+- slug: ostrowiecki
+  name: ostrowiecki
+  code: "2607"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.81929612300007
+    north: 51.06531160500003
+    west: 21.127914111000052
+    east: 21.68721418800004
+- slug: pinczowski
+  name: pińczowski
+  code: "2608"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.32953678200005
+    north: 50.67031984700003
+    west: 20.260608715000046
+    east: 20.68444743300006
+- slug: sandomierski
+  name: sandomierski
+  code: "2609"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.509280517000036
+    north: 50.878956763000076
+    west: 21.350160408000022
+    east: 21.866513201000032
+- slug: skarzyski
+  name: skarżyski
+  code: "2610"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.934585955000045
+    north: 51.19533739700006
+    west: 20.600886452000054
+    east: 20.98365717300004
+- slug: starachowicki
+  name: starachowicki
+  code: "2611"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.896939161000034
+    north: 51.20692839800006
+    west: 20.902792963000024
+    east: 21.383104914000057
+- slug: staszowski
+  name: staszowski
+  code: "2612"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.33731499600003
+    north: 50.70494862100003
+    west: 20.874064200000078
+    east: 21.517814264000037
+- slug: wloszczowski
+  name: włoszczowski
+  code: "2613"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.61962141600003
+    north: 51.047621510000056
+    west: 19.704303518000074
+    east: 20.249618844000054
+- slug: kielce
+  name: Kielce
+  code: "2661"
+  voivodeship: swietokrzyskie
+  bbox:
+    south: 50.79688788300007
+    north: 50.91251258500006
+    west: 20.51052247100006
+    east: 20.708246233000068
+- slug: bartoszycki
+  name: bartoszycki
+  code: "2801"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 54.02285280700005
+    north: 54.40220204900004
+    west: 20.260983828000064
+    east: 21.22054666200006
+- slug: braniewski
+  name: braniewski
+  code: "2802"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 54.102422200000035
+    north: 54.45326669200006
+    west: 19.61913794700007
+    east: 20.39359100300004
+- slug: dzialdowski
+  name: działdowski
+  code: "2803"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.139118308000036
+    north: 53.43835090200008
+    west: 19.692192308000074
+    east: 20.411136966000072
+- slug: elblaski
+  name: elbląski
+  code: "2804"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.92628457200004
+    north: 54.392243258000065
+    west: 19.217284189000054
+    east: 20.058201736000058
+- slug: elcki
+  name: ełcki
+  code: "2805"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.62675945600006
+    north: 54.003841496000064
+    west: 22.023853247000034
+    east: 22.785437486000035
+- slug: gizycki
+  name: giżycki
+  code: "2806"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.85460737200003
+    north: 54.18154867900006
+    west: 21.431470654000066
+    east: 22.20044445800005
+- slug: ilawski
+  name: iławski
+  code: "2807"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.43330312300003
+    north: 53.916676135000046
+    west: 19.129276454000035
+    east: 19.94801794600005
+- slug: ketrzynski
+  name: kętrzyński
+  code: "2808"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.93818820700005
+    north: 54.33481588700005
+    west: 21.022045193000054
+    east: 21.602311704000044
+- slug: lidzbarski
+  name: lidzbarski
+  code: "2809"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.98291283300006
+    north: 54.228709785000035
+    west: 19.94418980200004
+    east: 20.81705342600003
+- slug: mragowski
+  name: mrągowski
+  code: "2810"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.62547573900008
+    north: 53.995792136000034
+    west: 21.051369684000065
+    east: 21.74378852800004
+- slug: nidzicki
+  name: nidzicki
+  code: "2811"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.21416527000008
+    north: 53.53069845500005
+    west: 20.18011867000007
+    east: 20.817039296000075
+- slug: nowomiejski
+  name: nowomiejski
+  code: "2812"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.30206836800005
+    north: 53.56937271100003
+    west: 19.18919905000007
+    east: 19.904018148000034
+- slug: olecki
+  name: olecki
+  code: "2813"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.88752573900007
+    north: 54.21506220100008
+    west: 22.110154652000062
+    east: 22.72374426600004
+- slug: olsztynski
+  name: olsztyński
+  code: "2814"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.45444933300007
+    north: 54.103763807000064
+    west: 20.106627736000064
+    east: 21.12772652800004
+- slug: ostrodzki
+  name: ostródzki
+  code: "2815"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.37848702600007
+    north: 54.07985945000007
+    west: 19.555885833000048
+    east: 20.272394365000025
+- slug: piski
+  name: piski
+  code: "2816"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.45891618400003
+    north: 53.89281462400004
+    west: 21.410007016000066
+    east: 22.30563939700005
+- slug: szczycienski
+  name: szczycieński
+  code: "2817"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.292516301000035
+    north: 53.79098286000004
+    west: 20.591639798000074
+    east: 21.551689847000034
+- slug: goldapski
+  name: gołdapski
+  code: "2818"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 54.16777341900007
+    north: 54.36332354600006
+    west: 21.93800496700004
+    east: 22.806144854000024
+- slug: wegorzewski
+  name: węgorzewski
+  code: "2819"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 54.080841726000074
+    north: 54.33332302800005
+    west: 21.531085000000076
+    east: 22.02511759600003
+- slug: elblag
+  name: Elbląg
+  code: "2861"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 54.135649314000034
+    north: 54.25909910400003
+    west: 19.365573477000055
+    east: 19.509033755000075
+- slug: olsztyn
+  name: Olsztyn
+  code: "2862"
+  voivodeship: warminsko-mazurskie
+  bbox:
+    south: 53.73021678600003
+    north: 53.82866976300005
+    west: 20.38294372400003
+    east: 20.560723388000042
+- slug: chodzieski
+  name: chodzieski
+  code: "3001"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.81719794600008
+    north: 53.08985607100004
+    west: 16.737820499000065
+    east: 17.298859931000038
+- slug: czarnkowsko-trzcianecki
+  name: czarnkowsko-trzcianecki
+  code: "3002"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.72578037100004
+    north: 53.13095299100007
+    west: 15.893221426000025
+    east: 16.800130848000038
+- slug: gnieznienski
+  name: gnieźnieński
+  code: "3003"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.36824757900007
+    north: 52.73894794600005
+    west: 17.15143816400007
+    east: 17.987164349000068
+- slug: gostynski
+  name: gostyński
+  code: "3004"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.69450604300005
+    north: 51.98020305300008
+    west: 16.72885102200007
+    east: 17.338056385000073
+- slug: grodziski-wielkopolskie
+  name: grodziski
+  code: "3005"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.03359816100004
+    north: 52.28722090600007
+    west: 16.072522996000032
+    east: 16.60738914500007
+- slug: jarocinski
+  name: jarociński
+  code: "3006"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.87339702500003
+    north: 52.14554229000004
+    west: 17.186390995000068
+    east: 17.723556803000065
+- slug: kaliski
+  name: kaliski
+  code: "3007"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.532876875000056
+    north: 52.04108735700004
+    west: 17.93404314000003
+    east: 18.481596070000023
+- slug: kepinski
+  name: kępiński
+  code: "3008"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.105357077000065
+    north: 51.393382306000035
+    west: 17.744110835000072
+    east: 18.180160251000075
+- slug: kolski
+  name: kolski
+  code: "3009"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.06092694300003
+    north: 52.42804843500005
+    west: 18.458924205000073
+    east: 19.102428099000065
+- slug: koninski
+  name: koniński
+  code: "3010"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.976968071000044
+    north: 52.54336026500005
+    west: 17.934639960000027
+    east: 18.65767721000003
+- slug: koscianski
+  name: kościański
+  code: "3011"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.91797363400008
+    north: 52.21545861300007
+    west: 16.425293040000042
+    east: 17.009681846000035
+- slug: krotoszynski
+  name: krotoszyński
+  code: "3012"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.58430155800005
+    north: 51.900841273000026
+    west: 17.127090765000048
+    east: 17.71446442000007
+- slug: leszczynski
+  name: leszczyński
+  code: "3013"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.70487599300003
+    north: 51.986567283000056
+    west: 16.106389465000063
+    east: 16.90420163500005
+- slug: miedzychodzki
+  name: międzychodzki
+  code: "3014"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.44832046200003
+    north: 52.75489632400007
+    west: 15.776346211000032
+    east: 16.33853870300004
+- slug: nowotomyski
+  name: nowotomyski
+  code: "3015"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.18277217800005
+    north: 52.51421819600006
+    west: 15.804058445000067
+    east: 16.51266424000005
+- slug: obornicki
+  name: obornicki
+  code: "3016"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.54527531900004
+    north: 52.888846027000056
+    west: 16.57623339400004
+    east: 17.131150997000077
+- slug: ostrowski-wielkopolskie
+  name: ostrowski
+  code: "3017"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.39949177600005
+    north: 51.81510207100007
+    west: 17.514631414000064
+    east: 18.187957415000028
+- slug: ostrzeszowski
+  name: ostrzeszowski
+  code: "3018"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.293083402000036
+    north: 51.56993729000004
+    west: 17.710601851000035
+    east: 18.38249212000005
+- slug: pilski
+  name: pilski
+  code: "3019"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.95248727000006
+    north: 53.363391395000065
+    west: 16.39052642000007
+    east: 17.43879316400006
+- slug: pleszewski
+  name: pleszewski
+  code: "3020"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.75967286500003
+    north: 52.09085128500004
+    west: 17.51402907800002
+    east: 18.042505505000065
+- slug: poznanski
+  name: poznański
+  code: "3021"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.157841259000065
+    north: 52.676248644000054
+    west: 16.45653905200004
+    east: 17.397729842000047
+- slug: rawicki
+  name: rawicki
+  code: "3022"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.544710757000075
+    north: 51.74556539200006
+    west: 16.639154262000034
+    east: 17.257432910000034
+- slug: slupecki
+  name: słupecki
+  code: "3023"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.07338908600008
+    north: 52.555033508000065
+    west: 17.694418320000068
+    east: 18.132908160000056
+- slug: szamotulski
+  name: szamotulski
+  code: "3024"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.373752754000066
+    north: 52.79405728200004
+    west: 16.013770434000037
+    east: 16.740772418000063
+- slug: sredzki-wielkopolskie
+  name: średzki
+  code: "3025"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.01062314700005
+    north: 52.34913992700007
+    west: 17.09455987000007
+    east: 17.519236144000047
+- slug: sremski
+  name: śremski
+  code: "3026"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.92648954100008
+    north: 52.19773292600007
+    west: 16.79024566800007
+    east: 17.32647606000006
+- slug: turecki
+  name: turecki
+  code: "3027"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.82100292200005
+    north: 52.17082819900003
+    west: 18.21821412500003
+    east: 18.766176381000037
+- slug: wagrowiecki
+  name: wągrowiecki
+  code: "3028"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.56679106800004
+    north: 53.084018177000075
+    west: 17.003068014000064
+    east: 17.526130194000075
+- slug: wolsztynski
+  name: wolsztyński
+  code: "3029"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.93052451900007
+    north: 52.24666420700004
+    west: 15.835811232000026
+    east: 16.465748904000066
+- slug: wrzesinski
+  name: wrzesiński
+  code: "3030"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.06305032700004
+    north: 52.41877453800004
+    west: 17.346785344000068
+    east: 17.833597672000053
+- slug: zlotowski
+  name: złotowski
+  code: "3031"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 53.16934264300005
+    north: 53.65586893200003
+    west: 16.43981956400006
+    east: 17.390652862000024
+- slug: kalisz
+  name: Kalisz
+  code: "3061"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.70149366600003
+    north: 51.78978926800005
+    west: 17.99788767800004
+    east: 18.152162901000054
+- slug: konin
+  name: Konin
+  code: "3062"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.18245262700003
+    north: 52.32865556200005
+    west: 18.192607312000064
+    east: 18.33178143200007
+- slug: leszno
+  name: Leszno
+  code: "3063"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 51.80662731600006
+    north: 51.87337639100008
+    west: 16.53681523000006
+    east: 16.621398499000065
+- slug: poznan
+  name: Poznań
+  code: "3064"
+  voivodeship: wielkopolskie
+  bbox:
+    south: 52.29447079800008
+    north: 52.50932787100004
+    west: 16.731587783000066
+    east: 17.066395750000027
+- slug: bialogardzki
+  name: białogardzki
+  code: "3201"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.80932312900006
+    north: 54.14565547300003
+    west: 15.720099402000073
+    east: 16.44706191800003
+- slug: choszczenski
+  name: choszczeński
+  code: "3202"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 52.94309040500008
+    north: 53.34390750300008
+    west: 15.205777337000029
+    east: 16.023197865000043
+- slug: drawski
+  name: drawski
+  code: "3203"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.21295345000004
+    north: 53.69389658600005
+    west: 15.584765056000037
+    east: 16.457192123000027
+- slug: goleniowski
+  name: goleniowski
+  code: "3204"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.40297972600007
+    north: 53.815865795000036
+    west: 14.38141586100005
+    east: 15.326997732000052
+- slug: gryficki
+  name: gryficki
+  code: "3205"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.726792302000035
+    north: 54.15906024100008
+    west: 14.895819363000044
+    east: 15.48581768200006
+- slug: gryfinski
+  name: gryfiński
+  code: "3206"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 52.67990003700004
+    north: 53.36606470000004
+    west: 14.123678877000032
+    east: 14.875208289000057
+- slug: kamienski
+  name: kamieński
+  code: "3207"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.76755073700008
+    north: 54.05461862700008
+    west: 14.391692758000033
+    east: 15.096698057000026
+- slug: kolobrzeski
+  name: kołobrzeski
+  code: "3208"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.87357028000008
+    north: 54.22722441600007
+    west: 15.350096848000078
+    east: 15.88052549300005
+- slug: koszalinski
+  name: koszaliński
+  code: "3209"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.88673716200003
+    north: 54.33400736700003
+    west: 15.791972523000027
+    east: 16.812649141000065
+- slug: mysliborski
+  name: myśliborski
+  code: "3210"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 52.62468932500008
+    north: 53.08512340300007
+    west: 14.436437820000037
+    east: 15.332634535000068
+- slug: policki
+  name: policki
+  code: "3211"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.274435062000066
+    north: 53.78522053000006
+    west: 14.266823029000022
+    east: 14.635264679000045
+- slug: pyrzycki
+  name: pyrzycki
+  code: "3212"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 52.970260162000045
+    north: 53.28476762100007
+    west: 14.670123658000023
+    east: 15.212195515000076
+- slug: slawienski
+  name: sławieński
+  code: "3213"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 54.18955261600007
+    north: 54.56924724700008
+    west: 16.21419779400003
+    east: 16.865116519000026
+- slug: stargardzki
+  name: stargardzki
+  code: "3214"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.08185244400005
+    north: 53.54850480300007
+    west: 14.732005431000061
+    east: 15.718085895000058
+- slug: szczecinecki
+  name: szczecinecki
+  code: "3215"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.47030418600008
+    north: 53.99786370600003
+    west: 16.200484473000074
+    east: 16.982053498000028
+- slug: swidwinski
+  name: świdwiński
+  code: "3216"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.64626935200005
+    north: 53.96434489300003
+    west: 15.528819657000042
+    east: 16.267815029000076
+- slug: walecki
+  name: wałecki
+  code: "3217"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.01208103100004
+    north: 53.45927660500007
+    west: 15.962497598000027
+    east: 16.714467009000032
+- slug: lobeski
+  name: łobeski
+  code: "3218"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.470833379000055
+    north: 53.87769743400003
+    west: 15.148153968000031
+    east: 15.800079141000026
+- slug: koszalin
+  name: Koszalin
+  code: "3261"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 54.13805053600004
+    north: 54.27482522100007
+    west: 16.10990465800006
+    east: 16.321131802000025
+- slug: szczecin
+  name: Szczecin
+  code: "3262"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.32458944700005
+    north: 53.53635954300006
+    west: 14.443818872000065
+    east: 14.804612105000047
+- slug: swinoujscie
+  name: Świnoujście
+  code: "3263"
+  voivodeship: zachodniopomorskie
+  bbox:
+    south: 53.76862619700006
+    north: 53.93758861100008
+    west: 14.207639724000046
+    east: 14.440949138000065

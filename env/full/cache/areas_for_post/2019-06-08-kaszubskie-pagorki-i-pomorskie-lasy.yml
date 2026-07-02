@@ -4,7 +4,7 @@
   total_distance_km: 78.489
   points_count: 516.0
   towns:
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
     distance_meters: 17327.03
@@ -171,7 +171,7 @@
   - slug: chmielno
     name: Chmielno
     code: "2205012"
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
   - slug: suleczyno

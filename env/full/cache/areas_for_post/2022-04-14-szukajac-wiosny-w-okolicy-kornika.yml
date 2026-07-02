@@ -29,7 +29,7 @@
     distance_meters: 17596.08
     distance_km: 17.596
     distance_percent: 58.1515
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 12662.96
@@ -91,7 +91,7 @@
   - slug: poznanski
     name: poznański
     code: "3021"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:

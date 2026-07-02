@@ -18,6 +18,7 @@ coords:                 [{"route": [[54.70111,18.67764], [54.69392,18.67309]], "
 distance:               4
 time_spent:             2
 elevation:              42
+terrain:                10.5 # m/km przewyższeń — pofalowany
 temperature:            
 
 

@@ -16,7 +16,7 @@
     distance_meters: 15126.0
     distance_km: 15.126
     distance_percent: 25.0768
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 11565.17
@@ -34,7 +34,7 @@
     distance_meters: 7898.98
     distance_km: 7.899
     distance_percent: 13.0954
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-miejska
     name: Wągrowiec
     code: "3028011"
     distance_meters: 3692.73
@@ -126,9 +126,12 @@
   - slug: miescisko
     name: Mieścisko
     code: "3028042"
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
+  - slug: wagrowiec-wielkopolskie-miejska
+    name: Wągrowiec
+    code: "3028011"
   touched_counties:
   - slug: poznanski
     name: poznański

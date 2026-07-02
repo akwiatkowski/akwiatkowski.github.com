@@ -20,6 +20,7 @@ map_zooms:              13
 distance:               35
 time_spent:             6
 elevation:              426
+terrain:                12.2 # m/km przewyższeń — pagórkowaty
 
 pois:
   - lat: 49.54895

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Co zabrałem na krótki, niby lekki, wyjazd w góry"
 subtitle:               "jedna baza, nie schronisko, lekki nacisk na zdjęcia, bezpośredni dojazd"
 date:                   2015-10-23 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_nogallery:       true
 image_position:         50% 80%

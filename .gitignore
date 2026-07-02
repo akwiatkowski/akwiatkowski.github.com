@@ -11,6 +11,7 @@
 /env/dev/cache/mod_watcher.yml
 /env/dev/blog_release
 /env/dev/blog
+/env/dev/history/
 
 # full env
 /env/full/data/images/**/*
@@ -18,6 +19,7 @@
 /env/full/cache/mod_watcher.yml
 /env/full/blog_release
 /env/full/blog
+/env/full/history/
 
 # credentials
 env/full/upload_tiles.sh
@@ -66,3 +68,15 @@ env/dev/blog_release
 env/dev/blog.dwarf
 env/dev/blog
 .stfolder/
+
+# e2e test artifacts
+tests/e2e/node_modules/
+tests/e2e/reports/
+tests/e2e/test-results/
+tests/e2e/playwright-report/
+
+# scratch and build artifacts
+/tmp/
+/test-results/
+/go/bin/
+/go/odkrywajac

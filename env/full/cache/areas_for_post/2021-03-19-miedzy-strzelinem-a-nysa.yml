@@ -127,7 +127,7 @@
     distance_meters: 52021.24
     distance_km: 52.021
     distance_percent: 39.0615
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 49442.94
@@ -258,7 +258,7 @@
   - slug: rownina_wroclawska
     name: Równina Wrocławska
     code: "318.53"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   - slug: dolina_nysy_klodzkiej

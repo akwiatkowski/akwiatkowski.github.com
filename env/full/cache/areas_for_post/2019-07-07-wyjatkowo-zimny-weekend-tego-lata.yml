@@ -10,7 +10,7 @@
     distance_meters: 21516.04
     distance_km: 21.516
     distance_percent: 36.1779
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 10486.26
@@ -53,7 +53,7 @@
     distance_meters: 21204.25
     distance_km: 21.204
     distance_percent: 35.6537
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 16752.57
@@ -104,7 +104,7 @@
     distance_meters: 19432.22
     distance_km: 19.432
     distance_percent: 32.6741
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 8206.42
@@ -132,7 +132,7 @@
     distance_km: 59.473
     distance_percent: 100.0
   touched_towns:
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
   - slug: czempin
@@ -157,7 +157,7 @@
   - slug: sremski
     name: śremski
     code: "3026"
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:
@@ -181,7 +181,7 @@
   - slug: pojezierze_leszczynskie
     name: Pojezierze Leszczyńskie
     code: 314-316
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   - slug: pojezierze_wielkopolskie

@@ -4,7 +4,7 @@
   total_distance_km: 12.049
   points_count: 187.0
   towns:
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
     distance_meters: 12049.17
@@ -60,7 +60,7 @@
     distance_km: 12.049
     distance_percent: 100.0
   touched_towns:
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
   touched_counties:

@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Pierwsze wejście na Śnieżkę"
 subtitle:               "po co czekać do lata"
 date:                   2013-11-30 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

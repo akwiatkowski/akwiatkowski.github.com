@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Fotowarsztaty w Górach Stołowych w 2014r."
 subtitle:               "Szczeliniec Wielki, oraz droga na północ od Kudowy Zdrój"
 date:                   2014-10-19 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, photo, workshop, mountains]

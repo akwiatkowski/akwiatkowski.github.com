@@ -1,0 +1,601 @@
+---
+- image_filename: IMGP0460raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.45043588619846
+  lon: 16.65655846710733
+  altitude: 282.77
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-17T12:03:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0506raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.4855770989794
+  lon: 16.339365877198688
+  altitude: 884.55
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T06:26:41+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0622raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.43529749848985
+  lon: 16.24099519092736
+  altitude: 376.97
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 3200
+  width: 3276
+  height: 4942
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T10:01:17+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP0707raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.472676511954994
+  lon: 16.278915004748338
+  altitude: 684.12
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T10:59:15+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP0716raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.47262907026564
+  lon: 16.27652532419474
+  altitude: 667.29
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T11:04:12+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP0720raw2.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.47262412500271
+  lon: 16.276200022461815
+  altitude: 660.08
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T11:06:48+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+- image_filename: IMGP0727raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.47139056030021
+  lon: 16.27518673426278
+  altitude: 611.06
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T11:14:22+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0.3
+- image_filename: IMGP0740raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.47282688318423
+  lon: 16.269998587696605
+  altitude: 575.01
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T11:27:02+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0792raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.46667389569999
+  lon: 16.27083191650137
+  altitude: 540.4
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T12:43:16+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0888raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.46326531095943
+  lon: 16.266960566898625
+  altitude: 508.19
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T13:37:37+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0908raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.46353076582559
+  lon: 16.2562322336924
+  altitude: 457.24
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T13:51:00+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP0972raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.484886430201016
+  lon: 16.341061200923786
+  altitude: 907.62
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T06:29:56+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0975raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.484883831800516
+  lon: 16.34108257477243
+  altitude: 909.06
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T06:31:28+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP0979raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48486757090012
+  lon: 16.341054998297267
+  altitude: 910.99
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 15
+  exposure_string: 15.0 s
+  iso: 200
+  width: 4673
+  height: 3115
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T06:33:31+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP1090raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.4855776858079
+  lon: 16.339614316789742
+  altitude: 895.12
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T07:36:12+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1093raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.4855279810918
+  lon: 16.33947861379956
+  altitude: 895.12
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T07:37:21+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1099raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48559662889976
+  lon: 16.339391944900566
+  altitude: 895.12
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T07:38:54+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP1133raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48560517842177
+  lon: 16.33968690414283
+  altitude: 902.82
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T07:47:56+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP1146raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.485621774618224
+  lon: 16.339367804941144
+  altitude: 898.01
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T07:53:55+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP1172raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.485529407240776
+  lon: 16.33963213455001
+  altitude: 898.7073732718894
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T08:02:45+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP1197raw1b.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.4855034279234
+  lon: 16.339661717396684
+  altitude: 897.8579766536965
+  focal_length: 135
+  focal_length_35: 202
+  crop: 1.5
+  aperture: 0
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T08:08:43+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP1227raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48534852449484
+  lon: 16.34132430891036
+  altitude: 888.4
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 4
+  exposure_string: 4.0 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T09:44:07+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: spot
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+- image_filename: IMGP1253raw1.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.484411008704555
+  lon: 16.342764822848878
+  altitude: 895.12
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 1.3
+  exposure_string: 1.3 s
+  iso: 100
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-19T10:19:48+00:00"
+  make: PENTAX
+  white_balance: manual
+  metering_mode: spot
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0.3
+- image_filename: header.jpg
+  post_slug: 2014-10-19-fotowarsztaty-w-gorach-stolowych
+  lat: 50.48556343650209
+  lon: 16.339390603812713
+  altitude: 890.32
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 800
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-10-18T06:44:10+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0

@@ -1,0 +1,23 @@
+---
+- image_filename: header.jpg
+  post_slug: 2014-11-11-wokol-jeziora-kierskiego
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 4
+  exposure: 0.02
+  exposure_string: 1/50 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-11-11T15:06:35+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: spot
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

@@ -17,7 +17,7 @@
     distance_km: 0.059
     distance_percent: 1.1954
   counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
     distance_meters: 4964.47
@@ -38,7 +38,7 @@
     distance_km: 4.964
     distance_percent: 100.0
   macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
     distance_meters: 4964.47
@@ -73,7 +73,7 @@
     name: Nowe Miasto nad Wartą
     code: "3025032"
   touched_counties:
-  - slug: sredzki
+  - slug: sredzki-wielkopolskie
     name: średzki
     code: "3025"
   touched_voivodeships:
@@ -85,7 +85,7 @@
     name: Kotlina Śremska
     code: "315.64"
   touched_macro_regions:
-  - slug: pradolina_warcianskoodrzanska
+  - slug: pradolina_warciansko-odrzanska
     name: Pradolina Warciańsko-Odrzańska
     code: 314-316
   touched_mega_regions:

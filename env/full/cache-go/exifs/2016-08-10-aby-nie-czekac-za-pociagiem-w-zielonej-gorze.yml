@@ -1,0 +1,53 @@
+---
+- image_filename: IMGP4253raw1.jpg
+  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
+  lat: 51.87234411949846
+  lon: 15.318624079206044
+  altitude: 78.48
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 200
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-08-10T17:22:18+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -1
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-08-10-aby-nie-czekac-za-pociagiem-w-zielonej-gorze
+  lat: 51.90413005647491
+  lon: 15.346091073038775
+  altitude: 145.78
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 2000
+  height: 1334
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2016-08-10T17:41:15+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -1
+  gps_map_datum: WGS-84

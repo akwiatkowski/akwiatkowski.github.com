@@ -10,13 +10,13 @@
     distance_meters: 22070.84
     distance_km: 22.071
     distance_percent: 29.5795
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
     distance_meters: 21056.86
     distance_km: 21.057
     distance_percent: 28.2206
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
     distance_meters: 14600.4
@@ -34,7 +34,7 @@
     distance_meters: 5494.99
     distance_km: 5.495
     distance_percent: 7.3644
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-miejska
     name: Iława
     code: "2807011"
     distance_meters: 4625.43
@@ -46,7 +46,7 @@
     distance_meters: 3959.51
     distance_km: 3.96
     distance_percent: 5.3066
-  - slug: nowe_miasto_lubawskie
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
     distance_meters: 1192.92
@@ -78,13 +78,13 @@
     distance_km: 5.495
     distance_percent: 7.3644
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 37765.05
     distance_km: 37.765
     distance_percent: 50.6131
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 36850.18
@@ -110,7 +110,7 @@
     distance_km: 8.78
     distance_percent: 11.7665
   macro_regions:
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
     distance_meters: 65835.61
@@ -144,13 +144,16 @@
     distance_km: 74.615
     distance_percent: 100.0
   touched_towns:
-  - slug: ilawa
+  - slug: ilawa-warminsko-mazurskie-wiejska
     name: Iława
     code: "2807032"
-  - slug: nowe_miasto_lubawskie
+  - slug: ilawa-warminsko-mazurskie-miejska
+    name: Iława
+    code: "2807011"
+  - slug: nowe_miasto_lubawskie-warminsko-mazurskie-wiejska
     name: Nowe Miasto Lubawskie
     code: "2812052"
-  - slug: biskupiec
+  - slug: biskupiec-warminsko-mazurskie-wiejska
     name: Biskupiec
     code: "2812022"
   - slug: zbiczno
@@ -179,10 +182,10 @@
     name: wąbrzeski
     code: "0417"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -199,7 +202,7 @@
   - slug: pojezierze_ilawskie
     name: Pojezierze Iławskie
     code: 314-316
-  - slug: pojezierze_chelminskodobrzynskie
+  - slug: pojezierze_chelminsko-dobrzynskie
     name: Pojezierze Chełmińsko-Dobrzyńskie
     code: 314-316
   touched_mega_regions:

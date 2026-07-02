@@ -31,6 +31,9 @@
   time: 2015-06-06 17:09:00.000000000+02:00
 - image_filename: IMGP0485raw1.jpg
   post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  lat: 50.86443055555556
+  lon: 15.797225
+  altitude: 479.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

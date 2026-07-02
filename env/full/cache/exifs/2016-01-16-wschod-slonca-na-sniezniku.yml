@@ -46,6 +46,9 @@
   time: 2016-01-15 21:31:29.000000000+01:00
 - image_filename: IMGP7458raw1.jpg
   post_slug: 2016-01-16-wschod-slonca-na-sniezniku
+  lat: 50.17272222222222
+  lon: 16.771283333333333
+  altitude: 829.2
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

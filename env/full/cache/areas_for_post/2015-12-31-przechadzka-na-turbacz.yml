@@ -4,13 +4,13 @@
   total_distance_km: 20.853
   points_count: 312.0
   towns:
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
     distance_meters: 9581.32
     distance_km: 9.581
     distance_percent: 45.9479
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
     distance_meters: 7276.33
@@ -78,13 +78,13 @@
     distance_km: 20.853
     distance_percent: 100.0
   touched_towns:
-  - slug: rabkazdroj
+  - slug: rabka-zdroj
     name: Rabka-Zdrój
     code: "1211123"
   - slug: niedzwiedz
     name: Niedźwiedź
     code: "1207102"
-  - slug: nowy_targ
+  - slug: nowy_targ-malopolskie-wiejska
     name: Nowy Targ
     code: "1211092"
   touched_counties:

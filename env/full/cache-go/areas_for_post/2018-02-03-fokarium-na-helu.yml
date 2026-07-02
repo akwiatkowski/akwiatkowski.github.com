@@ -1,0 +1,49 @@
+---
+- type: hike
+  total_distance_meters: 1544.41
+  total_distance_km: 1.544
+  points_count: 32
+  towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+      distance_meters: 1544.41
+      distance_km: 1.544
+      distance_percent: 100
+  counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+      distance_meters: 1544.41
+      distance_km: 1.544
+      distance_percent: 100
+  voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+      distance_meters: 1544.41
+      distance_km: 1.544
+      distance_percent: 100
+  meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"
+      distance_meters: 1544.41
+      distance_km: 1.544
+      distance_percent: 100
+  touched_towns:
+    - slug: hel
+      name: Hel
+      code: "2211011"
+  touched_counties:
+    - slug: pucki
+      name: pucki
+      code: "2211"
+  touched_voivodeships:
+    - slug: pomorskie
+      name: pomorskie
+      code: "22"
+  touched_meso_regions:
+    - slug: mierzeja_helska
+      name: Mierzeja Helska
+      code: "313.52"

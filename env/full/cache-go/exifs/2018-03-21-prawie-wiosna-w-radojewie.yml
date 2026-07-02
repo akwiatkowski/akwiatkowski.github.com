@@ -1,0 +1,307 @@
+---
+- image_filename: IMGP6065raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45513888888889
+  lon: 16.961708333333334
+  altitude: 63
+  focal_length: 0
+  focal_length_35: 0
+  aperture: 0
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:08:28+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: center-weighted
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: manual
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6068raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45466666666667
+  lon: 16.963652777777778
+  altitude: 62
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 250
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:10:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6074raw2.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45465277777778
+  lon: 16.963708333333333
+  altitude: 61
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 125
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:11:38+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6101raw2.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454569444444445
+  lon: 16.96761111111111
+  altitude: 52
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 5262
+  height: 3508
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:22:33+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6115raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454569444444445
+  lon: 16.967888888888886
+  altitude: 51
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:26:49+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6124raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454597222222226
+  lon: 16.969069444444443
+  altitude: 50
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:28:04+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6126raw2.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45461111111111
+  lon: 16.96908333333333
+  altitude: 50
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 320
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:28:07+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6128raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45472222222222
+  lon: 16.96923611111111
+  altitude: 50
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 640
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:28:25+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6136raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.45458333333334
+  lon: 16.970430555555552
+  altitude: 44
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 100
+  width: 5025
+  height: 3350
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:30:30+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6165raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454569444444445
+  lon: 16.96786111111111
+  altitude: 49
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 125
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:46:10+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6169raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454569444444445
+  lon: 16.966319444444444
+  altitude: 54
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 3468
+  height: 5203
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:47:16+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP6171raw1.jpg
+  post_slug: 2018-03-21-prawie-wiosna-w-radojewie
+  lat: 52.454569444444445
+  lon: 16.96611111111111
+  altitude: 54
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 100
+  width: 5480
+  height: 3656
+  camera: PENTAX K-S2
+  camera_name: PENTAX K-S2
+  time: "2018-03-21T08:47:25+00:00"
+  make: RICOH IMAGING COMPANY, LTD.
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee 5.3
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

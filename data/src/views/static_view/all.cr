@@ -1,8 +1,0 @@
-require "./map_view"
-require "./more_view"
-
-require "./js_ideas_view"
-require "./js_timeline_view"
-require "./js_exif_view"
-require "./js_panoramio_view"
-require "./js_bicycle_planner_view"

@@ -4,12 +4,13 @@
       <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         {{ todo }}
 
-        <p>
+        <div class="post-meta-block">
           {{ tags_content }}
           {{ towns_content }}
           {{ voivodeships_content }}
+          {{ foreign_content }}
           {{ lands_content }}
-        </p>
+        </div>
 
         {{ pois_container }}
 
@@ -17,13 +18,11 @@
 
 				{{ content }}
 
-        {{ related_container }}
-
         {{ finished_at_container }}
 
-        <hr>
+        {{ related_container }}
 
-        <div class="btn-group" role="group" aria-label="Przyciski wpisu">
+        <div class="post-pager-container">
           {{ prev_post_pager }}
           {{ gallery_pager }}
           {{ next_post_pager }}
@@ -33,5 +32,3 @@
     </div>
   </div>
 </article>
-
-<hr>

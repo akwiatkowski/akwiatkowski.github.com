@@ -1,0 +1,401 @@
+---
+- image_filename: IMGP2597b1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.678229527489115
+  lon: 16.400711601598037
+  altitude: 548.09
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T09:38:14+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2603raw2.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68104517649418
+  lon: 16.40385481527605
+  altitude: 577.41
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T09:43:20+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2647raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67834754471118
+  lon: 16.43220962033462
+  altitude: 714.88
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T10:40:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP2652b1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.677377171849905
+  lon: 16.43335492350001
+  altitude: 716.32
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 8
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T10:43:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP2656b1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67674811001691
+  lon: 16.43540119750492
+  altitude: 732.66
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 9
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4928
+  height: 3264
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T10:45:56+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: IMGP2668raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.67659505640345
+  lon: 16.436713552132172
+  altitude: 732.66
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T11:05:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2671raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.675692996008756
+  lon: 16.43841683858925
+  altitude: 717.76
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T11:06:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP2682raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.671764817106705
+  lon: 16.442954968681224
+  altitude: 754.77
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T11:17:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2707raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.662533324203416
+  lon: 16.4675112627039
+  altitude: 775.92
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T11:51:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2708raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.662636086198304
+  lon: 16.468317601800198
+  altitude: 790.82
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T11:53:23+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2760raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.663963947336036
+  lon: 16.47346107288481
+  altitude: 882.63
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 4
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T13:12:37+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: IMGP2862raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68031125696102
+  lon: 16.485685408108022
+  altitude: 1044.13
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T14:03:21+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2864raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.680347802076426
+  lon: 16.48569932208995
+  altitude: 1043.65
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T14:03:46+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2870raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.680377976931375
+  lon: 16.485695466401932
+  altitude: 1044.13
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T14:04:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP2941raw1.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68410532549945
+  lon: 16.543060122123062
+  altitude: 415.43
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 4
+  exposure: 0.03333333333333333
+  exposure_string: 1/30 s
+  iso: 1600
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T16:14:44+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -1
+- image_filename: header.jpg
+  post_slug: 2014-01-04-przez-wielka-sowe-do-kamionek
+  lat: 50.68032693115029
+  lon: 16.485678451100156
+  altitude: 1043.65
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 2048
+  height: 1358
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2014-01-04T14:01:38+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0

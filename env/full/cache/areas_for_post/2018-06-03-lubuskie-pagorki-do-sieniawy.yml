@@ -16,13 +16,13 @@
     distance_meters: 8504.74
     distance_km: 8.505
     distance_percent: 14.1466
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
     distance_meters: 6473.45
     distance_km: 6.473
     distance_percent: 10.7678
-  - slug: lagow
+  - slug: lagow-lubuskie
     name: Łagów
     code: 0808022
     distance_meters: 4337.84
@@ -68,7 +68,7 @@
     distance_km: 19.861
     distance_percent: 33.0356
   macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
     distance_meters: 60118.79
@@ -99,10 +99,10 @@
   - slug: miedzyrzecz
     name: Międzyrzecz
     code: 0803023
-  - slug: lubrza
+  - slug: lubrza-lubuskie
     name: Lubrza
     code: 0808012
-  - slug: lagow
+  - slug: lagow-lubuskie
     name: Łagów
     code: 0808022
   - slug: sulecin
@@ -130,7 +130,7 @@
     name: Pojezierze Łagowskie
     code: "315.42"
   touched_macro_regions:
-  - slug: pojezierze_lubuskie_brandenburskolubuskie
+  - slug: pojezierze_lubuskie_brandenbursko-lubuskie
     name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
     code: 314-316
   touched_mega_regions:

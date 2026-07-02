@@ -1,0 +1,119 @@
+---
+- type: hike
+  total_distance_meters: 3710.67
+  total_distance_km: 3.711
+  points_count: 80
+  towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 3710.67
+      distance_km: 3.711
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 3710.67
+      distance_km: 3.711
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 3710.67
+      distance_km: 3.711
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+      distance_meters: 3710.67
+      distance_km: 3.711
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 3710.67
+      distance_km: 3.711
+      distance_percent: 100
+  touched_towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+- type: hike
+  total_distance_meters: 2315.03
+  total_distance_km: 2.315
+  points_count: 49
+  towns:
+    - slug: kudowa-zdroj
+      name: Kudowa-Zdrój
+      code: "0208031"
+      distance_meters: 2315.03
+      distance_km: 2.315
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 2315.03
+      distance_km: 2.315
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 2315.03
+      distance_km: 2.315
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+      distance_meters: 2315.03
+      distance_km: 2.315
+      distance_percent: 100
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 2315.03
+      distance_km: 2.315
+      distance_percent: 100
+  touched_towns:
+    - slug: kudowa-zdroj
+      name: Kudowa-Zdrój
+      code: "0208031"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

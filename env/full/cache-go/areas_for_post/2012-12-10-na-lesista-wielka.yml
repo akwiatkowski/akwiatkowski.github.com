@@ -1,0 +1,87 @@
+---
+- type: hike
+  total_distance_meters: 15918.12
+  total_distance_km: 15.918
+  points_count: 240
+  towns:
+    - slug: czarny_bor
+      name: Czarny Bór
+      code: "0221042"
+      distance_meters: 9012.8
+      distance_km: 9.013
+      distance_percent: 56.6198
+    - slug: mieroszow
+      name: Mieroszów
+      code: "0221063"
+      distance_meters: 4437.67
+      distance_km: 4.438
+      distance_percent: 27.8781
+    - slug: boguszow-gorce
+      name: Boguszów-Gorce
+      code: "0221011"
+      distance_meters: 2467.64
+      distance_km: 2.468
+      distance_percent: 15.5021
+  counties:
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+      distance_meters: 15918.12
+      distance_km: 15.918
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 15918.12
+      distance_km: 15.918
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_kamienne
+      name: Góry Kamienne
+      code: "332.43"
+      distance_meters: 13236.77
+      distance_km: 13.237
+      distance_percent: 83.1554
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+      distance_meters: 1628.24
+      distance_km: 1.628
+      distance_percent: 10.2288
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 15918.12
+      distance_km: 15.918
+      distance_percent: 100
+  touched_towns:
+    - slug: boguszow-gorce
+      name: Boguszów-Gorce
+      code: "0221011"
+    - slug: czarny_bor
+      name: Czarny Bór
+      code: "0221042"
+    - slug: mieroszow
+      name: Mieroszów
+      code: "0221063"
+  touched_counties:
+    - slug: walbrzyski
+      name: wałbrzyski
+      code: "0221"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_kamienne
+      name: Góry Kamienne
+      code: "332.43"
+    - slug: gory_walbrzyskie
+      name: Góry Wałbrzyskie
+      code: "332.42"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

@@ -1,0 +1,156 @@
+---
+- type: bicycle
+  total_distance_meters: 38200.01
+  total_distance_km: 38.2
+  points_count: 112
+  towns:
+    - slug: koscian
+      name: Kościan
+      code: "3011032"
+      distance_meters: 9993.96
+      distance_km: 9.994
+      distance_percent: 26.1622
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+      distance_meters: 9113.77
+      distance_km: 9.114
+      distance_percent: 23.858
+    - slug: granowo
+      name: Granowo
+      code: "3005012"
+      distance_meters: 8806.86
+      distance_km: 8.807
+      distance_percent: 23.0546
+    - slug: kamieniec
+      name: Kamieniec
+      code: "3005032"
+      distance_meters: 6675.39
+      distance_km: 6.675
+      distance_percent: 17.4749
+    - slug: grodzisk_wielkopolski
+      name: Grodzisk Wielkopolski
+      code: "3005023"
+      distance_meters: 3610.02
+      distance_km: 3.61
+      distance_percent: 9.4503
+    - slug: koscian
+      name: Kościan
+      code: "3011011"
+      distance_meters: 2470.74
+      distance_km: 2.471
+      distance_percent: 6.4679
+  counties:
+    - slug: grodziski
+      name: grodziski
+      code: "3005"
+      distance_meters: 19092.27
+      distance_km: 19.092
+      distance_percent: 49.9798
+    - slug: koscianski
+      name: kościański
+      code: "3011"
+      distance_meters: 9993.96
+      distance_km: 9.994
+      distance_percent: 26.1622
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+      distance_meters: 9113.77
+      distance_km: 9.114
+      distance_percent: 23.858
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 38200.01
+      distance_km: 38.2
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+      distance_meters: 28437.33
+      distance_km: 28.437
+      distance_percent: 74.4432
+    - slug: rownina_koscianska
+      name: Równina Kościańska
+      code: "315.83"
+      distance_meters: 5517.06
+      distance_km: 5.517
+      distance_percent: 14.4426
+    - slug: dolina_srodkowej_obry
+      name: Dolina Środkowej Obry
+      code: "315.63"
+      distance_meters: 4245.62
+      distance_km: 4.246
+      distance_percent: 11.1142
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 28437.33
+      distance_km: 28.437
+      distance_percent: 74.4432
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+      distance_meters: 5517.06
+      distance_km: 5.517
+      distance_percent: 14.4426
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 4245.62
+      distance_km: 4.246
+      distance_percent: 11.1142
+  touched_towns:
+    - slug: granowo
+      name: Granowo
+      code: "3005012"
+    - slug: grodzisk_wielkopolski
+      name: Grodzisk Wielkopolski
+      code: "3005023"
+    - slug: kamieniec
+      name: Kamieniec
+      code: "3005032"
+    - slug: koscian
+      name: Kościan
+      code: "3011032"
+    - slug: opalenica
+      name: Opalenica
+      code: "3015053"
+  touched_counties:
+    - slug: grodziski
+      name: grodziski
+      code: "3005"
+    - slug: koscianski
+      name: kościański
+      code: "3011"
+    - slug: nowotomyski
+      name: nowotomyski
+      code: "3015"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: dolina_srodkowej_obry
+      name: Dolina Środkowej Obry
+      code: "315.63"
+    - slug: rownina_koscianska
+      name: Równina Kościańska
+      code: "315.83"
+    - slug: wysoczyzna_grodziska
+      name: Wysoczyzna Grodziska
+      code: "315.59"
+  touched_macro_regions:
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316

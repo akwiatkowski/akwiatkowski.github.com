@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Powrót do Głuszycy"
 subtitle:               "koniec przygody z Górami Sowimi"
 date:                   2014-01-06 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

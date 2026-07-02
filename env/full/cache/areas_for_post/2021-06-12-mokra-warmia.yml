@@ -16,7 +16,7 @@
     distance_meters: 14358.04
     distance_km: 14.358
     distance_percent: 19.1844
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
     distance_meters: 11604.06
@@ -40,7 +40,7 @@
     distance_meters: 7242.3
     distance_km: 7.242
     distance_percent: 9.6767
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
     distance_meters: 2732.36
@@ -84,7 +84,7 @@
     distance_km: 2.732
     distance_percent: 3.6508
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 74842.42
@@ -103,7 +103,7 @@
     distance_meters: 19653.59
     distance_km: 19.654
     distance_percent: 26.26
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 16244.4
@@ -173,16 +173,19 @@
     distance_meters: 54126.03
     distance_km: 54.126
     distance_percent: 72.32
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"
     distance_meters: 20716.38
     distance_km: 20.716
     distance_percent: 27.68
   touched_towns:
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
+  - slug: elblag-warminsko-mazurskie-wiejska
+    name: Elbląg
+    code: "2804012"
   - slug: paslek
     name: Pasłęk
     code: "2804073"
@@ -218,7 +221,7 @@
     name: olsztyński
     code: "2814"
   touched_voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
@@ -231,7 +234,7 @@
   - slug: rownina_warminska
     name: Równina Warmińska
     code: "313.56"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   - slug: pojezierze_olsztynskie
@@ -265,6 +268,6 @@
   - slug: niz_srodkowoeuropejski
     name: Niż Środkowoeuropejski
     code: "3"
-  - slug: niz_wschodniobaltyckobialoruski
+  - slug: niz_wschodniobaltycko-bialoruski
     name: Niż Wschodniobałtycko-Białoruski
     code: "8"

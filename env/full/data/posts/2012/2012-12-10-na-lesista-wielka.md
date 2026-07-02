@@ -5,6 +5,7 @@ subtitle:               "Góry Kamienne pieszo zimą idąc z zachodu"
 desc:                   "Rok temu byłem pierwszy raz w górach zimą. Chociaż to był raczej krótki spacer w najpopularniejszej częsci Karkonoszy. Postanowiłem, że warto by spróbować coś poważniejszego niż tylko zwykły spacer. Wybrałem Góry Kamienne gdyż nie są tak wysokie, są mało popularne i nigdy nie byłem."
 keywords:               [góry kamienne, boguszów gorce, grzędy, zima, śnieg, sudety, ośnieżone pola]
 date:                   2012-12-10 21:00:00
+finished_at:            2012-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 image_position:         50% 70%

@@ -1,0 +1,559 @@
+/**
+ * JavaScript-heavy pages tests
+ */
+const { test, expect, expectNoJsErrors } = require('../fixtures/base');
+
+test.describe('JS-heavy pages', () => {
+
+  test.describe('/pomysly_tras.html - Trip ideas page', () => {
+
+    test('loads without JS errors', async ({ pageWithErrorTracking }) => {
+      const page = pageWithErrorTracking;
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+      await expectNoJsErrors(page);
+    });
+
+    test('renders trip cards', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Should have at least one trip card
+      const cards = page.locator('.card');
+      const count = await cards.count();
+      expect(count, 'Should have at least one trip card').toBeGreaterThan(0);
+    });
+
+    test('cards have route header and stats', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // First card should have route name (A → B)
+      const route = page.locator('.card-route').first();
+      await expect(route).toBeVisible();
+      const text = await route.textContent();
+      expect(text).toContain('→');
+
+      // Should have distance in meta
+      const meta = page.locator('.card-meta').first();
+      const metaText = await meta.textContent();
+      expect(metaText).toContain('km');
+    });
+
+    test('cards have town tags', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Should have town tags in first card
+      const towns = page.locator('.card').first().locator('.town');
+      const count = await towns.count();
+      expect(count, 'Card should have town tags').toBeGreaterThan(0);
+    });
+
+    test('town links only for towns with pages', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Should have some towns rendered as plain text (unvisited)
+      const plainTowns = page.locator('.town:not(.visited)');
+      const plainCount = await plainTowns.count();
+
+      // Should have some towns rendered as links (visited)
+      const linkedTowns = page.locator('a.town.visited');
+      const linkedCount = await linkedTowns.count();
+
+      // At least one type should be present
+      expect(plainCount + linkedCount, 'Should have town tags').toBeGreaterThan(0);
+
+      // Visited town links should have valid href
+      if (linkedCount > 0) {
+        const href = await linkedTowns.first().getAttribute('href');
+        expect(href).toBeTruthy();
+        expect(href).toContain('/gmina/');
+      }
+    });
+
+    test('town links return 200 (no 404)', async ({ page, request }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Collect all visited town link hrefs
+      const linkedTowns = page.locator('a.town.visited');
+      const count = await linkedTowns.count();
+
+      if (count === 0) {
+        test.skip();
+        return;
+      }
+
+      // Collect unique hrefs from a few random links (up to 5)
+      const allHrefs = new Set();
+      for (let i = 0; i < count; i++) {
+        const href = await linkedTowns.nth(i).getAttribute('href');
+        if (href) allHrefs.add(href);
+      }
+
+      // Pick up to 5 random unique hrefs to check
+      const hrefs = Array.from(allHrefs);
+      const sample = hrefs.length <= 5 ? hrefs : hrefs.sort(() => Math.random() - 0.5).slice(0, 5);
+
+      for (const href of sample) {
+        const resp = await request.get(href);
+        expect(resp.status(), `Town link ${href} should not be 404`).toBe(200);
+      }
+    });
+
+    test('search filter narrows results', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Count initial cards
+      const initialCount = await page.locator('.card').count();
+      expect(initialCount, 'Should have cards before filtering').toBeGreaterThan(0);
+
+      // Type a search term that likely matches only some trips
+      const searchInput = page.locator('.filter-input');
+      await searchInput.fill('jelenia');
+
+      // Wait for filter to apply
+      await page.waitForTimeout(500);
+
+      // Count should change (either fewer cards or same if all match)
+      const filteredCount = await page.locator('.card').count();
+      expect(filteredCount).toBeLessThanOrEqual(initialCount);
+    });
+
+    test('header shows count', async ({ page }) => {
+      await page.goto('/pomysly_tras.html');
+      await page.waitForTimeout(2000);
+
+      // Header should show trip count
+      const subtitle = page.locator('.ideas-hero p');
+      const text = await subtitle.textContent();
+      expect(text).toMatch(/\d+ tras/);
+    });
+
+  });
+
+  test.describe('/pomysly_dla_zdjec.html - Photo planner', () => {
+
+    test('loads without JS errors', async ({ pageWithErrorTracking }) => {
+      const page = pageWithErrorTracking;
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(2000);
+      await expectNoJsErrors(page);
+    });
+
+    test('has site navigation and footer', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+
+      // Navigation should be present
+      const nav = page.locator('nav.site-nav');
+      await expect(nav).toBeVisible();
+
+      // Footer should be present
+      const footer = page.locator('footer.site-footer');
+      await expect(footer).toBeVisible();
+    });
+
+    test('has hero with title', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+
+      const hero = page.locator('.planner-hero h1');
+      await expect(hero).toBeVisible();
+      const text = await hero.textContent();
+      expect(text).toContain('Planer');
+    });
+
+    test('map container renders', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(2000);
+
+      // Leaflet map should initialize
+      const mapContainer = page.locator('#map .leaflet-container, #map.leaflet-container, .leaflet-container');
+      const count = await mapContainer.count();
+      expect(count, 'Leaflet map should initialize').toBeGreaterThan(0);
+    });
+
+    test('grid cells are drawn on map', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      // Leaflet rectangles are rendered as SVG paths
+      const paths = page.locator('.leaflet-overlay-pane svg path');
+      const count = await paths.count();
+      expect(count, 'Grid cells should be drawn as SVG paths').toBeGreaterThan(10);
+    });
+
+    test('station markers are drawn on map', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      // CircleMarkers are rendered in the marker pane or overlay pane
+      const markers = page.locator('.leaflet-interactive[fill="#2196F3"], .leaflet-marker-pane *, circle[fill="#2196F3"]');
+      const count = await markers.count();
+      expect(count, 'Station markers should be drawn').toBeGreaterThan(5);
+    });
+
+    test('coverage stats are populated with numbers', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      // Total cells should be a number, not dash
+      const totalCells = await page.locator('#totalCells').textContent();
+      expect(parseInt(totalCells), 'Total cells should be a positive number').toBeGreaterThan(0);
+
+      const filledCells = await page.locator('#filledCells').textContent();
+      expect(parseInt(filledCells), 'Filled cells should be a number').toBeGreaterThanOrEqual(0);
+
+      const blankCells = await page.locator('#blankCells').textContent();
+      expect(parseInt(blankCells), 'Blank cells should be a positive number').toBeGreaterThan(0);
+
+      const coverage = await page.locator('#coveragePercent').textContent();
+      const coverageNum = parseFloat(coverage);
+      expect(coverageNum, 'Coverage should be between 0 and 100').toBeGreaterThan(0);
+      expect(coverageNum).toBeLessThan(100);
+    });
+
+    test('generate button produces route cards', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      // Click generate button
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      // Results panel should become visible
+      const results = page.locator('#results');
+      await expect(results).toBeVisible();
+
+      // Should have at least one route card
+      const cards = page.locator('.route-card');
+      const count = await cards.count();
+      expect(count, 'Should generate at least one route').toBeGreaterThan(0);
+    });
+
+    test('route cards show station names with arrow', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      // First route card should have station names with arrow
+      const stations = page.locator('.route-card-stations').first();
+      const text = await stations.textContent();
+      expect(text, 'Route should show station names').toContain('\u2192');
+      // Should NOT contain [object Object]
+      expect(text).not.toContain('[object');
+    });
+
+    test('route cards show numeric km values', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      // Stats should contain km values
+      const stats = page.locator('.route-card-stats').first();
+      const text = await stats.textContent();
+      expect(text, 'Should show distance in km').toContain('km');
+      // Should NOT contain [object Object] (the time_distance bug)
+      expect(text).not.toContain('[object');
+    });
+
+    test('route cards show train time in hours', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      // Stats should contain train hours
+      const stats = page.locator('.route-card-stats').first();
+      const text = await stats.textContent();
+      expect(text, 'Should show train time in hours').toMatch(/\d+(\.\d+)?h/);
+    });
+
+    test('radio buttons change trip duration', async ({ page }) => {
+      await page.goto('/pomysly_dla_zdjec.html');
+      await page.waitForTimeout(3000);
+
+      // Select 2 days option
+      await page.locator('input[name="tripDays"][value="2"]').click();
+
+      // Generate routes
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      const count2days = await page.locator('.route-card').count();
+
+      // Select 4 days option - should get different results
+      await page.locator('input[name="tripDays"][value="4"]').click();
+      await page.locator('#generate-btn').click();
+      await page.waitForTimeout(1000);
+
+      const count4days = await page.locator('.route-card').count();
+
+      // Both should have results (the counts may differ)
+      expect(count2days, 'Should have routes for 2 days').toBeGreaterThan(0);
+      expect(count4days, 'Should have routes for 4 days').toBeGreaterThan(0);
+    });
+
+  });
+
+  test.describe('/linia_czasu.html - Timeline', () => {
+
+    test('loads without JS errors', async ({ pageWithErrorTracking }) => {
+      const page = pageWithErrorTracking;
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+      await expectNoJsErrors(page);
+    });
+
+    test('has site navigation and footer', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+
+      const nav = page.locator('nav.site-nav');
+      await expect(nav).toBeVisible();
+
+      const footer = page.locator('footer.site-footer');
+      await expect(footer).toBeVisible();
+    });
+
+    test('grid populates with photo cells', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const cells = page.locator('.photo-cell');
+      const count = await cells.count();
+      expect(count, 'Should have at least 50 photo cells').toBeGreaterThan(50);
+    });
+
+    test('photos have loaded images', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const img = page.locator('.photo-cell img').first();
+      const src = await img.getAttribute('src');
+      expect(src, 'Photo image should have src').toBeTruthy();
+    });
+
+    test('date overlays exist', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const overlays = page.locator('.photo-date-overlay');
+      const count = await overlays.count();
+      expect(count, 'Should have date overlays').toBeGreaterThan(0);
+    });
+
+    test('photos are chronologically ordered (left=Jan, right=Dec)', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // First few overlays should be early months
+      const allOverlays = page.locator('.photo-date-overlay');
+      const total = await allOverlays.count();
+      const firstText = await allOverlays.first().textContent();
+      const lastText = await allOverlays.nth(total - 1).textContent();
+
+      const firstMonth = parseInt(firstText.split('-')[0]);
+      const lastMonth = parseInt(lastText.split('-')[0]);
+
+      // With sparse dev data, first photo may not be January - just verify ordering
+      expect(lastMonth, 'Last photos should be later than or equal to first').toBeGreaterThanOrEqual(firstMonth);
+    });
+
+    test('no out-of-season photos (borrow limit works)', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // Check that first cell's month <= last cell's month (borrow doesn't cross seasons)
+      const overlays = page.locator('.photo-date-overlay');
+      const total = await overlays.count();
+      if (total < 2) return;
+
+      // Sample first and a cell ~25% in - they shouldn't be from wildly different months
+      const firstText = await overlays.first().textContent();
+      const quarterIdx = Math.floor(total / 4);
+      const quarterText = await overlays.nth(quarterIdx).textContent();
+      const firstMonth = parseInt(firstText.split('-')[0]);
+      const quarterMonth = parseInt(quarterText.split('-')[0]);
+
+      // With max borrow distance of 2 columns (10 days), nearby cells should be close in month
+      expect(Math.abs(quarterMonth - firstMonth), 'Quarter-way cell should be within 3 months of first').toBeLessThanOrEqual(3);
+    });
+
+    test('slider exists and shows date', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      const slider = page.locator('#daySlider');
+      await expect(slider).toBeVisible();
+
+      const dateDisplay = page.locator('#currentDate');
+      const text = await dateDisplay.textContent();
+      expect(text, 'Date display should show MM-DD format').toMatch(/^\d{2}-\d{2}$/);
+    });
+
+    test('modal opens on photo click', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      // Click first photo cell that has an image
+      const firstPhoto = page.locator('.photo-cell img').first();
+      await firstPhoto.click();
+      await page.waitForTimeout(500);
+
+      const modal = page.locator('#modalOverlay');
+      await expect(modal).toHaveClass(/visible/);
+    });
+
+    test('modal shows image and description', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('.photo-cell img').first().click();
+      await page.waitForTimeout(500);
+
+      const modalImage = page.locator('#modalImage');
+      const src = await modalImage.getAttribute('src');
+      expect(src, 'Modal image should have src').toBeTruthy();
+
+      const modalDesc = page.locator('#modalDesc');
+      const text = await modalDesc.textContent();
+      expect(text, 'Modal description should have text').toBeTruthy();
+    });
+
+    test('modal closes on escape', async ({ page }) => {
+      await page.goto('/linia_czasu.html');
+      await page.waitForTimeout(3000);
+
+      await page.locator('.photo-cell img').first().click();
+      await page.waitForTimeout(500);
+
+      // Verify modal is visible
+      const modal = page.locator('#modalOverlay');
+      await expect(modal).toHaveClass(/visible/);
+
+      // Press Escape
+      await page.keyboard.press('Escape');
+      await page.waitForTimeout(500);
+
+      // Modal should no longer be visible
+      await expect(modal).not.toHaveClass(/visible/);
+    });
+
+  });
+
+  test.describe('/statystyki_exif.html - EXIF stats', () => {
+
+    // This page fetches /jsons/photos.json (~20MB) so needs longer timeouts
+    const LOAD_TIMEOUT = 15000;
+
+    test('loads without JS errors', async ({ pageWithErrorTracking }) => {
+      const page = pageWithErrorTracking;
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+      await expectNoJsErrors(page);
+    });
+
+    test('has page header', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const title = page.locator('.exif-page header h1');
+      await expect(title).toBeVisible();
+      const text = await title.textContent();
+      expect(text).toContain('Statystyka');
+    });
+
+    test('has site navigation and footer', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const nav = page.locator('nav.site-nav');
+      await expect(nav).toBeVisible();
+
+      const footer = page.locator('footer.site-footer');
+      await expect(footer).toBeVisible();
+    });
+
+    test('stat cards populate with values after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Total photos should be a number > 0
+      const totalPhotos = await page.locator('#totalPhotos').textContent();
+      expect(parseInt(totalPhotos), 'Total photos should be > 0').toBeGreaterThan(0);
+
+      // Top camera should not be the initial dash
+      const topCamera = await page.locator('#topCamera').textContent();
+      expect(topCamera).not.toBe('\u2014'); // em dash
+      expect(topCamera.length, 'Camera name should have content').toBeGreaterThan(0);
+
+      // Top lens should not be the initial dash
+      const topLens = await page.locator('#topLens').textContent();
+      expect(topLens).not.toBe('\u2014');
+    });
+
+    test('filter controls are present', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      await expect(page.locator('#yearFilter')).toBeVisible();
+      await expect(page.locator('#cameraFilter')).toBeVisible();
+      await expect(page.locator('#lensFilter')).toBeVisible();
+    });
+
+    test('filter dropdowns populate after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Year filter should have more than just "Wszystkie"
+      const yearOptions = page.locator('#yearFilter option');
+      const yearCount = await yearOptions.count();
+      expect(yearCount, 'Year filter should have options').toBeGreaterThan(1);
+
+      // Camera filter should have options
+      const cameraOptions = page.locator('#cameraFilter option');
+      const cameraCount = await cameraOptions.count();
+      expect(cameraCount, 'Camera filter should have options').toBeGreaterThan(1);
+    });
+
+    test('charts render as canvas elements', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Check key charts have been initialized (Chart.js adds dimensions to canvas)
+      const yearChart = page.locator('#yearChart');
+      const width = await yearChart.getAttribute('width');
+      expect(parseInt(width), 'Year chart should have width set by Chart.js').toBeGreaterThan(0);
+
+      const focalChart = page.locator('#focalChart');
+      const focalWidth = await focalChart.getAttribute('width');
+      expect(parseInt(focalWidth), 'Focal chart should have width').toBeGreaterThan(0);
+    });
+
+    test('has all section headers', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+
+      const sections = ['Zdjęcia w czasie', 'Sprzęt fotograficzny', 'Ogniskowa',
+                         'Ustawienia ekspozycji', 'Wzorce fotografowania', 'Teren i tematyka'];
+      for (const section of sections) {
+        const header = page.locator('.section-title', { hasText: section });
+        await expect(header, `Section "${section}" should exist`).toBeVisible();
+      }
+    });
+
+    test('progress indicator hides after loading', async ({ page }) => {
+      await page.goto('/statystyki_exif.html');
+      await page.waitForTimeout(LOAD_TIMEOUT);
+
+      // Progress container should be hidden after data loads
+      const progress = page.locator('#progressContainer');
+      await expect(progress).not.toBeVisible();
+    });
+
+  });
+
+});

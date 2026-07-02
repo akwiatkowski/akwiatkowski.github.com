@@ -1,0 +1,587 @@
+/* ==============================================
+   CSS CONFIGURATION
+   These must match the JS CONFIG values below
+   ============================================== */
+:root {
+    /* Grid layout - must match CONFIG in JS */
+    --columns-desktop: 8;
+    --rows-desktop: 5;
+    --columns-tablet: 5;
+    --rows-tablet: 4;
+    --columns-mobile: 3;
+    --rows-mobile: 3;
+
+    /* Photo aspect ratio (4:3) */
+    --photo-aspect-ratio: 4 / 3;
+
+    /* Gap between photos - exactly 1px, do not change */
+    --grid-gap: 1px;
+
+    /* Days per column */
+    --days-per-column: 5;
+
+    /* Animation speed */
+    --transition-speed: 0.3s;
+
+    /* Current values (set by JS based on screen size) */
+    --current-columns: var(--columns-desktop);
+    --current-rows: var(--rows-desktop);
+}
+
+/* Dark theme (default) */
+:root {
+    --bg-primary: #0a0a0a;
+    --bg-secondary: #1a1a1a;
+    --bg-tertiary: #2a2a2a;
+    --bg-gap: #000000; /* Gap color between photos */
+    --text-primary: #f0f0f0;
+    --text-secondary: #a0a0a0;
+    --text-muted: #666666;
+    --border-color: #333333;
+    --overlay-bg: rgba(0, 0, 0, 0.95);
+    --shadow: rgba(0, 0, 0, 0.5);
+}
+
+/* Light theme */
+.light-theme {
+    --bg-primary: #f5f5f5;
+    --bg-secondary: #e8e8e8;
+    --bg-tertiary: #d8d8d8;
+    --bg-gap: #888888; /* Gap color between photos */
+    --text-primary: #1a1a1a;
+    --text-secondary: #555555;
+    --text-muted: #888888;
+    --border-color: #cccccc;
+    --overlay-bg: rgba(255, 255, 255, 0.95);
+    --shadow: rgba(0, 0, 0, 0.2);
+}
+
+/* ===== RESET & BASE ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    transition: background var(--transition-speed), color var(--transition-speed);
+}
+
+/* ===== LAYOUT ===== */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    height: 100dvh;
+}
+
+/* ===== HEADER ===== */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+    background: linear-gradient(to bottom, var(--bg-primary) 0%, transparent 100%);
+    pointer-events: none;
+}
+
+.header > * {
+    pointer-events: auto;
+}
+
+.theme-toggle {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    transition: all var(--transition-speed);
+}
+
+.theme-toggle:hover {
+    background: var(--bg-tertiary);
+}
+
+/* ===== PHOTO GRID ===== */
+.grid-container {
+    flex: 1;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-color) transparent;
+}
+
+.grid-container::-webkit-scrollbar {
+    height: 6px;
+}
+
+.grid-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.grid-container::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 3px;
+}
+
+.photo-grid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 0; /* No gap - using margin instead for consistent 1px spacing */
+    padding: 0;
+    height: calc(100vh - 100px);
+    height: calc(100dvh - 100px);
+    background: var(--bg-gap); /* Gap color shows through between photos */
+}
+
+.photo-cell {
+    /* Calculate exact pixel dimensions - account for 1px margin between cells */
+    --cell-height: calc((100vh - 100px - var(--rows-desktop) * 1px) / var(--rows-desktop));
+    --cell-width: calc(var(--cell-height) * 4 / 3);
+    width: var(--cell-width);
+    height: var(--cell-height);
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0;
+    cursor: pointer;
+    background: var(--bg-secondary);
+    /* 1px margin creates consistent gap - black background shows through */
+    margin: 0 1px 1px 0;
+}
+
+.photo-cell:hover {
+    /* No size increase - just subtle brightness change */
+    filter: brightness(1.1);
+}
+
+.photo-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+}
+
+.photo-cell img.loading {
+    opacity: 0;
+}
+
+.photo-cell .photo-date-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 4px 8px;
+    background: linear-gradient(transparent, rgba(0,0,0,0.7));
+    font-size: 0.7rem;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.photo-cell:hover .photo-date-overlay {
+    opacity: 1;
+}
+
+/* ===== SLIDER SECTION ===== */
+.slider-section {
+    padding: 15px 20px 20px;
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+}
+
+.slider-container {
+    max-width: 100%;
+}
+
+.day-slider {
+    width: 100%;
+    height: 8px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: var(--bg-tertiary);
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+}
+
+.day-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    background: var(--text-primary);
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 6px var(--shadow);
+    transition: transform 0.15s;
+}
+
+.day-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.1);
+}
+
+.day-slider::-moz-range-thumb {
+    width: 24px;
+    height: 24px;
+    background: var(--text-primary);
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 2px 6px var(--shadow);
+}
+
+.slider-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.current-date {
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+}
+
+.month-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 5px;
+    padding: 0 12px;
+}
+
+/* ===== MODAL ===== */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.97);
+    z-index: 1000;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    overflow: hidden;
+}
+
+.modal-overlay.active {
+    display: block;
+}
+
+.modal-overlay.visible {
+    opacity: 1;
+}
+
+.modal-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-image-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    touch-action: pinch-zoom pan-y;
+}
+
+.modal-image {
+    max-width: 95vw;
+    max-height: 95vh;
+    object-fit: contain;
+    display: block;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+}
+
+/* Caption overlay at bottom */
+.modal-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 60px 30px 30px;
+    background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.5) 60%, transparent 100%);
+    color: #fff;
+    pointer-events: none;
+}
+
+.modal-caption > * {
+    pointer-events: auto;
+}
+
+.modal-caption-inner {
+    max-width: 600px;
+}
+
+.modal-date {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 6px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.modal-desc {
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: #fff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+.modal-link {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    padding: 6px 14px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+    backdrop-filter: blur(4px);
+}
+
+.modal-link:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.5);
+    color: #fff;
+}
+
+.modal-exif {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 12px;
+    line-height: 1.5;
+}
+
+/* Map container - bottom right corner */
+.modal-map-container {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    width: 180px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    display: none;
+    z-index: 10;
+    cursor: pointer;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.modal-map-container:hover {
+    transform: scale(1.05);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.modal-map-container.visible {
+    display: block;
+}
+
+#modalMap {
+    width: 100%;
+    height: 100%;
+}
+
+/* Override Leaflet styles */
+.leaflet-container {
+    background: #1a1a1a;
+}
+
+.leaflet-control-attribution {
+    display: none;
+}
+
+/* Custom marker style */
+.custom-marker {
+    width: 16px;
+    height: 16px;
+    background: #fff;
+    border: 3px solid rgba(0, 0, 0, 0.6);
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Close button */
+.modal-close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 1001;
+    backdrop-filter: blur(4px);
+}
+
+.modal-close:hover {
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
+
+/* Navigation buttons */
+.modal-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 50%;
+    width: 54px;
+    height: 54px;
+    font-size: 1.6rem;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    z-index: 1001;
+    backdrop-filter: blur(4px);
+}
+
+.modal-nav:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.modal-nav.prev {
+    left: 20px;
+}
+
+.modal-nav.next {
+    right: 20px;
+}
+
+/* ===== LOADING STATE ===== */
+.loading-spinner {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+    .photo-grid {
+        height: calc(100vh - 120px);
+        height: calc(100dvh - 120px);
+    }
+
+    .photo-cell {
+        --cell-height: calc((100vh - 120px - var(--rows-tablet) * 1px) / var(--rows-tablet));
+        --cell-width: calc(var(--cell-height) * 4 / 3);
+    }
+
+    .header {
+        padding: 10px 15px;
+    }
+
+    .modal-nav {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    .modal-nav.prev {
+        left: 10px;
+    }
+
+    .modal-nav.next {
+        right: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .photo-grid {
+        height: calc(100vh - 130px);
+        height: calc(100dvh - 130px);
+    }
+
+    .photo-cell {
+        --cell-height: calc((100vh - 130px - var(--rows-mobile) * 1px) / var(--rows-mobile));
+        --cell-width: calc(var(--cell-height) * 4 / 3);
+    }
+
+    .current-date {
+        font-size: 1.2rem;
+    }
+
+    .month-labels span {
+        font-size: 0.65rem;
+    }
+
+    .modal-caption {
+        padding: 15px;
+    }
+
+    .modal-desc {
+        font-size: 1rem;
+    }
+
+    .modal-close {
+        top: 10px;
+        right: 10px;
+        width: 38px;
+        height: 38px;
+    }
+
+    .modal-nav {
+        display: none;
+    }
+
+    .modal-caption {
+        padding: 40px 20px 20px;
+    }
+
+    .modal-desc {
+        font-size: 1.1rem;
+    }
+
+    .modal-map-container {
+        width: 140px;
+        height: 95px;
+        bottom: 20px;
+        right: 20px;
+    }
+}

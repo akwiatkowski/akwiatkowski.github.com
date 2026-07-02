@@ -451,6 +451,9 @@
   time: 2021-09-09 15:17:15.000000000+02:00
 - image_filename: 2021_09_09__15_34__9090371.jpg
   post_slug: 2021-09-09-z-pobiedzisk-do-wagrowca
+  lat: 52.637616666666666
+  lon: 17.41643611111111
+  altitude: 103.0
   focal_length: 16.0
   focal_length_35: 32.0
   crop: 2.0

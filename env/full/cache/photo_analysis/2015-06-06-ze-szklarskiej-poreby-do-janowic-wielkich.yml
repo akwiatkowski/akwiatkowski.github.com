@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP0436raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  ahash: f0120000007fffff
+  dhash: 026c6cc4d0d899a0
+  phash: c07fbec06d2a856a
+  avg_rgb:
+  - 85
+  - 91
+  - 82
+  top5_rgb:
+  - - 164
+    - 166
+    - 188
+  - - 175
+    - 176
+    - 196
+  - - 82
+    - 113
+    - 10
+  - - 43
+    - 61
+    - 12
+  - - 33
+    - 49
+    - 15
+- image_filename: IMGP0481raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  ahash: 0f0f1f3f0f000000
+  dhash: ffffffffff764a4c
+  phash: a7b86779a2856a23
+  avg_rgb:
+  - 65
+  - 103
+  - 132
+  top5_rgb:
+  - - 2
+    - 50
+    - 99
+  - - 20
+    - 39
+    - 46
+  - - 29
+    - 52
+    - 57
+  - - 87
+    - 73
+    - 57
+  - - 138
+    - 194
+    - 252
+- image_filename: IMGP0485raw1.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  ahash: 0080e0f07c7c7efe
+  dhash: 00000040d9e8c498
+  phash: d26d2c923b449ef1
+  avg_rgb:
+  - 58
+  - 86
+  - 106
+  top5_rgb:
+  - - 104
+    - 99
+    - 51
+  - - 62
+    - 75
+    - 34
+  - - 2
+    - 54
+    - 119
+  - - 1
+    - 88
+    - 179
+  - - 87
+    - 90
+    - 33
+- image_filename: header.jpg
+  post_slug: 2015-06-06-ze-szklarskiej-poreby-do-janowic-wielkich
+  ahash: fcfc3c0ca4bf0f06
+  dhash: 38e96a784c715e7e
+  phash: 9fca20da74998d66
+  avg_rgb:
+  - 77
+  - 103
+  - 65
+  top5_rgb:
+  - - 71
+    - 95
+    - 45
+  - - 31
+    - 35
+    - 34
+  - - 92
+    - 146
+    - 169
+  - - 25
+    - 42
+    - 49
+  - - 34
+    - 40
+    - 43

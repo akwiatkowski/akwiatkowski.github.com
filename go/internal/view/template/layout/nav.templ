@@ -1,0 +1,15 @@
+package layout
+
+templ Nav(stats NavStats) {
+	<nav class="nav site-nav">
+		<div class="nav-inner site-nav-inner">
+			<a href="/" class="nav-logo site-nav-logo">Odkrywając Polskę</a>
+			<ul class="nav-links site-nav-links">
+				<li><a href={ templ.SafeURL(stats.Links.RoweremURL) }>Rowerem</a></li>
+				<li><a href={ templ.SafeURL(stats.Links.PieszoURL) }>Pieszo</a></li>
+				<li><a href={ templ.SafeURL(stats.Links.NajlepszeURL) }>Najlepsze</a></li>
+				<li><a href={ templ.SafeURL(stats.Links.MapURL) }>Mapa</a></li>
+			</ul>
+		</div>
+	</nav>
+}

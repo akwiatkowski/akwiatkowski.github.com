@@ -1,0 +1,53 @@
+---
+- image_filename: IMGP9223raw1.jpg
+  post_slug: 2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim
+  lat: 52.33802019622834
+  lon: 17.080791816009558
+  altitude: 82.81
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-15T12:44:13+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-04-15-wyjazd-z-poznania-w-kierunku-poludniowo-wschodnim
+  lat: 52.33853367163548
+  lon: 17.081187441922207
+  altitude: 81.37
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-04-15T12:43:59+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84

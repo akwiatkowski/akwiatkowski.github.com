@@ -4,7 +4,7 @@
   total_distance_km: 58.991
   points_count: 209.0
   towns:
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
     distance_meters: 13891.19
@@ -92,7 +92,7 @@
     distance_meters: 58260.19
     distance_km: 58.26
     distance_percent: 98.7615
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
     distance_meters: 730.59
@@ -129,7 +129,7 @@
   - slug: lwowek
     name: Lwówek
     code: "3015023"
-  - slug: pniewy
+  - slug: pniewy-wielkopolskie
     name: Pniewy
     code: "3024063"
   - slug: chrzypsko_wielkie
@@ -166,7 +166,7 @@
   - slug: pojezierze_wielkopolskie
     name: Pojezierze Wielkopolskie
     code: 314-316
-  - slug: pradolina_torunskoeberswaldzka
+  - slug: pradolina_torunsko-eberswaldzka
     name: Pradolina Toruńsko-Eberswaldzka
     code: 314-316
   touched_mega_regions:

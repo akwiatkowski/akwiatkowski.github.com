@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2022_05_19__15_13_P5191888.jpg
 image_position:         50% 70%
 tags:                   [bus, main]
-towns:                  [szwajcaria]
+towns:                  []
+foreign:                [szwajcaria]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"

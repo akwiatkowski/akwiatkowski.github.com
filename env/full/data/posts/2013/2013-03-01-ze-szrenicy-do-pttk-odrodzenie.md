@@ -5,6 +5,7 @@ subtitle:               "Głównym Szlakiem Sudeckim"
 desc:                   "Trzy tygodnie temu nie przypuszczałem, że ponownie będę chodził po Karkonoszach i to w tej samej okolicy. Tego dnia spotkaliśmy się z nieprzyjemną pogodą: mgła z widocznością na kilka metrów oraz silny wiatr."
 keywords:               [szrenica, zima, mgła, odrodzenie, karkonosze]
 date:                   2013-03-01 21:00:00
+finished_at:            2013-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

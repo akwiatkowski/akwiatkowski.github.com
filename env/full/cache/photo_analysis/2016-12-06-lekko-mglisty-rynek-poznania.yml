@@ -1,0 +1,101 @@
+---
+- image_filename: IMGP0239raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  ahash: fcdcdcdc99992000
+  dhash: a030b03033314931
+  phash: dcdc43eb2cc72606
+  avg_rgb:
+  - 120
+  - 86
+  - 51
+  top5_rgb:
+  - - 40
+    - 31
+    - 34
+  - - 51
+    - 34
+    - 21
+  - - 110
+    - 74
+    - 42
+  - - 122
+    - 82
+    - 49
+  - - 146
+    - 99
+    - 55
+- image_filename: IMGP0251raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  ahash: e0f0f1f358010004
+  dhash: a7c3c39796933ebc
+  phash: e0e2561c1c3a3afb
+  avg_rgb:
+  - 100
+  - 76
+  - 52
+  top5_rgb:
+  - - 64
+    - 45
+    - 26
+  - - 144
+    - 115
+    - 100
+  - - 103
+    - 77
+    - 47
+  - - 94
+    - 69
+    - 46
+  - - 111
+    - 78
+    - 30
+- image_filename: IMGP0254raw1.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  ahash: 1e1f1f9999818008
+  dhash: fc6eb63335173578
+  phash: bd85177a4a6ac155
+  avg_rgb:
+  - 94
+  - 70
+  - 28
+  top5_rgb:
+  - - 94
+    - 68
+    - 13
+  - - 167
+    - 130
+    - 22
+  - - 96
+    - 73
+    - 65
+  - - 131
+    - 101
+    - 82
+  - - 131
+    - 102
+    - 22
+- image_filename: header.jpg
+  post_slug: 2016-12-06-lekko-mglisty-rynek-poznania
+  ahash: 0707273e18080800
+  dhash: 0ece4e78323258b8
+  phash: 95b5356d881b6a6c
+  avg_rgb:
+  - 96
+  - 64
+  - 24
+  top5_rgb:
+  - - 61
+    - 38
+    - 15
+  - - 112
+    - 72
+    - 18
+  - - 68
+    - 48
+    - 35
+  - - 104
+    - 67
+    - 15
+  - - 66
+    - 42
+    - 16

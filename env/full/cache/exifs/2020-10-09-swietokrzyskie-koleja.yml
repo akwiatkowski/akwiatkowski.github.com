@@ -55,6 +55,9 @@
   time: 2020-10-09 07:20:10.000000000+02:00
 - image_filename: 2020_10_09__07_25_DSC07641.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.74324444444444
+  lon: 19.81875
+  altitude: 179.4
   focal_length: 49.0
   focal_length_35: 49.0
   crop: 1.0
@@ -69,6 +72,9 @@
   time: 2020-10-09 07:25:04.000000000+02:00
 - image_filename: 2020_10_09__07_26_DSC07642.jpg
   post_slug: 2020-10-09-swietokrzyskie-koleja
+  lat: 51.74324444444444
+  lon: 19.81875
+  altitude: 179.4
   focal_length: 75.0
   focal_length_35: 75.0
   crop: 1.0

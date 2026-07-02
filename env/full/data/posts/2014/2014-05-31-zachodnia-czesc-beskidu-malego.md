@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Zachodnia część Beskidu Małego"
 subtitle:               "trochę szaro i mokro, ale chyba bardziej zielono"
 date:                   2014-05-31 21:00:00
+finished_at:            2014-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

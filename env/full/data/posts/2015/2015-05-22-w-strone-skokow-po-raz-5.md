@@ -3,6 +3,7 @@ layout:                 post
 title:                  "W stronę Skoków, po raz 5-ty"
 subtitle:               "tym razem późną wiosną"
 date:                   2015-05-22 20:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle]

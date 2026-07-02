@@ -5,6 +5,7 @@ subtitle:               "próba wejścia, dużo lodu"
 desc:                   "Moje pierwsze spotkanie z zimą w górach chciałem zacząć od Śnieżki. Zaskoczyła mnie ilość śniegu, która tworzyła całkowicie inne widoki, niż z jakimi miałem styczność do tej pory."
 keywords:               [śnieg, zima, lód, śnieżka, biało, kopa]
 date:                   2011-12-31 17:00:00
+finished_at:            2011-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

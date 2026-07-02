@@ -40,13 +40,13 @@
     distance_meters: 8711.37
     distance_km: 8.711
     distance_percent: 11.0639
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
     distance_meters: 4108.0
     distance_km: 4.108
     distance_percent: 5.2174
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-wiejska
     name: Świdnica
     code: 0219072
     distance_meters: 1548.87
@@ -59,7 +59,7 @@
     distance_meters: 28994.38
     distance_km: 28.994
     distance_percent: 36.8245
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
     distance_meters: 25718.04
@@ -79,7 +79,7 @@
     distance_km: 78.737
     distance_percent: 100.0
   meso_regions:
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
     distance_meters: 43246.93
@@ -162,13 +162,13 @@
   - slug: lagiewniki
     name: Łagiewniki
     code: "0202062"
-  - slug: dzierzoniow
+  - slug: dzierzoniow-dolnoslaskie-wiejska
     name: Dzierżoniów
     code: "0202052"
   - slug: marcinowice
     name: Marcinowice
     code: 0219052
-  - slug: swidnica
+  - slug: swidnica-dolnoslaskie-wiejska
     name: Świdnica
     code: 0219072
   - slug: zarow
@@ -181,7 +181,7 @@
   - slug: dzierzoniowski
     name: dzierżoniowski
     code: "0202"
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
   touched_voivodeships:
@@ -192,7 +192,7 @@
   - slug: rownina_wroclawska
     name: Równina Wrocławska
     code: "318.53"
-  - slug: wzgorza_niemczanskostrzelinskie
+  - slug: wzgorza_niemczansko-strzelinskie
     name: Wzgórza Niemczańsko-Strzelińskie
     code: "332.14"
   - slug: rownina_swidnicka

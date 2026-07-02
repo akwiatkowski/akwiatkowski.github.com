@@ -1,0 +1,51 @@
+---
+- image_filename: IMGP9058b.jpg
+  post_slug: 2013-03-01-ze-szrenicy-do-pttk-odrodzenie
+  ahash: 020600c0c3ffffff
+  dhash: fcfcbc9f9c9cfff8
+  phash: b43497b468ab0f4b
+  avg_rgb:
+  - 77
+  - 100
+  - 166
+  top5_rgb:
+  - - 224
+    - 227
+    - 245
+  - - 117
+    - 128
+    - 190
+  - - 151
+    - 166
+    - 214
+  - - 4
+    - 15
+    - 74
+  - - 159
+    - 173
+    - 218
+- image_filename: header.jpg
+  post_slug: 2013-03-01-ze-szrenicy-do-pttk-odrodzenie
+  ahash: ffffffff00000000
+  dhash: dcf0449c0c619f3e
+  phash: b7d0ab4f30204f3d
+  avg_rgb:
+  - 95
+  - 107
+  - 123
+  top5_rgb:
+  - - 29
+    - 74
+    - 141
+  - - 148
+    - 202
+    - 223
+  - - 7
+    - 9
+    - 19
+  - - 144
+    - 159
+    - 183
+  - - 68
+    - 92
+    - 133

@@ -16,7 +16,7 @@
     distance_meters: 13523.66
     distance_km: 13.524
     distance_percent: 20.4755
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
     distance_meters: 12779.65
@@ -40,7 +40,7 @@
     distance_meters: 4611.85
     distance_km: 4.612
     distance_percent: 6.9826
-  - slug: wagrowiec
+  - slug: wagrowiec-wielkopolskie-wiejska
     name: Wągrowiec
     code: "3028072"
     distance_meters: 1595.94
@@ -72,7 +72,7 @@
     distance_km: 11.378
     distance_percent: 17.2262
   voivodeships:
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 45657.51
@@ -91,7 +91,7 @@
     distance_meters: 40845.06
     distance_km: 40.845
     distance_percent: 61.8416
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 13149.65
@@ -141,7 +141,7 @@
   - slug: janowiec_wielkopolski
     name: Janowiec Wielkopolski
     code: 0419033
-  - slug: rogowo
+  - slug: rogowo-kujawsko-pomorskie-zninski
     name: Rogowo
     code: 0419052
   - slug: gasawa
@@ -164,7 +164,7 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
@@ -174,7 +174,7 @@
   - slug: pojezierze_chodzieskie
     name: Pojezierze Chodzieskie
     code: "315.53"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

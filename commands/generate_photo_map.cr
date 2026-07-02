@@ -1,12 +1,13 @@
-require "../../tremolite/src/tremolite"
-require "../data/src/blog"
+require "../crystal/src/framework/tremolite"
+require "../crystal/src/blog"
 
-require "../data/src/services/map/base"
+require "../crystal/src/service/map/base"
 
 class Commands::GeneratePhotoMap
   def initialize(@env = "full")
     @env_path = File.join(["env", @env])
     @universal_path = "data"
+    @route_colors = RouteColors.new(File.join([@universal_path, "config"]))
 
     @blog = Tremolite::Blog.new(
       mod_watcher_yaml_path: File.join([@env_path, "cache", "mod_watcher.yml"]),
@@ -30,6 +31,7 @@ class Commands::GeneratePhotoMap
 
   def generate_map_for_post(post)
     map = Map::Main.new(
+      route_colors: @route_colors,
       posts: [post],
       photos: Array(PhotoEntity).new,
       autozoom_width: 700

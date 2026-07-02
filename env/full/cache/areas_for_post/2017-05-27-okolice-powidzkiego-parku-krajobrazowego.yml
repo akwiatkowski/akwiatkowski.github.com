@@ -22,7 +22,7 @@
     distance_meters: 17726.53
     distance_km: 17.727
     distance_percent: 20.5898
-  - slug: slupca
+  - slug: slupca-wielkopolskie-wiejska
     name: Słupca
     code: "3023062"
     distance_meters: 8946.46
@@ -40,7 +40,7 @@
     distance_meters: 5002.38
     distance_km: 5.002
     distance_percent: 5.8104
-  - slug: slupca
+  - slug: slupca-wielkopolskie-miejska
     name: Słupca
     code: "3023011"
     distance_meters: 3315.05
@@ -90,14 +90,14 @@
     distance_meters: 44268.98
     distance_km: 44.269
     distance_percent: 51.4196
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
     distance_meters: 41824.63
     distance_km: 41.825
     distance_percent: 48.5804
   meso_regions:
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
     distance_meters: 62285.18
@@ -138,9 +138,12 @@
     distance_km: 86.094
     distance_percent: 100.0
   touched_towns:
-  - slug: slupca
+  - slug: slupca-wielkopolskie-miejska
     name: Słupca
     code: "3023011"
+  - slug: slupca-wielkopolskie-wiejska
+    name: Słupca
+    code: "3023062"
   - slug: ostrowite
     name: Ostrowite
     code: "3023042"
@@ -179,14 +182,14 @@
   - slug: wielkopolskie
     name: WIELKOPOLSKIE
     code: "30"
-  - slug: kujawskopomorskie
+  - slug: kujawsko-pomorskie
     name: KUJAWSKO-POMORSKIE
     code: "04"
   touched_meso_regions:
   - slug: rownina_wrzesinska
     name: Równina Wrzesińska
     code: "315.56"
-  - slug: pojezierze_zninskomogilenskie
+  - slug: pojezierze_zninsko-mogilenskie
     name: Pojezierze Żnińsko-Mogileńskie
     code: "315.58"
   touched_macro_regions:

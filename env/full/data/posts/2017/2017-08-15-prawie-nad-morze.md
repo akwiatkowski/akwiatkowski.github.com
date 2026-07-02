@@ -19,6 +19,7 @@ map_zooms:              11
 distance:               67
 time_spent:             6
 elevation:              395
+terrain:                5.9 # m/km przewyższeń — pofalowany
 
 pois:
   - lat: 53.67444

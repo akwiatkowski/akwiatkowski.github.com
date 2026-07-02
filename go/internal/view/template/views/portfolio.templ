@@ -1,0 +1,18 @@
+package views
+
+// PortfolioContent renders the portfolio page body.
+// Dark theme overrides for the navbar, and the portfolio JSON data + mount point.
+// The portfolio.js Preact component reads #portfolio-data and renders into #portfolio-root.
+templ PortfolioContent(rawScript string) {
+	<style>
+		body { background: #0a0a0a !important; color: #e0e0e0 !important; }
+		.navbar { position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+			background: rgba(10,10,10,0.9) !important; backdrop-filter: blur(10px); }
+		.navbar-light .navbar-nav .nav-link,
+		.navbar-light .navbar-brand { color: #e0e0e0 !important; }
+		.navbar-light .navbar-toggler-icon { filter: invert(1); }
+	</style>
+	@templ.Raw(rawScript)
+	<div id="portfolio-root"></div>
+	<script src="/js/self/photo_lightbox.js"></script>
+}

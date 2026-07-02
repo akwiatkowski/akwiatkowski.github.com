@@ -4,7 +4,7 @@
   total_distance_km: 11.038
   points_count: 242.0
   towns:
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
     distance_meters: 9902.76
@@ -66,7 +66,7 @@
     distance_km: 11.038
     distance_percent: 100.0
   touched_towns:
-  - slug: stezyca
+  - slug: stezyca-pomorskie
     name: Stężyca
     code: "2205062"
   - slug: somonino

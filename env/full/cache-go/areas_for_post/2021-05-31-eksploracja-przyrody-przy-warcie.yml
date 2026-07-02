@@ -1,0 +1,87 @@
+---
+- type: bicycle
+  total_distance_meters: 6980.96
+  total_distance_km: 6.981
+  points_count: 65
+  towns:
+    - slug: nowe_miasto_nad_warta
+      name: Nowe Miasto nad Wartą
+      code: "3025032"
+      distance_meters: 4403.81
+      distance_km: 4.404
+      distance_percent: 63.0831
+    - slug: krzykosy
+      name: Krzykosy
+      code: "3025022"
+      distance_meters: 2577.16
+      distance_km: 2.577
+      distance_percent: 36.9169
+  counties:
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+      distance_meters: 6980.96
+      distance_km: 6.981
+      distance_percent: 100
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 6980.96
+      distance_km: 6.981
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+      distance_meters: 4178.65
+      distance_km: 4.179
+      distance_percent: 59.8578
+    - slug: wal_zerkowski
+      name: Wał Żerkowski
+      code: "315.84"
+      distance_meters: 2802.31
+      distance_km: 2.802
+      distance_percent: 40.1422
+  macro_regions:
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316
+      distance_meters: 4178.65
+      distance_km: 4.179
+      distance_percent: 59.8578
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+      distance_meters: 2802.31
+      distance_km: 2.802
+      distance_percent: 40.1422
+  touched_towns:
+    - slug: krzykosy
+      name: Krzykosy
+      code: "3025022"
+    - slug: nowe_miasto_nad_warta
+      name: Nowe Miasto nad Wartą
+      code: "3025032"
+  touched_counties:
+    - slug: sredzki
+      name: średzki
+      code: "3025"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: kotlina_sremska
+      name: Kotlina Śremska
+      code: "315.64"
+    - slug: wal_zerkowski
+      name: Wał Żerkowski
+      code: "315.84"
+  touched_macro_regions:
+    - slug: pojezierze_leszczynskie
+      name: Pojezierze Leszczyńskie
+      code: 314-316
+    - slug: pradolina_warciansko-odrzanska
+      name: Pradolina Warciańsko-Odrzańska
+      code: 314-316

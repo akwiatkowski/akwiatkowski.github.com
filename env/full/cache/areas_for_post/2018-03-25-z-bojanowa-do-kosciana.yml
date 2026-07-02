@@ -4,13 +4,13 @@
   total_distance_km: 56.37
   points_count: 196.0
   towns:
-  - slug: osieczna
+  - slug: osieczna-wielkopolskie
     name: Osieczna
     code: "3013033"
     distance_meters: 17146.21
     distance_km: 17.146
     distance_percent: 30.4175
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
     distance_meters: 14729.67
@@ -46,7 +46,7 @@
     distance_meters: 3007.51
     distance_km: 3.008
     distance_percent: 5.3353
-  - slug: koscian
+  - slug: koscian-wielkopolskie-miejska
     name: Kościan
     code: "3011011"
     distance_meters: 1635.23
@@ -156,15 +156,18 @@
   - slug: krzemieniewo
     name: Krzemieniewo
     code: "3013012"
-  - slug: osieczna
+  - slug: osieczna-wielkopolskie
     name: Osieczna
     code: "3013033"
   - slug: krzywin
     name: Krzywiń
     code: "3011043"
-  - slug: koscian
+  - slug: koscian-wielkopolskie-wiejska
     name: Kościan
     code: "3011032"
+  - slug: koscian-wielkopolskie-miejska
+    name: Kościan
+    code: "3011011"
   touched_counties:
   - slug: rawicki
     name: rawicki

@@ -1,0 +1,78 @@
+---
+- type: hike
+  total_distance_meters: 12842
+  total_distance_km: 12.842
+  points_count: 205
+  towns:
+    - slug: andrychow
+      name: Andrychów
+      code: "1218013"
+      distance_meters: 12842
+      distance_km: 12.842
+      distance_percent: 100
+  counties:
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+      distance_meters: 12842
+      distance_km: 12.842
+      distance_percent: 100
+  voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+      distance_meters: 12842
+      distance_km: 12.842
+      distance_percent: 100
+  meso_regions:
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+      distance_meters: 11927.57
+      distance_km: 11.928
+      distance_percent: 92.8794
+    - slug: pogorze_slaskie
+      name: Pogórze Śląskie
+      code: "513.32"
+      distance_meters: 914.43
+      distance_km: 0.914
+      distance_percent: 7.1206
+  macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+      distance_meters: 11927.57
+      distance_km: 11.928
+      distance_percent: 92.8794
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"
+      distance_meters: 914.43
+      distance_km: 0.914
+      distance_percent: 7.1206
+  touched_towns:
+    - slug: andrychow
+      name: Andrychów
+      code: "1218013"
+  touched_counties:
+    - slug: wadowicki
+      name: wadowicki
+      code: "1218"
+  touched_voivodeships:
+    - slug: malopolskie
+      name: małopolskie
+      code: "12"
+  touched_meso_regions:
+    - slug: beskid_maly
+      name: Beskid Mały
+      code: "513.47"
+    - slug: pogorze_slaskie
+      name: Pogórze Śląskie
+      code: "513.32"
+  touched_macro_regions:
+    - slug: beskidy_zachodnie
+      name: Beskidy Zachodnie
+      code: "513"
+    - slug: pogorze_zachodniobeskidzkie
+      name: Pogórze Zachodniobeskidzkie
+      code: "513"

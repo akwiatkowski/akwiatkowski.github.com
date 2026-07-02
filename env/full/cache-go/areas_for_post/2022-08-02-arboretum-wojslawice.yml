@@ -1,0 +1,60 @@
+---
+- type: hike
+  total_distance_meters: 4806.7
+  total_distance_km: 4.807
+  points_count: 127
+  towns:
+    - slug: niemcza
+      name: Niemcza
+      code: "0202073"
+      distance_meters: 4806.7
+      distance_km: 4.807
+      distance_percent: 100
+  counties:
+    - slug: dzierzoniowski
+      name: dzierżoniowski
+      code: "0202"
+      distance_meters: 4806.7
+      distance_km: 4.807
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 4806.7
+      distance_km: 4.807
+      distance_percent: 100
+  meso_regions:
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+      distance_meters: 4806.7
+      distance_km: 4.807
+      distance_percent: 100
+  macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"
+      distance_meters: 4806.7
+      distance_km: 4.807
+      distance_percent: 100
+  touched_towns:
+    - slug: niemcza
+      name: Niemcza
+      code: "0202073"
+  touched_counties:
+    - slug: dzierzoniowski
+      name: dzierżoniowski
+      code: "0202"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: wzgorza_niemczansko-strzelinskie
+      name: Wzgórza Niemczańsko-Strzelińskie
+      code: "332.14"
+  touched_macro_regions:
+    - slug: przedgorze_sudeckie
+      name: Przedgórze Sudeckie
+      code: "332"

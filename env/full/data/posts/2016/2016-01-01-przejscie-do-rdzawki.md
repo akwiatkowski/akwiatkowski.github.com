@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Przejście do Rdzawki"
 subtitle:               "ładne polanki, nie za długa trasa, jednak było zimniej niż dzień wcześniej"
 date:                   2016-01-01 20:00:00
+finished_at:            2016-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, hike, mountains]

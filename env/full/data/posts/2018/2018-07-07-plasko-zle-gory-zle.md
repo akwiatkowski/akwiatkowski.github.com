@@ -21,6 +21,7 @@ map_zooms:              11
 distance:               62
 time_spent:             7
 elevation:              487
+terrain:                7.9 # m/km przewyższeń — pofalowany
 
 
 pois:

@@ -1,0 +1,141 @@
+---
+- type: bicycle
+  total_distance_meters: 47115.42
+  total_distance_km: 47.115
+  points_count: 655
+  towns:
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+      distance_meters: 16291.98
+      distance_km: 16.292
+      distance_percent: 34.5789
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+      distance_meters: 15918.84
+      distance_km: 15.919
+      distance_percent: 33.7869
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+      distance_meters: 4331.46
+      distance_km: 4.331
+      distance_percent: 9.1933
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+      distance_meters: 4024.12
+      distance_km: 4.024
+      distance_percent: 8.541
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+      distance_meters: 3980.96
+      distance_km: 3.981
+      distance_percent: 8.4494
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+      distance_meters: 2568.06
+      distance_km: 2.568
+      distance_percent: 5.4506
+  counties:
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+      distance_meters: 43134.45
+      distance_km: 43.134
+      distance_percent: 91.5506
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+      distance_meters: 3980.96
+      distance_km: 3.981
+      distance_percent: 8.4494
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 47115.42
+      distance_km: 47.115
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+      distance_meters: 28057.84
+      distance_km: 28.058
+      distance_percent: 59.5513
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+      distance_meters: 17838.71
+      distance_km: 17.839
+      distance_percent: 37.8617
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+      distance_meters: 1193.78
+      distance_km: 1.194
+      distance_percent: 2.5337
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+      distance_meters: 25.09
+      distance_km: 0.025
+      distance_percent: 0.0533
+  macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"
+      distance_meters: 47115.42
+      distance_km: 47.115
+      distance_percent: 100
+  touched_towns:
+    - slug: janowice_wielkie
+      name: Janowice Wielkie
+      code: "0206052"
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261011"
+    - slug: myslakowice
+      name: Mysłakowice
+      code: "0206072"
+    - slug: piechowice
+      name: Piechowice
+      code: "0206031"
+    - slug: podgorzyn
+      name: Podgórzyn
+      code: "0206082"
+    - slug: szklarska_poreba
+      name: Szklarska Poręba
+      code: "0206041"
+  touched_counties:
+    - slug: jelenia_gora
+      name: Jelenia Góra
+      code: "0261"
+    - slug: jeleniogorski
+      name: jeleniogórski
+      code: "0206"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_izerskie
+      name: Góry Izerskie
+      code: "332.34"
+    - slug: karkonosze
+      name: Karkonosze
+      code: "332.37"
+    - slug: kotlina_jeleniogorska
+      name: Kotlina Jeleniogórska
+      code: "332.36"
+    - slug: rudawy_janowickie
+      name: Rudawy Janowickie
+      code: "332.38"
+  touched_macro_regions:
+    - slug: sudety_zachodnie
+      name: Sudety Zachodnie
+      code: "332"

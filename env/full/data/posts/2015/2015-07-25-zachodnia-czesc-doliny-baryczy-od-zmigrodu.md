@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Zachodnia część Doliny Baryczy, od Żmigrodu po Rudę Sułowską"
 subtitle:               "bardzo mokry dzień, niewiele było czasu aby móc pojechać gdzieś dalej"
 date:                   2015-07-25 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 categories:             trip
 tags:                   [main, bicycle, panniers]

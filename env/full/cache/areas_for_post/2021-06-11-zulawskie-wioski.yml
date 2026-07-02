@@ -10,13 +10,13 @@
     distance_meters: 16814.3
     distance_km: 16.814
     distance_percent: 47.2376
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-miejska
     name: Elbląg
     code: "2861011"
     distance_meters: 5987.67
     distance_km: 5.988
     distance_percent: 16.8216
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
     distance_meters: 4887.16
@@ -60,7 +60,7 @@
     distance_km: 3.135
     distance_percent: 8.8085
   voivodeships:
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
     distance_meters: 27689.13
@@ -79,7 +79,7 @@
     distance_meters: 33290.15
     distance_km: 33.29
     distance_percent: 93.5243
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
     distance_meters: 1310.95
@@ -135,9 +135,12 @@
   - slug: markusy
     name: Markusy
     code: "2804042"
-  - slug: elblag
+  - slug: elblag-warminsko-mazurskie-wiejska
     name: Elbląg
     code: "2804012"
+  - slug: elblag-warminsko-mazurskie-miejska
+    name: Elbląg
+    code: "2861011"
   touched_counties:
   - slug: malborski
     name: malborski
@@ -155,14 +158,14 @@
   - slug: pomorskie
     name: POMORSKIE
     code: "22"
-  - slug: warminskomazurskie
+  - slug: warminsko-mazurskie
     name: WARMIŃSKO-MAZURSKIE
     code: "28"
   touched_meso_regions:
   - slug: zulawy_wislane
     name: Żuławy Wiślane
     code: "313.54"
-  - slug: pojezierze_dzierzgonskomoraskie
+  - slug: pojezierze_dzierzgonsko-moraskie
     name: Pojezierze Dzierzgońsko-Morąskie
     code: "314.91"
   touched_macro_regions:

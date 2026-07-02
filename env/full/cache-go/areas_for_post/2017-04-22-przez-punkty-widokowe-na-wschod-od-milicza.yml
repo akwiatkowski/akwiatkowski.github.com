@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 59217.68
+  total_distance_km: 59.218
+  points_count: 356
+  towns:
+    - slug: milicz
+      name: Milicz
+      code: "0213033"
+      distance_meters: 59217.68
+      distance_km: 59.218
+      distance_percent: 100
+  counties:
+    - slug: milicki
+      name: milicki
+      code: "0213"
+      distance_meters: 59217.68
+      distance_km: 59.218
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 59217.68
+      distance_km: 59.218
+      distance_percent: 100
+  meso_regions:
+    - slug: kotlina_milicka
+      name: Kotlina Milicka
+      code: "318.34"
+      distance_meters: 26356.4
+      distance_km: 26.356
+      distance_percent: 44.5077
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+      distance_meters: 13114.65
+      distance_km: 13.115
+      distance_percent: 22.1465
+    - slug: wzgorza_twardogorskie
+      name: Wzgórza Twardogórskie
+      code: "318.45"
+      distance_meters: 12937.28
+      distance_km: 12.937
+      distance_percent: 21.847
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+      distance_meters: 6809.35
+      distance_km: 6.809
+      distance_percent: 11.4988
+  macro_regions:
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+      distance_meters: 39471.05
+      distance_km: 39.471
+      distance_percent: 66.6542
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"
+      distance_meters: 12937.28
+      distance_km: 12.937
+      distance_percent: 21.847
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 6809.35
+      distance_km: 6.809
+      distance_percent: 11.4988
+  touched_towns:
+    - slug: milicz
+      name: Milicz
+      code: "0213033"
+  touched_counties:
+    - slug: milicki
+      name: milicki
+      code: "0213"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: kotlina_milicka
+      name: Kotlina Milicka
+      code: "318.34"
+    - slug: kotlina_zmigrodzka
+      name: Kotlina Żmigrodzka
+      code: "318.33"
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+    - slug: wzgorza_twardogorskie
+      name: Wzgórza Twardogórskie
+      code: "318.45"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+    - slug: obnizenie_milicko-glogowskie
+      name: Obniżenie Milicko-Głogowskie
+      code: "318"
+    - slug: wal_trzebnicki
+      name: Wał Trzebnicki
+      code: "318"

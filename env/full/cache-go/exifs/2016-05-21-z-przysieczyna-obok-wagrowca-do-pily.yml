@@ -1,0 +1,131 @@
+---
+- image_filename: IMGP0411raw1.jpg
+  post_slug: 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily
+  lat: 52.75397851128674
+  lon: 17.183873634800136
+  altitude: 91.94
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-21T10:27:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0415raw1.jpg
+  post_slug: 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily
+  lat: 52.88481532599953
+  lon: 17.103547677404297
+  altitude: 162.6
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-21T11:30:30+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0430raw1.jpg
+  post_slug: 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily
+  lat: 53.01248311070167
+  lon: 16.99970159680639
+  altitude: 88.1
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-21T12:32:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP0432raw2.jpg
+  post_slug: 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily
+  lat: 53.075124425838716
+  lon: 16.876669675090252
+  altitude: 79.45
+  focal_length: 40
+  focal_length_35: 60
+  crop: 1.5
+  aperture: 6.3
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-21T13:22:42+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: header.jpg
+  post_slug: 2016-05-21-z-przysieczyna-obok-wagrowca-do-pily
+  lat: 52.90536113076983
+  lon: 17.079841811120584
+  altitude: 144.82
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 8
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 200
+  width: 2000
+  height: 1326
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-05-21T11:38:22+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84

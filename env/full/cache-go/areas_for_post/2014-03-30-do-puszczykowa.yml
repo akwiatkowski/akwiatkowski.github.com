@@ -1,0 +1,114 @@
+---
+- type: bicycle
+  total_distance_meters: 51787.72
+  total_distance_km: 51.788
+  points_count: 506
+  towns:
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+      distance_meters: 24113.36
+      distance_km: 24.113
+      distance_percent: 46.5619
+    - slug: komorniki
+      name: Komorniki
+      code: "3021072"
+      distance_meters: 9745.35
+      distance_km: 9.745
+      distance_percent: 18.8179
+    - slug: lubon
+      name: Luboń
+      code: "3021011"
+      distance_meters: 9221.37
+      distance_km: 9.221
+      distance_percent: 17.8061
+    - slug: puszczykowo
+      name: Puszczykowo
+      code: "3021021"
+      distance_meters: 7972.03
+      distance_km: 7.972
+      distance_percent: 15.3937
+    - slug: mosina
+      name: Mosina
+      code: "3021103"
+      distance_meters: 735.6
+      distance_km: 0.736
+      distance_percent: 1.4204
+  counties:
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+      distance_meters: 51787.72
+      distance_km: 51.788
+      distance_percent: 100
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+      distance_meters: 24113.36
+      distance_km: 24.113
+      distance_percent: 46.5619
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 51787.72
+      distance_km: 51.788
+      distance_percent: 100
+  meso_regions:
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+      distance_meters: 45129.2
+      distance_km: 45.129
+      distance_percent: 87.1427
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+      distance_meters: 6658.52
+      distance_km: 6.659
+      distance_percent: 12.8573
+  macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316
+      distance_meters: 51787.72
+      distance_km: 51.788
+      distance_percent: 100
+  touched_towns:
+    - slug: komorniki
+      name: Komorniki
+      code: "3021072"
+    - slug: lubon
+      name: Luboń
+      code: "3021011"
+    - slug: mosina
+      name: Mosina
+      code: "3021103"
+    - slug: poznan
+      name: Poznań
+      code: "3064011"
+    - slug: puszczykowo
+      name: Puszczykowo
+      code: "3021021"
+  touched_counties:
+    - slug: poznan
+      name: Poznań
+      code: "3064"
+    - slug: poznanski
+      name: poznański
+      code: "3021"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: pojezierze_poznanskie
+      name: Pojezierze Poznańskie
+      code: "315.51"
+    - slug: poznanski_przelom_warty
+      name: Poznański Przełom Warty
+      code: "315.52"
+  touched_macro_regions:
+    - slug: pojezierze_wielkopolskie
+      name: Pojezierze Wielkopolskie
+      code: 314-316

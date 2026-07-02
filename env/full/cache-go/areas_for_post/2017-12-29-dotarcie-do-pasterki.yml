@@ -1,0 +1,69 @@
+---
+- type: hike
+  total_distance_meters: 6982.25
+  total_distance_km: 6.982
+  points_count: 110
+  towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+      distance_meters: 6982.25
+      distance_km: 6.982
+      distance_percent: 100
+  counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+      distance_meters: 6982.25
+      distance_km: 6.982
+      distance_percent: 100
+  voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+      distance_meters: 6982.25
+      distance_km: 6.982
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+      distance_meters: 4193.99
+      distance_km: 4.194
+      distance_percent: 60.0664
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+      distance_meters: 2788.26
+      distance_km: 2.788
+      distance_percent: 39.9336
+  macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"
+      distance_meters: 6982.25
+      distance_km: 6.982
+      distance_percent: 100
+  touched_towns:
+    - slug: radkow
+      name: Radków
+      code: "0208123"
+  touched_counties:
+    - slug: klodzki
+      name: kłodzki
+      code: "0208"
+  touched_voivodeships:
+    - slug: dolnoslaskie
+      name: dolnośląskie
+      code: "02"
+  touched_meso_regions:
+    - slug: gory_stolowe
+      name: Góry Stołowe
+      code: "332.48"
+    - slug: obnizenie_scinawki
+      name: Obniżenie Ścinawki
+      code: "332.47"
+  touched_macro_regions:
+    - slug: sudety_srodkowe
+      name: Sudety Środkowe
+      code: "332"

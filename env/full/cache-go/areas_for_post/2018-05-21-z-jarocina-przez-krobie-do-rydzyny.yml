@@ -1,0 +1,159 @@
+---
+- type: bicycle
+  total_distance_meters: 74569.92
+  total_distance_km: 74.57
+  points_count: 199
+  towns:
+    - slug: krobia
+      name: Krobia
+      code: "3004033"
+      distance_meters: 15285.7
+      distance_km: 15.286
+      distance_percent: 20.4985
+    - slug: pogorzela
+      name: Pogorzela
+      code: "3004063"
+      distance_meters: 11840.9
+      distance_km: 11.841
+      distance_percent: 15.8789
+    - slug: poniec
+      name: Poniec
+      code: "3004073"
+      distance_meters: 11426.38
+      distance_km: 11.426
+      distance_percent: 15.323
+    - slug: jaraczewo
+      name: Jaraczewo
+      code: "3006013"
+      distance_meters: 8984.48
+      distance_km: 8.984
+      distance_percent: 12.0484
+    - slug: pepowo
+      name: Pępowo
+      code: "3004042"
+      distance_meters: 7983.88
+      distance_km: 7.984
+      distance_percent: 10.7066
+    - slug: rydzyna
+      name: Rydzyna
+      code: "3013043"
+      distance_meters: 7068.53
+      distance_km: 7.069
+      distance_percent: 9.4791
+    - slug: jarocin
+      name: Jarocin
+      code: "3006023"
+      distance_meters: 6171.63
+      distance_km: 6.172
+      distance_percent: 8.2763
+    - slug: kozmin_wielkopolski
+      name: Koźmin Wielkopolski
+      code: "3012033"
+      distance_meters: 5808.44
+      distance_km: 5.808
+      distance_percent: 7.7892
+  counties:
+    - slug: gostynski
+      name: gostyński
+      code: "3004"
+      distance_meters: 46536.86
+      distance_km: 46.537
+      distance_percent: 62.407
+    - slug: jarocinski
+      name: jarociński
+      code: "3006"
+      distance_meters: 15156.1
+      distance_km: 15.156
+      distance_percent: 20.3247
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+      distance_meters: 7068.53
+      distance_km: 7.069
+      distance_percent: 9.4791
+    - slug: krotoszynski
+      name: krotoszyński
+      code: "3012"
+      distance_meters: 5808.44
+      distance_km: 5.808
+      distance_percent: 7.7892
+  voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+      distance_meters: 74569.92
+      distance_km: 74.57
+      distance_percent: 100
+  meso_regions:
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+      distance_meters: 57181.35
+      distance_km: 57.181
+      distance_percent: 76.6815
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+      distance_meters: 17388.57
+      distance_km: 17.389
+      distance_percent: 23.3185
+  macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"
+      distance_meters: 74569.92
+      distance_km: 74.57
+      distance_percent: 100
+  touched_towns:
+    - slug: jaraczewo
+      name: Jaraczewo
+      code: "3006013"
+    - slug: jarocin
+      name: Jarocin
+      code: "3006023"
+    - slug: kozmin_wielkopolski
+      name: Koźmin Wielkopolski
+      code: "3012033"
+    - slug: krobia
+      name: Krobia
+      code: "3004033"
+    - slug: pepowo
+      name: Pępowo
+      code: "3004042"
+    - slug: pogorzela
+      name: Pogorzela
+      code: "3004063"
+    - slug: poniec
+      name: Poniec
+      code: "3004073"
+    - slug: rydzyna
+      name: Rydzyna
+      code: "3013043"
+  touched_counties:
+    - slug: gostynski
+      name: gostyński
+      code: "3004"
+    - slug: jarocinski
+      name: jarociński
+      code: "3006"
+    - slug: krotoszynski
+      name: krotoszyński
+      code: "3012"
+    - slug: leszczynski
+      name: leszczyński
+      code: "3013"
+  touched_voivodeships:
+    - slug: wielkopolskie
+      name: wielkopolskie
+      code: "30"
+  touched_meso_regions:
+    - slug: wysoczyzna_kaliska
+      name: Wysoczyzna Kaliska
+      code: "318.12"
+    - slug: wysoczyzna_leszczynska
+      name: Wysoczyzna Leszczyńska
+      code: "318.11"
+  touched_macro_regions:
+    - slug: nizina_poludniowowielkopolska
+      name: Nizina Południowowielkopolska
+      code: "318"

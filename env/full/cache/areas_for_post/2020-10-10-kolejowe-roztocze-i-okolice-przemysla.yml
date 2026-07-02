@@ -10,7 +10,7 @@
     distance_meters: 18802.85
     distance_km: 18.803
     distance_percent: 16.3738
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
     distance_meters: 18575.36
@@ -40,13 +40,13 @@
     distance_meters: 9869.46
     distance_km: 9.869
     distance_percent: 8.5945
-  - slug: jozefow
+  - slug: jozefow-lubelskie
     name: Józefów
     code: "0602073"
     distance_meters: 9202.04
     distance_km: 9.202
     distance_percent: 8.0133
-  - slug: zamosc
+  - slug: zamosc-lubelskie-wiejska
     name: Zamość
     code: "0620142"
     distance_meters: 8048.62
@@ -58,7 +58,7 @@
     distance_meters: 1656.15
     distance_km: 1.656
     distance_percent: 1.4422
-  - slug: zamosc
+  - slug: zamosc-lubelskie-miejska
     name: Zamość
     code: "0664011"
     distance_meters: 1595.24
@@ -71,7 +71,7 @@
     distance_km: 1.455
     distance_percent: 1.2674
   counties:
-  - slug: tomaszowski
+  - slug: tomaszowski-lubelskie
     name: tomaszowski
     code: 0618
     distance_meters: 45811.2
@@ -184,7 +184,7 @@
     distance_km: 2.251
     distance_percent: 1.9606
   subprovinces:
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
     distance_meters: 110840.71
@@ -196,7 +196,7 @@
     distance_meters: 2251.42
     distance_km: 2.251
     distance_percent: 1.9606
-  - slug: wyzyna_wolynskopodolska
+  - slug: wyzyna_wolynsko-podolska
     name: Wyżyna Wołyńsko-Podolska
     code: "85"
     distance_meters: 1742.73
@@ -222,16 +222,19 @@
     distance_km: 1.743
     distance_percent: 1.5176
   touched_towns:
-  - slug: zamosc
+  - slug: zamosc-lubelskie-miejska
     name: Zamość
     code: "0664011"
+  - slug: zamosc-lubelskie-wiejska
+    name: Zamość
+    code: "0620142"
   - slug: szczebrzeszyn
     name: Szczebrzeszyn
     code: "0620133"
   - slug: zwierzyniec
     name: Zwierzyniec
     code: "0620153"
-  - slug: jozefow
+  - slug: jozefow-lubelskie
     name: Józefów
     code: "0602073"
   - slug: susiec
@@ -246,7 +249,7 @@
   - slug: lubycza_krolewska
     name: Lubycza Królewska
     code: 0618053
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
   touched_counties:
@@ -259,7 +262,7 @@
   - slug: bilgorajski
     name: biłgorajski
     code: "0602"
-  - slug: tomaszowski
+  - slug: tomaszowski-lubelskie
     name: tomaszowski
     code: 0618
   - slug: lubaczowski
@@ -309,10 +312,10 @@
     name: Karpaty, Podkarpackie i Nizina Panońska
     code: "0"
   touched_subprovinces:
-  - slug: wyzyna_lubelskolwowska
+  - slug: wyzyna_lubelsko-lwowska
     name: Wyżyna Lubelsko-Lwowska
     code: "34"
-  - slug: wyzyna_wolynskopodolska
+  - slug: wyzyna_wolynsko-podolska
     name: Wyżyna Wołyńsko-Podolska
     code: "85"
   - slug: podkarpacie_polnocne
@@ -333,7 +336,7 @@
   total_distance_km: 211.701
   points_count: 202.0
   towns:
-  - slug: przemysl
+  - slug: przemysl-podkarpackie-miejska
     name: Przemyśl
     code: "1862011"
     distance_meters: 27798.48
@@ -345,7 +348,7 @@
     distance_meters: 23259.08
     distance_km: 23.259
     distance_percent: 10.9868
-  - slug: jaroslaw
+  - slug: jaroslaw-podkarpackie-wiejska
     name: Jarosław
     code: "1804042"
     distance_meters: 16913.57
@@ -369,13 +372,13 @@
     distance_meters: 13662.81
     distance_km: 13.663
     distance_percent: 6.4538
-  - slug: przeworsk
+  - slug: przeworsk-podkarpackie-wiejska
     name: Przeworsk
     code: "1814062"
     distance_meters: 12555.09
     distance_km: 12.555
     distance_percent: 5.9306
-  - slug: lubaczow
+  - slug: lubaczow-podkarpackie-wiejska
     name: Lubaczów
     code: "1809042"
     distance_meters: 11792.96
@@ -387,31 +390,31 @@
     distance_meters: 11266.37
     distance_km: 11.266
     distance_percent: 5.3218
-  - slug: radymno
+  - slug: radymno-podkarpackie-wiejska
     name: Radymno
     code: "1804082"
     distance_meters: 10513.14
     distance_km: 10.513
     distance_percent: 4.966
-  - slug: lancut
+  - slug: lancut-podkarpackie-wiejska
     name: Łańcut
     code: "1810042"
     distance_meters: 8725.51
     distance_km: 8.726
     distance_percent: 4.1216
-  - slug: krasne
+  - slug: krasne-podkarpackie
     name: Krasne
     code: "1816092"
     distance_meters: 6336.86
     distance_km: 6.337
     distance_percent: 2.9933
-  - slug: jaroslaw
+  - slug: jaroslaw-podkarpackie-miejska
     name: Jarosław
     code: "1804011"
     distance_meters: 5664.15
     distance_km: 5.664
     distance_percent: 2.6755
-  - slug: lubaczow
+  - slug: lubaczow-podkarpackie-miejska
     name: Lubaczów
     code: "1809011"
     distance_meters: 5308.23
@@ -429,25 +432,25 @@
     distance_meters: 4914.79
     distance_km: 4.915
     distance_percent: 2.3216
-  - slug: lancut
+  - slug: lancut-podkarpackie-miejska
     name: Łańcut
     code: "1810011"
     distance_meters: 4655.21
     distance_km: 4.655
     distance_percent: 2.199
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
     distance_meters: 4534.27
     distance_km: 4.534
     distance_percent: 2.1418
-  - slug: przeworsk
+  - slug: przeworsk-podkarpackie-miejska
     name: Przeworsk
     code: "1814011"
     distance_meters: 3845.23
     distance_km: 3.845
     distance_percent: 1.8164
-  - slug: czarna
+  - slug: czarna-podkarpackie-lancucki
     name: Czarna
     code: "1810032"
     distance_meters: 3301.53
@@ -571,7 +574,7 @@
     distance_meters: 6898.5
     distance_km: 6.898
     distance_percent: 3.2586
-  - slug: plaskowyz_sanskodniestrzanski
+  - slug: plaskowyz_sansko-dniestrzanski
     name: Płaskowyż Sańsko-Dniestrzański
     code: "521"
     distance_meters: 3105.14
@@ -611,28 +614,31 @@
     distance_km: 208.595
     distance_percent: 98.5332
   touched_towns:
-  - slug: horynieczdroj
+  - slug: horyniec-zdroj
     name: Horyniec-Zdrój
     code: "1809032"
-  - slug: lubaczow
+  - slug: lubaczow-podkarpackie-wiejska
     name: Lubaczów
     code: "1809042"
+  - slug: lubaczow-podkarpackie-miejska
+    name: Lubaczów
+    code: "1809011"
   - slug: oleszyce
     name: Oleszyce
     code: "1809063"
   - slug: laszki
     name: Laszki
     code: "1804052"
-  - slug: jaroslaw
+  - slug: jaroslaw-podkarpackie-wiejska
     name: Jarosław
     code: "1804042"
-  - slug: radymno
+  - slug: radymno-podkarpackie-wiejska
     name: Radymno
     code: "1804082"
   - slug: orly
     name: Orły
     code: "1813072"
-  - slug: przemysl
+  - slug: przemysl-podkarpackie-miejska
     name: Przemyśl
     code: "1862011"
   - slug: zurawica
@@ -641,16 +647,25 @@
   - slug: medyka
     name: Medyka
     code: "1813062"
-  - slug: przeworsk
+  - slug: jaroslaw-podkarpackie-miejska
+    name: Jarosław
+    code: "1804011"
+  - slug: przeworsk-podkarpackie-wiejska
     name: Przeworsk
     code: "1814062"
-  - slug: lancut
+  - slug: przeworsk-podkarpackie-miejska
+    name: Przeworsk
+    code: "1814011"
+  - slug: lancut-podkarpackie-wiejska
     name: Łańcut
     code: "1810042"
-  - slug: czarna
+  - slug: lancut-podkarpackie-miejska
+    name: Łańcut
+    code: "1810011"
+  - slug: czarna-podkarpackie-lancucki
     name: Czarna
     code: "1810032"
-  - slug: krasne
+  - slug: krasne-podkarpackie
     name: Krasne
     code: "1816092"
   - slug: rzeszow
@@ -714,7 +729,7 @@
   - slug: pogorze_srodkowobeskidzkie
     name: Pogórze Środkowobeskidzkie
     code: "513"
-  - slug: plaskowyz_sanskodniestrzanski
+  - slug: plaskowyz_sansko-dniestrzanski
     name: Płaskowyż Sańsko-Dniestrzański
     code: "521"
   touched_mega_regions:

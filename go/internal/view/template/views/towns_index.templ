@@ -1,0 +1,14 @@
+package views
+
+// TownsIndexContent renders the towns index page.
+// rawScriptHTML must be a complete <script> tag with JSON data.
+// towns_index.js is a library: it only registers window.TownsIndex. The inline
+// bootstrap below (same as Crystal's towns/index template) parses #towns-data
+// and mounts the Preact app into #towns-app once the markup exists.
+templ TownsIndexContent(rawScriptHTML string) {
+	@templ.Raw(rawScriptHTML)
+	<div id="towns-app"></div>
+	<script>
+		TownsIndex.init(JSON.parse(document.getElementById('towns-data').textContent));
+	</script>
+}

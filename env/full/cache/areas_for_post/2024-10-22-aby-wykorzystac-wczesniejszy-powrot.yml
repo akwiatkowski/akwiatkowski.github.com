@@ -11,7 +11,7 @@
     distance_km: 1.179
     distance_percent: 100.0
   counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
     distance_meters: 1178.66
@@ -64,7 +64,7 @@
     name: Marcinowice
     code: 0219052
   touched_counties:
-  - slug: swidnicki
+  - slug: swidnicki-dolnoslaskie
     name: świdnicki
     code: 0219
   touched_voivodeships:

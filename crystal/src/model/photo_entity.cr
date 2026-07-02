@@ -1,0 +1,334 @@
+require "./exif_entity"
+
+struct PhotoEntity
+  Log = ::Log.for(self)
+
+  @desc : String
+  @image_filename : String
+  @param_string : String
+  @day_of_year : Int32
+  @float_of_year : Float64
+  @time : Time
+
+  @post_url : String
+  @post_time : Time
+  @post_title : String
+  @post_slug : String
+
+  @is_gallery : Bool
+  @is_header : Bool
+  @is_timeline : Bool
+
+  @thumbnail_image_src : String
+  @article_image_src : String
+  @grid_image_src : String
+  @card_image_src : String
+
+  @thumbnail_avif_src : String
+  @article_avif_src : String
+  @grid_avif_src : String
+  @card_avif_src : String
+
+  @full_image_src : String
+
+  @points : Int32
+
+  @exif : ExifEntity
+
+  @tags : Array(String)
+  # all possible tags will be stored here
+  @@tags_dictionary = Array(String).new
+
+  FLAG_NOGALLERY   = "nogallery"
+  FLAG_NO_TIMELINE = "notimeline"
+  FLAG_TIMELINE    = "timeline" # TODO convert to tag
+  FLAG_MAP         = "map"
+
+  THUMBNAIL_PREFIX = "thumbnail"
+  CARD_PREFIX      = "card"
+  ARTICLE_PREFIX   = "article"
+  GRID_PREFIX      = "grid"
+
+  TAG_GOOD      = "good"
+  TAG_BEST      = "best"
+  TAG_CAT       = "cat"
+  TAG_MACRO     = "macro"
+  TAG_BIRD      = "bird"
+  TAG_WINTER    = "winter"
+  TAG_TIMELINE  = "timeline"
+  TAG_TRANSPORT = "transport"
+  TAG_WATER     = "water"
+  TAG_SUNRISE   = "sunrise"
+  TAG_CITY      = "city"
+  TAG_MOUNTAINS = "mountains"
+  TAG_SPRING    = "spring"
+
+  TAG_GALLERIES = [
+    TAG_MACRO,
+    TAG_CAT,
+    TAG_GOOD,
+    TAG_BEST,
+    TAG_TIMELINE,
+    TAG_BIRD,
+    TAG_WINTER,
+    TAG_MOUNTAINS,
+    TAG_SUNRISE,
+    TAG_SPRING,
+    TAG_CITY,
+  ].sort
+
+  # https://fontawesome.com/
+  TAG_BOOTSTRAP_ICON = {
+    TAG_GOOD      => "check-circle-fill",
+    TAG_BEST      => "gem",
+    TAG_CAT       => "eye-fill",
+    TAG_MACRO     => "droplet",
+    TAG_BIRD      => "binoculars",
+    TAG_WINTER    => "snow3",
+    TAG_TIMELINE  => "calendar-date",
+    TAG_TRANSPORT => "gear_wide",
+    TAG_WATER     => "water",
+    TAG_SUNRISE   => "sunrise",
+    TAG_CITY      => "shop",
+  }
+  # https://icons.getbootstrap.com
+  # tree signpost-fill
+
+  getter :desc, :image_filename, :is_gallery, :is_header, :is_timeline, :is_map
+  getter :thumbnail_image_src, :article_image_src, :full_image_src, :card_image_src, :grid_image_src
+  getter :thumbnail_avif_src, :article_avif_src, :card_avif_src, :grid_avif_src
+  getter :full_image_sanitized
+  getter :time, :day_of_year, :float_of_year
+  getter :tags, :nameless, :points
+  getter :post_title, :post_time, :post_slug, :post_url, :param_string
+
+  property :exif
+
+  # Post-free constructor: accepts post fields directly for testability
+  def initialize(
+    photo_tags : Array(PhotoTagEntity),
+    @post_slug : String,
+    @post_url : String,
+    @post_time : Time,
+    post_title : String,
+    @image_filename : String,
+    @param_string,
+    desc = nil,
+    @is_gallery = true,
+    @is_header = false,
+    @is_timeline = false,
+    @is_map = false,
+    @tags = Array(String).new,
+  )
+    @post_title = post_title
+
+    # nameless entities are uploaded not added in post content
+    if desc.nil?
+      @desc = @image_filename
+      @nameless = true
+    else
+      @desc = desc
+      @nameless = false
+    end
+
+    update_from_param_string
+
+    # just optimization
+    @thumbnail_image_src = processed_img_path(THUMBNAIL_PREFIX)
+    @article_image_src = processed_img_path(ARTICLE_PREFIX)
+    @card_image_src = processed_img_path(CARD_PREFIX)
+    @grid_image_src = processed_img_path(GRID_PREFIX)
+
+    @thumbnail_avif_src = processed_img_path(THUMBNAIL_PREFIX, format: "avif")
+    @article_avif_src = processed_img_path(ARTICLE_PREFIX, format: "avif")
+    @card_avif_src = processed_img_path(CARD_PREFIX, format: "avif")
+    @grid_avif_src = processed_img_path(GRID_PREFIX, format: "avif")
+
+    @full_image_src = generate_full_image_src
+    @full_image_sanitized = @full_image_src.gsub(/\W/, "_").as(String)
+
+    @time = @post_time
+    @day_of_year = @time.day_of_year
+    @float_of_year = @day_of_year.to_f / 365.0
+
+    # all data fetched from exif will be stored here
+    @exif = ExifEntity.new(
+      post_slug: @post_slug,
+      image_filename: @image_filename,
+    )
+
+    # calculate points
+    @points = 0
+    @tags.each do |tag|
+      selected = photo_tags.select do |photo_tag|
+        photo_tag.slug == tag
+      end
+
+      Log.error { "tag '#{tag}' not in photo tag config yaml" } if selected.size == 0
+      photo_tag = selected.first
+
+      @points += photo_tag.points
+    end
+  end
+
+  # Constructor taking a Post object (delegates to Post-free constructor)
+  def initialize(
+    photo_tags : Array(PhotoTagEntity),
+    post : Tremolite::Post,
+    image_filename : String,
+    param_string,
+    desc = nil,
+    is_gallery = true,
+    is_header = false,
+    is_timeline = false,
+    is_map = false,
+    tags = Array(String).new,
+  )
+    initialize(
+      photo_tags: photo_tags,
+      post_slug: post.slug,
+      post_url: post.url,
+      post_time: post.time.not_nil!,
+      post_title: post.title,
+      image_filename: image_filename,
+      param_string: param_string,
+      desc: desc,
+      is_gallery: is_gallery,
+      is_header: is_header,
+      is_timeline: is_timeline,
+      is_map: is_map,
+      tags: tags,
+    )
+  end
+
+  def is_good?
+    return has_tag?(TAG_GOOD)
+  end
+
+  def is_best?
+    return has_tag?(TAG_BEST)
+  end
+
+  def is_at_least_good?
+    return is_good? || is_best?
+  end
+
+  # TODO add method for filtering by tags (is header)
+  # TODO add method calc photo quality (tags, header, published, time...)
+
+  def has_tag?(tag : String)
+    return @tags.includes?(tag)
+  end
+
+  def update_desc_and_params(new_desc, new_param_string)
+    @desc = new_desc
+    @nameless = false
+    @param_string = new_param_string
+    update_from_param_string
+  end
+
+  # params_string can be updated later for header photo
+  # from post_function
+  private def update_from_param_string
+    if @param_string.includes?(FLAG_NOGALLERY)
+      @is_gallery = false
+    end
+
+    if @param_string.includes?(FLAG_NO_TIMELINE)
+      @is_timeline = false
+    elsif @param_string.includes?(FLAG_TIMELINE)
+      @is_timeline = true
+    end
+
+    if @param_string.includes?(FLAG_MAP)
+      @is_map = true
+    end
+
+    # add tags
+    @param_string.split(/,/).each do |param_split|
+      if param_split =~ /tag:(\w+)/
+        @tags << $1.to_s
+
+        @@tags_dictionary << $1.to_s unless @@tags_dictionary.includes?($1.to_s)
+      end
+    end
+  end
+
+  def self.tags_dictionary
+    return @@tags_dictionary
+  end
+
+  def hash_for_partial(
+    year_within_desc = false,
+  )
+    data = Hash(String, String).new
+
+    klass = @is_header ? "gallery-header-image" : "gallery-regular-image"
+    klass += @is_timeline ? " gallery-is-timeline" : " gallery-is-not-timeline"
+
+    data["klass"] = klass
+    data["post.url"] = @post_url
+    data["img.src"] = @article_image_src
+    data["img.src.avif"] = @article_avif_src
+    data["img.grid_src"] = @grid_image_src
+    data["img.grid_src.avif"] = @grid_avif_src
+    processed_desc = year_within_desc ? "#{@post_time.year} - #{@desc}" : @desc
+    data["img.alt"] = processed_desc
+    data["img.title"] = processed_desc
+    data["post.title"] = @post_title
+    data["img.url"] = full_image_src
+    data["img.url.avif"] = ""
+    data["img.full_image_sanitized"] = full_image_sanitized
+
+    data.merge!(self.exif.not_nil!.hash_for_partial)
+
+    return data
+  end
+
+  def processed_img_path(prefix, format : String = "jpg")
+    Tremolite::ImageResizer.processed_path_for_post(
+      processed_path: Tremolite::ImageResizer::PROCESSED_IMAGES_PATH_FOR_WEB,
+      post_year: @post_time.year.as(Int32),
+      post_month: @post_time.month.as(Int32),
+      post_slug: @post_slug,
+      prefix: prefix,
+      file_name: @image_filename,
+      format: format
+    )
+  end
+
+  def <=>(other : PhotoEntity)
+    if other.exif && self.exif && other.exif.time && self.exif.time
+      return self.exif.time.not_nil! <=> other.exif.time.not_nil!
+    else
+      return self.image_filename <=> other.image_filename
+    end
+  end
+
+  def accurate_time
+    if self.exif
+      return exif_time
+    else
+      return time
+    end
+  end
+
+  def exif_time
+    self.exif.time.not_nil!
+  end
+
+  # when there is not enough camera/lens/tag photos to populate gallery
+  # we can use photos from other tags
+  #
+  # here we compare number or tags and when it was taken
+  def factor_for_gallery_fill
+    years = (Time.local - exif_time).days / 365
+    tags_size = tags.size
+
+    return tags_size.to_f / (1.0 + years.to_f)
+  end
+
+  private def generate_full_image_src
+    "/images/#{@post_time.year.as(Int32)}/#{@post_slug}/#{@image_filename}"
+  end
+end

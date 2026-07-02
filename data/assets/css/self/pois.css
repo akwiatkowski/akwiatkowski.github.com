@@ -1,0 +1,386 @@
+/* POIs Page - Interactive Map with Side Panel */
+
+:root {
+  --poi-bg: #f8fafc;
+  --poi-card: #fff;
+  --poi-text: #1e293b;
+  --poi-muted: #64748b;
+  --poi-visited: #10b981;
+  --poi-todo: #f59e0b;
+  --poi-accent: #6366f1;
+  --poi-auto: #3b82f6;
+  --poi-border: #e2e8f0;
+  --poi-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --poi-bg: #0f172a;
+    --poi-card: #1e293b;
+    --poi-text: #f1f5f9;
+    --poi-muted: #94a3b8;
+    --poi-visited: #34d399;
+    --poi-todo: #fbbf24;
+    --poi-accent: #818cf8;
+    --poi-auto: #60a5fa;
+    --poi-border: #334155;
+    --poi-shadow: 0 4px 24px rgba(0,0,0,0.3);
+  }
+}
+
+/* ==================== LAYOUT ==================== */
+
+.pois-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  height: calc(100vh - 56px);
+  position: relative;
+  overflow: hidden;
+  background: var(--poi-bg);
+}
+
+.poi-map {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.poi-map .leaflet-control-attribution {
+  display: none;
+}
+
+/* ==================== MARKERS ==================== */
+
+.poi-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.poi-marker--visited {
+  background: var(--poi-visited);
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.4);
+}
+
+.poi-marker--todo {
+  background: var(--poi-todo);
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4);
+  animation: poi-pulse-todo 2s ease-in-out infinite;
+}
+
+.poi-marker--auto {
+  background: var(--poi-auto);
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.4);
+}
+
+.poi-marker--active {
+  transform: scale(1.3);
+  z-index: 1000 !important;
+}
+
+.poi-marker--visited.poi-marker--active {
+  box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.3), 0 2px 12px rgba(16, 185, 129, 0.5);
+}
+
+.poi-marker--todo.poi-marker--active {
+  box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.3), 0 2px 12px rgba(245, 158, 11, 0.5);
+  animation: none;
+}
+
+.poi-marker--auto.poi-marker--active {
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.3), 0 2px 12px rgba(59, 130, 246, 0.5);
+}
+
+@keyframes poi-pulse-todo {
+  0%, 100% { box-shadow: 0 2px 8px rgba(245, 158, 11, 0.4); }
+  50% { box-shadow: 0 2px 16px rgba(245, 158, 11, 0.7), 0 0 0 6px rgba(245, 158, 11, 0.15); }
+}
+
+@keyframes poi-fadein {
+  from { opacity: 0; transform: scale(0.5); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.poi-marker-enter {
+  animation: poi-fadein 0.3s ease forwards;
+}
+
+/* ==================== PANEL ==================== */
+
+.poi-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 380px;
+  height: 100%;
+  background: var(--poi-card);
+  z-index: 1000;
+  transform: translateX(100%);
+  transition: transform 0.25s ease-out;
+  overflow-y: auto;
+  box-shadow: -4px 0 24px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.poi-panel--open {
+  transform: translateX(0);
+}
+
+.poi-panel-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: background 0.2s;
+}
+
+.poi-panel-close:hover {
+  background: rgba(0,0,0,0.6);
+}
+
+/* ==================== CARD ==================== */
+
+.poi-card-photo {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+}
+
+.poi-card-minimap {
+  width: 100%;
+  height: 200px;
+  background: var(--poi-bg);
+}
+
+.poi-card-minimap .leaflet-control-attribution,
+.poi-card-minimap .leaflet-control-zoom {
+  display: none;
+}
+
+.poi-card-body {
+  padding: 20px 24px;
+  flex: 1;
+}
+
+.poi-card-name {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--poi-text);
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.poi-card-post-title {
+  font-size: 15px;
+  color: var(--poi-accent);
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.poi-card-meta {
+  font-size: 13px;
+  color: var(--poi-muted);
+  margin-bottom: 16px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.poi-card-meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.poi-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  background: var(--poi-accent);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.poi-card-link:hover {
+  background: var(--poi-visited);
+  transform: translateY(-1px);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ==================== TODO CARD ==================== */
+
+.poi-card-station {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  background: var(--poi-bg);
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.poi-card-station-icon {
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.poi-card-station-info {
+  flex: 1;
+}
+
+.poi-card-station-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--poi-text);
+}
+
+.poi-card-station-time {
+  font-size: 12px;
+  color: var(--poi-muted);
+}
+
+.poi-card-idea {
+  padding: 12px 16px;
+  background: var(--poi-bg);
+  border-radius: 8px;
+  border-left: 3px solid var(--poi-accent);
+}
+
+.poi-card-idea-label {
+  font-size: 12px;
+  color: var(--poi-muted);
+  margin-bottom: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.poi-card-idea-route {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--poi-text);
+  margin-bottom: 2px;
+}
+
+.poi-card-idea-meta {
+  font-size: 12px;
+  color: var(--poi-muted);
+}
+
+/* ==================== LEGEND ==================== */
+
+.poi-legend {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  z-index: 500;
+  background: var(--poi-card);
+  border-radius: 10px;
+  padding: 10px 16px;
+  box-shadow: var(--poi-shadow);
+  display: flex;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--poi-text);
+}
+
+.poi-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.poi-legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.poi-legend-dot--visited {
+  background: var(--poi-visited);
+}
+
+.poi-legend-dot--todo {
+  background: var(--poi-todo);
+}
+
+.poi-legend-dot--auto {
+  background: var(--poi-auto);
+}
+
+/* ==================== MOBILE ==================== */
+
+@media (max-width: 768px) {
+  .poi-panel {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 55vh;
+    transform: translateY(100%);
+    border-radius: 16px 16px 0 0;
+    box-shadow: 0 -4px 24px rgba(0,0,0,0.15);
+  }
+
+  .poi-panel--open {
+    transform: translateY(0);
+  }
+
+  .poi-panel-handle {
+    display: block;
+    width: 40px;
+    height: 4px;
+    background: var(--poi-border);
+    border-radius: 2px;
+    margin: 10px auto 0;
+  }
+
+  .poi-legend {
+    bottom: 12px;
+    left: 12px;
+    padding: 8px 12px;
+    font-size: 12px;
+    gap: 12px;
+  }
+}
+
+@media (min-width: 769px) {
+  .poi-panel-handle {
+    display: none;
+  }
+}
+
+/* ==================== NAVBAR OVERRIDE ==================== */
+
+.navbar {
+  position: relative;
+  z-index: 1100;
+}

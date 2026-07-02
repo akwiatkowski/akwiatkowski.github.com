@@ -3,6 +3,7 @@ layout:                 post
 title:                  "Do Milicza trasą dawnej kolei wąskotorowej"
 subtitle:               "oraz pętelka wokół Stawów Milickich"
 date:                   2015-07-26 21:00:00
+finished_at:            2015-12-31 23:59:59
 author:                 "Aleksander Kwiatkowski"
 header_timeline:        true
 categories:             trip

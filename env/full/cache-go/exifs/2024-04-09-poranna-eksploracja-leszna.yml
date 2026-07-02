@@ -1,0 +1,688 @@
+---
+- image_filename: 2024_04_09__07_44_P4090022.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.90645833333333
+  lon: 16.635749999999998
+  altitude: 99
+  focal_length: 12
+  focal_length_35: 24
+  crop: 2
+  aperture: 5.6
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-04-09T07:44:27+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__07_44_P4090024.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.90645833333333
+  lon: 16.635749999999998
+  altitude: 98
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 250
+  width: 5208
+  height: 3912
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-04-09T07:44:55+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_12_P4090027.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.906277777777774
+  lon: 16.700916666666664
+  altitude: 75
+  focal_length: 50
+  focal_length_35: 100
+  crop: 2
+  aperture: 5.6
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-04-09T08:12:17+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_20_P4090035.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91161111111111
+  lon: 16.726930555555555
+  altitude: 80
+  focal_length: 100
+  focal_length_35: 200
+  crop: 2
+  aperture: 4.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-04-09T08:20:00+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_28_DJI_0179.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.90780275
+  lon: 16.628986266666665
+  altitude: 207.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T08:28:37+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_29_DJI_0184.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.909777133333336
+  lon: 16.629928183333334
+  altitude: 206.5
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 130
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T08:29:49+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_31_DJI_0190.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.90641373333333
+  lon: 16.62423606666667
+  altitude: 208.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0006666666666666666
+  exposure_string: 1/1500 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T08:31:39+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_34_DJI_0195.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.906723066666665
+  lon: 16.633865433333334
+  altitude: 209.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T08:34:16+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_34_DJI_0197.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.906722466666665
+  lon: 16.633861966666668
+  altitude: 209
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0008
+  exposure_string: 1/1250 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T08:34:32+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__08_44_P4090041.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.92638888888889
+  lon: 16.763513888888887
+  altitude: 75
+  focal_length: 47
+  focal_length_35: 94
+  crop: 2
+  aperture: 5
+  exposure: 0.008
+  exposure_string: 1/125 s
+  iso: 200
+  width: 8168
+  height: 6132
+  lens: OLYMPUS M.12-100mm F4.0
+  camera: OM-1
+  lens_name: M.12-100mm F4.0
+  camera_name: OM-1
+  time: "2024-04-09T08:44:10+01:00"
+  make: OM Digital Solutions
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.6.1
+  timezone_offset: "+01:00"
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 12
+  lens_max_focal: 100
+  lens_min_fstop: 4
+  lens_max_fstop: 4
+  lens_spec_str: 12-100mm f/4.0
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_24_DJI_0204.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.9120763
+  lon: 16.726842433333335
+  altitude: 195.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 120
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:24:05+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_24_DJI_0206.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91207825
+  lon: 16.726842816666668
+  altitude: 195.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:24:24+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_24_DJI_0208.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91207468333333
+  lon: 16.726842883333333
+  altitude: 195.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 110
+  width: 5991
+  height: 8018
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:24:54+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_26_DJI_0211.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91234313333333
+  lon: 16.7302439
+  altitude: 195.4
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.000625
+  exposure_string: 1/1600 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:26:03+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_28_DJI_0220.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91101343333333
+  lon: 16.72537863333333
+  altitude: 200
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 110
+  width: 7843
+  height: 5728
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:28:32+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_29_DJI_0224.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.91154565
+  lon: 16.725284183333333
+  altitude: 198.3
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.001379310344827586
+  exposure_string: 1/725 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:29:24+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_58_DJI_0230.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.9437788
+  lon: 16.77716115
+  altitude: 235.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003125
+  exposure_string: 1/3200 s
+  iso: 200
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:58:17+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__09_58_DJI_0233.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.94377873333333
+  lon: 16.7771468
+  altitude: 233.2
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0005
+  exposure_string: 1/2000 s
+  iso: 100
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T09:58:43+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__10_01_DJI_0242.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.94369771666667
+  lon: 16.77056796666667
+  altitude: 238.9
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 110
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T10:01:31+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__10_01_DJI_0244.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.943697
+  lon: 16.7705668
+  altitude: 238.7
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0004
+  exposure_string: 1/2500 s
+  iso: 130
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T10:01:52+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84
+- image_filename: 2024_04_09__10_03_DJI_0249.jpg
+  post_slug: 2024-04-09-poranna-eksploracja-leszna
+  lat: 51.94145006666667
+  lon: 16.7735829
+  altitude: 238.8
+  focal_length: 6.72
+  focal_length_35: 24
+  crop: 3.6
+  aperture: 1.7
+  exposure: 0.0003333333333333333
+  exposure_string: 1/3000 s
+  iso: 200
+  width: 8018
+  height: 5991
+  camera: FC3582
+  camera_name: FC3582
+  time: "2024-04-09T10:03:37+00:00"
+  make: DJI
+  white_balance: auto
+  metering_mode: average
+  flash: not fired
+  orientation: 1
+  color_space: sRGB
+  software: darktable 4.4.2
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 6.72
+  lens_max_focal: 6.72
+  lens_min_fstop: 1.7
+  lens_max_fstop: 1.7
+  lens_spec_str: 6.72mm f/1.7
+  gps_map_datum: WGS-84

@@ -1,0 +1,714 @@
+---
+- image_filename: 2018_11_29__18_35__B295365.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.354305555555555
+  lon: 18.650180555555554
+  altitude: 28
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:35:36+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_35__B295366.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35427777777778
+  lon: 18.650152777777777
+  altitude: 28
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.125
+  exposure_string: 1/8 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:35:48+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_36__B295370.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35395833333334
+  lon: 18.650527777777775
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:36:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: program
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_41__B295377.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.351125
+  lon: 18.65011111111111
+  altitude: 27
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 3.5
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:41:35+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_43__B295378.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35076388888889
+  lon: 18.65123611111111
+  altitude: 25
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.2
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:43:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_45__B295384.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.350375
+  lon: 18.653444444444442
+  altitude: 24
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.8
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:45:26+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_46__B295385.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35033333333333
+  lon: 18.654027777777777
+  altitude: 24
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:46:02+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_46__B295388.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35013888888889
+  lon: 18.654041666666664
+  altitude: 23
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.8
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:46:46+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_47__B295390_01.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.34988888888889
+  lon: 18.653958333333332
+  altitude: 23
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.6
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:47:29+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_48__B295394.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.34986111111111
+  lon: 18.65423611111111
+  altitude: 23
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.6
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:48:13+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_48__B295395.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.349875000000004
+  lon: 18.65436111111111
+  altitude: 23
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:48:27+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_48__B295396.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.349875000000004
+  lon: 18.654402777777776
+  altitude: 23
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:48:32+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_53__B295410.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.34986111111111
+  lon: 18.651708333333332
+  altitude: 24
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 3.2
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:53:06+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_53__B295411.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.34990277777778
+  lon: 18.65158333333333
+  altitude: 24
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:53:22+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_54__B295416.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35019444444445
+  lon: 18.650791666666667
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.8
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:54:42+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_54__B295417.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.350208333333335
+  lon: 18.650736111111108
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.8
+  exposure: 0.625
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:54:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_55__B295420_01.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35040277777778
+  lon: 18.650277777777777
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.00625
+  exposure_string: 1/160 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:55:53+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_55__B295421_01.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35040277777778
+  lon: 18.650277777777777
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:55:59+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_56__B295425.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.350375
+  lon: 18.650277777777777
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.2
+  exposure: 0.025
+  exposure_string: 1/40 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:56:23+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__18_57__B295430.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35047222222222
+  lon: 18.650027777777776
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T18:57:17+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__19_04__B295439_01.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.353680555555556
+  lon: 18.648652777777777
+  altitude: 27
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 1.6
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T19:04:03+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__19_04__B295441.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35373611111111
+  lon: 18.64863888888889
+  altitude: 27
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T19:04:24+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84
+- image_filename: 2018_11_29__19_05__B295444.jpg
+  post_slug: 2018-11-29-gdansk-wieczorem
+  lat: 54.35443055555556
+  lon: 18.648166666666665
+  altitude: 26
+  focal_length: 25
+  focal_length_35: 50
+  crop: 2
+  aperture: 2.5
+  exposure: 0.5
+  exposure_string: 1/2 s
+  iso: 200
+  lens: OLYMPUS M.25mm F1.2
+  camera: E-M1MarkII
+  lens_name: M.25mm F1.2
+  camera_name: E-M1MarkII
+  time: "2018-11-29T19:05:43+00:00"
+  make: OLYMPUS CORPORATION
+  white_balance: manual
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: darktable 2.4.4
+  exposure_program: shutter_priority
+  exposure_bias: 0
+  lens_min_focal: 25
+  lens_max_focal: 25
+  lens_min_fstop: 1.2
+  lens_max_fstop: 1.2
+  lens_spec_str: 25mm f/1.2
+  gps_map_datum: WGS-84

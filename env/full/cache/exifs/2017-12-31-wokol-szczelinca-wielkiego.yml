@@ -1,6 +1,9 @@
 ---
 - image_filename: IMGP4098raw1.jpg
   post_slug: 2017-12-31-wokol-szczelinca-wielkiego
+  lat: 50.49144722222222
+  lon: 16.32742222222222
+  altitude: 664.1
   focal_length: 10.0
   focal_length_35: 15.0
   crop: 1.5

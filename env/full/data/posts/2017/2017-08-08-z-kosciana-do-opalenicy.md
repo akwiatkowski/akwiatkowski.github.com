@@ -20,6 +20,7 @@ map_zooms:              11
 distance:               39
 time_spent:             3
 elevation:              78
+terrain:                2.0 # m/km przewyższeń — płaski
 
 pois:
   - lat: 52.19763

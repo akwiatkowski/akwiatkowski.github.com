@@ -4,7 +4,7 @@
   total_distance_km: 97.567
   points_count: 547.0
   towns:
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
     distance_meters: 35011.29
@@ -16,13 +16,13 @@
     distance_meters: 29410.85
     distance_km: 29.411
     distance_percent: 30.1444
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
     distance_meters: 20248.31
     distance_km: 20.248
     distance_percent: 20.7533
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-miejska
     name: Szczecinek
     code: "3215011"
     distance_meters: 13488.4
@@ -34,7 +34,7 @@
     distance_meters: 12228.0
     distance_km: 12.228
     distance_percent: 12.533
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-miejska
     name: Białogard
     code: "3201011"
     distance_meters: 5561.41
@@ -126,9 +126,12 @@
     distance_km: 97.567
     distance_percent: 100.0
   touched_towns:
-  - slug: bialogard
+  - slug: bialogard-zachodniopomorskie-wiejska
     name: Białogard
     code: "3201022"
+  - slug: bialogard-zachodniopomorskie-miejska
+    name: Białogard
+    code: "3201011"
   - slug: swieszyno
     name: Świeszyno
     code: "3209082"
@@ -138,9 +141,12 @@
   - slug: bobolice
     name: Bobolice
     code: "3209033"
-  - slug: szczecinek
+  - slug: szczecinek-zachodniopomorskie-wiejska
     name: Szczecinek
     code: "3215062"
+  - slug: szczecinek-zachodniopomorskie-miejska
+    name: Szczecinek
+    code: "3215011"
   touched_counties:
   - slug: bialogardzki
     name: białogardzki

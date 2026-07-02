@@ -1,0 +1,515 @@
+---
+- image_filename: IMGP6711pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 150
+  focal_length_35: 225
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.003125
+  exposure_string: 1/320 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T07:50:38+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+- image_filename: IMGP6713pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 270
+  focal_length_35: 405
+  crop: 1.5
+  aperture: 9
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T07:51:24+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6809raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 150
+  focal_length_35: 225
+  crop: 1.5
+  aperture: 8
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T08:06:44+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+- image_filename: IMGP6836raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 170
+  focal_length_35: 255
+  crop: 1.5
+  aperture: 14
+  exposure: 0.04
+  exposure_string: 1/25 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T08:11:53+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: shutter_priority
+  exposure_bias: 0
+- image_filename: IMGP6881raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.58124778221335
+  lon: 20.011718301110335
+  altitude: 860.52
+  focal_length: 50
+  focal_length_35: 75
+  crop: 1.5
+  aperture: 2.8
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T10:14:02+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP6907raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.55939733425255
+  lon: 20.043616136489273
+  altitude: 1002.31
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T11:25:33+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6918raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.559362884599516
+  lon: 20.052895657726694
+  altitude: 1012.89
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T11:36:50+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6921raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.55935617909576
+  lon: 20.05350175306787
+  altitude: 1010.48
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 11
+  exposure: 0.01
+  exposure_string: 1/100 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T11:37:51+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP6992raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.5431310777375
+  lon: 20.110957603906158
+  altitude: 1302.24
+  focal_length: 15
+  focal_length_35: 22
+  crop: 1.5
+  aperture: 9
+  exposure: 0.016666666666666666
+  exposure_string: 1/60 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T13:23:49+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7001pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.5433785113616
+  lon: 20.118383383383385
+  altitude: 1272.92
+  focal_length: 340
+  focal_length_35: 510
+  crop: 1.5
+  aperture: 10
+  exposure: 0.00125
+  exposure_string: 1/800 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T13:38:00+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7013pano_raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.5433529465426
+  lon: 20.1184345129855
+  altitude: 1272.92
+  focal_length: 270
+  focal_length_35: 405
+  crop: 1.5
+  aperture: 8
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T13:38:34+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7035raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54349879178413
+  lon: 20.118716815503312
+  altitude: 1272.92
+  focal_length: 230
+  focal_length_35: 345
+  crop: 1.5
+  aperture: 9
+  exposure: 0.0015625
+  exposure_string: 1/640 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T13:42:04+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: 0
+  gps_map_datum: WGS-84
+- image_filename: IMGP7048raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.542845422366206
+  lon: 20.111214341539664
+  altitude: 1304.65
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5.6
+  exposure: 0.004
+  exposure_string: 1/250 s
+  iso: 200
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T14:53:27+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7058raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54349745060548
+  lon: 20.110463826009767
+  altitude: 1296.96
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 5
+  exposure: 0.0025
+  exposure_string: 1/400 s
+  iso: 400
+  width: 4553
+  height: 3035
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T14:56:34+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.3
+  gps_map_datum: WGS-84
+- image_filename: IMGP7093raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54803046761845
+  lon: 20.103092445103005
+  altitude: 1181.6
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.002
+  exposure_string: 1/500 s
+  iso: 400
+  width: 3876
+  height: 2584
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T15:19:54+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7095raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.54920980147594
+  lon: 20.098932758000718
+  altitude: 1175.35
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 400
+  width: 4079
+  height: 2719
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T15:24:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: aperture_priority
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7102raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  lat: 49.55795455721084
+  lon: 20.07891149263092
+  altitude: 1086.91
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 3.5
+  exposure: 0.005
+  exposure_string: 1/200 s
+  iso: 800
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T15:53:40+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: program
+  exposure_bias: -0.7
+  gps_map_datum: WGS-84
+- image_filename: IMGP7117raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 20
+  exposure_string: 20.0 s
+  iso: 800
+  width: 4376
+  height: 2917
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T23:59:20+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP7121raw2.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 9
+  exposure: 30
+  exposure_string: 30.0 s
+  iso: 400
+  width: 3871
+  height: 2581
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T00:01:48+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: IMGP7136raw1.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 9
+  exposure: 0.2
+  exposure_string: 1/5 s
+  iso: 400
+  width: 4942
+  height: 3276
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2016-01-01T00:12:45+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0
+- image_filename: header.jpg
+  post_slug: 2015-12-31-przechadzka-na-turbacz
+  focal_length: 70
+  focal_length_35: 105
+  crop: 1.5
+  aperture: 7.1
+  exposure: 20
+  exposure_string: 20.0 s
+  iso: 800
+  width: 2048
+  height: 1365
+  camera: PENTAX K-5
+  camera_name: PENTAX K-5
+  time: "2015-12-31T23:59:47+00:00"
+  make: PENTAX
+  white_balance: auto
+  metering_mode: evaluative
+  flash: not fired
+  orientation: 1
+  software: RawTherapee
+  exposure_program: manual
+  exposure_bias: 0

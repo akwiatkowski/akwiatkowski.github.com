@@ -11,7 +11,8 @@ categories:             trip
 image_filename:         2025_05_11__11_12_P5110538.jpg
 #image_position:         50% 70%
 tags:                   [hike, todo]
-towns:                  [niemcy]
+towns:                  []
+foreign:                [niemcy]
 
 coords:                 [{"route": [], "type": "hike"}]
 #coords_file:            "2019-06-08-kaszubskie-pagorki-i-pomorskie-lasy.json"

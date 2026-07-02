@@ -1,0 +1,60 @@
+---
+- type: car
+  total_distance_meters: 16991.57
+  total_distance_km: 16.992
+  points_count: 199
+  towns:
+    - slug: olszanica
+      name: Olszanica
+      code: "1821042"
+      distance_meters: 16991.57
+      distance_km: 16.992
+      distance_percent: 100
+  counties:
+    - slug: leski
+      name: leski
+      code: "1821"
+      distance_meters: 16991.57
+      distance_km: 16.992
+      distance_percent: 100
+  voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+      distance_meters: 16991.57
+      distance_km: 16.992
+      distance_percent: 100
+  meso_regions:
+    - slug: gory_sanocko-turczanskie
+      name: Góry Sanocko-Turczańskie
+      code: "522.11"
+      distance_meters: 16991.57
+      distance_km: 16.992
+      distance_percent: 100
+  macro_regions:
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"
+      distance_meters: 16991.57
+      distance_km: 16.992
+      distance_percent: 100
+  touched_towns:
+    - slug: olszanica
+      name: Olszanica
+      code: "1821042"
+  touched_counties:
+    - slug: leski
+      name: leski
+      code: "1821"
+  touched_voivodeships:
+    - slug: podkarpackie
+      name: podkarpackie
+      code: "18"
+  touched_meso_regions:
+    - slug: gory_sanocko-turczanskie
+      name: Góry Sanocko-Turczańskie
+      code: "522.11"
+  touched_macro_regions:
+    - slug: beskidy_lesiste
+      name: Beskidy Lesiste
+      code: "522"

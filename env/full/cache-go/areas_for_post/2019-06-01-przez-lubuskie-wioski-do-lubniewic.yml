@@ -1,0 +1,105 @@
+---
+- type: bicycle
+  total_distance_meters: 45351.83
+  total_distance_km: 45.352
+  points_count: 242
+  towns:
+    - slug: sulecin
+      name: Sulęcin
+      code: "0807043"
+      distance_meters: 15689.32
+      distance_km: 15.689
+      distance_percent: 34.5947
+    - slug: osno_lubuskie
+      name: Ośno Lubuskie
+      code: "0805033"
+      distance_meters: 14568.5
+      distance_km: 14.569
+      distance_percent: 32.1233
+    - slug: rzepin
+      name: Rzepin
+      code: "0805043"
+      distance_meters: 8446.67
+      distance_km: 8.447
+      distance_percent: 18.6248
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+      distance_meters: 6647.35
+      distance_km: 6.647
+      distance_percent: 14.6573
+  counties:
+    - slug: slubicki
+      name: słubicki
+      code: "0805"
+      distance_meters: 23015.17
+      distance_km: 23.015
+      distance_percent: 50.748
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+      distance_meters: 22336.66
+      distance_km: 22.337
+      distance_percent: 49.252
+  voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+      distance_meters: 45351.83
+      distance_km: 45.352
+      distance_percent: 100
+  meso_regions:
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+      distance_meters: 43203.29
+      distance_km: 43.203
+      distance_percent: 95.2625
+    - slug: rownina_torzymska
+      name: Równina Torzymska
+      code: "315.43"
+      distance_meters: 2148.55
+      distance_km: 2.149
+      distance_percent: 4.7375
+  macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316
+      distance_meters: 45351.83
+      distance_km: 45.352
+      distance_percent: 100
+  touched_towns:
+    - slug: lubniewice
+      name: Lubniewice
+      code: "0807023"
+    - slug: osno_lubuskie
+      name: Ośno Lubuskie
+      code: "0805033"
+    - slug: rzepin
+      name: Rzepin
+      code: "0805043"
+    - slug: sulecin
+      name: Sulęcin
+      code: "0807043"
+  touched_counties:
+    - slug: slubicki
+      name: słubicki
+      code: "0805"
+    - slug: sulecinski
+      name: sulęciński
+      code: "0807"
+  touched_voivodeships:
+    - slug: lubuskie
+      name: lubuskie
+      code: "08"
+  touched_meso_regions:
+    - slug: pojezierze_lagowskie
+      name: Pojezierze Łagowskie
+      code: "315.42"
+    - slug: rownina_torzymska
+      name: Równina Torzymska
+      code: "315.43"
+  touched_macro_regions:
+    - slug: pojezierze_lubuskie_brandenbursko-lubuskie
+      name: Pojezierze Lubuskie (Brandenbursko-Lubuskie)
+      code: 314-316

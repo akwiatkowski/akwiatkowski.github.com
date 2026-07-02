@@ -127,6 +127,9 @@
   time: 2017-07-30 11:47:24.000000000+02:00
 - image_filename: header.jpg
   post_slug: 2017-07-30-powrot-przez-pieklo
+  lat: 49.78607777777778
+  lon: 21.686097222222223
+  altitude: 255.1
   focal_length: 15.0
   focal_length_35: 22.0
   crop: 1.4666666666666666

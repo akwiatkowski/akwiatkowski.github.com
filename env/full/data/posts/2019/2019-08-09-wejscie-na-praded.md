@@ -12,7 +12,8 @@ image_filename:         2019_08_09__14_18__8097585.jpg
 # 2019_08_09__14_18__8097585
 # 2019_08_09__14_13__8097552
 tags:                   [hike, mountains, main]
-towns:                  [czechy, czechy_kraj_olomucki]
+towns:                  []
+foreign:                [czechy_kraj_olomucki]
 
 coords:                 [{"route": [[50.07029,17.24091], [50.07734,17.21963], [50.08340,17.22169], [50.08395,17.23370]], "type": "hike"}]
 coords_file:            "2019-08-09-wejscie-na-praded.json"
@@ -21,6 +22,7 @@ map_zooms:              16
 distance:               9
 time_spent:             2
 elevation:              215
+terrain:                23.9 # m/km przewyższeń — pagórkowaty
 temperature:
 
 pois:

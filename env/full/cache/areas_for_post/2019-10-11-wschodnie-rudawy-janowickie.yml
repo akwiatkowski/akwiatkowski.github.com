@@ -10,7 +10,7 @@
     distance_meters: 6685.13
     distance_km: 6.685
     distance_percent: 62.9091
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
     distance_meters: 3890.64
@@ -84,7 +84,7 @@
     distance_km: 10.627
     distance_percent: 100.0
   touched_towns:
-  - slug: kamienna_gora
+  - slug: kamienna_gora-dolnoslaskie-wiejska
     name: Kamienna Góra
     code: "0207022"
   - slug: marciszow
