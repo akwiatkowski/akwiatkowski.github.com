@@ -8,7 +8,7 @@ import (
 // Context holds configuration and shared state for a pipeline run.
 type Context struct {
 	Env      string // "dev" or "full"
-	Target   string // "go"
+	Target   string // "local" or "release" (build flavor; also the public/ subdir)
 	BasePath string // project root
 	Force    bool
 	DryRun   bool
@@ -65,9 +65,30 @@ func (c *Context) CacheDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "cache-go")
 }
 
-// OutputDir returns the path to the build output directory.
+// OutputDir returns the path to the build output directory. Engine-agnostic:
+// keyed only by ENV and TARGET so both engines write the same tree.
 func (c *Context) OutputDir() string {
 	return filepath.Join(c.BasePath, "env", c.Env, "public", c.Target)
+}
+
+// IsRelease reports whether this is a release build (drafts hidden, not-ready
+// post bodies blanked). Anything other than "release" is treated as local.
+func (c *Context) IsRelease() bool {
+	return c.Target == "release"
+}
+
+// ManifestPath returns the per-engine, per-target render manifest path. Scoped
+// by target so switching local<->release never reuses the other's staleness map.
+func (c *Context) ManifestPath() string {
+	return filepath.Join(c.CacheDir(), "manifest", c.Target+".json")
+}
+
+// EngineMarkerPath returns the path of the marker file recording which engine
+// last wrote OutputDir. When it disagrees with the current engine, the caller
+// forces a full render so the shared output dir ends up wholly owned by one
+// engine (bytes may be rewritten identically — that is acceptable).
+func (c *Context) EngineMarkerPath() string {
+	return filepath.Join(c.OutputDir(), ".engine")
 }
 
 // ConfigDir returns the path to shared config files.

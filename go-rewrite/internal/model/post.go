@@ -64,6 +64,14 @@ func (p *Post) IsFinished() bool {
 	return p.FinishedAt.Before(time.Now())
 }
 
+// IsReady reports whether the post is publish-ready (not a work-in-progress
+// draft). Mirrors Crystal's Post#ready? (== !todo?): a post tagged "todo" is
+// still being written. In the release TARGET, not-ready posts have their body
+// blanked and are excluded from the sitemap; in local they render normally.
+func (p *Post) IsReady() bool {
+	return !p.HasTag("todo")
+}
+
 // Year returns the post's year.
 func (p *Post) Year() int {
 	return p.Date.Year()

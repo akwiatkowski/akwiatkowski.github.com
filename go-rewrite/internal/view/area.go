@@ -93,7 +93,7 @@ func AreaGalleryPage(
 	title := fmt.Sprintf("Galeria: %s", area.Name)
 	posts := data.PostsForArea(area.Type, area.Slug)
 	photos := collectPhotosFromPosts(posts)
-	return galleryPage(data, r, resolver, url, title, photos)
+	return galleryPage(data, r, resolver, url, title, photos, true)
 }
 
 // areaShowMeta carries page-level summary data derived while building the

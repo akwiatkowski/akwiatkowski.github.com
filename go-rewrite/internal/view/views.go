@@ -15,6 +15,7 @@ func GenerateAllViews(
 	resolver *bundle.Resolver,
 	polygonDir string,
 	pagesDir string,
+	release bool,
 ) []Renderable {
 	var all []Renderable
 
@@ -27,7 +28,7 @@ func GenerateAllViews(
 			continue
 		}
 		all = append(all,
-			PostArticlePage(data, post, r, resolver),
+			PostArticlePage(data, post, r, resolver, release),
 			PostGalleryPage(data, post, r, resolver),
 		)
 	}

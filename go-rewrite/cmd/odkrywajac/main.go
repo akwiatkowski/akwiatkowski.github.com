@@ -69,7 +69,7 @@ func addFlags(fs *flag.FlagSet) *pipeline.Context {
 		Workers: runtime.NumCPU(),
 	}
 	fs.StringVar(&ctx.Env, "env", "dev", "Environment (dev or full)")
-	fs.StringVar(&ctx.Target, "target", "go", "Build target directory name")
+	fs.StringVar(&ctx.Target, "target", "local", "Build target/flavor (local or release)")
 	fs.StringVar(&ctx.BasePath, "base", ".", "Project root path")
 	fs.BoolVar(&ctx.Force, "force", false, "Force rebuild all nodes")
 	fs.BoolVar(&ctx.DryRun, "dry-run", false, "Check staleness without executing")
@@ -88,7 +88,14 @@ func printUsage() {
 	fmt.Fprintln(os.Stderr, "  missing-posts List Strava activities without blog posts")
 }
 
+// engineName identifies this renderer in the output dir's .engine marker.
+const engineName = "go"
+
 func runBuild(ctx *pipeline.Context) {
+	if ctx.Target != "local" && ctx.Target != "release" {
+		fmt.Fprintf(os.Stderr, "Invalid --target %q (want local or release)\n", ctx.Target)
+		os.Exit(1)
+	}
 	if ctx.Verbose {
 		fmt.Printf("Building with env=%s target=%s workers=%d\n", ctx.Env, ctx.Target, ctx.Workers)
 	}
@@ -312,7 +319,7 @@ func runBuild(ctx *pipeline.Context) {
 	// --- View generation and rendering ---
 
 	pipe.Add("generateViews", []string{"buildSiteData", "createRouter", "copyAssets", "processImages", "precomputeVersions", "generatePolygons"}, func(ctx *pipeline.Context) error {
-		views = view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, ctx.PagesDir())
+		views = view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, ctx.PagesDir(), ctx.IsRelease())
 		fmt.Printf("Views generated: %d\n", len(views))
 		return nil
 	})
@@ -321,11 +328,22 @@ func runBuild(ctx *pipeline.Context) {
 		if ctx.DryRun {
 			return nil
 		}
-		manifestPath := filepath.Join(ctx.CacheDir(), "build_manifest.json")
+		// If another engine last wrote this output dir, the per-engine manifest
+		// is not a valid staleness map for it — force a full render so the dir
+		// ends up wholly owned by this engine. (Bytes may be rewritten identically.)
+		force := ctx.Force || engineMarkerMismatch(ctx)
+
+		manifestPath := ctx.ManifestPath()
 		manifest := render.LoadManifest(manifestPath, ctx.Env, ctx.Target)
+		if force {
+			manifest = render.NewManifest(ctx.Env, ctx.Target)
+		}
 		renderRes = render.Render(views, ctx.OutputDir(), manifest, ctx.Workers)
 		if err := manifest.Save(manifestPath); err != nil {
 			fmt.Fprintf(os.Stderr, "Warning: could not save manifest: %v\n", err)
+		}
+		if err := writeEngineMarker(ctx); err != nil {
+			fmt.Fprintf(os.Stderr, "Warning: could not write engine marker: %v\n", err)
 		}
 		return nil
 	})
@@ -366,6 +384,32 @@ func runBuild(ctx *pipeline.Context) {
 	}
 
 	fmt.Printf("\nTotal: %v\n", time.Since(start))
+}
+
+// engineMarkerMismatch reports whether OutputDir was last written by a different
+// engine (or a legacy build with no marker), which invalidates our per-engine
+// manifest for that dir. A missing marker on a non-empty dir counts as a
+// mismatch so the first Go render after a Crystal render rewrites everything.
+func engineMarkerMismatch(ctx *pipeline.Context) bool {
+	data, err := os.ReadFile(ctx.EngineMarkerPath())
+	if err != nil {
+		// No marker: mismatch only if the dir already has content (e.g. Crystal
+		// output). A fresh/empty dir is not a mismatch.
+		if entries, derr := os.ReadDir(ctx.OutputDir()); derr == nil && len(entries) > 0 {
+			return true
+		}
+		return false
+	}
+	return strings.TrimSpace(string(data)) != engineName
+}
+
+// writeEngineMarker stamps OutputDir with this engine's name so a later render
+// by the other engine knows to force a full rewrite.
+func writeEngineMarker(ctx *pipeline.Context) error {
+	if err := os.MkdirAll(ctx.OutputDir(), 0o755); err != nil {
+		return err
+	}
+	return os.WriteFile(ctx.EngineMarkerPath(), []byte(engineName+"\n"), 0o644)
 }
 
 func runPipeline(ctx *pipeline.Context) {

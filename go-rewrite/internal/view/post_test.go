@@ -53,7 +53,7 @@ func TestPostArticlePageURL(t *testing.T) {
 	r := router.New("https://odkrywajacpolske.pl")
 	post := data.PostBySlug("2021-07-18-pagorki")
 
-	page := PostArticlePage(data, post, r, nil)
+	page := PostArticlePage(data, post, r, nil, false)
 	if page.URL() != "/2021/07/18-pagorki.html" {
 		t.Errorf("URL() = %q", page.URL())
 	}
@@ -67,7 +67,7 @@ func TestPostArticlePageRender(t *testing.T) {
 	r := router.New("https://odkrywajacpolske.pl")
 	post := data.PostBySlug("2021-07-18-pagorki")
 
-	page := PostArticlePage(data, post, r, nil)
+	page := PostArticlePage(data, post, r, nil, false)
 	var buf bytes.Buffer
 	if err := page.Render(&buf); err != nil {
 		t.Fatal(err)
@@ -90,6 +90,62 @@ func TestPostArticlePageRender(t *testing.T) {
 		if !strings.Contains(html, check) {
 			t.Errorf("HTML missing %q", check)
 		}
+	}
+}
+
+// TestPostArticleReleaseHidesDrafts verifies the release TARGET behavior:
+// a not-ready (todo-tagged) post keeps its page shell but ships no body and is
+// excluded from the sitemap, while in local it renders fully. Ready posts are
+// unaffected by the target. Mirrors Crystal's hide_not_finished.
+func TestPostArticleReleaseHidesDrafts(t *testing.T) {
+	fin := time.Date(2021, 7, 19, 0, 0, 0, 0, time.UTC)
+	draft := &model.Post{
+		Slug:       "2021-07-18-draft",
+		Title:      "Draft Post",
+		Date:       time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC),
+		FinishedAt: &fin,
+		TagSlugs:   []string{"todo", "bicycle"},
+		Content:    "# Draft heading\n\nSecret **draft** body.",
+	}
+	ready := &model.Post{
+		Slug:       "2021-08-01-ready",
+		Title:      "Ready Post",
+		Date:       time.Date(2021, 8, 1, 0, 0, 0, 0, time.UTC),
+		FinishedAt: &fin,
+		TagSlugs:   []string{"bicycle"},
+		Content:    "Ready body text.",
+	}
+	cfg := model.SiteConfig{Title: "Odkrywając Polskę", URL: "https://odkrywajacpolske.pl"}
+	data := index.BuildSiteData([]*model.Post{draft, ready}, nil, nil, nil, cfg, nil, nil, nil)
+	r := router.New("https://odkrywajacpolske.pl")
+
+	render := func(post *model.Post, release bool) (string, bool) {
+		page := PostArticlePage(data, post, r, nil, release)
+		var buf bytes.Buffer
+		if err := page.Render(&buf); err != nil {
+			t.Fatal(err)
+		}
+		return buf.String(), page.AddToSitemap()
+	}
+
+	// Local: draft body present, in sitemap.
+	if html, inSitemap := render(draft, false); !strings.Contains(html, "draft</strong>") || !inSitemap {
+		t.Errorf("local draft: body present=%v inSitemap=%v (want both true)",
+			strings.Contains(html, "draft</strong>"), inSitemap)
+	}
+
+	// Release: draft body blanked, excluded from sitemap; shell (title) stays.
+	if html, inSitemap := render(draft, true); strings.Contains(html, "Secret") || inSitemap {
+		t.Errorf("release draft: leaked body=%v inSitemap=%v (want both false)",
+			strings.Contains(html, "Secret"), inSitemap)
+	} else if !strings.Contains(html, "Draft Post") {
+		t.Error("release draft: page shell (title) should remain")
+	}
+
+	// Release: ready post unaffected.
+	if html, inSitemap := render(ready, true); !strings.Contains(html, "Ready body") || !inSitemap {
+		t.Errorf("release ready: body present=%v inSitemap=%v (want both true)",
+			strings.Contains(html, "Ready body"), inSitemap)
 	}
 }
 
@@ -137,7 +193,7 @@ func TestPostArticleSvgMapRendered(t *testing.T) {
 		},
 	}}
 
-	page := PostArticlePage(data, post, r, nil)
+	page := PostArticlePage(data, post, r, nil, false)
 	var buf bytes.Buffer
 	if err := page.Render(&buf); err != nil {
 		t.Fatal(err)
@@ -171,7 +227,7 @@ func TestPostArticleNoSvgMapWithoutRoutes(t *testing.T) {
 	// Second post has no routes — should not have SVG map.
 	post := data.PostBySlug("2021-08-01-second-post")
 
-	page := PostArticlePage(data, post, r, nil)
+	page := PostArticlePage(data, post, r, nil, false)
 	var buf bytes.Buffer
 	if err := page.Render(&buf); err != nil {
 		t.Fatal(err)

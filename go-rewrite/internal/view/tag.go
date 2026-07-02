@@ -51,5 +51,5 @@ func TagGalleryPage(
 	allPhotos := allPublishedPhotos(data)
 	photos := photosForTag(allPhotos, tag.Slug)
 	title := fmt.Sprintf("Galeria: %s", tag.Name)
-	return galleryPage(data, r, resolver, url, title, photos)
+	return galleryPage(data, r, resolver, url, title, photos, true)
 }

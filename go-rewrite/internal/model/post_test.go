@@ -86,6 +86,15 @@ func TestPostIsFinished(t *testing.T) {
 	}
 }
 
+func TestPostIsReady(t *testing.T) {
+	if !(&Post{TagSlugs: []string{"bicycle"}}).IsReady() {
+		t.Error("post without todo tag should be ready")
+	}
+	if (&Post{TagSlugs: []string{"todo", "bicycle"}}).IsReady() {
+		t.Error("post tagged todo should not be ready")
+	}
+}
+
 func TestPostYear(t *testing.T) {
 	p := &Post{Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC)}
 	if p.Year() != 2021 {

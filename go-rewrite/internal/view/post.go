@@ -26,19 +26,31 @@ func PostArticlePage(
 	post *model.Post,
 	r *router.Router,
 	resolver *bundle.Resolver,
+	release bool,
 ) Renderable {
 	url := r.PostURL(post)
 
+	// In the release TARGET, not-ready (todo/draft) posts keep their page shell
+	// but ship no body and stay out of the sitemap — mirrors Crystal's
+	// hide_not_finished behavior. In local they render fully.
+	hideBody := release && !post.IsReady()
+
 	// Render markdown with custom extensions
-	renderCtx := &markdown.RenderContext{
-		Post:       post,
-		PostLookup: data,
-		URLBuilder: r,
-		TagLookup:  data,
-	}
-	renderedHTML, err := markdown.RenderPost(post.Content, renderCtx)
-	if err != nil {
-		renderedHTML = fmt.Sprintf("<p>Error rendering markdown: %s</p>", err)
+	var renderedHTML string
+	if hideBody {
+		renderedHTML = ""
+	} else {
+		renderCtx := &markdown.RenderContext{
+			Post:       post,
+			PostLookup: data,
+			URLBuilder: r,
+			TagLookup:  data,
+		}
+		var err error
+		renderedHTML, err = markdown.RenderPost(post.Content, renderCtx)
+		if err != nil {
+			renderedHTML = fmt.Sprintf("<p>Error rendering markdown: %s</p>", err)
+		}
 	}
 
 	// Hero header image
@@ -143,7 +155,7 @@ func PostArticlePage(
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
-	return NewHTMLPage(url, page, views.PostArticleContent(articleData), true)
+	return NewHTMLPage(url, page, views.PostArticleContent(articleData), !hideBody)
 }
 
 // PostGalleryPage creates a Renderable for a post gallery page.
@@ -156,7 +168,7 @@ func PostGalleryPage(
 ) Renderable {
 	url := r.PostGalleryURL(post)
 	title := fmt.Sprintf("Galeria: %s", post.Title)
-	return galleryPage(data, r, resolver, url, title, post.PublishedPhotos)
+	return galleryPage(data, r, resolver, url, title, post.PublishedPhotos, false)
 }
 
 // buildTagLinks creates tag links for a post.

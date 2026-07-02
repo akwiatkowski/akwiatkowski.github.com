@@ -176,12 +176,17 @@ func allPublishedPhotos(data *index.SiteData) []*model.Photo {
 
 // galleryPage creates a Renderable for a JS-powered gallery with lightbox.
 // It generates Crystal-compatible JSON config and includes the gallery JS scripts.
+// galleryPage builds a dynamic JS gallery page. inSitemap controls sitemap
+// membership: tag/area/EXIF galleries are listed (Crystal's abstract gallery
+// add_to_sitemap? == true), but post galleries are not (Crystal's post gallery
+// returns false) since the post article already represents that content.
 func galleryPage(
 	data *index.SiteData,
 	r *router.Router,
 	resolver *bundle.Resolver,
 	url, title string,
 	photos []*model.Photo,
+	inSitemap bool,
 ) Renderable {
 	cssFiles, jsFiles := resolveAssets(resolver, []string{"core", "react-runtime"}, []string{"gallery", "photo-lightbox"})
 
@@ -196,7 +201,7 @@ func galleryPage(
 	}
 
 	rawHTML := buildGalleryConfigHTML(title, photos, data, r)
-	return NewHTMLPage(url, page, views.GalleryDynamicContent(rawHTML), true)
+	return NewHTMLPage(url, page, views.GalleryDynamicContent(rawHTML), inSitemap)
 }
 
 // --- Tag Galleries ---
@@ -211,7 +216,7 @@ func TagPhotoGalleryPage(
 	url := r.TagGalleryURL(tag)
 	allPhotos := allPublishedPhotos(data)
 	photos := galleryFillPhotos(allPhotos, []string{tag.Slug}, false, 0)
-	return galleryPage(data, r, resolver, url, fmt.Sprintf("Galeria: %s", tag.Name), photos)
+	return galleryPage(data, r, resolver, url, fmt.Sprintf("Galeria: %s", tag.Name), photos, true)
 }
 
 // --- EXIF Galleries ---
@@ -227,7 +232,7 @@ func LensGalleryPage(
 	allPhotos := allPublishedPhotos(data)
 	filtered := photosForLens(allPhotos, lens)
 	photos := galleryFillPhotos(filtered, []string{"good", "best"}, true, 80)
-	return galleryPage(data, r, resolver, url, fmt.Sprintf("Obiektyw: %s", lens), photos)
+	return galleryPage(data, r, resolver, url, fmt.Sprintf("Obiektyw: %s", lens), photos, true)
 }
 
 // CameraGalleryPage creates gallery for a specific camera.
@@ -241,7 +246,7 @@ func CameraGalleryPage(
 	allPhotos := allPublishedPhotos(data)
 	filtered := photosForCamera(allPhotos, camera)
 	photos := galleryFillPhotos(filtered, []string{"good", "best"}, true, 80)
-	return galleryPage(data, r, resolver, url, fmt.Sprintf("Aparat: %s", camera), photos)
+	return galleryPage(data, r, resolver, url, fmt.Sprintf("Aparat: %s", camera), photos, true)
 }
 
 // FocalLengthGalleryPage creates gallery for a focal length range.
@@ -256,7 +261,7 @@ func FocalLengthGalleryPage(
 	filtered := photosInFocalRange(allPhotos, from, to)
 	photos := galleryFillPhotos(filtered, []string{"good", "best"}, true, 40)
 	title := fmt.Sprintf("Ogniskowa: %d–%d mm", int(from), int(to))
-	return galleryPage(data, r, resolver, url, title, photos)
+	return galleryPage(data, r, resolver, url, title, photos, true)
 }
 
 // ISOGalleryPage creates gallery for an ISO range.
@@ -271,7 +276,7 @@ func ISOGalleryPage(
 	filtered := photosInISORange(allPhotos, from, to)
 	photos := galleryFillPhotos(filtered, []string{"good", "best"}, true, 40)
 	title := fmt.Sprintf("ISO: %d–%d", from, to)
-	return galleryPage(data, r, resolver, url, title, photos)
+	return galleryPage(data, r, resolver, url, title, photos, true)
 }
 
 // ExposureGalleryPage creates gallery for an exposure time range.
@@ -289,7 +294,7 @@ func ExposureGalleryPage(
 	filtered := photosInExposureRange(allPhotos, from, to)
 	photos := galleryFillPhotos(filtered, []string{"good", "best"}, true, 40)
 	title := fmt.Sprintf("Ekspozycja: %s", label)
-	return galleryPage(data, r, resolver, url, title, photos)
+	return galleryPage(data, r, resolver, url, title, photos, true)
 }
 
 func exposureLabel(v float64) string {
