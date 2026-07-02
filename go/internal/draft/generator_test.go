@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"odkrywajac/internal/gpx"
-	"odkrywajac/internal/weather"
+	"odkrywajac/internal/draft/gpx"
+	"odkrywajac/internal/draft/weather"
 )
 
 func TestGenerate_CreatesDraft(t *testing.T) {

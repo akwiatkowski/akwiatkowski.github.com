@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"odkrywajac/internal/gpx"
-	"odkrywajac/internal/weather"
+	"odkrywajac/internal/draft/gpx"
+	"odkrywajac/internal/draft/weather"
 )
 
 // Generator produces markdown draft posts.
