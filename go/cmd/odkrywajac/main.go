@@ -10,21 +10,21 @@ import (
 	"strings"
 	"time"
 
-	"odkrywajac/internal/service/bundle"
-	"odkrywajac/internal/draft"
-	"odkrywajac/internal/service/exif"
-	"odkrywajac/internal/geodata"
-	"odkrywajac/internal/gpx"
 	"odkrywajac/internal/catalog"
+	"odkrywajac/internal/draft"
+	"odkrywajac/internal/draft/gpx"
+	"odkrywajac/internal/draft/strava"
+	"odkrywajac/internal/draft/weather"
+	"odkrywajac/internal/geodata"
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/pipeline"
 	"odkrywajac/internal/pipeline/nodes"
 	"odkrywajac/internal/render"
+	"odkrywajac/internal/service/bundle"
+	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/spatial"
-	"odkrywajac/internal/strava"
 	"odkrywajac/internal/view"
-	"odkrywajac/internal/weather"
 )
 
 func main() {
