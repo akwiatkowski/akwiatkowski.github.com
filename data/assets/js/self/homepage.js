@@ -71,23 +71,17 @@
     return result;
   }
 
-  // Check if post tags array (objects with slug) contains a specific slug
-  function hasTagSlug(tags, slug) {
-    if (!tags || !Array.isArray(tags)) return false;
-    return tags.some(function(t) { return t.slug === slug; });
-  }
-
-  // Find tag object by slug in post tags array
-  function findTagBySlug(tags, slug) {
-    if (!tags || !Array.isArray(tags)) return null;
-    return tags.find(function(t) { return t.slug === slug; });
+  // Check if a post's tag-slug array contains a specific slug.
+  function hasTagSlug(tagSlugs, slug) {
+    if (!tagSlugs || !Array.isArray(tagSlugs)) return false;
+    return tagSlugs.indexOf(slug) !== -1;
   }
 
   function selectHeroPost(posts) {
     var currentMonth = getCurrentMonth();
     var currentHour = getCurrentHour();
     var eligiblePosts = posts.filter(function(p) {
-      return p.visible && p.ready && p.tags && p.tags.length > 0 && p.photos && p.photos.length > 0;
+      return p.visible && p.ready && p.tags && p.tags.length > 0 && postHasImage(p);
     });
 
     if (eligiblePosts.length === 0) return posts[0];
@@ -129,17 +123,24 @@
     );
   }
 
-  // Select a random photo from the post's photos array
-  // Uses weighted selection favoring higher-scored photos
+  // True when a post has any usable image (a photo with a src, or a card
+  // image). In dev, most posts have no processed images, so this keeps them
+  // out of the hero/grid instead of rendering broken tiles. No-op in full env.
+  function postHasImage(post) {
+    if (post.card_image_url) return true;
+    return !!(post.photos && post.photos.some(function(ph) { return ph && ph.src; }));
+  }
+
+  // Select a photo from the post, weighted toward higher-scored ones.
+  // Only considers photos that actually have a src; falls back to the card image.
   function selectHeroPhoto(post) {
-    if (!post.photos || post.photos.length === 0) {
-      return { src: post.card_image_url, alt: post.title };
+    var photos = (post.photos || []).filter(function(p) { return p && p.src; });
+    if (photos.length === 0) {
+      return post.card_image_url ? { src: post.card_image_url, alt: post.title } : null;
     }
 
-    // Weight by points (higher points = more likely to be selected)
-    var photos = post.photos;
     var weights = photos.map(function(p) {
-      return Math.max(1, p.points + 1); // Add 1 to avoid zero weights
+      return Math.max(1, (p.points || 0) + 1); // +1 to avoid zero weights
     });
 
     return weightedRandomSelect(photos, weights);
@@ -149,7 +150,7 @@
     var currentMonth = getCurrentMonth();
     var currentYear = new Date().getFullYear();
     var eligiblePosts = posts.filter(function(p) {
-      return p.visible && p.ready && p !== heroPost;
+      return p.visible && p.ready && p !== heroPost && postHasImage(p);
     });
 
     if (eligiblePosts.length === 0) return [];
@@ -276,18 +277,27 @@
     return date.getDate() + ' ' + months[date.getMonth() + 1] + ' ' + date.getFullYear();
   }
 
-  // Get primary tag name from post's tags array (objects with slug, name)
-  function getPrimaryTagName(postTags) {
-    if (!postTags || postTags.length === 0) return 'Wpis';
+  // Resolve a post's badge label from its tag slugs.
+  // post.tags is an array of slug strings; `tagsBySlug` maps slug -> {name}.
+  // Prefers the transport mode, then "best"; skips the internal "main" tag.
+  // Returns null when nothing meaningful is available (so no badge is shown).
+  function getPrimaryTagName(tagSlugs, tagsBySlug) {
+    if (!tagSlugs || tagSlugs.length === 0) return null;
 
-    var priority = ['best', 'najlepsze', 'bicycle', 'hike', 'train'];
+    var priority = ['bicycle', 'e-bike', 'hike', 'train', 'canoe', 'best'];
     for (var i = 0; i < priority.length; i++) {
-      var tag = findTagBySlug(postTags, priority[i]);
-      if (tag) return tag.name;
+      if (tagSlugs.indexOf(priority[i]) !== -1 && tagsBySlug[priority[i]]) {
+        return tagsBySlug[priority[i]].name;
+      }
     }
 
-    // Return first tag's name
-    return postTags[0].name || 'Wpis';
+    // Fall back to the first reader-facing tag (skip internal "main").
+    for (var j = 0; j < tagSlugs.length; j++) {
+      if (tagSlugs[j] !== 'main' && tagsBySlug[tagSlugs[j]]) {
+        return tagsBySlug[tagSlugs[j]].name;
+      }
+    }
+    return null;
   }
 
   function escapeHtml(text) {
@@ -319,12 +329,15 @@
   // DOM Element Creation
   // ============================================
 
-  function createPostCardElement(post, isFeatured) {
+  function createPostCardElement(post, isFeatured, tagsBySlug) {
     var card = document.createElement('a');
     card.href = post.url;
     card.className = 'post-card' + (isFeatured ? ' post-featured' : '');
 
-    var primaryTag = getPrimaryTagName(post.tags);
+    var primaryTag = getPrimaryTagName(post.tags, tagsBySlug);
+    var tagHtml = primaryTag
+      ? '<span class="post-card-tag">' + escapeHtml(primaryTag) + '</span>' : '';
+
     var distanceText = post.distance_km ? post.distance_km + ' km' : '';
     var timeText = post.time_spent ? post.time_spent + 'h' : '';
 
@@ -340,14 +353,21 @@
       statsHtml += '</div>';
     }
 
+    // Prefer AVIF via <picture>; the browser falls back to the JPEG.
+    var avifSource = post.card_image_url_avif
+      ? '<source type="image/avif" srcset="' + post.card_image_url_avif + '">' : '';
+
     card.innerHTML =
       '<div class="post-card-image">' +
-        '<img src="' + escapeHtml(post.card_image_url) + '" alt="' + escapeHtml(post.title) + '" loading="lazy">' +
+        '<picture>' + avifSource +
+          '<img src="' + escapeHtml(post.card_image_url) + '" alt="' +
+            escapeHtml(post.title) + '" loading="lazy" decoding="async">' +
+        '</picture>' +
       '</div>' +
       '<div class="post-card-content">' +
         '<div class="post-card-meta">' +
           '<span class="post-card-date">' + formatDatePolish(post.time) + '</span>' +
-          '<span class="post-card-tag">' + escapeHtml(primaryTag) + '</span>' +
+          tagHtml +
         '</div>' +
         '<h3 class="post-card-title">' + escapeHtml(post.title) + '</h3>' +
         '<p class="post-card-subtitle">' + escapeHtml(post.subtitle || '') + '</p>' +
@@ -382,6 +402,10 @@
         var tags = json.tags || [];
         var mesoRegions = json.meso_regions || [];
 
+        // Index tags by slug so cards can resolve their slug lists to names.
+        var tagsBySlug = {};
+        tags.forEach(function(t) { tagsBySlug[t.slug] = t; });
+
         if (posts.length === 0) {
           console.warn('No posts available');
           return;
@@ -399,18 +423,22 @@
 
           heroLink.href = heroPost.url;
           var heroImg = heroLink.querySelector('img');
-          if (heroImg) {
+          if (heroImg && heroPhoto && heroPhoto.src) {
+            // If the image fails to load, fall back to the placeholder gradient
+            // rather than showing a broken image.
+            heroImg.onerror = function() {
+              heroImg.style.display = 'none';
+              heroLink.classList.add('hero-loading');
+            };
             heroImg.src = heroPhoto.src;
             heroImg.alt = heroPhoto.alt || heroPost.title;
             heroImg.style.display = '';
+            heroLink.classList.remove('hero-loading');
           }
           var heroTitle = heroLink.querySelector('.hero-image-caption h3');
           if (heroTitle) heroTitle.textContent = heroPost.title;
           var heroSubtitle = heroLink.querySelector('.hero-image-caption p');
           if (heroSubtitle) heroSubtitle.textContent = heroPost.subtitle || '';
-
-          // Remove loading state
-          heroLink.classList.remove('hero-loading');
         }
 
         // Render posts grid - clear and populate
@@ -418,7 +446,7 @@
         if (postsContainer) {
           postsContainer.innerHTML = '';
           gridPosts.forEach(function(post, index) {
-            var card = createPostCardElement(post, index === 0);
+            var card = createPostCardElement(post, index === 0, tagsBySlug);
             postsContainer.appendChild(card);
           });
         }
