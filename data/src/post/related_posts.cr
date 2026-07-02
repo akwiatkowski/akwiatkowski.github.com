@@ -25,10 +25,12 @@ class Tremolite::Post
         end
       end
       sorted_slugs = sorted_related.map { |t| t[0].to_s }
-      # TODO refactor, make it less ugly
-      sorted_posts = sorted_slugs.map do |slug|
-        context.posts.select { |post| post.slug == slug }.first.not_nil!
-      end
+      # Resolve slugs to loaded posts, skipping any that no longer resolve.
+      # Coord-quant caches can reference slugs that are stale (renamed posts) or
+      # not in the current collection (e.g. drafts excluded from this build), so
+      # a missing slug must be skipped, not crash the whole render.
+      posts_by_slug = context.posts.index_by(&.slug)
+      sorted_posts = sorted_slugs.compact_map { |slug| posts_by_slug[slug]? }
       # filter out not ready posts
       filtered_posts = sorted_posts.select do |post|
         post.ready?

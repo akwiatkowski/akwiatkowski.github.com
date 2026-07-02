@@ -16,8 +16,8 @@ end
 
 describe Commands::Tools::FetchMapTiles do
   describe "TILES_PATH" do
-    it "points to env/full/public/local/tiles" do
-      Commands::Tools::FetchMapTiles::TILES_PATH.should eq "env/full/public/local/tiles"
+    it "points to the shared input tiles store" do
+      Commands::Tools::FetchMapTiles::TILES_PATH.should eq File.join(ENV["HOME"], "projects", "llm", "input", "tiles")
     end
   end
 
