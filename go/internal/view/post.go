@@ -30,8 +30,9 @@ func PostArticlePage(
 	url := r.PostURL(post)
 
 	// In the release TARGET, not-ready (todo/draft) posts keep their page shell
-	// but ship no body and stay out of the sitemap — mirrors Crystal's
-	// hide_not_finished behavior. In local they render fully.
+	// but their body is replaced by a "not finished yet" notice, and they stay
+	// out of the sitemap — mirrors Crystal's hide_not_finished behavior
+	// (article_view.cr: hide_not_finished && !ready). In local they render fully.
 	hideBody := release && !post.IsReady()
 
 	// Render markdown with custom extensions
@@ -44,6 +45,7 @@ func PostArticlePage(
 			PostLookup: data,
 			URLBuilder: r,
 			TagLookup:  data,
+			Links:      linkResolver{data: data, router: r},
 		}
 		var err error
 		renderedHTML, err = content.RenderPost(post.Content, renderCtx)
@@ -70,6 +72,7 @@ func PostArticlePage(
 		DateStr:          dateStr,
 		Author:           post.Author,
 		RenderedMarkdown: renderedHTML,
+		NotReady:         hideBody,
 		TagLinks:         buildTagLinks(data, post, r),
 		AreaLinks:        buildAreaLinks(data, post, r),
 	}
@@ -390,4 +393,31 @@ func buildRelatedPosts(data *catalog.SiteData, post *model.Post, r *router.Route
 	}
 
 	return cards
+}
+
+// linkResolver adapts SiteData + Router to content.LinkResolver, backing the
+// {% land_path %} and {% tag_path %} directives.
+type linkResolver struct {
+	data   *catalog.SiteData
+	router *router.Router
+}
+
+// LandURL resolves a land (region) slug to its area link URL. Legacy "land"
+// slugs are meso- or macro-regions in the Go engine, so both are tried.
+func (l linkResolver) LandURL(slug string) (string, bool) {
+	if area := l.data.FindArea(model.AreaTypeMesoRegion, slug); area != nil {
+		return l.router.AreaLinkURL(area), true
+	}
+	if area := l.data.FindArea(model.AreaTypeMacroRegion, slug); area != nil {
+		return l.router.AreaLinkURL(area), true
+	}
+	return "", false
+}
+
+// TagURL resolves an English content-tag slug to its tag link URL.
+func (l linkResolver) TagURL(slug string) (string, bool) {
+	if tag, ok := l.data.TagBySlug[slug]; ok {
+		return l.router.TagLinkURL(tag), true
+	}
+	return "", false
 }

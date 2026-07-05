@@ -136,8 +136,97 @@ func TestRenderPostURL(t *testing.T) {
 		post, lookup,
 	)
 
-	if !strings.Contains(html, "/2021/06/03-target-post.html") {
-		t.Errorf("HTML should contain resolved URL, got: %s", html)
+	// The tag inside a markdown link destination must resolve to a real
+	// anchor. A CommonMark link destination cannot contain spaces, so the
+	// tag has to be substituted for the URL *before* markdown parsing —
+	// otherwise goldmark leaves the literal `[here](…)` brackets in place.
+	if !strings.Contains(html, `<a href="/2021/06/03-target-post.html">here</a>`) {
+		t.Errorf("post_url in a link should render an anchor, got: %s", html)
+	}
+	if strings.Contains(html, "[here]") {
+		t.Errorf("literal markdown brackets leaked into output: %s", html)
+	}
+}
+
+func TestRenderPostURLInParenthesizedLink(t *testing.T) {
+	// The real-world shape used across the blog: a link wrapped in outer
+	// parentheses, e.g. "(… ([label]({% post_url slug %})).".
+	targetPost := &model.Post{
+		Slug: "2020-10-10-kolejowe-roztocze-i-okolice-przemysla",
+		Date: time.Date(2020, 10, 10, 0, 0, 0, 0, time.UTC),
+	}
+	lookup := &mockPostLookup{posts: map[string]*model.Post{
+		targetPost.Slug: targetPost,
+	}}
+
+	html := renderTestMarkdown(
+		`Dalej ([osobny wpis]({% post_url 2020-10-10-kolejowe-roztocze-i-okolice-przemysla %})).`,
+		testPost(), lookup,
+	)
+
+	want := `<a href="/2020/10/10-kolejowe-roztocze-i-okolice-przemysla.html">osobny wpis</a>`
+	if !strings.Contains(html, want) {
+		t.Errorf("expected anchor %q, got: %s", want, html)
+	}
+	if strings.Contains(html, "[osobny wpis]") {
+		t.Errorf("literal brackets leaked into output: %s", html)
+	}
+}
+
+// mockLinkResolver implements LinkResolver for testing land_path/tag_path.
+type mockLinkResolver struct {
+	lands map[string]string
+	tags  map[string]string
+}
+
+func (m mockLinkResolver) LandURL(slug string) (string, bool) { u, ok := m.lands[slug]; return u, ok }
+func (m mockLinkResolver) TagURL(slug string) (string, bool)  { u, ok := m.tags[slug]; return u, ok }
+
+func TestRenderLandPath(t *testing.T) {
+	ctx := &RenderContext{
+		Post:       testPost(),
+		PostLookup: &mockPostLookup{},
+		URLBuilder: &mockURLBuilder{},
+		Links:      mockLinkResolver{lands: map[string]string{"rudawy_janowickie": "/region/rudawy_janowickie.html"}},
+	}
+	html, err := RenderPost(`W [Rudawach]({% land_path rudawy_janowickie %}) było zimno.`, ctx)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !strings.Contains(html, `<a href="/region/rudawy_janowickie.html">Rudawach</a>`) {
+		t.Errorf("land_path should render an anchor, got: %s", html)
+	}
+}
+
+func TestRenderTagPath(t *testing.T) {
+	ctx := &RenderContext{
+		Post:       testPost(),
+		PostLookup: &mockPostLookup{},
+		URLBuilder: &mockURLBuilder{},
+		Links:      mockLinkResolver{tags: map[string]string{"main": "/tag/glowne.html"}},
+	}
+	html, err := RenderPost(`zobacz [wszystkie]({% tag_path main %}).`, ctx)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !strings.Contains(html, `<a href="/tag/glowne.html">wszystkie</a>`) {
+		t.Errorf("tag_path should render an anchor, got: %s", html)
+	}
+}
+
+func TestRenderLandPathNotFound(t *testing.T) {
+	ctx := &RenderContext{
+		Post:       testPost(),
+		PostLookup: &mockPostLookup{},
+		URLBuilder: &mockURLBuilder{},
+		Links:      mockLinkResolver{},
+	}
+	html, err := RenderPost(`[x]({% land_path nieznany %})`, ctx)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !strings.Contains(html, "#land-not-found") {
+		t.Errorf("unknown land should fall back to sentinel, got: %s", html)
 	}
 }
 

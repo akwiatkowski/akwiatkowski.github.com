@@ -5,6 +5,7 @@ import (
 	"context"
 	"fmt"
 	"log/slog"
+	"regexp"
 	"time"
 
 	"github.com/yuin/goldmark"
@@ -36,12 +37,23 @@ type TagLookup interface {
 	PhotoTagBySlug(slug string) *model.PhotoTag
 }
 
+// LinkResolver resolves a land (region) or content-tag slug to its site URL for
+// the {% land_path %} and {% tag_path %} directives. The bool is false when no
+// such area/tag exists, so hardcoded legacy URLs are replaced by slug-safe,
+// engine-generated links instead. Implemented in the view layer (it needs both
+// the site data and the router), kept as an interface here to avoid a cycle.
+type LinkResolver interface {
+	LandURL(slug string) (string, bool)
+	TagURL(slug string) (string, bool)
+}
+
 // RenderContext holds all dependencies needed for rendering markdown.
 type RenderContext struct {
 	Post          *model.Post
 	PostLookup    PostLookup
 	URLBuilder    PostURLBuilder
 	TagLookup     TagLookup
+	Links         LinkResolver
 	PhotoTagIcons map[string]string // photo tag slug → icon name
 }
 
@@ -138,16 +150,57 @@ func (r *customRenderer) renderPostURL(w util.BufWriter, source []byte, node ast
 		return ast.WalkContinue, nil
 	}
 	n := node.(*PostURLNode)
-
-	post := r.ctx.PostLookup.PostBySlug(n.PostSlug)
-	if post != nil {
-		w.WriteString(r.ctx.URLBuilder.PostURL(post))
-	} else {
-		slog.Warn("Cross-referenced post not found", "slug", n.PostSlug)
-		w.WriteString("#post-not-found")
-	}
-
+	w.WriteString(resolvePostURL(r.ctx, n.PostSlug))
 	return ast.WalkContinue, nil
+}
+
+// linkTagRe matches the link directives that resolve to a site URL:
+// `{% post_url <slug> %}`, `{% land_path <slug> %}`, `{% tag_path <slug> %}`.
+// The slug is a run of non-space, non-`%` characters (slugs never contain either).
+var linkTagRe = regexp.MustCompile(`\{%\s*(post_url|land_path|tag_path)\s+([^\s%]+)\s*%\}`)
+
+// resolvePostURL turns a post slug into its site URL, or the `#post-not-found`
+// sentinel (with a warning) when no such post exists.
+func resolvePostURL(ctx *RenderContext, slug string) string {
+	if post := ctx.PostLookup.PostBySlug(slug); post != nil {
+		return ctx.URLBuilder.PostURL(post)
+	}
+	slog.Warn("Cross-referenced post not found", "slug", slug)
+	return "#post-not-found"
+}
+
+// resolveLinkTags substitutes every link directive with its resolved URL
+// *before* markdown parsing. This is required — not just an optimization —
+// because a CommonMark link destination cannot contain spaces, so the tag has
+// to already be a bare URL by the time goldmark parses `[label](URL)`. Leaving
+// it as a tag makes goldmark reject the link and emit literal `[label](…)`
+// brackets. Mirrors how the Crystal engine expands such tags pre-markdown.
+func resolveLinkTags(content string, ctx *RenderContext) string {
+	return linkTagRe.ReplaceAllStringFunc(content, func(match string) string {
+		m := linkTagRe.FindStringSubmatch(match)
+		directive, slug := m[1], m[2]
+		switch directive {
+		case "post_url":
+			return resolvePostURL(ctx, slug)
+		case "land_path":
+			if ctx.Links != nil {
+				if url, ok := ctx.Links.LandURL(slug); ok {
+					return url
+				}
+			}
+			slog.Warn("land_path: region not found", "slug", slug)
+			return "#land-not-found"
+		case "tag_path":
+			if ctx.Links != nil {
+				if url, ok := ctx.Links.TagURL(slug); ok {
+					return url
+				}
+			}
+			slog.Warn("tag_path: tag not found", "slug", slug)
+			return "#tag-not-found"
+		}
+		return match
+	})
 }
 
 func (r *customRenderer) renderGeo(w util.BufWriter, source []byte, node ast.Node, entering bool) (ast.WalkStatus, error) {
@@ -199,7 +252,7 @@ func RenderPost(content string, ctx *RenderContext) (string, error) {
 	)
 
 	var buf bytes.Buffer
-	src := []byte(content)
+	src := []byte(resolveLinkTags(content, ctx))
 	reader := text.NewReader(src)
 	doc := md.Parser().Parse(reader)
 
