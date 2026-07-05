@@ -81,6 +81,9 @@ func TestExtractActivityID(t *testing.T) {
 		ok    bool
 	}{
 		{"https://www.strava.com/activities/12345", 12345, true},
+		{"https://www.strava.com/activities/12345/", 12345, true},
+		{"https://www.strava.com/activities/12345?utm_source=share", 12345, true},
+		{"https://www.strava.com/activities/12345/overview", 12345, true},
 		{"12345", 12345, true},
 		{"  12345  ", 12345, true},
 		{"# comment", 0, false},

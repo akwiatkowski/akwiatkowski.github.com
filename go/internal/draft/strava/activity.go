@@ -114,11 +114,16 @@ func ExtractActivityID(s string) (int64, bool) {
 		return 0, false
 	}
 
-	// Extract from URL
+	// Extract from URL: keep only the leading digits after /activities/,
+	// so trailing slashes, sub-paths and query strings don't break parsing
+	// (e.g. ".../activities/9494643179/" or ".../activities/123?utm_source=share").
 	if strings.Contains(s, "/activities/") {
 		parts := strings.Split(s, "/activities/")
 		if len(parts) == 2 {
 			s = strings.TrimSpace(parts[1])
+			if end := strings.IndexFunc(s, func(r rune) bool { return r < '0' || r > '9' }); end != -1 {
+				s = s[:end]
+			}
 		}
 	}
 
