@@ -48,8 +48,12 @@ serve:  ## Serve env/$(ENV)/public/$(TARGET) on $(PORT)
 # --------------------------------------------------------------------------
 # Test / lint
 # --------------------------------------------------------------------------
-.PHONY: test test-go test-crystal lint test-e2e test-e2e-headed test-e2e-smoke
+.PHONY: test test-go test-crystal lint test-e2e test-e2e-headed test-e2e-smoke validate
 test: test-$(ENGINE)  ## Unit tests for $(ENGINE)
+
+validate:  ## Sanity-check env/$(ENV)/public/$(TARGET): links, route maps, leaked markdown
+	$(MAKE) -C go build
+	go/bin/odkrywajac validate --base . --env $(ENV) --target $(TARGET)
 
 test-go:
 	$(MAKE) -C go test

@@ -11,6 +11,7 @@ import (
 	"time"
 
 	"odkrywajac/internal/catalog"
+	"odkrywajac/internal/validate"
 	"odkrywajac/internal/draft"
 	"odkrywajac/internal/draft/gpx"
 	"odkrywajac/internal/draft/strava"
@@ -31,6 +32,7 @@ func main() {
 	buildCmd := flag.NewFlagSet("build", flag.ExitOnError)
 	pipelineCmd := flag.NewFlagSet("pipeline", flag.ExitOnError)
 	gpxDraftCmd := flag.NewFlagSet("gpx-draft", flag.ExitOnError)
+	validateCmd := flag.NewFlagSet("validate", flag.ExitOnError)
 
 	if len(os.Args) < 2 {
 		printUsage()
@@ -56,6 +58,13 @@ func main() {
 		runGpxDraft(gpxDraftCmd)
 	case "missing-posts":
 		runMissingPosts()
+	case "validate":
+		ctx := addFlags(validateCmd)
+		if err := validateCmd.Parse(os.Args[2:]); err != nil {
+			fmt.Fprintf(os.Stderr, "Error parsing validate flags: %v\n", err)
+			os.Exit(1)
+		}
+		runValidate(ctx)
 	default:
 		fmt.Fprintf(os.Stderr, "Unknown command: %s\n", os.Args[1])
 		printUsage()
@@ -85,6 +94,7 @@ func printUsage() {
 	fmt.Fprintln(os.Stderr, "  pipeline      Run data pipeline")
 	fmt.Fprintln(os.Stderr, "  gpx-draft     Generate a draft blog post from a GPX file")
 	fmt.Fprintln(os.Stderr, "  missing-posts List Strava activities without blog posts")
+	fmt.Fprintln(os.Stderr, "  validate      Sanity-check the rendered output (links, maps, leaked markdown)")
 }
 
 // engineName identifies this renderer in the output dir's .engine marker.
@@ -138,7 +148,9 @@ func runBuild(ctx *pipeline.Context) {
 
 	pipe.Add("loadPosts", nil, func(ctx *pipeline.Context) error {
 		var err error
-		posts, err = catalog.LoadPosts(ctx.PostsDir(), ctx.RoutesDir())
+		// Local preview builds keep hidden drafts so they can be viewed at
+		// localhost; release builds exclude them from the published site.
+		posts, err = catalog.LoadPosts(ctx.PostsDir(), ctx.RoutesDir(), !ctx.IsRelease())
 		if err != nil {
 			return err
 		}
@@ -631,10 +643,10 @@ func runMissingPosts() {
 		longActivities = kept
 	}
 
-	// Build set of activity IDs from posts
-	// Use existing post loader to get all posts and their Strava IDs
+	// Build set of activity IDs from posts. Hidden drafts count too — a
+	// drafted activity is no longer "missing", so use LoadAllPosts.
 	postsDir := filepath.Join("..", "env", "full", "data", "posts")
-	posts, err := catalog.LoadPosts(postsDir, "")
+	posts, err := catalog.LoadAllPosts(postsDir, "")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Warning: could not load posts: %v\n", err)
 		os.Exit(1)
@@ -734,4 +746,49 @@ func addPhotoRefs(assignments map[spatial.AreaKey][]spatial.PhotoRef, typePlural
 		key := spatial.AreaKey{TypePlural: typePlural, Slug: ref.Slug}
 		assignments[key] = append(assignments[key], photo)
 	}
+}
+
+// runValidate sanity-checks the already-rendered output directory: broken
+// internal links, posts with a route but no rendered map, and leaked markdown
+// link syntax. It exits non-zero when any issue is found so it can gate CI.
+func runValidate(ctx *pipeline.Context) {
+	posts, err := catalog.LoadPosts(ctx.PostsDir(), ctx.RoutesDir(), !ctx.IsRelease())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
+		os.Exit(1)
+	}
+
+	// Posts with a route must render a map. The URL scheme mirrors
+	// router.PostURL: /YYYY/MM/DD-<slug-without-date-prefix>.html.
+	routeMapURLs := make(map[string]bool)
+	for _, post := range posts {
+		if post.HasRoutes() {
+			url := fmt.Sprintf("/%d/%02d/%s.html", post.Date.Year(), post.Date.Month(), post.Slug[8:])
+			routeMapURLs[url] = true
+		}
+	}
+
+	outputRoot := ctx.OutputDir()
+	issues, err := validate.Run(outputRoot, routeMapURLs)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error validating %s: %v\n", outputRoot, err)
+		os.Exit(1)
+	}
+
+	if len(issues) == 0 {
+		fmt.Printf("✓ %s: no validation issues (%d route posts checked)\n", outputRoot, len(routeMapURLs))
+		return
+	}
+
+	counts := make(map[string]int)
+	for _, issue := range issues {
+		counts[issue.Kind]++
+		fmt.Fprintln(os.Stderr, issue)
+	}
+	fmt.Fprintf(os.Stderr, "\n%d validation issue(s): ", len(issues))
+	for kind, n := range counts {
+		fmt.Fprintf(os.Stderr, "%s=%d ", kind, n)
+	}
+	fmt.Fprintln(os.Stderr)
+	os.Exit(1)
 }
