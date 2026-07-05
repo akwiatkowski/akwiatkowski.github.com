@@ -33,7 +33,7 @@ Szukając dobrej okazji na jesienne zdjęcie, wyruszyłem ponownie na [fotowarsz
 Szczegóły
 ---------
 
-Najważniejsze informacje uwzględniłem w opisie poprzedniego [wyjazdu](/trip/2013/10/19/fotowarsztaty-w-gorach-stolowych/).
+Najważniejsze informacje uwzględniłem w opisie poprzedniego [wyjazdu]({% post_url 2013-10-19-fotowarsztaty-w-gorach-stolowych %}).
 
 Co było nowego?
 ---------------

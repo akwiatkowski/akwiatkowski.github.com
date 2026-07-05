@@ -43,7 +43,7 @@ Szczegóły
 
 {% photo "IMGP0018raw1.jpg","Pola niedaleko Starczanowa","tag:timeline,tag:good,tag:spring" %}
 
-Opis trasy jest identyczny prawie jak podczas [trzeciego](/trip/2014/07/02/w-strone-skokow-po-raz-3-ci/)
+Opis trasy jest identyczny prawie jak podczas [trzeciego]({% post_url 2014-07-02-w-strone-skokow-po-raz-3-ci %})
 przejazdu.
 
 {% photo "IMGP0041raw1.jpg","Staw w Starczanowie","tag:timeline" %}

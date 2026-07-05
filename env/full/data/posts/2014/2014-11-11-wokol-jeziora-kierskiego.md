@@ -36,7 +36,7 @@ Za wiele ich nie podam. Listopad nie jest najlepszym miesiącem do zwiedzania
 okolicy - zieleni jest bardzo mało.
 
 Jedyne co to zaciekawiło mnie [Lusowo][wiki-lusowo], przez które przejechałem
-[później](/trip/2015/06/27/zachod-od-poznania-do-opalenicy/).
+[później]({% post_url 2015-06-27-zachod-od-poznania-do-opalenicy %}).
 
 Wyszło trochę ponad 44km. Myślę, że zrobiłbym z 60km gdyby było cieplej
 i gdybym wyruszył wcześniej.

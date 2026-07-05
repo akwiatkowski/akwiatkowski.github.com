@@ -54,7 +54,7 @@ strava: 160945973
 Wstęp
 -----
 
-Opis analogiczny do [pierwszego](/trip/2013/08/04/w-strone-skokow-po-raz-1-szy/) przejazdu,
+Opis analogiczny do [pierwszego]({% post_url 2013-08-04-w-strone-skokow-po-raz-1-szy %}) przejazdu,
 który przekopiowałem tutaj i dorzuciłem filmiki. Zrobiłem to tak, gdyż opis jest prawie identyczny,
 a najlepsze filmiki są właśnie z tego dnia.
 

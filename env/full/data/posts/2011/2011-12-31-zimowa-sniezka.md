@@ -77,7 +77,7 @@ Wnioski dodatkowe
 -----------------
 
 Bardzo zaciekawiły mnie mniejsze górki i trasa między [Kamienną Górą][wiki-kamienna] a
-[Kowarami][wiki-kowary]. Dopiero jakiś czas później dowiedziałem się, że to są [Rudawy Janowickie](/land/rudawy_janowickie/)
+[Kowarami][wiki-kowary]. Dopiero jakiś czas później dowiedziałem się, że to są [Rudawy Janowickie]({% land_path rudawy_janowickie %})
 Później miałem okazje trochę bardziej zwiedzić te okolice.
 
 {% photo "IMGP3176b1.jpg","Okolice Karpacza podczas zjazdu wyciągiem" %}

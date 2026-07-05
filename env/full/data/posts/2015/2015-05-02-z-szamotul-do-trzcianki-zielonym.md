@@ -96,7 +96,7 @@ Jeżdząc po Polsce gdzieniegdzie widać takie ciekawostki.
 
 Z [Obrzycka][wiki-obrzycko] wyjechałem przez most w stronę [Zielonejgóry][wiki-zielonagora] (nie Zielonej Góry).
 Jest to wioska o dość gęstej zabudowie, po drugiej stronie [Warty][wiki-warta] od [Obrzycka][wiki-obrzycko].
-W poprzednim roku [przejeżdzałem](/trip/2014/04/28/nadwarcianskim-szlakiem-rowerowym-oborniki-wronki/)
+W poprzednim roku [przejeżdzałem]({% post_url 2014-04-28-nadwarcianskim-szlakiem-rowerowym-oborniki-wronki %})
 z Obornik
 do Wronek przez tą miejscowośc, tym razem skręciłem na północ kierując się przez [Puszczę Notecką][wiki-puszcza-notecka].
 

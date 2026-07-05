@@ -24,4 +24,4 @@ my photos. Its engine is written in Crystal language.
 
 ## Some links
 
-You can check: [map](/map) and [timeline photos](/timeline/).
+You can check: [map](/mapa_tras.html) and [timeline photos](/linia_czasu.html).

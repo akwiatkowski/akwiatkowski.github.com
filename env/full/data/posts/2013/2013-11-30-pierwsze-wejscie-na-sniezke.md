@@ -21,7 +21,7 @@ time_spent:             6
 strava: 334968071
 ---
 
-[post-wczesniejszy]:            /trip/2011/12/31/zimowa-sniezka/
+[post-wczesniejszy]:            {% post_url 2011-12-31-zimowa-sniezka %}
 
 
 [wiki-karpacz]:                 https://pl.wikipedia.org/wiki/Karpacz

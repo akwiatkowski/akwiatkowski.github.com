@@ -24,6 +24,6 @@ strava: 137173043
 Opis trasy
 ----------
 
-Opis analogiczny do [pierwszego](/trip/2013/08/04/w-strone-skokow-po-raz-1-szy/) przejazdu.
+Opis analogiczny do [pierwszego]({% post_url 2013-08-04-w-strone-skokow-po-raz-1-szy %}) przejazdu.
 
 {% photo "IMGP8432b.jpg","Gołąb przy Jeziorze Budziszewskim" %}
