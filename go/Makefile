@@ -1,4 +1,7 @@
-.PHONY: templ-generate build test vet lint render render-full render-verbose render-full-verbose gpx-draft missing-posts install-deps
+.PHONY: templ-generate build test vet lint render render-full render-verbose render-full-verbose gpx-draft missing-posts terrain-map install-deps
+
+# Default environment for single-post commands (override on the CLI: ENV=full)
+ENV ?= dev
 
 # CGO flags for GEOS C library (required by spatial matching)
 export CGO_CFLAGS := $(shell geos-config --cflags 2>/dev/null)
@@ -46,6 +49,13 @@ gpx-draft: build
 # List Strava activities missing blog posts
 missing-posts: build
 	./bin/odkrywajac missing-posts
+
+# Render an OSM+hillshade route map for one post.
+# Requires on PATH: GDAL (gdal*/ogr2ogr), osmium, rsvg-convert.
+# Usage: make terrain-map SLUG=2021-07-18-pagorki-przed-zniwami [ENV=dev]
+terrain-map: build
+	@if [ -z "$(SLUG)" ]; then echo "Error: SLUG=<post-slug> is required"; exit 1; fi
+	./bin/odkrywajac terrain-map --base .. --env $(ENV) --slug "$(SLUG)" --verbose
 
 # Install system dependencies
 install-deps:

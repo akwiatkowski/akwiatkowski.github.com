@@ -11,7 +11,6 @@ import (
 	"time"
 
 	"odkrywajac/internal/catalog"
-	"odkrywajac/internal/validate"
 	"odkrywajac/internal/draft"
 	"odkrywajac/internal/draft/gpx"
 	"odkrywajac/internal/draft/strava"
@@ -25,6 +24,8 @@ import (
 	"odkrywajac/internal/service/exif"
 	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/spatial"
+	"odkrywajac/internal/service/terrain"
+	"odkrywajac/internal/validate"
 	"odkrywajac/internal/view"
 )
 
@@ -33,6 +34,7 @@ func main() {
 	pipelineCmd := flag.NewFlagSet("pipeline", flag.ExitOnError)
 	gpxDraftCmd := flag.NewFlagSet("gpx-draft", flag.ExitOnError)
 	validateCmd := flag.NewFlagSet("validate", flag.ExitOnError)
+	terrainCmd := flag.NewFlagSet("terrain-map", flag.ExitOnError)
 
 	if len(os.Args) < 2 {
 		printUsage()
@@ -65,6 +67,18 @@ func main() {
 			os.Exit(1)
 		}
 		runValidate(ctx)
+	case "terrain-map":
+		ctx := addFlags(terrainCmd)
+		slug := terrainCmd.String("slug", "", "Post slug to render (exact or suffix match; required)")
+		demDir := terrainCmd.String("dem", defaultDEMDir(), "Directory of SRTM .hgt.gz elevation tiles (fallback)")
+		dtmDir := terrainCmd.String("dtm", defaultDTMDir(), "Directory of GUGiK 10m .i16.gz elevation tiles")
+		demSource := terrainCmd.String("dem-source", "nmt10", "Elevation source: nmt10 (10m) or srtm (30m)")
+		osmPBF := terrainCmd.String("osm-pbf", defaultOSMPBF(), "Path to the source .osm.pbf")
+		if err := terrainCmd.Parse(os.Args[2:]); err != nil {
+			fmt.Fprintf(os.Stderr, "Error parsing terrain-map flags: %v\n", err)
+			os.Exit(1)
+		}
+		runTerrainMap(ctx, terrainArgs{slug: *slug, demDir: *demDir, dtmDir: *dtmDir, demSource: *demSource, osmPBF: *osmPBF})
 	default:
 		fmt.Fprintf(os.Stderr, "Unknown command: %s\n", os.Args[1])
 		printUsage()
@@ -95,6 +109,108 @@ func printUsage() {
 	fmt.Fprintln(os.Stderr, "  gpx-draft     Generate a draft blog post from a GPX file")
 	fmt.Fprintln(os.Stderr, "  missing-posts List Strava activities without blog posts")
 	fmt.Fprintln(os.Stderr, "  validate      Sanity-check the rendered output (links, maps, leaked markdown)")
+	fmt.Fprintln(os.Stderr, "  terrain-map   Render a shaded-relief route map for one post (overwrites its files)")
+}
+
+// defaultDEMDir is the conventional location of the SRTM elevation tiles in
+// Olek's input tree, used unless --dem overrides it.
+func defaultDEMDir() string {
+	home, err := os.UserHomeDir()
+	if err != nil {
+		return "srtm"
+	}
+	return filepath.Join(home, "projects", "llm", "input", "srtm")
+}
+
+// defaultOSMPBF is the conventional location of the Poland OSM extract.
+func defaultOSMPBF() string {
+	home, err := os.UserHomeDir()
+	if err != nil {
+		return "poland-latest.osm.pbf"
+	}
+	return filepath.Join(home, "projects", "llm", "input", "osm", "poland-latest.osm.pbf")
+}
+
+// defaultDTMDir is the conventional location of the GUGiK 10m elevation tiles.
+func defaultDTMDir() string {
+	home, err := os.UserHomeDir()
+	if err != nil {
+		return "dtm"
+	}
+	return filepath.Join(home, "projects", "llm", "input", "geo", "dtm")
+}
+
+// terrainArgs bundles the terrain-map command inputs.
+type terrainArgs struct {
+	slug      string
+	demDir    string
+	dtmDir    string
+	demSource string
+	osmPBF    string
+}
+
+// runTerrainMap renders the shaded-relief route map for a single post and
+// overwrites its output files. It is the manual test path for the terrain
+// renderer; the same terrain.Render call will later drive a batch pipeline node.
+func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
+	if a.slug == "" {
+		fmt.Fprintln(os.Stderr, "Error: --slug is required (e.g. --slug 2021-07-18-pagorki-przed-zniwami)")
+		os.Exit(1)
+	}
+	slug := a.slug
+
+	// Route colors come from the shared config; posts carry the route geometry.
+	_, _, _, routeColors, _, err := catalog.LoadAllConfigs(ctx.ConfigDir())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading configs: %v\n", err)
+		os.Exit(1)
+	}
+	posts, err := catalog.LoadPosts(ctx.PostsDir(), ctx.RoutesDir(), !ctx.IsRelease())
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
+		os.Exit(1)
+	}
+
+	// Match by exact slug first, then by suffix so a short slug (without the
+	// date prefix) still resolves to one post.
+	var post *model.Post
+	for _, candidate := range posts {
+		if candidate.Slug == slug {
+			post = candidate
+			break
+		}
+	}
+	if post == nil {
+		for _, candidate := range posts {
+			if strings.HasSuffix(candidate.Slug, slug) {
+				post = candidate
+				break
+			}
+		}
+	}
+	if post == nil {
+		fmt.Fprintf(os.Stderr, "Error: no post found matching slug %q (loaded %d posts)\n", slug, len(posts))
+		os.Exit(1)
+	}
+
+	result, err := terrain.Render(post, routeColors, terrain.Options{
+		OutputDir:  ctx.OutputDir(),
+		DEMSource:  a.demSource,
+		DEMDir:     a.demDir,
+		DTMDir:     a.dtmDir,
+		OSMPBFPath: a.osmPBF,
+		Verbose:    ctx.Verbose,
+	})
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error rendering terrain map for %s: %v\n", post.Slug, err)
+		os.Exit(1)
+	}
+
+	fmt.Printf("Terrain map rendered for %s (zoom %d):\n", post.Slug, result.Zoom)
+	fmt.Printf("  SVG:    %s\n", result.SVGPath)
+	fmt.Printf("  PNG:    %s (%dx%d)\n", result.PNGPath, result.Width, result.Height)
+	fmt.Printf("  Print:  %s (%dx%d)\n", result.PrintPNGPath, result.PrintWidth, result.PrintHeight)
+	fmt.Printf("  Relief: %s\n", result.ReliefPath)
 }
 
 // engineName identifies this renderer in the output dir's .engine marker.

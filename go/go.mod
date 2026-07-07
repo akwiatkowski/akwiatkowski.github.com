@@ -8,6 +8,7 @@ require (
 	github.com/dsoprea/go-exif/v3 v3.0.1
 	github.com/gen2brain/avif v0.4.4
 	github.com/go-rod/rod v0.116.2
+	github.com/paulmach/orb v0.13.0
 	github.com/twpayne/go-geos v0.20.2
 	github.com/yuin/goldmark v1.7.16
 	golang.org/x/net v0.42.0
