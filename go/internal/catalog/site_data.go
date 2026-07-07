@@ -44,6 +44,11 @@ type NavStats struct {
 	// Self = bicycle + hike
 	SelfDistance int
 	SelfTime     int
+	// Site-wide totals shown in the homepage hero.
+	PostCount   int // finished posts
+	PhotoCount  int // published photos across finished posts
+	CountyCount int // counties (powiaty) with at least one post
+	CountyTotal int // all counties in config (for "X z Y powiatów")
 }
 
 // PostBySlug looks up a post by its slug.
@@ -248,10 +253,16 @@ func (sd *SiteData) computeNavStats() {
 			sd.NavStats.HikeTime += int(post.TimeSpent)
 			sd.NavStats.HikeCount++
 		}
+
+		sd.NavStats.PostCount++
+		sd.NavStats.PhotoCount += len(post.PublishedPhotos)
 	}
 
 	sd.NavStats.SelfDistance = sd.NavStats.BicycleDistance + sd.NavStats.HikeDistance
 	sd.NavStats.SelfTime = sd.NavStats.BicycleTime + sd.NavStats.HikeTime
+	// buildAreaIndexes runs before computeNavStats, so AreasWithPosts is ready.
+	sd.NavStats.CountyCount = len(sd.AreasWithPosts[model.AreaTypeCounty])
+	sd.NavStats.CountyTotal = len(sd.AreasByType[model.AreaTypeCounty])
 }
 
 // VoivodeshipSlugsForPost returns the voivodeship slugs associated with a post.

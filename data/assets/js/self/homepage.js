@@ -27,6 +27,26 @@
   var DISCOVERY_TAGS = ['air', 'bikepacking', 'birds', 'countryside', 'mountains', 'coast'];
 
   // ============================================
+  // Deterministic Daily Randomness
+  // ============================================
+
+  // mulberry32 — tiny 32-bit PRNG with good distribution. Seeded with the
+  // day number (days since epoch) so the homepage varies day-to-day but is
+  // stable within a day: no content jumping between reloads, reproducible
+  // screenshots, and SSR/JS can agree on the same picks.
+  function mulberry32(seed) {
+    return function() {
+      seed |= 0;
+      seed = (seed + 0x6D2B79F5) | 0;
+      var t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+
+  var random = mulberry32(Math.floor(Date.now() / 86400000));
+
+  // ============================================
   // Fuzzy Logic Selection Functions
   // ============================================
 
@@ -50,12 +70,12 @@
 
   function weightedRandomSelect(items, weights) {
     var totalWeight = weights.reduce(function(sum, w) { return sum + w; }, 0);
-    var random = Math.random() * totalWeight;
+    var threshold = random() * totalWeight;
     var cumulative = 0;
 
     for (var i = 0; i < items.length; i++) {
       cumulative += weights[i];
-      if (random <= cumulative) return items[i];
+      if (threshold <= cumulative) return items[i];
     }
     return items[items.length - 1];
   }
@@ -63,7 +83,7 @@
   function shuffleArray(array) {
     var result = array.slice();
     for (var i = result.length - 1; i > 0; i--) {
-      var j = Math.floor(Math.random() * (i + 1));
+      var j = Math.floor(random() * (i + 1));
       var temp = result[i];
       result[i] = result[j];
       result[j] = temp;
@@ -99,7 +119,7 @@
       }
 
       if ((currentHour >= 5 && currentHour <= 10) || (currentHour >= 16 && currentHour <= 20)) {
-        score += Math.random() * 0.5;
+        score += random() * 0.5;
       }
 
       var postYear = new Date(post.time).getFullYear();
@@ -107,7 +127,7 @@
       if (yearDiff <= 1) score += 0.5;
       else if (yearDiff <= 3) score += 0.25;
 
-      score += Math.random() * CONFIG.randomnessFactor * 2;
+      score += random() * CONFIG.randomnessFactor * 2;
 
       return { post: post, score: score };
     });
@@ -158,8 +178,12 @@
     var selected = [];
     var used = {};
 
-    function usePost(post) {
+    // pickReason marks WHY a card was chosen (seasonal/throwback) so the
+    // grid can label it — otherwise the fuzzy selection is invisible to
+    // the reader and the mix looks random.
+    function usePost(post, pickReason) {
       if (post && !used[post.url]) {
+        post.pick_reason = pickReason || null;
         selected.push(post);
         used[post.url] = true;
         return true;
@@ -188,19 +212,20 @@
 
     // Seasonal (1 post)
     for (var j = 0; j < seasonal.length && selected.length < 3; j++) {
-      usePost(seasonal[j]);
+      usePost(seasonal[j], 'seasonal');
     }
 
     // Throwback (1 post)
     for (var k = 0; k < throwback.length && selected.length < 4; k++) {
-      usePost(throwback[k]);
+      usePost(throwback[k], 'throwback');
     }
 
-    // Fill remaining
+    // Fill remaining up to postsToShow. 5 cards fill the 3-column grid
+    // exactly: featured (2 cols) + 1 in row one, then a full row of 3.
     var remaining = shuffleArray(eligiblePosts.filter(function(p) {
       return !used[p.url];
     }));
-    for (var l = 0; l < remaining.length && selected.length < CONFIG.postsToShow - 1; l++) {
+    for (var l = 0; l < remaining.length && selected.length < CONFIG.postsToShow; l++) {
       usePost(remaining[l]);
     }
 
@@ -300,6 +325,16 @@
     return null;
   }
 
+  // Human label for the selection reason set by selectPosts — shown as a
+  // small badge on the card image. Returns null for ordinary picks.
+  function pickBadgeText(post) {
+    if (post.pick_reason === 'seasonal') return 'O tej porze roku';
+    if (post.pick_reason === 'throwback') {
+      return 'Z archiwum: ' + new Date(post.time).getFullYear();
+    }
+    return null;
+  }
+
   function escapeHtml(text) {
     if (!text) return '';
     var div = document.createElement('div');
@@ -357,8 +392,12 @@
     var avifSource = post.card_image_url_avif
       ? '<source type="image/avif" srcset="' + post.card_image_url_avif + '">' : '';
 
+    var badgeText = pickBadgeText(post);
+    var badgeHtml = badgeText
+      ? '<span class="post-card-badge">' + escapeHtml(badgeText) + '</span>' : '';
+
     card.innerHTML =
-      '<div class="post-card-image">' +
+      '<div class="post-card-image">' + badgeHtml +
         '<picture>' + avifSource +
           '<img src="' + escapeHtml(post.card_image_url) + '" alt="' +
             escapeHtml(post.title) + '" loading="lazy" decoding="async">' +

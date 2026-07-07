@@ -425,6 +425,10 @@ func navStatsFromIndex(ns catalog.NavStats, r *router.Router, tagBySlug map[stri
 		HikeCount:       ns.HikeCount,
 		SelfDistance:    ns.SelfDistance,
 		SelfTime:        ns.SelfTime,
+		PostCount:       ns.PostCount,
+		PhotoCount:      ns.PhotoCount,
+		CountyCount:     ns.CountyCount,
+		CountyTotal:     ns.CountyTotal,
 		Links: layout.NavLinks{
 			RoweremURL:   tagURL("bicycle"),
 			PieszoURL:    tagURL("hike"),

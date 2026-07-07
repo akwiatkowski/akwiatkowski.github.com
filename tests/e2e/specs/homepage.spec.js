@@ -131,6 +131,27 @@ test.describe('Homepage', () => {
       console.log(`Stats: bike=${bikeKm}km, hike=${hikeKm}km, time=${hours}h`);
     });
 
+    test('hero totals (posts, photos, counties) are not zero', async ({ page }) => {
+      await page.goto('/');
+
+      const statValues = page.locator('.stat-value');
+      await expect(statValues).toHaveCount(6);
+
+      // Values use NBSP thousands separators (e.g. "15 234") — strip them.
+      const parseStat = async (nth) =>
+        parseInt((await statValues.nth(nth).textContent() || '0').replace(/\s/g, ''), 10);
+
+      const posts = await parseStat(3);
+      const photos = await parseStat(4);
+      const counties = await parseStat(5);
+
+      expect(posts, 'Posts count should be greater than 0').toBeGreaterThan(0);
+      expect(photos, 'Photos count should be greater than 0').toBeGreaterThan(0);
+      expect(counties, 'Counties count should be greater than 0').toBeGreaterThan(0);
+
+      console.log(`Totals: posts=${posts}, photos=${photos}, counties=${counties}`);
+    });
+
   });
 
   test.describe('Dynamic content loads', () => {

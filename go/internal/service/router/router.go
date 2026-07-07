@@ -180,6 +180,9 @@ func (r *Router) YearReportURL(year int) string {
 // Feed URLs
 // ============================================
 
+// CoverageMapSVGURL is the baked homepage coverage-map SVG (visited powiaty).
+func (r *Router) CoverageMapSVGURL() string { return "/maps/pokrycie_powiatow.svg" }
+
 func (r *Router) RSSURL() string     { return "/feed.xml" }
 func (r *Router) AtomURL() string    { return "/feed_atom.xml" }
 func (r *Router) FeedJSON() string   { return "/feed.json" }

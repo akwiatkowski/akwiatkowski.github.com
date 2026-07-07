@@ -47,6 +47,10 @@ type NavStats struct {
 	HikeCount       int
 	SelfDistance    int
 	SelfTime        int
+	PostCount       int
+	PhotoCount      int
+	CountyCount     int
+	CountyTotal     int
 	Links           NavLinks
 }
 

@@ -211,7 +211,7 @@ func TestPostArticle_RendersSvgMap(t *testing.T) {
 
 func TestHomepage_RendersHeroSection(t *testing.T) {
 	stats := layout.NavStats{BicycleDistance: 1234, HikeDistance: 567, SelfTime: 89}
-	out := h.Render(t, views.HomepageContent(stats))
+	out := h.Render(t, views.HomepageContent(stats, "/maps/pokrycie_powiatow.svg"))
 	doc := h.Parse(t, out)
 
 	heroes := h.FindByClass(doc, "hero")
@@ -223,28 +223,46 @@ func TestHomepage_RendersHeroSection(t *testing.T) {
 }
 
 func TestHomepage_RendersStats(t *testing.T) {
-	stats := layout.NavStats{BicycleDistance: 1234, HikeDistance: 567, SelfTime: 89}
-	out := h.Render(t, views.HomepageContent(stats))
+	stats := layout.NavStats{
+		BicycleDistance: 1234, HikeDistance: 567, SelfTime: 89,
+		PostCount: 538, PhotoCount: 6261, CountyCount: 265,
+	}
+	out := h.Render(t, views.HomepageContent(stats, "/maps/pokrycie_powiatow.svg"))
 	h.AssertContains(t, out, "1234")
 	h.AssertContains(t, out, "567")
 	h.AssertContains(t, out, "89")
 	h.AssertContains(t, out, "rowerem")
 	h.AssertContains(t, out, "pieszo")
 	h.AssertContains(t, out, "w terenie")
+	h.AssertContains(t, out, "538")
+	h.AssertContains(t, out, "6 261") // NBSP thousands separator
+	h.AssertContains(t, out, "265")
+	h.AssertContains(t, out, "wpisów")
+	h.AssertContains(t, out, "zdjęć")
+	h.AssertContains(t, out, "powiatów")
 }
 
 func TestHomepage_RendersRecentPostsSection(t *testing.T) {
 	stats := layout.NavStats{}
-	out := h.Render(t, views.HomepageContent(stats))
+	out := h.Render(t, views.HomepageContent(stats, "/maps/pokrycie_powiatow.svg"))
 	h.AssertContains(t, out, "Ostatnie wpisy")
 	h.AssertContains(t, out, "posts-grid")
 }
 
 func TestHomepage_RendersCategoriesSection(t *testing.T) {
 	stats := layout.NavStats{}
-	out := h.Render(t, views.HomepageContent(stats))
+	out := h.Render(t, views.HomepageContent(stats, "/maps/pokrycie_powiatow.svg"))
 	h.AssertContains(t, out, "Odkrywaj")
 	h.AssertContains(t, out, "section-categories")
+}
+
+func TestHomepage_RendersCoverageSection(t *testing.T) {
+	stats := layout.NavStats{CountyCount: 265, CountyTotal: 380}
+	out := h.Render(t, views.HomepageContent(stats, "/maps/pokrycie_powiatow.svg"))
+	h.AssertContains(t, out, "Gdzie już byłem")
+	h.AssertContains(t, out, "/maps/pokrycie_powiatow.svg")
+	h.AssertContains(t, out, "z 380 powiatów")
+	h.AssertContains(t, out, "265")
 }
 
 func TestHomepageStats_RendersStatUnits(t *testing.T) {

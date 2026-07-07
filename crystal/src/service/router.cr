@@ -232,6 +232,13 @@ class Router
     "/o-mnie.html"
   end
 
+  # Baked homepage coverage-map SVG (visited powiaty). NOTE: the file itself
+  # is currently generated only by the Go engine (view.CoverageMapSVG);
+  # Crystal just links to it from the homepage.
+  def coverage_map_svg_url : String
+    "/maps/pokrycie_powiatow.svg"
+  end
+
   def year_report_url(year : Int32) : String
     "/rok-#{year}.html"
   end

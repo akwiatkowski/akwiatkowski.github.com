@@ -56,7 +56,7 @@ func HomepagePage(
 		NavStats:     stats,
 	}
 
-	return NewHTMLPage(url, page, views.HomepageContent(stats), true)
+	return NewHTMLPage(url, page, views.HomepageContent(stats, r.CoverageMapSVGURL()), true)
 }
 
 // HomepageJSON creates the /jsons/homepage.json endpoint consumed by

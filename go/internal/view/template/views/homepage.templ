@@ -5,7 +5,7 @@ import (
 	"odkrywajac/internal/view/template/layout"
 )
 
-templ HomepageContent(stats layout.NavStats) {
+templ HomepageContent(stats layout.NavStats, coverageMapURL string) {
 	<div class="home-page">
 		<!-- Hero -->
 		<section class="hero">
@@ -42,6 +42,29 @@ templ HomepageContent(stats layout.NavStats) {
 			<div class="loading-state">Wczytywanie wpisów...</div>
 		</div>
 		</section>
+		<!-- Coverage map: visited powiaty, baked SVG (see view.CoverageMapSVG) -->
+		<section class="section section-coverage">
+			<div class="section-header">
+				<h2 class="section-title">Gdzie już byłem</h2>
+				<a href={ templ.SafeURL(stats.Links.MapURL) } class="section-link">Mapa tras →</a>
+			</div>
+			<div class="coverage">
+				<a href={ templ.SafeURL(stats.Links.MapURL) } class="coverage-map">
+					<img src={ coverageMapURL } alt="Mapa Polski z zaznaczonymi odwiedzonymi powiatami" loading="lazy" decoding="async"/>
+				</a>
+				<div class="coverage-text">
+					<p class="coverage-count">
+						<strong>{ formatThousands(stats.CountyCount) }</strong>
+						{ fmt.Sprintf("z %d powiatów", stats.CountyTotal) }
+					</p>
+					<p class="coverage-desc">
+						Każda wycieczka odsłania kolejny kawałek mapy. Im ciemniejszy
+						powiat, tym dokładniej go poznałem — pieszo, rowerem i z aparatem.
+						Jasne obszary wciąż czekają na odkrycie.
+					</p>
+				</div>
+			</div>
+		</section>
 		<!-- Categories / Explore -->
 		<section class="section-categories">
 			<div class="section-categories-inner">
@@ -75,5 +98,17 @@ templ HomepageStats(stats layout.NavStats) {
 			<span class="stat-unit">h</span>
 		</span>
 		<span class="stat-label">w terenie</span>
+	</div>
+	<div class="stat">
+		<span class="stat-value">{ formatThousands(stats.PostCount) }</span>
+		<span class="stat-label">wpisów</span>
+	</div>
+	<div class="stat">
+		<span class="stat-value">{ formatThousands(stats.PhotoCount) }</span>
+		<span class="stat-label">zdjęć</span>
+	</div>
+	<div class="stat">
+		<span class="stat-value">{ formatThousands(stats.CountyCount) }</span>
+		<span class="stat-label">powiatów</span>
 	</div>
 }

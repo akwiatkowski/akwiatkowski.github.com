@@ -14,19 +14,21 @@ func GenerateAllViews(
 	r *router.Router,
 	resolver *bundle.Resolver,
 	polygonDir string,
+	polygonConfigDir string,
 	pagesDir string,
 	release bool,
 ) []Renderable {
 	var all []Renderable
 
-	// Homepage
+	// Homepage + its baked coverage-map SVG (embedded via <img>)
 	all = append(all, HomepagePage(data, r, resolver))
+	all = append(all, CoverageMapSVG(data, r, polygonConfigDir))
 
-	// Post pages: article and gallery for each finished post
+	// Post pages: article and gallery for every post. finished_at does NOT gate
+	// rendering — most published posts omit it. Draft handling instead runs on
+	// the todo tag: in release, a not-ready (todo) post keeps its page but the
+	// body is replaced by a "not finished yet" notice (see PostArticlePage).
 	for _, post := range data.Posts {
-		if !post.IsFinished() {
-			continue
-		}
 		all = append(all,
 			PostArticlePage(data, post, r, resolver, release),
 			PostGalleryPage(data, post, r, resolver),

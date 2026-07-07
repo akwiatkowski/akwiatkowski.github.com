@@ -160,7 +160,7 @@ func TestGenerateAllViews(t *testing.T) {
 	data := testSiteData()
 	r := router.New("https://odkrywajacpolske.pl")
 
-	all := GenerateAllViews(data, r, nil, "", "", false)
+	all := GenerateAllViews(data, r, nil, "", "", "", false)
 
 	// 1 homepage + 2 posts (article+gallery) + 3 area pages
 	// + 2 tag post lists + 2 tag redirects + 8 JSON endpoints

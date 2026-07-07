@@ -331,7 +331,11 @@ func runBuild(ctx *pipeline.Context) {
 	// --- View generation and rendering ---
 
 	pipe.Add("generateViews", []string{"buildSiteData", "createRouter", "copyAssets", "processImages", "precomputeVersions", "generatePolygons"}, func(ctx *pipeline.Context) error {
-		views = view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, ctx.PagesDir(), ctx.IsRelease())
+		// polygonDir = generated cache (area show pages); config polygons are
+		// the complete committed set (all voivodeships + visited counties)
+		// used by the homepage coverage map.
+		polygonConfigDir := filepath.Join(ctx.ConfigDir(), "polygons")
+		views = view.GenerateAllViews(siteData, siteRouter, resolver, polygonDir, polygonConfigDir, ctx.PagesDir(), ctx.IsRelease())
 		fmt.Printf("Views generated: %d\n", len(views))
 		return nil
 	})

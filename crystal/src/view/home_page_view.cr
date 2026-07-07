@@ -67,6 +67,15 @@ class HomePageView < BaseView
     data["stats.bike_distance"] = total_bike_distance.to_s
     data["stats.hike_distance"] = total_hike_distance.to_s
     data["stats.time_spent"] = total_time_spent.to_s
+    data["stats.posts_count"] = format_thousands(total_posts_count)
+    data["stats.photos_count"] = format_thousands(total_photos_count)
+    data["stats.counties_count"] = format_thousands(counties_with_posts_count)
+
+    # Coverage map section ("Gdzie już byłem")
+    data["coverage.map_url"] = router.map_url
+    data["coverage.svg_url"] = router.coverage_map_svg_url
+    data["coverage.visited"] = format_thousands(counties_with_posts_count)
+    data["coverage.total"] = context.areas_of_type(AreaType::County).size.to_s
 
     # Navigation and footer (shared partials)
     data["navigation"] = load_html("include/navigation/new")
@@ -83,14 +92,12 @@ class HomePageView < BaseView
     load_html("home/new", data)
   end
 
-  # Include Google Fonts for the new design
+  # Standalone head (bypasses bundles) — self-hosted fonts + page CSS
   def head_open_html
     String.build do |s|
       s << load_html("include/head_meta")
-      # Google Fonts
-      s << %(<link rel="preconnect" href="https://fonts.googleapis.com">\n)
-      s << %(<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n)
-      s << %(<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">\n)
+      # Self-hosted Inter + Playfair Display (no third-party font requests)
+      s << %(<link rel="stylesheet" href="/css/self/fonts.css">\n)
       # Page CSS
       s << %(<link rel="stylesheet" href="/css/self/new-home.css">\n)
       s << load_html("include/head_icons")
@@ -121,5 +128,26 @@ class HomePageView < BaseView
       .select(&.ready?)
       .compact_map(&.time_spent)
       .sum.to_i
+  end
+
+  private def total_posts_count : Int32
+    context.posts.count(&.ready?)
+  end
+
+  private def total_photos_count : Int32
+    context.posts
+      .select(&.ready?)
+      .sum { |p| p.published_photo_entities.size }
+  end
+
+  # Counties (powiaty) with at least one post — memoized in RenderContext.
+  private def counties_with_posts_count : Int32
+    context.areas_with_posts(AreaType::County).size
+  end
+
+  # Format an integer with non-breaking spaces as thousands separators
+  # (Polish convention), e.g. 15234 → "15 234" — for the hero totals.
+  private def format_thousands(number : Int32) : String
+    number.to_s.reverse.gsub(/(\d{3})(?=\d)/, "\\1 ").reverse
   end
 end
