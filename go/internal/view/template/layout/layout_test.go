@@ -1,6 +1,7 @@
 package layout_test
 
 import (
+	"strings"
 	"testing"
 
 	"odkrywajac/internal/service/bundle"
@@ -105,11 +106,14 @@ func TestHead_OmitsDescWhenEmpty(t *testing.T) {
 	}
 }
 
-func TestHead_RendersGoogleFonts(t *testing.T) {
+// Fonts are self-hosted (/css/self/fonts.css via the core bundle) — the head
+// must not reach out to Google Fonts.
+func TestHead_NoGoogleFonts(t *testing.T) {
 	pd := samplePageData()
 	out := htmltest.Render(t, layout.Head(pd))
-	htmltest.AssertContains(t, out, "fonts.googleapis.com")
-	htmltest.AssertContains(t, out, "fonts.gstatic.com")
+	if strings.Contains(out, "fonts.googleapis.com") || strings.Contains(out, "fonts.gstatic.com") {
+		t.Error("head must not reference Google Fonts (fonts are self-hosted)")
+	}
 }
 
 // --- HeadOG ---

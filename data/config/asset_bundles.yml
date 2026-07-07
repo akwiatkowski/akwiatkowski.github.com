@@ -26,6 +26,12 @@ bundles:
       /css/libs/leaflet.css: "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
 
   # === CSS Self (Our Code) ===
+  # Self-hosted Inter + Playfair Display (woff2). Replaces the old
+  # fonts.googleapis.com stylesheet — no third-party font requests.
+  fonts-css:
+    css:
+      - /css/self/fonts.css
+
   blog-css:
     css:
       - /css/self/new.css
@@ -82,6 +88,7 @@ bundles:
 composites:
   core:
     includes:
+      - fonts-css
       - bootstrap-css
       - fontawesome
       - blog-css

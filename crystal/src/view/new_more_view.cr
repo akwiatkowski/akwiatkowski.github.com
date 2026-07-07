@@ -62,14 +62,12 @@ class NewMoreView < BaseView
     load_html("more/new", data)
   end
 
-  # Include Google Fonts for the new design
+  # Standalone head (bypasses bundles) — self-hosted fonts + page CSS
   def head_open_html
     String.build do |s|
       s << load_html("include/head_meta")
-      # Google Fonts
-      s << %(<link rel="preconnect" href="https://fonts.googleapis.com">\n)
-      s << %(<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n)
-      s << %(<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">\n)
+      # Self-hosted Inter + Playfair Display (no third-party font requests)
+      s << %(<link rel="stylesheet" href="/css/self/fonts.css">\n)
       # Page CSS
       s << %(<link rel="stylesheet" href="/css/self/new-home.css">\n)
       s << load_html("include/head_icons")
