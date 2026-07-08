@@ -67,33 +67,42 @@ func TestSrtmTilesFor(t *testing.T) {
 	}
 }
 
-func TestSampleCatmullRom(t *testing.T) {
-	// Fewer than 3 control points: returned unchanged.
-	two := [][2]float64{{0, 0}, {10, 0}}
-	if got := sampleCatmullRom(two, 1); len(got) != 2 {
-		t.Errorf("sampleCatmullRom with 2 points returned %d points, want 2", len(got))
-	}
-
-	// A straight, evenly-spaced line stays on the line and gets denser.
-	line := [][2]float64{{0, 0}, {10, 0}, {20, 0}, {30, 0}}
-	got := sampleCatmullRom(line, 1)
+func TestSampleLinear(t *testing.T) {
+	// A single segment longer than the spacing gets densified, staying on-line.
+	line := [][2]float64{{0, 0}, {10, 0}}
+	got := sampleLinear(line, 1)
 	if len(got) <= len(line) {
-		t.Errorf("sampleCatmullRom did not densify: got %d points from %d", len(got), len(line))
+		t.Errorf("sampleLinear did not densify: got %d points from %d", len(got), len(line))
 	}
 	if got[0] != line[0] {
-		t.Errorf("sampled path does not start at first control point: %v", got[0])
+		t.Errorf("sampled path does not start at first point: %v", got[0])
+	}
+	last := got[len(got)-1]
+	if math.Abs(last[0]-10) > 1e-9 || math.Abs(last[1]) > 1e-9 {
+		t.Errorf("sampled path does not end at last point: %v", last)
 	}
 	for _, p := range got {
 		if math.Abs(p[1]) > 1e-6 {
 			t.Errorf("sampled point off the straight line: %v", p)
 		}
 	}
+
+	// Fewer than 2 points: returned unchanged.
+	if got := sampleLinear([][2]float64{{1, 1}}, 1); len(got) != 1 {
+		t.Errorf("sampleLinear with 1 point returned %d", len(got))
+	}
 }
 
-func TestProjectorScale(t *testing.T) {
-	pr := projector{width: 2000}
-	if got := pr.scale(); math.Abs(got-2.0) > 1e-9 {
-		t.Errorf("scale() = %v, want 2.0", got)
+func TestRdpSimplify(t *testing.T) {
+	// Collinear points collapse to the two endpoints.
+	line := [][2]float64{{0, 0}, {5, 0}, {10, 0}}
+	if got := rdpSimplify(line, 0.5); len(got) != 2 {
+		t.Errorf("rdpSimplify collinear = %d points, want 2", len(got))
+	}
+	// A point outside tolerance is kept.
+	bent := [][2]float64{{0, 0}, {5, 5}, {10, 0}}
+	if got := rdpSimplify(bent, 0.5); len(got) != 3 {
+		t.Errorf("rdpSimplify bent = %d points, want 3", len(got))
 	}
 }
 
@@ -130,15 +139,6 @@ func TestFlattenTags(t *testing.T) {
 	}
 	if _, ok := tags["empty"]; ok {
 		t.Error("empty value should be skipped")
-	}
-}
-
-func TestScaleDash(t *testing.T) {
-	if got := scaleDash("3,2", 2); got != "6.00,4.00" {
-		t.Errorf("scaleDash(3,2 ,2) = %q, want 6.00,4.00", got)
-	}
-	if got := scaleDash("", 3); got != "" {
-		t.Errorf("scaleDash empty = %q, want empty", got)
 	}
 }
 

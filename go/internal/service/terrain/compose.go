@@ -17,10 +17,9 @@ import (
 // to the actual output width, so the SVG and the raster PNGs draw the same
 // visual thickness regardless of resolution.
 const (
-	referenceWidth   = 1000.0 // width the reference weights are calibrated for
-	routeBoldness    = 1.6    // multiplier making routes a touch bolder than on photo maps
-	casingExtraPx    = 1.6    // white casing radius added around the colored core (at ref width)
-	stampSpacingPx   = 0.6    // spacing between AA circle stamps along the route (ref width)
+	routeBoldness    = 1.3 // multiplier for route thickness vs its config weight (output px)
+	casingExtraPx    = 1.3 // white casing radius added around the colored core (output px)
+	stampSpacingPx   = 0.6 // spacing between AA circle stamps along the route (output px)
 	defaultRouteRGB  = "51,136,255"
 	defaultRouteWide = 3 // fallback stroke weight when a route type has no config
 )
@@ -45,8 +44,16 @@ func (pr projector) project(lat, lon float64) (x, y float64) {
 	return x, y
 }
 
-// scale returns the reference-width-relative scale factor for this output size.
-func (pr projector) scale() float64 { return pr.width / referenceWidth }
+// projectMercator converts an EPSG:3857 point (meters) into an output-image
+// pixel coordinate. Used for contour lines, which GDAL emits in Web Mercator.
+func (pr projector) projectMercator(mx, my float64) (x, y float64) {
+	worldPx := 256.0 * math.Pow(2, float64(pr.zoom))
+	px := (mx + mercatorR) / (2 * mercatorR) * worldPx
+	py := (mercatorR - my) / (2 * mercatorR) * worldPx
+	x = (px - pr.minPX) / pr.cropW * pr.width
+	y = (py - pr.minPY) / pr.cropH * pr.height
+	return x, y
+}
 
 // parseRouteColor turns a config color string ("51,136,255" or "rgb(0,70,240)")
 // into an RGBA. Unparseable input falls back to the default route blue.
@@ -81,70 +88,72 @@ func routeStyle(routeType string, routeColors map[string]model.RouteColor) (colo
 	return parseRouteColor(defaultRouteRGB), defaultRouteWide
 }
 
-// sampleCatmullRom expands a polyline of control points into a dense, smooth
-// polyline using a uniform Catmull-Rom spline (the same curve the SVG photo maps
-// draw as Béziers). Sampling density follows the chord length so stamps stay
-// evenly spaced. Points are in output-image pixel space.
-func sampleCatmullRom(points [][2]float64, spacing float64) [][2]float64 {
-	if len(points) < 3 {
-		return points // nothing to smooth
+// rdpSimplify applies the Ramer–Douglas–Peucker algorithm to drop points within
+// `epsilon` pixels of the line between their neighbors. Used to tame the wiggle
+// of DEM-derived contour lines (the route itself is drawn unsimplified).
+func rdpSimplify(points [][2]float64, epsilon float64) [][2]float64 {
+	if len(points) < 3 || epsilon <= 0 {
+		return points
 	}
-	var out [][2]float64
-	out = append(out, points[0])
-	for i := 0; i < len(points)-1; i++ {
-		p0 := points[max0(i-1)]
-		p1 := points[i]
-		p2 := points[i+1]
-		p3 := points[min0(i+2, len(points)-1)]
+	first, last := points[0], points[len(points)-1]
+	maxDist, idx := 0.0, 0
+	for i := 1; i < len(points)-1; i++ {
+		if d := perpDistance(points[i], first, last); d > maxDist {
+			maxDist, idx = d, i
+		}
+	}
+	if maxDist <= epsilon {
+		return [][2]float64{first, last}
+	}
+	left := rdpSimplify(points[:idx+1], epsilon)
+	right := rdpSimplify(points[idx:], epsilon)
+	return append(left[:len(left)-1], right...)
+}
 
-		chord := math.Hypot(p2[0]-p1[0], p2[1]-p1[1])
-		steps := int(chord / spacing)
+// perpDistance returns the perpendicular distance from p to the line a→b.
+func perpDistance(p, a, b [2]float64) float64 {
+	dx, dy := b[0]-a[0], b[1]-a[1]
+	length := math.Hypot(dx, dy)
+	if length == 0 {
+		return math.Hypot(p[0]-a[0], p[1]-a[1])
+	}
+	return math.Abs((p[0]-a[0])*dy-(p[1]-a[1])*dx) / length
+}
+
+// sampleLinear walks a polyline and emits points every ~spacing pixels along
+// each straight segment (endpoints included). No smoothing — the route follows
+// the raw GPS track exactly; this just densifies it so the AA circle-stamping
+// leaves no gaps between far-apart track points.
+func sampleLinear(points [][2]float64, spacing float64) [][2]float64 {
+	if len(points) < 2 || spacing <= 0 {
+		return points
+	}
+	out := [][2]float64{points[0]}
+	for i := 1; i < len(points); i++ {
+		a, b := points[i-1], points[i]
+		dist := math.Hypot(b[0]-a[0], b[1]-a[1])
+		steps := int(dist / spacing)
 		if steps < 1 {
 			steps = 1
 		}
 		for s := 1; s <= steps; s++ {
 			t := float64(s) / float64(steps)
-			out = append(out, catmullRomPoint(p0, p1, p2, p3, t))
+			out = append(out, [2]float64{a[0] + (b[0]-a[0])*t, a[1] + (b[1]-a[1])*t})
 		}
 	}
 	return out
 }
 
-// catmullRomPoint evaluates the uniform Catmull-Rom basis at parameter t in the
-// segment p1→p2 (p0 and p3 are the neighboring control points that set the
-// tangents).
-func catmullRomPoint(p0, p1, p2, p3 [2]float64, t float64) [2]float64 {
-	t2 := t * t
-	t3 := t2 * t
-	var q [2]float64
-	for a := 0; a < 2; a++ {
-		q[a] = 0.5 * ((2 * p1[a]) +
-			(-p0[a]+p2[a])*t +
-			(2*p0[a]-5*p1[a]+4*p2[a]-p3[a])*t2 +
-			(-p0[a]+3*p1[a]-3*p2[a]+p3[a])*t3)
-	}
-	return q
-}
-
-func max0(v int) int {
-	if v < 0 {
-		return 0
-	}
-	return v
-}
-func min0(v, hi int) int {
-	if v > hi {
-		return hi
-	}
-	return v
-}
+// mapContrast is a mild whole-map contrast lift applied after shading, pivoting
+// around mid-grey (128): >1 spreads tones apart so features read more crisply.
+const mapContrast = 1.1
 
 // compositeShade multiplies the OSM base color by the hillshade brightness so
-// the map surface keeps its identity while gaining terrain relief. strength in
-// [0,1] sets how dark the shadows go: the per-pixel factor is
-// (1-strength) + strength*shade, so a fully-lit slope (shade=1) is unchanged
-// and a fully-shadowed one (shade=0) darkens to (1-strength) of its color.
-// base and shade must have the same dimensions.
+// the map surface keeps its identity while gaining terrain relief, then applies
+// a small contrast lift. strength in [0,1] sets how dark the shadows go: the
+// per-pixel factor is (1-strength) + strength*shade, so a fully-lit slope
+// (shade=1) is unchanged and a fully-shadowed one darkens to (1-strength) of its
+// color. base and shade must have the same dimensions.
 func compositeShade(base, shade image.Image, strength float64) *image.RGBA {
 	b := base.Bounds()
 	w, h := b.Dx(), b.Dy()
@@ -155,41 +164,44 @@ func compositeShade(base, shade image.Image, strength float64) *image.RGBA {
 			sr, _, _, _ := shade.At(x, y).RGBA() // grayscale hillshade
 			factor := (1 - strength) + strength*(float64(sr)/65535.0)
 			i := out.PixOffset(x, y)
-			out.Pix[i+0] = clamp8(float64(br>>8) * factor)
-			out.Pix[i+1] = clamp8(float64(bg>>8) * factor)
-			out.Pix[i+2] = clamp8(float64(bb>>8) * factor)
+			out.Pix[i+0] = contrast8(float64(br>>8) * factor)
+			out.Pix[i+1] = contrast8(float64(bg>>8) * factor)
+			out.Pix[i+2] = contrast8(float64(bb>>8) * factor)
 			out.Pix[i+3] = 255
 		}
 	}
 	return out
 }
 
+// contrast8 applies mapContrast around mid-grey then clamps to a byte.
+func contrast8(v float64) uint8 {
+	return clamp8((v-128)*mapContrast + 128)
+}
+
 // drawRouteOnImage renders every route segment onto the raster with a white
 // casing beneath a colored core, both anti-aliased, so routes read clearly over
 // both dark and light terrain.
 func drawRouteOnImage(img *image.RGBA, routes []model.Route, routeColors map[string]model.RouteColor, pr projector) {
-	scale := pr.scale()
-	spacing := stampSpacingPx * scale
 	casing := color.RGBA{255, 255, 255, 255}
 
 	for _, route := range routes {
 		col, weight := routeStyle(route.Type, routeColors)
-		coreRadius := float64(weight) * routeBoldness * scale / 2.0
+		coreRadius := float64(weight) * routeBoldness / 2.0
 		if coreRadius < 1 {
 			coreRadius = 1
 		}
-		casingRadius := coreRadius + casingExtraPx*scale
+		casingRadius := coreRadius + casingExtraPx
 
 		for _, seg := range route.Segments {
 			if len(seg) < 2 {
 				continue
 			}
-			ctrl := make([][2]float64, len(seg))
+			pts := make([][2]float64, len(seg))
 			for i, ll := range seg {
 				x, y := pr.project(ll.Lat, ll.Lon)
-				ctrl[i] = [2]float64{x, y}
+				pts[i] = [2]float64{x, y}
 			}
-			pts := sampleCatmullRom(ctrl, spacing)
+			pts = sampleLinear(pts, stampSpacingPx)
 			stampLine(img, pts, casing, casingRadius)
 			stampLine(img, pts, col, coreRadius)
 		}
@@ -249,7 +261,6 @@ func blendPixel(img *image.RGBA, x, y int, src color.RGBA, cov float64) {
 func buildSVG(w io.Writer, routes []model.Route, routeColors map[string]model.RouteColor, pr projector, reliefURL string) {
 	width := int(pr.width)
 	height := int(pr.height)
-	scale := pr.scale()
 
 	fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 %d %d" width="%d" height="%d">`,
 		width, height, width, height)
@@ -261,20 +272,20 @@ func buildSVG(w io.Writer, routes []model.Route, routeColors map[string]model.Ro
 
 	for _, route := range routes {
 		col, weight := routeStyle(route.Type, routeColors)
-		coreW := float64(weight) * routeBoldness * scale
-		casingW := coreW + 2*casingExtraPx*scale
+		coreW := float64(weight) * routeBoldness
+		casingW := coreW + 2*casingExtraPx
 		colStr := fmt.Sprintf("rgb(%d,%d,%d)", col.R, col.G, col.B)
 
 		for _, seg := range route.Segments {
 			if len(seg) < 2 {
 				continue
 			}
-			ctrl := make([][2]float64, len(seg))
+			// Raw GPS polyline — no smoothing.
+			pts := make([][2]float64, len(seg))
 			for i, ll := range seg {
 				x, y := pr.project(ll.Lat, ll.Lon)
-				ctrl[i] = [2]float64{x, y}
+				pts[i] = [2]float64{x, y}
 			}
-			pts := sampleCatmullRom(ctrl, stampSpacingPx*scale*8) // coarser is fine for vectors
 			ptsStr := polylinePoints(pts)
 			fmt.Fprintf(w, `<polyline points="%s" stroke="white" stroke-width="%.2f" opacity="0.9"/>`, ptsStr, casingW)
 			fmt.Fprintln(w)

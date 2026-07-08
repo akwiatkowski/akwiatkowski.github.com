@@ -16,10 +16,12 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+	"regexp"
 	"strconv"
 	"strings"
 
 	"github.com/disintegration/imaging"
+	"github.com/paulmach/orb"
 )
 
 // mercatorR is half the circumference of the Earth in EPSG:3857 (Web Mercator)
@@ -120,6 +122,7 @@ type demParams struct {
 	lonMin       float64
 	lonMax       float64
 	exaggeration float64 // vertical exaggeration multiplier (>1 = punchier hills)
+	drawContours bool    // generate contour lines (currently off by default)
 }
 
 // buildDEMSource prepares a GDAL-readable elevation dataset for the requested
@@ -149,10 +152,20 @@ func buildDEMSource(p demParams, tmpDir string) (path string, scale float64, err
 // extent as an in-memory image at the requested resolution. Elevation is used
 // only for shading — the map surface itself comes from OSM. The hillshade is
 // later multiplied over the OSM base to give it relief.
-func renderHillshade(p demParams) (image.Image, error) {
+// contourLine is one contour polyline in EPSG:3857 meters, flagged as a major
+// (index) contour when its elevation is a multiple of the major interval.
+type contourLine struct {
+	geom  orb.Geometry // LineString / MultiLineString in EPSG:3857
+	major bool
+}
+
+// renderTerrain warps the elevation source once and derives both a grayscale
+// hillshade image (at the requested pixel size) and a set of contour lines.
+// Elevation is used only for shading and contours — the map surface is OSM.
+func renderTerrain(p demParams) (image.Image, []contourLine, error) {
 	tmp, err := os.MkdirTemp("", "terrain-dem-")
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 	defer os.RemoveAll(tmp)
 
@@ -164,7 +177,7 @@ func renderHillshade(p demParams) (image.Image, error) {
 	//    converts the stored integer values to meters.
 	src, demScale, err := buildDEMSource(p, tmp)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	// 2. Reproject to Web Mercator and clip to the exact extent + pixel size so
@@ -176,7 +189,7 @@ func renderHillshade(p demParams) (image.Image, error) {
 		"-ts", strconv.Itoa(p.pxW), strconv.Itoa(p.pxH),
 		"-r", "cubic", "-overwrite", src, warped,
 	); err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	// 3. Multidirectional hillshade. The z-factor combines three things:
@@ -189,19 +202,88 @@ func renderHillshade(p demParams) (image.Image, error) {
 	if err := runTool("gdaldem", "hillshade", "-multidirectional",
 		"-z", ftoa(zFactor), "-compute_edges", warped, hsTif,
 	); err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	// 4. Translate to PNG so Go's image package can read it (no pure-Go GeoTIFF
 	//    decoder in the stdlib).
 	if err := runTool("gdal_translate", "-of", "PNG", hsTif, hsPng); err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 	hs, err := imaging.Open(hsPng)
 	if err != nil {
-		return nil, fmt.Errorf("open hillshade png: %w", err)
+		return nil, nil, fmt.Errorf("open hillshade png: %w", err)
 	}
-	return hs, nil
+
+	// 5. Contours from the same warped DEM (optional). Values are still in the
+	//    source's stored units, so scale the interval by demScale to get meters.
+	if !p.drawContours {
+		return hs, nil, nil
+	}
+	contours, err := generateContours(warped, demScale, tmp)
+	if err != nil {
+		return nil, nil, err
+	}
+	return hs, contours, nil
+}
+
+var minMaxRe = regexp.MustCompile(`Computed Min/Max=([-0-9.]+),([-0-9.]+)`)
+
+// generateContours runs gdal_contour on the warped DEM and returns the contour
+// polylines (in EPSG:3857). The interval is chosen from the elevation range so
+// the map shows a legible ~10–20 lines rather than a solid mass or nothing.
+func generateContours(warped string, demScale float64, tmp string) ([]contourLine, error) {
+	// Elevation range in stored units (parse gdalinfo -mm).
+	bin, err := findTool("gdalinfo")
+	if err != nil {
+		return nil, err
+	}
+	out, err := exec.Command(bin, "-mm", warped).CombinedOutput()
+	if err != nil {
+		return nil, fmt.Errorf("gdalinfo -mm: %w\n%s", err, out)
+	}
+	m := minMaxRe.FindStringSubmatch(string(out))
+	if m == nil {
+		return nil, nil // no stats (e.g. all-nodata) → no contours, not an error
+	}
+	lo, _ := strconv.ParseFloat(m[1], 64)
+	hi, _ := strconv.ParseFloat(m[2], 64)
+	rangeM := (hi - lo) * demScale
+	interval := niceContourStep(rangeM / 15)
+	if interval <= 0 {
+		return nil, nil
+	}
+	// gdal_contour interval is in stored units; convert meters → stored units.
+	storedInterval := interval / demScale
+
+	geojson := filepath.Join(tmp, "contours.geojson")
+	if err := runTool("gdal_contour", "-a", "elev", "-i", ftoa(storedInterval), warped, geojson); err != nil {
+		return nil, err
+	}
+	feats, err := loadFeatures(geojson)
+	if err != nil {
+		return nil, err
+	}
+	majorEvery := interval * 5 // every 5th line is an index (major) contour
+	lines := make([]contourLine, 0, len(feats))
+	for _, f := range feats {
+		elevStored, _ := strconv.ParseFloat(f.tags["elev"], 64)
+		elevM := elevStored * demScale
+		major := math.Mod(math.Abs(elevM)+interval/2, majorEvery) < interval
+		lines = append(lines, contourLine{geom: f.geom, major: major})
+	}
+	return lines, nil
+}
+
+// niceContourStep rounds a rough interval up to a cartographically tidy value.
+func niceContourStep(rough float64) float64 {
+	steps := []float64{1, 2, 2.5, 5, 10, 20, 25, 50, 100, 200, 250, 500}
+	for _, s := range steps {
+		if rough <= s {
+			return s
+		}
+	}
+	return 1000
 }
 
 // clamp8 rounds and clamps a float to a 0..255 byte.

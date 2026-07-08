@@ -39,6 +39,7 @@ type Options struct {
 	PrintScale    int     // print map is this multiple of the article map (default 3)
 	Exaggeration  float64 // vertical exaggeration (default 1.4)
 	ShadeStrength float64 // hillshade darkening strength 0..1 (default 0.5)
+	DrawContours  bool    // draw elevation contour lines (default off)
 	MinZoom       int     // clamp for zoom fitting (default 8)
 	MaxZoom       int     // clamp for zoom fitting (default 14)
 	Verbose       bool
@@ -143,9 +144,9 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 			post.Slug, zoom, articleW, articleH, printW, printH, latMin, latMax, lonMin, lonMax)
 	}
 
-	// 5. Build the base map at print resolution: OSM "normal" map shaded by the
-	//    hillshade. Both are rendered to the exact same extent/pixel grid so they
-	//    align; the article/web variants are downscaled from this.
+	// 5. Build the base maps. The map surface is OSM, shaded by the hillshade.
+	//    The article and print maps are rendered independently at their own level
+	//    of detail (print shows more labels/small features) — not one enlarged.
 	tmp, err := os.MkdirTemp("", "terrain-render-")
 	if err != nil {
 		return nil, err
@@ -153,16 +154,19 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	defer os.RemoveAll(tmp)
 
 	printPr := projector{zoom: zoom, minPX: bounds.MinPX, minPY: bounds.MinPY, cropW: cropW, cropH: cropH, width: float64(printW), height: float64(printH)}
+	articlePr := projector{zoom: zoom, minPX: bounds.MinPX, minPY: bounds.MinPY, cropW: cropW, cropH: cropH, width: float64(articleW), height: float64(articleH)}
 
-	osm, err := loadOSM(latMin, latMax, lonMin, lonMax, opts.OSMPBFPath, opts.OSMMarginDeg, opts.OSMCacheDir)
+	// Fetch OSM over the *rendered* extent (not just the route bbox) plus a
+	// margin, so roads/features reach the visible edges instead of being clipped.
+	rLatMax, rLonMin := svg.PixelToLatLon(bounds.MinPX, bounds.MinPY, zoom) // top-left
+	rLatMin, rLonMax := svg.PixelToLatLon(bounds.MaxPX, bounds.MaxPY, zoom) // bottom-right
+	osm, err := loadOSM(rLatMin, rLatMax, rLonMin, rLonMax, opts.OSMPBFPath, opts.OSMMarginDeg, opts.OSMCacheDir)
 	if err != nil {
 		return nil, err
 	}
-	osmImg, err := renderOSMBase(osm, printPr, tmp)
-	if err != nil {
-		return nil, err
-	}
-	shade, err := renderHillshade(demParams{
+
+	// Hillshade + contours once at print resolution; downscale shade for article.
+	shadePrint, contours, err := renderTerrain(demParams{
 		ext:          ext,
 		pxW:          printW,
 		pxH:          printH,
@@ -175,11 +179,23 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		lonMin:       lonMin,
 		lonMax:       lonMax,
 		exaggeration: opts.Exaggeration,
+		drawContours: opts.DrawContours,
 	})
 	if err != nil {
 		return nil, err
 	}
-	base := compositeShade(osmImg, shade, opts.ShadeStrength)
+	shadeArticle := imaging.Resize(shadePrint, articleW, 0, imaging.Lanczos)
+
+	osmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "print", lodPrint)
+	if err != nil {
+		return nil, err
+	}
+	osmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "web", lodWeb)
+	if err != nil {
+		return nil, err
+	}
+	basePrint := compositeShade(osmPrint, shadePrint, opts.ShadeStrength)
+	baseArticle := compositeShade(osmArticle, shadeArticle, opts.ShadeStrength)
 
 	// 6. Output paths.
 	year := post.Date.Year()
@@ -193,25 +209,21 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	reliefPath := filepath.Join(dir, post.Slug+"-relief.png")
 	reliefURL := fmt.Sprintf("/%s/%d/%s-relief.png", outputSubdir, year, post.Slug)
 
-	// 7. Save the relief background (route-free) for the SVG, then draw the route
-	//    onto the base for the raster outputs.
-	reliefWeb := imaging.Resize(base, articleW, 0, imaging.Lanczos)
-	if err := imaging.Save(reliefWeb, reliefPath); err != nil {
+	// 7. Save the article relief (route-free) for the SVG background, then draw
+	//    the route onto each base for the raster outputs.
+	if err := imaging.Save(baseArticle, reliefPath); err != nil {
 		return nil, fmt.Errorf("save relief png: %w", err)
 	}
-
-	drawRouteOnImage(base, post.Routes, routeColors, printPr)
-
-	if err := imaging.Save(base, printPath); err != nil {
-		return nil, fmt.Errorf("save print png: %w", err)
-	}
-	articleImg := imaging.Resize(base, articleW, 0, imaging.Lanczos)
-	if err := imaging.Save(articleImg, pngPath); err != nil {
+	drawRouteOnImage(baseArticle, post.Routes, routeColors, articlePr)
+	if err := imaging.Save(baseArticle, pngPath); err != nil {
 		return nil, fmt.Errorf("save article png: %w", err)
+	}
+	drawRouteOnImage(basePrint, post.Routes, routeColors, printPr)
+	if err := imaging.Save(basePrint, printPath); err != nil {
+		return nil, fmt.Errorf("save print png: %w", err)
 	}
 
 	// 8. SVG: relief background + crisp vector route at article dimensions.
-	articlePr := projector{zoom: zoom, minPX: bounds.MinPX, minPY: bounds.MinPY, cropW: cropW, cropH: cropH, width: float64(articleW), height: float64(articleH)}
 	svgFile, err := os.Create(svgPath)
 	if err != nil {
 		return nil, fmt.Errorf("create svg: %w", err)

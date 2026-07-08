@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"image"
 	"io"
+	"math"
 	"os"
 	"path/filepath"
 	"sort"
@@ -14,18 +15,36 @@ import (
 	"github.com/paulmach/orb"
 )
 
+// lod (level of detail) controls how much the OSM base shows for a given output
+// size, so the small web map and the big print map each get an appropriate
+// density rather than one being a blind enlargement of the other.
+type lod struct {
+	minLabelRank      int     // drop place labels whose priority (z) is below this
+	labelPadPx        float64 // extra collision padding around labels (ref-width px)
+	minFeaturePx      float64 // skip area features smaller than this (output px)
+	showMinorContours bool    // draw minor contours (not just index/major ones)
+}
+
+// Web map: sparser labels (no hamlets), roomy spacing, tiny features dropped,
+// only bold index contours.
+var lodWeb = lod{minLabelRank: 60, labelPadPx: 3.5, minFeaturePx: 4, showMinorContours: false}
+
+// Print map: denser — keep hamlets, small features, and all contour lines.
+var lodPrint = lod{minLabelRank: 50, labelPadPx: 2.0, minFeaturePx: 1.5, showMinorContours: true}
+
 // renderOSMBase styles the OSM layers into an SVG and rasterizes it to an RGBA
 // image at the projector's output size using rsvg-convert. The result is the
-// "normal" map surface, which is later shaded by the hillshade.
-func renderOSMBase(data *osmData, pr projector, tmpDir string) (image.Image, error) {
-	svgPath := filepath.Join(tmpDir, "osm.svg")
-	pngPath := filepath.Join(tmpDir, "osm.png")
+// "normal" map surface, which is later shaded by the hillshade. tag makes the
+// temp filenames unique so the article and print passes don't collide.
+func renderOSMBase(data *osmData, contours []contourLine, pr projector, tmpDir, tag string, l lod) (image.Image, error) {
+	svgPath := filepath.Join(tmpDir, "osm_"+tag+".svg")
+	pngPath := filepath.Join(tmpDir, "osm_"+tag+".png")
 
 	f, err := os.Create(svgPath)
 	if err != nil {
 		return nil, fmt.Errorf("create osm svg: %w", err)
 	}
-	writeOSMSVG(f, data, pr)
+	writeOSMSVG(f, data, contours, pr, l)
 	if err := f.Close(); err != nil {
 		return nil, err
 	}
@@ -45,10 +64,9 @@ func renderOSMBase(data *osmData, pr projector, tmpDir string) (image.Image, err
 
 // writeOSMSVG emits the full styled OSM map (no route, no hillshade) as an SVG
 // in the projector's pixel space, using the painter's-algorithm order.
-func writeOSMSVG(w io.Writer, data *osmData, pr projector) {
+func writeOSMSVG(w io.Writer, data *osmData, contours []contourLine, pr projector, l lod) {
 	width := int(pr.width)
 	height := int(pr.height)
-	scale := pr.scale()
 
 	fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`,
 		width, height, width, height)
@@ -58,9 +76,10 @@ func writeOSMSVG(w io.Writer, data *osmData, pr projector) {
 	// Round joins/caps everywhere read more natural for organic geometry.
 	fmt.Fprintln(w, `<g stroke-linecap="round" stroke-linejoin="round">`)
 
-	writePolygonLayer(w, data.polygons, pr)
-	writeLineLayers(w, data.lines, pr, scale)
-	writeLabelLayer(w, data.points, pr, scale)
+	writePolygonLayer(w, data.polygons, pr, l.minFeaturePx)
+	writeContourLayer(w, contours, pr, l)
+	writeLineLayers(w, data.lines, pr)
+	writeLabelLayer(w, data.points, pr, l)
 
 	fmt.Fprintln(w, `</g>`)
 	fmt.Fprintln(w, `</svg>`)
@@ -68,7 +87,7 @@ func writeOSMSVG(w io.Writer, data *osmData, pr projector) {
 
 // writePolygonLayer draws all area features (fills + protected-area outlines),
 // ordered by z so water and forest sit above farmland, etc.
-func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector) {
+func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector, minFeaturePx float64) {
 	type spec struct {
 		f  osmFeature
 		st fillStyle
@@ -76,9 +95,16 @@ func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector) {
 	}
 	var specs []spec
 	for _, f := range polys {
-		if st, z, ok := polygonSpec(f); ok && inView(f.geom, pr) {
-			specs = append(specs, spec{f, st, z})
+		st, z, ok := polygonSpec(f)
+		if !ok || !inView(f.geom, pr) {
+			continue
 		}
+		// Skip features too small to matter at this output size (declutter),
+		// but never drop water — small ponds/lakes are landmarks worth keeping.
+		if minFeaturePx > 0 && !st.noFill && st.color != "#7FBFEA" && featurePxSize(f.geom, pr) < minFeaturePx {
+			continue
+		}
+		specs = append(specs, spec{f, st, z})
 	}
 	sort.SliceStable(specs, func(i, j int) bool { return specs[i].z < specs[j].z })
 
@@ -89,7 +115,7 @@ func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector) {
 		}
 		if s.st.noFill {
 			fmt.Fprintf(w, `<path d="%s" fill="none" stroke="%s" stroke-width="%.2f" stroke-dasharray="%s" opacity="%.2f"/>`,
-				d, s.st.outlineColor, s.st.outlineWidth*pr.scale(), scaleDash(s.st.outlineDash, pr.scale()), s.st.opacity)
+				d, s.st.outlineColor, s.st.outlineWidth, s.st.outlineDash, s.st.opacity)
 		} else {
 			fmt.Fprintf(w, `<path d="%s" fill="%s" fill-rule="evenodd" opacity="%.2f"/>`, d, s.st.color, s.st.opacity)
 		}
@@ -97,9 +123,67 @@ func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector) {
 	}
 }
 
+// writeContourLayer draws elevation contours as faint brown lines between the
+// landcover and the roads. Minor contours are hair-thin and only shown at print
+// LOD; major (index) contours are slightly bolder. Lines are RDP-simplified to
+// tame the wiggle of the 10m DEM.
+func writeContourLayer(w io.Writer, contours []contourLine, pr projector, l lod) {
+	if len(contours) == 0 {
+		return
+	}
+	eps := 1.5
+	for _, c := range contours {
+		if !c.major && !l.showMinorContours {
+			continue
+		}
+		color, width, opacity := "#AD8A5E", 0.35, 0.32
+		if c.major {
+			color, width, opacity = "#9C744A", 0.7, 0.5
+		}
+		for _, ls := range contourLineStrings(c.geom) {
+			pts := make([][2]float64, 0, len(ls))
+			for _, p := range ls {
+				x, y := pr.projectMercator(p[0], p[1])
+				pts = append(pts, [2]float64{x, y})
+			}
+			pts = rdpSimplify(pts, eps)
+			if len(pts) < 2 {
+				continue
+			}
+			fmt.Fprintf(w, `<polyline points="%s" fill="none" stroke="%s" stroke-width="%.2f" opacity="%.2f"/>`,
+				polylinePoints(pts), color, width, opacity)
+			fmt.Fprintln(w)
+		}
+	}
+}
+
+// contourLineStrings flattens a contour geometry (Line or MultiLine) into raw
+// EPSG:3857 coordinate slices.
+func contourLineStrings(g orb.Geometry) [][][2]float64 {
+	switch geom := g.(type) {
+	case orb.LineString:
+		out := make([][2]float64, len(geom))
+		for i, p := range geom {
+			out[i] = [2]float64{p[0], p[1]}
+		}
+		return [][][2]float64{out}
+	case orb.MultiLineString:
+		var res [][][2]float64
+		for _, ls := range geom {
+			out := make([][2]float64, len(ls))
+			for i, p := range ls {
+				out[i] = [2]float64{p[0], p[1]}
+			}
+			res = append(res, out)
+		}
+		return res
+	}
+	return nil
+}
+
 // writeLineLayers draws line features in bands: waterways, then paths/tracks,
 // then road casings, then road cores, then railways on top.
-func writeLineLayers(w io.Writer, lines []osmFeature, pr projector, scale float64) {
+func writeLineLayers(w io.Writer, lines []osmFeature, pr projector) {
 	type spec struct {
 		f   osmFeature
 		cat lineCategory
@@ -123,36 +207,38 @@ func writeLineLayers(w io.Writer, lines []osmFeature, pr projector, scale float6
 		fmt.Fprintln(w)
 	}
 
-	// Band 1: waterways.
+	// Widths are absolute output pixels (same on the article and print maps, so
+	// the print map is finer detail rather than a 3x enlargement). Roads are
+	// narrowed to roadWidthScale of their nominal weight.
 	for _, s := range specs {
 		if s.cat == catWaterway {
-			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width*scale, scaleDash(s.st.dash, scale), s.st.opacity)
+			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width, s.st.dash, s.st.opacity)
 		}
 	}
 	// Band 2: paths / tracks / cycleways.
 	for _, s := range specs {
 		if s.cat == catPath {
-			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width*scale, scaleDash(s.st.dash, scale), s.st.opacity)
+			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width, s.st.dash, s.st.opacity)
 		}
 	}
 	// Band 3: road casings (drawn beneath cores).
 	for _, s := range specs {
 		if s.cat == catRoad && s.st.casingWidth > 0 {
-			stroke(linePath(s.f.geom, pr), s.st.casingColor, s.st.casingWidth*scale, "", s.st.opacity)
+			stroke(linePath(s.f.geom, pr), s.st.casingColor, s.st.casingWidth*roadWidthScale, "", s.st.opacity)
 		}
 	}
 	// Band 4: road cores.
 	for _, s := range specs {
 		if s.cat == catRoad {
-			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width*scale, scaleDash(s.st.dash, scale), s.st.opacity)
+			stroke(linePath(s.f.geom, pr), s.st.color, s.st.width*roadWidthScale, s.st.dash, s.st.opacity)
 		}
 	}
 	// Band 5: railways (casing then dashed core for the classic look).
 	for _, s := range specs {
 		if s.cat == catRailway {
 			d := linePath(s.f.geom, pr)
-			stroke(d, s.st.color, s.st.width*scale, "", s.st.opacity)
-			stroke(d, s.st.casingColor, s.st.casingWidth*scale, scaleDash(s.st.dash, scale), s.st.opacity)
+			stroke(d, s.st.color, s.st.width, "", s.st.opacity)
+			stroke(d, s.st.casingColor, s.st.casingWidth, s.st.dash, s.st.opacity)
 		}
 	}
 }
@@ -171,7 +257,7 @@ func (a labelBox) overlaps(b labelBox) bool {
 // greedily by priority (peaks/cities first): a label is skipped if its box
 // overlaps one already placed, so dense areas stay legible instead of turning
 // into a wall of overlapping text.
-func writeLabelLayer(w io.Writer, points []osmFeature, pr projector, scale float64) {
+func writeLabelLayer(w io.Writer, points []osmFeature, pr projector, l lod) {
 	type spec struct {
 		text   string
 		x, y   float64
@@ -183,7 +269,7 @@ func writeLabelLayer(w io.Writer, points []osmFeature, pr projector, scale float
 	seen := map[string]bool{}
 	for _, f := range points {
 		text, fontPx, marker, z, ok := placeLabel(f)
-		if !ok {
+		if !ok || z < l.minLabelRank {
 			continue
 		}
 		pt, isPt := f.geom.(orb.Point)
@@ -207,10 +293,12 @@ func writeLabelLayer(w io.Writer, points []osmFeature, pr projector, scale float
 	var placed []labelBox
 	kept := specs[:0]
 	for _, s := range specs {
-		fontSize := s.fontPx * scale
-		// Rough text metrics: average glyph ~0.55em wide, ~1.2em tall.
-		halfW := float64(len([]rune(s.text))) * fontSize * 0.55 / 2
-		halfH := fontSize * 1.2 / 2
+		fontSize := s.fontPx
+		pad := l.labelPadPx
+		// Rough text metrics: average glyph ~0.55em wide, ~1.2em tall, plus a
+		// LOD-controlled padding so labels keep their distance.
+		halfW := float64(len([]rune(s.text)))*fontSize*0.55/2 + pad
+		halfH := fontSize*1.2/2 + pad
 		box := labelBox{s.x - halfW, s.y - halfH, s.x + halfW, s.y + halfH}
 		collides := false
 		for _, p := range placed {
@@ -233,12 +321,12 @@ func writeLabelLayer(w io.Writer, points []osmFeature, pr projector, scale float
 	for _, s := range specs {
 		if s.marker {
 			// Small brown triangle for peaks/viewpoints.
-			r := 3.0 * scale
+			r := 3.0
 			fmt.Fprintf(w, `<path d="M %.1f,%.1f L %.1f,%.1f L %.1f,%.1f Z" fill="#7A5230" stroke="white" stroke-width="%.2f"/>`,
-				s.x, s.y-r, s.x-r*0.9, s.y+r*0.7, s.x+r*0.9, s.y+r*0.7, 0.4*scale)
+				s.x, s.y-r, s.x-r*0.9, s.y+r*0.7, s.x+r*0.9, s.y+r*0.7, 0.4)
 			fmt.Fprintln(w)
 		}
-		fontSize := s.fontPx * scale
+		fontSize := s.fontPx
 		dy := -fontSize * 0.6
 		if s.marker {
 			dy = -fontSize * 0.8
@@ -333,19 +421,13 @@ func inView(g orb.Geometry, pr projector) bool {
 	return x1 >= 0 && x0 <= pr.width && y1 >= 0 && y0 <= pr.height
 }
 
-// scaleDash multiplies each number in an SVG dasharray by scale. Empty stays
-// empty (solid).
-func scaleDash(dash string, scale float64) string {
-	if dash == "" {
-		return ""
-	}
-	parts := strings.Split(dash, ",")
-	for i, p := range parts {
-		if v, err := strconv.ParseFloat(strings.TrimSpace(p), 64); err == nil {
-			parts[i] = strconv.FormatFloat(v*scale, 'f', 2, 64)
-		}
-	}
-	return strings.Join(parts, ",")
+// featurePxSize returns the larger of a geometry's projected bounding-box width
+// and height in output pixels — a cheap proxy for "how big does this draw".
+func featurePxSize(g orb.Geometry, pr projector) float64 {
+	b := g.Bound()
+	x0, y0 := pr.project(b.Min.Lat(), b.Min.Lon())
+	x1, y1 := pr.project(b.Max.Lat(), b.Max.Lon())
+	return math.Max(math.Abs(x1-x0), math.Abs(y1-y0))
 }
 
 // escapeXML escapes the handful of characters that break SVG text content.
