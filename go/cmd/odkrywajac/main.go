@@ -97,6 +97,7 @@ func addFlags(fs *flag.FlagSet) *pipeline.Context {
 	fs.BoolVar(&ctx.DryRun, "dry-run", false, "Check staleness without executing")
 	fs.BoolVar(&ctx.Verbose, "verbose", false, "Verbose output")
 	fs.IntVar(&ctx.Workers, "workers", ctx.Workers, "Number of parallel workers")
+	fs.BoolVar(&ctx.TerrainExtras, "terrain-extras", false, "Also render gradient/photos/seasonal terrain map variants (slow)")
 	return ctx
 }
 
@@ -177,6 +178,10 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 		DTMDir:     a.dtmDir,
 		OSMPBFPath: a.osmPBF,
 		Verbose:    ctx.Verbose,
+		// The standalone command renders every variant for preview/testing.
+		Gradient: true,
+		Photos:   true,
+		Seasonal: true,
 	})
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error rendering terrain map for %s: %v\n", post.Slug, err)

@@ -14,6 +14,9 @@ type Context struct {
 	DryRun   bool
 	Verbose  bool
 	Workers  int
+	// TerrainExtras enables the opt-in terrain map variants (gradient, photos,
+	// seasonal) beyond the default nature map.
+	TerrainExtras bool
 
 	mu      sync.Mutex
 	results map[string]any

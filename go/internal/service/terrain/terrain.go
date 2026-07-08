@@ -43,9 +43,14 @@ type Options struct {
 	Exaggeration  float64 // vertical exaggeration (default 1.4)
 	ShadeStrength float64 // hillshade darkening strength 0..1 (default 0.5)
 	DrawContours  bool    // draw elevation contour lines (default off)
-	MinZoom       int     // clamp for zoom fitting (default 8)
-	MaxZoom       int     // clamp for zoom fitting (default 14)
-	Verbose       bool
+	// Extra map variants beyond the default "nature" map. Each is opt-in
+	// because they add cost (seasonal especially — extra full-res rsvg passes).
+	Gradient bool // route colored by terrain slope
+	Photos   bool // relief + GPS photo thumbnails (Panoramio-style)
+	Seasonal bool // season-derived palette
+	MinZoom  int  // clamp for zoom fitting (default 8)
+	MaxZoom  int  // clamp for zoom fitting (default 14)
+	Verbose  bool
 }
 
 // withDefaults returns a copy of o with zero fields replaced by defaults.
@@ -279,11 +284,13 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		return nil, fmt.Errorf("create output dir: %w", err)
 	}
 
-	// 6b. Per-segment slope for the gradient variant (nil if no 10m data covers
-	//     the route → we then skip that variant, still producing nature).
+	// 6b. Per-segment slope for the gradient variant (nil if disabled or no 10m
+	//     data covers the route → that variant is then skipped).
 	var grads [][]segGradient
-	if sampler, sErr := newElevationSampler(latMin, latMax, lonMin, lonMax, opts.DTMDir); sErr == nil {
-		grads = routeGradients(post, sampler)
+	if opts.Gradient {
+		if sampler, sErr := newElevationSampler(latMin, latMax, lonMin, lonMax, opts.DTMDir); sErr == nil {
+			grads = routeGradients(post, sampler)
+		}
 	}
 
 	// 7. Save the route-free relief base for the SVG background, and clone it for
@@ -297,7 +304,7 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		gradArticle = cloneRGBA(baseArticle)
 		gradPrint = cloneRGBA(basePrint)
 	}
-	if postHasGPSPhotos(post) {
+	if opts.Photos && postHasGPSPhotos(post) {
 		photoArticle = cloneRGBA(baseArticle)
 	}
 
@@ -384,43 +391,46 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 
 	// 11. Seasonal variant: a season-derived, nature-forward palette (roads
 	//     muted). Own relief base (colors differ) but shares the hillshade, OSM
-	//     data and contours.
-	seasonal := seasonalPalette(post.Date.Month())
-	sOsmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "season-web", lodWeb, seasonal)
-	if err != nil {
-		return nil, err
-	}
-	sOsmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "season-print", lodPrint, seasonal)
-	if err != nil {
-		return nil, err
-	}
-	sArticle := compositeShade(sOsmArticle, shadeArticle, opts.ShadeStrength)
-	sPrint := compositeShade(sOsmPrint, shadePrint, opts.ShadeStrength)
+	//     data and contours. The extra full-res rsvg passes make it the most
+	//     expensive variant, so it's opt-in.
+	if opts.Seasonal {
+		seasonal := seasonalPalette(post.Date.Month())
+		sOsmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "season-web", lodWeb, seasonal)
+		if err != nil {
+			return nil, err
+		}
+		sOsmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "season-print", lodPrint, seasonal)
+		if err != nil {
+			return nil, err
+		}
+		sArticle := compositeShade(sOsmArticle, shadeArticle, opts.ShadeStrength)
+		sPrint := compositeShade(sOsmPrint, shadePrint, opts.ShadeStrength)
 
-	sBgURL := router.PostMapPath(post, "-osm-seasonal-bg.png")
-	if err := imaging.Save(sArticle, toFile(sBgURL)); err != nil {
-		return nil, fmt.Errorf("save seasonal bg png: %w", err)
+		sBgURL := router.PostMapPath(post, "-osm-seasonal-bg.png")
+		if err := imaging.Save(sArticle, toFile(sBgURL)); err != nil {
+			return nil, fmt.Errorf("save seasonal bg png: %w", err)
+		}
+		drawRouteOnImage(sArticle, post.Routes, routeColors, articlePr)
+		sPngPath := toFile(router.PostMapPath(post, "-osm-seasonal.png"))
+		if err := imaging.Save(sArticle, sPngPath); err != nil {
+			return nil, fmt.Errorf("save seasonal png: %w", err)
+		}
+		drawRouteOnImage(sPrint, post.Routes, routeColors, printPr)
+		sLargePath := toFile(router.PostMapPath(post, "-osm-seasonal-large.png"))
+		if err := imaging.Save(sPrint, sLargePath); err != nil {
+			return nil, fmt.Errorf("save seasonal large png: %w", err)
+		}
+		sSvgPath := toFile(router.PostMapPath(post, "-osm-seasonal.svg"))
+		sf, err := os.Create(sSvgPath)
+		if err != nil {
+			return nil, fmt.Errorf("create seasonal svg: %w", err)
+		}
+		buildSVG(sf, post.Routes, routeColors, articlePr, sBgURL)
+		sf.Close()
+		res.SeasonalSVGPath = sSvgPath
+		res.SeasonalPNGPath = sPngPath
+		res.SeasonalLargePath = sLargePath
 	}
-	drawRouteOnImage(sArticle, post.Routes, routeColors, articlePr)
-	sPngPath := toFile(router.PostMapPath(post, "-osm-seasonal.png"))
-	if err := imaging.Save(sArticle, sPngPath); err != nil {
-		return nil, fmt.Errorf("save seasonal png: %w", err)
-	}
-	drawRouteOnImage(sPrint, post.Routes, routeColors, printPr)
-	sLargePath := toFile(router.PostMapPath(post, "-osm-seasonal-large.png"))
-	if err := imaging.Save(sPrint, sLargePath); err != nil {
-		return nil, fmt.Errorf("save seasonal large png: %w", err)
-	}
-	sSvgPath := toFile(router.PostMapPath(post, "-osm-seasonal.svg"))
-	sf, err := os.Create(sSvgPath)
-	if err != nil {
-		return nil, fmt.Errorf("create seasonal svg: %w", err)
-	}
-	buildSVG(sf, post.Routes, routeColors, articlePr, sBgURL)
-	sf.Close()
-	res.SeasonalSVGPath = sSvgPath
-	res.SeasonalPNGPath = sPngPath
-	res.SeasonalLargePath = sLargePath
 
 	return res, nil
 }
