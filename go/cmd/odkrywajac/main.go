@@ -140,6 +140,26 @@ func defaultDTMDir() string {
 	return filepath.Join(home, "projects", "llm", "input", "geo", "dtm")
 }
 
+// terrainMapFresh reports whether a post's terrain map is up to date: its
+// output SVG exists and is at least as new as the route source file. When the
+// route source can't be located, it's considered fresh if the output exists, so
+// we don't needlessly re-render every build.
+func terrainMapFresh(ctx *pipeline.Context, post *model.Post) bool {
+	outSVG := filepath.Join(ctx.OutputDir(), filepath.FromSlash(strings.TrimPrefix(router.PostMapPath(post, "-osm-nature.svg"), "/")))
+	outInfo, err := os.Stat(outSVG)
+	if err != nil {
+		return false // no output yet → render
+	}
+	if post.CoordsFile == "" {
+		return true // output exists, no source to compare → keep it
+	}
+	srcInfo, err := os.Stat(filepath.Join(ctx.RoutesDir(), post.CoordsFile))
+	if err != nil {
+		return true
+	}
+	return !outInfo.ModTime().Before(srcInfo.ModTime())
+}
+
 // terrainArgs bundles the terrain-map command inputs.
 type terrainArgs struct {
 	slug      string
@@ -209,8 +229,16 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 	fmt.Printf("Terrain map rendered for %s (zoom %d):\n", post.Slug, result.Zoom)
 	fmt.Printf("  SVG:    %s\n", result.SVGPath)
 	fmt.Printf("  PNG:    %s (%dx%d)\n", result.PNGPath, result.Width, result.Height)
-	fmt.Printf("  Print:  %s (%dx%d)\n", result.PrintPNGPath, result.PrintWidth, result.PrintHeight)
-	fmt.Printf("  Relief: %s\n", result.ReliefPath)
+	fmt.Printf("  Large:  %s (%dx%d)\n", result.LargePNGPath, result.LargeWidth, result.LargeHeight)
+	fmt.Printf("  Bg:     %s\n", result.BgPath)
+	fmt.Printf("  Geo:    %s\n", result.JSONPath)
+
+	profilePath, err := terrain.RenderElevationProfile(post, terrain.Options{OutputDir: ctx.OutputDir(), DTMDir: a.dtmDir})
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Warning: elevation profile for %s: %v\n", post.Slug, err)
+	} else {
+		fmt.Printf("  Elev:   %s\n", profilePath)
+	}
 }
 
 // engineName identifies this renderer in the output dir's .engine marker.
@@ -477,6 +505,48 @@ func runBuild(ctx *pipeline.Context) {
 		if err := writeEngineMarker(ctx); err != nil {
 			fmt.Fprintf(os.Stderr, "Warning: could not write engine marker: %v\n", err)
 		}
+		return nil
+	})
+
+	// Terrain maps run right after the SVG maps, over the same posts. They shell
+	// out to GDAL/osmium/rsvg and are slow, so each post is rendered only when
+	// its route changed (or --force); the whole step is skipped with a message
+	// if the geo toolchain or the OSM/DEM input data isn't present.
+	pipe.Add("renderTerrainMaps", []string{"renderViews", "loadPosts", "loadConfigs"}, func(ctx *pipeline.Context) error {
+		if ctx.DryRun {
+			return nil
+		}
+		opts := terrain.Options{
+			OutputDir:  ctx.OutputDir(),
+			OSMPBFPath: defaultOSMPBF(),
+			DEMDir:     defaultDEMDir(),
+			DTMDir:     defaultDTMDir(),
+			Verbose:    ctx.Verbose,
+		}
+		if err := terrain.CheckAvailable(opts); err != nil {
+			fmt.Printf("Terrain maps: skipped (%v)\n", err)
+			return nil
+		}
+		rendered, fresh, failed := 0, 0, 0
+		for _, post := range posts {
+			if !post.HasRoutes() {
+				continue
+			}
+			if !ctx.Force && terrainMapFresh(ctx, post) {
+				fresh++
+				continue
+			}
+			if _, err := terrain.Render(post, routeColors, opts); err != nil {
+				fmt.Fprintf(os.Stderr, "  terrain %s: %v\n", post.Slug, err)
+				failed++
+				continue
+			}
+			if _, err := terrain.RenderElevationProfile(post, opts); err != nil {
+				fmt.Fprintf(os.Stderr, "  elevation %s: %v\n", post.Slug, err)
+			}
+			rendered++
+		}
+		fmt.Printf("Terrain maps: %d rendered, %d fresh, %d failed\n", rendered, fresh, failed)
 		return nil
 	})
 

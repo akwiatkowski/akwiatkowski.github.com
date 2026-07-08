@@ -142,6 +142,42 @@ func TestFlattenTags(t *testing.T) {
 	}
 }
 
+func TestHaversineKm(t *testing.T) {
+	// ~1° of latitude ≈ 111 km.
+	if d := haversineKm(52, 18, 53, 18); math.Abs(d-111.19) > 1 {
+		t.Errorf("haversineKm 1°lat = %.2f km, want ~111", d)
+	}
+	if d := haversineKm(52, 18, 52, 18); d != 0 {
+		t.Errorf("haversineKm same point = %v, want 0", d)
+	}
+}
+
+func TestFillGaps(t *testing.T) {
+	// Interior gap interpolated linearly over distance.
+	elev := []float64{10, 0, 0, 40}
+	ok := []bool{true, false, false, true}
+	dist := []float64{0, 1, 2, 3}
+	if !fillGaps(elev, ok, dist) {
+		t.Fatal("fillGaps returned false with valid data")
+	}
+	if math.Abs(elev[1]-20) > 1e-9 || math.Abs(elev[2]-30) > 1e-9 {
+		t.Errorf("interior gap = %v, want [_,20,30,_]", elev)
+	}
+
+	// Leading/trailing gaps take the nearest valid value.
+	elev2 := []float64{0, 50, 0}
+	ok2 := []bool{false, true, false}
+	fillGaps(elev2, ok2, []float64{0, 1, 2})
+	if elev2[0] != 50 || elev2[2] != 50 {
+		t.Errorf("edge fill = %v, want [50,50,50]", elev2)
+	}
+
+	// All no-data → false.
+	if fillGaps([]float64{0, 0}, []bool{false, false}, []float64{0, 1}) {
+		t.Error("fillGaps all-nodata should return false")
+	}
+}
+
 func TestBuildGeometry(t *testing.T) {
 	if _, ok := buildGeometry("Point", []byte(`[18.5,53.4]`)); !ok {
 		t.Error("Point failed")

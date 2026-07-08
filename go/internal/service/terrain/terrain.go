@@ -1,14 +1,17 @@
 package terrain
 
 import (
+	"encoding/json"
 	"fmt"
 	"math"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/disintegration/imaging"
 
 	"odkrywajac/internal/model"
+	"odkrywajac/internal/service/router"
 	"odkrywajac/internal/service/svg"
 )
 
@@ -23,7 +26,6 @@ const (
 	defaultMaxZoom       = 14   // beyond ~14 the 30m SRTM adds no real detail
 	defaultShadeStrength = 0.45 // how strongly the hillshade darkens the OSM base
 	defaultOSMMarginDeg  = 0.03
-	outputSubdir         = "mapy-terenowe"
 )
 
 // Options configures a terrain-map render.
@@ -81,22 +83,49 @@ func (o Options) withDefaults() Options {
 type Result struct {
 	SVGPath      string
 	PNGPath      string
-	PrintPNGPath string
-	ReliefPath   string
+	LargePNGPath string
+	BgPath       string
+	JSONPath     string
 	Zoom         int
 	Width        int
 	Height       int
-	PrintWidth   int
-	PrintHeight  int
+	LargeWidth   int
+	LargeHeight  int
 }
 
-// Render produces a shaded-relief route map for a single post and writes the
-// SVG, article PNG, print PNG, and the relief background PNG (referenced by the
-// SVG) under <OutputDir>/mapy-terenowe/<year>/. Existing files are overwritten.
+// CheckAvailable reports whether everything the terrain renderer needs is
+// present: the external tools on PATH (GDAL, osmium, rsvg-convert) and the input
+// data (the OSM PBF and at least one DEM directory). The build uses this to skip
+// terrain rendering with a clear message on machines without the geo toolchain
+// or the large input files, rather than failing the whole build.
+func CheckAvailable(opts Options) error {
+	opts = opts.withDefaults()
+	for _, tool := range []string{"gdalinfo", "gdalwarp", "gdaldem", "gdalbuildvrt", "gdal_translate", "ogr2ogr", "osmium", "rsvg-convert"} {
+		if _, err := findTool(tool); err != nil {
+			return err
+		}
+	}
+	if opts.OSMPBFPath == "" {
+		return fmt.Errorf("no OSM PBF path configured")
+	}
+	if _, err := os.Stat(opts.OSMPBFPath); err != nil {
+		return fmt.Errorf("OSM PBF not found: %s", opts.OSMPBFPath)
+	}
+	_, dtmErr := os.Stat(opts.DTMDir)
+	_, demErr := os.Stat(opts.DEMDir)
+	if dtmErr != nil && demErr != nil {
+		return fmt.Errorf("no DEM directory found (10m %q or SRTM %q)", opts.DTMDir, opts.DEMDir)
+	}
+	return nil
+}
+
+// Render produces a shaded-relief route map for a single post and writes its
+// variants into the shared per-post map dir (router.PostMapPath): the SVG,
+// screen PNG, hi-res "-large" PNG, route-free "-bg" PNG, and a ".json"
+// georeference sidecar. Existing files are overwritten.
 //
-// It is the single entry point shared by the `terrain-map` test command and, in
-// future, a cold-render-path pipeline node — keep all rendering logic here so
-// enabling the batch path is just a matter of calling Render in a loop.
+// It is the single entry point shared by the `terrain-map` test command and the
+// build's renderTerrainMaps step, which calls it per post after the SVG maps.
 func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Options) (*Result, error) {
 	opts = opts.withDefaults()
 
@@ -197,49 +226,105 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	basePrint := compositeShade(osmPrint, shadePrint, opts.ShadeStrength)
 	baseArticle := compositeShade(osmArticle, shadeArticle, opts.ShadeStrength)
 
-	// 6. Output paths.
-	year := post.Date.Year()
-	dir := filepath.Join(opts.OutputDir, outputSubdir, fmt.Sprintf("%d", year))
-	if err := os.MkdirAll(dir, 0o755); err != nil {
+	// 6. Output paths. Per-post map assets share the per-post map dir
+	//    (router.PostMapPath); this is the "osm" source, "nature" style. Format
+	//    is the extension (.svg vector / .png raster / .json georeference);
+	//    "-large" is the hi-res raster; "-bg" is the route-free relief base.
+	svgURL := router.PostMapPath(post, "-osm-nature.svg")
+	pngURL := router.PostMapPath(post, "-osm-nature.png")
+	largeURL := router.PostMapPath(post, "-osm-nature-large.png")
+	bgURL := router.PostMapPath(post, "-osm-nature-bg.png")
+	jsonURL := router.PostMapPath(post, "-osm-nature.json")
+
+	toFile := func(url string) string {
+		return filepath.Join(opts.OutputDir, filepath.FromSlash(strings.TrimPrefix(url, "/")))
+	}
+	svgPath := toFile(svgURL)
+	pngPath := toFile(pngURL)
+	largePath := toFile(largeURL)
+	bgPath := toFile(bgURL)
+	jsonPath := toFile(jsonURL)
+	if err := os.MkdirAll(filepath.Dir(svgPath), 0o755); err != nil {
 		return nil, fmt.Errorf("create output dir: %w", err)
 	}
-	svgPath := filepath.Join(dir, post.Slug+".svg")
-	pngPath := filepath.Join(dir, post.Slug+".png")
-	printPath := filepath.Join(dir, post.Slug+"-print.png")
-	reliefPath := filepath.Join(dir, post.Slug+"-relief.png")
-	reliefURL := fmt.Sprintf("/%s/%d/%s-relief.png", outputSubdir, year, post.Slug)
 
-	// 7. Save the article relief (route-free) for the SVG background, then draw
-	//    the route onto each base for the raster outputs.
-	if err := imaging.Save(baseArticle, reliefPath); err != nil {
-		return nil, fmt.Errorf("save relief png: %w", err)
+	// 7. Save the route-free relief base for the SVG background, then draw the
+	//    route onto each base for the raster outputs.
+	if err := imaging.Save(baseArticle, bgPath); err != nil {
+		return nil, fmt.Errorf("save relief bg png: %w", err)
 	}
 	drawRouteOnImage(baseArticle, post.Routes, routeColors, articlePr)
 	if err := imaging.Save(baseArticle, pngPath); err != nil {
-		return nil, fmt.Errorf("save article png: %w", err)
+		return nil, fmt.Errorf("save screen png: %w", err)
 	}
 	drawRouteOnImage(basePrint, post.Routes, routeColors, printPr)
-	if err := imaging.Save(basePrint, printPath); err != nil {
-		return nil, fmt.Errorf("save print png: %w", err)
+	if err := imaging.Save(basePrint, largePath); err != nil {
+		return nil, fmt.Errorf("save large png: %w", err)
 	}
 
-	// 8. SVG: relief background + crisp vector route at article dimensions.
+	// 8. SVG: relief background + crisp vector route at screen dimensions.
 	svgFile, err := os.Create(svgPath)
 	if err != nil {
 		return nil, fmt.Errorf("create svg: %w", err)
 	}
 	defer svgFile.Close()
-	buildSVG(svgFile, post.Routes, routeColors, articlePr, reliefURL)
+	buildSVG(svgFile, post.Routes, routeColors, articlePr, bgURL)
+
+	// 9. Georeference sidecar so a consumer can map lat/lon → pixel (e.g. to
+	//    append photo pins Panoramio-style over the static map). Bounds are the
+	//    rendered lat/lon extent; a linear interpolation is accurate enough.
+	if err := writeGeoRef(jsonPath, zoom, rLatMin, rLatMax, rLonMin, rLonMax, articleW, articleH, printW, printH); err != nil {
+		return nil, err
+	}
 
 	return &Result{
 		SVGPath:      svgPath,
 		PNGPath:      pngPath,
-		PrintPNGPath: printPath,
-		ReliefPath:   reliefPath,
+		LargePNGPath: largePath,
+		BgPath:       bgPath,
+		JSONPath:     jsonPath,
 		Zoom:         zoom,
 		Width:        articleW,
 		Height:       articleH,
-		PrintWidth:   printW,
-		PrintHeight:  printH,
+		LargeWidth:   printW,
+		LargeHeight:  printH,
 	}, nil
+}
+
+// geoRef is the JSON georeference sidecar: rendered lat/lon bounds plus the
+// available raster pixel sizes. A consumer maps lat/lon → pixel by linear
+// interpolation across bounds (accurate to a few pixels at trip-map scale):
+//
+//	x = (lon - west) / (east - west) * width
+//	y = (north - lat) / (north - south) * height
+type geoRef struct {
+	Zoom   int `json:"zoom"`
+	Bounds struct {
+		South float64 `json:"south"`
+		West  float64 `json:"west"`
+		North float64 `json:"north"`
+		East  float64 `json:"east"`
+	} `json:"bounds"`
+	Sizes struct {
+		Screen [2]int `json:"screen"`
+		Large  [2]int `json:"large"`
+	} `json:"sizes"`
+}
+
+// writeGeoRef writes the georeference sidecar for a rendered map.
+func writeGeoRef(path string, zoom int, south, north, west, east float64, w, h, lw, lh int) error {
+	var g geoRef
+	g.Zoom = zoom
+	g.Bounds.South, g.Bounds.North = south, north
+	g.Bounds.West, g.Bounds.East = west, east
+	g.Sizes.Screen = [2]int{w, h}
+	g.Sizes.Large = [2]int{lw, lh}
+	data, err := json.MarshalIndent(g, "", "  ")
+	if err != nil {
+		return fmt.Errorf("marshal georef: %w", err)
+	}
+	if err := os.WriteFile(path, data, 0o644); err != nil {
+		return fmt.Errorf("write georef: %w", err)
+	}
+	return nil
 }

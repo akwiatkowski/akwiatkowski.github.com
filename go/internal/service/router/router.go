@@ -149,6 +149,19 @@ func (r *Router) ProcessedImageURL(post *model.Post, filename, size, format stri
 		post.Date.Year(), post.Date.Month(), post.Slug, nameWithoutExt, size, format)
 }
 
+// PostMapDir is the single per-post map directory, shared by every per-post map
+// asset (the photo/route SVGs and the terrain map's SVG/PNG variants).
+const PostMapDir = "/mapa_zdjec/wpis/"
+
+// PostMapPath returns the site-absolute path for a per-post map asset. suffix
+// carries the variant's own separator and extension, e.g. ".svg", "_big.svg",
+// "-terrain.svg", "-terrain-print.png". This is the single source of truth for
+// per-post map paths, shared by the photo-map views and the terrain-map
+// generator, so both stay in one place with one naming scheme.
+func PostMapPath(post *model.Post, suffix string) string {
+	return PostMapDir + post.Slug + suffix
+}
+
 // ============================================
 // Static Page URLs
 // ============================================

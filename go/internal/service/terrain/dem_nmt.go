@@ -165,6 +165,29 @@ func gunzipTo(src, dst string, maxBytes int64) error {
 	return nil
 }
 
+// gunzipBytes decompresses src (.gz) fully into memory, refusing to read more
+// than maxBytes (decompression-bomb guard; maxBytes is the known raw size).
+func gunzipBytes(src string, maxBytes int64) ([]byte, error) {
+	in, err := os.Open(src)
+	if err != nil {
+		return nil, err
+	}
+	defer in.Close()
+	gz, err := gzip.NewReader(in)
+	if err != nil {
+		return nil, fmt.Errorf("gunzip %s: %w", src, err)
+	}
+	defer gz.Close()
+	data, err := io.ReadAll(io.LimitReader(gz, maxBytes+1))
+	if err != nil {
+		return nil, fmt.Errorf("read %s: %w", src, err)
+	}
+	if int64(len(data)) > maxBytes {
+		return nil, fmt.Errorf("decompressed %s exceeds expected size %d bytes", src, maxBytes)
+	}
+	return data, nil
+}
+
 // writeRawVRT writes a VRT describing a headerless little-endian int16 grid so
 // GDAL can read it. The geotransform places the top-left pixel at
 // (min_lon, max_lat) with degree-sized steps in WGS84.

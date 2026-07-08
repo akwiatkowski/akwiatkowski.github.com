@@ -102,7 +102,10 @@ internal/
 | `/mapa_zdjec/wojewodztwo/<slug>_small.svg` | `VoivodeshipMapSVGs` | Small voivodeship photo map |
 | `/mapa_zdjec/wpis/<slug>_big.svg` | `PostMapSVGs` | Post photo map with route overlay |
 | `/mapa_zdjec/wpis/<slug>.svg` | `PostMapSVGs` | Post route map (dots + route) |
+| `/mapa_zdjec/wpis/<slug>-terrain.svg` | `terrain` cmd | Post terrain map (route on OSM + hillshade); also `-terrain.png`, `-terrain-print.png`, `-terrain-relief.png` |
 | `/mapa_zdjec/tagu/<tag>.svg` | `TagMapSVGs` | Photos filtered by tag on map |
+
+All per-post map assets share `/mapa_zdjec/wpis/` and are built via `router.PostMapPath` (single source of truth).
 
 ### Shell Pages (JS-heavy, `<div id="root">`)
 

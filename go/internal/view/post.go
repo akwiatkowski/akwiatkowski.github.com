@@ -82,7 +82,7 @@ func PostArticlePage(
 
 	// SVG map and route stats
 	if post.HasRoutes() {
-		articleData.SvgMapURL = fmt.Sprintf("/mapa_zdjec/wpis/%s.svg", post.Slug)
+		articleData.SvgMapURL = router.PostMapPath(post, ".svg")
 
 		if cr, ok := post.RoutesCoordRange(); ok {
 			center := cr.Center()
