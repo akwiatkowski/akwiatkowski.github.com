@@ -5,6 +5,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"time"
 
 	"odkrywajac/internal/model"
 	"odkrywajac/internal/pipeline"
@@ -33,7 +34,11 @@ func NewTerrainMapsNode(posts []*model.Post, routeColors map[string]model.RouteC
 
 func (n *TerrainMapsNode) Name() string { return "renderTerrainMaps" }
 
-// Run renders (or skips as fresh) each routed post's terrain maps.
+// Run renders each routed post's terrain maps. Each render shells out to
+// GDAL/osmium/rsvg and takes tens of seconds, so it prints per-post progress
+// and timing (otherwise the slow, output-less step looks frozen). A post is
+// skipped when its map already exists on disk (see terrainMapExists) unless
+// --force — so a whole-site render only fills in the missing ones.
 func (n *TerrainMapsNode) Run(ctx *pipeline.Context) error {
 	if ctx.DryRun {
 		return nil
@@ -49,15 +54,23 @@ func (n *TerrainMapsNode) Run(ctx *pipeline.Context) error {
 		fmt.Printf("Terrain maps: skipped (%v)\n", err)
 		return nil
 	}
-	rendered, fresh, failed := 0, 0, 0
+
+	var routed []*model.Post
 	for _, post := range n.posts {
-		if !post.HasRoutes() {
+		if post.HasRoutes() {
+			routed = append(routed, post)
+		}
+	}
+
+	rendered, skipped, failed := 0, 0, 0
+	overall := time.Now()
+	for i, post := range routed {
+		if !ctx.Force && terrainMapExists(ctx, post) {
+			skipped++
 			continue
 		}
-		if !ctx.Force && terrainMapFresh(ctx, post) {
-			fresh++
-			continue
-		}
+		fmt.Printf("  terrain [%d/%d] %s …\n", i+1, len(routed), post.Slug)
+		start := time.Now()
 		if _, err := terrain.Render(post, n.routeColors, opts); err != nil {
 			fmt.Fprintf(os.Stderr, "  terrain %s: %v\n", post.Slug, err)
 			failed++
@@ -67,27 +80,18 @@ func (n *TerrainMapsNode) Run(ctx *pipeline.Context) error {
 			fmt.Fprintf(os.Stderr, "  elevation %s: %v\n", post.Slug, err)
 		}
 		rendered++
+		fmt.Printf("             done in %s\n", time.Since(start).Round(time.Millisecond))
 	}
-	fmt.Printf("Terrain maps: %d rendered, %d fresh, %d failed\n", rendered, fresh, failed)
+	fmt.Printf("Terrain maps: %d rendered, %d present, %d failed (%s)\n",
+		rendered, skipped, failed, time.Since(overall).Round(time.Millisecond))
 	return nil
 }
 
-// terrainMapFresh reports whether a post's terrain map is up to date: its output
-// SVG exists and is at least as new as the route source. When the source can't
-// be located, it's considered fresh if the output exists, so we don't needlessly
-// re-render every build.
-func terrainMapFresh(ctx *pipeline.Context, post *model.Post) bool {
+// terrainMapExists reports whether a post's terrain map is already on disk. The
+// terrain render is expensive and rarely changes, so a whole-site build only
+// renders posts whose map is missing; use --force to re-render existing ones.
+func terrainMapExists(ctx *pipeline.Context, post *model.Post) bool {
 	outSVG := filepath.Join(ctx.OutputDir(), filepath.FromSlash(strings.TrimPrefix(router.PostMapPath(post, "-osm-nature.svg"), "/")))
-	outInfo, err := os.Stat(outSVG)
-	if err != nil {
-		return false // no output yet → render
-	}
-	if post.CoordsFile == "" {
-		return true // output exists, no source to compare → keep it
-	}
-	srcInfo, err := os.Stat(filepath.Join(ctx.RoutesDir(), post.CoordsFile))
-	if err != nil {
-		return true
-	}
-	return !outInfo.ModTime().Before(srcInfo.ModTime())
+	_, err := os.Stat(outSVG)
+	return err == nil
 }
