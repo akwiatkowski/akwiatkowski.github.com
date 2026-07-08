@@ -243,6 +243,9 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 	if result.PhotosPNGPath != "" {
 		fmt.Printf("  Photos: %s (+ .json hotspots)\n", result.PhotosPNGPath)
 	}
+	if result.SeasonalSVGPath != "" {
+		fmt.Printf("  Season: %s (+ .png, -large.png)\n", result.SeasonalSVGPath)
+	}
 
 	profilePath, err := terrain.RenderElevationProfile(post, terrain.Options{OutputDir: ctx.OutputDir(), DTMDir: a.dtmDir})
 	if err != nil {

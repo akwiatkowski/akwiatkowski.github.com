@@ -6,6 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 	"testing"
+	"time"
 )
 
 func TestParseRouteColor(t *testing.T) {
@@ -175,6 +176,23 @@ func TestFillGaps(t *testing.T) {
 	// All no-data → false.
 	if fillGaps([]float64{0, 0}, []bool{false, false}, []float64{0, 1}) {
 		t.Error("fillGaps all-nodata should return false")
+	}
+}
+
+func TestSeasonalPalette(t *testing.T) {
+	n := naturePalette()
+	// Summer keeps the nature colors, just mutes infrastructure.
+	summer := seasonalPalette(time.July)
+	if summer.forest != n.forest || summer.water != n.water {
+		t.Error("summer palette should keep nature landcover colors")
+	}
+	if summer.infraOpacity >= n.infraOpacity {
+		t.Error("seasonal should mute infrastructure (lower infraOpacity)")
+	}
+	// Winter recolors landcover (frosted) and differs from nature.
+	winter := seasonalPalette(time.January)
+	if winter.forest == n.forest || winter.farmland == n.farmland {
+		t.Error("winter palette should recolor landcover")
 	}
 }
 

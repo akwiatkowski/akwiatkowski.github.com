@@ -5,11 +5,6 @@ package terrain
 // are classified from their OSM tags into a fill (for areas) or a stroke (for
 // lines), each with a z-index that fixes the painter's-algorithm draw order.
 
-// mapBackground is the paper color drawn under everything (unmapped land).
-// A warm, slightly desaturated paper so the lush greens and vivid water read as
-// the focus rather than fighting the background.
-const mapBackground = "#ECE6D4"
-
 // roadWidthScale narrows every road (highway) line to this fraction of its
 // nominal weight — roads were reading too heavy.
 const roadWidthScale = 0.6
@@ -49,9 +44,11 @@ const (
 	catRailway
 )
 
-// polygonSpec classifies an area feature. z orders draws within the polygon
-// pass (higher = on top). ok is false for features we don't render.
-func polygonSpec(f osmFeature) (style fillStyle, z int, ok bool) {
+// polygonSpec classifies an area feature and colors it from the palette. z
+// orders draws within the polygon pass (higher = on top). ok is false for
+// features we don't render. Built-up land and buildings are faded by the
+// palette's infraOpacity so the seasonal style can push infrastructure back.
+func polygonSpec(f osmFeature, pal palette) (style fillStyle, z int, ok bool) {
 	// Protected areas: outline only, so the landcover beneath stays visible.
 	if f.tag("boundary") == "national_park" || f.tag("boundary") == "protected_area" ||
 		f.tag("leisure") == "nature_reserve" {
@@ -62,99 +59,95 @@ func polygonSpec(f osmFeature) (style fillStyle, z int, ok bool) {
 	landuse := f.tag("landuse")
 	leisure := f.tag("leisure")
 
-	// Water (highest of the fills) — vivid, lush blue.
+	// Water (highest of the fills).
 	if natural == "water" || natural == "bay" || natural == "strait" ||
 		landuse == "reservoir" || landuse == "basin" || f.tag("waterway") == "riverbank" {
-		return fillStyle{color: "#7FBFEA", opacity: 1}, 800, true
+		return fillStyle{color: pal.water, opacity: 1}, 800, true
 	}
 
-	// Forest / wood — deep lush green.
 	if natural == "wood" || landuse == "forest" {
-		return fillStyle{color: "#8FC56E", opacity: 1}, 500, true
+		return fillStyle{color: pal.forest, opacity: 1}, 500, true
 	}
-	// Wetland.
 	if natural == "wetland" {
-		return fillStyle{color: "#A8D6B6", opacity: 1}, 480, true
+		return fillStyle{color: pal.wetland, opacity: 1}, 480, true
 	}
-	// Scrub / heath.
 	if natural == "scrub" {
-		return fillStyle{color: "#AAD182", opacity: 1}, 440, true
+		return fillStyle{color: pal.scrub, opacity: 1}, 440, true
 	}
 	if natural == "heath" || natural == "fell" {
-		return fillStyle{color: "#C6D690", opacity: 1}, 440, true
+		return fillStyle{color: pal.heath, opacity: 1}, 440, true
 	}
-	// Grass / meadow / parkland — bright fresh green.
+	// Grass / meadow / parkland.
 	if landuse == "meadow" || landuse == "grass" || natural == "grassland" ||
 		landuse == "recreation_ground" || landuse == "village_green" ||
 		leisure == "park" || leisure == "garden" || leisure == "pitch" || leisure == "golf_course" {
-		return fillStyle{color: "#BCE092", opacity: 1}, 420, true
+		return fillStyle{color: pal.grass, opacity: 1}, 420, true
 	}
-	// Orchard / vineyard.
 	if landuse == "orchard" || landuse == "vineyard" || landuse == "plant_nursery" {
-		return fillStyle{color: "#B4DB84", opacity: 1}, 410, true
+		return fillStyle{color: pal.orchard, opacity: 1}, 410, true
 	}
-	// Sand / beach.
 	if natural == "sand" || natural == "beach" {
-		return fillStyle{color: "#EEE0B6", opacity: 1}, 400, true
+		return fillStyle{color: pal.sand, opacity: 1}, 400, true
 	}
-	// Farmland — a muted, slightly darker wheat so the pale-yellow roads read
-	// clearly against it (they were too close in brightness before).
 	if landuse == "farmland" {
-		return fillStyle{color: "#DED2A0", opacity: 1}, 300, true
+		return fillStyle{color: pal.farmland, opacity: 1}, 300, true
 	}
 	if landuse == "farmyard" {
-		return fillStyle{color: "#D8C99A", opacity: 1}, 300, true
+		return fillStyle{color: pal.farmyard, opacity: 1}, 300, true
 	}
-	// Cemetery.
 	if landuse == "cemetery" || f.tag("amenity") == "grave_yard" {
-		return fillStyle{color: "#CADAB2", opacity: 1}, 320, true
+		return fillStyle{color: pal.cemetery, opacity: 1}, 320, true
 	}
-	// Built-up land (subtle, low).
+	// Built-up land — faded by the palette so it recedes in the seasonal style.
 	switch landuse {
 	case "residential", "retail":
-		return fillStyle{color: "#E6E0D4", opacity: 1}, 200, true
+		return fillStyle{color: pal.builtupResidential, opacity: pal.infraOpacity}, 200, true
 	case "industrial", "commercial", "garages", "railway":
-		return fillStyle{color: "#E0D8CA", opacity: 1}, 200, true
+		return fillStyle{color: pal.builtupIndustrial, opacity: pal.infraOpacity}, 200, true
 	}
-	// Buildings (above landcover, below roads).
+	// Buildings (above landcover, below roads) — also faded.
 	if f.has("building") {
-		return fillStyle{color: "#D4C4B4", opacity: 1}, 700, true
+		return fillStyle{color: pal.building, opacity: pal.infraOpacity}, 700, true
 	}
 	return fillStyle{}, 0, false
 }
 
-// lineSpec classifies a line feature into a category + style + z-order.
-func lineSpec(f osmFeature) (cat lineCategory, style lineStyle, z int, ok bool) {
+// lineSpec classifies a line feature. Waterways take the palette's water color;
+// roads and railways keep their warm colors but are faded by infraOpacity so
+// the seasonal style de-emphasizes them. Tracks/paths stay full strength (they
+// matter for exploration).
+func lineSpec(f osmFeature, pal palette) (cat lineCategory, style lineStyle, z int, ok bool) {
 	if ww := f.tag("waterway"); ww != "" {
 		switch ww {
 		case "river", "canal":
-			return catWaterway, lineStyle{color: "#7FBFEA", width: 2.2, opacity: 1}, 10, true
+			return catWaterway, lineStyle{color: pal.water, width: 2.2, opacity: 1}, 10, true
 		case "stream", "drain", "ditch":
-			return catWaterway, lineStyle{color: "#8FC7EC", width: 1.0, opacity: 0.9}, 5, true
+			return catWaterway, lineStyle{color: pal.water, width: 1.0, opacity: 0.9}, 5, true
 		}
 	}
 
 	if rw := f.tag("railway"); rw == "rail" || rw == "light_rail" || rw == "narrow_gauge" {
-		return catRailway, lineStyle{color: "#7A7A7A", width: 1.4, opacity: 0.9,
+		return catRailway, lineStyle{color: "#7A7A7A", width: 1.4, opacity: 0.9 * pal.infraOpacity,
 			casingColor: "#FFFFFF", casingWidth: 0.6, dash: "5,5"}, 10, true
 	}
 
+	io := pal.infraOpacity
 	hw := f.tag("highway")
 	switch hw {
 	case "motorway", "motorway_link":
-		return catRoad, lineStyle{color: "#F0A76A", width: 3.6, casingColor: "#C8894E", casingWidth: 4.8, opacity: 1}, 90, true
+		return catRoad, lineStyle{color: "#F0A76A", width: 3.6, casingColor: "#C8894E", casingWidth: 4.8, opacity: io}, 90, true
 	case "trunk", "trunk_link":
-		return catRoad, lineStyle{color: "#F4B77B", width: 3.2, casingColor: "#C99A5A", casingWidth: 4.3, opacity: 1}, 85, true
+		return catRoad, lineStyle{color: "#F4B77B", width: 3.2, casingColor: "#C99A5A", casingWidth: 4.3, opacity: io}, 85, true
 	case "primary", "primary_link":
-		return catRoad, lineStyle{color: "#F6C77B", width: 2.9, casingColor: "#C9A45A", casingWidth: 3.9, opacity: 1}, 80, true
+		return catRoad, lineStyle{color: "#F6C77B", width: 2.9, casingColor: "#C9A45A", casingWidth: 3.9, opacity: io}, 80, true
 	case "secondary", "secondary_link":
-		return catRoad, lineStyle{color: "#F7E08A", width: 2.5, casingColor: "#C9B85A", casingWidth: 3.4, opacity: 1}, 70, true
+		return catRoad, lineStyle{color: "#F7E08A", width: 2.5, casingColor: "#C9B85A", casingWidth: 3.4, opacity: io}, 70, true
 	case "tertiary", "tertiary_link":
-		return catRoad, lineStyle{color: "#FBF3C8", width: 2.1, casingColor: "#CFC488", casingWidth: 2.9, opacity: 1}, 60, true
+		return catRoad, lineStyle{color: "#FBF3C8", width: 2.1, casingColor: "#CFC488", casingWidth: 2.9, opacity: io}, 60, true
 	case "unclassified", "residential", "living_street":
-		return catRoad, lineStyle{color: "#FFFFFF", width: 1.7, casingColor: "#CFCABC", casingWidth: 2.3, opacity: 1}, 50, true
+		return catRoad, lineStyle{color: "#FFFFFF", width: 1.7, casingColor: "#CFCABC", casingWidth: 2.3, opacity: io}, 50, true
 	case "service":
-		return catRoad, lineStyle{color: "#FFFFFF", width: 1.1, casingColor: "#D4CFC2", casingWidth: 1.6, opacity: 1}, 40, true
+		return catRoad, lineStyle{color: "#FFFFFF", width: 1.1, casingColor: "#D4CFC2", casingWidth: 1.6, opacity: io}, 40, true
 	case "track":
 		// Dirt roads: thin, soft light brown, gentle dash — present but not shouty.
 		return catPath, lineStyle{color: "#B39A72", width: 0.9, dash: "3,3", opacity: 0.7}, 30, true

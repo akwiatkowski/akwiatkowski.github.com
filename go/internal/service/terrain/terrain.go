@@ -99,6 +99,10 @@ type Result struct {
 	// Photos variant (empty when the post has no GPS photos / thumbnails).
 	PhotosPNGPath  string
 	PhotosJSONPath string
+	// Seasonal variant (palette derived from the post's month).
+	SeasonalSVGPath   string
+	SeasonalPNGPath   string
+	SeasonalLargePath string
 }
 
 // CheckAvailable reports whether everything the terrain renderer needs is
@@ -223,11 +227,12 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	}
 	shadeArticle := imaging.Resize(shadePrint, articleW, 0, imaging.Lanczos)
 
-	osmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "print", lodPrint)
+	nature := naturePalette()
+	osmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "print", lodPrint, nature)
 	if err != nil {
 		return nil, err
 	}
-	osmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "web", lodWeb)
+	osmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "web", lodWeb, nature)
 	if err != nil {
 		return nil, err
 	}
@@ -358,6 +363,47 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 			res.PhotosJSONPath = pJSONPath
 		}
 	}
+
+	// 11. Seasonal variant: a season-derived, nature-forward palette (roads
+	//     muted). Own relief base (colors differ) but shares the hillshade, OSM
+	//     data and contours.
+	seasonal := seasonalPalette(post.Date.Month())
+	sOsmArticle, err := renderOSMBase(osm, contours, articlePr, tmp, "season-web", lodWeb, seasonal)
+	if err != nil {
+		return nil, err
+	}
+	sOsmPrint, err := renderOSMBase(osm, contours, printPr, tmp, "season-print", lodPrint, seasonal)
+	if err != nil {
+		return nil, err
+	}
+	sArticle := compositeShade(sOsmArticle, shadeArticle, opts.ShadeStrength)
+	sPrint := compositeShade(sOsmPrint, shadePrint, opts.ShadeStrength)
+
+	sBgURL := router.PostMapPath(post, "-osm-seasonal-bg.png")
+	if err := imaging.Save(sArticle, toFile(sBgURL)); err != nil {
+		return nil, fmt.Errorf("save seasonal bg png: %w", err)
+	}
+	drawRouteOnImage(sArticle, post.Routes, routeColors, articlePr)
+	sPngPath := toFile(router.PostMapPath(post, "-osm-seasonal.png"))
+	if err := imaging.Save(sArticle, sPngPath); err != nil {
+		return nil, fmt.Errorf("save seasonal png: %w", err)
+	}
+	drawRouteOnImage(sPrint, post.Routes, routeColors, printPr)
+	sLargePath := toFile(router.PostMapPath(post, "-osm-seasonal-large.png"))
+	if err := imaging.Save(sPrint, sLargePath); err != nil {
+		return nil, fmt.Errorf("save seasonal large png: %w", err)
+	}
+	sSvgPath := toFile(router.PostMapPath(post, "-osm-seasonal.svg"))
+	sf, err := os.Create(sSvgPath)
+	if err != nil {
+		return nil, fmt.Errorf("create seasonal svg: %w", err)
+	}
+	buildSVG(sf, post.Routes, routeColors, articlePr, sBgURL)
+	sf.Close()
+	res.SeasonalSVGPath = sSvgPath
+	res.SeasonalPNGPath = sPngPath
+	res.SeasonalLargePath = sLargePath
+
 	return res, nil
 }
 

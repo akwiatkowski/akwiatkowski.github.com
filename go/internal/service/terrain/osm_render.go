@@ -36,7 +36,7 @@ var lodPrint = lod{minLabelRank: 50, labelPadPx: 2.0, minFeaturePx: 1.5, showMin
 // image at the projector's output size using rsvg-convert. The result is the
 // "normal" map surface, which is later shaded by the hillshade. tag makes the
 // temp filenames unique so the article and print passes don't collide.
-func renderOSMBase(data *osmData, contours []contourLine, pr projector, tmpDir, tag string, l lod) (image.Image, error) {
+func renderOSMBase(data *osmData, contours []contourLine, pr projector, tmpDir, tag string, l lod, pal palette) (image.Image, error) {
 	svgPath := filepath.Join(tmpDir, "osm_"+tag+".svg")
 	pngPath := filepath.Join(tmpDir, "osm_"+tag+".png")
 
@@ -44,7 +44,7 @@ func renderOSMBase(data *osmData, contours []contourLine, pr projector, tmpDir, 
 	if err != nil {
 		return nil, fmt.Errorf("create osm svg: %w", err)
 	}
-	writeOSMSVG(f, data, contours, pr, l)
+	writeOSMSVG(f, data, contours, pr, l, pal)
 	if err := f.Close(); err != nil {
 		return nil, err
 	}
@@ -64,21 +64,21 @@ func renderOSMBase(data *osmData, contours []contourLine, pr projector, tmpDir, 
 
 // writeOSMSVG emits the full styled OSM map (no route, no hillshade) as an SVG
 // in the projector's pixel space, using the painter's-algorithm order.
-func writeOSMSVG(w io.Writer, data *osmData, contours []contourLine, pr projector, l lod) {
+func writeOSMSVG(w io.Writer, data *osmData, contours []contourLine, pr projector, l lod, pal palette) {
 	width := int(pr.width)
 	height := int(pr.height)
 
 	fmt.Fprintf(w, `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d">`,
 		width, height, width, height)
 	fmt.Fprintln(w)
-	fmt.Fprintf(w, `<rect x="0" y="0" width="%d" height="%d" fill="%s"/>`, width, height, mapBackground)
+	fmt.Fprintf(w, `<rect x="0" y="0" width="%d" height="%d" fill="%s"/>`, width, height, pal.bg)
 	fmt.Fprintln(w)
 	// Round joins/caps everywhere read more natural for organic geometry.
 	fmt.Fprintln(w, `<g stroke-linecap="round" stroke-linejoin="round">`)
 
-	writePolygonLayer(w, data.polygons, pr, l.minFeaturePx)
+	writePolygonLayer(w, data.polygons, pr, l.minFeaturePx, pal)
 	writeContourLayer(w, contours, pr, l)
-	writeLineLayers(w, data.lines, pr)
+	writeLineLayers(w, data.lines, pr, pal)
 	writeLabelLayer(w, data.points, pr, l)
 
 	fmt.Fprintln(w, `</g>`)
@@ -87,7 +87,7 @@ func writeOSMSVG(w io.Writer, data *osmData, contours []contourLine, pr projecto
 
 // writePolygonLayer draws all area features (fills + protected-area outlines),
 // ordered by z so water and forest sit above farmland, etc.
-func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector, minFeaturePx float64) {
+func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector, minFeaturePx float64, pal palette) {
 	type spec struct {
 		f  osmFeature
 		st fillStyle
@@ -95,13 +95,13 @@ func writePolygonLayer(w io.Writer, polys []osmFeature, pr projector, minFeature
 	}
 	var specs []spec
 	for _, f := range polys {
-		st, z, ok := polygonSpec(f)
+		st, z, ok := polygonSpec(f, pal)
 		if !ok || !inView(f.geom, pr) {
 			continue
 		}
 		// Skip features too small to matter at this output size (declutter),
 		// but never drop water — small ponds/lakes are landmarks worth keeping.
-		if minFeaturePx > 0 && !st.noFill && st.color != "#7FBFEA" && featurePxSize(f.geom, pr) < minFeaturePx {
+		if minFeaturePx > 0 && !st.noFill && st.color != pal.water && featurePxSize(f.geom, pr) < minFeaturePx {
 			continue
 		}
 		specs = append(specs, spec{f, st, z})
@@ -183,7 +183,7 @@ func contourLineStrings(g orb.Geometry) [][][2]float64 {
 
 // writeLineLayers draws line features in bands: waterways, then paths/tracks,
 // then road casings, then road cores, then railways on top.
-func writeLineLayers(w io.Writer, lines []osmFeature, pr projector) {
+func writeLineLayers(w io.Writer, lines []osmFeature, pr projector, pal palette) {
 	type spec struct {
 		f   osmFeature
 		cat lineCategory
@@ -192,7 +192,7 @@ func writeLineLayers(w io.Writer, lines []osmFeature, pr projector) {
 	}
 	var specs []spec
 	for _, f := range lines {
-		if cat, st, z, ok := lineSpec(f); ok && inView(f.geom, pr) {
+		if cat, st, z, ok := lineSpec(f, pal); ok && inView(f.geom, pr) {
 			specs = append(specs, spec{f, cat, st, z})
 		}
 	}
