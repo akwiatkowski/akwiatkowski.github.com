@@ -179,8 +179,9 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 	}
 	slug := a.slug
 
-	// Route colors come from the shared config; posts carry the route geometry.
-	_, _, _, routeColors, _, err := catalog.LoadAllConfigs(ctx.ConfigDir())
+	// Route colors + photo tags come from the shared config; posts carry the
+	// route geometry.
+	_, _, photoTags, routeColors, _, err := catalog.LoadAllConfigs(ctx.ConfigDir())
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error loading configs: %v\n", err)
 		os.Exit(1)
@@ -190,6 +191,10 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 		fmt.Fprintf(os.Stderr, "Error loading posts: %v\n", err)
 		os.Exit(1)
 	}
+	// Populate published photos + EXIF so the photo-map variant has GPS pins
+	// (the build does this in its loadPhotos node; the standalone command must
+	// do it too).
+	catalog.PopulatePublishedPhotos(posts, exif.NewCache(ctx.ExifCacheDir()), photoTags, ctx.ImagesDir())
 
 	// Match by exact slug first, then by suffix so a short slug (without the
 	// date prefix) still resolves to one post.
@@ -234,6 +239,9 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 	fmt.Printf("  Geo:    %s\n", result.JSONPath)
 	if result.GradientSVGPath != "" {
 		fmt.Printf("  Grad:   %s (+ .png, -large.png)\n", result.GradientSVGPath)
+	}
+	if result.PhotosPNGPath != "" {
+		fmt.Printf("  Photos: %s (+ .json hotspots)\n", result.PhotosPNGPath)
 	}
 
 	profilePath, err := terrain.RenderElevationProfile(post, terrain.Options{OutputDir: ctx.OutputDir(), DTMDir: a.dtmDir})

@@ -96,6 +96,9 @@ type Result struct {
 	GradientSVGPath   string
 	GradientPNGPath   string
 	GradientLargePath string
+	// Photos variant (empty when the post has no GPS photos / thumbnails).
+	PhotosPNGPath  string
+	PhotosJSONPath string
 }
 
 // CheckAvailable reports whether everything the terrain renderer needs is
@@ -266,10 +269,13 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	if err := imaging.Save(baseArticle, bgPath); err != nil {
 		return nil, fmt.Errorf("save relief bg png: %w", err)
 	}
-	var gradArticle, gradPrint *image.RGBA
+	var gradArticle, gradPrint, photoArticle *image.RGBA
 	if grads != nil {
 		gradArticle = cloneRGBA(baseArticle)
 		gradPrint = cloneRGBA(basePrint)
+	}
+	if postHasGPSPhotos(post) {
+		photoArticle = cloneRGBA(baseArticle)
 	}
 
 	// Nature variant: solid route.
@@ -332,7 +338,38 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		res.GradientPNGPath = gPngPath
 		res.GradientLargePath = gLargePath
 	}
+
+	// 10. Photos variant: relief + route + GPS photo thumbnails (Panoramio-
+	//     style), baked into a PNG, with a JSON sidecar of clickable hotspots.
+	//     Screen resolution only (the hotspots refer to that pixel space).
+	if photoArticle != nil {
+		drawRouteOnImage(photoArticle, post.Routes, routeColors, articlePr)
+		hotspots := drawPhotoPins(photoArticle, post, articlePr, opts.OutputDir)
+		if len(hotspots) > 0 {
+			pPngPath := toFile(router.PostMapPath(post, "-osm-photos.png"))
+			pJSONPath := toFile(router.PostMapPath(post, "-osm-photos.json"))
+			if err := imaging.Save(photoArticle, pPngPath); err != nil {
+				return nil, fmt.Errorf("save photos png: %w", err)
+			}
+			if err := writePhotosJSON(pJSONPath, zoom, rLatMin, rLatMax, rLonMin, rLonMax, articleW, articleH, hotspots); err != nil {
+				return nil, err
+			}
+			res.PhotosPNGPath = pPngPath
+			res.PhotosJSONPath = pJSONPath
+		}
+	}
 	return res, nil
+}
+
+// postHasGPSPhotos reports whether a post has at least one published photo with
+// GPS coordinates (i.e. anything to place on a photo map).
+func postHasGPSPhotos(post *model.Post) bool {
+	for _, p := range post.PublishedPhotos {
+		if p.HasGPS() {
+			return true
+		}
+	}
+	return false
 }
 
 // geoRef is the JSON georeference sidecar: rendered lat/lon bounds plus the
