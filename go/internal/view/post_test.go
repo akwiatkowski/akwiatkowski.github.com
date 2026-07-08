@@ -134,12 +134,15 @@ func TestPostArticleReleaseHidesDrafts(t *testing.T) {
 			strings.Contains(html, "draft</strong>"), inSitemap)
 	}
 
-	// Release: draft body blanked, excluded from sitemap; shell (title) stays.
+	// Release: draft body blanked, excluded from sitemap; shell (title) stays
+	// and the "not finished yet" notice replaces the body.
 	if html, inSitemap := render(draft, true); strings.Contains(html, "Secret") || inSitemap {
 		t.Errorf("release draft: leaked body=%v inSitemap=%v (want both false)",
 			strings.Contains(html, "Secret"), inSitemap)
 	} else if !strings.Contains(html, "Draft Post") {
 		t.Error("release draft: page shell (title) should remain")
+	} else if !strings.Contains(html, "Nie przestrasz się") {
+		t.Error("release draft: not-finished notice should be shown in place of body")
 	}
 
 	// Release: ready post unaffected.

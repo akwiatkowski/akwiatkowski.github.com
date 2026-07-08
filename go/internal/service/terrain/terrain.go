@@ -105,6 +105,24 @@ type Result struct {
 	SeasonalLargePath string
 }
 
+// DefaultOSMPBF, DefaultDEMDir, DefaultDTMDir are the conventional locations of
+// the OSM extract and elevation tiles in Olek's input tree. Shared by the
+// build's terrain-maps node and the standalone terrain-map command.
+func DefaultOSMPBF() string { return inputPath("osm", "poland-latest.osm.pbf") }
+func DefaultDEMDir() string { return inputPath("srtm") }
+func DefaultDTMDir() string { return inputPath("geo", "dtm") }
+
+// inputPath joins parts under ~/projects/llm/input (falling back to a relative
+// path if the home dir can't be resolved).
+func inputPath(parts ...string) string {
+	home, err := os.UserHomeDir()
+	base := filepath.Join("projects", "llm", "input")
+	if err == nil {
+		base = filepath.Join(home, base)
+	}
+	return filepath.Join(append([]string{base}, parts...)...)
+}
+
 // CheckAvailable reports whether everything the terrain renderer needs is
 // present: the external tools on PATH (GDAL, osmium, rsvg-convert) and the input
 // data (the OSM PBF and at least one DEM directory). The build uses this to skip

@@ -144,7 +144,7 @@ func RenderSVG(w io.Writer, p SvgMapParams) error {
 		pxMaxX, pxMaxY := LatLonToPixel(p.FixedBounds[0], p.FixedBounds[3], p.Zoom) // SE corner (latMin, lonMax)
 		bounds = MapBounds{MinPX: pxMinX, MaxPX: pxMaxX, MinPY: pxMinY, MaxPY: pxMaxY}
 	} else {
-		bounds = ComputeMapBounds(allPoints, p.Zoom, 80)
+		bounds = ComputeMapBounds(allPoints, p.Zoom, BoundsPadding)
 	}
 
 	cropW := bounds.Width()

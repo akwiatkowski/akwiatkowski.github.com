@@ -89,8 +89,33 @@ func (s *yamlStrava) UnmarshalYAML(value *yaml.Node) error {
 // Example: 2021-07-18-pagorki-przed-zniwami.md
 var filenamePattern = regexp.MustCompile(`^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$`)
 
-// LoadPosts loads all posts from a directory and their route files.
-func LoadPosts(postsDir, routesDir string) ([]*model.Post, error) {
+// LoadPosts loads the renderable posts for a build. When includeHidden is
+// false (release builds) posts tagged "hidden" are dropped, since they must
+// not appear anywhere on the published site. When includeHidden is true (local
+// preview builds) they are kept, so a draft can be previewed at localhost
+// before it is un-hidden. Tools that need to see drafts regardless of build
+// flavor (e.g. missing-posts, which checks which Strava activities already have
+// a post — drafted or published) should use LoadAllPosts instead.
+func LoadPosts(postsDir, routesDir string, includeHidden bool) ([]*model.Post, error) {
+	posts, err := LoadAllPosts(postsDir, routesDir)
+	if err != nil {
+		return nil, err
+	}
+	if includeHidden {
+		return posts, nil
+	}
+	visible := posts[:0]
+	for _, post := range posts {
+		if !post.HasTag("hidden") {
+			visible = append(visible, post)
+		}
+	}
+	return visible, nil
+}
+
+// LoadAllPosts loads every post including hidden drafts, sorted by date
+// descending. The site build must not use this directly — hidden posts leak.
+func LoadAllPosts(postsDir, routesDir string) ([]*model.Post, error) {
 	var mdFiles []string
 	err := filepath.WalkDir(postsDir, func(path string, d os.DirEntry, err error) error {
 		if err != nil {
@@ -131,10 +156,6 @@ func LoadPosts(postsDir, routesDir string) ([]*model.Post, error) {
 	for r := range ch {
 		if r.err != nil {
 			return nil, r.err
-		}
-		// Skip posts tagged "hidden" — they should not appear anywhere
-		if r.post.HasTag("hidden") {
-			continue
 		}
 		posts = append(posts, r.post)
 	}

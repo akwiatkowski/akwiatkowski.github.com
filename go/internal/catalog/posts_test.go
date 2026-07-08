@@ -27,6 +27,56 @@ func devPostsDir(t *testing.T) string {
 	}
 }
 
+// TestLoadPostsHiddenVisibility verifies that the includeHidden flag controls
+// whether posts tagged "hidden" appear in the build: excluded in release
+// (false), kept for local preview (true).
+func TestLoadPostsHiddenVisibility(t *testing.T) {
+	postsDir := t.TempDir()
+	routesDir := t.TempDir()
+
+	visible := `---
+title: "Visible"
+date: 2020-01-01 12:00:00
+tags: [train]
+---
+Body.
+`
+	hidden := `---
+title: "Hidden Draft"
+date: 2020-02-01 12:00:00
+tags: [hidden, train, todo]
+---
+Body.
+`
+	if err := os.WriteFile(filepath.Join(postsDir, "2020-01-01-visible.md"), []byte(visible), 0o644); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(filepath.Join(postsDir, "2020-02-01-hidden.md"), []byte(hidden), 0o644); err != nil {
+		t.Fatal(err)
+	}
+
+	// Release build: hidden drafts must not appear.
+	released, err := LoadPosts(postsDir, routesDir, false)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(released) != 1 {
+		t.Fatalf("includeHidden=false: expected 1 post, got %d", len(released))
+	}
+	if released[0].HasTag("hidden") {
+		t.Errorf("includeHidden=false: hidden post leaked into release build")
+	}
+
+	// Local preview build: hidden drafts are kept.
+	previewed, err := LoadPosts(postsDir, routesDir, true)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(previewed) != 2 {
+		t.Fatalf("includeHidden=true: expected 2 posts, got %d", len(previewed))
+	}
+}
+
 func devRoutesDir(t *testing.T) string {
 	t.Helper()
 	dir, err := os.Getwd()
@@ -50,7 +100,7 @@ func TestLoadPosts(t *testing.T) {
 	postsDir := devPostsDir(t)
 	routesDir := devRoutesDir(t)
 
-	posts, err := LoadPosts(postsDir, routesDir)
+	posts, err := LoadPosts(postsDir, routesDir, false)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -72,7 +122,7 @@ func TestLoadPostFields(t *testing.T) {
 	postsDir := devPostsDir(t)
 	routesDir := devRoutesDir(t)
 
-	posts, err := LoadPosts(postsDir, routesDir)
+	posts, err := LoadPosts(postsDir, routesDir, false)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -122,7 +172,7 @@ func TestLoadPostPhotos(t *testing.T) {
 	postsDir := devPostsDir(t)
 	routesDir := devRoutesDir(t)
 
-	posts, err := LoadPosts(postsDir, routesDir)
+	posts, err := LoadPosts(postsDir, routesDir, false)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -157,7 +207,7 @@ func TestLoadPostRoutes(t *testing.T) {
 	postsDir := devPostsDir(t)
 	routesDir := devRoutesDir(t)
 
-	posts, err := LoadPosts(postsDir, routesDir)
+	posts, err := LoadPosts(postsDir, routesDir, false)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -187,7 +237,7 @@ func TestLoadPostCrossRefs(t *testing.T) {
 	postsDir := devPostsDir(t)
 	routesDir := devRoutesDir(t)
 
-	posts, err := LoadPosts(postsDir, routesDir)
+	posts, err := LoadPosts(postsDir, routesDir, false)
 	if err != nil {
 		t.Fatal(err)
 	}

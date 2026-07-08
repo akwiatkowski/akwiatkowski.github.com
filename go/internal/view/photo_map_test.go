@@ -107,6 +107,48 @@ func TestPostMapSVGs(t *testing.T) {
 	}
 }
 
+// TestPostMapSVGsUnfinished verifies a routed post still gets its route maps
+// even when it is not finished (FinishedAt nil). The post article references
+// the map on HasRoutes() alone, so generation must not require IsFinished().
+func TestPostMapSVGsUnfinished(t *testing.T) {
+	posts := []*model.Post{
+		{
+			Slug:       "2026-06-20-draft-with-route",
+			Title:      "Draft with route",
+			Date:       time.Date(2026, 6, 20, 0, 0, 0, 0, time.UTC),
+			FinishedAt: nil, // unfinished draft
+			TagSlugs:   []string{"bicycle", "todo"},
+			Routes: []model.Route{
+				{
+					Type: "bicycle",
+					Segments: [][]model.LatLon{
+						{{Lat: 52.4, Lon: 16.9}, {Lat: 52.41, Lon: 16.91}},
+					},
+				},
+			},
+		},
+	}
+	cfg := model.SiteConfig{Title: "Test"}
+	data := catalog.BuildSiteData(posts, nil, nil, nil, cfg, nil, nil, nil)
+
+	svgs := PostMapSVGs(data, nil)
+	if len(svgs) != 2 { // big + small, despite being unfinished
+		t.Fatalf("got %d SVGs for unfinished routed post, want 2", len(svgs))
+	}
+
+	// The maps must actually contain the route — not a blank fallback SVG
+	// (regression: collectFilteredMapData used to drop unfinished posts).
+	for _, s := range svgs {
+		var buf bytes.Buffer
+		if err := s.Render(&buf); err != nil {
+			t.Fatal(err)
+		}
+		if !strings.Contains(buf.String(), "photo-map-route") {
+			t.Errorf("map %s for unfinished post is missing its route", s.URL())
+		}
+	}
+}
+
 func TestTagMapSVGs(t *testing.T) {
 	data := testSiteDataForPhotoMaps()
 	svgs := TagMapSVGs(data)

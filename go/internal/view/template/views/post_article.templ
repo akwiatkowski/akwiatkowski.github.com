@@ -17,6 +17,10 @@ type PostArticleData struct {
 	// Rendered markdown HTML (with photo figures already embedded)
 	RenderedMarkdown string
 
+	// NotReady is set for release builds of a not-ready (todo) draft: the body
+	// is withheld and a "not finished yet" notice is shown instead.
+	NotReady bool
+
 	// Links
 	TagLinks  []PostTagLink
 	AreaLinks []PostAreaGroup
@@ -175,7 +179,11 @@ templ PostArticleContent(data PostArticleData) {
 			</div>
 		}
 		<div class="post-content">
-			@templ.Raw(data.RenderedMarkdown)
+			if data.NotReady {
+				@NotReadyNotice()
+			} else {
+				@templ.Raw(data.RenderedMarkdown)
+			}
 		</div>
 		if data.FinishedAtStr != "" {
 			<p class="finished-at">
@@ -204,6 +212,32 @@ templ PostArticleContent(data PostArticleData) {
 			}
 		</div>
 	</article>
+}
+
+// NotReadyNotice is the "post not finished yet" warning shown in place of the
+// body for release builds of a not-ready (todo) draft. Mirrors Crystal's
+// data/layout/post/todo.html.
+templ NotReadyNotice() {
+	<div class="alert alert-warning">
+		<strong>
+			Nie przestrasz się, proszę! Wpis nie został jeszcze dokończony.
+		</strong>
+		<p>Procedura tworzenia wpisów wygląda następująco:</p>
+		<ol>
+			<li>Bycie w terenie - czyli aktywność która zostanie opisana,</li>
+			<li>Utworzenie pustego wpisu - zdjęcie, trasa, informacje o kilometrach, gminach, ...</li>
+			<li>Notatki - strzępki ulotnych informacji w formie listy</li>
+			<li>Tekst wstępny</li>
+			<li>Poprawki w tekście</li>
+			<li>Media - głównie zdjęcia, czasem filmik</li>
+		</ol>
+		<p>
+			Widzisz to, ponieważ niestety jeszcze nie miałem czasu aby napisać
+			i poprawić tekst wpisu. Będę to robił stopniowo gdy pogoda nie będzie
+			sprzyjać wyjazdom. Tymczasem zapraszam na ukończone wpisy na
+			<a href="/"><strong>stronie głównej</strong></a>.
+		</p>
+	</div>
 }
 
 templ PostPagerLink(pager PostPagerData, cssClass string, label string) {
