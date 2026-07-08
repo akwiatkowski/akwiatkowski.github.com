@@ -178,6 +178,22 @@ func TestFillGaps(t *testing.T) {
 	}
 }
 
+func TestGradientColor(t *testing.T) {
+	// Sign-independent (a climb and a descent of equal steepness look the same).
+	if gradientColor(5) != gradientColor(-5) {
+		t.Error("gradientColor should be sign-independent")
+	}
+	// Distinct buckets: flat vs very steep differ, and flat is greener than steep.
+	flat := gradientColor(1)
+	steep := gradientColor(12)
+	if flat == steep {
+		t.Error("flat and steep should map to different colors")
+	}
+	if flat.G <= steep.G || steep.R <= flat.R {
+		t.Errorf("expected flat greener / steep redder: flat=%v steep=%v", flat, steep)
+	}
+}
+
 func TestBuildGeometry(t *testing.T) {
 	if _, ok := buildGeometry("Point", []byte(`[18.5,53.4]`)); !ok {
 		t.Error("Point failed")

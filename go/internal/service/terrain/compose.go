@@ -148,6 +148,14 @@ func sampleLinear(points [][2]float64, spacing float64) [][2]float64 {
 // around mid-grey (128): >1 spreads tones apart so features read more crisply.
 const mapContrast = 1.1
 
+// cloneRGBA returns a deep copy of an RGBA image (so route variants can each
+// draw onto their own copy of the shared relief base).
+func cloneRGBA(src *image.RGBA) *image.RGBA {
+	dst := image.NewRGBA(src.Bounds())
+	copy(dst.Pix, src.Pix)
+	return dst
+}
+
 // compositeShade multiplies the OSM base color by the hillshade brightness so
 // the map surface keeps its identity while gaining terrain relief, then applies
 // a small contrast lift. strength in [0,1] sets how dark the shadows go: the

@@ -3,6 +3,7 @@ package terrain
 import (
 	"encoding/json"
 	"fmt"
+	"image"
 	"math"
 	"os"
 	"path/filepath"
@@ -91,6 +92,10 @@ type Result struct {
 	Height       int
 	LargeWidth   int
 	LargeHeight  int
+	// Gradient variant (empty when no elevation data covered the route).
+	GradientSVGPath   string
+	GradientPNGPath   string
+	GradientLargePath string
 }
 
 // CheckAvailable reports whether everything the terrain renderer needs is
@@ -248,11 +253,26 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		return nil, fmt.Errorf("create output dir: %w", err)
 	}
 
-	// 7. Save the route-free relief base for the SVG background, then draw the
-	//    route onto each base for the raster outputs.
+	// 6b. Per-segment slope for the gradient variant (nil if no 10m data covers
+	//     the route → we then skip that variant, still producing nature).
+	var grads [][]segGradient
+	if sampler, sErr := newElevationSampler(latMin, latMax, lonMin, lonMax, opts.DTMDir); sErr == nil {
+		grads = routeGradients(post, sampler)
+	}
+
+	// 7. Save the route-free relief base for the SVG background, and clone it for
+	//    the gradient variant before the solid route is drawn onto the nature
+	//    bases (drawing mutates in place).
 	if err := imaging.Save(baseArticle, bgPath); err != nil {
 		return nil, fmt.Errorf("save relief bg png: %w", err)
 	}
+	var gradArticle, gradPrint *image.RGBA
+	if grads != nil {
+		gradArticle = cloneRGBA(baseArticle)
+		gradPrint = cloneRGBA(basePrint)
+	}
+
+	// Nature variant: solid route.
 	drawRouteOnImage(baseArticle, post.Routes, routeColors, articlePr)
 	if err := imaging.Save(baseArticle, pngPath); err != nil {
 		return nil, fmt.Errorf("save screen png: %w", err)
@@ -261,23 +281,20 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 	if err := imaging.Save(basePrint, largePath); err != nil {
 		return nil, fmt.Errorf("save large png: %w", err)
 	}
-
-	// 8. SVG: relief background + crisp vector route at screen dimensions.
 	svgFile, err := os.Create(svgPath)
 	if err != nil {
 		return nil, fmt.Errorf("create svg: %w", err)
 	}
-	defer svgFile.Close()
 	buildSVG(svgFile, post.Routes, routeColors, articlePr, bgURL)
+	svgFile.Close()
 
-	// 9. Georeference sidecar so a consumer can map lat/lon → pixel (e.g. to
-	//    append photo pins Panoramio-style over the static map). Bounds are the
-	//    rendered lat/lon extent; a linear interpolation is accurate enough.
+	// 8. Georeference sidecar (shared by all variants — same extent). Lets a
+	//    consumer map lat/lon → pixel (e.g. Panoramio-style photo pins).
 	if err := writeGeoRef(jsonPath, zoom, rLatMin, rLatMax, rLonMin, rLonMax, articleW, articleH, printW, printH); err != nil {
 		return nil, err
 	}
 
-	return &Result{
+	res := &Result{
 		SVGPath:      svgPath,
 		PNGPath:      pngPath,
 		LargePNGPath: largePath,
@@ -288,7 +305,34 @@ func Render(post *model.Post, routeColors map[string]model.RouteColor, opts Opti
 		Height:       articleH,
 		LargeWidth:   printW,
 		LargeHeight:  printH,
-	}, nil
+	}
+
+	// 9. Gradient variant: same relief base, route colored by terrain slope.
+	if grads != nil {
+		gPngPath := toFile(router.PostMapPath(post, "-osm-gradient.png"))
+		gLargePath := toFile(router.PostMapPath(post, "-osm-gradient-large.png"))
+		gSvgPath := toFile(router.PostMapPath(post, "-osm-gradient.svg"))
+
+		drawGradientRouteOnImage(gradArticle, grads, articlePr)
+		if err := imaging.Save(gradArticle, gPngPath); err != nil {
+			return nil, fmt.Errorf("save gradient png: %w", err)
+		}
+		drawGradientRouteOnImage(gradPrint, grads, printPr)
+		if err := imaging.Save(gradPrint, gLargePath); err != nil {
+			return nil, fmt.Errorf("save gradient large png: %w", err)
+		}
+		gf, err := os.Create(gSvgPath)
+		if err != nil {
+			return nil, fmt.Errorf("create gradient svg: %w", err)
+		}
+		buildGradientSVG(gf, grads, articlePr, bgURL)
+		gf.Close()
+
+		res.GradientSVGPath = gSvgPath
+		res.GradientPNGPath = gPngPath
+		res.GradientLargePath = gLargePath
+	}
+	return res, nil
 }
 
 // geoRef is the JSON georeference sidecar: rendered lat/lon bounds plus the

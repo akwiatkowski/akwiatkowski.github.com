@@ -232,6 +232,9 @@ func runTerrainMap(ctx *pipeline.Context, a terrainArgs) {
 	fmt.Printf("  Large:  %s (%dx%d)\n", result.LargePNGPath, result.LargeWidth, result.LargeHeight)
 	fmt.Printf("  Bg:     %s\n", result.BgPath)
 	fmt.Printf("  Geo:    %s\n", result.JSONPath)
+	if result.GradientSVGPath != "" {
+		fmt.Printf("  Grad:   %s (+ .png, -large.png)\n", result.GradientSVGPath)
+	}
 
 	profilePath, err := terrain.RenderElevationProfile(post, terrain.Options{OutputDir: ctx.OutputDir(), DTMDir: a.dtmDir})
 	if err != nil {
