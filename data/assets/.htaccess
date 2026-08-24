@@ -11,7 +11,24 @@
     AddOutputFilterByType DEFLATE image/svg+xml
     AddOutputFilterByType DEFLATE application/rss+xml
     AddOutputFilterByType DEFLATE application/atom+xml
+    AddOutputFilterByType DEFLATE text/markdown
 </IfModule>
+
+# =============================================================================
+# MARKDOWN REPRESENTATIONS (for LLMs and AI agents)
+# =============================================================================
+# Every post is also served as clean CommonMark at the same path with a .md
+# extension. Without an explicit type Apache falls back to a generic type for
+# .md and browsers offer a download instead of displaying it; text/markdown is
+# the registered type (RFC 7763). charset is required — the content is Polish,
+# so it is full of non-ASCII characters.
+#
+# mod_mime is part of the Apache core and is present on OVH shared hosting, so
+# this needs no <IfModule> guard. The HTTP `Link` alternate header and Accept
+# negotiation are deliberately NOT configured here: they depend on mod_headers,
+# whose availability on this host is unverified. The <link rel="alternate"> in
+# each page's <head> advertises the same thing with no server dependency.
+AddType text/markdown;charset=utf-8 .md
 
 # =============================================================================
 # BLOCK HIDDEN AND BACKUP FILES

@@ -158,6 +158,14 @@ func PostArticlePage(
 		NavStats:     navStatsFromIndex(data.NavStats, r, data.TagBySlug),
 	}
 
+	// Advertise the Markdown alternate only when one was actually generated —
+	// a not-ready post in release has no .md file (see views.go), and pointing
+	// at a 404 is worse than staying silent.
+	if !hideBody {
+		page.MarkdownURL = r.PostMarkdownURL(post)
+		articleData.MarkdownURL = r.CanonicalURL(page.MarkdownURL)
+	}
+
 	return NewHTMLPage(url, page, views.PostArticleContent(articleData), !hideBody)
 }
 

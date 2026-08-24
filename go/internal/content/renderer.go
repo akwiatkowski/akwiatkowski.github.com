@@ -55,6 +55,11 @@ type RenderContext struct {
 	TagLookup     TagLookup
 	Links         LinkResolver
 	PhotoTagIcons map[string]string // photo tag slug → icon name
+
+	// Canonical promotes site-relative paths to absolute URLs. Only the
+	// Markdown rendering needs it (see RenderPostMarkdown); HTML rendering
+	// leaves it nil and emits site-relative links as before.
+	Canonical Canonicalizer
 }
 
 // customRenderer renders custom AST nodes to HTML.

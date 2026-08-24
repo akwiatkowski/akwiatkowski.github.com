@@ -33,6 +33,14 @@ func GenerateAllViews(
 			PostArticlePage(data, post, r, resolver, release),
 			PostGalleryPage(data, post, r, resolver),
 		)
+
+		// Markdown alternate for LLMs and AI agents. Unlike the HTML article —
+		// which keeps a page shell carrying a "not finished yet" notice — a
+		// not-ready post gets no .md file at all in release: there is no shell
+		// worth serving, and a draft must not reach an AI consumer as content.
+		if !release || post.IsReady() {
+			all = append(all, PostMarkdownPage(data, post, r))
+		}
 	}
 
 	// Area pages: show, post list, gallery for each area with posts
@@ -102,6 +110,7 @@ func GenerateAllViews(
 		RSSFeed(data, r),
 		AtomFeed(data, r),
 		RobotsTxt(r),
+		LLMsTxt(data, r),
 	)
 
 	// Shell pages (JS-heavy with <div id="root">)

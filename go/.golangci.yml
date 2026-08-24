@@ -63,6 +63,11 @@ issues:
         - gosec
         - unparam
         - gocritic
+    # llms.txt is built from Polish user-facing copy; the US-locale spell
+    # checker flags Polish words that resemble English ones ("adres", "Autor").
+    - path: internal/view/llms\.go
+      linters:
+        - misspell
     # goldmark parser interface requires unused parameters
     - path: internal/markdown/
       linters:

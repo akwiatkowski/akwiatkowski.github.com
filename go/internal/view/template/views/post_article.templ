@@ -21,6 +21,12 @@ type PostArticleData struct {
 	// is withheld and a "not finished yet" notice is shown instead.
 	NotReady bool
 
+	// MarkdownURL is the absolute URL of this post's clean-CommonMark version.
+	// Rendered as a visually-hidden pointer so a model receiving the page text
+	// (someone pasting the URL into an AI chat) can fetch the clean version
+	// instead of parsing the full page. Empty when no .md was generated.
+	MarkdownURL string
+
 	// Links
 	TagLinks  []PostTagLink
 	AreaLinks []PostAreaGroup
@@ -112,6 +118,13 @@ templ HeroHeader(data PostArticleData) {
 }
 
 templ PostArticleContent(data PostArticleData) {
+	if data.MarkdownURL != "" {
+		// aria-hidden as well as visually hidden: this is a machine-readable
+		// hint, not content, and a screen reader announcing it would be noise.
+		<div class="visually-hidden" aria-hidden="true">
+			{ fmt.Sprintf("A Markdown version of this page is available at %s", data.MarkdownURL) }
+		</div>
+	}
 	if data.HeroImageURL != "" {
 		@HeroHeader(data)
 	}

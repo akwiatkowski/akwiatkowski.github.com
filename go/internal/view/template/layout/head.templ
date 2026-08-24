@@ -12,6 +12,9 @@ templ Head(p PageData) {
 		if p.Desc != "" {
 			<meta name="description" content={ p.Desc }/>
 		}
+		if p.MarkdownURL != "" {
+			<link rel="alternate" type="text/markdown" href={ templ.SafeURL(p.MarkdownURL) } title="Markdown"/>
+		}
 		if p.ExtraHead != "" {
 			@templ.Raw(p.ExtraHead)
 		}

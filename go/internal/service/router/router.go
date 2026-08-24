@@ -116,6 +116,19 @@ func (r *Router) PostURL(post *model.Post) string {
 		post.Date.Year(), post.Date.Month(), post.Slug[8:])
 }
 
+// PostMarkdownURL returns the Markdown representation of a post article:
+// /<year>/<month>/<day>-<name>.md — the same path as PostURL with the .html
+// extension swapped. Keeping the two paths identical apart from the extension
+// is what lets a consumer guess one from the other, and what the
+// <link rel="alternate"> in the page head advertises.
+func (r *Router) PostMarkdownURL(post *model.Post) string {
+	return strings.TrimSuffix(r.PostURL(post), ".html") + ".md"
+}
+
+// LLMsTxtURL returns the path of the llms.txt site index for LLMs and AI
+// agents (llmstxt.org).
+func (r *Router) LLMsTxtURL() string { return "/llms.txt" }
+
 // PostGalleryURL returns the post gallery URL: /galeria/<year>/<month>/<day>-<name>.html
 // This mirrors PostURL under the /galeria/ prefix — the scheme Crystal ships in
 // production (and the one the e2e suite encodes), so existing links stay stable.

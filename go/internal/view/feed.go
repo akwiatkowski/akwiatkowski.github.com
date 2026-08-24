@@ -197,8 +197,17 @@ func Sitemap(all []Renderable, rtr *router.Router) Renderable {
 // RobotsTxt creates a Renderable for robots.txt.
 func RobotsTxt(rtr *router.Router) Renderable {
 	return NewRawEndpoint(rtr.RobotsURL(), false, func(w io.Writer) error {
-		content := fmt.Sprintf("User-agent: *\nAllow: /\nSitemap: %s\n",
-			rtr.CanonicalURL(rtr.SitemapURL()))
+		// Content-Signal (Cloudflare, CC0) states three orthogonal permissions
+		// that robots.txt alone cannot express: appearing in search results,
+		// being used as live context by an AI assistant, and being used as
+		// training data. All three are granted here. Strict robots.txt
+		// validators warn about the unknown directive; that is expected and
+		// harmless — RFC 9309 requires parsers to ignore lines they do not
+		// recognize.
+		content := fmt.Sprintf(
+			"User-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=yes\nAllow: /\nSitemap: %s\n",
+			rtr.CanonicalURL(rtr.SitemapURL()),
+		)
 		_, err := io.WriteString(w, content)
 		return err
 	})

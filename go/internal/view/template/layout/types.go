@@ -13,6 +13,11 @@ type PageData struct {
 	ImageURL     string // og:image URL
 	SiteName     string // site name for og:site_name
 
+	// MarkdownURL is the clean-CommonMark alternate of this page, advertised
+	// to LLMs and AI agents via <link rel="alternate" type="text/markdown">.
+	// Empty for pages that have no Markdown form (index and shell pages).
+	MarkdownURL string
+
 	// Resolved asset files
 	CSSFiles []bundle.AssetFile
 	JSFiles  []bundle.AssetFile
