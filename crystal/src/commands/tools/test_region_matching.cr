@@ -8,9 +8,11 @@ class Commands::Tools::TestRegionMatching
 
     puts "Stats: #{matcher.stats}"
 
-    # Test single point
-    puts "\n--- Testing single point (52.492, 17.206) ---"
-    result = matcher.match_point(52.492009, 17.206358)
+    # Test single point — Gniezno's Rynek, a public landmark that sits inside
+    # overlapping town, county, voivodeship and region polygons, so every
+    # matcher level returns something and a silent regression is visible.
+    puts "\n--- Testing single point (Gniezno, Rynek) ---"
+    result = matcher.match_point(52.534800, 17.592600)
     puts "Towns: #{result.towns.map(&.name)}"
     puts "Counties: #{result.counties.map(&.name)}"
     puts "Voivodeships: #{result.voivodeships.map(&.name)}"
