@@ -82,6 +82,54 @@ func TestMapJSON(t *testing.T) {
 	}
 }
 
+// TestMapJSONIncludesUnfinishedPosts pins the route map's own visibility rule:
+// every post with route data is drawn, finished or not, except hidden drafts.
+func TestMapJSONIncludesUnfinishedPosts(t *testing.T) {
+	route := []model.Route{
+		{Type: "bicycle", Segments: [][]model.LatLon{{{Lat: 53.7, Lon: 20.5}, {Lat: 53.8, Lon: 20.6}}}},
+	}
+	posts := []*model.Post{
+		{
+			Slug:   "2026-06-19-unfinished",
+			Title:  "Unfinished draft",
+			Date:   time.Date(2026, 6, 19, 0, 0, 0, 0, time.UTC),
+			Routes: route,
+		},
+		{
+			Slug:     "2026-06-20-hidden",
+			Title:    "Hidden draft",
+			Date:     time.Date(2026, 6, 20, 0, 0, 0, 0, time.UTC),
+			TagSlugs: []string{"hidden"},
+			Routes:   route,
+		},
+		{
+			Slug:  "2026-06-21-no-route",
+			Title: "No route",
+			Date:  time.Date(2026, 6, 21, 0, 0, 0, 0, time.UTC),
+		},
+	}
+	data := catalog.BuildSiteData(posts, nil, nil, nil,
+		model.SiteConfig{Title: "Test", URL: "https://example.com"},
+		nil, nil, nil,
+	)
+
+	var buf bytes.Buffer
+	if err := MapJSON(data, router.New("https://example.com")).Render(&buf); err != nil {
+		t.Fatal(err)
+	}
+
+	json := buf.String()
+	if !strings.Contains(json, "2026-06-19-unfinished") {
+		t.Error("map JSON should include an unfinished post that has route data")
+	}
+	if strings.Contains(json, "2026-06-20-hidden") {
+		t.Error("map JSON must not include a post tagged hidden")
+	}
+	if strings.Contains(json, "2026-06-21-no-route") {
+		t.Error("map JSON must not include a post without route data")
+	}
+}
+
 func TestPhotosJSON(t *testing.T) {
 	data := testSiteDataWithPhotos()
 	rtr := router.New("https://example.com")

@@ -84,6 +84,10 @@ func E2EJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 }
 
 // MapJSON creates a JSON endpoint for the route map page.
+//
+// Membership is decided by Post.IsRouteVisibleOnMap: every post with plotted
+// points is drawn, finished or not, except hidden drafts. This is the one
+// endpoint that intentionally ignores IsFinished().
 func MapJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 	type routeSegment struct {
 		Type  string       `json:"type"`
@@ -108,10 +112,7 @@ func MapJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 
 	result := mapData{}
 	for _, post := range data.Posts {
-		if !post.IsFinished() {
-			continue
-		}
-		if !hasRouteData(post) {
+		if !post.IsRouteVisibleOnMap() {
 			continue
 		}
 
@@ -503,18 +504,6 @@ func IdeasJSON(data *catalog.SiteData, rtr *router.Router) Renderable {
 		Towns: towns,
 		Ideas: ideas,
 	})
-}
-
-// hasRouteData returns true if the post has any GPS route segments.
-func hasRouteData(post *model.Post) bool {
-	for _, route := range post.Routes {
-		for _, seg := range route.Segments {
-			if len(seg) > 0 {
-				return true
-			}
-		}
-	}
-	return false
 }
 
 // RouteColorsJS generates /js/self/route_colors.js from the route colors config.

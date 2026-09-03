@@ -72,6 +72,32 @@ func (p *Post) IsReady() bool {
 	return !p.HasTag("todo")
 }
 
+// IsRouteVisibleOnMap reports whether this post's GPS track belongs on the
+// site-wide route map (/mapa_tras.html).
+//
+// The map is the complete travel history, so — unlike galleries, feeds and the
+// homepage — it deliberately does NOT require IsFinished(): an unfinished
+// write-up still rode a real route. Only two things disqualify a post: the
+// "hidden" tag (drafts that must not surface anywhere; release builds already
+// drop them in catalog.LoadPosts, local builds keep them in SiteData) and
+// having no plotted points at all.
+//
+// Stricter than HasRoutes(), which only inspects the first route: a post can
+// carry several routes where the first one parsed empty.
+func (p *Post) IsRouteVisibleOnMap() bool {
+	if p.HasTag("hidden") {
+		return false
+	}
+	for _, route := range p.Routes {
+		for _, seg := range route.Segments {
+			if len(seg) > 0 {
+				return true
+			}
+		}
+	}
+	return false
+}
+
 // Year returns the post's year.
 func (p *Post) Year() int {
 	return p.Date.Year()

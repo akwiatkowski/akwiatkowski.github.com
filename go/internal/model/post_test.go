@@ -95,6 +95,38 @@ func TestPostIsReady(t *testing.T) {
 	}
 }
 
+func TestPostIsRouteVisibleOnMap(t *testing.T) {
+	withRoute := []Route{
+		{Type: "bicycle", Segments: [][]LatLon{{{Lat: 52.4, Lon: 16.9}}}},
+	}
+
+	// Unfinished draft with a real track — the route map shows it anyway.
+	if !(&Post{Routes: withRoute}).IsRouteVisibleOnMap() {
+		t.Error("unfinished post with route data should be visible on the map")
+	}
+	// Hidden drafts must not surface anywhere.
+	if (&Post{TagSlugs: []string{"hidden"}, Routes: withRoute}).IsRouteVisibleOnMap() {
+		t.Error("post tagged hidden should not be visible on the map")
+	}
+	// Nothing to draw.
+	if (&Post{}).IsRouteVisibleOnMap() {
+		t.Error("post without routes should not be visible on the map")
+	}
+	// A route whose segments are all empty is still nothing to draw.
+	empty := []Route{{Type: "bicycle", Segments: [][]LatLon{{}}}}
+	if (&Post{Routes: empty}).IsRouteVisibleOnMap() {
+		t.Error("post with empty route segments should not be visible on the map")
+	}
+	// Later routes count too — HasRoutes() only inspects the first.
+	mixed := []Route{
+		{Type: "bicycle", Segments: [][]LatLon{{}}},
+		{Type: "train", Segments: [][]LatLon{{{Lat: 52.4, Lon: 16.9}}}},
+	}
+	if !(&Post{Routes: mixed}).IsRouteVisibleOnMap() {
+		t.Error("post whose second route carries the points should be visible")
+	}
+}
+
 func TestPostYear(t *testing.T) {
 	p := &Post{Date: time.Date(2021, 7, 18, 0, 0, 0, 0, time.UTC)}
 	if p.Year() != 2021 {
